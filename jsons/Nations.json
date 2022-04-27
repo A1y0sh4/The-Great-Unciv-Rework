@@ -118,7 +118,7 @@
 		"outerColor": [ 236, 178, 0],
 		"innerColor": [0,0,0],
 		"uniqueName": "Enlightened Sovereign",
-		"uniques": ["[+1 Science, +1 Culture] from every specialist [in all cities connected to capital]", "[-50]% Food consumption by specialists [in all cities connected to capital]", "[+3]% Production from every [Barracks] when constructing [Melee] units"],
+		"uniques": ["[+1 Science, +1 Culture] from every specialist [in all cities connected to capital]", "[-50]% Food consumption by specialists [in all cities connected to capital]", "[+15]% Production when constructing [Melee] units <when at war>"],
 		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",

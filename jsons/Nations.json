@@ -171,7 +171,7 @@
 		"outerColor": [215,225,225],
 		"innerColor": [185,0,0],
 		"uniqueName": "Bushido",
-		"uniques": ["Damage is ignored when determining unit Strength <for [All] units>","[+1 Culture] from every [Fishing Boats]"],
+		"uniques": ["Units fight as though they were at full strength even when damaged","[+1 Culture] from every [Fishing Boats]"],
 		"cities": ["Kyoto","Osaka","Tokyo","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
 			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
 			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",

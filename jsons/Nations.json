@@ -319,7 +319,7 @@
 		"hateHello": "It's you.",
 		"tradeRequest": "France offers you this exceptional proposition.",
 		"outerColor": [ 38, 98, 255],
-		"innerColor": [239,236,148],
+		"innerColor": [239, 236,148],
 		"uniqueName": "Ancient Regime",
 		"uniques": ["[+1 Culture, +1 Science] from all [Culture] buildings","[+1] Movement <for [Melee] units>"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",

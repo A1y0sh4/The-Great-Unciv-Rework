@@ -78,7 +78,7 @@
 		"name": "The Netherlands",
 		"leaderName": "William I",
 		"adjective": ["Dutch"],
-		"startBias": ["Coast","Marsh","Flood plains"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Hail stalwart Prince William of Orange, liberator of the Netherlands and hero to the Dutch people. It was your courageous effort in the 1568 rebellion against Spanish dominion that led the Dutch to freedom, and ultimately resulted in the Eighty Years' War. Your undertaking allowed for the creation of one of Europe's first modern republics, the Seven United Provinces. You gave your life to the rebellion, falling at the hands of an assassin in 1584, but your death would only serve to embolden the people's charge, and your legacy as 'Father of the Fatherland' will stand as a symbol of Dutch independence for all time.",
@@ -93,7 +93,7 @@
 		"outerColor": [254,135,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Dutch East India Company",
-		"uniques": ["[+2 Gold] from every [Luxury resource]","[+1 Production] from every [Coast]"],
+		"uniques": ["[+2 Gold] from every [Luxury resource]","[+2 Production] [in all costal cities]"],
 		"cities": ["Amsterdam","Rotterdam","Utrecht","Groningen","Breda","Nijimegen","Den Haag","Haarlem","Arnhem","Zutphen",
 			"Maastricht","Tilburg","Eindhoven","Dordrecht","Leiden","Hertogenbosch","Almere","Alkmaar","Brielle","Vlissingen",
 			"Apeldoorn","Nova Enschede","Sao Bernardo do Amersfoort","Zwolle","Venlo","Uden","Grave","Delft","Gouda","Nieuwstadt",

@@ -278,4 +278,29 @@
 			"Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",
 			  "Agrippina","Verona","Corfinium","Treverii","Sirmium","Augustadorum","Curia","Interrama","Adria"]
 	},
+	{
+		"name": "Greece",
+		"leaderName": "Alexander",
+		"adjective": ["Greek"],
+		"preferredVictoryType":"Domination",
+		
+		"startIntroPart1": "May the blessings of the gods be upon you, oh great King Alexander! You are the ruler of the mighty Greek nation. Your people lived for so many years in isolated city-states - legendary cities such as Athens, Sparta, Thebes - where they gave the world many great things, such as democracy, philosophy, ragedy, art and architecture, the very foundation of Western Civilization. Although few in number and often hostile to each other, in the 5th century BC they were able to defeat their much larger neighbor, Persia, on land and sea.",
+		"startIntroPart2": "Alexander, your people stand ready to march to war, to spread the great Greek culture to millions and to bring you everlasting glory. Are you ready to accept your destiny, King Alexander? Will you lead your people to triumph and greatness? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "You are a threat to democracy. Therefore, i must dispose of you from this world!",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger! I am Pericles, son of Athens!",
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+		"tradeRequest": "My friend, does this seem reasonable to you?",		
+		"outerColor": [181, 232, 232],
+		"innerColor": [68,142,249],
+		"uniqueName": "Hellenic League",
+		"uniques": ["[+15]% Strength <for [Melee] units> <when adjacent to a [Military] unit>", "[+1 Happiness] from all [Culture] buildings", "Allied City-States provide Gold equal to [25]% of what they produce for themselves"],
+		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
+			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
+			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon",
+			"Larissa","Apollonia","Messene","Orchomenos","Ambracia","Kos","Knidos","Amphipolis",
+			"Patras","Lamia","Nafplion","Apolyton"]
+	}
 	]

@@ -42,7 +42,7 @@
 		"outerColor": [22,101,63],
 		"innerColor": [148,170,255],
 		"uniqueName": "Druidic Lore",
-		"uniques": ["Earn [10]% of killed [Military] unit's [Cost] as [Faith]", "[+1 Faith] from every [Forest]", "[+1 Production, +1 Gold] from every [Fort]"],
+		"uniques": ["Earn [10]% of killed [Military] unit's [Strength] as [Faith]", "[+1 Faith] from every [Forest]", "[+1 Production, +1 Gold] from every [Fort]"],
 		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth","Penzance",
 			"Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen","Belfast",
 			"Caernafon","Newquay","Saint-Nazarre","Castletown","Stirling","Galway","Conwy","St. Austell","Saint-Malo",

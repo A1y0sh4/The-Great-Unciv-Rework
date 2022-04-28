@@ -221,7 +221,7 @@
 		"outerColor": [39,59,146],
 		"innerColor": [250,250,27],
 		"uniqueName": "Nobel Prize",
-		"uniques": ["When declaring friendship, both parties gain a [10]% boost to great people generation","Upon capturing a city, receive [10] times its [Science] production as [Science] immediately"],
+		"uniques": ["When declaring friendship, both parties gain a [10]% boost to great person generation","Upon capturing a city, receive [10] times its [Science] production as [Science] immediately"],
 		"cities": ["Stockholm","Sigtuna","Helsinki","Birka","Uppsala","Turku","Linköping","Lund","Espoo","Malmö",
 			"Vantaa","Visby","Strängnäs","Tampere","Skara","Lödöse","Oulu","Växjö","Jyväskylä","Gothenburg",
 			"Örebro","Lahti","Helsingborg","Jönköping","Kuopio","Norrköping","Sundsvall","Kouvola","Karlstad","Umeå",

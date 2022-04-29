@@ -370,7 +370,7 @@
 		"outerColor": [245,248,185],
 		"innerColor": [18,84,30],
 		"uniqueName": "Barbary Corsairs",
-		"uniques": ["[+15]% Strength <for [All] units> <when attacking> <vs cities>", "Earn [90]% of killed [Water] unit's [Strength] as [Gold]", "[+2 Culture, +2 Faith, +2 Production] from every [Courthouse]"],
+		"uniques": ["[+15]% Strength <for [All] units> <when attacking> <vs cities>", "Earn [90]% of killed [Water] unit's [Strength] as [Gold]", "[+3 Culture, +3 Faith] from every [Courthouse]"],
 		"cities": ["Kostantiniyye","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyabakir","Izmir","Kayseri","Malatya",
 			"Marsin","Antalya","Zonguldak","Denizli","Ordu","Mugia","Eskishehir","Inebolu","Sinop","Adana","Artuin",
 			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarhisar",

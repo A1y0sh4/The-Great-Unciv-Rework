@@ -346,7 +346,7 @@
 		"outerColor": [ 114, 0, 0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Sun Never Sets",
-		"uniques": ["[+1] Movement <for [Water] units>", "[+15]% Strength <for [Water] units>", "[+2 Science, +2 Gold] from every [Strategic resource] <after discovering [Chivalry]>"],
+		"uniques": ["[+1] Movement <for [Water] units>", "[+15]% Strength <for [Water] units>", "[+2 Science, +2 Gold] from every [Strategic resource] <after discovering [Civil Service]>"],
 		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",

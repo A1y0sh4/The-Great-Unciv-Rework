@@ -351,5 +351,29 @@
 			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
 			"Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"]
+	},
+	{
+		"name": "The Ottomans",
+		"leaderName": "Suleiman I",
+		"adjective": ["Ottoman"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Blessings of God be upon you, oh Great Emperor Suleiman! Your power, wealth and generosity awe the world! Truly, are you called 'Magnificent!' Your empire began in Bithynia, a small country in Eastern Anatolia in 12th century. Taking advantage in the decline of the great Selkuj Sultanate of Rum, King Osman I of Bithynia expanded west into Anatolia. Over the next century, your subjects brought down the empire of Byzantium, taking its holdings in Turkey and then the Balkans. In the mid 15th century, the Ottomans captured ancient Constantinople, gaining control of the strategic link between Europe and the Middle East. Your people's empire would continue to expand for centuries governing much of North Africa, the Middle East and Eastern Europe at its height.",
+		"startIntroPart2": "Mighty Sultan, heed the call of your people! Bring your empire back to the height of its power and glory and once again the world will look upon your greatness with awe and admiration! Will you accept the challenge, great emperor? Will you build an empire that will stand the test of time?",
+		"declaringWar": "Your continued insolence and failure to recognize and preeminence leads us to war.",
+		"attacked": "Good. The world shall witness the incontestable might of my armies and the glory of the Empire.",
+		"defeated": "Ruin! Ruin! Istanbul becomes Iram of the Pillars, remembered only by the melancholy poets.",
+		"introduction": "From the magnificence of Topkapi, the Ottoman nation greets you, stranger! I'm Suleiman, Kayser-I Rum, and I bestow upon you my welcome!",
+		"neutralHello": "Greetings!",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Let us do business! Would you be interested?",
+		"outerColor": [245,248,185],
+		"innerColor": [18,84,30],
+		"uniqueName": "Barbary Corsairs",
+		"uniques": ["[66]% maintenance costs <for [Water] units>","When defeating a [{Barbarian} {Water}] unit, earn [25] Gold and recruit it <with [50]% chance>"],
+		"cities": ["Kostantiniyye","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyabakir","Izmir","Kayseri","Malatya",
+			"Marsin","Antalya","Zonguldak","Denizli","Ordu","Mugia","Eskishehir","Inebolu","Sinop","Adana","Artuin",
+			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarhisar",
+			"Bitlis","Yalova"]
 	}
 	]

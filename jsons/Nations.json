@@ -444,7 +444,7 @@
 		"outerColor": [213,166,120],
 		"innerColor": [43,79,83],
 		"uniqueName": "The Long Count",
-		"uniques": ["After researching Theology, receive a bonus Great Person at the end of every Maya Long Count calendar cycle (every 394 years)","[+2 Science] from every [Plantation]"],
+		"uniques": ["Receive a free [Great Person] at the end of every Maya Long Count calendar cycle (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.","[+2 Science] from every [Plantation]"],
 		"cities": ["Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul","Edzna",
 			"Lamanai","Izapa","Uaxactun","Comalcalco","Piedras Negras","Cancuen","Yaxha","Quirigua","Q'umarkaj","Nakbe",
 			"Cerros","Xumantunich","Takalik Abaj","Cival","San Bartolo","Altar de Sacrificios","Seibal","Caracol","Naranjo","Dos Pilas",

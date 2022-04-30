@@ -321,7 +321,7 @@
 		"outerColor": [ 38, 98, 255],
 		"innerColor": [239, 236,148],
 		"uniqueName": "Ancient Regime",
-		"uniques": ["[+1 Culture] from all [Culture] buildings <before the [Industrial era]>", "Receive free [Great General] <during the [Industrial era]>", "[+1] Movement <for [Melee] units>", "[+10]% Strength <for [Melee] units> <when defending>"],
+		"uniques": ["[+1 Culture] from all [Culture] buildings <before the [Industrial era]>", "Receive free [Great General] <starting from the [Industrial era]>", "[+1] Movement <for [Melee] units>", "[+10]% Strength <for [Melee] units> <when defending>"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",

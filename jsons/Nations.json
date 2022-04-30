@@ -427,30 +427,6 @@
 			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"]
 	},
 	{
-		"name": "The Maya",
-		"leaderName": "Pacal",
-		"adjective": ["Mayan"],
-		"preferredVictoryType": "Scientific",
-
-		"startIntroPart1": "Your people kneel before you, exalted King Pacal the Great, favored son of the gods and shield to the citizens of the Palenque domain. After years of strife at the hands of your neighboring rivals, you struck back at the enemies of your people, sacrificing their leaders in retribution for the insults dealt to your predecessors. The glory of Palenque was restored only by the guidance afforded by your wisdom, as you orchestrated vast reconstruction efforts within the city, creating some of the greatest monuments and architecture your people - and the world - have ever known.",
-		"startIntroPart2": "Illustrious King, your people once again look to you for leadership and counsel in the coming days. Will you channel the will of the gods and restore your once proud kingdom to its greatest heights? Will you build new monuments to forever enshrine the memories of your people? Can you build a civilization that will stand the test of time?",
-		"declaringWar": "A sacrifice unlike all others must be made!",
-		"attacked": "What a fool ye are! Ye will end swiftly and miserably.",
-		"defeated": "Today comes pain that is always hot. With you comes the path to the black storm.",
-		"introduction": "Greetings, wayward one. I am known as Pacal.",
-		"neutralHello": "Fine day; it helps you.",
-		"hateHello": "Oh, it's ye!",
-		"tradeRequest": "Friend, I believe I may have found a way to save us all! Look, look and accept my offering!",
-		"outerColor": [213,166,120],
-		"innerColor": [43,79,83],
-		"uniqueName": "The Long Count",
-		"uniques": ["Receive a free [Great Person] at the end of every Maya Long Count calendar cycle (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.","[+2 Science] from every [Plantation]"],
-		"cities": ["Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul","Edzna",
-			"Lamanai","Izapa","Uaxactun","Comalcalco","Piedras Negras","Cancuen","Yaxha","Quirigua","Q'umarkaj","Nakbe",
-			"Cerros","Xumantunich","Takalik Abaj","Cival","San Bartolo","Altar de Sacrificios","Seibal","Caracol","Naranjo","Dos Pilas",
-			"Mayapan","Ixinche","Zaculeu","Kabah"]	
-	},
-	{
 		"name": "Carthage",
 		"leaderName": "Dido",
 		"adjective": ["Carthaginian"],
@@ -469,10 +445,35 @@
 		"outerColor": [189,189,189],
 		"innerColor": [88,0,154],
 		"uniqueName": "Phoenician Heritage",
-		"uniques": ["Gain a free [Harbor] [in all coastal cities]", "[+1 Production, +1 Gold] from every [Luxury Resource]"],
+		"uniques": ["Gain a free [Harbor] [in all coastal cities]", "Gain a free [Lighthouse] [in all coastal cities]", "[+1 Production, +1 Gold] from every [Luxury Resource]"],
 		"cities": ["Carthage","Utique","Hippo Regius","Gades","Saguntum","Carthago Nova","Panormus","Lilybaeum","Hadrumetum","Zama Regia",
 			"Karalis","Malaca","Leptis Magna","Hippo Diarrhytus","Motya","Sulci","Leptis Parva","Tharros","Soluntum","Lixus",
 			"Oea","Theveste","Ibossim","Thapsus","Aleria","Tingis","Abyla","Sabratha","Rusadir","Baecula",
 			"Saldae"]
 	},
+	{
+		"name": "Polynesia",
+		"leaderName": "Kamehameha I",
+		"adjective": ["Polynesia"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Greetings and blessings be upon you, Kamehameha the Great, chosen by the heavens to unite your scattered peoples. Oh mighty King, you were the first to bring the Big Island of Hawai'I under one solitary rule in 1791 AD. This was followed by the merging of all the remaining islands under your standard in 1810. As the first King of Hawai'I, you standardized the legal and taxation systems and instituted the Mamalahoe Kawanai, an edict protecting civilians in times of war. You ensured the continued unification and sovereignty of the islands by your strong laws and deeds, even after your death in 1819.",
+		"startIntroPart2": "Oh wise and exalted King, your people wish for a kingdom of their own once more and require a leader of unparalleled greatness! Will you answer their call and don the mantle of the Lion of the Pacific? Will you build a kingdom that stands the test of time?",
+		"declaringWar": "The ancient fire flashing across the sky is what proclaimed that this day would come, though I had foolishly hoped for a different outcome.",
+		"attacked": "It is obvious now that I misjudged you and your true intentions.",
+		"defeated": "The hard-shelled crab yields, and the lion lies down to sleep. Kanaloa comes for me now.",
+		"introduction": "Aloha! Greetings and blessings upon you, friend. I am Kamehameha, Great King of this strand of islands.",
+		"neutralHello": "Welcome, friend!",
+		"hateHello": "Oh, it's you.",
+		"tradeRequest": "Come, let our people feast together!",
+		"outerColor": [225,105,0],
+		"innerColor": [255,255,78],
+		"uniqueName": "Wayfinding",
+		"uniques": ["Enables embarkation for land units", "Enables [All] units to enter ocean tiles","[+1] Sight <for [Embarked] units>","[+15]% Strength <within [3] tiles of a [Moai]>","[+2] Movement <for [Embarked] units>"],
+		"cities": ["Honolulu","Samoa","Tonga","Nuku Hiva","Raiatea","Aotearoa","Tahiti","Hilo","Te Wai Pounamu","Rapa Nui",
+			"Tuamotu","Rarotonga","Tuvalu","Tubuai","Mangareva","Oahu","Kiritimati","Ontong Java","Niue","Rekohu",
+			"Rakahanga","Bora Bora","Kailua","Uvea","Futuna","Rotuma","Tokelau","Lahaina","Bellona","Mungava","Tikopia",
+			"Emae","Kapingamarangi","Takuu","Nukuoro","Sikaiana","Anuta","Nuguria","Pileni","Nukumanu"]
+	}
 	]

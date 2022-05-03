@@ -181,26 +181,25 @@
 	{
 		"name": "Aesthetics",
 		"era": "Classical era",
-		"uniques": ["[Great Artist] is earned [33]% faster","Unlocks building the Uffizi"],
+		"uniques": ["[Great Artist] is earned [33]% faster"],
 		"policies": [
 			{
 				"name": "Cultural Centers",
 				"uniques": ["[+100]% Production when constructing [Opera House] buildings [in all cities]",
 					"[+100]% Production when constructing [Museum] buildings [in all cities]",
-					"[+100]% Production when constructing [Broadcast Tower] buildings [in all cities]"],
 				"row": 1,
 				"column": 3
 			},
 			{
 				"name": "Cultural Exchange",
-				"uniques": ["[+1 Culture] from every [Great Improvement]","[+1 Culture] from every [Trading post]","[+1 Culture] from every [Brazilwood Camp]","[+1 Culture] from every [Caer]","[+1 Culture] from every [Moai]","[+1 Culture] from every [Chateau]"],
+				"uniques": ["[+1 Culture] from every [Great Improvement]","[+1 Culture] from every [Trading post]"],
 				"requires": ["Cultural Centers"],
 				"row": 2,
 				"column": 2
 			},
 						{
 				"name": "Artistic Genius",
-				"uniques": ["Free [Great Artist] appears","[+2 Science] from every [Museum]","[+2 Science] from every [Amphitheater]","[+2 Science] from every [Opera House]","[+2 Science] from every [Broadcast Tower]"],
+				"uniques": ["Free [Great Artist] appears","[+2 Science] from every [Museum]","[+2 Science] from every [Amphitheater]","[+2 Science] from every [Opera House]"],
 				"requires": ["Cultural Centers"],
 				"row": 2,
 				"column": 4
@@ -221,21 +220,18 @@
 			},
 			{
 				"name": "Aesthetics Complete",
-				"uniques": ["[+100]% Production when constructing [Archaeologist] units [in all cities]",
-					"[+4 Culture] from every [Landmark]","Free Social Policy","May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"]
+				"uniques": ["[+4 Culture] from every [Landmark]","Free Social Policy","May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"]
 			}
 		]
 	},
 	{
 		"name": "Patronage",
 		"era": "Classical era",
-		"uniques": ["Resting point for Influence with City-States is increased by [20]","Unlocks building the Forbidden Palace"],
+		"uniques": ["Resting point for Influence with City-States is increased by [20]"],
 		"policies": [
 			{
 				"name": "Merchant Confederacy",
-				"uniques": ["[+2 Gold] from every [Land Trade Route (Food)]","[+2 Gold] from every [Land Trade Route (Production)]",
-					"[+2 Gold] from every [Land Trade Route (Gold)]","[+2 Gold] from every [Sea Trade Route (Food)]",
-					"[+2 Gold] from every [Sea Trade Route (Production)]","[+2 Gold] from every [Sea Trade Route (Gold)]"],
+				"uniques": ["[+2 Gold] from every [Trade Route]"],
 				"row": 1,
 				"column": 3
 			},
@@ -276,8 +272,8 @@
 	},
 	{
 		"name": "Exploration",
-		"uniques": ["[+1] Movement <for [{Military} {Water}] units>",
-			"[+1] Sight <for [{Military} {Water}] units>","Unlocks building the Louvre","Unlocks Conquistators"],
+		"uniques": ["[+1] Movement <for [Water] units>",
+			"[+1] Sight <for [Water] units>"],
 		"era": "Medieval era",
 		"policies": [
 			{
@@ -317,14 +313,14 @@
 			},
 			{
 				"name": "Exploration Complete",
-				"uniques": ["[3] free [Great Admiral] units appear","[+1] Happiness from each type of luxury resource","May buy [Great Admiral] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"]
+				"uniques": ["[3] free [Great Admiral] units appear","[+2] Happiness from each type of luxury resource","May buy [Great Admiral] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"]
 			}
 		]
 	},
 	{
 		"name": "Rationalism",
 		"era": "Renaissance era",
-		"uniques": ["[Great Scientist] is earned [20]% faster","Unlocks building the Porcelain Tower"],
+		"uniques": ["[Great Scientist] is earned [20]% faster"],
 		"policies": [
 			{
 				"name": "Sovereignty",
@@ -334,7 +330,7 @@
 			},
 			{
 				"name": "Free Thought",
-				"uniques": ["[+1 Science] from every [Trading post]","[+1 Science] from every [Chateau]","[+1 Science] from every [Caer]","[+1 Science] from every [Brazilwood Camp]","[+4 Science] from every [Customs house]","[+4 Science] from every [Academy]"],
+				"uniques": ["[+1 Science] from every [Trading post]"],
 				"row": 1,
 				"column": 3
 			},
@@ -370,31 +366,31 @@
 	},
 	{
 		"name": "Commerce",
-		"uniques": ["[Great Merchant] is earned [33]% faster","Unlocks building the Big Ben"],
+		"uniques": ["[Great Merchant] is earned [33]% faster"],
 		"era": "Medieval era",
 		"policies": [
 			{
 				"name": "Silk Road",
-				"uniques": ["[+25]% Yield from every [Land Trade Route (Food)]","[+25]% Yield from every [Land Trade Route (Production)]","[+25]% Yield from every [Sea Trade Route (Food)]","[+25]% Yield from every [Sea Trade Route (Production)]"],
+				"uniques": ["[+25]% Yield from every [Trade Route]"],
 				"row": 1,
 				"column": 2
 			},
 			{
 				"name": "Mercenary Army",
-				"uniques": ["Allows the purchasing of Landsknechts at Civil Service and Foreign Legions at Replaceable Parts"],
+				"uniques": ["[-50]% maintenance on road & railroads"],
 				"row": 1,
 				"column": 5
 			},
 			{
 				"name": "Entrepreneurship",
-				"uniques": ["[-50]% maintenance on road & railroads","Provides 2 Trade Routes"],
+				"uniques": ["[-50]% maintenance on road & railroads"],
 				"requires": ["Silk Road"],
 				"row": 2,
 				"column": 1
 			},
 			{
 				"name": "Mercantilism",
-				"uniques": ["[+25]% Yield from every [Land Trade Route (Food)]","[+25]% Yield from every [Land Trade Route (Production)]","[+25]% Yield from every [Sea Trade Route (Food)]","[+25]% Yield from every [Sea Trade Route (Production)]","[Gold] cost of purchasing items in cities [-20]%","[+2 Science] from every [Mint]",
+				"uniques": ["[+25]% Yield from every [Trade Route]", "[Gold] cost of purchasing items in cities [-20]%","[+2 Science] from every [Mint]",
 					"[+2 Science] from every [Market]","[+2 Science] from every [Bank]","[+2 Science] from every [Stock Exchange]"],
 				"requires": ["Silk Road"],
 				"row": 2,
@@ -402,21 +398,21 @@
 			},
 			{
 				"name": "Protectionism",
-				"uniques": ["[+1 Food] from every [Customs house]","[+4 Gold] from every [Customs house]","[+4 Production, +4 Culture, +4 Happiness] from every [East India Company]",],
+				"uniques": ["[+1 Food] from every [Trade Route]"],
 				"requires": ["Mercantilism"],
 				"row": 3,
 				"column": 3
 			},
 			{
 				"name": "Commerce Complete",
-				"uniques": ["[2] free [Great Merchant] units appear","[+1 Food] from every [Trading post]","[+1 Food] from every [Caer]","[+100]% Gold from Great Merchant trade missions","May buy [Great Merchamt] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"]
+				"uniques": ["[2] free [Great Merchant] units appear","[+1 Food] from every [Trading post]", "[+100]% Gold from Great Merchant trade missions","May buy [Great Merchamt] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"]
 			}
 		]
 	},
 	{
 		"name": "Order",
 		"era": "Modern era",
-		"uniques": ["Free Social Policy","Unlocks Kremlin","Incompatible with [Autocracy]","Incompatible with [Freedom]"],
+		"uniques": ["Free Social Policy","Incompatible with [Autocracy]","Incompatible with [Freedom]"],
 		"policies": [
 			{
 				"name": "Hero of the People",
@@ -454,63 +450,14 @@
 			},
 			{
 				"name": "Order Complete",
-				"uniques": ["Order I Complete"]
-			}
-		]
-		},
-	{
-		"name": "Order II",
-		"era": "Modern era",
-		"uniques": ["Incompatible with [Autocracy]","Incompatible with [Freedom]","Free Social Policy"],
-		"policies": [
-			{
-				"name": "Young Pioneers",
-				"uniques": ["[+1 Happiness] from every [Workshop]","[+1 Happiness] from every [Factory]","[+1 Happiness] from every [Solar Plant]","[+1 Happiness] from every [Nuclear Plant]","[+1 Happiness] from every [Hydro Plant]"],
-				"requires": ["Order Complete"],
-				"row": 1,
-				"column": 3
-			},
-			{
-				"name": "Skyscrapers",
-				"uniqueText": "Cost of purchasing buildings reduced by [50]%",
-				"uniques": ["Cost of purchasing [Science] buildings reduced by [50]%","Cost of purchasing [Production] buildings reduced by [50]%","Cost of purchasing [Food] buildings reduced by [50]%","Cost of purchasing [Gold] buildings reduced by [50]%","Cost of purchasing [Happiness] buildings reduced by [50]%","Cost of purchasing [Culture] buildings reduced by [50]%"],
-				"requires": ["Young Pioneers"],
-				"row": 2,
-				"column": 1
-			},
-			{
-				"name": "Party Leadership",
-				"uniques": ["[+2 Food] [in all cities]","[+2 Production] [in all cities]","[+2 Science] [in all cities]",
-					"[+2 Gold] [in all cities]"],
-				"requires": ["Young Pioneers"],
-				"row": 2,
-				"column": 3
-			},
-						{
-				"name": "Five-Year Plan",
-				"uniques": ["[+2 Production] [in all cities]","[+1 Production] from every [Mine]","[+1 Production] from every [Quarry]"],
-				"requires": ["Patriotic War","Socialist Realism","Hero of the People"],
-				"requires": ["Young Pioneers"],
-				"row": 2,
-				"column": 5
-			},
-			{
-				"name": "Iron Curtain",
-				"uniques": ["[+11 Production] from every [Land Trade Route (Production)]","[+11 Food] from every [Land Trade Route (Food)]","[+11 Food] from every [Sea Trade Route (Food)]","[+11 Production] from every [Sea Trade Route (Production)]"],
-				"requires": ["Five-Year Plan","Party Leadership","Skyscrapers"],
-				"row": 3,
-				"column": 3
-			},
-			{
-				"name": "Order II Complete",
-				"uniques": ["Ideology Complete"]
+				"uniques": ["[+1 Food] from every [Trade Route]"]
 			}
 		]
 	},
 	{
 		"name": "Freedom",
 		"era": "Modern era",
-		"uniques": ["Free Social Policy","Unlocks Statue of Liberty","Incompatible with [Autocracy]","Incompatible with [Order]"],
+		"uniques": ["Free Social Policy","Incompatible with [Autocracy]","Incompatible with [Order]"],
 		"policies": [
 			{
 				"name": "Avant Garde",
@@ -526,13 +473,13 @@
 			},
 			{
 				"name": "Free Healthcare",
-				"uniques": ["[+1 Happiness] from every [East India Company]","[+1 Happiness] from every [National Visitor's Center]","[+1 Happiness] from every [Oxford University]","[+1 Happiness] from every [Hermitage]","[+1 Happiness] from every [Ironworks]","[+1 Happiness] from every [Grand Temple]","[+1 Happiness] from every [National Epic]","[+1 Happiness] from every [National College]","[+1 Happiness] from every [Heroic Epic]","[+1 Happiness] from every [Circus Maximus]"],
+				"uniques": ["[+1 Happiness] from every [Circus Maximus]"],
 				"row": 1,
 				"column": 5
 			},
 			{
 				"name": "Volunteer Army",
-				"uniques": ["[6] free [Foreign Legion] units appear","[6] units cost no maintenance"],
+				"uniques": ["[6] units cost no maintenance"],
 				"requires": ["Avant Garde","Civil Society","Free Healthcare"],
 				"row": 2,
 				"column": 2
@@ -551,55 +498,9 @@
 		]
 	},
 	{
-		"name": "Freedom II",
-		"era": "Modern era",
-		"uniques": ["Incompatible with [Autocracy]","Free Social Policy","Incompatible with [Order]"],
-		"policies": [				
-			{
-				"name": "Capitalism",
-				"uniques": ["[+1 Happiness] from every [Market]","[+1 Happiness] from every [Bank]","[+1 Happiness] from every [Stock Exchange]"],
-				"requires": ["Freedom Complete"],
-				"row": 1,
-				"column": 3
-			},
-			{
-				"name": "Urbanization",
-				"uniques": ["[+2 Production, +2 Science] from every [Windmill]","[+2 Production, +2 Science] from every [Workshop]","[+2 Production, +2 Science] from every [Factory]"],
-				"requires": ["Capitalism"],
-				"row": 2,
-				"column": 1
-			},
-			{
-				"name": "New Deal",
-				"uniques": ["[+100]% Yield from every [Great Improvement]"],
-				"requires": ["Capitalism"],
-				"row": 2,
-				"column": 3
-			},
-			{
-				"name": "Democracy",
-				"uniques": ["[+1 Production] from every specialist [in all cities]"],
-				"requires": ["Capitalism"],
-				"row": 2,
-				"column": 5
-			},
-			{
-				"name": "Media Culture",
-				"uniques": ["[+33]% [Culture] from every [Broadcast Tower]"],
-				"requires": ["Democracy","New Deal","Urbanization"],
-				"row": 3,
-				"column": 3
-			},
-			{
-				"name": "Freedom II Complete",
-				"uniques": ["Ideology Complete"]
-			}
-		]
-	},
-	{
 		"name": "Autocracy",
 		"era": "Modern era",
-		"uniques": ["Free Social Policy","Unlocks Prora","Incompatible with [Order]","Incompatible with [Freedom]"],
+		"uniques": ["Free Social Policy", "Incompatible with [Order]", "Incompatible with [Freedom]"],
 		"policies": [
 			{
 				"name": "Elite Forces",
@@ -609,7 +510,7 @@
 			},
 			{
 				"name": "Mobilization",
-				"uniques": ["[Gold] cost of purchasing [All] units [23]%"],
+				"uniques": ["[Gold] cost of purchasing [All] units [30]%"],
 				"row": 1,
 				"column": 3
 			},
@@ -637,54 +538,6 @@
 			{
 				"name": "Autocracy Complete",
 				"uniques": ["Autocracy I Complete"]
-			}
-		]
-	}
-		{
-		"name": "Autocracy II",
-		"era": "Modern era",
-		"uniques": ["Free Social Policy","Incompatible with [Freedom]","Incompatible with [Order]"],
-		"policies": [
-			{
-				"name": "Universal Healthcare",
-				"uniques": ["[+1 Happiness] from every [East India Company]","[+1 Happiness] from every [National Visitor's Center]","[+1 Happiness] from every [Oxford University]","[+1 Happiness] from every [Hermitage]","[+1 Happiness] from every [Ironworks]","[+1 Happiness] from every [Grand Temple]","[+1 Happiness] from every [National Epic]","[+1 Happiness] from every [National College]","[+1 Happiness] from every [Heroic Epic]","[+1 Happiness] from every [Circus Maximus]"],
-				"requires": ["Autocracy Complete"],
-				"row": 1,
-				"column": 3
-			},
-			{
-				"name": "Militarism",
-				"uniques": ["[+2 Happiness] from every [Barracks]","[+2 Happiness] from every [Armory]","[+2 Happiness] from every [Military Academy]"],				
-				"requires": ["Universal Healthcare"],				
-				"row": 2,
-				"column": 1
-			},
-			{
-				"name": "Third Alternative",
-				"uniques": ["Double quantity of [Horses] produced","Double quantity of [Iron] produced",
-					"Double quantity of [Coal] produced","Double quantity of [Oil] produced",
-					"Double quantity of [Aluminum] produced","Double quantity of [Uranium] produced","[+5 Science] [in capital]","[+5 Food] [in capital]"],
-				"requires": ["Universal Healthcare"],				
-				"row": 2,
-				"column": 3
-			},
-			{
-				"name": "Nationalism",
-				"uniques": ["[-33]% maintenance costs <for [All] units>"],
-				"requires": ["Universal Healthcare"],				
-				"row": 2,
-				"column": 5
-			},
-			{
-				"name": "Clausewitz's Legacy",
-				"uniques": ["+[25]% attack strength to all [Military] units for [50] turns"],
-				"requires": ["Nationalism","Third Alternative","Militarism"],				
-				"row": 3,
-				"column": 3
-			},
-			{
-				"name": "Autocracy II Complete",
-				"uniques": ["Ideology Complete"]
 			}
 		]
 	}

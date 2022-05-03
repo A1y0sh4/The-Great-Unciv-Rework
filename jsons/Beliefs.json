@@ -18,7 +18,7 @@
     {
         "name": "Faith Healers",
         "type": "Pantheon",
-        "uniques": ["[Land] units gain the [Medic] promotion"]
+        "uniques": ["[5] HP when healing"]
     },
     {
         "name": "Fertility Rites",

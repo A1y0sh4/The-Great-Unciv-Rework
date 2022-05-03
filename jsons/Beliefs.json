@@ -135,7 +135,7 @@
 	{
         "name": "Liturgical Drama",
         "type": "Follower",
-        "uniques": ["[+2 Faith, +1 Culture] from every [Amphitheater]","[+2 Faith, +1 Culture] from every [Opera House]"]
+        "uniques": ["[+1 Faith, +1 Culture] from every [Amphitheater]","[+1 Faith, +1 Culture] from every [Opera House]"]
     },
 		 {
         "name": "Mosques",

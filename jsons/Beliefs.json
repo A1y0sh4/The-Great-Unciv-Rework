@@ -3,7 +3,7 @@
     {
         "name": "Ancestor Worship",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Shrine]"]
+        "uniques": ["[+1 Culture, +1 Faith] from every [Shrine]"]
     },
     {
         "name": "Dance of the Aurora",
@@ -19,12 +19,11 @@
         "name": "Faith Healers",
         "type": "Pantheon",
         "uniques": ["[5] HP when healing in [Friendly Land] tiles"]
-        // This should be worded better
     },
     {
         "name": "Fertility Rites",
         "type": "Pantheon",
-        "uniques": ["[+5]% growth [in all cities]"] 
+        "uniques": ["[+6]% growth [in all cities]"] 
     },
     {
         "name": "God of Craftsman",
@@ -39,7 +38,7 @@
     {
         "name": "God of the Sea",
         "type": "Pantheon",
-        "uniques": ["[+1 Production, +1 Faith] from every [Fishing Boats]","[+1 Culture] from every [Atoll]"]
+        "uniques": ["[+1 Production, +1 Faith] from every [Fishing Boats]", "[+1 Culture] from every [Atoll]"]
     },
     {
         "name": "God of War",
@@ -84,7 +83,7 @@
     {
         "name": "Religious Idols",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Gold Ore]", "[+1 Culture, +1 Faith] from every [Silver]"]
+        "uniques": ["[+1 Culture, +1 Faith] from every [Luxury resource] <before the [Medieval era]>"]
     },
     {
         "name": "Religious Settlements",
@@ -101,7 +100,7 @@
         "type": "Pantheon",
         "uniques": ["[+1 Production, +2 Faith] from every [Quarry]"]
     },
-///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
+// Follower beliefs
     	 {
         "name": "Cathedrals",
         "type": "Follower",
@@ -121,7 +120,7 @@
     {
         "name": "Feed the World",
         "type": "Follower",
-        "uniques": ["[+1 Food] from every [Shrine]", "[+1 Food] from every [Temple]"]
+        "uniques": ["[+1 Food] from every [Shrine]", "[+1 Food] from every [Temple]", "[+1 Food] [in all cities]"]
     },
     {
         "name": "Guruship",
@@ -151,7 +150,7 @@
     {
         "name": "Religious Art",
         "type": "Follower",
-        "uniques": ["[+8 Culture] from every [Hermitage]"]
+        "uniques": ["[+1 Culture] from all [Culture] buildings <starting from the [Industrial era]>"]
     },
 	{
         "name": "Religious Centers",
@@ -161,14 +160,14 @@
     {
         "name": "Swords into Ploughshares",
         "type": "Follower",
-        "uniques": ["[+15]% growth [in this city] <when not at war>"]
+        "uniques": ["[+9]% growth [in all cities with a garrison] <when not at war>"]
     },
  {
         "name": "Religious Community",
         "type": "Follower",
         "uniques": ["[+1]% [Production] from every follower, up to [15]%"]
     },
-	///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
+// Founder beliefs
     {
         "name": "Church Property",
         "type": "Founder",

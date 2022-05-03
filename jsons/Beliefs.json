@@ -3,7 +3,7 @@
     {
         "name": "Ancestor Worship",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from every [Monument]", "[+1 Culture] from every [Shrine]"]
+        "uniques": ["[+1 Culture] from every [Shrine]"]
     },
     {
         "name": "Dance of the Aurora",
@@ -15,27 +15,21 @@
         "type": "Pantheon",
         "uniques": ["[+1 Faith] from every [Desert]"]
     },
-	    {
-        "name": "Earth Mother",
-        "type": "Pantheon",
-        "uniques": ["[+1 Faith] from every [Iron]", "[+1 Faith] from every [Salt]", "[+1 Faith] from every [Copper]", "[+1 Faith] from every [Amber]", "[+1 Faith] from every [Lapis Lazuli]", "[+1 Faith] from every [Jade]", "[+1 Faith] from every [Gold Ore]", "[+1 Faith] from every [Silver]", "[+1 Faith] from every [Gems]"]
-    },
     {
         "name": "Faith Healers",
         "type": "Pantheon",
-        "uniques": ["[All] Units adjacent to this city heal [+30] HP per turn when healing"]
+        "uniques": ["[5] HP when healing in [Friendly Land] tiles"]
         // This should be worded better
     },
     {
         "name": "Fertility Rites",
         "type": "Pantheon",
-        "uniques": ["[+10]% growth [in this city]"] 
-        // Preferably I would not have a cityFilter here, but doing so requires no additional implementation 
+        "uniques": ["[+5]% growth [in all cities]"] 
     },
     {
         "name": "God of Craftsman",
         "type": "Pantheon",
-        "uniques": ["[+1 Production]"]
+        "uniques": ["[+1 Production] [in all cities]"]
     },
     {
         "name": "God of the Open Sky",
@@ -45,73 +39,37 @@
     {
         "name": "God of the Sea",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Fishing Boats]","[+1 Culture, +1 Faith] from every [Atoll]"]
+        "uniques": ["[+1 Production, +1 Faith] from every [Fishing Boats]","[+1 Culture] from every [Atoll]"]
     },
     {
         "name": "God of War",
         "type": "Pantheon",
         "uniques": ["[+2 Production] from every [Barracks]"]
-    }
-	    {
-        "name": "God-King",
-        "type": "Pantheon",
-        "uniques": ["[+1 Food, +1 Production, +1 Gold, +1 Happiness, +1 Faith, +1 Science] from every [Palace]"]
-    }
-    {
-        "name": "Goddess of Festivals",
-        "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Wine]", "[+1 Culture, +1 Faith] from every [Sugar]", "[+1 Culture, +1 Faith] from every [Spices]"]
     },
     {
         "name": "Goddess of Love",
         "type": "Pantheon",
-        "uniques": ["[+2 Happiness] in cities with [7] or more population"]
+        "uniques": ["[+2 Happiness] in cities with [8] or more population"]
     },
     {
         "name": "Goddess of Protection",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Walls]","[+50]% attacking Strength for cities"]
-    },
-	    {
-        "name": "Goddess of the Fields",
-        "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Cotton]", "[+1 Culture, +1 Faith] from every [Incense]", "[+1 Culture, +1 Faith] from every [Tea]", "[+1 Culture, +1 Faith] from every [Coffee]"]
+        "uniques": ["[+30]% Production when constructing [Walls] buildings [in all cities]", "[+30]% attacking Strength for cities"]
     },
     {
         "name": "Goddess of the Hunt",
         "type": "Pantheon",
-        "uniques": ["[+1 Food] from every [Camp]"]
-    },
-	    {
-        "name": "Harvest Festival",
-        "type": "Pantheon",
-        "uniques": ["[+1 Food] from every [Wheat]", "[+1 Food] from every [Maize]"]
+        "uniques": ["[+1 Food, +1 Faith] from every [Camp]"]
     },
     {
         "name": "Messenger of the Gods",
         "type": "Pantheon",
-        "uniques": ["[+2 Science, +1 Faith] from each Trade Route"]
+        "uniques": ["[+2 Science, +1 Production] from each Trade Route"]
     },
     {
         "name": "Monument to the Gods",
         "type": "Pantheon",
         "uniques": ["[+15]% Production when constructing [All] wonders [in all cities]"]
-        // Should only be ancient/classical era wonders, but implementing that is another can of worms
-        // For that we really should need an era.matchesFilter() AND support for multiple values in 
-        // construction.matchesFilter(), so we could write something like:
-        //"uniques": ["[+15]% Production when constructing [{Ancient Era} {Wonders}]",
-        // "[+15]% Production when constructing [{Classical Era} {Wonders}]"]
-        // For now this feels like overkill, but I'll leave this here for the future
-    },
-	    {
-        "name": "Mystic Rituals",
-        "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Silk]", "[+1 Culture, +1 Faith] from every [Dyes]", "[+1 Culture, +1 Faith] from every [Tobacco]", "[+1 Culture, +1 Faith] from every [Perfume]"]
-    },	
-	    {
-        "name": "Ocean's Bounty",
-        "type": "Pantheon",
-        "uniques": ["[+1 Production] from every [Fishing Boats]","[+1 Production] from every [Atoll]"]
     },
     {
         "name": "One with Nature",
@@ -123,61 +81,21 @@
         "type": "Pantheon",
         "uniques": ["[+1 Culture] from every [Plantation]"]
     },
-	    {
-        "name": "Rain Dancing",
-        "type": "Pantheon",
-        "uniques": ["[+1 Culture, +2 Faith] from every [Lakes]", "[+1 Culture, +2 Faith] from every [Oasis]"]
-    },
-	{
-		"name": "Ritual Sacrifice",
-		"type": "Pantheon",
-		"uniques": ["[+1 Faith, +1 Culture] from every [Ivory]", "[+1 Faith, +1 Culture] from every [Furs]", "[+1 Faith, +1 Culture] from every [Truffles]"]
-	},
     {
         "name": "Religious Idols",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Copper]", "[+1 Culture, +1 Faith] from every [Gold Ore]", "[+1 Culture, +1 Faith] from every [Silver]"]
+        "uniques": ["[+1 Culture, +1 Faith] from every [Gold Ore]", "[+1 Culture, +1 Faith] from every [Silver]"]
     },
     {
         "name": "Religious Settlements",
         "type": "Pantheon",
-        "uniques": ["[+1 Food]","[-25]% Culture cost of natural border growth [in this city]"]
+        "uniques": ["[-25]% Culture cost of natural border growth [in all cities connected to capital]"]
     },
     {
         "name": "Sacred Path",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Jungle]", "[+1 Culture] from every [Forest]", "[+1 Culture] from every [Hardwood]"]
+        "uniques": ["[+1 Culture] from every [Jungle]", "[+1 Culture] from each Trade Route"]
     },
-	{
-		"name": "Seafood Rituals",
-		"type": "Pantheon",
-		"uniques": ["[+1 Food, +1 Culture] from every [Fish]"]
-	},
-	    {
-        "name": "Spirit Animals",
-        "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Horses]", "[+1 Culture] from every [Bison]", "[+1 Culture] from every [Deer]"]
-    },
-    {
-        "name": "Starlight Guidance",
-        "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Happiness] from every [Lighthouse]"]
-    },
-    {
-        "name": "Sun God",
-        "type": "Pantheon",
-        "uniques": ["[+1 Food] from every [Bananas]", "[+1 Food] from every [Citrus]", "[+1 Food] from every [Olives]", "[+1 Food] from every [Cocoa]"]
-    },
-    {
-        "name": "Tears of the God",
-        "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Lapis Lazuli]", "[+1 Culture, +1 Faith] from every [Amber]", "[+1 Culture, +1 Faith] from every [Gems]", "[+1 Culture, +1 Faith] from every [Jade]"]
-    },	
-    {
-        "name": "Vision Quests",
-        "type": "Pantheon",
-        "uniques": ["[+1 Happiness] from every [Shrine]"]
-    },	
     {
         "name": "Stone Circles",
         "type": "Pantheon",
@@ -192,13 +110,13 @@
 	{
         "name": "Choral Music",
         "type": "Follower",
-        "uniques": ["[+3 Culture, -1 Gold] from every [Temple]"]
+        "uniques": ["[+2 Culture] from every [Temple]"]
     },
 	    
     {
         "name": "Divine inspiration",
         "type": "Follower",
-        "uniques": ["[+2 Faith] from every [Wonder]"]
+        "uniques": ["[+2 Faith, +1 Culture] from every [Wonder]"]
     },
     {
         "name": "Feed the World",
@@ -209,11 +127,6 @@
         "name": "Guruship",
         "type": "Follower",
         "uniques": ["[+2 Production] <if this city has at least [1] specialists>"]
-    },
-	 {
-        "name": "Mandirs",
-        "type": "Follower",
-        "uniques": ["May buy [Mandir] buildings for [270] [Faith] [in cities following this religion]"]
     },
 	{
         "name": "Liturgical Drama",
@@ -230,25 +143,10 @@
         "type": "Follower",
         "uniques": ["May buy [Pagoda] buildings for [195] [Faith] [in cities following this religion]"]
     },
-				 {
-        "name": "Gurdwaras",
-        "type": "Follower",
-        "uniques": ["May buy [Gurdwara] buildings for [195] [Faith] [in cities following this religion]"]
-    },
-				 {
-        "name": "Synagogues",
-        "type": "Follower",
-        "uniques": ["May buy [Synagogue] buildings for [195] [Faith] [in cities following this religion]"]
-    },
-				 {
-        "name": "Viharas",
-        "type": "Follower",
-        "uniques": ["May buy [Vihara] buildings for [150] [Faith] [in cities following this religion]"]
-    },
     {
         "name": "Peace Gardens",
         "type": "Follower",
-        "uniques": ["[+1 Production, +1 Gold] from every [Water Mill]","[+1 Happiness] from every [Garden]"]
+        "uniques": ["[+2 Happiness, +1 Culture] from every [Garden]"]
     },
     {
         "name": "Religious Art",
@@ -268,25 +166,13 @@
  {
         "name": "Religious Community",
         "type": "Follower",
-        "uniques": ["[+1]% [Production] from every follower, up to [10]%"]
+        "uniques": ["[+1]% [Production] from every follower, up to [15]%"]
     },
 	///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
     {
         "name": "Church Property",
         "type": "Founder",
-        "uniques": ["[+1 Gold, +1 Culture] for each global city following this religion"]
-    },
-	 {
-        "name": "Mithraea",
-        "type": "Founder",
-        // Note1: its only applicable to follower beliefs not founder beliefs
-        // Note2: Changed [Gold] to Gold for Soulinor's suggestion, it works although I am not sure how
-        "uniques": ["[1]% Gold from every follower, up to [20]%"]
-    },
- {
-        "name": "Tithe",
-        "type": "Founder",
-        "uniques": ["[+1 Gold] for every [4] global followers [in all cities]"]
+        "uniques": ["[+2 Gold] for each global city following this religion"]
     },
     {
         "name": "Initiation Rites",
@@ -296,7 +182,7 @@
     {
         "name": "Papal Primacy",
         "type": "Founder",
-        "uniques": ["Resting point for influence with City-States following this religion [+15]"]
+        "uniques": ["Resting point for influence with City-States following this religion [+20]"]
     },
     {
         "name": "Pilgrimage",
@@ -306,83 +192,38 @@
 		{
         "name": "Ceremonial Burial",
         "type": "Founder",
-        "uniques": ["[+1 Happiness] from every [Palace]","[+1 Happiness] for each global city following this religion"]
-    },
-	{
-        "name": "Dawah",
-        "type": "Founder",
-        "uniques": ["[+4 Culture] from every [Palace]"]
-    },
-	{
-        "name": "Salat",
-        "type": "Founder",
-        "uniques": ["[+4 Production] from every [Palace]"]
+        "uniques": ["[+1 Happiness] for each global city following this religion"]
     },
 	{
 		"name": "World Church",
 		"type": "Founder",
-		"uniques": ["[+1 Culture] for every [2] global followers [in foreign cities]"]
+		"uniques": ["[+1 Culture] for every [3] global followers [in foreign cities]"]
 	},
-	{
-        "name": "Zakat",
-        "type": "Founder",
-        "uniques": ["[+8 Gold] from every [Palace]"]
-    },
 // ENHANCERS
 	{
         "name": "Defender of the Faith",
         "type": "Enhancer",
         "uniques": ["[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"],
     },
-		{
-        "name": "Dharma",
-        "type": "Enhancer",
-        "uniques": ["[+8 Science] from every [Grand Temple]"]
-    },
-			{
-        "name": "Disciples",
-        "type": "Enhancer",
-        "uniques": ["[+2 Culture, +2 Gold] from every [Great Improvement]"]
-    },
-			{
-        "name": "Hajj",
-        "type": "Enhancer",
-        "uniques": ["[+3 Food, +3 Production, +3 Culture] from every [Palace]"]
-    },
-	{
-		"name": "Indulgences",
-		"type": "Enhancer",
-		"uniques": ["[+1 Food, +1 Production, +1 Gold, +1 Culture, +1 Faith] [in cities following this religion]"]
-	},
 	{
         "name": "Just War",
         "type": "Enhancer",
-        "uniques": ["[+20]% Strength <for [Non-City] units> <when fighting in [Enemy Land] tiles>"],
-    },
-	{
-		"name": "Karma",
-		"type": "Enhancer",
-		"uniques": ["[+8 Culture] [in holy cities]"]
-	},
-	{
-        "name": "Kotel",
-        "type": "Enhancer",
-        "uniques": ["[+6 Happiness] from every [Palace]"]
+        "uniques": ["[+15]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"],
     },
  {
         "name": "Messiah",
         "type": "Enhancer",
-        "uniques": ["[+25]% Spread Religion Strength <for [Great Prophet] units>", "[-25]% Faith cost of generating Great Prophet equivalents"]
+        "uniques": ["[+33]% Spread Religion Strength <for [Great Prophet] units>", "[-33]% Faith cost of generating Great Prophet equivalents"]
     },
     {
         "name": "Missionary Zeal",
         "type": "Enhancer",
-        "uniques": ["[+25]% Spread Religion Strength <for [Missionary] units>"]
+        "uniques": ["[+33]% Spread Religion Strength <for [Missionary] units>"]
     },
     {
         "name": "Religious Texts",
         "type": "Enhancer",
-        "uniques": ["[+34]% Natural religion spread [in all cities]", "[+34]% Natural religion spread [in all cities] <after discovering [Printing Press]>"]
+        "uniques": ["[+25]% Natural religion spread [in all cities]", "[+25]% Natural religion spread [in all cities] <after discovering [Printing Press]>"]
     },
     {
         "name": "Religious Unity",

@@ -18,7 +18,7 @@
     {
         "name": "Faith Healers",
         "type": "Pantheon",
-        "uniques": ["[5] HP when healing in [Friendly Land] tiles"]
+        "uniques": ["[5] HP when healing"]
     },
     {
         "name": "Fertility Rites",

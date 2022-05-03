@@ -38,7 +38,7 @@
 			},
 			{
 				"name": "Tradition Complete",
-				"uniques": ["[+15]% growth [in all cities]","Provides a [Aqueduct] in your first [4] cities for free","May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"]
+				"uniques": ["[+15]% growth [in all cities]", "[+1 Culture, +1 Faith] from all [Culture] buildings <before the [Industrial era]>", "Provides a [Aqueduct] in your first [4] cities for free"]
 			}
 		]
 	},
@@ -62,7 +62,7 @@
 			},
 			{
 				"name": "Collective Rule",
-				"uniques": ["[+50]% Production when constructing [Settler] units [in capital]","Free [Settler] appears"],
+				"uniques": ["[+50]% Production when constructing [Settler] units [in capital]", "Free [Settler] appears"],
 				"requires": ["Republic"],
 				"row": 2,
 				"column": 1
@@ -83,80 +83,53 @@
 			},
 			{
 				"name": "Liberty Complete",
-				"uniques": ["Free Great Person",
-					"[+33]% Production when constructing [East India Company] wonders [in all cities]",
-					"[+33]% Production when constructing [National Visitor's Center] wonders [in all cities]",
-					"[+33]% Production when constructing [Oxford University] wonders [in all cities]",
-					"[+33]% Production when constructing [Hermitage] wonders [in all cities]",
-					"[+33]% Production when constructing [Ironworks] wonders [in all cities]",
-					"[+33]% Production when constructing [Grand Temple] wonders [in all cities]",
-					"[+33]% Production when constructing [National Epic] wonders [in all cities]",
-					"[+33]% Production when constructing [National College] wonders [in all cities]",
-					"[+33]% Production when constructing [Heroic Epic] wonders [in all cities]",
-					"[+33]% Production when constructing [Circus Maximus] wonders [in all cities]",
-					"[+15]% Production when constructing [Monument] buildings [in all cities]",
-					"[+15]% Production when constructing [Hotel] buildings [in all cities]",
-					"[+15]% Production when constructing [University] buildings [in all cities]",
-					"[+15]% Production when constructing [Market] buildings [in all cities]",
-					"[+15]% Production when constructing [Workshop] buildings [in all cities]",
-					"[+15]% Production when constructing [Amphitheater] buildings [in all cities]",
-					"[+15]% Production when constructing [Barracks] buildings [in all cities]",
-					"[+15]% Production when constructing [Library] buildings [in all cities]",
-					"[+15]% Production when constructing [Colosseum] buildings [in all cities]",
-					"[+15]% Production when constructing [Opera House] buildings [in all cities]"]
+				"uniques": ["Free Great Person", "[+2 Culture] from each [Trade Route]"]
 			}
 		]
 	},
 	{
 		"name": "Honor",
 		"era": "Ancient era",
-		"uniques": ["[+33]% Strength <vs [Barbarian] units>","Earn [33]% of killed [Military] unit's [Strength] as [Culture]",
-			"Notified of new Barbarian encampments","Unlocks building the Temple of Artemis"],
+		"uniques": ["[+30]% Strength <vs [Barbarian] units>","Earn [30]% of killed [Military] unit's [Strength] as [Culture]",
+			"Notified of new Barbarian encampments"],
 		"policies": [
 			{
 				"name": "Warrior Code",
-				"uniques":["[2] free [Warrior] units appear","Earn [33]% of killed [Military] unit's [Strength] as [Gold]","[4] units cost no maintenance"],
+				"uniques":["[+15]% Production when constructing [Melee] units [in all cities]"],
 				"row": 1,
 				"column": 2
 			},
 			{
 				"name": "Professional Army",
-				"uniques":["[+1 Production, +1 Gold, +1 Culture] from every [Military Academy]","[+1 Production, +1 Gold, +1 Culture] from every [Armory]","[+1 Production, +1 Gold, +1 Culture] from every [Barracks]",
-					"[+100]% Production when constructing [Barracks] buildings [in all cities]",
-					"[+100]% Production when constructing [Armory] buildings [in all cities]",
-					"[+100]% Production when constructing [Military Academy] buildings [in all cities]"],
+				"uniques":["[-33]% Gold cost of upgrading <for [Military] units>", "Free [Great General] appears"],
 				"row": 1,
 				"column": 4
 			},
 			{
 				"name": "Military Caste",
-				"uniques": ["Units in cities cost no Maintenance","[+1 Happiness, +2 Culture] [in all cities with a garrison]","[+2 Happiness] from every [Courthouse]"],
+				"uniques": ["[+1 Happiness, +2 Culture] [in all cities with a garrison]", "[+10]% Production when constructing [Military] units [in all cities]"],
 				"requires": ["Warrior Code"],
 				"row": 2,
 				"column": 1
 			},
 			{
 				"name": "Military Tradition",
-				"uniques": ["[-20]% Gold cost of upgrading <for [Military] units>",
-					"[+100]% Production when constructing [Courthouse] buildings [in all cities]",
-					"[+3 Production, +3 Gold, +3 Food] from every [Courthouse]"],
+				"uniques": ["[+50]% XP gained from combat <for [Military] units>",
+					    "[+2 Production] from every [Barracks]",
 				"requires": ["Professional Army","Warrior Code"],
 				"row": 2,
 				"column": 3
 			},
 						{
 				"name": "Discipline",
-				"uniques":["[+10]% Strength <for [Land] units> <when adjacent to a [Military] unit>","[50]% XP gained from combat <for [Military] units>"],
+				"uniques":["[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"],
 				"requires": ["Professional Army"],
 				"row": 2,
 				"column": 5
 			},
 			{
 				"name": "Honor Complete",
-				"uniques": ["[+10]% [Food] [in all cities]",
-					"Earn [33]% of killed [Military] unit's [Strength] as [Science]",
-					"[+100]% Production when constructing [Heroic Epic] wonders [in all cities]",
-					"[+4 Production, +4 Gold, +4 Culture] from every [Heroic Epic]","May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"],
+				"uniques": ["Earn [10]% of killed [Military] unit's [Cost] as [Gold]","May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"],
 			}
 		]
 	},
@@ -165,30 +138,29 @@
 		"era": "Ancient era",
 		"uniques": ["[+100]% Production when constructing [Temple] buildings [in all cities]",
 			"[+100]% Production when constructing [Shrine] buildings [in all cities]",
-			"[+2 Culture] [in capital]","Unlocks building the Great Mosque of Djenne"],
+			"[+1 Culture] from all [Faith] buildings"],
 		"policies": [
 			{
 				"name": "Mandate Of Heaven",
-				"uniques": ["[+1 Happiness] from every [Temple]","[+1 Culture] [in capital]","Cost of purchasing [Culture] buildings reduced by [20]%"],
+				"uniques": ["[+1 Happiness, +1 Gold] from all [Faith] buildings"],
 				"row": 1,
 				"column": 1
 			},
 			{
 				"name": "Organized Religion",
-				"uniques": ["[+1 Culture] from every [Shrine]","[+1 Culture] from every [Temple]",
-					"[+1 Culture] from every [Monastery]"],
+				"uniques": ["[+1 Faith] from all [Faith] buildings"],
 				"row": 1,
 				"column": 3
 			},
 			{
 				"name": "Theocracy",
-				"uniques": ["[+33]% [Gold] from every [Grand Temple]","[+2 Gold] from every [Temple]","[+3 Gold] from every [Holy site]"],
+				"uniques": ["[+15]% [Gold] from every [Temple]"],
 				"row": 1,
 				"column": 5
 			},
 			{
 				"name": "Reformation",
-				"uniques": ["[-15]% Culture cost of natural border growth [in all cities]"],
+				"uniques": ["[+33]% [Culture] [in all cities with a world wonder]","Empire enters golden age"],
 				"requires": ["Organized Religion"],
 				"row": 2,
 				"column": 2
@@ -317,9 +289,9 @@
 			{
 				"name": "Maritime Infrastructure",
 				"uniques": ["[+3 Production] [in all coastal cities]",
-					"[+50]% Production when constructing [Lighthouse] buildings [in all cities]",
-					"[+50]% Production when constructing [Harbor] buildings [in all cities]",
-					"[+50]% Production when constructing [Seaport] buildings [in all cities]"],
+					"[+100]% Production when constructing [Lighthouse] buildings [in all cities]",
+					"[+100]% Production when constructing [Harbor] buildings [in all cities]",
+					"[+100]% Production when constructing [Seaport] buildings [in all cities]"],
 				"row": 1,
 				"column": 3
 			},

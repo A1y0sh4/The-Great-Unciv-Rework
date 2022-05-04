@@ -18,7 +18,7 @@
     {
         "name": "Faith Healers",
         "type": "Pantheon",
-        "uniques": ["[5] HP when healing"]
+        "uniques": ["[5] HP <for [All] units> when healing"]
     },
     {
         "name": "Fertility Rites",

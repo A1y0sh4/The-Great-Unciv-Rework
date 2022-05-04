@@ -38,12 +38,12 @@
     {
         "name": "God of the Sea",
         "type": "Pantheon",
-        "uniques": ["[+1 Production, +1 Faith] from every [Fishing Boats]", "[+1 Culture] from every [Atoll]"]
+        "uniques": ["[+1 Production, +1 Faith] from every [Fishing Boats]"]
     },
     {
         "name": "God of War",
         "type": "Pantheon",
-        "uniques": ["[+2 Production] from every [Barracks]"]
+        "uniques": ["[+2 Production] from every [Barracks]", "Free [Great General] appears"]
     },
     {
         "name": "Goddess of Festivals",
@@ -53,12 +53,12 @@
     {
         "name": "Goddess of Love",
         "type": "Pantheon",
-        "uniques": ["[+2 Happiness] in cities with [8] or more population"]
+        "uniques": ["[+2 Happiness] <in cities with at least [8] [Population]>"]
     },
     {
         "name": "Goddess of Protection",
         "type": "Pantheon",
-        "uniques": ["[+30]% Production when constructing [Walls] buildings [in all cities]", "[+30]% attacking Strength for cities"]
+        "uniques": ["[+50]% attacking strength for cities with garrisoned units"]
     },
     {
         "name": "Goddess of the Hunt",
@@ -114,7 +114,7 @@
 	{
         "name": "Choral Music",
         "type": "Follower",
-        "uniques": ["[+2 Culture] from every [Temple]"]
+        "uniques": ["[+1 Culture] from all [Faith] buildings <in cities with at least [7] [Population]>"]
     },
 	    
     {
@@ -125,7 +125,7 @@
     {
         "name": "Feed the World",
         "type": "Follower",
-        "uniques": ["[+1 Food] from every [Shrine]", "[+1 Food] from every [Temple]", "[+1 Food] [in all cities]"]
+        "uniques": ["[+1 Food] from all [Faith] buildings"]
     },
     {
         "name": "Guruship",
@@ -136,16 +136,6 @@
         "name": "Liturgical Drama",
         "type": "Follower",
         "uniques": ["[+1 Faith, +1 Culture] from every [Amphitheater]","[+1 Faith, +1 Culture] from every [Opera House]"]
-    },
-		 {
-        "name": "Mosques",
-        "type": "Follower",
-        "uniques": ["May buy [Mosque] buildings for [150] [Faith] [in cities following this religion]"]
-    },
-			 {
-        "name": "Pagodas",
-        "type": "Follower",
-        "uniques": ["May buy [Pagoda] buildings for [195] [Faith] [in cities following this religion]"]
     },
     {
         "name": "Peace Gardens",
@@ -158,19 +148,14 @@
         "uniques": ["[+1 Culture] from all [Culture] buildings <starting from the [Industrial era]>"]
     },
 	{
-        "name": "Religious Centers",
+        "name": "Religious Center",
         "type": "Follower",
-        "uniques": ["[+1 Production, +1 Gold, +1 Happiness] from every [Temple]"]
+        "uniques": ["[+1 Happiness] from all [Faith] buildings <in cities with at least [6] [Population]>"]
     },
     {
         "name": "Swords into Ploughshares",
         "type": "Follower",
         "uniques": ["[+9]% growth [in all cities with a garrison] <when not at war>"]
-    },
- {
-        "name": "Religious Community",
-        "type": "Follower",
-        "uniques": ["[+1]% [Production] from every follower, up to [15]%"]
     },
 // Founder beliefs
     {
@@ -212,12 +197,12 @@
  {
         "name": "Messiah",
         "type": "Enhancer",
-        "uniques": ["[+33]% Spread Religion Strength <for [Great Prophet] units>", "[-33]% Faith cost of generating Great Prophet equivalents"]
+        "uniques": ["[+25]% Spread Religion Strength <for [Great Prophet] units>", "[-25]% Faith cost of generating Great Prophet equivalents"]
     },
     {
         "name": "Missionary Zeal",
         "type": "Enhancer",
-        "uniques": ["[+33]% Spread Religion Strength <for [Missionary] units>"]
+        "uniques": ["[+25]% Spread Religion Strength <for [Missionary] units>"]
     },
     {
         "name": "Religious Texts",
@@ -232,7 +217,7 @@
     {
         "name": "Reliquary",
         "type": "Enhancer",
-        "uniques": ["[+50 Faith] whenever a Great Person is expended"]
+        "uniques": ["[+30 Faith, +20 Culture] whenever a Great Person is expended"]
     }
 ]
 

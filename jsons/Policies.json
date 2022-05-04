@@ -376,8 +376,7 @@
             },
             {
                 "name": "Merchant Navy",
-                "uniques": ["[+3 Production] [in all coastal cities]",
-		"Free [Great Merchant] appears"],
+                "uniques": ["[+3 Production] [in all coastal cities]"],
                 "requires": ["Naval Tradition"],
                 "row": 2,
                 "column": 2
@@ -438,9 +437,7 @@
             {
                 "name": "Humanism",
                 "uniques": [
-                    "[+1 Happiness] from every [University]",
-                    "[+1 Happiness] from every [Observatory]",
-                    "[+1 Happiness] from every [Public School]"
+                    "[+1 Happiness] from all [Science] buildings"
                 ],
                 "row": 1,
                 "column": 5

@@ -182,7 +182,7 @@
             {
                 "name": "Military Caste",
                 "uniques": [
-                    "[+1 Happiness, +1 Production, +2 Culture] [in all cities with a garrison]"
+                    "[+2 Production, +2 Culture] [in all cities with a garrison]"
                 ],
                 "requires": ["Discipline"],
                 "row": 2,
@@ -205,7 +205,7 @@
                 "name": "Honor Complete",
                 "uniques": [
                     "Earn [10]% of killed [Military] unit's [Cost] as [Gold]",
-		    "May capture killed [Barbarian] units"
+		    "Provides a [Walls] in your first [4] cities for free"
                 ]
             }
         ]

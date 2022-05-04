@@ -360,8 +360,6 @@
                     "[+1] Movement <for [{Military} {Water}] units>",
                     "[+1] Sight <for [{Military} {Water}] units>",
                     "Free [Great General] appears"
-                    // "[+2] Movement <for [Great Admiral] units>"
-                    // ToDo: Should be "Free [Great Admiral] appears"
                 ],
                 "row": 1,
                 "column": 2
@@ -378,7 +376,8 @@
             },
             {
                 "name": "Merchant Navy",
-                "uniques": ["[+3 Production] [in all coastal cities]"],
+                "uniques": ["[+3 Production] [in all coastal cities]",
+		"Free [Great Merchant] appears"],
                 "requires": ["Naval Tradition"],
                 "row": 2,
                 "column": 2

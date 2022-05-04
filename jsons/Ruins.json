@@ -1,8 +1,8 @@
 [
     {
         "name": "discover cultural artifacts",
-        "notification": "We have discovered cultural artifacts in the ruins! (+20 culture)",
-        "uniques": ["Gain [20] [Culture]"],
+        "notification": "We have discovered cultural artifacts in the ruins! (+30 culture)",
+        "uniques": ["Gain [30] [Culture]"],
         "color": "#cf8ff7"
     },
     {
@@ -48,7 +48,7 @@
     {
         "name": "reveal nearby Barbarian camps",
         "notification": "You find evidence of Barbarian activity. Nearby Barbarian camps are revealed!",
-        "uniques": ["Reveal up to [All] [Barbarian encampment] within a [10] tile radius"]
+        "uniques": ["Reveal up to [All] [Barbarian encampment] within a [12] tile radius"]
     },
     {
         "name": "find a crudely-drawn map",

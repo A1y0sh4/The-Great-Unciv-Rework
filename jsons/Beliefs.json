@@ -164,6 +164,11 @@
         "uniques": ["[+2 Gold] for each global city following this religion"]
     },
     {
+        "name": "Papal Primacy",
+        "type": "Founder",
+        "uniques": ["Resting point for Influence with City-States following this religion [+10]", "City-State Influence recovers at twice the normal rate"]
+    },
+    {
         "name": "Initiation Rites",
         "type": "Founder",
         "uniques": ["[+100 Gold] when a city adopts this religion for the first time (modified by game speed)"]

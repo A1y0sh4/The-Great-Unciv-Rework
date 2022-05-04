@@ -23,7 +23,7 @@
     {
         "name": "Faith Healers",
         "type": "Pantheon",
-        "uniques": ["[5] HP <for [All] units> when healing"]
+        "uniques": ["[All] Units adjacent to this city heal [+30] HP per turn when healing"]
     },
     {
         "name": "Fertility Rites",
@@ -63,7 +63,7 @@
     {
         "name": "Goddess of Protection",
         "type": "Pantheon",
-        "uniques": ["[+30]% Strength for cities <when attacking>", "Provides a [Walls] in your first [4] cities for free <after discovering [Masonry]>"]
+        "uniques": ["[+50]% Strength for cities <when attacking>"]
     },
     {
         "name": "Goddess of the Hunt",

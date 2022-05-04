@@ -8,17 +8,17 @@
     {
         "name": "Sacred Waters",
         "type": "Pantheon",
-        "uniques": ["[+2 Happiness, +1 Faith] in cities on [River] tiles"]
+        "uniques": ["[+1 Happiness, +1 Faith, +1 Culture] in cities on [River] tiles"]
     },
     {
         "name": "Dance of the Aurora",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from [Tundra] tiles without [Forest] [in this city]", "[+1 Culture] from cities on [Tundra] tiles"]
+        "uniques": ["[+1 Faith] from [Tundra] tiles without [Forest] [in this city]", "[+1 Culture] in cities on [Tundra] tiles"]
     },
     {
         "name": "Desert Folklore",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from every [Desert]", "[+1 Culture] from cities on [Desert] tiles"]
+        "uniques": ["[+1 Faith] from every [Desert]", "[+1 Culture] in cities on [Desert] tiles"]
     },
     {
         "name": "Faith Healers",

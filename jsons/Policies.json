@@ -131,7 +131,7 @@
             },
             {
                 "name": "Liberty Complete",
-                "uniques": ["Free Great Person"]
+                "uniques": ["Free Great Person", "Provides the cheapest [Happiness] building in your first [4] cities for free"]
             }
         ]
     },
@@ -141,7 +141,7 @@
         "priorities": {
             "Neutral": 0,
             "Cultural": 0,
-            "Diplomatic": 10,
+            "Diplomatic": 20,
             "Domination": 30,
             "Scientific": 10
         },
@@ -281,7 +281,7 @@
         "era": "Medieval era",
         "priorities": {
             "Neutral": 0,
-            "Cultural": 10,
+            "Cultural": 20,
             "Diplomatic": 30,
             "Domination": 0,
             "Scientific": 10
@@ -349,9 +349,9 @@
         "priorities": {
             "Neutral": 0,
             "Cultural": 10,
-            "Diplomatic": 10,
+            "Diplomatic": 20,
             "Domination": 10,
-            "Scientific": 10
+            "Scientific": 20
         },
         "uniques": ["[+25]% [Gold] [in capital]"],
         "policies": [

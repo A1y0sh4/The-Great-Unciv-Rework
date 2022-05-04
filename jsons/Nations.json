@@ -913,11 +913,10 @@
 */
 		"outerColor": [198,141,99], // color picker: cf9f75
 		"innerColor": [24,63,66], // color picker: 1f4a4d
-		"favoredReligion": "Christianity",
+
 		"uniqueName": "The Long Count",
 		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
-			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count."],
- 		// Parameters: tech, comment, amount, comment. Compare "Free [Great General] appears" as used by policies
+			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.", "[+1 Science] from every [Farm]", "[+2 Science] from every [Plantation]"],
 		"cities": ["Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul",
 			"Edzna","Lamanai","Izapa","Uaxactun","Comalcalco","Piedras Negras","Cancuen","Yaxha","Quirigua",
 			"Q'umarkaj","Nakbe","Cerros","Xunantunich","Takalik Abaj","Cival","San Bartolo","Altar de Sacrificios","Seibal",

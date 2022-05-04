@@ -876,7 +876,7 @@
 		"outerColor": [19,70,24],
 		"innerColor": [255,46,46],
 		"uniqueName": "Spirit of Adwa",
-		"uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>", "[+15]% Production when constructing [Archery] units [in all cities]"],
+		"uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>", "[+30]% Production when constructing [Archery] units [in all cities]"],
 		"cities": ["Addis Ababa","Harar","Adwa","Lalibela","Gondar","Axum","Dire Dawa","Bahir Dar","Adama",
 			"Mek'ele","Awasa","Jimma","Jijiga","Dessie","Debre Berhan","Shashamane","Debre Zeyit","Sodo","Hosaena",
 			"Nekemte","Asella","Dila","Adigrat","Debre Markos","Kombolcha","Debre Tabor","Sebeta",

@@ -8,12 +8,12 @@
     {
         "name": "Dance of the Aurora",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from [Tundra] tiles without [Forest] [in this city]"]
+        "uniques": ["[+1 Faith] from [Tundra] tiles without [Forest] [in this city]", "[+1 Culture] from cities on [Tundra] tiles"]
     },
     {
         "name": "Desert Folklore",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from every [Desert]"]
+        "uniques": ["[+1 Faith] from every [Desert]", "[+1 Culture] from cities on [Desert] tiles"]
     },
     {
         "name": "Faith Healers",
@@ -202,7 +202,7 @@
     {
         "name": "Religious Texts",
         "type": "Enhancer",
-        "uniques": ["[+25]% Natural religion spread [in all cities]", "[+25]% Natural religion spread [in all cities] <after discovering [Printing Press]>"]
+        "uniques": ["[Faith] cost of purchasing items in cities [-15]% ", "[Faith] cost of purchasing items in cities [-15]% <after discovering [Printing Press]>"]
     },
     {
         "name": "Religious Unity",

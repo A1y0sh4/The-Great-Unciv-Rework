@@ -43,7 +43,7 @@
     {
         "name": "God of War",
         "type": "Pantheon",
-        "uniques": ["[+2 Production] from every [Barracks]", "Free [Great General] appears"]
+        "uniques": ["[+2 Production] from every [Barracks]"]
     },
     {
         "name": "Goddess of Festivals",
@@ -53,7 +53,7 @@
     {
         "name": "Goddess of Love",
         "type": "Pantheon",
-        "uniques": ["[+2 Happiness] <in cities with at least [8] [Population]>"]
+        "uniques": ["[+2 Happiness] [in all cities connected to capital]"]
     },
     {
         "name": "Goddess of Protection",
@@ -114,7 +114,7 @@
 	{
         "name": "Choral Music",
         "type": "Follower",
-        "uniques": ["[+1 Culture] from all [Faith] buildings <in cities with at least [7] [Population]>"]
+        "uniques": ["[+1 Culture] from all [Faith] buildings [in all cities connected to capital]"]
     },
 	    
     {
@@ -150,7 +150,7 @@
 	{
         "name": "Religious Center",
         "type": "Follower",
-        "uniques": ["[+1 Happiness] from all [Faith] buildings <in cities with at least [6] [Population]>"]
+        "uniques": ["[+1 Happiness] from all [Faith] buildings [in all cities connected to capital]"]
     },
     {
         "name": "Swords into Ploughshares",

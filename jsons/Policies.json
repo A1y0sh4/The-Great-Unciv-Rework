@@ -230,7 +230,8 @@
                 "name": "Organized Religion",
                 "uniques": [
                     "[+1 Faith] from every [Shrine]",
-                    "[+1 Faith] from every [Temple]"
+                    "[+1 Faith] from every [Temple]",
+		    "Provides the cheapest [Faith] building in your first [4] cities for free"
                 ],
                 "row": 1,
                 "column": 2

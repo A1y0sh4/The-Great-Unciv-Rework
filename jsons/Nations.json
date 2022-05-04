@@ -695,5 +695,232 @@
 			"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
 			"Lugo","Alicante","Càdiz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La Coruña","Guadalquivir","Bilbao",
 			"San Sebastian","Granada","Mérida","Huelva","Ibiza","Las Palmas","Tenerife"]
+	},
+	{
+		"name": "Inca",
+		"leaderName": "Pachacuti",
+		"adjective": ["Incan"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Oh ye who remakes the world, your loyal subjects greet you, King Pachacuti Sapa Inca, ruler of Tawantinsuyu and the Inca people! From the beginnings in the small state of Cusco, the Incans displayed their potential for greatness, marching to war against their many enemies, crushing their armies into dust and carving for themselves a mighty empire stretching from Ecuador to Chile. Indeed, they built the greatest empire ever seen in pre-Columbian America. More than mere soldiers, your people were great builders and artists as well, and the remnants of their works still awe and inspire the world today.",
+		"startIntroPart2": "Oh King Pachacuti, truly are you called 'Earth Shaker'! Will you once again call upon the ground itself to a fight at your side? Your armies await your signal. Will you restore the glory of your empire? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Resistance is futile! You cannot hope to stand against the mighty Incan empire. If you will not surrender immediately, then prepare for war!",
+		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
+		"defeated": "How did you darken the sun? I ruled with diligence and mercy—see that you do so as well.",
+		"introduction": "How are you? You stand before Pachacuti Inca Yupanqui.",
+
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+
+		"afterPeace": "Viracocha has frowned upon our war, and has agreed to our peace agreements.",
+		"tradeRequest": "The Incan people offer this fair trade.",
+
+		"outerColor": [255,184,33],
+		"innerColor": [3,115,86],
+		"uniqueName": "Great Andean Road",
+		"uniques": ["Units ignore terrain costs when moving into any tile with Hills",
+			"[-50]% maintenance on road & railroads",
+			"No Maintenance costs for improvements in [Hill] tiles", "[+1 Culture] in cities on [Hill] tiles"],
+		"cities": ["Cuzco","Tiwanaku","Machu","Ollantaytambo","Corihuayrachina","Huamanga","Rumicucho","Vilcabamba","Vitcos",
+			"Andahuaylas","Ica","Arequipa","Nasca","Atico","Juli","Chuito","Chuquiapo","Huanuco Pampa","Tamboccocha",
+			"Huaras","Riobamba","Caxamalca","Sausa","Tambo Colorado","Huaca","Tumbes","Chan Chan","Sipan","Pachacamac",
+			"Llactapata","Pisac","Kuelap","Pajaten","Chucuito","Choquequirao"]
+	},
+	{
+		"name": "Aztecs",
+		"leaderName": "Montezuma I",
+		"adjective": ["Aztec"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Welcome, O divine Montezuma! We grovel in awe at your magnificence! May the heaven shower all manner of good things upon you all the days of your life! You are the leader of the mighty Aztec people, wandering nomads from a lost home in the north who in the 12th century came to live in the mesa central in the heart of what would come to be called Mexico. Surrounded by many tribes fighting to control the rich land surrounding the sacred lakes of Texcoco, Xaltocan and Zampango, through cunning alliances and martial prowess, within a mere two hundred years, the Aztecs came to dominate the Central American basin, ruling a mighty empire stretching from sea to sea. But the empire fell at last under the assault of foreign devils - the accursed Spaniards! - wielding fiendish weapons the likes of which your faithful warriors had never seen.",
+		"startIntroPart2": "O great king Montezuma, your people call upon you once more, to rise up and lead them to glory, bring them wealth and power, and give them dominion over their foes and rivals. Will you answer their call, glorious leader? Will you build a civilization that stands the test of time?",
+
+		"declaringWar": "Xi-miqa-can! Xi-miqa-can! Xi-miqa-can! (Die, die, die!)",
+		"attacked": "Excellent! Let the blood flow in raging torrents!",
+		"defeated": "Monster! Who are you to destroy my greatness?",
+		"introduction": "What do I see before me? Another beating heart for my sacrificial fire.",
+
+		"neutralHello": "Welcome, friend.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Accept this agreement or suffer the consequences.",
+
+		"outerColor": [139,32,23],
+		"innerColor": [134,238,214],
+
+		"uniqueName": "Sacrificial Captives",
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]", "[+1 Culture] from every [Lake]"],
+		"cities": ["Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
+			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
+			"Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac",
+			"Jilotzingo","Tlapanaloya","Tultitan","Ecatepec","Coatepec","Chalchiuites","Chiauhita","Chapultepec",
+			"Itzapalapa","Ayotzinco","Iztapam"]
+	},
+	{
+		"name": "Siam",
+		"leaderName": "Ramkhamhaeng",
+		"adjective": ["Siamese"],
+		"startBias": ["Avoid [Forest]"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "Greetings to you, Great King Ramkhamhaeng, leader of the glorious Siamese people! O mighty King, your people bow down before you in awe and fear! You are the ruler of Siam, an ancient country in the heart of Southeast Asia, a beautiful and mysterious land. Surrounded by foes, beset by bloody war and grinding poverty, the clever and loyal Siamese people have endured and triumphed. King Ramkhamhaeng, your empire was once part of the Khmer Empire, until the 13th century AD, when your ancestors revolted, forming the small Sukhothai kingdom. Through successful battle and cunning diplomacy, the tiny kingdom grew into a mighty empire, an empire which would dominate South East Asia for more than a century!",
+		"startIntroPart2": "Oh, wise and puissant King Ramkhamhaeng, your people need you to once again lead them to greatness! Can you use your wits and strength of arms to protect your people and defeat your foes? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "You lowly, arrogant fool! I will make you regret of your insolence!",
+		"attacked": "You scoundrel! I shall prepare to fend you off!",
+		"defeated": "Although I lost, my honor shall endure. I wish you good luck.",
+		"introduction": "I, Pho Kun Ramkhamhaeng, King of Siam, consider it a great honor that you have walked to visit my country of Siam.",
+		"neutralHello": "Welcome.",
+		"hateHello": "Greetings.",
+		"tradeRequest": "Greetings. I believe this is a fair proposal for both parties. What do you think?",
+		"outerColor": [228,208,43],
+		"innerColor": [193,21,17],
+		"favoredReligion": "Buddhism",
+		"uniqueName": "Father Governs Children",
+		"uniques": ["[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Military Units gifted from City-States start with [+15] XP", "[+1 Faith] from all [Food] buildings <before the [Industrial era]>"],
+		"cities": ["Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Phitsanulok","Kamphaeng Pet","Nakhom Chum","Vientiane",
+			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
+			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",
+			"Ban Phai","Loci","Khon Kaen","Surin"]
+	},
+	{
+		"name": "Arabia",
+		"leaderName": "Harun al-Rashid",
+		"adjective": ["Arabian"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "Blessings of God be upon you oh great caliph Harun al-Rashid, leader of the pious Arabian people! The Muslim empire, the Caliphate was born in the turbulent years after the death of the prophet Muhammad in 632 AD, as his followers sought to extend the rule of God to all of the people of the earth. The caliphate grew mighty indeed at the height of its power, ruling Spain, North Africa, the Middle East, Anatolia, the Balkans and Persia. An empire as great as or even greater than that of Rome. The arts and sciences flourished in Arabia during the Middle Ages, even as the countries of Europe descended into ignorance and chaos. The Caliphate survived for six hundred years, until finally succumbing to attack from the Mongols, those destroyers of Empires.",
+		"startIntroPart2": "Great Caliph Harun al Rashid, your people look to you to return them to greatness! To make Arabia once again an enlightened land of arts and knowledge, a powerful nation who needs fear no enemy! Oh Caliph, will you take up the challenge? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "The world will be more beautiful without you. Prepare for war.",
+		"attacked": "Fool! You will soon regret dearly! I swear it!",
+		"defeated": "You have won, congratulations. My palace is now in your possession, and I beg that you care well for the peacock.",
+		"introduction": "Welcome foreigner, I am Harun Al-Rashid, Caliph of the Arabs. Come and tell me about your empire.",
+		"neutralHello": "Peace be upon you.",
+		"hateHello": "Oh, it's you.",
+		"tradeRequest": "Come forth, let's do business.",
+		"outerColor": [ 41,83,42],
+		"innerColor": [146,221,9],
+		"favoredReligion": "Islam",
+		"uniqueName": "Trade Caravans",
+		"uniques": ["[+2 Gold] from each Trade Route", "Double quantity of [Oil] produced", "Cost of purchasing [all] buildings reduced by [50]%"],
+		"cities": ["Mecca","Medina","Damascus","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat",
+			"Aden","Yamama","Muscat","Mansura","Bukhara","Fez","Shiraz","Merw","Balkh","Mosul",
+			"Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr","Tripoli","Tunis","Kairouan","Algiers","Oran"]
+	},
+	{
+		"name": "Egypt",
+		"leaderName": "Ramesses II",
+		"adjective": ["Egyptian"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "We greet thee, oh great Ramesses, Pharaoh of Egypt, who causes the sun to rise and the Nile to flow, and who blesses his fortunate people with all the good things of life! Oh great lord, from time immemorial your people lived on the banks of the Nile river, where they brought writing to the world, and advanced mathematics, sculpture, and architecture. Thousands of years ago they created the great monuments which still stand tall and proud.",
+		"startIntroPart2": "Oh, Ramesses, for uncounted years your people endured, as other petty nations around them have risen and then fallen into dust. They look to you to lead them once more into greatness. Can you honor the gods and bring Egypt back to her rightful place at the very center of the world? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "You are but a pest on this Earth, prepare to be eliminated!",
+		"attacked": "You are a fool who evokes pity. You have brought my hostility upon yourself and your repulsive civilization!",
+		"defeated": "Strike me down and my soul will torment yours forever, you have won nothing.",
+		"introduction": "Greetings, I am Ramesses the god. I am the living embodiment of Egypt, mother and father of all civilizations.",
+
+		"neutralHello": "Good day.",
+		"hateHello": "Oh, it's you.",
+
+		"tradeRequest": "Generous Egypt makes you this offer.",
+
+		"outerColor": [ 231, 213, 0],
+		"innerColor": [98,10,210],
+		"uniqueName": "Monument Builders",
+		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]", "[+1 Food] from every [Desert]"],
+		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
+			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
+			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
+			   "Balat","Ellahun","Hawara","Dashur","Damanhur","Ellahun","Abusir","Ellahun","Herakleopolis","Akoris",
+			   "Benihasan","Badari","Hermopolis","Amrah","Koptos","Ombos","Naqada","Semna","Soleb"]
+	},
+	{
+		"name": "Ethiopia",
+		"leaderName": "Haile Selassie",
+		"adjective": ["ethiopian"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Blessings be upon you, honorable and righteous Emperor of Ethiopia, Haile Selassie. Your legacy as one of Ethiopia's greatest rulers, and as the spiritual leader to the Rastafarian movement, is outshone only by the influence you had on diplomacy and political cooperation throughout the world. In introducing Ethiopia's first written constitution, you planted the seeds of democracy that would take root over the coming years, and your infinitely wise grasp of global affairs secured Ethiopia's place as a charter member of the United Nations. Spearheading efforts to reform and modernize the nation during your reign, you changed the course of Ethiopian history forever",
+		"startIntroPart2": "Revered king, your composed demeanor once protected the people from the many conflicts that plague the nations of men, and the kingdom looks to you to assure peace once again. Will you lead the people with courage and authority, moving forward into a new age? Will you build a civilization that stands the test of time?",
+
+		"declaringWar": "I have tried all other avenues, but yet you persist in this madness. I hope, for your sake, your end is swift.",
+		"attacked": "It is silence that allows evil to triumph. We will not stand mute and allow you to continue on this mad quest unchecked.",
+		"defeated": "God and history will remember your actions this day. I hope you are ready for your impending judgment.",
+		"introduction": "A thousand welcomes to our fair nation. I am Selassie, the Ras Tafari Makonnen and Emperor of Ethiopia, your humble servant.",
+		"tradeRequest": "I request that you consider this offer between our two peoples. I believe it will do us both good.",
+		"afterPeace": "Today is the day on which we defeated our enemy. However, we shall only rejoice in our hearts, and in the spirit of heaven.",
+
+		"neutralHello": "Welcome.",
+		"neutralLetsHearIt": ["Continue.","I am listening.","Yes?"],
+		"neutralNo": ["It is not right.","We oppose because it is not right.","But I feel the agreement is done."],
+		"neutralYes": ["Great.","An agreement has been reached.","Our heart and soul is very much satisfied."],
+
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": ["You said it.","What?","Continue."],
+		"hateNo": ["That is unacceptable.","You are not sure about it.","Please repeat for me."],
+		"hateYes": ["Fine, in my understanding.","It is clear.","It is clear."],
+
+		"outerColor": [19,70,24],
+		"innerColor": [255,46,46],
+		"uniqueName": "Spirit of Adwa",
+		"uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>", "[+15]% Production when constructing [Archery] units [in all cities]"],
+		"cities": ["Addis Ababa","Harar","Adwa","Lalibela","Gondar","Axum","Dire Dawa","Bahir Dar","Adama",
+			"Mek'ele","Awasa","Jimma","Jijiga","Dessie","Debre Berhan","Shashamane","Debre Zeyit","Sodo","Hosaena",
+			"Nekemte","Asella","Dila","Adigrat","Debre Markos","Kombolcha","Debre Tabor","Sebeta",
+			"Shire","Ambo","Negele Arsi","Gambela","Ziway","Weldiya"]
+	},
+	{
+		"name": "The Maya",
+		"leaderName": "Pacal",
+		"adjective": ["mayan"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "Your people kneel before you, exalted King Pacal the Great, favored son of the gods and shield to the citizens of the Palenque domain. After years of strife at the hands of your neighboring rivals, you struck back at the enemies of your people, sacrificing their leaders in retribution for the insults dealt to your predecessors. The glory of Palenque was restored only by the guidance afforded by your wisdom, as you orchestrated vast reconstruction efforts within the city, creating some of the greatest monuments and architecture your people - and the world - have ever known.",
+		"startIntroPart2": "Illustrious King, your people once again look to you for leadership and counsel in the coming days. Will you channel the will of the gods and restore your once proud kingdom to its greatest heights? Will you build new monuments to forever enshrine the memories of your people? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "A sacrifice unlike all others must be made!",
+		"attacked": "Muahahahahahaha!",
+		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
+		"introduction": "Greetings, wayward one. I am known as Pacal.",
+		"tradeRequest": "Friend, I believe I may have found a way to save us all! Look, look and accept my offering!",
+
+		"neutralHello": "A fine day, it helps you.",
+/* Not used by Unciv, and uncertain
+		"afterPeace": "",
+
+		"neutralLetsHearIt": ["If you must show me."],
+		"neutralNo": ["No no, too much trouble.","No!","Not good enough."],
+		"neutralYes": ["Okay.","Fine.","Accepted."],
+
+		"hateHello": "You.",
+		"hateLetsHearIt": ["Talk.","So?","Speak!"],
+		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
+		"hateYes": ["Oh… Fine, okay."],
+*/
+		"outerColor": [198,141,99], // color picker: cf9f75
+		"innerColor": [24,63,66], // color picker: 1f4a4d
+		"favoredReligion": "Christianity",
+		"uniqueName": "The Long Count",
+		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count."],
+ 		// Parameters: tech, comment, amount, comment. Compare "Free [Great General] appears" as used by policies
+		"cities": ["Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul",
+			"Edzna","Lamanai","Izapa","Uaxactun","Comalcalco","Piedras Negras","Cancuen","Yaxha","Quirigua",
+			"Q'umarkaj","Nakbe","Cerros","Xunantunich","Takalik Abaj","Cival","San Bartolo","Altar de Sacrificios","Seibal",
+			"Caracol","Naranjo","Dos Pilas","Mayapan","Ixinche","Zaculeu","Kabah"]
 	}
 	]

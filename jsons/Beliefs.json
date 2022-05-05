@@ -138,11 +138,6 @@
     },
 // Founder beliefs
     {
-        "name": "Papal Primacy",
-        "type": "Founder",
-        "uniques": ["Resting point for Influence with City-States following this religion [+10]", "City-State Influence recovers at twice the normal rate"]
-    },
-    {
 		"name": "World Church",
 		"type": "Founder",
 		"uniques": ["[+1 Culture] for every [3] global followers [in foreign cities]"]

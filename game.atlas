@@ -1,0 +1,540 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+
+BuildingIcons/Akkadian Library
+  rotate: false
+  xy: 620, 1252
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Alcazaba
+  rotate: false
+  xy: 1036, 1252
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Boers Bonus
+  rotate: false
+  xy: 1452, 1044
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Canton Factory
+  rotate: false
+  xy: 4, 1460
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+BuildingIcons/Castle Builders
+  rotate: false
+  xy: 1044, 836
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Coffee House
+  rotate: false
+  xy: 1252, 836
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Darbas
+  rotate: false
+  xy: 4, 636
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Dojo
+  rotate: false
+  xy: 212, 628
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Vihara
+  rotate: false
+  xy: 212, 628
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Eightfold Path to Nirvana
+  rotate: false
+  xy: 628, 628
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Fabrik
+  rotate: false
+  xy: 1044, 628
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Free Burial Tomb
+  rotate: false
+  xy: 4, 428
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Free Jarliq
+  rotate: false
+  xy: 212, 420
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Free Seaport
+  rotate: false
+  xy: 420, 420
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Gemcutter
+  rotate: false
+  xy: 820, 1460
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+BuildingIcons/Great Zimbabwe
+  rotate: false
+  xy: 1460, 420
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Gurdwara
+  rotate: false
+  xy: 4, 220
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Halkevleri
+  rotate: false
+  xy: 212, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hippodrome
+  rotate: false
+  xy: 1044, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Italy Aesthetics
+  rotate: false
+  xy: 212, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Italy Commerce
+  rotate: false
+  xy: 212, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Italy Exploration
+  rotate: false
+  xy: 212, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Italy Honor
+  rotate: false
+  xy: 212, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Italy Liberty
+  rotate: false
+  xy: 212, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Italy Patronage
+  rotate: false
+  xy: 212, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Italy Piety
+  rotate: false
+  xy: 212, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Italy Rationalism
+  rotate: false
+  xy: 212, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Italy Tradition
+  rotate: false
+  xy: 212, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/King Ezana's Stele
+  rotate: false
+  xy: 1044, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Lion's Gate
+  rotate: false
+  xy: 1636, 1460
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Caer
+  rotate: false
+  xy: 628, 836
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Harjis
+  rotate: false
+  xy: 420, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Akkad
+  rotate: false
+  xy: 412, 1252
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Aksum
+  rotate: false
+  xy: 828, 1252
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Argentina
+  rotate: false
+  xy: 1244, 1252
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Armenia
+  rotate: false
+  xy: 1452, 1252
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Ayyubids
+  rotate: false
+  xy: 412, 1044
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Belgium
+  rotate: false
+  xy: 1036, 1044
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Boers
+  rotate: false
+  xy: 1244, 1044
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Brunei
+  rotate: false
+  xy: 1660, 1044
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Bulgaria
+  rotate: false
+  xy: 212, 836
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Burma
+  rotate: false
+  xy: 420, 836
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Canada
+  rotate: false
+  xy: 836, 836
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Finland
+  rotate: false
+  xy: 1460, 628
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Franks
+  rotate: false
+  xy: 1668, 628
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Gaul
+  rotate: false
+  xy: 1044, 420
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Golden Horde
+  rotate: false
+  xy: 1252, 420
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Hungary
+  rotate: false
+  xy: 1252, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Ireland
+  rotate: false
+  xy: 1460, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Israel
+  rotate: false
+  xy: 1668, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Italy
+  rotate: false
+  xy: 4, 12
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Jerusalem
+  rotate: false
+  xy: 420, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Khmer
+  rotate: false
+  xy: 628, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Kilwa
+  rotate: false
+  xy: 836, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Kongo
+  rotate: false
+  xy: 1460, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Coral
+  rotate: false
+  xy: 412, 1460
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Hardwood
+  rotate: false
+  xy: 1228, 1460
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Obsidian
+  rotate: false
+  xy: 4, 1052
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+UnitIcons/Atomic Bomb
+  rotate: false
+  xy: 1660, 1252
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Baghlah
+  rotate: false
+  xy: 620, 1044
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Ballista Elephant
+  rotate: false
+  xy: 828, 1044
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Buffalo Hunter
+  rotate: false
+  xy: 4, 844
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Crusader
+  rotate: false
+  xy: 1460, 836
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Dalai Lama
+  rotate: false
+  xy: 1668, 836
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Fast Worker
+  rotate: false
+  xy: 1252, 628
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Future Soldier
+  rotate: false
+  xy: 628, 420
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Gadrauht
+  rotate: false
+  xy: 836, 420
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Grenadine Cavalry
+  rotate: false
+  xy: 1668, 420
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Heavy Chariot
+  rotate: false
+  xy: 628, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Hetairoi
+  rotate: false
+  xy: 836, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Hetairoi
+  rotate: false
+  xy: 836, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Koa
+  rotate: false
+  xy: 1252, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Konnitsa
+  rotate: false
+  xy: 1668, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Drauhtinon
+  rotate: false
+  xy: 420, 628
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Goths
+  rotate: false
+  xy: 420, 628
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Epic of Battle
+  rotate: false
+  xy: 836, 628
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+

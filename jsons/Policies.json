@@ -403,7 +403,7 @@
             {
                 "name": "Commerce Complete",
                 "uniques": [
-                    "[+1 Gold, +1 Production] from every [Trading post]",
+                    "[+1 Gold] from every [Trading post]",
                     "[+100]% Gold from Great Merchant trade missions",
                     "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]

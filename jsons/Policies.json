@@ -353,7 +353,7 @@
             "Domination": 10,
             "Scientific": 20
         },
-        "uniques": ["[+25]% [Gold] [in capital]", "[+1 Gold] from all [Gold] buildings"],
+        "uniques": ["[+25]% [Gold] [in capital]"],
         "policies": [
             {
                 "name": "Naval Tradition",

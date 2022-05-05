@@ -21,21 +21,6 @@
         "uniques": ["[+1 Faith] from every [Desert]", "[+1 Culture] in cities on [Desert] tiles"]
     },
     {
-        "name": "Fertility Rites",
-        "type": "Pantheon",
-        "uniques": ["[+6]% growth [in all cities]"] 
-    },
-    {
-        "name": "God of Craftsman",
-        "type": "Pantheon",
-        "uniques": ["[+1 Production] [in all cities]"]
-    },
-    {
-        "name": "God of the Open Sky",
-        "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Pasture]"]
-    },
-    {
         "name": "God of the Sea",
         "type": "Pantheon",
         "uniques": ["[+1 Production, +1 Faith] from every [Fishing Boats]"]
@@ -90,11 +75,6 @@
         "name": "Peace Gardens",
         "type": "Follower",
         "uniques": ["[+2 Happiness, +1 Culture] from every [Garden]"]
-    },
-    {
-        "name": "Swords into Ploughshares",
-        "type": "Follower",
-        "uniques": ["[+9]% growth [in all cities with a garrison] <when not at war>"]
     },
 // Founder beliefs
     {

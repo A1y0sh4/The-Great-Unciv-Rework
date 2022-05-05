@@ -48,7 +48,7 @@
     {
         "name": "God of War",
         "type": "Pantheon",
-        "uniques": ["[+2 Production] from every [Barracks]"]
+        "uniques": ["[+2 Production] from every [Barracks]", "[+20]% XP gained from combat <for [Military] units>"]
     },
     {
         "name": "Goddess of Festivals",
@@ -63,7 +63,7 @@
     {
         "name": "Goddess of Protection",
         "type": "Pantheon",
-        "uniques": ["[+50]% Strength for cities <when attacking>"]
+        "uniques": ["[+50]% Strength for cities <when attacking>", "[+1 Culture] from every [Wall]"]
     },
     {
         "name": "Goddess of the Hunt",

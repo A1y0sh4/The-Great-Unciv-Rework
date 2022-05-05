@@ -82,11 +82,6 @@
         "uniques": ["[+2 Faith, +1 Culture] from every [Wonder]"]
     },
     {
-        "name": "Guruship",
-        "type": "Follower",
-        "uniques": ["[+2 Production] <if this city has at least [1] specialists>"]
-    },
-    {
         "name": "Liturgical Drama",
         "type": "Follower",
         "uniques": ["[+1 Faith, +1 Culture] from every [Amphitheater]","[+1 Faith, +1 Culture] from every [Opera House]"]

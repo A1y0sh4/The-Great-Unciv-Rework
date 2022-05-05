@@ -377,7 +377,7 @@
             },
             {
                 "name": "Merchant Navy",
-                "uniques": ["[+2 Production, +2 Gold] [in all coastal cities]"],
+                "uniques": ["[+3 Production] [in all coastal cities]"],
                 "requires": ["Naval Tradition"],
                 "row": 2,
                 "column": 2

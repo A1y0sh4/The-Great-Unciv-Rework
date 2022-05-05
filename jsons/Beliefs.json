@@ -23,7 +23,7 @@
     {
         "name": "Faith Healers",
         "type": "Pantheon",
-        "uniques": ["[All] Units adjacent to this city heal [+30] HP per turn when healing", "[+1 Faith] [in all cities]"]
+        "uniques": ["[All] Units adjacent to this city heal [+30] HP per turn when healing"]
     },
     {
         "name": "Fertility Rites",
@@ -115,8 +115,7 @@
         "name": "Choral Music",
         "type": "Follower",
         "uniques": ["[+1 Culture] from all [Faith] buildings <starting from the [Medieval era]>"]
-    },
-	    
+    },    
     {
         "name": "Divine inspiration",
         "type": "Follower",
@@ -132,7 +131,7 @@
         "type": "Follower",
         "uniques": ["[+2 Production] <if this city has at least [1] specialists>"]
     },
-	{
+    {
         "name": "Liturgical Drama",
         "type": "Follower",
         "uniques": ["[+1 Faith, +1 Culture] from every [Amphitheater]","[+1 Faith, +1 Culture] from every [Opera House]"]
@@ -147,7 +146,7 @@
         "type": "Follower",
         "uniques": ["[+1 Culture] from all [Culture] buildings <starting from the [Industrial era]>"]
     },
-	{
+    {
         "name": "Religious Center",
         "type": "Follower",
         "uniques": ["[+1 Happiness] from all [Faith] buildings <starting from the [Medieval era]>"]
@@ -178,16 +177,16 @@
         "type": "Founder",
         "uniques": ["[+2 Faith] for each global city following this religion"]
     },
-		{
+    {
         "name": "Ceremonial Burial",
         "type": "Founder",
         "uniques": ["[+1 Happiness] for each global city following this religion"]
     },
-	{
+    {
 		"name": "World Church",
 		"type": "Founder",
 		"uniques": ["[+1 Culture] for every [3] global followers [in foreign cities]"]
-	},
+    },
 // ENHANCERS
 	{
         "name": "Defender of the Faith",

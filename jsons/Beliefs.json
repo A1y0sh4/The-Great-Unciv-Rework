@@ -21,21 +21,6 @@
         "uniques": ["[+1 Faith] from every [Desert]", "[+1 Culture] in cities on [Desert] tiles"]
     },
     {
-        "name": "Fertility Rites",
-        "type": "Pantheon",
-        "uniques": ["[+6]% growth [in all cities]"] 
-    },
-    {
-        "name": "God of Craftsman",
-        "type": "Pantheon",
-        "uniques": ["[+1 Production] [in all cities]"]
-    },
-    {
-        "name": "God of the Open Sky",
-        "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Pasture]"]
-    },
-    {
         "name": "God of the Sea",
         "type": "Pantheon",
         "uniques": ["[+1 Production, +1 Faith] from every [Fishing Boats]"]
@@ -44,16 +29,6 @@
         "name": "God of War",
         "type": "Pantheon",
         "uniques": ["[+1 Production, +1 Happiness] from every [Barracks]", "[+1 Production, +1 Happiness] from every [Armory]", "[+1 Production, +1 Happiness] from every [Military Academy]"]
-    },
-    {
-        "name": "Goddess of Festivals",
-        "type": "Pantheon",
-        "uniques": ["[+1 Food] from every [Luxury resource]"]
-    },
-    {
-        "name": "Goddess of Love",
-        "type": "Pantheon",
-        "uniques": ["[+2 Happiness] [in all cities connected to capital]"]
     },
     {
         "name": "Goddess of Protection",
@@ -76,45 +51,15 @@
         "uniques": ["[+5 Faith] from every [Natural Wonder]"]
     },
     {
-        "name": "Religious Idols",
-        "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Luxury resource] <before the [Medieval era]>"]
-    },
-    {
-        "name": "Religious Settlements",
-        "type": "Pantheon",
-        "uniques": ["[-25]% Culture cost of natural border growth [in all cities connected to capital]"]
-    },
-    {
         "name": "Sacred Path",
         "type": "Pantheon",
         "uniques": ["[+1 Culture] from every [Jungle]", "[+1 Culture] from each Trade Route"]
     },
-    {
-        "name": "Stone Circles",
-        "type": "Pantheon",
-        "uniques": ["[+1 Production, +2 Faith] from every [Quarry]"]
-    },
 // Follower beliefs
-    {
-        "name": "Choral Music",
-        "type": "Follower",
-        "uniques": ["[+1 Culture] from all [Faith] buildings <starting from the [Medieval era]>"]
-    },    
     {
         "name": "Divine inspiration",
         "type": "Follower",
         "uniques": ["[+2 Faith, +1 Culture] from every [Wonder]"]
-    },
-    {
-        "name": "Feed the World",
-        "type": "Follower",
-        "uniques": ["[+1 Food] from all [Faith] buildings <starting from the [Medieval era]>"]
-    },
-    {
-        "name": "Guruship",
-        "type": "Follower",
-        "uniques": ["[+2 Production] <if this city has at least [1] specialists>"]
     },
     {
         "name": "Liturgical Drama",
@@ -126,27 +71,7 @@
         "type": "Follower",
         "uniques": ["[+2 Happiness, +1 Culture] from every [Garden]"]
     },
-    {
-        "name": "Religious Art",
-        "type": "Follower",
-        "uniques": ["[+1 Culture] from all [Culture] buildings <starting from the [Industrial era]>"]
-    },
-    {
-        "name": "Religious Center",
-        "type": "Follower",
-        "uniques": ["[+1 Happiness] from all [Faith] buildings <starting from the [Medieval era]>"]
-    },
-    {
-        "name": "Swords into Ploughshares",
-        "type": "Follower",
-        "uniques": ["[+9]% growth [in all cities with a garrison] <when not at war>"]
-    },
 // Founder beliefs
-    {
-        "name": "Papal Primacy",
-        "type": "Founder",
-        "uniques": ["Resting point for Influence with City-States following this religion [+10]", "City-State Influence recovers at twice the normal rate"]
-    },
     {
 		"name": "World Church",
 		"type": "Founder",

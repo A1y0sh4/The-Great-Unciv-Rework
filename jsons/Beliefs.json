@@ -51,11 +51,6 @@
         "uniques": ["[+1 Food] from every [Luxury resource]"]
     },
     {
-        "name": "Goddess of Love",
-        "type": "Pantheon",
-        "uniques": ["[+2 Happiness] [in all cities connected to capital]"]
-    },
-    {
         "name": "Goddess of Protection",
         "type": "Pantheon",
         "uniques": ["[+30]% Strength for cities <when attacking>", "[+1 Culture, +1 Faith] from every [Wall]"]
@@ -83,7 +78,7 @@
     {
         "name": "Religious Settlements",
         "type": "Pantheon",
-        "uniques": ["[-25]% Culture cost of natural border growth [in all cities connected to capital]"]
+        "uniques": ["[-25]% Culture cost of natural border growth [in all cities]"]
     },
     {
         "name": "Sacred Path",

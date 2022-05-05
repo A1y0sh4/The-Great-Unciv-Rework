@@ -164,7 +164,7 @@
                 "name": "Discipline",
                 "uniques": [
                     "[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>",
-		    "[5] HP <for [Military] units> when healing"
+		    "Provides a [Barracks] in your first [4] cities for free"
                 ],
                 "row": 1,
                 "column": 4

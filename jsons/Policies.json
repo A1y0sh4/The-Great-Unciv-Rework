@@ -353,13 +353,14 @@
             "Domination": 10,
             "Scientific": 20
         },
-        "uniques": ["[+25]% [Gold] [in capital]"],
+        "uniques": ["[+25]% [Gold] [in capital]", "[+1 Gold] from all [Gold] buildings"],
         "policies": [
             {
                 "name": "Naval Tradition",
                 "uniques": [
-                    "[+1] Movement <for [{Military} {Water}] units>",
-                    "[+1] Sight <for [{Military} {Water}] units>",
+                    "[+1] Movement <for [Water] units>",
+		    "[+1] Movement <for [Embarked] units>",
+                    "[+1] Sight <for [Water] units>",
                     "Free [Great General] appears"
                 ],
                 "row": 1,
@@ -377,7 +378,7 @@
             },
             {
                 "name": "Merchant Navy",
-                "uniques": ["[+3 Production] [in all coastal cities]"],
+                "uniques": ["[+2 Production, +2 Gold] [in all coastal cities]"],
                 "requires": ["Naval Tradition"],
                 "row": 2,
                 "column": 2

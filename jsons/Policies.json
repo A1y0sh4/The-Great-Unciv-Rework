@@ -359,7 +359,6 @@
                 "name": "Naval Tradition",
                 "uniques": [
                     "[+1] Movement <for [{Military} {Water}] units>",
-		    "[+1] Movement <for [Embarked] units>",
                     "[+1] Sight <for [{Military} {Water}] units>",
                     "Free [Great General] appears"
                 ],

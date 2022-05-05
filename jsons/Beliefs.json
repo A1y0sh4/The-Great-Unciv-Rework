@@ -73,7 +73,7 @@
     {
         "name": "Religious Idols",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Luxury resource] <before the [Medieval era]>"]
+        "uniques": ["[+1 Culture, +1 Faith] from every [Luxury resource]"]
     },
     {
         "name": "Religious Settlements",
@@ -94,7 +94,7 @@
     {
         "name": "Choral Music",
         "type": "Follower",
-        "uniques": ["[+1 Culture] from all [Faith] buildings <starting from the [Medieval era]>"]
+        "uniques": ["[+1 Culture] from all [Faith] buildings"]
     },    
     {
         "name": "Divine inspiration",
@@ -104,7 +104,7 @@
     {
         "name": "Feed the World",
         "type": "Follower",
-        "uniques": ["[+1 Food] from all [Faith] buildings <starting from the [Medieval era]>"]
+        "uniques": ["[+1 Food] from all [Faith] buildings"]
     },
     {
         "name": "Guruship",
@@ -124,12 +124,12 @@
     {
         "name": "Religious Art",
         "type": "Follower",
-        "uniques": ["[+1 Culture] from all [Culture] buildings <starting from the [Industrial era]>"]
+        "uniques": ["[+1 Culture] from all [Culture] buildings"]
     },
     {
         "name": "Religious Center",
         "type": "Follower",
-        "uniques": ["[+1 Happiness] from all [Faith] buildings <starting from the [Medieval era]>"]
+        "uniques": ["[+1 Happiness] from all [Faith] buildings"]
     },
     {
         "name": "Swords into Ploughshares",

@@ -239,7 +239,7 @@
             {
                 "name": "Mandate Of Heaven",
                 "uniques": ["[50]% of excess happiness converted to [Culture]",
-			    "Free [Great Prophet] appears"],
+			    "[+1 Culture, +1 Faith] per [2] population [in capital]"],
                 "row": 1,
                 "column": 5
             },
@@ -460,7 +460,7 @@
             },
             {
                 "name": "Scientific Revolution",
-                "uniques": ["Science gained from research agreements [+50]%"],
+                "uniques": ["Science gained from research agreements [+50]%", "Free Great Person"],
                 "requires": ["Free Thought"],
                 "row": 3,
                 "column": 1

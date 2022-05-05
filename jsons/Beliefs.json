@@ -76,11 +76,6 @@
         "uniques": ["[+1 Culture, +1 Faith] from every [Luxury resource]"]
     },
     {
-        "name": "Religious Settlements",
-        "type": "Pantheon",
-        "uniques": ["[-25]% Culture cost of natural border growth [in all cities]"]
-    },
-    {
         "name": "Sacred Path",
         "type": "Pantheon",
         "uniques": ["[+1 Culture] from every [Jungle]", "[+1 Culture] from each Trade Route"]

@@ -164,7 +164,7 @@
                 "name": "Discipline",
                 "uniques": [
                     "[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>",
-		    "Provides a [Barracks] in your first [4] cities for free"
+		    "[+1 Production] from every [Barracks]", "[+1 Production] from every [Armory]", "[+1 Production] from every [Military Academy]"
                 ],
                 "row": 1,
                 "column": 4
@@ -182,7 +182,7 @@
             {
                 "name": "Military Caste",
                 "uniques": [
-                    "[+2 Production, +2 Culture] [in all cities with a garrison]"
+                    "[+1 Production, +2 Culture] [in all cities with a garrison]"
                 ],
                 "requires": ["Discipline"],
                 "row": 2,

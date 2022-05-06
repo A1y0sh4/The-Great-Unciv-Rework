@@ -142,7 +142,7 @@
             "Neutral": 0,
             "Cultural": 0,
             "Diplomatic": 20,
-            "Domination": 30,
+            "Domination": 20,
             "Scientific": 10
         },
         "uniques": [
@@ -215,7 +215,7 @@
         "era": "Classical era",
         "priorities": {
             "Neutral": 0,
-            "Cultural": 30,
+            "Cultural": 20,
             "Diplomatic": 10,
             "Domination": 10,
             "Scientific": 0
@@ -284,7 +284,7 @@
             "Cultural": 20,
             "Diplomatic": 30,
             "Domination": 0,
-            "Scientific": 10
+            "Scientific": 20
         },
         "uniques": ["[-30]% City-State Influence degradation"],
         "policies": [
@@ -477,7 +477,7 @@
         "name": "Freedom",
         "era": "Industrial era",
         "priorities": {
-            "Neutral": 50,
+            "Neutral": 30,
             "Cultural": 50,
             "Diplomatic": 40,
             "Domination": 30,
@@ -612,7 +612,7 @@
             "Cultural": 30,
             "Diplomatic": 40,
             "Domination": 30,
-            "Scientific": 50
+            "Scientific": 40
         },
         "uniques": [
             "[+1 Happiness, +1 Production] [in all cities]",

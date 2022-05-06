@@ -437,7 +437,7 @@
 		"outerColor": [26,32,96],
 		"innerColor": [255,0,0],
 		"uniqueName": "Scholars of the Jade Hall",
-		"uniques": ["[+2 Science] from every specialist [in all cities]","[+1 Science] from all [Science] buildings"],
+		"uniques": ["[+2 Science] from every specialist [in all cities]", "Receive a tech boost when scientific buildings/wonders are built in capital", "[+1 Science] from all [Science] buildings"],
 		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
 			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"]

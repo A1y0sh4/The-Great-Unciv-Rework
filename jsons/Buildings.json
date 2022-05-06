@@ -157,7 +157,7 @@
 	{
 		"name": "Walls of Babylon",
 		"replaces": "Walls",
-		"cost": 65,
+		"cost": 50,
 		"uniqueTo": "Babylon",
 		"cityStrength": 6,
 		"cityHealth": 100,

@@ -349,9 +349,9 @@
         "priorities": {
             "Neutral": 0,
             "Cultural": 10,
-            "Diplomatic": 20,
+            "Diplomatic": 30,
             "Domination": 10,
-            "Scientific": 20
+            "Scientific": 30
         },
         "uniques": ["[+25]% [Gold] [in capital]", "[+1 Gold] from all [Gold] buildings"],
         "policies": [
@@ -417,7 +417,7 @@
             "Cultural": 10,
             "Diplomatic": 10,
             "Domination": 10,
-            "Scientific": 30
+            "Scientific": 40
         },
         "uniques": [
             "[+15]% [Science] <while the empire is happy>",

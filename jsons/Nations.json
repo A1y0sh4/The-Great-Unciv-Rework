@@ -78,7 +78,7 @@
 		"outerColor": [150,150,150],
 		"innerColor": [60,60,60],
 		"uniqueName": "Furor Teutonicus",
-		"uniques": ["[+1 Production] from every [Mine]", "[+1 Production] from every [Strategic resource]", "[+10]% Strength <for [Military] units> <when attacking>"],
+		"uniques": ["[+1 Production] [in all cities]", "[+1 Production] from every [Strategic resource]", "[+10]% Strength <for [Military] units> <when attacking>"],
 		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Dusseldorf","Bremen",
 			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
 			"Munster","Rostok","Chemnitz","Braunschweig","Halle","Mצnchengladbach","Kiel","Wuppertal","Freiburg","Hagen",

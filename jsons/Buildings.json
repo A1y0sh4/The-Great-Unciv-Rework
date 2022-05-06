@@ -9,7 +9,7 @@
 		"science": 3,
 		"gold": 3,
 		"culture": 1,
-		"cityStrength": 2,
+		"cityStrength": 3,
 		"cost": 1,
 		"uniques": ["Indicates the capital city"]
 	},
@@ -180,7 +180,7 @@
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
 		"uniques": ["Provides a sum of gold each time you spend a Great Person",
-			"[+2 Gold] from [Marble] tiles [in this city]", "[+2 Gold] from [Stone] tiles [in this city]"],
+			"[+2 Gold] from [Marble] tiles [in this city]", "[+2 Gold] from [Stone] tiles [in this city]", "[+1 Gold] from every [Quarry]"],
 		"requiredTech": "Masonry",
 		"quote": "'The whole earth is the tomb of heroic men and their story is not given only on stone over their clay but abides everywhere without visible symbol woven into the stuff of other men's lives.' - Pericles"
 	},
@@ -197,6 +197,7 @@
 		"uniqueTo": "Russia",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
+		"cityStrength": 2,
 		"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[-25]% Gold cost of acquiring tiles [in this city]",
 			"New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
@@ -406,7 +407,7 @@
 		"culture": 3,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["Enemy land units must spend 1 extra movement point when inside your territory (obsolete upon Dynamite)",
+		"uniques": ["Enemy land units must spend 1 extra movement point when inside your territory (obsolete upon Dynamite)", "[+1 Culture] from every [Wall]",
 			"Gain a free [Walls] [in this city]"],
 		"requiredTech": "Engineering",
 		"quote": "'The art of war teaches us to rely not on the likelihood of the enemy's not attacking, but rather on the fact that we have made our position unassailable.' - Sun Tzu"
@@ -427,7 +428,7 @@
 		"gold": 5,
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
-		"uniques": ["Must be next to [Coast]", "[+1 Gold] from [Water] tiles [in this city]"],
+		"uniques": ["Must be next to [Coast]", "[+1 Gold] from [Water] tiles [in this city]", "[+1 Production] from [Stone] tiles [in this city]", "[+1 Production] from [Marble] tiles [in this city]"],
 		"requiredTech": "Iron Working",
 		"quote": "'Why man, he doth bestride the narrow world like a colossus, and we petty men walk under his huge legs, and peep about to find ourselves dishonorable graves.' - William Shakespeare, Julius Caesar"
 	},
@@ -446,6 +447,7 @@
 		"name": "Hagia Sophia",
 		"faith": 3,
 		"isWonder": true,
+		"greatPersonPoints": {"Great Artist": 1},
 		"uniques": ["Gain a free [Temple] [in this city]", "Free [Great Prophet] appears", "Hidden when religion is disabled"],
 		"requiredTech": "Theology",
 		"quote": "'For it soars to a height to match the sky, and as if surging up from among the other buildings it stands on high and looks down upon the remainder of the city, adorning it, because it is a part of it, but glorying in its own beauty' - Procopius, De Aedificis"
@@ -518,6 +520,7 @@
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 10},
 		"uniques": ["[+1 Production] from [Forest] tiles [in this city]"],
 		"requiredTech": "Metal Casting"
 	},
@@ -576,6 +579,7 @@
 	{
 		"name": "Angkor Wat",
 		"culture": 1,
+		"faith": 3,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
 		"uniques": ["[-25]% Culture cost of natural border growth [in all cities]","[-25]% Gold cost of acquiring tiles [in all cities]"],
@@ -725,7 +729,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
-		"uniques": ["[-10]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[-19]% Unhappiness from [Population] [in all cities]"],
 		"requiredTech": "Banking",
 		"quote": "'Most of us can, as we choose, make of this world either a palace or a prison' - John Lubbock"
 	},
@@ -752,7 +756,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"uniques": ["[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
-			"Gain a free [Castle] [in this city]"],
+			"Gain a free [Castle] [in this city]", "[+1 Culture] from every [Castle]"],
 		"requiredTech": "Gunpowder",
 		"quote": "'Bushido is realized in the presence of death. This means choosing death whenever there is a choice between life and death. There is no other reasoning.' - Yamamoto Tsunetomo"
 	},
@@ -772,7 +776,7 @@
 		"percentStatBonus": {"culture": 50},
 		"culture": 5,
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Opera House] in all cities", "Cost increases by [30] per owned city"],
+		"uniques": ["Requires a [Opera House] in all cities", "Cost increases by [30] per owned city", "[+1 Culture] from every [Wonder]"],
 		"requiredTech": "Architecture"
 	},
 	{
@@ -885,7 +889,7 @@
 		"gold": 4,
 		"greatPersonPoints": {"Great Merchant": 2},
 		"isWonder": true,
-		"uniques": ["[Gold] cost of purchasing items in cities [-15]%"],
+		"uniques": ["[Gold] cost of purchasing items in cities [-20]%"],
 		"requiredTech": "Industrialization",
 		"quote": "'To achieve great things, two things are needed: a plan, and not quite enough time.' - Leonard Bernstein"
 	},
@@ -976,7 +980,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
-		"uniques": ["[+1 Production] from every specialist [in all cities]"],
+		"uniques": ["[+1 Production] from every specialist [in all cities]", "[+1 Culture] from every specialist [in all cities]"],
 		"requiredTech": "Replaceable Parts",
 		"quote": "'Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore. Send these, the homeless, tempest-tossed to me, I lift my lamp beside the golden door!' - Emma Lazarus"
 	},
@@ -1124,8 +1128,8 @@
 	{
 		"name": "United Nations",
 		"isWonder": true,
-		"culture": 1,
-		"greatPersonPoints": {"Great Merchant": 2},
+		"culture": 3,
+		"greatPersonPoints": {"Great Merchant": 3},
 		"requiredTech": "Globalization",
 		"uniques": ["Triggers voting for the Diplomatic Victory", "Hidden when [Diplomatic] Victory is disabled", "Triggers a global alert upon completion"],
 		"quote": "'More than ever before in human history, we share a common destiny. We can master it only if we face it together. And that is why we have the United Nations.' - Kofi Annan"

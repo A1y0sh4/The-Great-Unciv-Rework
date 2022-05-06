@@ -834,7 +834,7 @@
 		"culture": 3,
 		"cityStrength": 12,
 		"isWonder": true,
-		"uniques": ["[+25]% City Strength from defensive buildings"],
+		"uniques": ["[+30]% City Strength from defensive buildings"],
 		"requiredTech": "Metallurgy",
 		"quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed"
 	},
@@ -854,8 +854,8 @@
 	},
 	{
 		"name": "The Louvre",
-		"culture": 1,
-		"happiness": 4,
+		"culture": 3,
+		"happiness": 3,
 		"isWonder": true,
 		"uniques": ["[2] free [Great Artist] units appear"],
 		"requiredTech": "Archaeology",

@@ -130,7 +130,7 @@
 		"outerColor": [ 240, 180, 0],
 		"innerColor": [0,0,0],
 		"uniqueName": "Enlightened Sovereign",
-		"uniques": ["[+1 Science, +1 Culture] from every specialist [in all cities]", "[+30]% Production when constructing [Military] units [in capital]"],
+		"uniques": ["[+1 Science, +1 Culture] from every specialist [in all cities]", "[+25]% Production when constructing [Military] units [in capital]"],
 		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",

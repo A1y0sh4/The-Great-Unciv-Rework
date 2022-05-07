@@ -87,9 +87,11 @@
 	{
 		"name": "Stonehenge",
 		"faith": 5,
+		"requiredNearbyImprovedResources": ["Stone"],
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"requiredTech": "Calendar",
+		"uniques": ["[+1 Culture] from [Stone] tiles [in all cities]"],
 		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
 	},
 	{
@@ -179,7 +181,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
-		"uniques": ["Provides a sum of gold each time you spend a Great Person",
+		"uniques": ["Provides a sum of gold each time you spend a Great Person", "Must be next to [Coast]",
 			"[+2 Gold] from [Marble] tiles [in this city]", "[+2 Gold] from [Stone] tiles [in this city]", "[+1 Gold] from every [Quarry]"],
 		"requiredTech": "Masonry",
 		"quote": "'The whole earth is the tomb of heroic men and their story is not given only on stone over their clay but abides everywhere without visible symbol woven into the stuff of other men's lives.' - Pericles"
@@ -634,6 +636,7 @@
 		"happiness": 10,
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
+		"uniques": ["Gain a free [Cathedral] [in this city]"],
 		"requiredTech": "Physics",
 		"quote": "'Architecture has recorded the great ideas of the human race. Not only every religious symbol, but every human thought has its page in that vast book.' - Victor Hugo"
 	},
@@ -785,7 +788,7 @@
 		"happiness": 4,
 		"greatPersonPoints": {"Great Artist": 2},
 		"isWonder": true,
-		"uniques": ["Empire enters golden age"],
+		"uniques": ["Empire enters golden age", "[+1 Gold] from all [Faith] buildings"],
 		"requiredTech": "Architecture",
 		"quote": "'The Taj Mahal rises above the banks of the river like a solitary tear suspended on the cheek of time.' - Rabindranath Tagore"
 	},
@@ -794,7 +797,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"isWonder": true,
-		"uniques": ["Free [Great Scientist] appears","Science gained from research agreements [+50]%"],
+		"uniques": ["Free [Great Scientist] appears", "Science gained from research agreements [+50]%", "Gain a free [Pagodas] [in this city]"],
 		"requiredTech": "Architecture",
 		"quote": "'Things always seem fairer when we look back at them, and it is out of that inaccessible tower of the past that Longing leans and beckons.' - James Russell Lowell"
 	},

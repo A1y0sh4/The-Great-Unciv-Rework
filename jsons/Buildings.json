@@ -87,7 +87,6 @@
 	{
 		"name": "Stonehenge",
 		"faith": 5,
-		"requiredNearbyImprovedResources": ["Stone"],
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"requiredTech": "Calendar",

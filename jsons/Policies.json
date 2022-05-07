@@ -75,7 +75,7 @@
         "priorities": {
             "Neutral": 30,
             "Cultural": 0,
-            "Diplomatic": 30,
+            "Diplomatic": 20,
             "Domination": 20,
             "Scientific": 30
         },
@@ -143,7 +143,7 @@
             "Cultural": 0,
             "Diplomatic": 20,
             "Domination": 20,
-            "Scientific": 10
+            "Scientific": 20
         },
         "uniques": [
             "[+30]% Strength <vs [Barbarian] units>",
@@ -402,7 +402,7 @@
             {
                 "name": "Commerce Complete",
                 "uniques": [
-                    "[+1 Gold, +1 Production] from every [Trading post]",
+                    "[+1 Gold, +1 Science] from every [Trading post]",
                     "[+100]% Gold from Great Merchant trade missions",
                     "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
@@ -491,7 +491,7 @@
         "policies": [
             {
                 "name": "Constitution",
-                "uniques": ["[+3 Culture] from every [Wonder]"],
+                "uniques": ["[+2 Culture] from every [Wonder]"],
                 "row": 1,
                 "column": 1
             },
@@ -560,7 +560,7 @@
             },
             {
                 "name": "Militarism",
-                "uniques": ["[Gold] cost of purchasing [All] units [-50]%"],
+                "uniques": ["[Gold] cost of purchasing [All] units [-30]%"],
                 "row": 1,
                 "column": 5
             },
@@ -641,7 +641,8 @@
             {
                 "name": "Nationalism",
                 "uniques": [
-                    "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"
+                    "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+		    "[+1] Movement <for [All] units> <in [Friendly Land] tiles> <when at war>"
                 ],
                 "row": 1,
                 "column": 5
@@ -650,7 +651,8 @@
                 "name": "Socialism",
                 "requires": ["Planned Economy"],
                 "uniques": [
-                    "[-20]% maintenance cost for buildings [in all cities]"
+                    "[-20]% maintenance cost for buildings [in all cities]",
+		    "[+1 Food] from each Trade Route"
                 ],
                 "row": 2,
                 "column": 3

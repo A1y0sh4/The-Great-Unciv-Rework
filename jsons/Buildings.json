@@ -88,6 +88,7 @@
 		"name": "Stonehenge",
 		"faith": 5,
 		"isWonder": true,
+                "requiredNearbyImprovedResources": ["Stone"],
 		"greatPersonPoints": {"Great Engineer": 1},
 		"requiredTech": "Calendar",
 		"uniques": ["[+1 Culture] from [Stone] tiles [in all cities]"],
@@ -232,7 +233,7 @@
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
 		"uniques": ["Must be next to [Coast]", "[+1] Movement <for [Water] units>",
-			"[+1] Sight <for [Water] units>", "Gain a free [Lighthouse] [in this city]", "[+1 Food] from [Coast] tiles [in this city]""],
+			"[+1] Sight <for [Water] units>", "Gain a free [Lighthouse] [in this city]", "[+1 Food] from [Coast] tiles [in this city]"],
 		"requiredTech": "Optics",
 		"quote": "'They that go down to the sea in ships, that do business in great waters; these see the works of the Lord, and his wonders in the deep.' - The Bible, Psalms 107:23-24"
 	},

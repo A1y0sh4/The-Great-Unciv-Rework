@@ -216,8 +216,8 @@
         "priorities": {
             "Neutral": 0,
             "Cultural": 20,
-            "Diplomatic": 10,
-            "Domination": 10,
+            "Diplomatic": 20,
+            "Domination": 20,
             "Scientific": 0
         },
         "uniques": [
@@ -229,8 +229,7 @@
             {
                 "name": "Organized Religion",
                 "uniques": [
-                    "[+1 Faith] from every [Shrine]",
-                    "[+1 Faith] from every [Temple]",
+                    "[+1 Faith] from all [Faith] buildings",
 		    "Provides the cheapest [Faith] building in your first [4] cities for free"
                 ],
                 "row": 1,
@@ -245,7 +244,8 @@
             },
             {
                 "name": "Theocracy",
-                "uniques": ["[+15]% [Gold] from every [Temple]"],
+                "uniques": ["[+10]% [Gold] from every [Temple]",
+			   "[+1 Happiness] from every [Wonder]"],
                 "requires": ["Organized Religion"],
                 "row": 2,
                 "column": 1
@@ -253,7 +253,7 @@
             {
                 "name": "Reformation",
                 "uniques": [
-                    "[+33]% [Culture] [in all cities with a world wonder]",
+                    "[+30]% [Culture] [in all cities with a world wonder]",
                     "Empire enters golden age"
                 ],
                 "requires": ["Organized Religion"],
@@ -337,7 +337,7 @@
             {
                 "name": "Patronage Complete",
                 "uniques": [
-                    "Influence of all other civilizations with all city-states degrades [33]% faster",
+                    "Influence of all other civilizations with all city-states degrades [30]% faster",
                     "Triggers the following global alert: [Our influence with City-States has started dropping faster!]"
                 ]
             }
@@ -350,7 +350,7 @@
             "Neutral": 0,
             "Cultural": 10,
             "Diplomatic": 30,
-            "Domination": 10,
+            "Domination": 20,
             "Scientific": 30
         },
         "uniques": ["[+25]% [Gold] [in capital]", "[+1 Gold] from all [Gold] buildings"],
@@ -497,7 +497,7 @@
             },
             {
                 "name": "Universal Suffrage",
-                "uniques": ["[+33]% Strength for cities <when defending>"],
+                "uniques": ["[+30]% Strength for cities <when defending>"],
                 "row": 1,
                 "column": 3
             },
@@ -546,7 +546,7 @@
             "Scientific": 30
         },
         "uniques": [
-            "[-33]% maintenance costs <for [All] units>",
+            "[-30]% maintenance costs <for [All] units>",
             "Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately",
             "Only available <before adopting [Order]>",
             "Only available <before adopting [Freedom]>"

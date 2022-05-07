@@ -729,7 +729,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
-		"uniques": ["[-19]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[-14]% Unhappiness from [Population] [in all cities]"],
 		"requiredTech": "Banking",
 		"quote": "'Most of us can, as we choose, make of this world either a palace or a prison' - John Lubbock"
 	},

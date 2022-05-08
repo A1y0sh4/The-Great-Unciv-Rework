@@ -466,7 +466,7 @@
 		"outerColor": [189,189,189],
 		"innerColor": [88,0,154],
 		"uniqueName": "Phoenician Heritage",
-		"uniques": ["Gain a free [Harbor] [in all coastal cities]", "[+1] Movement <for [Settler] units> <in [Coast] tiles>", "Land units may cross [Mountain] tiles after the first [Great General] is earned", "[+1 Production] from each Trade Route"],
+		"uniques": ["Gain a free [Harbor] [in all coastal cities]", "[+1] Movement <for [Settler] units> <in [Coast] tiles>", "Land units may cross [Mountain] tiles after the first [Great General] is earned", "[+1 Production, +1 Food] from each Trade Route"],
 		"cities": ["Carthage","Utique","Hippo Regius","Gades","Saguntum","Carthago Nova","Panormus","Lilybaeum","Hadrumetum","Zama Regia",
 			"Karalis","Malaca","Leptis Magna","Hippo Diarrhytus","Motya","Sulci","Leptis Parva","Tharros","Soluntum","Lixus",
 			"Oea","Theveste","Ibossim","Thapsus","Aleria","Tingis","Abyla","Sabratha","Rusadir","Baecula",

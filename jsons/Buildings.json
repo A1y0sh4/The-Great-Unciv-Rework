@@ -208,7 +208,7 @@
 		"name": "Statue of Zeus",
 		"culture": 1,
 		"isWonder": true,
-		"uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>", "Gain a free [Barracks] [in this city]"],
+		"uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>", "[+1 Happiness] from every [Barracks]"],
 		"requiredTech": "Bronze Working",
 		"quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad"
 		// "Requires [Honor]" in BNW
@@ -763,6 +763,16 @@
 		"requiredTech": "Gunpowder",
 		"quote": "'Bushido is realized in the presence of death. This means choosing death whenever there is a choice between life and death. There is no other reasoning.' - Yamamoto Tsunetomo"
 	},
+	{
+		"name": "Kremlin",
+		"culture": 3,
+		"faith": 4,
+		"cityStrength": 12,
+		"isWonder": true,
+		"uniques": ["[+30]% City Strength from defensive buildings", "Gain a free [Barracks] [in all cities]"],
+		"requiredTech": "Gunpowder",
+		"quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed"
+	},
 	// Column 8
 	{
 		"name": "Seaport",
@@ -831,16 +841,6 @@
 		"requiredBuilding": "Castle",
 		"requiredTech": "Metallurgy",
 		"uniques": ["Destroyed when the city is captured"]
-	},
-	{
-		"name": "Kremlin",
-		"culture": 3,
-		"faith": 4,
-		"cityStrength": 12,
-		"isWonder": true,
-		"uniques": ["[+30]% City Strength from defensive buildings"],
-		"requiredTech": "Metallurgy",
-		"quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed"
 	},
 
 	// Industrial Era

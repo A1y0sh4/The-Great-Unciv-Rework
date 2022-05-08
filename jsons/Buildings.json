@@ -272,7 +272,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"requiredTech": "Mathematics",
-		"uniques": ["Gain a free [Garden] [in this city]"],
+		"uniques": ["Gain a free [Garden] [in this city]", "[+1 Food] from [Fresh water] tiles [in all cities]"],
 		"quote": "'I think that if ever a mortal heard the word of God it would be in a garden at the cool of the day.' - F. Frankfort Moore"
 	},
 	{
@@ -1042,7 +1042,7 @@
 		"isWonder": true,
 		"culture": 3,
 		"greatPersonPoints": {"Great Engineer": 2},
-		"uniques": ["[-33]% Gold cost of upgrading <for [Military] units>"],
+		"uniques": ["[-33]% Gold cost of upgrading <for [Military] units>", "All newly-trained [relevant] units [in this city] receive the [Sentry] promotion"],
 		"requiredTech": "Combined Arms",
 		"quote": "'In preparing for battle I have always found that plans are useless, but planning is indispensable.' - Dwight D. Eisenhower"
 	},
@@ -1098,7 +1098,7 @@
 		"isWonder": true,
 		"culture": 1,
 		"greatPersonPoints": {"Great Merchant": 1},
-		"uniques": ["[+1] population [in all cities]", "[+1 Happiness] [in all cities]", "Gain a free [Broadcast Tower] [in all cities]"],
+		"uniques": ["[+1] population [in all cities]", "[+1 Happiness, +1 Culture] [in all cities]", "Gain a free [Broadcast Tower] [in all cities]"],
 		"requiredTech": "Telecommunications",
 		"quote": "'Nothing travels faster than light with the possible exception of bad news, which obeys its own special rules.' - Douglas Adams"
 	},

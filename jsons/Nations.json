@@ -211,7 +211,7 @@
 		"outerColor": [81,0,9],
 		"innerColor": [255,120,0],
 		"uniqueName": "Mongol Terror",
-		"uniques": ["+30% Strength when fighting City-State units and cities", "[+1] Movement <for [Mounted] units>", "Double quantity of [Horses] produced", "Starts with [Animal Husbandry]", "[+15]% Strength <for [Mounted] units>"],
+		"uniques": ["Double quantity of [Horses] produced", "Starts with [Animal Husbandry]", "[+1] Movement <for [Mounted] units>", "[+30]% Strength <for [Mounted] units>"],
 		"cities": ["Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan",
 			"Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg",
 			"Baruun-Urt","Ereen","Batshireet","Choyr","Ulaangom","Tosontsengel","Altay","Uliastay","Bayanhongor",

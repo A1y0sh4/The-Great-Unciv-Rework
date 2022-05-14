@@ -414,7 +414,7 @@
         "priorities": {
             "Neutral": 0,
             "Cultural": 10,
-            "Diplomatic": 10,
+            "Diplomatic": 30,
             "Domination": 10,
             "Scientific": 40
         },

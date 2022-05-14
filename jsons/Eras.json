@@ -12,7 +12,6 @@
         "startPercent": 0,
         "friendBonus": {
             "Cultured": ["Provides [+3 Culture] per turn"],
-            "Scientific": ["Provides [+5 Science] per turn"],
             "Maritime": ["Provides [+2 Food] [in capital] per turn"],
             "Mercantile": ["Provides [+2] Happiness"],
             "Religious": ["Provides [+3 Faith] per turn"],
@@ -20,7 +19,6 @@
         },
         "allyBonus": {
             "Cultured": ["Provides [+6 Culture] per turn"],
-            "Scientific": ["Provides [+9 Science] per turn"],
             "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
             "Mercantile": ["Provides [+2] Happiness", "Provides a unique luxury"],
             "Religious": ["Provides [+6 Faith] per turn"],
@@ -43,7 +41,6 @@
         "startPercent": 10,
         "friendBonus": {
             "Cultured": ["Provides [+3 Culture] per turn"],
-            "Scientific": ["Provides [+5 Science] per turn"],
             "Maritime": ["Provides [+2 Food] [in capital] per turn"],
             "Mercantile": ["Provides [+2] Happiness"],
             "Religious": ["Provides [+3 Faith] per turn"],
@@ -51,7 +48,6 @@
         },
         "allyBonus": {
             "Cultured": ["Provides [+6 Culture] per turn"],
-            "Scientific": ["Provides [+9 Science] per turn"],
             "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
             "Mercantile": ["Provides [+2] Happiness", "Provides a unique luxury"],
             "Religious": ["Provides [+6 Faith] per turn"],
@@ -76,7 +72,6 @@
         "startPercent": 25,
         "friendBonus": {
             "Cultured": ["Provides [+6 Culture] per turn"],
-            "Scientific": ["Provides [+9 Science] per turn"],
             "Maritime": ["Provides [+2 Food] [in capital] per turn"],
             "Mercantile": ["Provides [+3] Happiness"],
             "Religious": ["Provides [+6 Faith] per turn"],
@@ -84,7 +79,6 @@
         },
         "allyBonus": {
             "Cultured": ["Provides [+12 Culture] per turn"],
-            "Scientific": ["Provides [+18 Science] per turn"],
             "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
             "Mercantile": ["Provides [+3] Happiness", "Provides a unique luxury"],
             "Religious": ["Provides [+12 Faith] per turn"],
@@ -110,7 +104,6 @@
         "startPercent": 37,
         "friendBonus": {
             "Cultured": ["Provides [+6 Culture] per turn"],
-            "Scientific": ["Provides [+9 Science] per turn"],
             "Maritime": ["Provides [+2 Food] [in capital] per turn"],
             "Mercantile": ["Provides [+3] Happiness"],
             "Religious": ["Provides [+6 Faith] per turn"],
@@ -118,7 +111,6 @@
         },
         "allyBonus": {
             "Cultured": ["Provides [+12 Culture] per turn"],
-            "Scientific": ["Provides [+18 Science] per turn"],
             "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
             "Mercantile": ["Provides [+3] Happiness", "Provides a unique luxury"],
             "Religious": ["Provides [+12 Faith] per turn"],
@@ -145,7 +137,6 @@
         "startPercent": 50,
         "friendBonus": {
             "Cultured": ["Provides [+13 Culture] per turn"],
-            "Scientific": ["Provides [+16 Science] per turn"],
             "Maritime": ["Provides [+2 Food] [in capital] per turn"],
             "Mercantile": ["Provides [+3] Happiness"],
             "Religious": ["Provides [+13 Faith] per turn"],
@@ -153,7 +144,6 @@
         },
         "allyBonus": {
             "Cultured": ["Provides [+26 Culture] per turn"],
-            "Scientific": ["Provides [+32 Science] per turn"],
             "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
             "Mercantile": ["Provides [+3] Happiness", "Provides a unique luxury"],
             "Religious": ["Provides [+26 Faith] per turn"],
@@ -185,7 +175,6 @@
         "startPercent": 65,
         "friendBonus": {
             "Cultured": ["Provides [+13 Culture] per turn"],
-            "Scientific": ["Provides [+20 Science] per turn"],
             "Maritime": ["Provides [+2 Food] [in capital] per turn"],
             "Mercantile": ["Provides [+3] Happiness"],
             "Religious": ["Provides [+13 Faith] per turn"],
@@ -193,7 +182,6 @@
         },
         "allyBonus": {
             "Cultured": ["Provides [+26 Culture] per turn"],
-            "Scientific": ["Provides [+40 Science] per turn"],
             "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
             "Mercantile": ["Provides [+3] Happiness", "Provides a unique luxury"],
             "Religious": ["Provides [+26 Faith] per turn"],
@@ -226,7 +214,6 @@
         "startPercent": 65,
         "friendBonus": {
             "Cultured": ["Provides [+13 Culture] per turn"],
-            "Scientific": ["Provides [+20 Science] per turn"],
             "Maritime": ["Provides [+2 Food] [in capital] per turn"],
             "Mercantile": ["Provides [+3] Happiness"],
             "Religious": ["Provides [+13 Faith] per turn"],
@@ -234,7 +221,6 @@
         },
         "allyBonus": {
             "Cultured": ["Provides [+26 Culture] per turn"],
-            "Scientific": ["Provides [+40 Science] per turn"],
             "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
             "Mercantile": ["Provides [+3] Happiness", "Provides a unique luxury"],
             "Religious": ["Provides [+26 Faith] per turn"],
@@ -268,7 +254,6 @@
         "startPercent": 80,
         "friendBonus": {
             "Cultured": ["Provides [+13 Culture] per turn"],
-            "Scientific": ["Provides [+20 Science] per turn"],
             "Maritime": ["Provides [+2 Food] [in capital] per turn"],
             "Mercantile": ["Provides [+3] Happiness"],
             "Religious": ["Provides [+13 Faith] per turn"],
@@ -276,7 +261,6 @@
         },
         "allyBonus": {
             "Cultured": ["Provides [+26 Culture] per turn"],
-            "Scientific": ["Provides [+40 Science] per turn"],
             "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
             "Mercantile": ["Provides [+3] Happiness", "Provides a unique luxury"],
             "Religious": ["Provides [+26 Faith] per turn"],
@@ -311,7 +295,6 @@
         "startPercent": 80,
         "friendBonus": {
             "Cultured": ["Provides [+13 Culture] per turn"],
-            "Scientific": ["Provides [+20 Science] per turn"],
             "Maritime": ["Provides [+2 Food] [in capital] per turn"],
             "Mercantile": ["Provides [+3] Happiness"],
             "Religious": ["Provides [+13 Faith] per turn"],
@@ -319,7 +302,6 @@
         },
         "allyBonus": {
             "Cultured": ["Provides [+26 Culture] per turn"],
-            "Scientific": ["Provides [+40 Science] per turn"],
             "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
             "Mercantile": ["Provides [+3] Happiness", "Provides a unique luxury"],
             "Religious": ["Provides [+26 Faith] per turn"],

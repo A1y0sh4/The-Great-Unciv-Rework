@@ -744,7 +744,7 @@
 		"name": "Aztecs",
 		"leaderName": "Montezuma I",
 		"adjective": ["Aztec"],
-		"startBias": ["Jungle", "Lakes"],
+		"startBias": ["Lakes"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Welcome, O divine Montezuma! We grovel in awe at your magnificence! May the heaven shower all manner of good things upon you all the days of your life! You are the leader of the mighty Aztec people, wandering nomads from a lost home in the north who in the 12th century came to live in the mesa central in the heart of what would come to be called Mexico. Surrounded by many tribes fighting to control the rich land surrounding the sacred lakes of Texcoco, Xaltocan and Zampango, through cunning alliances and martial prowess, within a mere two hundred years, the Aztecs came to dominate the Central American basin, ruling a mighty empire stretching from sea to sea. But the empire fell at last under the assault of foreign devils - the accursed Spaniards! - wielding fiendish weapons the likes of which your faithful warriors had never seen.",

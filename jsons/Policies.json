@@ -215,7 +215,7 @@
         "era": "Classical era",
         "priorities": {
             "Neutral": 0,
-            "Cultural": 20,
+            "Cultural": 30,
             "Diplomatic": 20,
             "Domination": 20,
             "Scientific": 0
@@ -280,10 +280,10 @@
         "era": "Medieval era",
         "priorities": {
             "Neutral": 0,
-            "Cultural": 20,
+            "Cultural": 30,
             "Diplomatic": 30,
             "Domination": 0,
-            "Scientific": 20
+            "Scientific": 30
         },
         "uniques": ["[-30]% City-State Influence degradation"],
         "policies": [

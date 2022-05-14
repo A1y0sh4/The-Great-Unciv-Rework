@@ -927,6 +927,7 @@
 			"Q'umarkaj","Nakbe","Cerros","Xunantunich","Takalik Abaj","Cival","San Bartolo","Altar de Sacrificios","Seibal",
 			"Caracol","Naranjo","Dos Pilas","Mayapan","Ixinche","Zaculeu","Kabah"]
 	},
+// City-States 
 	{
 		"name": "Bologna",
 		"adjective": ["Bolognese"],
@@ -1022,5 +1023,12 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [204,166,102],
 		"cities": ["Samarqand"]
+	},
+	//Barbarian
+	{
+		"name": "Barbarians",
+		"outerColor": [0,0,0],
+		"innerColor": [180,0,0],
+		"uniques": ["Can only heal by pillaging"]
 	}
 	]

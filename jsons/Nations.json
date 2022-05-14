@@ -818,7 +818,7 @@
 		"uniqueName": "Trade Caravans",
 		"uniques": ["Double quantity of [Oil] produced", "[+2 Gold] from each Trade Route", "[Gold] cost of purchasing [All] buildings [-30]%"],
 		"cities": ["Mecca","Medina","Damascus","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat",
-			"Aden","Yamama","Muscat","Mansura","Bukhara","Fez","Shiraz","Merw","Balkh","Mosul",
+			"Aden","Yamama","Muscat","Mansura","Bukhara","Shiraz","Merw","Balkh","Mosul",
 			"Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr","Tripoli","Tunis","Kairouan","Algiers","Oran"]
 	},
 	{
@@ -926,6 +926,103 @@
 			"Edzna","Lamanai","Izapa","Uaxactun","Comalcalco","Piedras Negras","Cancuen","Yaxha","Quirigua",
 			"Q'umarkaj","Nakbe","Cerros","Xunantunich","Takalik Abaj","Cival","San Bartolo","Altar de Sacrificios","Seibal",
 			"Caracol","Naranjo","Dos Pilas","Mayapan","Ixinche","Zaculeu","Kabah"]
+	},
+// City-States 
+	{
+		"name": "Bologna",
+		"adjective": ["Bolognese"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "And so the flower of Florence falls to barbaric hands...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [72,130,252],
+		"cities": ["Bologna"]
+	},
+	{
+		"name": "Fez",
+		"adjective": ["Moroccan"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "So this is how it feels to die...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [216,80,20],
+		"cities": ["Fez"]
+	},
+	{
+		"name": "Mitla",
+		"adjective": ["Zapotec"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [153,0,76],
+		"cities": ["Mitla"]
+	},
+	{
+		"name": "Nok",
+		"adjective": ["Nok"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Today, the Malay people obey you, but do not think this is over...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [90,160,130],
+		"cities": ["Nok"]
+	},
+	{
+		"name": "Singai Nagar",
+		"adjective": ["Tamils"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "And so the flower of Florence falls to barbaric hands...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [220,180,52],
+		"cities": ["Singai Nagar"]
+	},
+	{
+		"name": "Sanaa",
+		"adjective": ["Yemeni"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "So this is how it feels to die...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [120,200,230],
+		"cities": ["Sanaa"]
+	},
+	{
+		"name": "Cracow",
+		"adjective": ["Polish"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [200,30,50],
+		"cities": ["Cracow"]
+	},
+	{
+		"name": "Samarqand",
+		"adjective": ["Ulugbek"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Today, the Malay people obey you, but do not think this is over...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [204,166,102],
+		"cities": ["Samarqand"]
 	},
 	//Barbarian
 	{

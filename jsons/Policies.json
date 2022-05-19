@@ -442,7 +442,7 @@
             {
                 "name": "Free Thought",
                 "uniques": [
-                    "[+1 Science, +1 Culture] from every [Trading post]",
+                    "[+2 Science] from every [Trading post]",
                     "[+17]% [Science] from every [University]"
                 ],
                 "requires": ["Secularism"],

@@ -299,7 +299,7 @@
             {
                 "name": "Aesthetics",
                 "uniques": [
-                    "Resting point for Influence with City-States is increased by [15]"
+                    "Resting point for Influence with City-States is increased by [20]"
                 ],
                 "row": 1,
                 "column": 4
@@ -307,7 +307,7 @@
             {
                 "name": "Scholasticism",
                 "uniques": [
-                    "Allied City-States provide [Science] equal to [20]% of what they produce for themselves",
+                    "Allied City-States provide [Science] equal to [30]% of what they produce for themselves",
 		    "Provides the cheapest [Science] building in your first [4] cities for free"
                 ],
                 "requires": ["Philantropy"],

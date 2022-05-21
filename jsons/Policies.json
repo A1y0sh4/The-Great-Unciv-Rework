@@ -26,7 +26,8 @@
             {
                 "name": "Legalism",
                 "uniques": [
-                    "Provides the cheapest [Culture] building in your first [4] cities for free"
+                    "Provides the cheapest [Culture] building in your first [4] cities for free",
+		    "[-10]% Culture cost of adopting new Policies"
                 ],
                 "row": 1,
                 "column": 3
@@ -35,7 +36,8 @@
                 "name": "Oligarchy",
                 "uniques": [
                     "Units in cities cost no Maintenance",
-                    "[+50]% Strength for cities <with a garrison> <when attacking>"
+                    "[+50]% Strength for cities <with a garrison> <when attacking>",
+		    "[+1 Happiness] [in all cities with a garrison]"
                 ],
                 "row": 1,
                 "column": 5

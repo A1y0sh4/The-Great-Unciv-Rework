@@ -148,8 +148,8 @@
         "uniques": [
                 "[+2 Production] from every [Citadel]",
 		"[+30]% Strength <vs [Barbarian] units>",
-            "Earn [50]% of the damage done to [Military] units as [Culture] <in [Friendly Land] tiles>",
-            "Notified of new Barbarian encampments"
+                "Earn [10]% of killed [Military] unit's [Cost] as [Culture]",
+                "Notified of new Barbarian encampments"
         ],
         "policies": [
             {

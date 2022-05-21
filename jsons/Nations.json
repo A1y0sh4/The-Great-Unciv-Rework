@@ -134,7 +134,7 @@
 		"outerColor": [ 240, 180, 0],
 		"innerColor": [0,0,0],
 		"uniqueName": "Siberian Riches",
-		"uniques": ["[+2 Culture] from every [Great Improvement]", "[+1 Production] from every [Camp]", "[+1 Production] from [Tundra] tiles without [Forest] [in all cities]"],
+		"uniques": ["[+10]% Production when constructing [All] units [in all cities]", "[+1 Production] from every [Camp]", "[+1 Production] from [Tundra] tiles without [Forest] [in all cities]"],
 		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",

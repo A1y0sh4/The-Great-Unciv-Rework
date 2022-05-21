@@ -201,7 +201,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"cityStrength": 3,
-		"uniques": ["[-30]% Culture cost of natural border growth [in this city]","[-30]% Gold cost of acquiring tiles [in this city]",
+		"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[-25]% Gold cost of acquiring tiles [in this city]",
 			"New [Military] units start with [20] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},

@@ -81,7 +81,7 @@
             "Domination": 20,
             "Scientific": 30
         },
-        "uniques": ["[+1 Culture] [in all cities]", "[+20]% [Faith] <during a Golden Age>"],
+        "uniques": ["[+1 Culture] [in all cities]", "[+20]% [Happiness] <during a Golden Age>"],
         "policies": [
             {
                 "name": "Republic",

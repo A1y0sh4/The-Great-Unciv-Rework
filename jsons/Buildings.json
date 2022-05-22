@@ -402,7 +402,7 @@
 		"name": "Aqueduct",
 		"maintenance": 1,
 		"hurryCostModifier": 0,
-		"uniques": ["[40]% Food is carried over after population increases [in this city]"],
+		"uniques": ["[40]% Food is carried over after population increases [in this city]", "[+2 Food] <in [Fresh water] tiles>"],
 		"requiredTech": "Engineering"
 	},
 	{
@@ -935,10 +935,11 @@
 	},
 	{
 		"name": "Hydro Plant",
+		"production": 3,
 		"requiredResource": "Aluminum",
 		"hurryCostModifier": 0,
 		"maintenance": 3,
-		"uniques": ["Must be on [River]","[+1 Production] from [River] tiles [in this city]"],
+		"uniques": ["Must have an owned [River] within [3] tiles", "[+1 Production] from [River] tiles [in this city]"],
 		"requiredTech": "Electricity"
 	},
 
@@ -1144,7 +1145,7 @@
 
 	{
 		"name": "Utopia Project",
-		"cost": 3000,
+		"cost": 2000,
 		"isNationalWonder": true,
 		"uniques": ["Hidden until [5] social policy branches have been completed", "Triggers a global alert upon build start",
 			"Triggers a Cultural Victory upon completion", "Hidden when [Cultural] Victory is disabled"]

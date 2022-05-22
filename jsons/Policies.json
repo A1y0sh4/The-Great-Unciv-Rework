@@ -431,7 +431,7 @@
             {
                 "name": "Secularism",
                 "uniques": [
-                    "[+2 Science] from every specialist [in all cities]"
+                    "[+1 Science] from every specialist [in all cities]", "[+1 Science] from all [Science] buildings"
                 ],
                 "row": 1,
                 "column": 2

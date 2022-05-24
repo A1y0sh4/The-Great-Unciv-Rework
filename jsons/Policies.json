@@ -602,8 +602,8 @@
             {
                 "name": "Autocracy Complete",
                 "uniques": [
-                    "[+1] Movement <for [Military] units> <for [50] turns>",
-		    "[+15]% Strength <when attacking> <for [Military] units> <for [50] turns>",
+                    "[+1] Movement <for [Military] units> <during a Golden Age>",
+		    "[+15]% Strength <when attacking> <for [Military] units> <during a Golden Age>",
                     "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
                     "May buy [Great Admiral] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
@@ -678,6 +678,7 @@
                 "name": "Order Complete",
                 "uniques": [
                     "[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities connected to capital]",
+		    "Empire enters golden age",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }

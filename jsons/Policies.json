@@ -677,8 +677,8 @@
             {
                 "name": "Order Complete",
                 "uniques": [
-                    "[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities connected to capital]",
-		    "Empire enters golden age",
+                    "Empire enters golden age",
+		    "[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities connected to capital]",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }

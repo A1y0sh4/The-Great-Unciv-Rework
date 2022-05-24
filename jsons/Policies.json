@@ -381,7 +381,7 @@
             },
             {
                 "name": "Merchant Navy",
-                "uniques": ["[+2 Production, +2 Gold] [in all coastal cities]", "[+15]% Production when constructing [Water] units [in all cities]"],
+                "uniques": ["[+15]% Production when constructing [Water] units [in all cities]", "[+2 Production, +2 Gold] [in all coastal cities]"],
                 "requires": ["Naval Tradition"],
                 "row": 2,
                 "column": 2

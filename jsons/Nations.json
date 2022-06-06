@@ -569,7 +569,7 @@
 		"outerColor": [16,126,5],
 		"innerColor": [255,153,51],
 		"uniqueName": "Population Growth",
-		"uniques": ["Unhappiness from number of Cities doubled", "[-50]% Unhappiness from [Population] [in all cities]", "[+1 Food] from every [Bonus resource]"],
+		"uniques": ["Unhappiness from number of Cities doubled", "[-50]% Unhappiness from [Population] [in all cities]", "[+10]% growth [in all cities]"],
 		"cities": ["Delhi","Mumbai","Vijayanagara","Pataliputra","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
 			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur",
 			"Bodhgaya","Kushinagar","Amaravati","Gaur","Gwalior","Jaipur","Karachi"]
@@ -882,7 +882,7 @@
 		"outerColor": [19,70,24],
 		"innerColor": [255,46,46],
 		"uniqueName": "Spirit of Adwa",
-		"uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>", "[+15]% Strength <within [3] tiles of a [Mountain]>"],
+		"uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>", "[+15]% Strength <within [2] tiles of a [Mountain]>"],
 		"cities": ["Addis Ababa","Harar","Adwa","Lalibela","Gondar","Axum","Dire Dawa","Bahir Dar","Adama",
 			"Mek'ele","Awasa","Jimma","Jijiga","Dessie","Debre Berhan","Shashamane","Debre Zeyit","Sodo","Hosaena",
 			"Nekemte","Asella","Dila","Adigrat","Debre Markos","Kombolcha","Debre Tabor","Sebeta",

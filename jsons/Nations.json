@@ -299,6 +299,7 @@
 		"name": "Greece",
 		"leaderName": "Alexander",
 		"adjective": ["Greek"],
+		"startBias": ["Hill"],
 		"preferredVictoryType":"Diplomatic",
 		
 		"startIntroPart1": "May the blessings of the gods be upon you, oh great King Alexander! You are the ruler of the mighty Greek nation. Your people lived for so many years in isolated city-states - legendary cities such as Athens, Sparta, Thebes - where they gave the world many great things, such as democracy, philosophy, tragedy, art and architecture, the very foundation of Western Civilization. Although few in number and often hostile to each other, in the 5th century BC they were able to defeat their much larger neighbor, Persia, on land and sea.",

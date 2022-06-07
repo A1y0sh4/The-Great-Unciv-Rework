@@ -209,7 +209,7 @@
 		"name": "Statue of Zeus",
 		"culture": 1,
 		"isWonder": true,
-		"uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>", "[+1 Happiness] from every [Barracks]"],
+		"uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>", "[+1 Gold] from all [Culture] buildings"],
 		"requiredTech": "Bronze Working",
 		"quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad"
 		// "Requires [Honor]" in BNW
@@ -289,6 +289,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
 		"requiredTech": "Construction",
+		"uniques": ["Free Social Policy"],
 		"quote": "'Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.' - Sun Tzu"
 	},
 	// Column 4
@@ -339,7 +340,7 @@
 		"culture": 3,
 		"greatPersonPoints": {"Great Scientist": 1},
 		"isWonder": true,
-		"uniques": ["Free Social Policy", "[+1 Happiness] from all [Culture] buildings"],
+		"uniques": ["[+1 Happiness] from all [Culture] buildings"],
 		"requiredTech": "Philosophy",
 		"quote": "'The ancient Oracle said that I was the wisest of all the Greeks. It is because I alone, of all the Greeks, know that I know nothing' - Socrates"
 	},
@@ -402,7 +403,7 @@
 		"name": "Aqueduct",
 		"maintenance": 1,
 		"hurryCostModifier": 0,
-		"uniques": ["[40]% Food is carried over after population increases [in this city]", "[+2 Food] <in [Fresh water] tiles>"],
+		"uniques": ["[40]% Food is carried over after population increases [in this city]", "[+1 Food] for each adjacent [Mountain]"],
 		"requiredTech": "Engineering"
 	},
 	{
@@ -482,7 +483,7 @@
 		"happiness": 4,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["[+50]% Golden Age length", "[+1 Culture] from [Jungle] tiles [in all city]", "Must have an owned [Jungle] within [2] tiles"],
+		"uniques": ["[+50]% Golden Age length", "[+1 Culture] from [Jungle] tiles [in all cities]", "Must have an owned [Jungle] within [2] tiles"],
 		"requiredTech": "Civil Service",
 		"quote": "'The katun is established at Chichen Itza. The settlement of the Itza shall take place there. The quetzal shall come, the green bird shall come. Ah Kantenal shall come. It is the word of God. The Itza shall come.' - The Books of Chilam Balam"
 	},
@@ -963,10 +964,10 @@
 	{
 		"name": "Eiffel Tower",
 		"culture": 1,
-		"happiness": 5,
+		"happiness": 2,
 		"greatPersonPoints": {"Great Merchant": 2},
 		"isWonder": true,
-		"uniques": ["Provides 1 happiness per 2 additional social policies adopted"],
+		"uniques": ["Free Social Policy", "Provides 1 happiness per 2 additional social policies adopted"],
 		"requiredTech": "Radio",
 		"quote": "'We live only to discover beauty, all else is a form of waiting' - Kahlil Gibran"
 	},
@@ -984,7 +985,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
-		"uniques": ["Must be next to [Coast]", "[+1 Production] from every specialist [in all cities]", "[+1 Culture] from every specialist [in all cities]"],
+		"uniques": ["Must be next to [Coast]", "[+1 Production, +1 Culture] from every specialist [in all cities]"],
 		"requiredTech": "Replaceable Parts",
 		"quote": "'Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore. Send these, the homeless, tempest-tossed to me, I lift my lamp beside the golden door!' - Emma Lazarus"
 	},
@@ -1098,7 +1099,7 @@
 		"isWonder": true,
 		"culture": 1,
 		"greatPersonPoints": {"Great Merchant": 1},
-		"uniques": ["[+1] population [in all cities]", "[+1 Happiness, +1 Culture] [in all cities]", "Gain a free [Broadcast Tower] [in all cities]"],
+		"uniques": ["[+1] population [in all cities]", "[+1 Happiness] [in all cities]", "[+1 Culture] from all [Culture] buildings", "Gain a free [Broadcast Tower] [in all cities]"],
 		"requiredTech": "Telecommunications",
 		"quote": "'Nothing travels faster than light with the possible exception of bad news, which obeys its own special rules.' - Douglas Adams"
 	},

@@ -566,7 +566,7 @@
             },
             {
                 "name": "Militarism",
-                "uniques": ["[Gold] cost of purchasing [All] units [-30]%",
+                "uniques": ["[Gold] cost of purchasing [All] units [-50]%",
 		"[8] units cost no maintenance"],
                 "row": 1,
                 "column": 5

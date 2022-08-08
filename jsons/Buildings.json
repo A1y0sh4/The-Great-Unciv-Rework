@@ -107,7 +107,7 @@
 		"cost": 50,
 		"uniqueTo": "China",
 		"hurryCostModifier": 25,
-		"gold": 2,
+		"science": 2,
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
 		"requiredTech": "Writing"
 	},

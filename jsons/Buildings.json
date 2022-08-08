@@ -938,7 +938,7 @@
 		"requiredResource": "Aluminum",
 		"hurryCostModifier": 0,
 		"maintenance": 3,
-		"uniques": ["[+1 Production] from [River] tiles [in this city]", "Must have an owned [River] within [2] tiles"],
+		"uniques": ["[+1 Production] from [Fresh water] tiles [in this city]", "Must have an owned [Fresh water] within [2] tiles"],
 		"requiredTech": "Electricity"
 	},
 

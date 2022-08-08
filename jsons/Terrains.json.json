@@ -24,7 +24,7 @@
 		"impassable": true,
 		"defenceBonus": 0.25,
 		"RGB": [120, 120, 120],
-		"uniques": ["Rough terrain","Fresh water",
+		"uniques": ["Fresh water",
 					"Has an elevation of [4] for visibility calculations",
 					"Occurs in chains at high elevations",
 					"Units ending their turn on this terrain take [50] damage",

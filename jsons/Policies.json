@@ -27,7 +27,7 @@
                 "name": "Legalism",
                 "uniques": [
                     "Provides the cheapest [Culture] building in your first [4] cities for free",
-		    "[-10]% Culture cost of adopting new Policies"
+		    "[+15]% Production when constructing [All] buildings [in capital]"
                 ],
                 "row": 1,
                 "column": 3
@@ -45,7 +45,7 @@
             {
                 "name": "Landed Elite",
                 "uniques": [
-                    "[+15]% growth [in capital]",
+                    "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]",
 		    "[+1 Food] [in all cities]"
                 ],
@@ -65,7 +65,7 @@
             {
                 "name": "Tradition Complete",
                 "uniques": [
-                    "[+15]% growth [in all cities]",
+                    "[+10]% growth [in all cities]",
                     "Provides a [Aqueduct] in your first [4] cities for free"
                 ]
             }
@@ -178,7 +178,7 @@
                 "name": "Military Tradition",
                 "uniques": [
                     "[+50]% XP gained from combat <for [Military] units>",
-		    "[Great General] is earned [30]% faster"
+		    "[+30]% to Flank Attack bonuses"
                 ],
                 "requires": ["Warrior Code"],
                 "row": 2,
@@ -187,7 +187,8 @@
             {
                 "name": "Military Caste",
                 "uniques": [
-                    "[+1 Production, +2 Culture] [in all cities with a garrison]"
+                    "[+1 Production, +2 Culture] [in all cities with a garrison]",
+		    "New [Military] units start with [15] Experience [in capital]"
                 ],
                 "requires": ["Discipline"],
                 "row": 2,
@@ -303,7 +304,8 @@
             {
                 "name": "Aesthetics",
                 "uniques": [
-                    "Resting point for Influence with City-States is increased by [20]"
+                    "Resting point for Influence with City-States is increased by [20]",
+		    "[+1 Culture] from every [Wonder]"
                 ],
                 "row": 1,
                 "column": 4

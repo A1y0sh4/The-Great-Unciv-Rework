@@ -764,7 +764,7 @@
 		"innerColor": [134,238,214],
 
 		"uniqueName": "Sacrificial Captives",
-		"uniques": ["When defeating a [Sword] unit, earn [8]-[24] Culture and recruit it <with [50]% chance>", "[+1 Culture, +1 Production] from every [Lakes]"],
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "May buy [Culture] buildings with [Faith] [in all cities]", "[+1 Culture, +1 Production] from every [Lakes]"],
 		"cities": ["Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
 			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
 			"Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac",

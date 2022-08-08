@@ -1,0 +1,126 @@
+[
+	// Base terrains
+	
+	{
+		"name": "Tundra",
+		"type": "Land",
+		"food": 1,
+		"movementCost": 1,
+		"RGB": [189,204,191],
+		"uniques": ["Occurs at temperature between [-0.9] and [-0.6] and humidity between [0.8] and [1]",
+			    "Occurs at temperature between [-0.8] and [-0.5] and humidity between [0.6] and [0.8]",
+			    "Occurs at temperature between [-0.7] and [-0.4] and humidity between [0.4] and [0.6]",
+			    "Occurs at temperature between [-0.6] and [-0.4] and humidity between [0.2] and [0.4]",
+			    "Occurs at temperature between [-0.5] and [-0.4] and humidity between [0] and [0.2]",
+				"[+2] to Fertility for Map Generation",
+				"A Region is formed with at least [30]% [Tundra] tiles and [Snow] tiles, with priority [1]",
+				"Considered [Food] when determining start locations <in [Tundra] Regions>",
+				"Considered [Desirable] when determining start locations <in [Tundra] Regions>",
+				"Every [16] tiles with this terrain will receive a major deposit of a strategic resource."]
+	},
+	{
+		"name": "Mountain",
+		"type": "Land",
+		"impassable": true,
+		"defenceBonus": 0.25,
+		"RGB": [120, 120, 120],
+		"uniques": ["Rough terrain","Fresh water",
+					"Has an elevation of [4] for visibility calculations",
+					"Occurs in chains at high elevations",
+					"Units ending their turn on this terrain take [50] damage",
+					"Always Fertility [2] for Map Generation",
+					"Considered [Desirable] when determining start locations"]
+	},
+	// Terrain features
+	{
+		"name": "Oasis",
+		"type": "TerrainFeature",
+		"food": 3,
+		"gold": 1,
+		"movementCost": 1,
+		"unbuildable": true,
+		"defenceBonus": -0.15,
+		"occursOn": ["Desert"],
+		"uniques": ["Fresh water", "Rare feature",
+					"Only [All Road] improvements may be built on this tile",
+					"Always Fertility [4] for Map Generation",
+					"Considered [Food] when determining start locations",
+					"Considered [Desirable] when determining start locations"]
+	},
+
+	// Natural Wonders
+	{
+		"name": "Barringer Crater",
+		"type": "NaturalWonder",
+		"gold": 2,
+		"science": 3,
+		"occursOn": ["Desert"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [0] [Grassland] tiles",
+			"Must be adjacent to [0] to [2] [Mountain] tiles",
+			"Must be adjacent to [0] to [4] [Elevated] tiles"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+	// G&K Wonders
+	{
+		"name": "Uluru",
+		"type": "NaturalWonder",
+		"food": 2,
+		"faith": 6,
+		"occursOn": ["Desert"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [0] [Grassland] tiles",
+			"Must be adjacent to [0] [Tundra] tiles",
+			"Must be adjacent to [0] [Marsh] tiles",
+			"Must be adjacent to [3] to [6] [Plains] tiles"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+/*
+	// BNW wonders
+	{
+		"name": "King Solomon's Mines",
+		"type": "NaturalWonder",
+		"production": 6,
+		"overrideStats": true,
+		"occursOn": ["Plains","Desert"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [0] to [2] [Mountain] tiles"],
+		"turnsInto": "Plains",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 4
+	},
+	{// Will be introduced in Brave New World. Despite being a lake, it cannot be sailed on and it blocks line of sight like a mountain.
+		"name": "Lake Victoria",
+		"type": "NaturalWonder",
+		"food": 6,
+		"occursOn": ["Plains"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"uniques": ["Fresh water","Must be adjacent to [0] [Coast] tiles"],
+		"weight": 10
+	},
+	{
+		"name": "Mount Kilimanjaro",
+		"type": "NaturalWonder",
+		"food": 3,
+		"culture": 2,
+		"occursOn": ["Plains","Grassland"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [2] to [6] [Hill] tiles",
+			"Must be adjacent to [0] to [2] [Mountain] tiles",
+			"Grants [Altitude Training] ([double movement and +10% Strength in hills]) to adjacent [Land] units for the rest of the game"],
+		"weight": 10
+	}
+*/
+]

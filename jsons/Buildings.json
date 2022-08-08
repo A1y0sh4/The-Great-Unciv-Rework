@@ -403,7 +403,7 @@
 		"name": "Aqueduct",
 		"maintenance": 1,
 		"hurryCostModifier": 0,
-		"uniques": ["[40]% Food is carried over after population increases [in this city]"],
+		"uniques": ["[30]% Food is carried over after population increases [in this city]", "[+10]% growth [in this city]"],
 		"requiredTech": "Engineering"
 	},
 	{
@@ -918,10 +918,11 @@
 	// Column 10
 	{
 		"name": "Hospital",
-		"food": 5,
+		"food": 4,
 		"requiredBuilding": "Aqueduct",
 		"maintenance": 2,
 		"hurryCostModifier": 0,
+		"uniques": ["All newly-trained [relevant] units [in this city] receive the [Medic] promotion"],
 		"requiredTech": "Biology"
 	},
 	{
@@ -1027,9 +1028,10 @@
 	{
 		"name": "Medical Lab",
 		"requiredBuilding": "Hospital",
+		"food": 2,
 		"maintenance": 3,
 		"requiredTech": "Pharmaceuticals",
-		"uniques": ["[25]% Food is carried over after population increases [in this city]"]
+		"uniques": ["[20]% Food is carried over after population increases [in this city]", "[+10]% growth [in this city]"]
 	},
 	{
 		"name": "Manhattan Project",
@@ -1043,7 +1045,7 @@
 		"isWonder": true,
 		"culture": 3,
 		"greatPersonPoints": {"Great Engineer": 2},
-		"uniques": ["[-33]% Gold cost of upgrading <for [Military] units>", "All newly-trained [relevant] units [in this city] receive the [Sentry] promotion"],
+		"uniques": ["[-33]% Gold cost of upgrading <for [Military] units>", "All newly-trained [relevant] units [in this city] receive the [Sentry] promotion", "All newly-trained [relevant] units [in this city] receive the [Logistics] promotion"],
 		"requiredTech": "Combined Arms",
 		"quote": "'In preparing for battle I have always found that plans are useless, but planning is indispensable.' - Dwight D. Eisenhower"
 	},
@@ -1105,7 +1107,7 @@
 	},
 	{
 		"name": "Bomb Shelter",
-		"cost": 300,
+		"cost": 200,
 		"maintenance": 1,
 		"requiredTech": "Telecommunications",
 		"uniques": ["Population loss from nuclear attacks [-75]% [in this city]"]

@@ -27,7 +27,7 @@
                 "name": "Legalism",
                 "uniques": [
                     "Provides the cheapest [Culture] building in your first [4] cities for free",
-		    "[+15]% Production when constructing [All] buildings [in capital]"
+		    "[+10]% Yield from every [Palace]"
                 ],
                 "row": 1,
                 "column": 3

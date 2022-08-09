@@ -1,0 +1,26 @@
+[
+	// Great Person improvements
+	{
+		"name": "Citadel",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [100]%",
+			"Adjacent enemy units ending their turn take [30] damage",
+			"Can be built just outside your borders",
+        	"Constructing it will take over the tiles around it and assign them to your closest city",
+		]
+	},
+
+	//Civilization unique improvements
+	{
+		"name": "Polder",
+		"uniqueTo": "The Netherlands",
+		"food": 3,
+		"terrainsCanBeBuiltOn": ["Marsh", "Flood plains"],
+		"turnsToBuild": 7,
+		"uniques": ["[+2 Production, +2 Gold, +1 Food] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+18 Gold]"],
+		"techRequired": "Guilds",
+		"shortcutKey": "F"
+	}
+]

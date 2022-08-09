@@ -519,13 +519,13 @@
 		"name": "Longhouse",
 		"replaces": "Workshop",
 		"uniqueTo": "Iroquois",
-		"cost": 120,
+		"cost": 100,
 		"maintenance": 2,
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
-		"uniques": ["[+1 Production] from [Forest] tiles [in this city]"],
+		"uniques": ["[+1 Culture, +1 Production] from [Forest] tiles [in this city]"],
 		"requiredTech": "Metal Casting"
 	},
 	{

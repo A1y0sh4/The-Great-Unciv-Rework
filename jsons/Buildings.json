@@ -473,7 +473,7 @@
 		"culture": 1,
 		"faith": 8,
 		"uniques": ["Requires a [Temple] in all cities", "Cost increases by [30] per owned city",
-			"[+100]% Natural religion spread [in this city]", "[Faith] cost of purchasing items in cities [-15]% ", "Hidden when religion is disabled", "Can only be built [in holy cities]"],
+			"[+100]% Natural religion spread [in this city]", "[+1 Faith] from all [Faith] buildings", "Hidden when religion is disabled", "Can only be built [in holy cities]"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	},

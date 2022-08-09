@@ -696,7 +696,7 @@
 		"outerColor": [102,0,0],
 		"innerColor": [255,102,102],
 		"uniqueName": "Seven Cities of Gold",
-		"uniques": ["100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)", "Double Happiness from Natural Wonders", "[+100]% Yield from every [Natural Wonder]", "[Faith] cost of purchasing [Faith] buildings [-30]%", "May buy [Faith] buildings with [Faith] [in all cities]"],
+		"uniques": ["100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)", "Double Happiness from Natural Wonders", "[+100]% Yield from every [Natural Wonder]", "[Faith] cost of purchasing [Faith] buildings [-30]%", "May buy [Settler] units with [Faith] [in all cities]"],
 		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
 			"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
 			"Lugo","Alicante","Càdiz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La Coruña","Guadalquivir","Bilbao",
@@ -764,7 +764,7 @@
 		"innerColor": [134,238,214],
 
 		"uniqueName": "Sacrificial Captives",
-		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "May buy [Culture] buildings with [Faith] [in all cities]", "[+1 Culture, +1 Production] from every [Lakes]"],
+		"uniques": ["[+2] Happiness from each type of luxury resource", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "May buy [Builder] units with [Faith] [in all cities]", "[+1 Culture, +1 Production] from every [Lakes]"],
 		"cities": ["Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
 			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
 			"Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac",

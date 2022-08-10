@@ -390,7 +390,7 @@
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"happiness": 2,
-		"hurryCostModifier": 15,
+		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"

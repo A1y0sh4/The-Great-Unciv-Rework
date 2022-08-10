@@ -882,7 +882,7 @@
 		"outerColor": [19,70,24],
 		"innerColor": [255,46,46],
 		"uniqueName": "Spirit of Adwa",
-		"uniques": ["[+15]% Strength <when fighting units from a Civilization with more Cities than you>", "[+15]% Strength <when defending> <in [Faith] tiles> <in [Friendly Land] tiles>", "[+15]% [Science] <when at war>"],
+		"uniques": ["[+15]% Strength <when fighting units from a Civilization with more Cities than you>", "[+15]% Strength <when defending> <in [Faith] tiles>", "[+15]% [Science] <when at war>"],
 		"cities": ["Addis Ababa","Harar","Adwa","Lalibela","Gondar","Axum","Dire Dawa","Bahir Dar","Adama",
 			"Mek'ele","Awasa","Jimma","Jijiga","Dessie","Debre Berhan","Shashamane","Debre Zeyit","Sodo","Hosaena",
 			"Nekemte","Asella","Dila","Adigrat","Debre Markos","Kombolcha","Debre Tabor","Sebeta",

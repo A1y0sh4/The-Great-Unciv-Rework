@@ -672,7 +672,7 @@
 		"innerColor": [90,0,10],
 		"uniqueName": "River Warlord",
 		"uniques": ["[-20]% maintenance costs <for [All] units>", "Receive triple Gold from Barbarian encampments and pillaging Cities","[Land] units gain the [Amphibious] promotion",
-			"[+1 Gold] from every [Desert]"],
+			"[+1 Gold] from every [Fresh water]"],
 		"cities": ["Gao","Tombouctu","Jenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
 			"Kebbi","Boussa","Motpi","Bamako","Wa","Kayes","Awdaghost","Ouadane","Dakar","Tadmekket","Tekedda","Kano",
 			"Agadez","Niamey","Torodi","Ouatagouna","Dori","Bamba","Segou"]
@@ -845,7 +845,7 @@
 		"outerColor": [ 231, 213, 0],
 		"innerColor": [98,10,210],
 		"uniqueName": "Monument Builders",
-		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]", "[+1 Food] from every [Desert]"],
+		"uniques": ["[+10]% Production when constructing [All] wonders [in all cities]", "[+2 Faith] from every [Wonder]", "[+10]% Yield from every [Wonder]", "[+1 Food] from every [Desert]"],
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",

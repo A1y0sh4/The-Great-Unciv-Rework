@@ -817,7 +817,7 @@
 		"innerColor": [146,221,9],
 		"favoredReligion": "Islam",
 		"uniqueName": "Trade Caravans",
-		"uniques": ["Double quantity of [Oil] produced", "[+2 Gold] from each Trade Route", "[Gold] cost of purchasing [All] buildings [-30]%"],
+		"uniques": ["Double quantity of [Oil] produced", "[+2 Gold] from each Trade Route", "[Gold] cost of purchasing [All] buildings [-30]%", "May buy [Civilian] units with [Gold] for [2] times their normal Production cost"],
 		"cities": ["Mecca","Medina","Damascus","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat",
 			"Aden","Yamama","Muscat","Mansura","Bukhara","Shiraz","Merw","Balkh","Mosul",
 			"Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr","Tripoli","Tunis","Kairouan","Algiers","Oran"]

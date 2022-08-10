@@ -517,7 +517,7 @@
 		"outerColor": [9, 112, 84],
 		"innerColor": [255,255,255],
 		"uniqueName": "Art of War",
-		"uniques": ["Great General provides double combat bonus", "[+25]% Yield from every [Trade routes]", "[+1 Culture, +1 Production] from each Trade Route <before the [Renaissance]>", "[Great General] is earned [50]% faster"],
+		"uniques": ["Great General provides double combat bonus", "[+25]% Yield from every [Trade routes]", "[+1 Culture, +1 Production] from each Trade Route", "[Great General] is earned [50]% faster"],
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",

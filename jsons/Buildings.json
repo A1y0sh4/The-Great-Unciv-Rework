@@ -392,7 +392,7 @@
 		"happiness": 2,
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
-		"requiredTech": "Banking"
+		"requiredTech": "Currency"
 	},
 	{
 		"name": "Mint",

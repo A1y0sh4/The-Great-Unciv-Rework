@@ -162,6 +162,7 @@
 		"replaces": "Walls",
 		"cost": 50,
 		"uniqueTo": "Babylon",
+		"culture": 1,
 		"cityStrength": 6,
 		"cityHealth": 100,
 		"hurryCostModifier": 25,
@@ -381,6 +382,18 @@
 		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
 			"[+2 Gold] from [Oil] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
 		"requiredTech": "Currency"
+	},
+	{
+		"name": "Satrap's Court",
+		"replaces": "Market",
+		"uniqueTo": "Persia",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"happiness": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
 	},
 	{
 		"name": "Mint",
@@ -698,18 +711,6 @@
 		"name": "Bank",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 15,
-		"percentStatBonus": {"gold": 25},
-		"requiredBuilding": "Market",
-		"requiredTech": "Banking"
-	},
-	{
-		"name": "Satrap's Court",
-		"replaces": "Bank",
-		"uniqueTo": "Persia",
-		"gold": 2,
-		"specialistSlots": {"Merchant": 1},
-		"happiness": 2,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"gold": 25},
 		"requiredBuilding": "Market",

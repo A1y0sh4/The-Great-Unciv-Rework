@@ -845,7 +845,7 @@
 		"outerColor": [ 231, 213, 0],
 		"innerColor": [98,10,210],
 		"uniqueName": "Monument Builders",
-		"uniques": ["[+10]% Production when constructing [All] wonders [in all cities]", "[+2 Faith] from every [Wonder]", "[+10]% Yield from every [Wonder]", "[+1 Food] from every [Desert]"],
+		"uniques": ["[+10]% Production when constructing [All] wonders [in all cities]", "[+1]% Yield from every [Wonder]", "[+1 Food] from every [Desert]"],
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",

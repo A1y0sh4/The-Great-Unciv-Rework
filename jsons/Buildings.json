@@ -160,7 +160,7 @@
 	{
 		"name": "Walls of Babylon",
 		"replaces": "Walls",
-		"cost": 65,
+		"cost": 50,
 		"uniqueTo": "Babylon",
 		"culture": 1,
 		"cityStrength": 6,
@@ -198,7 +198,7 @@
 	{
 		"name": "Krepost",
 		"replaces": "Barracks",
-		"cost": 65,
+		"cost": 50,
 		"uniqueTo": "Russia",
 		"hurryCostModifier": 25,
 		"maintenance": 1,

@@ -620,7 +620,7 @@
 		"outerColor": [238,238,236],
 		"innerColor": [77,2,4],
 		"uniqueName": "Scourge of God",
-		"uniques": ["[+1 Production] from every [Pasture]", "Cities are razed [2] times as fast", "Starts with [Animal Husbandry]", "Upon capturing a city, receive [10] times its [Culture] production as [Gold] immediately", "\"Borrows\" city names from other civilizations in the game", "[+15]% Strength <for [Mounted] units> <when adjacent to a [Mounted] unit>"],
+		"uniques": ["[+1 Production] from every [Pasture]", "Cities are razed [2] times as fast", "Starts with [Animal Husbandry]", "[Mounted] units gain the [Shock I] promotion", "\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Atilla's Court"]
 	},
 	{

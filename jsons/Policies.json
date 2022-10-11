@@ -274,7 +274,8 @@
             {
                 "name": "Piety Complete",
                 "uniques": [
-                    "[+6 Culture] from every [Holy site]"
+                    "[+6 Gold] from every [Holy site]",
+		    "[+2 Culture] [in all cities] <within [3] tiles of a [Holy site]>"
                 ]
             }
         ]

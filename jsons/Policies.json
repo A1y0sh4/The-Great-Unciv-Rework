@@ -27,7 +27,7 @@
                 "name": "Legalism",
                 "uniques": [
                     "Provides the cheapest [Culture] building in your first [4] cities for free",
-		    "[+5]% Yield from every [Palace]"
+		    "Free Social Policy"
                 ],
                 "row": 1,
                 "column": 3
@@ -274,8 +274,7 @@
             {
                 "name": "Piety Complete",
                 "uniques": [
-                    "Free Social Policy",
-                    "[+3 Gold, +3 Culture] from every [Holy site]"
+                    "[+6 Culture] from every [Holy site]"
                 ]
             }
         ]

@@ -317,7 +317,7 @@
 		"outerColor": [181, 232, 232],
 		"innerColor": [68,142,249],
 		"uniqueName": "Hellenic League",
-		"uniques": ["[+2 Happiness] [in all cities] <when at war>", "Gain a free [Library] [in all coastal cities] <after discovering [Writing]>", "Gain a free [Monument] [in all cities] <in [Hill] tiles>"],
+		"uniques": ["[+1 Happiness] [in all cities] <when at war>", "Gain a free [Library] [in all coastal cities] <after discovering [Writing]>", "Gain a free [Amphitheater] [in all cities] <in [Hill] tiles> <after discovering [Drama and Poetry]>"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
 			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon",

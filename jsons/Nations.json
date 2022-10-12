@@ -300,7 +300,7 @@
 		"leaderName": "Alexander",
 		"adjective": ["Greek"],
 		"startBias": ["Hill"],
-		"preferredVictoryType":"Diplomatic",
+		"preferredVictoryType":"Domination",
 		
 		"startIntroPart1": "May the blessings of the gods be upon you, oh great King Alexander! You are the ruler of the mighty Greek nation. Your people lived for so many years in isolated city-states - legendary cities such as Athens, Sparta, Thebes - where they gave the world many great things, such as democracy, philosophy, tragedy, art and architecture, the very foundation of Western Civilization. Although few in number and often hostile to each other, in the 5th century BC they were able to defeat their much larger neighbor, Persia, on land and sea.",
 		"startIntroPart2": "Alexander, your people stand ready to march to war, to spread the great Greek culture to millions and to bring you everlasting glory. Are you ready to accept your destiny, King Alexander? Will you lead your people to triumph and greatness? Can you build a civilization that will stand the test of time?",
@@ -317,7 +317,7 @@
 		"outerColor": [181, 232, 232],
 		"innerColor": [68,142,249],
 		"uniqueName": "Hellenic League",
-		"uniques": ["[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>", "City-State Influence recovers at twice the normal rate", "[-30]% Unhappiness from [Population] [in annexed cities]"],
+		"uniques": ["[+1 Happiness] [in all cities] <when at war>", "[+1 Science] [in all coastal cities]", "[+1 Culture] [in all cities] <in [Hill]> tiles"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
 			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon",

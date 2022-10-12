@@ -342,7 +342,7 @@
 		"culture": 3,
 		"greatPersonPoints": {"Great Scientist": 1},
 		"isWonder": true,
-		"uniques": ["[+1 Happiness, +1 Culture] [in all costal cities]"],
+		"uniques": ["[+1 Happiness, +1 Culture] [in all coastal cities]"],
 		"requiredTech": "Philosophy",
 		"quote": "'The ancient Oracle said that I was the wisest of all the Greeks. It is because I alone, of all the Greeks, know that I know nothing' - Socrates"
 	},

@@ -10,8 +10,8 @@
             "Scientific": 30
         },
         "uniques": [
-            "[+3 Culture] [in capital]",
-            "[-25]% Culture cost of natural border growth [in all cities] <during We Love The King Day>"
+            "[+2 Culture] from every [Palace]",
+            "[-25]% Culture cost of natural border growth [in all cities]"
         ],
         "policies": [
             {

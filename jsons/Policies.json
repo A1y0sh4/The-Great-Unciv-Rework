@@ -11,7 +11,7 @@
         },
         "uniques": [
             "[+2 Culture] from every [Palace]",
-            "[-25]% Culture cost of natural border growth [in all cities]"
+            "[-25]% Culture cost of natural border growth [in all cities with a world wonder]"
         ],
         "policies": [
             {
@@ -241,8 +241,7 @@
             },
             {
                 "name": "Mandate Of Heaven",
-                "uniques": ["[50]% of excess happiness converted to [Culture]",
-			    "[+1 Culture, +1 Faith] per [2] population [in capital]"],
+                "uniques": ["[+1 Culture, +1 Faith] per [2] population [in capital]"],
                 "row": 1,
                 "column": 5
             },

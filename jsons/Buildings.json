@@ -211,7 +211,7 @@
 		"name": "Statue of Zeus",
 		"culture": 1,
 		"isWonder": true,
-		"uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>", "[+1 Gold] from all [Culture] buildings"],
+		"uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>"],
 		"requiredTech": "Bronze Working",
 		"quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad"
 		// "Requires [Honor]" in BNW
@@ -342,7 +342,7 @@
 		"culture": 3,
 		"greatPersonPoints": {"Great Scientist": 1},
 		"isWonder": true,
-		"uniques": ["[+1 Happiness] from all [Culture] buildings"],
+		"uniques": ["[+1 Happiness, +1 Culture] [in all costal cities]"],
 		"requiredTech": "Philosophy",
 		"quote": "'The ancient Oracle said that I was the wisest of all the Greeks. It is because I alone, of all the Greeks, know that I know nothing' - Socrates"
 	},
@@ -442,7 +442,7 @@
 		"name": "Colossus",
 		"cost": 185,
 		"culture": 1,
-		"gold": 5,
+		"gold": 4,
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
 		"uniques": ["Must be next to [Coast]", "[+1 Gold] from [Water] tiles [in this city]", "[+1 Production] from every [Quarry]"],

@@ -621,7 +621,8 @@
             "Scientific": 40
         },
         "uniques": [
-            "[+1 Happiness, +1 Production] [in all cities]",
+            "Empire enters golden age",
+	    "[+1 Culture, +1 science] per [10] population [in all cities]",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Freedom]>"
         ],
@@ -630,7 +631,7 @@
                 "name": "United Front",
                 "uniques": [
                     "Militaristic City-States grant units [2] times as fast when you are at war with a common nation",
-		    "[-50]% City-State Influence degradation"
+		    "[-50]% City-State Influence degradation <when at war>"
                 ],
                 "row": 1,
                 "column": 1
@@ -639,6 +640,7 @@
                 "name": "Planned Economy",
                 "uniques": [
                     "[+25]% [Science] from every [Factory]",
+		    "[+25]% [Gold] from every [Factory]",
                     "[+100]% Production when constructing [Factory] buildings [in all cities]"
                 ],
                 "row": 1,
@@ -657,8 +659,8 @@
                 "name": "Socialism",
                 "requires": ["Planned Economy"],
                 "uniques": [
-                    "[-20]% maintenance cost for buildings [in all cities]",
-		    "[+1 Food] from each Trade Route"
+                    "[-30]% maintenance cost for buildings [in all cities]",
+		    "[+1 Gold] from very [Bonus resource]"
                 ],
                 "row": 2,
                 "column": 3
@@ -667,7 +669,7 @@
                 "name": "Communism",
                 "requires": ["Socialism"],
                 "uniques": [
-                    "[+2 Production, +1 Science] [in all cities connected to capital]",
+                    "[+2 Production, +2 Science] from every [Trade Route]",
                     "[+1 Production] from every [Mine]",
                     "[+1 Production] from every [Quarry]"
                 ],
@@ -677,8 +679,7 @@
             {
                 "name": "Order Complete",
                 "uniques": [
-                    "Empire enters golden age",
-		    "[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities connected to capital]",
+		    "[+3 Food, +3 Production, +3 Science, +3 Gold, +3 Culture] [in all cities connected to capital]",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }

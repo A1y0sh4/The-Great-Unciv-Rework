@@ -342,7 +342,7 @@
 		"culture": 3,
 		"greatPersonPoints": {"Great Scientist": 1},
 		"isWonder": true,
-		"uniques": ["[+1 Happiness, +1 Culture] [in all coastal cities]"],
+		"uniques": ["Free Great Person", "[+50]% Great Person generation [in this city] <before the [Medieval era]>"],
 		"requiredTech": "Philosophy",
 		"quote": "'The ancient Oracle said that I was the wisest of all the Greeks. It is because I alone, of all the Greeks, know that I know nothing' - Socrates"
 	},
@@ -360,8 +360,9 @@
 		"name": "National Epic",
 		"cost": 125,
 		"culture": 1,
+		"greatPersonPoints": {"Great Artist": 1},
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Monument] in all cities", "[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city"],
+		"uniques": ["Requires a [Monument] in all cities", "[+50]% Great Person generation [in this city]", "Cost increases by [30] per owned city"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{
@@ -505,6 +506,7 @@
 		"cost": 125,
 		"gold": 8,
 		"culture": 1,
+		"greatPersonPoints": {"Great Merchant": 1},
 		"isNationalWonder": true,
 		"uniques": ["Requires a [Market] in all cities", "Cost increases by [30] per owned city"],
 		"requiredTech": "Guilds"
@@ -589,6 +591,7 @@
 		"cost": 125,
 		"science": 3,
 		"culture": 1,
+		"greatPersonPoints": {"Great Scientist": 1},
 		"isNationalWonder": true,
 		"uniques": ["Requires a [University] in all cities", "Free Technology", "Cost increases by [30] per owned city"],
 		"requiredTech": "Education"
@@ -641,6 +644,7 @@
 		"cost": 125,
 		"production": 8,
 		"culture": 1,
+		"greatPersonPoints": {"Great Engineer": 1},
 		"isNationalWonder": true,
 		"uniques": ["Requires a [Workshop] in all cities", "Cost increases by [30] per owned city"],
 		"requiredTech": "Machinery"
@@ -650,7 +654,7 @@
 		"happiness": 4,
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
-		"uniques": ["[50]% of excess happiness converted to [Faith]", "[+1 Culture] from all [Faith] buildings", "Gain a free [Cathedral] [in this city]"],
+		"uniques": ["[+1 Culture] from all [Faith] buildings", "Gain a free [Cathedral] [in this city]"],
 		"requiredTech": "Physics",
 		"quote": "'Architecture has recorded the great ideas of the human race. Not only every religious symbol, but every human thought has its page in that vast book.' - Victor Hugo"
 	},
@@ -790,6 +794,7 @@
 		"cost": 125,
 		"percentStatBonus": {"culture": 50},
 		"culture": 5,
+		"greatPersonPoints": {"Great Artist": 1},
 		"isNationalWonder": true,
 		"uniques": ["Requires a [Opera House] in all cities", "Cost increases by [30] per owned city", "[+1 Culture] from every [Wonder]"],
 		"requiredTech": "Architecture"
@@ -1161,7 +1166,7 @@
 		"faith": 1,
 		"culture": 3,
 		"happiness": 1,
-		"specialistSlots": {"Artist": 1},
+		"greatPersonPoints": {"Great Artist": 1},
 		"uniques": ["Unbuildable", "Hidden when religion is disabled"]
 	},
 	{

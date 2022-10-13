@@ -622,7 +622,7 @@
         },
         "uniques": [
             "Empire enters golden age",
-	    "[+1 Culture, +1 science] per [10] population [in all cities]",
+	    "[+1 Culture, +1 Science] per [10] population [in all cities]",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Freedom]>"
         ],
@@ -639,8 +639,8 @@
             {
                 "name": "Planned Economy",
                 "uniques": [
-                    "[+25]% [Science] from every [Factory]",
-		    "[+25]% [Gold] from every [Factory]",
+                    "[+10]% [Science] from every [Factory]",
+		    "[+10]% [Gold] from every [Factory]",
                     "[+100]% Production when constructing [Factory] buildings [in all cities]"
                 ],
                 "row": 1,

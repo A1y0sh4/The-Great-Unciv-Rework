@@ -660,7 +660,7 @@
                 "requires": ["Planned Economy"],
                 "uniques": [
                     "[-30]% maintenance cost for buildings [in all cities]",
-		    "[+1 Gold] from very [Bonus resource]"
+		    "[+1 Gold] from every [Bonus resource]"
                 ],
                 "row": 2,
                 "column": 3

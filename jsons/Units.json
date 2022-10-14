@@ -11,7 +11,7 @@
 		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Founds a new city"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Founds a new city", "Excess Food converted to Production when under construction"],
 		"promotions": ["[Cossack] ability"],
 		"attackSound": "horse"
 	}

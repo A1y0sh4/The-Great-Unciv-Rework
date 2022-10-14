@@ -669,7 +669,7 @@
                 "name": "Communism",
                 "requires": ["Socialism"],
                 "uniques": [
-                    "[+2 Production, +2 Science] from every [Trade Route]",
+                    "[+2 Production, +2 Science] from every [Trade routes]",
                     "[+1 Production] from every [Mine]",
                     "[+1 Production] from every [Quarry]"
                 ],

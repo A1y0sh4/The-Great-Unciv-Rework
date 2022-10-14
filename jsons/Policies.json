@@ -622,7 +622,7 @@
         },
         "uniques": [
             "Empire enters golden age",
-	    "[+1 Culture, +1 Science] per [10] population [in all cities]",
+	    "[+1 Culture, +1 Science] per [2] population <in cities with at least [15] [Population]>",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Freedom]>"
         ],

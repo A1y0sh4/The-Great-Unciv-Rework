@@ -343,7 +343,7 @@
 		"culture": 3,
 		"greatPersonPoints": {"Great Scientist": 1},
 		"isWonder": true,
-		"uniques": ["Free Great Person", "[+100]% Great Person generation [in this city] <before the [Medieval era]>"],
+		"uniques": ["Free Great Person", "[+25]% Great Person generation [in this city]"],
 		"requiredTech": "Philosophy",
 		"quote": "'The ancient Oracle said that I was the wisest of all the Greeks. It is because I alone, of all the Greeks, know that I know nothing' - Socrates"
 	},
@@ -363,7 +363,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Artist": 1},
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Monument] in all cities", "[+50]% Great Person generation [in this city]", "Cost increases by [30] per owned city"],
+		"uniques": ["Requires a [Monument] in all cities", "[+25]% Great Person generation [in all cities]", "Cost increases by [30] per owned city"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{

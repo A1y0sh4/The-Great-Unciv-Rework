@@ -104,7 +104,7 @@
 	{
 		"name": "Paper Maker",
 		"replaces": "Library",
-		"cost": 50,
+		"cost": 75,
 		"uniqueTo": "China",
 		"hurryCostModifier": 25,
 		"science": 2,

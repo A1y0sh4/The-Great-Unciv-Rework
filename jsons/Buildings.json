@@ -200,10 +200,10 @@
 		"replaces": "Barracks",
 		"cost": 75,
 		"uniqueTo": "Russia",
-		"hurryCostModifier": 16,
+		"hurryCostModifier": 10,
 		"cityStrength": 3,
 		"maintenance": 1,
-		"uniques": ["[-25]% Culture cost of natural border growth [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]", "[+1 Happiness] <within [3] tiles of a [Camp]>",
+		"uniques": ["[-25]% Culture cost of natural border growth [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]", "[+1 Production, +1 Gold] [in capital] <in [Tundra] tiles>",
 			"New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},

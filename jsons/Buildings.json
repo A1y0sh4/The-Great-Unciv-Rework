@@ -200,10 +200,10 @@
 		"replaces": "Barracks",
 		"cost": 50,
 		"uniqueTo": "Russia",
-		"hurryCostModifier": 25,
+		"hurryCostModifier": 16,
 		"cityStrength": 3,
 		"maintenance": 1,
-		"uniques": ["[-50]% Culture cost of natural border growth when constructing [All] units [in all cities]", "[+10]% Production when constructing [All] units [in this city]", 
+		"uniques": ["[-25]% Culture cost of natural border growth [in this city]", "[-25]% Gold cost of natural border growth [in this city]", "[+1 Gold] from every [Camp] [in this city]", 
 			"New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},

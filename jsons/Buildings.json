@@ -201,8 +201,9 @@
 		"cost": 50,
 		"uniqueTo": "Russia",
 		"hurryCostModifier": 25,
+		"cityStrength": 3,
 		"maintenance": 1,
-		"uniques": ["[-25]% Culture cost of natural border growth [in this city]", "Earn [5]% of killed [Military] unit's [Strength] <in [Friendly Land] tiles> as [Science]",
+		"uniques": ["[-50]% Culture cost of natural border growth [in this city]", "[+10]% Production when constructing [All] units [in this city]", 
 			"New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},

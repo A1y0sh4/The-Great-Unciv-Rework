@@ -198,12 +198,12 @@
 	{
 		"name": "Krepost",
 		"replaces": "Barracks",
-		"cost": 50,
+		"cost": 75,
 		"uniqueTo": "Russia",
 		"hurryCostModifier": 16,
 		"cityStrength": 3,
 		"maintenance": 1,
-		"uniques": ["[-25]% Culture cost of natural border growth [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]",
+		"uniques": ["[-25]% Culture cost of natural border growth [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]", "[+1 Happiness] <within [3] tiles of a [Camp]>",
 			"New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},

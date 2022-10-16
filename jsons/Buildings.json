@@ -202,7 +202,7 @@
 		"uniqueTo": "Russia",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["[-25]% Culture cost of natural border growth [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]", "May buy [All] buildings with [Faith] for [2] times their normal Production cost <before the [Industrial era]>", 
+		"uniques": ["[-25]% Culture cost of natural border growth [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]", "[+15]% Yields [in all cities] <in [Tundra] tiles>", 
 			"New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},

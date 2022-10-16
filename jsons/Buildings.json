@@ -203,7 +203,7 @@
 		"hurryCostModifier": 25,
 		"cityStrength": 3,
 		"maintenance": 1,
-		"uniques": ["[-25]% Culture cost of natural border growth [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]", "[+15]% Strength [in this city]", 
+		"uniques": ["[-25]% Culture cost of natural border growth [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]", "[+1 Production, +1 Gold] [in capital]", 
 			"New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
@@ -775,7 +775,7 @@
 		"faith": 4,
 		"cityStrength": 12,
 		"isWonder": true,
-		"uniques": ["[+35]% City Strength from defensive buildings", "Requires a [Palace] in this city"],
+		"uniques": ["[+25]% City Strength from defensive buildings", "Requires a [Palace] in this city"],
 		"requiredTech": "Gunpowder",
 		"quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed"
 	},

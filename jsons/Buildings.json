@@ -162,7 +162,6 @@
 		"replaces": "Walls",
 		"cost": 50,
 		"uniqueTo": "Babylon",
-		"culture": 1,
 		"cityStrength": 6,
 		"cityHealth": 100,
 		"hurryCostModifier": 25,

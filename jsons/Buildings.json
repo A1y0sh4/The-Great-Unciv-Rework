@@ -770,8 +770,11 @@
 	},
 	{
 		"name": "Kremlin",
+		"culture": 3,
+		"faith": 4,
+		"cityStrength": 12,
 		"isWonder": true,
-		"uniques": ["[+25]% City Strength from defensive buildings", "[+25]% Yield [in this city]"],
+		"uniques": ["[+25]% City Strength from defensive buildings", "[+25]% Great Person generation [in this city]"],
 		"requiredBuilding": "Palace",
 		"requiredTech": "Gunpowder",
 		"quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed"
@@ -790,7 +793,6 @@
 		"name": "Hermitage",
 		"cost": 125,
 		"percentStatBonus": {"culture": 50},
-		"culture": 5,
 		"greatPersonPoints": {"Great Artist": 1},
 		"isNationalWonder": true,
 		"uniques": ["Requires a [Opera House] in all cities", "Cost increases by [30] per owned city", "[+1 Culture] from every [Wonder]"],

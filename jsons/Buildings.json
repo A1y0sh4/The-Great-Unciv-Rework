@@ -992,7 +992,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
-		"uniques": ["Must be next to [Coast]", "[+1 Production, +1 Gold] from every specialist [in all cities]"],
+		"uniques": ["Must be next to [Coast]", "[+1 Production] from every specialist [in all cities]", "[+25]% Great Person generation [in this city]"],
 		"requiredTech": "Replaceable Parts",
 		"quote": "'Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore. Send these, the homeless, tempest-tossed to me, I lift my lamp beside the golden door!' - Emma Lazarus"
 	},
@@ -1037,7 +1037,7 @@
 		"food": 2,
 		"maintenance": 3,
 		"requiredTech": "Pharmaceuticals",
-		"uniques": ["[20]% Food is carried over after population increases [in this city]", "[+10]% growth [in this city]"]
+		"uniques": ["[30]% Food is carried over after population increases [in this city]", "[+10]% growth [in this city]"]
 	},
 	{
 		"name": "Manhattan Project",
@@ -1107,7 +1107,7 @@
 		"isWonder": true,
 		"culture": 1,
 		"greatPersonPoints": {"Great Merchant": 1},
-		"uniques": ["[+1] population [in all cities]", "[+1 Happiness] [in all cities]", "[+1 Culture] from all [Culture] buildings", "Gain a free [Broadcast Tower] [in all cities]"],
+		"uniques": ["[+1] population [in all cities]", "[+1 Happiness, +1 Culture] [in all cities]", "Gain a free [Broadcast Tower] [in all cities]"],
 		"requiredTech": "Telecommunications",
 		"quote": "'Nothing travels faster than light with the possible exception of bad news, which obeys its own special rules.' - Douglas Adams"
 	},

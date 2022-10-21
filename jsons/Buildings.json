@@ -992,7 +992,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
-		"uniques": ["Must be next to [Coast]", "[+1 Production, +1 Culture] from every specialist [in all cities]"],
+		"uniques": ["Must be next to [Coast]", "[+1 Production, +1 Gold] from every specialist [in all cities]"],
 		"requiredTech": "Replaceable Parts",
 		"quote": "'Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore. Send these, the homeless, tempest-tossed to me, I lift my lamp beside the golden door!' - Emma Lazarus"
 	},

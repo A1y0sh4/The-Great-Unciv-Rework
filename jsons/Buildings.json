@@ -197,12 +197,10 @@
 	{
 		"name": "Krepost",
 		"replaces": "Barracks",
-		"cost": 50,
 		"uniqueTo": "Russia",
-		"cityStrength": 5,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["[-25]% Culture cost of natural border growth [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]",
+		"uniques": ["[-25]% Culture cost of natural border growth [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]", "[+1 Culture, +1 Faith] <if this city has at least [1] specialists>",
 			"New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
@@ -773,8 +771,9 @@
 		"culture": 3,
 		"faith": 4,
 		"cityStrength": 12,
+		"cityHealth": 25,
 		"isWonder": true,
-		"uniques": ["[+25]% City Strength from defensive buildings", "[+25]% Great Person generation [in this city]"],
+		"uniques": ["[+25]% City Strength from defensive buildings"],
 		"requiredBuilding": "Palace",
 		"requiredTech": "Gunpowder",
 		"quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed"

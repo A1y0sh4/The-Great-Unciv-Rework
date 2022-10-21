@@ -790,7 +790,7 @@
 		"innerColor": [193,21,17],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Father Governs Children",
-		"uniques": ["[+50]% [Food] from City-States", "[+50]% [Culture] from City-States", "[+50]% [Faith] from City-States", "Military Units gifted from City-States start with [+15] XP"],
+		"uniques": ["[+100]% [Food] from City-States", "[+100]% [Culture] from City-States", "[+100]% [Faith] from City-States", "Military Units gifted from City-States start with [+30] XP"],
 		"cities": ["Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Phitsanulok","Kamphaeng Pet","Nakhom Chum","Vientiane",
 			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
 			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",

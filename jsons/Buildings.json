@@ -516,7 +516,7 @@
 		"greatPersonPoints": {"Great Merchant": 1},
 		"culture": 1,
 		"isWonder": true,
-		"uniques": ["[+25]% Yield from every [Trade routes]", "Must have an owned [Mountain] within [2] tiles", "[+2 Food] from every [Mountain]"],
+		"uniques": ["[+25]% Yield from every [Trade routes]", "Must have an owned [Mountain] within [2] tiles", "[+2 Food] [in all cities] <with [1] to [6] neighboring [Mountain] tiles>"],
 		"requiredTech": "Guilds",
 		"quote": "'Few romances can ever surpass that of the granite citadel on top of the beetling precipices of Machu Picchu, the crown of Inca Land.' - Hiram Bingham"
 	},

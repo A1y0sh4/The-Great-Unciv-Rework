@@ -569,7 +569,7 @@
 		"outerColor": [16,126,5],
 		"innerColor": [255,153,51],
 		"uniqueName": "Population Growth",
-		"uniques": ["[-25]% Unhappiness from [Population] [in all cities] <when not at war>"],
+		"uniques": ["[30]% Food is carried over after population increases [in all cities]", "[-30]% Unhappiness from [Population] [in all cities] <when not at war>"],
 		"cities": ["Delhi","Mumbai","Vijayanagara","Pataliputra","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
 			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur",
 			"Bodhgaya","Kushinagar","Amaravati","Gaur","Gwalior","Jaipur","Karachi"]

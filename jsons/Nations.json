@@ -108,7 +108,7 @@
 		"outerColor": [254,135,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Dutch East India Company",
-		"uniques": ["[+100]% [Gold] [in all cities connected to capital] <during a Golden Age>", "[-100]% Unhappiness from [Merchant] [in all coastal cities]"],
+		"uniques": ["[+100]% [Gold] [in all cities connected to capital] <during a Golden Age>", "[-50]% Unhappiness from [Specialists] [in all coastal cities]"],
 		"cities": ["Amsterdam","Rotterdam","Utrecht","Groningen","Breda","Nijimegen","Den Haag","Haarlem","Arnhem","Zutphen",
 			"Maastricht","Tilburg","Eindhoven","Dordrecht","Leiden","Hertogenbosch","Almere","Alkmaar","Brielle","Vlissingen",
 			"Apeldoorn","Nova Enschede","Sao Bernardo do Amersfoort","Zwolle","Venlo","Uden","Grave","Delft","Gouda","Nieuwstadt",

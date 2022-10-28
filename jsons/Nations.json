@@ -516,7 +516,7 @@
 		"outerColor": [9, 112, 84],
 		"innerColor": [255,255,255],
 		"uniqueName": "Art of War",
-		"uniques": ["[+25]% Yield from every [Trade routes]", "Great General provides double combat bonus", "[-70]% maintenance costs <for [Military] units> <within [3] tiles of a [Great General]>"],
+		"uniques": ["[+25]% Yield from every [Trade routes]", "Great General provides double combat bonus", "[-100]% maintenance costs <for [Military] units> <within [3] tiles of a [Great General]>"],
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",

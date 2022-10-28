@@ -463,10 +463,11 @@
 	},
 	{
 		"name": "Hagia Sophia",
+		"culture": 1,
 		"faith": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
-		"uniques": ["Gain a free [Temple] [in this city]", "Free [Great Prophet] appears", "Hidden when religion is disabled", "[+100]% Yield from every [Holy site]"],
+		"uniques": ["Gain a free [Temple] [in this city]", "Free [Great Prophet] appears", "Hidden when religion is disabled", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Culture]"],
 		"requiredTech": "Theology",
 		"quote": "'For it soars to a height to match the sky, and as if surging up from among the other buildings it stands on high and looks down upon the remainder of the city, adorning it, because it is a part of it, but glorying in its own beauty' - Procopius, De Aedificis"
 	},
@@ -485,7 +486,7 @@
 		"name": "Grand Temple",
 		"cost": 125,
 		"culture": 1,
-		"faith": 8,
+		"faith": 6,
 		"uniques": ["Requires a [Temple] in all cities", "Cost increases by [30] per owned city",
 			"[+100]% Natural religion spread [in this city]", "[+1 Faith] from all [Faith] buildings", "Hidden when religion is disabled", "Can only be built [in holy cities]"],
 		"requiredTech": "Theology",
@@ -616,7 +617,7 @@
 	},
 	{
 		"name": "Mughal Fort",
-		"cost": 150,
+		"cost": 120,
 		"replaces": "Castle",
 		"uniqueTo": "India",
 		"cityStrength": 7,
@@ -624,7 +625,7 @@
 		"culture": 2,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"uniques": ["[+1 Gold] [in this city] <after discovering [Flight]>", "[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["[+5]% [Gold] [in this city] <after discovering [Flight]>", "[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Chivalry"
 	},
 	{
@@ -632,7 +633,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Artist": 1},
 		"isWonder": true,
-		"percentStatBonus": {"culture": 20},
+		"percentStatBonus": {"culture": 25},
 		"uniques": ["All newly-trained [relevant] units [in this city] receive the [Drill I] promotion",
 			"Gain a free [Castle] [in this city]"],
 		"requiredTech": "Chivalry",
@@ -796,7 +797,7 @@
 		"percentStatBonus": {"culture": 50},
 		"greatPersonPoints": {"Great Artist": 1},
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Opera House] in all cities", "Cost increases by [30] per owned city", "[+1 Culture] from every [Wonder]"],
+		"uniques": ["Requires a [Opera House] in all cities", "Cost increases by [30] per owned city", "[+1 Culture] from every [National Wonder]"],
 		"requiredTech": "Architecture"
 	},
 	{

@@ -364,7 +364,8 @@
                 "uniques": [
                     "[+1] Movement <for [Water] units>",
 		    "[+1] Movement <for [Embarked] units>",
-                    "[+1] Sight <for [Water] units>"
+                    "[+1] Sight <for [Water] units>",
+		    "[+1] Sight <for [Embarked] units>"
                 ],
                 "row": 1,
                 "column": 2

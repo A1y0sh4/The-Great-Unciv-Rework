@@ -513,7 +513,7 @@
 	},
 	{
 		"name": "Machu Picchu",
-		"gold": 5,
+		"gold": 6,
 		"greatPersonPoints": {"Great Merchant": 1},
 		"culture": 1,
 		"isWonder": true,

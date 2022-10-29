@@ -22,7 +22,7 @@
 		"outerColor": [88,145,228],
 		"innerColor": [80,23,135],
 		"uniqueName": "Patriarchate of Constantinople",
-		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion", "[+2 Gold, +2 Faith] [in all cities] <within [2] tiles of a [Horses]>"],
+		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion", "[+2 Gold, +2 Faith] from every [Horses]"],
 		"cities": ["Constantinople","Adrianople","Nicaea","Antioch","Varna","Ohrid","Nicomedia","Trebizond","Cherson","Sardica",
 			"Ani","Dyrrachium","Edessa","Chalcedon","Naissus","Bari","Iconium","Prilep","Samosata","Kars",
 			"Nicopolis","Theodosiopolis","Tyana","Gaza","Kerkyra","Phoenice","Selymbria","Sillyon","Chrysopolis","Vodena",

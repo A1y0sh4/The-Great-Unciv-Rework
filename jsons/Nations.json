@@ -549,7 +549,7 @@
 		"outerColor": [234,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Diplomatic Marriage",
-		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns.", "Gain [60] Influence with a [Great Person] gift to a City-State"],
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns.", "Gain [90] Influence with a [Great Person] gift to a City-State"],
 		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
 			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
 			"Amstetten", "Bad Ischl", "Wolfsberg", "Kufstein", "Leoben", "Klosterneuburg", "Leonding",

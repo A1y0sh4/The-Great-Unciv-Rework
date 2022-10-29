@@ -27,5 +27,36 @@
 		"promotions": ["Haka War Dance"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Dromon",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Byzantium",
+		"replaces": "Trireme",
+		"movement": 4,
+		"strength": 8,
+		"rangedStrength": 10,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles", "[+50]% Strength <vs [Military] units> <in [Water] tiles>"],
+		"upgradesTo": "Galleass",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Cataphract",
+		"unitType": "Mounted",
+		"uniqueTo": "Byzantium",
+		"replaces": "Horseman",
+		"movement": 3,
+		"strength": 15,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking", "[-15]% Strength <vs cities> <when attacking>"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
 	}
 ]

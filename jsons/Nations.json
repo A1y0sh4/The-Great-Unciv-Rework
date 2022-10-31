@@ -318,7 +318,7 @@
 		"outerColor": [181, 232, 232],
 		"innerColor": [68,142,249],
 		"uniqueName": "Hellenic League",
-		"uniques": ["[+15]% Strength <when fighting units from a Civilization with more Cities than you>", "Gain a free [Library] [in all coastal cities] <after discovering [Writing]>", "Gain a free [Amphitheater] [in all cities] <in [Hill] tiles> <after discovering [Drama and Poetry]>"],
+		"uniques": ["[+15]% Strength <when fighting units from a Civilization with more Cities than you>", "Gain a free [Library] [in all coastal cities] <after discovering [Philosophy]>", "Gain a free [Amphitheater] [in all cities] <in [Hill] tiles> <after discovering [Drama and Poetry]>"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
 			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon",
@@ -575,7 +575,7 @@
 		"outerColor": [16,126,5],
 		"innerColor": [255,153,51],
 		"uniqueName": "Population Growth",
-		"uniques": ["[15]% Food is carried over after population increases [in all cities]", "[-15]% Unhappiness from [Population] [in all cities] <when not at war>"],
+		"uniques": ["Unhappiness from number of Cities doubled", "[-50]% Unhappiness from [Population] [in all cities]", "[-50]% Food consumption by specialists [in all cities]"],
 		"cities": ["Delhi","Mumbai","Vijayanagara","Pataliputra","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
 			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur",
 			"Bodhgaya","Kushinagar","Amaravati","Gaur","Gwalior","Jaipur","Karachi"]

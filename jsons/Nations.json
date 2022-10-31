@@ -653,7 +653,7 @@
 		"outerColor": [27,53,63],
 		"innerColor": [213,249,255],
 		"uniqueName": "Ingenuity",
-		"uniques": ["Gain a free [Observatory] [in capital] <after discovering [Calendar]>", "Upon capturing a city, receive [10] times its [Science] production as [Science] immediately"],
+		"uniques": ["Gain a free [Observatory] [in capital] <after discovering [Philosophy]>", "Upon capturing a city, receive [10] times its [Science] production as [Science] immediately"],
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",

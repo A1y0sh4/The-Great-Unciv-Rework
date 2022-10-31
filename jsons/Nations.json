@@ -59,7 +59,7 @@
 		"outerColor": [22,101,63],
 		"innerColor": [148,170,255],
 		"uniqueName": "Druidic Lore",
-		"uniques": ["[+1 Production, +1 Gold] from every [Fort]", "[+2 Production, +2 Gold] from every [Citadel]", "[+1 Faith, +1 Happiness] [in all cities] <within [2] tiles of a [{unimproved} {Forest}]>"],
+		"uniques": ["[+1 Production, +1 Gold] from every [Fort]", "[+2 Production, +2 Gold] from every [Citadel]", "[+1 Faith, +1 Happiness] [in all cities] <within [2] tiles of a [Forest]> <before discovering [Scientiphic Theory]>"],
 		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth","Penzance",
 			"Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen","Belfast",
 			"Caernafon","Newquay","Saint-Nazarre","Castletown","Stirling","Galway","Conwy","St. Austell","Saint-Malo",

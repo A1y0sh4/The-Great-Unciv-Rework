@@ -88,5 +88,19 @@
 		"upgradesTo": "Composite Bowman",
 		"promotions": ["[Bowman] ability"],
 		"attackSound": "arrow"
+	},
+	{
+		"name": "Hoplite",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Greece",
+		"movement": 2,
+		"strength": 11,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+30]% Strength <when adjacent to a [Hoplite] unit>"],
+		"attackSound": "metalhit"
 	}
 ]

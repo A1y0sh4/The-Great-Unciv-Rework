@@ -73,5 +73,20 @@
 		"obsoleteTech": "Military Science",
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "horse"
+	},
+	{
+		"name": "Bowman",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 30,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"uniques": ["[+50]% Strength <in [City center] tiles>"],
+		"replaces": "Archer",
+		"uniqueTo": "Babylon",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
 	}
 ]

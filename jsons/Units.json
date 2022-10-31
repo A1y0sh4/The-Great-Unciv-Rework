@@ -83,7 +83,7 @@
 		"cost": 30,
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
-		"uniques": ["[+50]% Strength <in [City center] tiles>"],
+		"uniques": ["[+50]% Strength <vs [Military] units> <in [City center] tiles>"],
 		"replaces": "Archer",
 		"uniqueTo": "Babylon",
 		"upgradesTo": "Composite Bowman",

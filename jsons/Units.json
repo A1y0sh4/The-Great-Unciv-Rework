@@ -123,7 +123,7 @@
 	{
 		"name": "Carolean",
 		"unitType": "Gunpowder",
-		"replaces": "Musketman",
+		"replaces": "Rifleman",
 		"uniqueTo": "Sweden",
 		"movement": 2,
 		"strength": 34,
@@ -149,5 +149,19 @@
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "horse"
+	},
+	{
+		"name": "Foreign Legion",
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "France",
+		"movement": 2,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Great War Infantry",
+		"obsoleteTech": "Replaceable Parts",
+		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
+		"attackSound": "shot"
 	}
 ]

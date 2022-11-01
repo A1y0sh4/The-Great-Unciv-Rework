@@ -318,7 +318,7 @@
 		"outerColor": [181, 232, 232],
 		"innerColor": [68,142,249],
 		"uniqueName": "Hellenic League",
-		"uniques": ["Earn [33]% of the damage done to [City] units as [Culture]", "Earn [33]% of the damage done to [City-State] units as [Science]"],
+		"uniques": ["Earn [15]% of the damage done to [City] units as [Culture]", "When defeating a [City-State] unit, earn [8] Science and recruit it <with [50]% chance>"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
 			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon",

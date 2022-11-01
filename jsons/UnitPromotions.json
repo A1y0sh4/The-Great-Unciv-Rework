@@ -2,5 +2,9 @@
 	{
 		"name": "[Bowman] ability",
 		"uniques": ["[+50]% Strength <in [Friendly Land] tiles> <within [2] tiles of a [City center]>"]
+	},
+	{
+		"name": "[Carolean] ability",
+		"uniques": ["[+33]% Strength <when attacking>"]
 	}
 ]

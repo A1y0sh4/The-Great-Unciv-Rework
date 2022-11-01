@@ -318,7 +318,7 @@
 		"outerColor": [181, 232, 232],
 		"innerColor": [68,142,249],
 		"uniqueName": "Hellenic League",
-		"uniques": ["[+15]% Strength <when fighting units from a Civilization with more Cities than you>", "Gain a free [Library] [in all coastal cities] <after discovering [Philosophy]>", "Gain a free [Amphitheater] [in all cities] <in [Hill] tiles> <after discovering [Drama and Poetry]>"],
+		"uniques": ["Earn [33]% of the damage done to [City] units as [Culture]", "Earn [33]% of the damage done to [City-State] units as [Science]"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
 			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon",

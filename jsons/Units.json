@@ -100,7 +100,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+15]% Strength <when adjacent to a [Hoplite] unit>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+15]% Strength <when adjacent to a [Hoplite] unit>"],
 		"attackSound": "metalhit"
 	},
 	{

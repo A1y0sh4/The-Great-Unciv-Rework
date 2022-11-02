@@ -55,7 +55,7 @@
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "[-15]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "[-20]% Strength <vs cities> <when attacking>"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
@@ -128,7 +128,8 @@
 		"movement": 2,
 		"strength": 34,
 		"cost": 250,
-		"requiredTech": "Metallurgy",
+		"requiredTech": "Rifling",
+		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"promotions": ["[Carolean] ability"],
@@ -163,5 +164,21 @@
 		"obsoleteTech": "Replaceable Parts",
 		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
 		"attackSound": "shot"
+	},
+	{
+		"name": "Samurai",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Japan",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"uniques": ["Can build [Fishing Boats] improvements on tiles"],
+		"requiredResource": "Iron",
+		"promotions": ["Shock I", "Great Generals II"],
+		"attackSound": "metalhit"
 	}
 ]

@@ -36,7 +36,7 @@
 		"movement": 4,
 		"strength": 8,
 		"rangedStrength": 10,
-		"cost": 45,
+		"cost": 60,
 		"requiredTech": "Sailing",
 		"uniques": ["Cannot enter ocean tiles", "[+50]% Strength <vs [Military] units> <in [Water] tiles>"],
 		"upgradesTo": "Galleass",

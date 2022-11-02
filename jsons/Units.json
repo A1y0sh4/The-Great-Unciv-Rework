@@ -176,7 +176,7 @@
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
-		"uniques": ["Can build [Fishing Boats] improvements on tiles"],
+		"uniques": ["Can construct [Fishing Boats]", "Can be purchased with [Faith] [in all cities]"],
 		"requiredResource": "Iron",
 		"promotions": ["Shock I", "Great Generals II"],
 		"attackSound": "metalhit"

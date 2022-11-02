@@ -5,7 +5,7 @@
 	},
 	{
 		"name": "[Carolean] ability",
-		"uniques": ["[+33]% Strength <when attacking>"]
+		"uniques": ["[+20]% Strength <when attacking>", "[-30]% Strength <when attacking> <in [Fort] tiles>", "[-30]% Strength <when attacking> <in [Citadel] tiles>"]
 	},
 	{
 		"name": "[Hakkapeliitta] ability",

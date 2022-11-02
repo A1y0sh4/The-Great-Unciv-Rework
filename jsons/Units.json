@@ -309,5 +309,21 @@
 		"upgradesTo": "Nuclear Submarine",
 		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles", "Never appears as a Barbarian unit"],
 		"attackSound": "torpedo"
+	},
+	{
+		"name": "Missile Cruiser",
+		"unitType": "Ranged Water",
+		"movement": 7,
+		"strength": 80,
+		"rangedStrength": 100,
+		"range": 3,
+		"interceptRange": 2,
+		"cost": 425,
+		"requiredResource": "Aluminum",
+		"requiredTech": "Robotics",
+		"uniques": ["[100]% chance to intercept air attacks", "Can see invisible [Submarine] units",
+			"Can carry [3] [Missile] units", "[+100]% Strength <vs [Submarine] units>", "Never appears as a Barbarian unit"],
+		"promotions": ["Indirect Fire"],
+		"attackSound": "shipguns"
 	}
 ]

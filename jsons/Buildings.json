@@ -181,10 +181,11 @@
 	{
 		"name": "Mausoleum of Halicarnassus",
 		"culture": 1,
+		"requiredNearbyImprovedResources": ["Marble", "Stone"],
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
 		"uniques": ["Provides a sum of gold each time you spend a Great Person", "Must be next to [Coast]",
-			"[+2 Gold] from [Marble] tiles [in this city]", "[+2 Gold] from [Stone] tiles [in this city]", "[+1 Gold] from every [Quarry]"],
+			"[+1 Gold] from [Marble] tiles [in this city]", "[+1 Gold] from [Stone] tiles [in this city]", "[+1 Gold] from every [Quarry]"],
 		"requiredTech": "Masonry",
 		"quote": "'The whole earth is the tomb of heroic men and their story is not given only on stone over their clay but abides everywhere without visible symbol woven into the stuff of other men's lives.' - Pericles"
 	},
@@ -866,10 +867,9 @@
 	},
 	{
 		"name": "The Louvre",
-		"culture": 3,
 		"happiness": 3,
 		"isWonder": true,
-		"uniques": ["[2] free [Great Artist] units appear"],
+		"uniques": ["[2] free [Great Artist] units appear", "Gain a free [Museum] [in this city]"],
 		"requiredTech": "Archaeology",
 		"quote": "'Every genuine work of art has as much reason for being as the earth and the sun' - Ralph Waldo Emerson"
 	},

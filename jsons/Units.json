@@ -454,5 +454,61 @@
 		"[-1] Sight", "Can only attack [City] units"],
 		"promotions":  ["Cover I"],
 		"attackSound": "throw"
+	},
+	{
+		"name": "Brute",
+		"unitType": "Sword",
+		"uniqueTo": "Barbarians",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 20,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"promotions": ["[Brute] ability"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Skirmisher",
+		"unitType": "Archery",
+		"uniqueTo": "Barbarians",
+		"replaces": "Archer",
+		"movement": 2,
+		"strength": 4,
+		"rangedStrength": 7,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"promotions": ["[Skirmisher] ability"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Galley",
+		"unitType": "Melee Water",
+		"uniqueTo": "Barbarians",
+		"movement": 3,
+		"strength": 8,
+		"cost": 45,
+		"uniques": ["Cannot enter ocean tiles"],
+		"upgradesTo": "Trireme",
+		"obsoleteTech": "Astronomy",
+		"promotions": ["[Galley] ability"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Marauder",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Barbarians",
+		"movement": 2,
+		"strength": 10,
+		"cost": 50,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"promotions": ["[Marauder] ability"],
+		"attackSound": "metalhit"
 	}
 ]

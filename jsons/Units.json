@@ -162,7 +162,7 @@
 		"requiredTech": "Rifling",
 		"upgradesTo": "Great War Infantry",
 		"obsoleteTech": "Replaceable Parts",
-		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
+		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>", "[+15]% Strength when stacked with [Great General]"],
 		"attackSound": "shot"
 	},
 	{
@@ -325,5 +325,18 @@
 			"Can carry [3] [Missile] units", "[+100]% Strength <vs [Submarine] units>", "Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "shipguns"
+	},
+	{
+		"name": "Tercio",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Spain",
+		"movement": 2,
+		"strength": 30,
+		"cost": 160,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
 	}
 ]

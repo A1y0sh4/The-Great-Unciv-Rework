@@ -16,7 +16,7 @@
 		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles", "[+15]% Strength <within [2] tiles of a [Moai]>"]
 	},
         {
-		"name": "[Barbarians] ability",
+		"name": "[Marauder] ability",
 		"uniques": ["Heals [25] damage if it kills a unit"]
 	},
 ]

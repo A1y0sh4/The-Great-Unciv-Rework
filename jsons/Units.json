@@ -162,7 +162,7 @@
 		"requiredTech": "Rifling",
 		"upgradesTo": "Great War Infantry",
 		"obsoleteTech": "Replaceable Parts",
-		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>", "[+15]% Strength when stacked with [Great General]"],
+		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
 		"attackSound": "shot"
 	},
 	{

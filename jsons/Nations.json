@@ -344,7 +344,7 @@
 		"outerColor": [ 38, 98, 255],
 		"innerColor": [239, 236,148],
 		"uniqueName": "Ancient Regime",
-		"uniques": ["[+5]% Yield from every [Palace] <starting from the [Classical era]>", "[+5]% Yield from every [Palace] <starting from the [Medieval era]>", "[+5]% Yield from every [Palace] <starting from the [Renaissance era]>", "Receive free [Great General] when you discover [Military Science]", "[+10]% Strength <for [Military] units> <when defending>", "[+15]% Strength <for [{Military} {Land}] units> when stacked with [Great General]"],
+		"uniques": ["[+50]% [Culture] [in capital] <after discovering [Civil Service]>", "[+15]% Strength <for [{Military} {Land}] units> when stacked with [Great General]", "[+10]% Strength <for [Military] units> <when defending>"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",

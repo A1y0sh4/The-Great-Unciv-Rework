@@ -342,6 +342,7 @@
 	{
 		"name": "Chariot Archer",
 		"unitType": "Mounted",
+		"range": 1,
 		"movement": 4,
 		"strength": 8,
 		"rangedStrength": 10,
@@ -350,13 +351,14 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-1] Range", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "arrow"
 	},
 	{
 		"name": "War Chariot",
 		"unitType": "Mounted",
 		"uniqueTo": "Egypt",
+		"range": 1,
 		"replaces": "Chariot Archer",
 		"movement": 5,
 		"strength": 8,
@@ -366,13 +368,14 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-1] Range", "[-33]% Strength <vs cities> <when attacking>", "[+15]% Strength <while the empire is happy>"],
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "[+15]% Strength <while the empire is happy>"],
 		"attackSound": "arrow"
 	},
 	{
 		"name": "Horse Archer",
 		"unitType": "Mounted",
 		"uniqueTo": "The Huns",
+		"range": 1,
 		"replaces": "Chariot Archer",
 		"movement": 4,
 		"strength": 8,
@@ -381,7 +384,7 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-1] Range"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty"],
 		"promotions": ["Accuracy I"],
 		"attackSound": "arrow"
 	},
@@ -389,6 +392,7 @@
 		"name": "War Elephant",
 		"unitType": "Mounted",
 		"uniqueTo": "India",
+		"range": 1,
 		"replaces": "Chariot Archer",
 		"movement": 3,
 		"strength": 10,
@@ -397,7 +401,7 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus", "[-1] Range", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "elephant"
 	},
 	{
@@ -405,6 +409,7 @@
 		"unitType": "Mounted",
 		"replaces": "Knight",
 		"uniqueTo": "Arabia",
+		"range": 1,
 		"movement": 4,
 		"strength": 18,
 		"rangedStrength": 20,
@@ -413,7 +418,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "[-1] Range"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "arrow"
 	},
 	{

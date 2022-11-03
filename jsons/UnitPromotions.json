@@ -16,19 +16,7 @@
 		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles", "[+15]% Strength <within [2] tiles of a [Moai]>"]
 	},
         {
-		"name": "[Brute] ability",
-		"uniques": ["Heals [25] damage if it kills a unit"]
-	},
-        {
-		"name": "[Skirmisher] ability",
-		"uniques": ["Heals [25] damage if it kills a unit"]
-	},
-        {
-		"name": "[Galley] ability",
-		"uniques": ["Heals [25] damage if it kills a unit"]
-	},
-        {
-		"name": "[Marauder] ability",
+		"name": "Barbarians",
 		"uniques": ["Heals [25] damage if it kills a unit"]
 	}
 ]

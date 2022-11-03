@@ -438,5 +438,21 @@
 		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
 		"promotions": ["Great Generals I", "Quick Study"],
 		"attackSound": "arrow"
+	},
+	{
+		"name": "Battering Ram",
+		"unitType": "Siege",
+		"replaces": "Spearman",
+		"uniqueTo": "The Huns",
+		"movement": 2,
+		"strength": 10,
+		"cost": 65,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "Trebuchet",
+		"uniques": ["[+300]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-33]% Strength <when defending>",
+		"[-1] Sight", "Can only attack [City] units"],
+		"promotions":  ["Cover I"],
+		"attackSound": "throw"
 	}
 ]

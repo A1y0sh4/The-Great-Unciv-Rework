@@ -17,6 +17,6 @@
 	},
         {
 		"name": "Brute",
-		"uniques": ["Heals [25] damage if it kills a unit"]
+		"uniques": ["Heals [25] damage if it kills a unit", "[-10] HP when healing"]
 	}
 ]

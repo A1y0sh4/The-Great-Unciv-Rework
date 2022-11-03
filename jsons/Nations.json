@@ -612,7 +612,7 @@
 		"name": "The Huns",
 		"leaderName": "Attila the Hun",
 		"adjective": ["Hunnic"],
-		"startBias": ["Avoid [Jungle]", "Avoid [Forest]"],
+		"startBias": ["Plains"],
 		"preferredVictorType": "Domination",
 
 		"startIntroPart1": "Your men stand proudly to greet you, Great Attila, grand warrior and ruler of the Hunnic empire. Together with your brother Bleda you expanded the boundaries of your empire, becoming the most powerful and frightening force of the 5th century. You bowed the Eastern Roman Emperors to your will and took kingdom after kingdom along the Danube and Nisava Rivers. As the sovereign ruler of the Huns, you marched your army across Europe into Gaul, planning to extend your already impressive lands all the way to the Atlantic Ocean. Your untimely death led to the quick disintegration and downfall of your empire, but your name and deeds have created an everlasting legacy for your people.",

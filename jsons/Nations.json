@@ -627,7 +627,7 @@
 		"outerColor": [238,238,236],
 		"innerColor": [77,2,4],
 		"uniqueName": "Scourge of God",
-		"uniques": ["Starts with [Animal Husbandry]", "Gain a free [Stable] [in all cities] <within [2] tiles of a [Pasture]>", "[Military] units gain the [[Barbarians] ability] promotion", "Cities are razed [2] times as fast", "\"Borrows\" city names from other civilizations in the game"],
+		"uniques": ["Starts with [Animal Husbandry]", "Gain a free [Stable] [in all cities] <within [2] tiles of a [Pasture]>", "Cities are razed [2] times as fast", "\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Atilla's Court"]
 	},
 	{

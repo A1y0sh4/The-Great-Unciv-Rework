@@ -465,7 +465,7 @@
 		"cost": 20,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"promotions": ["Barbarians"],
+		"promotions": ["Brute"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -480,7 +480,7 @@
 		"requiredTech": "Archery",
 		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
-		"promotions": ["Barbarians"],
+		"promotions": ["Brute"],
 		"attackSound": "arrow"
 	},
 	{
@@ -493,7 +493,7 @@
 		"uniques": ["Cannot enter ocean tiles"],
 		"upgradesTo": "Trireme",
 		"obsoleteTech": "Astronomy",
-		"promotions": ["Barbarians"],
+		"promotions": ["Brute"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -508,7 +508,7 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
-		"promotions": ["Barbarians"],
+		"promotions": ["Brute"],
 		"attackSound": "metalhit"
 	}
 ]

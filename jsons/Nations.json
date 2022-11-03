@@ -344,7 +344,7 @@
 		"outerColor": [ 38, 98, 255],
 		"innerColor": [239, 236,148],
 		"uniqueName": "Ancient Regime",
-		"uniques": ["[+1 Culture] from every [Wonder] <before the [Industrial era]>", "Receive free [Great General] when you discover [Military Science]", "[+1] Movement <for [{Military} {Land}] units> <within [2] tiles of a [Great General]> <after discovering [Military Science]> <when at war>", "[+10]% Strength <for [Military] units> <when defending>"],
+		"uniques": ["[+1 Culture] from every [improved] [Luxury resource] <before the [Industrial era]>", "[+10]% Strength <for [Military] units> <when defending>", "Receive free [Great General] when you discover [Military Science]"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",

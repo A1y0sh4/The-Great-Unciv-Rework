@@ -4,10 +4,6 @@
 		"uniques": ["[+50]% Strength <in [Friendly Land] tiles> <within [2] tiles of a [City center]>"]
 	},
 	{
-		"name": "[Carolean] ability",
-		"uniques": ["[+20]% Strength <when attacking>", "[-30]% Strength <when attacking> <in [Fort] tiles>", "[-30]% Strength <when attacking> <in [Citadel] tiles>"]
-	},
-	{
 		"name": "[Hakkapeliitta] ability",
 		"uniques": ["Transfer Movement to [Great General]", "[+30]% Strength when stacked with [Great General]"]
 	},

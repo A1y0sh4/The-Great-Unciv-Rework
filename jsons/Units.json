@@ -351,7 +351,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "arrow"
 	},
 	{
@@ -368,7 +368,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "[+15]% Strength <while the empire is happy>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "[+15]% Strength <while the empire is happy>"],
 		"attackSound": "arrow"
 	},
 	{
@@ -378,7 +378,7 @@
 		"range": 1,
 		"replaces": "Chariot Archer",
 		"movement": 4,
-		"strength": 8,
+		"strength": 10,
 		"rangedStrength": 10,
 		"cost": 56,
 		"requiredTech": "The Wheel",
@@ -395,8 +395,8 @@
 		"range": 1,
 		"replaces": "Chariot Archer",
 		"movement": 3,
-		"strength": 10,
-		"rangedStrength": 12,
+		"strength": 14,
+		"rangedStrength": 10,
 		"cost": 70,
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",

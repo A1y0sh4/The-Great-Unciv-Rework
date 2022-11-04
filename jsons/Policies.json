@@ -146,7 +146,7 @@
             "Neutral": 0,
             "Cultural": 0,
             "Diplomatic": 20,
-            "Domination": 20,
+            "Domination": 30,
             "Scientific": 30
         },
         "uniques": [

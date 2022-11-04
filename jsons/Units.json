@@ -129,10 +129,9 @@
 		"strength": 34,
 		"cost": 250,
 		"requiredTech": "Rifling",
-		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles", "[+20]% Strength <when attacking>"],
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
-		"promotions": ["[Carolean] ability"],
 		"attackSound": "shot"
 	},
 	{
@@ -401,7 +400,7 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-10]% Strength for enemy [Military] units in adjacent [All] tiles", "[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "elephant"
 	},
 	{

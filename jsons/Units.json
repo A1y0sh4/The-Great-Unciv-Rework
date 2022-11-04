@@ -445,7 +445,7 @@
 		"replaces": "Spearman",
 		"uniqueTo": "The Huns",
 		"movement": 2,
-		"strength": 10,
+		"strength": 8,
 		"cost": 75,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Physics",

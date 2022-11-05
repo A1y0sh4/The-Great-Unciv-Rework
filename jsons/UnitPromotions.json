@@ -21,7 +21,6 @@
 	},
 	{
 		"name": "Ambush I",
-		"prerequisites": ["Bombardment I", "Shock I", "Drill I",
 		"uniques": ["[+33]% Strength <vs [Armored] units>", "Invisible to non-adjacent units <in [Rough terrain] tiles>"],
 		"unitTypes": ["Sword","Gunpowder","Fighter","Bomber"]
 	},

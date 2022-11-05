@@ -417,7 +417,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Can build [Pasture] improvements on tiles", "[+10] HP when healing <within [1] tiles of a [Oasis]>"],
 		"attackSound": "arrow"
 	},
 	{

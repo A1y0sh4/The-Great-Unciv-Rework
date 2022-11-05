@@ -410,14 +410,14 @@
 		"uniqueTo": "Arabia",
 		"range": 1,
 		"movement": 4,
-		"strength": 18,
+		"strength": 20,
 		"rangedStrength": 20,
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Can build [Pasture] improvements on tiles", "[+10] HP when healing <within [1] tiles of a [Oasis]>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+15] HP when healing <within [1] tiles of a [Oasis]>", "[+10] HP when healing <within [1] tiles of a [Pasture]>", "Can build [Pasture] improvements on tiles"],
 		"attackSound": "arrow"
 	},
 	{

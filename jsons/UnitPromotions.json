@@ -13,7 +13,7 @@
 	},
 	{
 		"name": "Pictish Courage", // only for Pictish Warrior and subsequent upgrades
-		"uniques": ["Heals [20] damage if it kills a unit", "[+20]% Strength <when fighting in [Foreign Land] tiles>"]
+		"uniques": ["Damage is ignored when determining unit Strength", "Heals [20] damage if it kills a unit"]
 	},
         {
 		"name": "Brute",

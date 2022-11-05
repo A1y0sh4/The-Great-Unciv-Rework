@@ -18,5 +18,10 @@
         {
 		"name": "Brute",
 		"uniques": ["Heals [20] damage if it kills a unit", "[-10] HP when healing"]
+	},
+	{
+		"name": "Ambush I",
+		"uniques": ["[+33]% Strength <vs [Armored] units>", "Invisible to non-adjacent units <in [Rough terrain] tiles>"],
+		"unitTypes": ["Sword","Gunpowder","Fighter","Bomber"]
 	}
 ]

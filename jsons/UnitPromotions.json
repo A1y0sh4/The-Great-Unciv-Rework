@@ -13,7 +13,7 @@
 	},
 	{
 		"name": "Pictish Courage", // only for Pictish Warrior and subsequent upgrades
-		"uniques": ["Damage is ignored when determining unit Strength", "Heals [20] damage if it kills a unit"]
+		"uniques": ["Invisible to non-adjacent units <when in [Forest] tiles>", "Double movement in [Forest]", "Heals [20] damage if it kills a unit"]
 	},
         {
 		"name": "Brute",

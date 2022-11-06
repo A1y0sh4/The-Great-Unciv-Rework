@@ -34,14 +34,14 @@
 		"name": "Sentry",
 		"prerequisites": ["Accuracy I","Barrage I","Shock II","Drill II","Bombardment I","Targeting I","Boarding Party I","Coastal Raider I"],
 		"uniques": ["[+1] Sight", "Can see invisible [Land] units"],
-		"unitTypes": ["Sword","Gunpowder","Mounted","Ranged Water","Armored","Melee Water"]
+		"unitTypes": ["Sword", "Gunpowder", "Mounted", "Ranged Water", "Armored", "Melee Water", "Submarine"]
 	},
 	{
 		"name": "Mobility",
 		"prerequisites": ["Shock II","Drill II","Targeting I",
 			"Bombardment I","Boarding Party I", "Coastal Raider I", "Wolfpack I"],
 		"uniques": ["[+1] Movement", "Ignores Zone of Control"],
-		"unitTypes": ["Mounted","Melee Water","Ranged Water","Armored","Submarine"]
+		"unitTypes": ["Sword", "Gunpowder", "Mounted","Melee Water","Ranged Water","Armored", "Melee Water", "Submarine"]
 	},
 	{
 		"name": "Coastal Raider III",

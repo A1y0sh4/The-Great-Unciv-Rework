@@ -59,7 +59,7 @@
 		"outerColor": [22,101,63],
 		"innerColor": [148,170,255],
 		"uniqueName": "Druidic Lore",
-		"uniques": ["Damage is ignored when determining unit Strength", "[+1 Faith, +1 Culture] [in all cities] <with [1] to [6] neighboring [unimproved] [Forest] tiles>", "[+1 Science] from every [Forest]", "[-1 Science] from every [Camp] <in [Forest] tiles>", "[-1 Science] from every [Lumber mill] <in [Forest] tiles>", "[-1 Science] from every [Trading post] <in [Forest] tiles>", "[-1 Science] from every [Fort] <in [Forest] tiles>"],
+		"uniques": ["Damage is ignored when determining unit Strength", "[+1 Faith, +1 Culture] [in all cities] <with [1] to [6] neighboring [unimproved] [Forest] tiles>", "[+1 Science] from every [Forest]", "[-1 Science] from every [Improvement] <in [Forest] tiles>"],
 		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth","Penzance",
 			"Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen","Belfast",
 			"Caernafon","Newquay","Saint-Nazarre","Castletown","Stirling","Galway","Conwy","St. Austell","Saint-Malo",

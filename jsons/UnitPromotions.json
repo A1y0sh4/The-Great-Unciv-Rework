@@ -13,11 +13,11 @@
 	},
 	{
 		"name": "Pictish Courage", // only for Pictish Warrior and subsequent upgrades
-		"uniques": ["[+20]% Strength <when attacking>", "Heals [20] damage if it kills a unit"]
+		"uniques": ["[+25]% Strength <when attacking>", "Heals [25] damage if it kills a unit"]
 	},
         {
 		"name": "Brute",
-		"uniques": ["Heals [20] damage if it kills a unit", "[-10] HP when healing"]
+		"uniques": ["Heals [25] damage if it kills a unit", "[-10] HP when healing"]
 	},
 	{
 		"name": "Ambush I",

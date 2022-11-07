@@ -520,7 +520,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Earn [20]% of killed [Military] unit's [Cost] as [Faith]"],
 		"promotions": ["Pictish Courage"],
 		"attackSound": "metalhit"
 	}

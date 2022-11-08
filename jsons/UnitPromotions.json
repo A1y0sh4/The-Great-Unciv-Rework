@@ -52,5 +52,21 @@
 	{
 		"name": "Morale", // Heroic Epic
 		"uniques": ["[+15]% Strength <while the empire is happy>", "[+5] HP when healing <while the empire is happy>"]
+	},
+	{
+		"name": "Formation I",
+		"prerequisites": ["Shock II", "Drill II", "Accuracy II", "Barrage II"],
+		"uniques": ["[+15]% Strength <when defending>"],
+		"unitTypes": ["Sword", "Gunpowder", "Mounted", "Siege","Archery","Ranged Gunpowder"],
+        "column": 7,
+        "row": 2
+	},
+	{
+		"name": "Formation II",
+		"prerequisites": ["Formation I"],
+		"uniques": ["[+15]% Strength <when defending>"],
+		"unitTypes": ["Sword", "Gunpowder", "Mounted", "Siege","Archery","Ranged Gunpowder"],
+        "column": 7,
+        "row": 3
 	}
 ]

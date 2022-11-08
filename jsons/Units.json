@@ -531,13 +531,13 @@
 		"uniqueTo": "Rome",
 		"movement": 2,
 		"strength": 7,
-		"rangedStrength": 8,
+		"rangedStrength": 10,
 		"cost": 75,
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Trebuchet",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"[+25]% Strength <in [Hill] tiles>", "[-1] Sight"],
+			"[-1] Sight"],
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
 	}

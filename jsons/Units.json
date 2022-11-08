@@ -540,5 +540,52 @@
 			"[-1] Sight"],
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
+	},
+	{
+		"name": "Lancer",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 25,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"promotions": ["Mobility"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},
+	{
+		"name": "Sipahi",
+		"unitType": "Mounted",
+		"replaces": "Lancer",
+		"uniqueTo": "The Ottomans",
+		"movement": 5,
+		"strength": 25,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
+			"[+1] Sight"],
+		"promotions": ["[Sipahi] ability", "Mobility"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},
+	{
+		"name": "Hakkapeliitta",
+		"unitType": "Mounted",
+		"replaces": "Lancer",
+		"uniqueTo": "Sweden",
+		"movement": 4,
+		"strength": 25,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"promotions": ["[Hakkapeliitta] ability", "Mobility"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
 	}
 ]

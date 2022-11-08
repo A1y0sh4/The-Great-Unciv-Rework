@@ -537,7 +537,7 @@
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Trebuchet",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"[+25]% Strenght <in [Hill] tiles>", "[-1] Sight"],
+			"[+25]% Strength <in [Hill] tiles>", "[-1] Sight"],
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
 	}

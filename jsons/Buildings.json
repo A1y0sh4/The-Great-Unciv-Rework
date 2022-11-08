@@ -910,7 +910,7 @@
 		"hurryCostModifier": 0,
 		"maintenance": 1,
 		"requiredBuilding": "Armory",
-		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "All newly-trained [relevant] units [in this city] receive the [Formation I] promotion", "Destroyed when the city is captured"],
 		"requiredTech": "Military Science"
 	},
 	{

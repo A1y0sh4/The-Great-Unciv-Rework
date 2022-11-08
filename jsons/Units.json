@@ -523,5 +523,22 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Earn [20]% of killed [Military] unit's [Cost] as [Faith]"],
 		"promotions": ["Pictish Courage"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Ballista",
+		"unitType": "Siege",
+		"replaces": "Catapult",
+		"uniqueTo": "Rome",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 8,
+		"cost": 75,
+		"requiredTech": "Mathematics",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "Trebuchet",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
+			"[+25]% Strenght <in [Hill] tiles>", "[-1] Sight"],
+		"hurryCostModifier": 20,
+		"attackSound": "throw"
 	}
 ]

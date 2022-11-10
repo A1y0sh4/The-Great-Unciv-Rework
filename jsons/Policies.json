@@ -660,8 +660,7 @@
                 "name": "Socialism",
                 "requires": ["Planned Economy"],
                 "uniques": [
-                    "[-30]% maintenance cost for buildings [in all cities]",
-		    "[+1 Gold] from every [Bonus resource]"
+                    "[-50]% maintenance cost for buildings [in all cities]"
                 ],
                 "row": 2,
                 "column": 3

@@ -249,7 +249,7 @@
 		"name": "America",
 		"leaderName": "George Washington",
 		"adjective": ["American"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Welcome President Washington! You lead the industrious American civilization! Formed in the conflagration of revolution in the 18th century, within a hundred years, the young nation became embroiled in a terrible civil war that nearly tore the country apart, but it was just a few short years later in the 20th century that the United States reached the height of its power, emerging triumphant and mighty from the two terrible wars that destroyed so many other great nations. The United States is a nation of immigrants, filled with optimism and determination. They lack only a leader to help them fulfill their promise.",
 		"startIntroPart2": "President Washington, can you lead the American people to greatness? Can you build a civilization that will stand the test of time?",

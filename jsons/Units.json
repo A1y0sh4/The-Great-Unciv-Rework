@@ -22,8 +22,9 @@
 		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 8,
-		"cost": 30,
+		"cost": 40,
 		"obsoleteTech": "Metal Casting",
+		"uniques": ["Can construct [Moai]", "Can be purchased with [Faith] [in all cities]"],
 		"promotions": ["Haka War Dance"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
@@ -601,5 +602,19 @@
 		"obsoleteTech": "Rifling",
 		"uniques": ["Ignores terrain cost", "[+25]% Strength <in [Rough terrain] tiles>"],
 		"attackSound": "shot"
+	},
+	{
+		"name": "Atlatlist",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 30,
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Construction",
+		"replaces": "Archer",
+		"uniqueTo": "The Maya",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
 	}
 ]

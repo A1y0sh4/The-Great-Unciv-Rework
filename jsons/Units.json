@@ -24,7 +24,7 @@
 		"strength": 8,
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
-		"uniques": ["Can construct [Moai]", "Can be purchased with [Faith] [in all cities]"],
+		"uniques": ["Can construct [Moai]", "Can be purchased with [50] [Faith] [in all cities]"],
 		"promotions": ["Haka War Dance"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"

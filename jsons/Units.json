@@ -33,7 +33,7 @@
 		"unitType": "Ranged Water",
 		"uniqueTo": "Byzantium",
 		"replaces": "Galleass",
-		"movement": 4,
+		"movement": 3,
 		"strength": 16,
 		"rangedStrength": 20,
 		"cost": 120,

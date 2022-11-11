@@ -381,7 +381,7 @@
 		"specialistSlots": {"Merchant": 1}, 
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Gold] from every [Improvement] <in [Resource] tiles>"],
-		"percentStatBonus": {"gold": 25},
+		"percentStatBonus": {"gold": 5},
 		"requiredTech": "Currency"
 	},
 	{
@@ -391,7 +391,7 @@
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Gold] from every [Improvement] <in [Resource] tiles>"],
-		"percentStatBonus": {"gold": 25},
+		"percentStatBonus": {"gold": 5},
 		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
 			"[+2 Gold] from [Oil] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
 		"requiredTech": "Currency"
@@ -404,7 +404,7 @@
 		"happiness": 2,
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Gold] from every [Improvement] <in [Resource] tiles>"],
-		"percentStatBonus": {"gold": 25},
+		"percentStatBonus": {"gold": 5},
 		"requiredTech": "Currency"
 	},
 	{
@@ -717,7 +717,7 @@
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 15,
 		"uniques": ["[+1 Gold] from every [Improvement] <in [Luxury resource] tiles>"],
-		"percentStatBonus": {"gold": 25},
+		"percentStatBonus": {"gold": 10},
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
 	},
@@ -729,7 +729,7 @@
 //		"specialistSlots": {"Merchant": 1},
 //		"hurryCostModifier": 15,
 //	        "uniques": ["[+1 Gold] from every [Improvement] <in [Luxury resource] tiles>"],
-//		"percentStatBonus": {"gold": 25},
+//		"percentStatBonus": {"gold": 10},
 //		"uniques": ["+5% Production for every Trade Route with a City-State in the empire"],
 //		"requiredBuilding": "Market",
 //		"requiredTech": "Banking"
@@ -934,7 +934,7 @@
 	},
 	{
 		"name": "Stock Exchange",
-		"percentStatBonus": {"gold": 25},
+		"percentStatBonus": {"gold": 15},
 		"specialistSlots": {"Merchant": 2},
 		"hurryCostModifier": 15,
 		"uniques": ["[+1 Gold] from every [Improvement] <in [Strategic resource] tiles>"],

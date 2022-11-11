@@ -74,8 +74,8 @@
 		"terrainsCanBeFoundOn": ["Coast"],
 		"food": 1,
 		"improvement": "Fishing Boats",
-		"uniques": ["Resource", "Generated on every [10] tiles <in [Featureless] [Coast] tiles>",
-			                "Generated on every [5] tiles <in [Featureless] [Coast] tiles> <in [Tundra] Regions>"]
+		"uniques": ["Resource", "Generated on every [8] tiles <in [Featureless] [Coast] tiles>",
+			                "Generated on every [4] tiles <in [Featureless] [Coast] tiles> <in [Tundra] Regions>"]
 	},
 	/*
 	{

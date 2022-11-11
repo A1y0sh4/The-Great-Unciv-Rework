@@ -369,9 +369,9 @@
 	},
 	{
 		"name": "Market",
-		"gold": 2,
-		"specialistSlots": {"Merchant": 1},
+		"specialistSlots": {"Merchant": 1}, 
 		"hurryCostModifier": 25,
+		"uniques": ["[+1 Gold] from every [Improvement] <in [Resource] tiles>"],
 		"percentStatBonus": {"gold": 25},
 		"requiredTech": "Currency"
 	},
@@ -379,9 +379,9 @@
 		"name": "Bazaar",
 		"replaces": "Market",
 		"uniqueTo": "Arabia",
-		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
+		"uniques": ["[+1 Gold] from every [Improvement] <in [Resource] tiles>"],
 		"percentStatBonus": {"gold": 25},
 		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
 			"[+2 Gold] from [Oil] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
@@ -391,10 +391,10 @@
 		"name": "Satrap's Court",
 		"replaces": "Market",
 		"uniqueTo": "Persia",
-		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"happiness": 2,
 		"hurryCostModifier": 25,
+		"uniques": ["[+1 Gold] from every [Improvement] <in [Resource] tiles>"],
 		"percentStatBonus": {"gold": 25},
 		"requiredTech": "Currency"
 	},
@@ -714,9 +714,9 @@
 	},
 	{
 		"name": "Bank",
-		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 15,
+		"uniques": ["[+1 Gold] from every [Improvement] <in [Luxury resource] tiles>"],
 		"percentStatBonus": {"gold": 25},
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
@@ -726,9 +726,9 @@
 //		"name": "Hanse",
 //		"replaces": "Bank",
 //		"uniqueTo": "Germany",
-//		"gold": 2,
 //		"specialistSlots": {"Merchant": 1},
 //		"hurryCostModifier": 15,
+//	        "uniques": ["[+1 Gold] from every [Improvement] <in [Luxury resource] tiles>"],
 //		"percentStatBonus": {"gold": 25},
 //		"uniques": ["+5% Production for every Trade Route with a City-State in the empire"],
 //		"requiredBuilding": "Market",
@@ -934,10 +934,10 @@
 	},
 	{
 		"name": "Stock Exchange",
-		"gold": 3,
 		"percentStatBonus": {"gold": 25},
 		"specialistSlots": {"Merchant": 2},
 		"hurryCostModifier": 15,
+		"uniques": ["[+1 Gold] from every [Improvement] <in [Strategic resource] tiles>"],
 		"requiredBuilding": "Bank",
 		"requiredTech": "Electricity"
 	},
@@ -1166,8 +1166,7 @@
 		"cost": 0,
 		"faith": 1,
 		"culture": 3,
-		"happiness": 1,
-		"greatPersonPoints": {"Great Artist": 1},
+		"happiness": 2,
 		"uniques": ["Unbuildable", "Hidden when religion is disabled"]
 	},
 	{

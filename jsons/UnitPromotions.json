@@ -1,7 +1,7 @@
 [
 	{
 		"name": "[Bowman] ability",
-		"uniques": ["[+50]% Strength <in [Friendly Land] tiles> <within [2] tiles of a [City center]>"]
+		"uniques": ["[+50]% Strength <in [Friendly Land] tiles>"]
 	},
 	{
 		"name": "Haka War Dance", // only for Maori Warrior and subsequent upgrades

@@ -55,7 +55,7 @@
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[+50]% Strength <vs [Sword] units>],
+		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[+50]% Strength <vs [Sword] units>"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},

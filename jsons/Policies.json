@@ -81,13 +81,13 @@
             "Domination": 20,
             "Scientific": 30
         },
-        "uniques": ["[+1 Culture] [in all cities]", "[+1 Happiness] [in all cities] <during a Golden Age>"],
+        "uniques": ["[+1 Culture, +1 Happiness] [in all cities]",],
         "policies": [
             {
                 "name": "Republic",
                 "uniques": [
                     "[+1 Production] [in all cities]",
-                    "[+6]% Production when constructing [All] buildings [in all cities]"
+                    "[+5]% Production when constructing [All] buildings [in all cities]"
                 ],
                 "row": 1,
                 "column": 1
@@ -127,7 +127,7 @@
                 "name": "Meritocracy",
                 "uniques": [
                     "[+1 Happiness] [in all cities connected to capital]",
-                    "[-6]% Unhappiness from [Population] [in all non-occupied cities]"
+                    "[-5]% Unhappiness from [Population] [in all non-occupied cities]"
                 ],
                 "requires": ["Citizenship"],
                 "row": 2,

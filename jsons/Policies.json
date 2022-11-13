@@ -321,7 +321,7 @@
             {
                 "name": "Cultural Diplomacy",
                 "uniques": [
-                    "[+50]% resources gifted by City-States",
+                    "[+100]% resources gifted by City-States",
                     "[+50]% Happiness from luxury resources gifted by City-States"
                 ],
                 "requires": ["Scholasticism"],
@@ -333,7 +333,7 @@
                 "requires": ["Scholasticism", "Aesthetics"],
                 "uniques": [
                     "Allied City-States will occasionally gift Great People",
-		    "[+100]% Yield from every specialist [in capital]"
+		    "[+50]% Great Person generation <in cities with at least [2] [Specialists]>"
                 ],
                 "row": 3,
                 "column": 4

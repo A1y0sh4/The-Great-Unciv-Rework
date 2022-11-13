@@ -425,14 +425,14 @@
             "Scientific": 40
         },
         "uniques": [
-            "[+25]% [Science] from every [Garden]", "[+1 Science] from all [Science] buildings"
+            "[+50]% [Production] from every [Specialists]", "[+50]% [Gold] from every [Specialists]", "[+50]% [Science] from every [Specialists]", "[+50]% [Culture] from every [Specialists]"
             "Only available <before adopting [Piety]>"
         ],
         "policies": [
             {
                 "name": "Secularism",
                 "uniques": [
-                "[+50]% [Production] from every [Specialists]", "[+50]% [Gold] from every [Specialists]", "[+50]% [Science] from every [Specialists]", "[+50]% [Culture] from every [Specialists]"
+                "[+25]% [Science] from every [Garden]", "[+1 Science] from all [Science] buildings" 
                 ],
                 "row": 1,
                 "column": 2

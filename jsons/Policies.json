@@ -432,7 +432,7 @@
             {
                 "name": "Secularism",
                 "uniques": [
-                "[+50]% [Production] from [Specialists] [in all cities]", "[+50]% [Gold] from [Specialists] [in all cities]", "[+50]% [Science] from [Specialists] [in all cities]", "[+50]% [Culture] from [Specialists] [in all cities]"
+                "[+50]% [Production] from every [Specialists]", "[+50]% [Gold] from every [Specialists]", "[+50]% [Science] from every [Specialists]", "[+50]% [Culture] from every [Specialists]"
                 ],
                 "row": 1,
                 "column": 2

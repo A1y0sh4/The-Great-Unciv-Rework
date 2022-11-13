@@ -294,7 +294,7 @@
             {
                 "name": "Philantropy",
                 "uniques": [
-                    "Gifts of Gold to City-States generate [30]% more Influence"
+                    "Gifts of Gold to City-States generate [20]% more Influence"
                 ],
                 "row": 1,
                 "column": 2
@@ -321,7 +321,7 @@
             {
                 "name": "Cultural Diplomacy",
                 "uniques": [
-                    "[+100]% resources gifted by City-States",
+                    "[+50]% resources gifted by City-States",
                     "[+50]% Happiness from luxury resources gifted by City-States"
                 ],
                 "requires": ["Scholasticism"],
@@ -333,7 +333,7 @@
                 "requires": ["Scholasticism", "Aesthetics"],
                 "uniques": [
                     "Allied City-States will occasionally gift Great People",
-		    "[+1 Science, +1 Culture] from every specialist [in capital]"
+		    "[+100]% Yield from every specialist [in capital]"
                 ],
                 "row": 3,
                 "column": 4

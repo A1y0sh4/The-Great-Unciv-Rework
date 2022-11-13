@@ -425,7 +425,7 @@
             "Scientific": 40
         },
         "uniques": [
-            "[+1 Production] from every [Artist]", "[+1 Culture] from every [Engineer]"
+            "[+1 Culture] from every [Artist]", "[+1 Production] from every [Engineer]", "[-50]% Food consumption by specialists [in capital]", "[-50]% Unhappiness from [Specialists] [in capital]"
             "Only available <before adopting [Piety]>"
         ],
         "policies": [

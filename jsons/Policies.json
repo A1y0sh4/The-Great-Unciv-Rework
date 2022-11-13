@@ -333,7 +333,7 @@
                 "requires": ["Scholasticism", "Aesthetics"],
                 "uniques": [
                     "Allied City-States will occasionally gift Great People",
-		    "[+50]% [Stat] from every [Specialist]"
+		    "[+1 Science] from every specialist [in all cities]"
                 ],
                 "row": 3,
                 "column": 4
@@ -425,14 +425,14 @@
             "Scientific": 40
         },
         "uniques": [
-            "[+15]% [Science] <while the empire is happy>",
+            "[+25]% [Science] from every [Garden]", "[+1 Science] from all [Science] buildings"
             "Only available <before adopting [Piety]>"
         ],
         "policies": [
             {
                 "name": "Secularism",
                 "uniques": [
-                    "[+1 Science] from every specialist [in all cities]", "[+1 Science] from all [Science] buildings"
+                "[+50]% [Production] from every specialist [in all cities]", "[+50]% [Gold] from every specialist [in all cities]", "[+50]% [Science] from every specialist [in all cities]", "[+50]% [Culture] from every specialist [in all cities]"
                 ],
                 "row": 1,
                 "column": 2

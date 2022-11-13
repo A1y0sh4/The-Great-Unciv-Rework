@@ -135,7 +135,7 @@
 		"outerColor": [ 240, 180, 0],
 		"innerColor": [0,0,0],
 		"uniqueName": "Siberian Riches",
-		"uniques": ["[+1]% [Gold] [in capital] from every [Resource]", "[+1 Production] from every [Resource] <in [Snow] tiles>", "[+1 Production] from every [Resource] <in [Tundra] tiles>"],
+		"uniques": ["[+1]% [Gold] [in capital] from [Resource] tiles", "[+1 Production] from every [Resource] <in [Snow] tiles>", "[+1 Production] from every [Resource] <in [Tundra] tiles>"],
 		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",

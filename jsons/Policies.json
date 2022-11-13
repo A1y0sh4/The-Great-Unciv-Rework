@@ -425,7 +425,7 @@
             "Scientific": 40
         },
         "uniques": [
-            "[+50]% [Production] from every [Specialists]", "[+50]% [Gold] from every [Specialists]", "[+50]% [Science] from every [Specialists]", "[+50]% [Culture] from every [Specialists]"
+            "[+1 Production] from every [Artist]", "[+1 Culture] from every [Engineer]"
             "Only available <before adopting [Piety]>"
         ],
         "policies": [

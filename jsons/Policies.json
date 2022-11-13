@@ -333,7 +333,7 @@
                 "requires": ["Scholasticism", "Aesthetics"],
                 "uniques": [
                     "Allied City-States will occasionally gift Great People",
-		    "[+50]% Great Person generation <in cities with at least [2] [Specialists]>"
+		    "[+1]% Yield from every [Specialists]>"
                 ],
                 "row": 3,
                 "column": 4

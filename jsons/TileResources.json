@@ -23,13 +23,13 @@
 	{
 		"name": "Deer",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Forest","Tundra"], // Tundra only if lowland
+		"terrainsCanBeFoundOn": ["Forest", "Tundra"], // Tundra only if lowland
 		"food": 1,
 		"improvement": "Camp",
 		"improvementStats": {"production": 1},
 		"uniques": ["Resource", "Generated on every [8] tiles <in [Tundra] [Forest] tiles>",
 					"Generated on every [12] tiles <in [Featureless] [Tundra] tiles>",
-					"Generated on every [20] tiles <in [Plains] [Forest] tiles> <in tiles without [Hill]>",
+					"Generated on every [28] tiles <in [Plains] [Forest] tiles> <in tiles without [Hill]>",
 					"Generated on every [20] tiles <in [Grassland] [Forest] tiles> <in tiles without [Hill]>",
 					"Generated on every [16] tiles <in [Featureless] [Tundra] tiles> <in [Hill] Regions>",
 					"Generated on every [24] tiles <in [Forest] tiles> <in [Hill] Regions>"]
@@ -202,10 +202,10 @@
 		"production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"production": 1},
-		"uniques": ["Resource", "Generated with weight [15] <in [Desert] tiles> <in tiles without [Hill]>",
+		"uniques": ["Resource", "Generated with weight [30] <in [Desert] tiles> <in tiles without [Hill]>",
 			                "Generated with weight [15] <in [Marsh] tiles> <in tiles without [Hill]>",
 					"Generated with weight [30] <in [Jungle] tiles> <in tiles without [Hill]>",
-					"Generated with weight [30] <in [Forest] tiles> <in tiles without [Hill]>",
+					"Generated with weight [15] <in [Forest] tiles> <in tiles without [Hill]>",
 					"Minor deposits generated with weight [15] <in [Forest] tiles>",
 					"Minor deposits generated with weight [15] <in [Featureless] [Tundra] tiles>",
 					"Minor deposits generated with weight [15] <in [Featureless] [Snow] tiles>"],

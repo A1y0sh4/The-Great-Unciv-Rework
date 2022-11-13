@@ -77,7 +77,7 @@
         "priorities": {
             "Neutral": 30,
             "Cultural": 0,
-            "Diplomatic": 20,
+            "Diplomatic": 30,
             "Domination": 20,
             "Scientific": 30
         },
@@ -147,7 +147,7 @@
             "Cultural": 0,
             "Diplomatic": 20,
             "Domination": 30,
-            "Scientific": 30
+            "Scientific": 20
         },
         "uniques": [
 		"[+30]% Strength <vs [Barbarian] units>",

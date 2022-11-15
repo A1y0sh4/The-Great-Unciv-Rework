@@ -521,7 +521,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Earn [20]% of killed [Military] unit's [Cost] as [Faith]"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
 		"promotions": ["Pictish Courage"],
 		"attackSound": "metalhit"
 	},
@@ -552,7 +552,7 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"promotions": ["Mobility"],
-		"upgradesTo": "Anti-Tank Gun",
+		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "horse"
 	},
@@ -569,7 +569,7 @@
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>",
 			"[+1] Sight"],
 		"promotions": ["[Sipahi] ability", "Mobility"],
-		"upgradesTo": "Anti-Tank Gun",
+		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "horse"
 	},
@@ -585,7 +585,7 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
 		"promotions": ["[Hakkapeliitta] ability", "Mobility"],
-		"upgradesTo": "Anti-Tank Gun",
+		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "horse"
 	},
@@ -616,5 +616,18 @@
 		"uniqueTo": "The Maya",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
+	},
+	{
+		"name": "Knight",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Metallurgy",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
 	}
 ]

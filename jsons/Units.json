@@ -27,7 +27,7 @@
 		"obsoleteTech": "Military Science",
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>",
 			"[+1] Sight"],
 		"promotions": ["[Hussar] ability"],
 		"attackSound": "horse"
@@ -70,8 +70,8 @@
 		"strength": 20,
 		"cost": 120,
 		"requiredTech": "Chivalry",
-		"upgradesTo": "Cavalry",
-		"obsoleteTech": "Military Science",
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[+50]% Strength <vs [Sword] units>"],
 		"hurryCostModifier": 20,
@@ -87,8 +87,8 @@
 		"cost": 100,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
-		"upgradesTo": "Cavalry",
-		"obsoleteTech": "Military Science",
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
 		"attackSound": "horse"
 	},
@@ -209,7 +209,7 @@
 		"requiredTech": "Chemistry",
 		"upgradesTo": "Artillery",
 		"obsoleteTech": "Dynamite",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "Must set up to ranged attack", "[-1] Sight", "Never appears as a Barbarian unit"],
 		"attackSound": "cannon"
 	},
 	{
@@ -433,8 +433,8 @@
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
-		"upgradesTo": "Cavalry",
-		"obsoleteTech": "Military Science",
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+15] HP when healing <within [1] tiles of a [Oasis]>", "[+10] HP when healing <within [1] tiles of a [Pasture]>", "Can build [Pasture] improvements on tiles"],
 		"attackSound": "arrow"
 	},
@@ -450,8 +450,8 @@
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
-		"upgradesTo": "Cavalry",
-		"obsoleteTech": "Military Science",
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
 		"promotions": ["Great Generals I", "Quick Study"],
 		"attackSound": "arrow"
@@ -642,9 +642,41 @@
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Metallurgy",
-		"upgradesTo": "Cavalry",
+		"upgradesTo": "Lancer",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
+	},
+	{
+		"name": "Conquistador",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Spain",
+		"movement": 4,
+		"strength": 20,
+		"cost": 135,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city <on foreign continents>", "[+2] Sight"],
+		"promotions": ["[Conquistador] ability"],
+		"attackSound": "horse"
+		//Conquistador should have no penalty attacking cities
+		//Ability to found new cities can only be used on a foreign continent that does not contain the Spanish capital.
+	},
+	{
+		"name": "Naresuan's Elephant",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Siam",
+		"movement": 3,
+		"strength": 25,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Metallurgy",
+		"upgradesTo": "Lancer",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+50]% Strength <vs [Mounted] units>","[-33]% Strength <vs cities> <when attacking>"],
+		"attackSound": "elephant"
 	}
 ]

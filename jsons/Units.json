@@ -15,6 +15,23 @@
 		"promotions": ["[Cossack] ability"],
 		"attackSound": "horse"
 	},
+		{
+		"name": "Hussar",
+		"unitType": "Mounted",
+		"replaces": "Lancer",
+		"uniqueTo": "Austria",
+		"movement": 4,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Metallurgy",
+		"obsoleteTech": "Military Science",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
+			"[+1] Sight"],
+		"promotions": ["[Hussar] ability"],
+		"attackSound": "horse"
+	},
 	{
 		"name": "Maori Warrior",
 		"unitType": "Sword",

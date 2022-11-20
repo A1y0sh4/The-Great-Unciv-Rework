@@ -104,7 +104,7 @@
             {
                 "name": "Collective Rule",
                 "uniques": [
-                    "[+1 Culture] from each Trade Route"
+                    "[+1 Culture] from each Trade Route",
 		    "[+50]% Production when constructing [Settler] units [in capital]",
                     "Free [Settler] appears"
                 ],
@@ -115,7 +115,7 @@
             {
                 "name": "Representation",
                 "uniques": [
-                    "[+20]% [Science] <during a Golden Age>"
+                    "[+20]% [Science] <during a Golden Age>",
 		    "Each city founded increases culture cost of policies [30]% less than normal",
                     "Empire enters golden age"
                 ],
@@ -303,7 +303,7 @@
                 "name": "Aesthetics",
                 "uniques": [
                     "Resting point for Influence with City-States is increased by [20]",
-		    "[+1 Culture] from all [Happiness] buildings",
+		    "[+1 Culture] from all [Happiness] buildings"
                 ],
                 "row": 1,
                 "column": 4
@@ -425,8 +425,8 @@
             "Scientific": 40
         },
         "uniques": [
-            "[+1 Culture] from every [Artist]", "[+1 Gold] from every [Merchant]", "[+1 Science] from every [Scientist]", "[+1 Production] from every [Engineer]"],
-            "Only available <before adopting [Piety]>"
+            "[+1 Culture] from every [Artist]", "[+1 Gold] from every [Merchant]", "[+1 Science] from every [Scientist]", "[+1 Production] from every [Engineer]",
+            "Only available <before adopting [Piety]>"],
         "policies": [
             {
                 "name": "Secularism",

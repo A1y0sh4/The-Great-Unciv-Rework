@@ -24,7 +24,7 @@
     {
         "name": "Fertility Rites",
         "type": "Pantheon",
-        "uniques": ["[+10]% growth [in this city]"]
+        "uniques": ["[+10]% growth [in cities following this religion]"]
         // Preferably I would not have a cityFilter here, but doing so requires no additional implementation
     },
     {
@@ -35,12 +35,12 @@
     {
         "name": "God of the Open Sky",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Pasture]"]
+        "uniques": ["[+1 Faith] from every [Pasture]"]
     },
     {
         "name": "God of the Sea",
         "type": "Pantheon",
-        "uniques": ["[+1 Production] from every [Fishing Boats]"]
+        "uniques": ["[+1 Production, +1 Faith] from every [Fishing Boats]"]
     },
     {
         "name": "God of War",
@@ -65,12 +65,12 @@
     {
         "name": "Goddess of the Hunt",
         "type": "Pantheon",
-        "uniques": ["[+1 Food] from every [Camp]"]
+        "uniques": ["[+1 Production, +1 Faith] from every [Camp]"]
     },
     {
         "name": "Messenger of the Gods",
         "type": "Pantheon",
-        "uniques": ["[+2 Science] from each Trade Route"]
+        "uniques": ["[+2 Science, +1 Faith] from each Trade Route"]
     },
     {
         "name": "Monument to the Gods",
@@ -112,12 +112,12 @@
     {
         "name": "Sacred Waters",
         "type": "Pantheon",
-        "uniques": ["[+1 Happiness] in cities on [River] tiles"]
+        "uniques": ["[+2 Happiness, +2 Faith] in cities on [River] tiles"]
     },
     {
         "name": "Stone Circles",
         "type": "Pantheon",
-        "uniques": ["[+2 Faith] from every [Quarry]"]
+        "uniques": ["[+1 Culture, +1 Faith] from every [Quarry]"]
     },
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
     {

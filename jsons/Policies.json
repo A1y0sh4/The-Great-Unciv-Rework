@@ -427,7 +427,6 @@
         "uniques": [
             "[+1 Culture] from every [Artist]", "[+1 Gold] from every [Merchant]", "[+1 Science] from every [Scientist]", "[+1 Production] from every [Engineer]"],
             "Only available <before adopting [Piety]>"
-        ],
         "policies": [
             {
                 "name": "Secularism",

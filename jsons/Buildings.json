@@ -86,12 +86,11 @@
 	},
 	{
 		"name": "Stonehenge",
-		"faith": 5,
+		"faith": 6,
 		"isWonder": true,
                 "requiredNearbyImprovedResources": ["Stone"],
 		"greatPersonPoints": {"Great Engineer": 1},
 		"requiredTech": "Calendar",
-		"uniques": ["[+1 Culture] from [Stone] tiles [in all cities]"],
 		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
 	},
 	{

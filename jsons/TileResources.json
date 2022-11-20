@@ -37,7 +37,6 @@
 	{
 		"name": "Bananas",
 		"resourceType": "Bonus",
-		"revealedBy": "Pottery",
 		"terrainsCanBeFoundOn": ["Jungle"],
 		"food": 1,
 		"improvement": "Plantation",
@@ -242,7 +241,7 @@
 	{
 		"name": "Dyes",
 		"resourceType": "Luxury",
-		"revealedBy": "Pottery",
+		"revealedBy": "Calendar",
 		"terrainsCanBeFoundOn": ["Jungle","Forest","Marsh"],
 		"gold": 1,
 		"improvement": "Plantation",

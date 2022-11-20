@@ -514,7 +514,6 @@
 	{
 		"name": "National Treasury",
 		"cost": 125,
-		"gold": 8,
 		"culture": 1,
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isNationalWonder": true,

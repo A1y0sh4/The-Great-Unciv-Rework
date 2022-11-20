@@ -81,7 +81,7 @@
             "Domination": 20,
             "Scientific": 30
         },
-        "uniques": ["[+1 Culture, +1 Happiness] [in all cities]",],
+        "uniques": ["[+1 Culture, +1 Happiness] [in all cities]"],
         "policies": [
             {
                 "name": "Republic",

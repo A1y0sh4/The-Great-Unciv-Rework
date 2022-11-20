@@ -377,9 +377,9 @@
 	},
 	{
 		"name": "Market",
+		"gold": 2,
 		"specialistSlots": {"Merchant": 1}, 
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Gold] from [Improved] [Resource] tiles [in this city]"],
 		"percentStatBonus": {"gold": 5},
 		"requiredTech": "Currency"
 	},
@@ -387,9 +387,9 @@
 		"name": "Bazaar",
 		"replaces": "Market",
 		"uniqueTo": "Arabia",
+		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Gold] from [Improved] [Resource] tiles [in this city]"],
 		"percentStatBonus": {"gold": 5},
 		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
 			"[+2 Gold] from [Oil] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
@@ -399,10 +399,10 @@
 		"name": "Satrap's Court",
 		"replaces": "Market",
 		"uniqueTo": "Persia",
+		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"happiness": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Gold] from [Improved] [Resource] tiles [in this city]"],
 		"percentStatBonus": {"gold": 5},
 		"requiredTech": "Currency"
 	},
@@ -518,7 +518,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Market] in all cities", "Cost increases by [30] per owned city"],
+		"uniques": ["Requires a [Market] in all cities", "Cost increases by [30] per owned city", "[+1 Gold] from every [Resource]"],
 		"requiredTech": "Guilds"
 	},
 	{
@@ -713,9 +713,9 @@
 	},
 	{
 		"name": "Bank",
+		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 15,
-		"uniques": ["[+1 Gold] from [Improved] [Strategic resource] tiles [in this city]"],
 		"percentStatBonus": {"gold": 10},
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
@@ -725,9 +725,9 @@
 //		"name": "Hanse",
 //		"replaces": "Bank",
 //		"uniqueTo": "Germany",
+//	        "gold": 2,
 //		"specialistSlots": {"Merchant": 1},
 //		"hurryCostModifier": 15,
-//	        "uniques": ["[+1 Gold] from [Improved] [Strategic resource] tiles [in this city]"],
 //		"percentStatBonus": {"gold": 10},
 //		"uniques": ["+5% Production for every Trade Route with a City-State in the empire"],
 //		"requiredBuilding": "Market",
@@ -932,10 +932,10 @@
 	},
 	{
 		"name": "Stock Exchange",
+		"gold": 2,
 		"percentStatBonus": {"gold": 15},
 		"specialistSlots": {"Merchant": 2},
 		"hurryCostModifier": 15,
-		"uniques": ["[+1 Gold] from [Improved] [Strategic resource] tiles [in this city]"],
 		"requiredBuilding": "Bank",
 		"requiredTech": "Electricity"
 	},

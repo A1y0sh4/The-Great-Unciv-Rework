@@ -30,7 +30,7 @@
     {
         "name": "God of Craftsman",
         "type": "Pantheon",
-        "uniques": ["[+1 Production] <in cities with at least [3] [Population]>"]
+        "uniques": ["[+15]% Production when constructing [Land] units [in cities following this religion]"]
     },
     {
         "name": "God of the Open Sky",

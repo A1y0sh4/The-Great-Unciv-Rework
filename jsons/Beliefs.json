@@ -221,7 +221,7 @@
         "name": "Interfaith Dialogue",
         "type": "Founder",
         "uniques": ["When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science]"]
-    }
+    },
     {
         "name": "Papal Primacy",
         "type": "Founder",

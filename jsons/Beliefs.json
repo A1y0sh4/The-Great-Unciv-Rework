@@ -45,7 +45,7 @@
     {
         "name": "God of War",
         "type": "Pantheon",
-        "uniques": ["Earn [50]% of [Military] unit's [Strength] as [Faith]"]
+        "uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]"]
     },
     {
         "name": "Goddess of Festivals",

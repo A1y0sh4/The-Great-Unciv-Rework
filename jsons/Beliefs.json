@@ -102,7 +102,7 @@
     {
         "name": "Religious Settlements",
         "type": "Pantheon",
-        "uniques": ["[-15]% Culture cost of natural border growth [in this city]"]
+        "uniques": ["[-15]% Culture cost of natural border growth [in cities following this religion]"]
     },
     {
         "name": "Sacred Path",
@@ -128,7 +128,7 @@
     {
         "name": "Cathedrals",
         "type": "Follower",
-        "uniques": ["May buy [Cathedral] buildings with [Faith] [in this city]"]
+        "uniques": ["May buy [Cathedral] buildings with [Faith] [in cities following this religion]"]
     },
     {
         "name": "Choral Music",
@@ -163,17 +163,17 @@
     {
         "name": "Monasteries",
         "type": "Follower",
-        "uniques": ["May buy [Monastery] buildings for [150] [Faith] [in this city]"]
+        "uniques": ["May buy [Monastery] buildings for [150] [Faith] [in cities following this religion]"]
     },
     {
         "name": "Mosques",
         "type": "Follower",
-        "uniques": ["May buy [Mosque] buildings with [Faith] [in this city]"]
+        "uniques": ["May buy [Mosque] buildings with [Faith] [in cities following this religion]"]
     },
     {
         "name": "Pagodas",
         "type": "Follower",
-        "uniques": ["May buy [Pagoda] buildings with [Faith] [in this city]"]
+        "uniques": ["May buy [Pagoda] buildings with [Faith] [in cities following this religion]"]
     },
     {
         "name": "Peace Gardens",

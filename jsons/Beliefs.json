@@ -183,7 +183,7 @@
     {
         "name": "Religious Art",
         "type": "Follower",
-        "uniques": ["[+8 Culture] from every [Hermitage]"]
+        "uniques": ["[+3 Faith] <in cities with at least [1] [Artist]>"]
     },
     {
         "name": "Religious Center",

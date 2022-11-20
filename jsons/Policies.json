@@ -27,7 +27,7 @@
                 "name": "Legalism",
                 "uniques": [
                     "Provides the cheapest [Culture] building in your first [4] cities for free",
-		    "Free Social Policy"
+		    "[+1 Gold] per [10] population [in all cities]"
                 ],
                 "row": 1,
                 "column": 3
@@ -382,7 +382,7 @@
             },
             {
                 "name": "Merchant Navy",
-                "uniques": ["[+15]% Production when constructing [Water] units [in all cities]", "[+2 Production, +2 Gold] [in all coastal cities]"],
+                "uniques": ["Provides a [Seaport] in your first [4] cities for free", "[+2 Production, +2 Gold] [in all coastal cities]"],
                 "requires": ["Naval Tradition"],
                 "row": 2,
                 "column": 2

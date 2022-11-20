@@ -1,8 +1,8 @@
 [
     {
         "name": "discover cultural artifacts",
-        "notification": "We have discovered cultural artifacts in the ruins! (+20 culture)",
-        "uniques": ["Gain [20] [Culture]"],
+        "notification": "We have discovered cultural artifacts in the ruins! (+[cultureAmount] culture)",
+        "uniques": ["Gain [15]-[30] [Culture]"],
         "color": "#cf8ff7"
     },
     {
@@ -25,7 +25,7 @@
     {
         "name": "survivors (adds population to a city)",
         "notification": "We have found survivors in the ruins! Population added to [cityName].",
-        "uniques": ["[+1] population in a random city"], // This can't be easily added to cityFilter, as it is non-deterministic
+        "uniques": ["[+1]-[+2] population in a random city"], // This can't be easily added to cityFilter, as it is non-deterministic
 		"color": "#81c784"
     },
     {
@@ -58,14 +58,13 @@
     {
         "name": "discover holy symbols",
         "notification": "We have found holy symbols in the ruins, giving us a deeper understanding of religion! (+[faithAmount] Faith)",
-        "uniques": ["Hidden when religion is disabled", "Gain enough Faith for a Pantheon", "Only available <before the [Classical era]>"],
+        "uniques": ["Hidden when religion is disabled", "Gain enough Faith for a Pantheon", "Hidden after generating a Great Prophet"],
 		"color": "#CDDDF4"
     },
     {
         "name": "an ancient prophecy",
         "notification": "We have found an ancient prophecy in the ruins, greatly increasing our spiritual connection! (+[faithAmount] Faith)",
-        "uniques": ["Hidden when religion is disabled", "Gain enough Faith for [33]% of a Great Prophet", "Hidden after generating a Great Prophet",
-            "Only available <before the [Classical era]>"],
+        "uniques": ["Hidden when religion is disabled", "Gain enough Faith for [33]% of a Great Prophet", "Hidden after generating a Great Prophet"],
 		"color": "#CDDDF4"
     }
 ]

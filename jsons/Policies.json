@@ -303,7 +303,7 @@
                 "name": "Aesthetics",
                 "uniques": [
                     "Resting point for Influence with City-States is increased by [20]",
-		    "[+1 Culture] from every [Wonder]"
+		    "[+1 Culture] from all [Happiness] buildings",
                 ],
                 "row": 1,
                 "column": 4

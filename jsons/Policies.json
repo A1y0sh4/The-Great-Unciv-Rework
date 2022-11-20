@@ -18,7 +18,7 @@
                 "name": "Aristocracy",
                 "uniques": [
                     "[+15]% Production when constructing [All] wonders [in all cities]",
-                    "[+1 Happiness] per [10] population [in all cities]"
+                    "[+1 Gold, +1 Happiness] per [10] population [in all cities]"
                 ],
                 "row": 1,
                 "column": 1
@@ -27,7 +27,7 @@
                 "name": "Legalism",
                 "uniques": [
                     "Provides the cheapest [Culture] building in your first [4] cities for free",
-		    "[+1 Gold] per [10] population [in all cities]"
+		    "[-10]% Culture cost of adopting new Policies"
                 ],
                 "row": 1,
                 "column": 3
@@ -425,7 +425,7 @@
             "Scientific": 40
         },
         "uniques": [
-            "[+1 Culture] from every [Artist]", "[+1 Production] from every [Engineer]", "[-50]% Food consumption by specialists [in capital]", "[-50]% Unhappiness from [Specialists] [in capital]"
+            "[+1 Culture] from every [Artist]", "[+1 Gold] from every [Merchant]", "[+1 Science] from every [Scientist]", "[+1 Production] from every [Engineer]"],
             "Only available <before adopting [Piety]>"
         ],
         "policies": [

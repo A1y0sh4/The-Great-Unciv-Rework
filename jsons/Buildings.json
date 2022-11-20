@@ -380,7 +380,7 @@
 		"name": "Market",
 		"specialistSlots": {"Merchant": 1}, 
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Gold] from [Resource] tiles <in [Camp, Farm, Mine, Oil Well, Pasture, Plantation, Quarry] tiles> [in this city]"],
+		"uniques": ["[+1 Gold] from [Improved] [Resource] tiles [in this city]"],
 		"percentStatBonus": {"gold": 5},
 		"requiredTech": "Currency"
 	},

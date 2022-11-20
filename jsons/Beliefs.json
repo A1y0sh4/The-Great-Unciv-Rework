@@ -24,13 +24,13 @@
     {
         "name": "Fertility Rites",
         "type": "Pantheon",
-        "uniques": ["[+10]% growth [in cities following this religion]"]
+        "uniques": ["[+15]% growth [in cities following this religion]"]
         // Preferably I would not have a cityFilter here, but doing so requires no additional implementation
     },
     {
         "name": "God of Craftsman",
         "type": "Pantheon",
-        "uniques": ["[+15]% Production when constructing [Land] units [in cities following this religion]"]
+        "uniques": ["[+15]% Production when constructing [All] units [in cities following this religion]"]
     },
     {
         "name": "God of the Open Sky",
@@ -55,7 +55,7 @@
     {
         "name": "Goddess of Love",
         "type": "Pantheon",
-        "uniques": ["[+1 Happiness] <in cities with at least [6] [Population]>"]
+        "uniques": ["[-10]% Unhappiness from [Population] [in cities following this religion]"]
     },
     {
         "name": "Goddess of Protection",
@@ -70,7 +70,7 @@
     {
         "name": "Messenger of the Gods",
         "type": "Pantheon",
-        "uniques": ["[+2 Science, +1 Faith] from each Trade Route"]
+        "uniques": ["[+2 Science, +2 Happiness] from each Trade Route"]
     },
     {
         "name": "Monument to the Gods",
@@ -123,7 +123,7 @@
     {
         "name": "Asceticism",
         "type": "Follower",
-        "uniques": ["[+1 Happiness] from every [Shrine] <in cities with at least [3] [Followers of this Religion]>"]
+        "uniques": ["[+1 Happiness] from every [Shrine]"]
     },
     {
         "name": "Cathedrals",
@@ -158,7 +158,7 @@
     {
         "name": "Liturgical Drama",
         "type": "Follower",
-        "uniques": ["[+1 Faith] from every [Amphitheater] <in cities with at least [3] [Followers of this Religion]>"]
+        "uniques": ["[+3 Faith] from every [Amphitheater] <in cities with at least [3] [Followers of this Religion]>"]
     },
     {
         "name": "Monasteries",
@@ -198,7 +198,7 @@
     {
         "name": "Swords into Ploughshares",
         "type": "Follower",
-        "uniques": ["[+15]% growth [in this city] <when not at war>"]
+        "uniques": ["[+20]% growth [in cities following this religion] <when not at war>"]
     },
 ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
 
@@ -210,7 +210,7 @@
     {
         "name": "Church Property",
         "type": "Founder",
-        "uniques": ["[+2 Gold] for each global city following this religion"]
+        "uniques": ["[+3]% [Gold] for each global city following this religion", "[-10]% [Gold] [in cities following this religion]"]
     },
     {
         "name": "Initiation Rites",
@@ -225,27 +225,27 @@
     {
         "name": "Papal Primacy",
         "type": "Founder",
-        "uniques": ["Resting point for Influence with City-States following this religion [+15]"]
+        "uniques": ["Resting point for Influence with City-States following this religion [+20]"]
     },
     {
         "name": "Peace Loving",
         "type": "Founder",
-        "uniques": ["[+1 Happiness] from every [5] global followers [in non-enemy foreign cities]"]
+        "uniques": ["[+1 Happiness] from every [12] global followers [in cities following this religion]"]
     },
     {
         "name": "Pilgrimage",
         "type": "Founder",
-        "uniques": ["[+2 Faith] for each global city following this religion"]
+        "uniques": ["[+3]% [Faith] for each global city following this religion"]
     },
     {
         "name": "Tithe",
         "type": "Founder",
-        "uniques": ["[+1 Gold] from every [4] global followers [in all cities]"]
+        "uniques": ["[+1 Gold] from every [3] global followers [in cities following this religion]", "[-10]% [Gold] [in cities following this religion]"]
     },
     {
         "name": "World Church",
         "type": "Founder",
-        "uniques": ["[+1 Culture] from every [5] global followers [in foreign cities]"]
+        "uniques": ["[+1 Culture] from every [6] global followers [in cities following this religion]"]
     },
 
     ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
@@ -253,7 +253,7 @@
     {
         "name": "Defender of the Faith",
         "type": "Enhancer",
-        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"]
+        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> [in cities following this religion]"]
         // ToDo: Should only be friendly territory of cities that follow this religion
     },
     {
@@ -269,7 +269,7 @@
     {
         "name": "Just War",
         "type": "Enhancer",
-        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
+        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles> [in cities following this religion]"]
         // ToDo: Should only be enemy territory of cities that follow this religion
     },
     {
@@ -285,7 +285,7 @@
     {
         "name": "Religious Texts",
         "type": "Enhancer",
-        "uniques": ["[+34]% Natural religion spread [in all cities]", "[+34]% Natural religion spread [in all cities] <after discovering [Printing Press]>"]
+        "uniques": ["[+25]% Natural religion spread [in all cities]", "[+25]% Natural religion spread [in all cities] <after discovering [Printing Press]>"]
     },
     {
         "name": "Religious Unity",

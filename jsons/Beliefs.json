@@ -210,7 +210,7 @@
     {
         "name": "Church Property",
         "type": "Founder",
-        "uniques": ["[+3]% [Gold] for each global city following this religion", "[-10]% [Gold] [in cities following this religion]"]
+        "uniques": ["[+2 Gold] for each global city following this religion"]
     },
     {
         "name": "Initiation Rites",
@@ -240,7 +240,7 @@
     {
         "name": "Tithe",
         "type": "Founder",
-        "uniques": ["[+1 Gold] from every [3] global followers [in cities following this religion]", "[-10]% [Gold] [in cities following this religion]"]
+        "uniques": ["[+1 Gold] from every [3] global followers [in cities following this religion]"]
     },
     {
         "name": "World Church",

@@ -183,7 +183,7 @@
     {
         "name": "Religious Art",
         "type": "Follower",
-        "uniques": ["[+3 Faith] <in cities with at least [1] [Artists]>"]
+        "uniques": ["May buy [Monument] buildings with [Faith] [in cities following this religion]", "May buy [Amphitheater] buildings with [Faith] [in cities following this religion]"]
     },
     {
         "name": "Religious Center",

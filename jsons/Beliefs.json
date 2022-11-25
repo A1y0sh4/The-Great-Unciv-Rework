@@ -112,7 +112,7 @@
     {
         "name": "Sacred Waters",
         "type": "Pantheon",
-        "uniques": ["[+2 Happiness, +2 Faith] in cities on [River] tiles"]
+        "uniques": ["[+2 Faith, +1 Happiness] in cities on [River] tiles"]
     },
     {
         "name": "Stone Circles",
@@ -183,7 +183,7 @@
     {
         "name": "Religious Art",
         "type": "Follower",
-        "uniques": ["[+3 Faith] <in cities with at least [1] [Artist]>"]
+        "uniques": ["[+3 Faith] <in cities with at least [1] [Artists]>"]
     },
     {
         "name": "Religious Center",

@@ -381,7 +381,6 @@
 		"specialistSlots": {"Merchant": 1}, 
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 10},
-		"uniques": ["[+1 Gold] from [Resource] tiles <in [Improvement] tiles> [in this city]"],
 		"requiredTech": "Currency"
 	},
 	{
@@ -519,7 +518,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Market] in all cities", "Cost increases by [30] per owned city", "[+1 Gold] from every [Resource]"],
+		"uniques": ["Requires a [Market] in all cities", "Cost increases by [30] per owned city", "[+1 Gold] from every [Improvement] <in [Resource] tiles>"],
 		"requiredTech": "Guilds"
 	},
 	{
@@ -1069,7 +1068,7 @@
 		"name": "Recycling Center",
 		"maintenance": 3,
 		"requiredTech": "Ecology",
-		"uniques": ["Provides [2] [Aluminum]","Limited to [5] per Civilization"]
+		"uniques": ["Provides [2] [Aluminum]", "Limited to [5] per Civilization"]
 	},
 	{
 		"name": "Sydney Opera House",

@@ -381,7 +381,7 @@
 		"specialistSlots": {"Merchant": 1}, 
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 10},
-		"uniques": ["[+1 Gold] from [Resource] in [All] tiles"],
+		"uniques": ["[+1 Gold] from [Resource] tiles <in [Improvement] tiles> [in this city]"],
 		"requiredTech": "Currency"
 	},
 	{

@@ -199,7 +199,7 @@
 		"rangedStrength": 20,
 		"cost": 120,
 		"requiredTech": "Compass",
-		"uniques": ["Cannot enter ocean tiles", "[+50]% Strength <vs [Military] units> <in [Water] tiles>"],
+		"uniques": ["Cannot enter ocean tiles", "[+15]% Strength <vs [Military] units> <in [Water] tiles>"],
 		"upgradesTo": "Frigate",
 		"obsoleteTech": "Navigation",
 		"attackSound": "arrow"

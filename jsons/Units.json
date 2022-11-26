@@ -973,7 +973,7 @@
 			"[+1] Sight"],
 		"promotions": ["[Sipahi] ability", "Mobility"],
 		"upgradesTo": "Cavalry",
-		"obsoleteTech": "Combined Arms",
+		"obsoleteTech": "Military Science",
 		"attackSound": "horse"
 	},
 	{
@@ -989,7 +989,7 @@
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
 		"promotions": ["[Hakkapeliitta] ability", "Mobility"],
 		"upgradesTo": "Cavalry",
-		"obsoleteTech": "Combined Arms",
+		"obsoleteTech": "Military Science",
 		"attackSound": "horse"
 	},
 	{

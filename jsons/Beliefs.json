@@ -183,7 +183,7 @@
     {
         "name": "Religious Art",
         "type": "Follower",
-        "uniques": ["May buy [Monument] buildings with [Faith] [in cities following this religion]", "May buy [Amphitheater] buildings with [Faith] [in cities following this religion]", "[+50]% [Faith] from every [Hermitage]"]
+        "uniques": ["May buy [Monument] buildings with [Faith] [in cities following this religion]", "May buy [Amphitheater] buildings with [Faith] [in cities following this religion]", , "May buy [Opera House] buildings with [Faith] [in cities following this religion]"]
     },
     {
         "name": "Religious Center",
@@ -230,7 +230,7 @@
     {
         "name": "Peace Loving",
         "type": "Founder",
-        "uniques": ["[+1 Happiness] from every [12] global followers [in this city]"]
+        "uniques": ["[+1 Happiness] from every [6] global followers [in this city] <when not at war>"]
     },
     {
         "name": "Pilgrimage",
@@ -240,7 +240,7 @@
     {
         "name": "Tithe",
         "type": "Founder",
-        "uniques": ["[+1 Gold] from every [4] global followers [in cities following this religion]"]
+        "uniques": ["[+1 Gold] from every [6] global followers [in cities following this religion]"]
     },
     {
         "name": "World Church",

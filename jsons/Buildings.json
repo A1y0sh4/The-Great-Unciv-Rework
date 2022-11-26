@@ -227,7 +227,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["Must be next to [Coast]", "[+1 Food] from [Ocean] tiles [in this city]",
-			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]" ],
+			"[+1 Food] from [Coast] tiles [in this city]"],
 		"requiredTech": "Optics"
 	},
 	{
@@ -381,7 +381,7 @@
 		"specialistSlots": {"Merchant": 1}, 
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 10},
-		"uniques": ["[+1 Gold] from [Resource] tiles <in [Improvement] tiles> [in this city]"],
+		"uniques": ["[+1 Gold] from every [Improvement] <in [Resource] tiles> [in this city]"],
 		"requiredTech": "Currency"
 	},
 	{

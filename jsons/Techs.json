@@ -24,7 +24,7 @@
 				"name": "Pottery",
 				"row": 2,
 				"prerequisites": ["Agriculture"],
-				"uniques": ["[+1 Culture, +1 Money] [in all cities connected to capital]"], 
+				"uniques": ["[+1 Culture, +1 Gold] [in all cities connected to capital]"], 
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
 			},
 			{

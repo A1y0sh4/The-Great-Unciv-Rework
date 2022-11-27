@@ -24,6 +24,7 @@
 				"name": "Pottery",
 				"row": 2,
 				"prerequisites": ["Agriculture"],
+				"uniques": ["[+1 Culture, +1 Money] [in all cities connected to capital]"], 
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
 			},
 			{
@@ -70,6 +71,7 @@
 				"name": "Writing",
 				"row": 3,
 				"prerequisites": ["Pottery"],
+				"uniques": ["[-15]% maintenance cost for buildings [in all cities]"], 
 				"quote": "'He who destroys a good book kills reason itself.' - John Milton"
 			},
 			{
@@ -123,7 +125,7 @@
 				"name": "Mathematics",
 				"row": 7,
 				"prerequisites": ["The Wheel"],
-				"uniques": ["[-30]% maintenance cost for buildings [in all cities]"], 
+				"uniques": ["[-15]% maintenance cost for buildings [in all cities]", ], 
 				"quote": "'Mathematics is the gate and key to the sciences.' - Roger Bacon"
 			},
 			{
@@ -191,7 +193,7 @@
 				"name": "Civil Service",
 				"row": 5,
 				"prerequisites": ["Currency","Horseback Riding","Drama and Poetry"],
-				"uniques": ["Enables Open Borders agreements"],
+				"uniques": ["Enables Open Borders agreements", "[-15]% maintenance cost for buildings [in all cities]"],
 				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
 			},
 			{
@@ -320,6 +322,7 @@
 				"name": "Economics",
 				"row": 6,
 				"prerequisites": ["Banking","Printing Press"],
+				"uniques": ["[-15]% maintenance cost for buildings [in all cities]"], 
 				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
 			},
 			{

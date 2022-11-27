@@ -1096,12 +1096,12 @@
 		"uniqueTo": "Russia",
 		"movement": 4,
 		"strength": 34,
-		"cost": 225,
+		"cost": 185,
 		"requiredTech": "Metallurgy",
 		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Founds a new city"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[-20]% Strength <before discovering [Military Science]>", "Founds a new city"],
 		"promotions": ["[Cossack] ability"],
 		"attackSound": "horse"
 	},
@@ -1111,7 +1111,7 @@
 		"replaces": "Lancer",
 		"uniqueTo": "Austria",
 		"movement": 4,
-		"strength": 34,
+		"strength": 28,
 		"cost": 225,
 		"requiredTech": "Metallurgy",
 		"obsoleteTech": "Military Science",
@@ -1119,7 +1119,7 @@
 		"upgradesTo": "Cavalry",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>",
 			"[+1] Sight"],
-		"promotions": ["[Hussar] ability"],
+		"promotions": ["[Hussar] ability", "Mobility"],
 		"attackSound": "horse"
 	},
 	{

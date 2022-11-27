@@ -489,6 +489,7 @@
         },
         "uniques": [
             "[+25]% Great Person generation [in all cities]",
+	    "[-10]% Culture cost of adopting new Policies",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Order]>"
         ],
@@ -550,7 +551,7 @@
             "Scientific": 30
         },
         "uniques": [
-            "[-30]% maintenance costs <for [All] units>",
+            "[-25]% maintenance costs <for [All] units>",
             "Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately",
             "Only available <before adopting [Order]>",
             "Only available <before adopting [Freedom]>"
@@ -622,7 +623,7 @@
         },
         "uniques": [
             "Empire enters golden age",
-	    "[+2 Science] from every [Strategic resource]",
+	    "[-25]% Unhappiness from [Population] [in all cities with a garrison]",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Freedom]>"
         ],
@@ -659,7 +660,7 @@
                 "name": "Socialism",
                 "requires": ["Planned Economy"],
                 "uniques": [
-                    "[-50]% maintenance cost for buildings [in all cities]"
+                   "[+1 Food] from every [Improvement] <in [Resource] tiles>",
                 ],
                 "row": 2,
                 "column": 3

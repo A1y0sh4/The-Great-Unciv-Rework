@@ -123,6 +123,7 @@
 				"name": "Mathematics",
 				"row": 7,
 				"prerequisites": ["The Wheel"],
+				"uniques": ["[-30]% maintenance cost for buildings [in all cities]"], 
 				"quote": "'Mathematics is the gate and key to the sciences.' - Roger Bacon"
 			},
 			{

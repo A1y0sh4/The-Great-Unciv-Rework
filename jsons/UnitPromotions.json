@@ -691,7 +691,7 @@
 	},
 	{
 		"name": "Slinger Withdraw", // only for Slinger and subsequent upgrades
-		"uniques": ["May withdraw before melee ([80]%)"]
+		"uniques": ["May withdraw before melee ([80]%)", "Can move after attacking"]
 	},
 	{
 		"name": "Ignore terrain cost",

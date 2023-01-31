@@ -496,7 +496,7 @@
         "policies": [
             {
                 "name": "Constitution",
-                "uniques": ["[+2 Culture] from every [Wonder]"],
+                "uniques": ["[+5 Culture] per [2] social policies adopted"],
                 "row": 1,
                 "column": 1
             },
@@ -566,7 +566,7 @@
             {
                 "name": "Militarism",
                 "uniques": ["[Gold] cost of purchasing [All] units [-50]%",
-		"[8] units cost no maintenance"],
+		"[+15]% [Science] from every [Military Academy]"],
                 "row": 1,
                 "column": 5
             },
@@ -621,7 +621,8 @@
             "Scientific": 40
         },
         "uniques": [
-            "Empire enters golden age",
+            "[+1 Production] per [2] population [in all cities]",
+	    "[8] units cost no maintenance"
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Freedom]>"
         ],
@@ -667,7 +668,6 @@
                 "name": "Communism",
                 "requires": ["Socialism"],
                 "uniques": [
-                    "[+2 Production, +2 Science] from each Trade Routes",
                     "[+1 Production] from every [Mine]",
                     "[+1 Production] from every [Quarry]"
                 ],
@@ -677,7 +677,8 @@
             {
                 "name": "Order Complete",
                 "uniques": [
-		    "[+3 Food, +3 Production, +3 Science, +3 Gold, +3 Culture] [in all cities connected to capital]",
+		    "[+15]% Production when constructing [Factory] buildings [in all cities]",
+		    "[+15]% [Production] [in all cities connected to capital] <during a Golden Age>",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }

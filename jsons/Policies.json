@@ -622,7 +622,6 @@
         },
         "uniques": [
             "Empire enters golden age",
-	    "[-25]% Unhappiness from [Population] [in all cities with a garrison]",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Freedom]>"
         ],
@@ -649,7 +648,7 @@
             {
                 "name": "Nationalism",
                 "uniques": [
-                    "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+                    "[+25]% City Strength from defensive buildings",
 		    "[+1] Movement <for [All] units> <in [Friendly Land] tiles> <when at war>"
                 ],
                 "row": 1,
@@ -668,7 +667,7 @@
                 "name": "Communism",
                 "requires": ["Socialism"],
                 "uniques": [
-                    "[+2 Production, +2 Science] from Trade Routes",
+                    "[+2 Production, +2 Science] from each Trade Routes",
                     "[+1 Production] from every [Mine]",
                     "[+1 Production] from every [Quarry]"
                 ],

@@ -550,8 +550,8 @@
 		"cost": 90,
 		"requiredTech": "Civil Service",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
-		"upgradesTo": "Rifleman",
-		"obsoleteTech": "Rifling",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
 		"attackSound": "metalhit"
 	},
 	{

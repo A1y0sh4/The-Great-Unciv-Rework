@@ -609,7 +609,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+15] HP when healing <within [1] tiles of a [Oasis]>", "[+10] HP when healing <within [1] tiles of a [Pasture]>", "Can build [Pasture] improvements on tiles"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+15] HP when healing <within [1] tiles of a [Oasis]>"],
 		"attackSound": "arrow"
 	},
 	{

@@ -706,10 +706,6 @@
 		"uniques": ["[+30]% Strength decreasing with distance from the capital"]
 	},
 	{
-		"name": "[Bowman] ability",
-		"uniques": ["[+50]% Strength <in [Friendly Land] tiles>"]
-	},
-	{
 		"name": "[Mohawk Warrior] ability",
 		"uniques": ["[+33]% Strength <when fighting in [Forest] tiles>", "[+33]% Strength <when fighting in [Jungle] tiles>"]
 	},

@@ -747,7 +747,7 @@
 			"Double movement in [Hill]"]
 	},
 	{
-		"name": "[Privateer] ability",
+		"name": "Privateer",
 		"uniques": ["Earn [25]% of the damage done to [All] units as [Gold] <within [1] tiles of a [Coast]>",
 			    "Earn [25]% of the damage done to [All] units as [Gold] <within [1] tiles of a [Ocean]>"]
 	},

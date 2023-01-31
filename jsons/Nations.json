@@ -139,7 +139,7 @@
 		"outerColor": [ 240, 180, 0],
 		"innerColor": [0,0,0],
 		"uniqueName": "Siberian Riches",
-		"uniques": ["Double quantity of [Uranium] produced", "Cannot build [Lancer] units", "[-30]% tile improvement construction time <in [Snow] tiles>", "[+1 Production] from every [Resource] <in [Snow] tiles>", "[-30]% tile improvement construction time <in [Tundra] tiles>", "[+1 Production] from every [Resource] <in [Tundra] tiles>"],
+		"uniques": ["Double quantity of [Uranium] produced", "Cannot build [Lancer] units", "[+1 Gold] from every [Improvement] <in [Strategic resource] tiles>", "[-30]% tile improvement construction time <in [Snow] tiles>", "[-30]% tile improvement construction time <in [Tundra] tiles>"],
 		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",

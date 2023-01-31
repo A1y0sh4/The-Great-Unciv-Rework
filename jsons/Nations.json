@@ -407,7 +407,7 @@
 		"outerColor": [245,248,185],
 		"innerColor": [18,84,30],
 		"uniqueName": "Barbary Corsairs",
-		"uniques": ["[Siege] units gain the [Volley] promotion", "When defeating a [Water] unit, earn [10]-[100] [Gold] and recruit it <with [50]% chance>", "[+3 Culture, +3 Faith] from every [Courthouse]"],
+		"uniques": ["[Water] units gain the [Privateer] promotion", "When defeating a [Water] unit, earn [10]-[100] [Gold] and recruit it <with [50]% chance>", "[+3 Culture, +3 Faith] from every [Courthouse]"],
 		"cities": ["Kostantiniyye","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyabakir","Izmir","Kayseri","Malatya",
 			"Marsin","Antalya","Zonguldak","Denizli","Ordu","Mugia","Eskishehir","Inebolu","Sinop","Adana","Artuin",
 			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarhisar",

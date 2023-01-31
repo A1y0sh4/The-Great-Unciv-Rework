@@ -516,6 +516,7 @@
 		"name": "National Treasury",
 		"cost": 125,
 		"culture": 1,
+		"percentStatBonus": {"gold": 25},
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isNationalWonder": true,
 		"uniques": ["Requires a [Market] in all cities", "Cost increases by [30] per owned city"],
@@ -526,7 +527,7 @@
 		"greatPersonPoints": {"Great Merchant": 1},
 		"culture": 1,
 		"isWonder": true,
-		"uniques": ["[+25]% Yield from every [Trade routes]", "[+25]% Strength <for [Military] units> <when defending> <within [1] tiles of a [Mountain]>", "Must have an owned [Mountain] within [2] tiles"],
+		"uniques": ["[+25]% Yield from Trade Routes", "[+15]% Strength <for [Military] units> <within [1] tiles of a [Mountain]>", "Must have an owned [Mountain] within [2] tiles"],
 		"requiredTech": "Guilds",
 		"quote": "'Few romances can ever surpass that of the granite citadel on top of the beetling precipices of Machu Picchu, the crown of Inca Land.' - Hiram Bingham"
 	},

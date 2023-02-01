@@ -677,7 +677,7 @@
             {
                 "name": "Order Complete",
                 "uniques": [
-		    "[+15]% Production when constructing [Factory] buildings [in all cities]",
+		    "[+15]% Production when constructing [All] buildings [in all cities]",
 		    "[+15]% [Production] [in all cities connected to capital] <during a Golden Age>",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]

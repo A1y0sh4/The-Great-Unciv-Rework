@@ -6,7 +6,8 @@
 		"food": 1,
 		"gold": 1,
 		"movementCost": 1,
-		"uniques": ["[Quinquereme] Units ending their turn on this terrain take [50] damage"],
+		"uniques": ["Units ending their turn on this terrain take [50] damage",
+			    "Units ending their turn on this terrain take [0] damage"],
 		"RGB": [45,108,145]
 	},
 	{

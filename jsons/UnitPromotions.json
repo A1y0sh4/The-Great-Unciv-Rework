@@ -640,7 +640,7 @@
 		{
 		"name": "Quick Study I", // Barracks
 		"uniques": ["[+5]% XP gained from combat"],
-        "column": 26,
+        "column": 27,
         "row": 1
 	},
 	{
@@ -654,7 +654,7 @@
 		"prerequisites": ["Quick Study I", "March I"],
 		"uniques": ["[+10]% XP gained from combat"],
 		"unitTypes": ["All"],
-        "column": 26,
+        "column": 27,
         "row": 2
 	},
 	{
@@ -662,7 +662,7 @@
 		"prerequisites": ["Quick Study II"],
 		"uniques": ["[+15]% XP gained from combat"],
 		"unitTypes": ["All"],
-        "column": 26,
+        "column": 27,
         "row": 3
 	},
 

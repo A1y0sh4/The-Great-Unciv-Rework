@@ -185,7 +185,7 @@
 		"strength": 12,
 		"cost": 50,
 		"requiredTech": "Sailing",
-		"uniques": ["Take [35] damage <in [Ocean] tiles>"],
+		"uniques": ["Takes [35] damage <in [Ocean] tiles>"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"

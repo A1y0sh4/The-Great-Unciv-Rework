@@ -5,7 +5,7 @@ format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 
-PromotionIcons/Armory
+UnitPromotionIcons/Armory
   rotate: false
   xy: 1232, 1913
   size: 100, 100
@@ -13,7 +13,7 @@ PromotionIcons/Armory
   offset: 0, 0
   index: -1
 
-PromotionIcons/Barracks
+UnitPromotionIcons/Barracks
   rotate: false
   xy: 800, 1805
   size: 100, 100
@@ -21,7 +21,7 @@ PromotionIcons/Barracks
   offset: 0, 0
   index: -1
 
-PromotionIcons/Krepost
+UnitPromotionIcons/Krepost
   rotate: false
   xy: 1486, 1589
   size: 100, 100
@@ -29,7 +29,7 @@ PromotionIcons/Krepost
   offset: 0, 0
   index: -1
 
-PromotionIcons/Military Academy
+UnitPromotionIcons/Military Academy
   rotate: false
   xy: 1702, 1481
   size: 100, 100

@@ -646,14 +646,14 @@
 	{
 		"name": "March I", // Krepost
 		"uniques": ["[+5]% XP gained from combat", "Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>", "[-5] HP when healing"],
-        "column": 27,
+        "column": 28,
         "row": 1
 	},
 	{
 		"name": "Quick Study II", // Armory
 		"prerequisites": ["Quick Study I", "March I"],
 		"uniques": ["[+10]% XP gained from combat"],
-		"unitTypes": ["All"],
+		"unitTypes": ["Military"],
         "column": 27,
         "row": 2
 	},
@@ -661,7 +661,7 @@
 		"name": "Quick Study III", // Military Academy
 		"prerequisites": ["Quick Study II"],
 		"uniques": ["[+15]% XP gained from combat"],
-		"unitTypes": ["All"],
+		"unitTypes": ["Military"],
         "column": 27,
         "row": 3
 	},

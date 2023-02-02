@@ -4,7 +4,6 @@ size: 2048, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-
 UnitPromotionIcons/Armory
   rotate: false
   xy: 1232, 1913
@@ -12,7 +11,6 @@ UnitPromotionIcons/Armory
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 UnitPromotionIcons/Barracks
   rotate: false
   xy: 800, 1805
@@ -20,7 +18,6 @@ UnitPromotionIcons/Barracks
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 UnitPromotionIcons/Krepost
   rotate: false
   xy: 1486, 1589
@@ -28,7 +25,6 @@ UnitPromotionIcons/Krepost
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 UnitPromotionIcons/Military Academy
   rotate: false
   xy: 1702, 1481
@@ -36,4 +32,3 @@ UnitPromotionIcons/Military Academy
   orig: 100, 100
   offset: 0, 0
   index: -1
-

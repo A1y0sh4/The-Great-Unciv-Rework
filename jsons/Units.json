@@ -185,7 +185,7 @@
 		"strength": 12,
 		"cost": 50,
 		"requiredTech": "Sailing",
-		"uniques": ["Takes [35] damage <in [Ocean] tiles>"],
+		"uniques": ["Heal this unit by [-50] HP <in [Ocean] tiles>"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"

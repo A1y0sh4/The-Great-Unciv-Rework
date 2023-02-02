@@ -185,7 +185,7 @@
 		"strength": 12,
 		"cost": 50,
 		"requiredTech": "Sailing",
-		"uniques": ["May heal outside of friendly territory", "[-50] HP when healing <in [Ocean] tiles>"],
+		"uniques": ["take [35] damage <in [Ocean] tiles>"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
@@ -210,7 +210,7 @@
 		"unitType": "Melee Water",
 		"uniqueTo": "Barbarians",
 		"movement": 3,
-		"strength": 11,
+		"strength": 10,
 		"cost": 45,
 		"uniques": ["Cannot enter ocean tiles"],
 		"upgradesTo": "Trireme",

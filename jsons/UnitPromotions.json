@@ -638,26 +638,26 @@
         "row": 2
 	},
 		{
-		"name": "Training I", // Barracks
+		"name": "Experience I", // Barracks
 		"uniques": ["[+5]% XP gained from combat"],
         "column": 26,
         "row": 1
 	},
 	{
-		"name": "Training K", // Krepost
+		"name": "Experience Krepost", // Krepost
 		"uniques": ["[+5]% XP gained from combat", "Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>", "[-5] HP when healing"],
         "column": 27,
         "row": 1
 	},
 	{
-		"name": "Training II", // Armory
+		"name": "Experience II", // Armory
 		"prerequisites": ["Training I", "Training K"],
 		"uniques": ["[+10]% XP gained from combat"],
         "column": 26,
         "row": 2
 	},
 	{
-		"name": "Training III", // Military Academy
+		"name": "Experience III", // Military Academy
 		"prerequisites": ["Training II"],
 		"uniques": ["[+15]% XP gained from combat"],
         "column": 26,

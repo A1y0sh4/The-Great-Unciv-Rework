@@ -185,7 +185,7 @@
 		"strength": 12,
 		"cost": 50,
 		"requiredTech": "Sailing",
-		"uniques": ["[+15]% Strength <vs [Water] units>", "[-30] HP <in [Water] tiles>"],
+		"uniques": ["[+15]% Strength <vs [Water] units>", "[-35] HP <in [Ocean] tiles>"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"

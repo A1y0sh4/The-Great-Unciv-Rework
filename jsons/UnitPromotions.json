@@ -773,7 +773,7 @@
 	},
 	{
 		"name": "Krepost", // Krepost
-		"uniques": ["[+5]% XP gained from combat"]
+		"uniques": ["[+5]% XP gained from combat", "Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>"]
 	},
 	{
 		"name": "Armory", // Armory

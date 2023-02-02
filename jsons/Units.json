@@ -159,7 +159,7 @@
 	{
 		"name": "Work Boats",
 		"unitType": "Civilian Water",
-		"movement": 4,
+		"movement": 3,
 		"cost": 30,
 		"requiredTech": "Sailing",
 		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources", "Uncapturable"]
@@ -167,7 +167,7 @@
 	{
 		"name": "Trireme",
 		"unitType": "Melee Water",
-		"movement": 4,
+		"movement": 3,
 		"strength": 12,
 		"cost": 45,
 		"requiredTech": "Sailing",
@@ -181,11 +181,11 @@
 		"unitType": "Melee Water",
 		"uniqueTo": "Carthage",
 		"replaces": "Trireme",
-		"movement": 4,
+		"movement": 3,
 		"strength": 12,
 		"cost": 50,
 		"requiredTech": "Sailing",
-		"uniques": ["[+15]% Strength <vs [Water] units>", "[-35] HP <in [Ocean] tiles>"],
+		"uniques": ["[+15]% Strength <vs [Water] units>"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"

@@ -773,18 +773,16 @@
 	},
 	{
 		"name": "Krepost", // Krepost
-		"uniques": ["[+5]% XP gained from combat", "Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>"]
+		"uniques": ["[+5]% XP gained from combat", "Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>", "[-5] HP when healing"]
 	},
 	{
 		"name": "Armory", // Armory
-		"uniques": ["[+10]% XP gained from combat"]
-	},
-	{
-		"name": "Armory", // Armory
+		"prerequisites": ["Barracks","Krepost"],
 		"uniques": ["[+10]% XP gained from combat"]
 	},
 	{
 		"name": "Military Academy", // Military Academy
+		"prerequisites": ["Armory"],
 		"uniques": ["[+15]% XP gained from combat"]
-	},
+	}
 ]

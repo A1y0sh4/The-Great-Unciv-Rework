@@ -666,7 +666,7 @@
 		"unitTypes": ["Sword", "Gunpowder", "Mounted", "Melee Water","Ranged Water","Armored", "Submarine", "Fighter", "Bomber","Archery","Ranged Gunpowder","Siege", "Scout", "Helicopter"],
         "column": 26,
         "row": 3
-	}
+	},
 
 
 	// Water ranged and air units

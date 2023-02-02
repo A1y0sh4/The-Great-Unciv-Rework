@@ -6,7 +6,7 @@
 		"food": 1,
 		"gold": 1,
 		"movementCost": 1,
-		"uniques": ["Units ending their turn on this terrain take [50] damage"],
+		"uniques": ["Units ending their turn on this terrain take [50] damage <before discovering [Astronomy]>"],
 		"RGB": [45,108,145]
 	},
 	{

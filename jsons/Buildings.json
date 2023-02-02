@@ -193,7 +193,7 @@
 		"name": "Barracks",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["New [Military] units start with [10] Experience [in this city]", "All newly-trained [Military] units [in this city] receive the [Training K] promotion", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [10] Experience [in this city]", "All newly-trained [Military] units [in this city] receive the [Experience I] promotion", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
 	{
@@ -204,7 +204,7 @@
 		"cost": 50,
 		"maintenance": 1,
 		"uniques": ["[-25]% Culture cost of natural border growth [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]",
-			"New [Military] units start with [10] Experience [in this city]", "All newly-trained [Military] units [in this city] receive the [Training I] promotion", "Destroyed when the city is captured"],
+			"New [Military] units start with [10] Experience [in this city]", "All newly-trained [Military] units [in this city] receive the [Experience Krepost] promotion", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
 	{
@@ -663,7 +663,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredBuilding": "Barracks",
-		"uniques": ["New [Military] units start with [10] Experience [in this city]", "All newly-trained [Military] units [in this city] receive the [Training II] promotion", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [10] Experience [in this city]", "All newly-trained [Military] units [in this city] receive the [Experience II] promotion", "Destroyed when the city is captured"],
 		"requiredTech": "Steel"
 	},
 
@@ -908,7 +908,7 @@
 		"hurryCostModifier": 0,
 		"maintenance": 1,
 		"requiredBuilding": "Armory",
-		"uniques": ["New [Military] units start with [10] Experience [in this city]", "All newly-trained [Military] units [in this city] receive the [Training III] promotion", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [10] Experience [in this city]", "All newly-trained [Military] units [in this city] receive the [Experience III] promotion", "Destroyed when the city is captured"],
 		"requiredTech": "Military Science"
 	},
 	{

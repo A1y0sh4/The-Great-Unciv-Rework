@@ -185,7 +185,7 @@
 		"strength": 12,
 		"cost": 50,
 		"requiredTech": "Sailing",
-		"uniques": ["[-50] HP when healing <in [Ocean] tiles>"],
+		"uniques": ["Units ending their turn on [Ocean] tiles take [50] damage"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"

@@ -182,10 +182,10 @@
 		"uniqueTo": "Carthage",
 		"replaces": "Trireme",
 		"movement": 3,
-		"strength": 13,
+		"strength": 12,
 		"cost": 50,
 		"requiredTech": "Sailing",
-		"uniques": ["[-50] HP when healing <in [Ocean] tiles>"],
+		"uniques": ["May heal outside of friendly territory", "[-50] HP when healing <in [Ocean] tiles>"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"

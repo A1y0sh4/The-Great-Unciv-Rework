@@ -204,7 +204,7 @@
 		"cost": 50,
 		"maintenance": 1,
 		"uniques": ["[-25]% Culture cost of natural border growth [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]",
-			"New [Military] units start with [10] Experience [in this city]", "All newly-trained [Military] units [in this city] receive the [Quick Study Krepost] promotion", "Destroyed when the city is captured"],
+			"New [Military] units start with [10] Experience [in this city]", "All newly-trained [Military] units [in this city] receive the [March I] promotion", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
 	{

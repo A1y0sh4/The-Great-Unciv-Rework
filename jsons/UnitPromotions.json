@@ -766,5 +766,25 @@
 	{
 		"name": "Brute",
 		"uniques": ["Heals [20] damage if it kills a unit", "[-10] HP when healing"]
-	}
+	},
+	{
+		"name": "Barracks", // Barracks
+		"uniques": ["[+5]% XP gained from combat"]
+	},
+	{
+		"name": "Krepost", // Krepost
+		"uniques": ["[+5]% XP gained from combat"]
+	},
+	{
+		"name": "Armory", // Armory
+		"uniques": ["[+10]% XP gained from combat"]
+	},
+	{
+		"name": "Armory", // Armory
+		"uniques": ["[+10]% XP gained from combat"]
+	},
+	{
+		"name": "Military Academy", // Military Academy
+		"uniques": ["[+15]% XP gained from combat"]
+	},
 ]

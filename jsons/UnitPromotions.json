@@ -651,14 +651,14 @@
 	},
 	{
 		"name": "Armory", // Armory
-
+		"prerequisites": ["Barracks", "Krepost"],
 		"uniques": ["[+10]% XP gained from combat"],
         "column": 26,
         "row": 2
 	},
 	{
 		"name": "Military Academy", // Military Academy
-
+		"prerequisites": ["Armory"],
 		"uniques": ["[+15]% XP gained from combat"],
         "column": 26,
         "row": 3

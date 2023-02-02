@@ -390,7 +390,7 @@
             {
                 "name": "Mercantilism",
                 "uniques": [
-                    "[Gold] cost of purchasing items in cities [-30]%",
+                    "[Gold] cost of purchasing items in cities [-15]%",
                     "[+1 Science] from all [Gold] buildings"
                 ],
                 "requires": ["Trade Unions"],

@@ -11,7 +11,7 @@
         "startingMilitaryUnit": "Warrior",
         "settlerPopulation": 1,
         "baseUnitBuyCost": 200,
-        "embarkDefense": 3,
+        "embarkDefense": 4,
         "startPercent": 0,
         "citySound": "cityAncient",
         "friendBonus": {
@@ -41,7 +41,7 @@
         "startingCulture": 100,
         "settlerPopulation": 1,
         "baseUnitBuyCost": 200,
-        "embarkDefense": 4,
+        "embarkDefense": 6,
         "startPercent": 10,
         "citySound": "cityClassical",
         "friendBonus": {
@@ -76,7 +76,7 @@
         // So we just write down the entire long list (sorted by era!) every time instead.
         "startingObsoleteWonders": ["Temple of Artemis", "Stonehenge", "The Great Library", "Mausoleum of Halicarnassus", "The Pyramids", "Statue of Zeus"],
         "baseUnitBuyCost": 200,
-        "embarkDefense": 6,
+        "embarkDefense": 8,
         "startPercent": 25,
         "citySound": "cityMedieval",
         "friendBonus": {
@@ -109,7 +109,7 @@
         "startingObsoleteWonders": ["Temple of Artemis", "Stonehenge", "The Great Library", "Mausoleum of Halicarnassus", "The Pyramids", "Statue of Zeus",
             "The Great Lighthouse", "Hanging Gardens", "Terracotta Army", "The Oracle", "Petra", "Great Wall", "Colossus"],
         "baseUnitBuyCost": 300,
-        "embarkDefense": 8,
+        "embarkDefense": 10,
         "startPercent": 37,
         "citySound": "cityRenaissance",
         "friendBonus": {
@@ -144,7 +144,7 @@
             "The Great Lighthouse", "Hanging Gardens", "Terracotta Army", "The Oracle", "Petra", "Great Wall", "Colossus",
             "Hagia Sophia", "Chichen Itza", "Machu Picchu", "Angkor Wat", "Alhambra", "Notre Dame"],
         "baseUnitBuyCost": 400,
-        "embarkDefense": 10,
+        "embarkDefense": 28,
         "startPercent": 50,
         "citySound": "cityIndustrial",
         "friendBonus": {
@@ -184,7 +184,7 @@
             "Hagia Sophia", "Chichen Itza", "Machu Picchu", "Angkor Wat", "Alhambra", "Notre Dame",
             "Sistine Chapel", "Forbidden Palace", "Leaning Tower of Pisa", "Himeji Castle", "Taj Mahal", "Porcelain Tower", "Kremlin"],
         "baseUnitBuyCost": 600,
-        "embarkDefense": 13,
+        "embarkDefense": 36,
         "startPercent": 65,
         "citySound": "cityModern",
         "friendBonus": {
@@ -225,7 +225,7 @@
             "Sistine Chapel", "Forbidden Palace", "Leaning Tower of Pisa", "Himeji Castle", "Taj Mahal", "Porcelain Tower", "Kremlin",
             "The Louvre", "Big Ben", "Brandenburg Gate"],
         "baseUnitBuyCost": 800,
-        "embarkDefense": 16,
+        "embarkDefense": 40,
         "startPercent": 65,
         "citySound": "cityAtomic",
         "friendBonus": {
@@ -267,7 +267,7 @@
             "The Louvre", "Big Ben", "Brandenburg Gate",
             "Eiffel Tower", "Statue of Liberty", "Neuschwanstein", "Cristo Redentor"],
         "baseUnitBuyCost": 1000,
-        "embarkDefense": 20,
+        "embarkDefense": 52,
         "startPercent": 80,
 
         "citySound": "cityInformation",
@@ -313,7 +313,7 @@
             "The Louvre", "Big Ben", "Brandenburg Gate",
             "Eiffel Tower", "Statue of Liberty", "Neuschwanstein", "Cristo Redentor"],
         "baseUnitBuyCost": 1000,
-        "embarkDefense": 25,
+        "embarkDefense": 60,
         "startPercent": 80,
         "citySound": "cityFuture",
         "friendBonus": {

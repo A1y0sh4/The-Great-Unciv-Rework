@@ -1,0 +1,39 @@
+
+Game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+
+PromotionIcons/Armory
+  rotate: false
+  xy: 1232, 1913
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+PromotionIcons/Barracks
+  rotate: false
+  xy: 800, 1805
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+PromotionIcons/Krepost
+  rotate: false
+  xy: 1486, 1589
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+PromotionIcons/Military Academy
+  rotate: false
+  xy: 1702, 1481
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+

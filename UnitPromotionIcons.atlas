@@ -1,6 +1,6 @@
 
 UnitPromotionIcons.png
-size: 2048, 2048
+size: 2048, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none

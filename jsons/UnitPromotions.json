@@ -640,30 +640,26 @@
 		{
 		"name": "Barracks", // Barracks
 		"uniques": ["[+5]% XP gained from combat"],
-		"unitTypes": ["Sword", "Gunpowder", "Mounted", "Melee Water","Ranged Water","Armored", "Submarine", "Fighter", "Bomber","Archery","Ranged Gunpowder","Siege", "Scout", "Helicopter"],
         "column": 26,
         "row": 1
 	},
 	{
 		"name": "Krepost", // Krepost
 		"uniques": ["[+5]% XP gained from combat", "Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>", "[-5] HP when healing"],
-		"unitTypes": ["Sword", "Gunpowder", "Mounted", "Melee Water","Ranged Water","Armored", "Submarine", "Fighter", "Bomber","Archery","Ranged Gunpowder","Siege", "Scout", "Helicopter"],
         "column": 27,
         "row": 1
 	},
 	{
 		"name": "Armory", // Armory
-		"prerequisites": ["Barracks","Krepost"],
+
 		"uniques": ["[+10]% XP gained from combat"],
-		"unitTypes": ["Sword", "Gunpowder", "Mounted", "Melee Water","Ranged Water","Armored", "Submarine", "Fighter", "Bomber","Archery","Ranged Gunpowder","Siege", "Scout", "Helicopter"],
         "column": 26,
         "row": 2
 	},
 	{
 		"name": "Military Academy", // Military Academy
-		"prerequisites": ["Armory"],
+
 		"uniques": ["[+15]% XP gained from combat"],
-		"unitTypes": ["Sword", "Gunpowder", "Mounted", "Melee Water","Ranged Water","Armored", "Submarine", "Fighter", "Bomber","Archery","Ranged Gunpowder","Siege", "Scout", "Helicopter"],
         "column": 26,
         "row": 3
 	},

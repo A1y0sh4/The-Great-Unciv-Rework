@@ -373,7 +373,7 @@
             {
                 "name": "Trade Unions",
                 "uniques": [
-                    "[-33]% maintenance on road & railroads",
+                    "[-25]% maintenance on road & railroads",
                     "[+2 Gold] from every [Harbor]",
                     "[+2 Gold] from every [Seaport]"
                 ],

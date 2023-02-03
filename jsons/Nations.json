@@ -765,7 +765,7 @@
 		"uniques": ["Cannot build [Archer] units",
 			    "Units ignore terrain costs when moving into any tile with Hills",
 			    "[-20]% tile improvement construction time <in [Hill] tiles>",
-			    "No Maintenance costs for improvements <within [1] tiles of a [Mountain]>"],
+			    "[-80]% maintenance on road & railroads <within [1] tiles of a [Mountain]>"],
 		"cities": ["Cuzco","Tiwanaku","Machu","Ollantaytambo","Corihuayrachina","Huamanga","Rumicucho","Vilcabamba","Vitcos",
 			"Andahuaylas","Ica","Arequipa","Nasca","Atico","Juli","Chuito","Chuquiapo","Huanuco Pampa","Tamboccocha",
 			"Huaras","Riobamba","Caxamalca","Sausa","Tambo Colorado","Huaca","Tumbes","Chan Chan","Sipan","Pachacamac",

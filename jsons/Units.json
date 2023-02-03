@@ -1315,7 +1315,7 @@
 
 	{
 		"name": "Marine",
-		"unitType": "Gunpowder",
+		"unitType": "Scout",
 		"movement": 2,
 		"strength": 65,
 		"cost": 400,
@@ -1387,7 +1387,7 @@
 	},
 	{
 		"name": "Paratrooper",
-		"unitType": "Gunpowder",
+		"unitType": "Scout",
 		"movement": 2,
 		"strength": 65,
 		"cost": 375,

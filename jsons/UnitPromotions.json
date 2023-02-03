@@ -229,7 +229,7 @@
 	},
 	{
 		"name": "Survivalism I",
-		"uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "[+25]% Strength <when defending>"],
+		"uniques": ["Unit will heal every turn, even if it performs an action", "[+5] HP when healing <in [Foreign Land] tiles>"],
 		"unitTypes": ["Scout"],
         "column": 9,
         "row": 1
@@ -237,7 +237,7 @@
 	{
 		"name": "Survivalism II",
 		"prerequisites": ["Survivalism I"],
-		"uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "[+25]% Strength <when defending>"],
+		"uniques": ["May withdraw before melee ([75]%)"],
 		"unitTypes": ["Scout"],
         "column": 9,
         "row": 2
@@ -245,7 +245,7 @@
 	{
 		"name": "Survivalism III",
 		"prerequisites": ["Survivalism II"],
-		"uniques": ["Unit will heal every turn, even if it performs an action", "May withdraw before melee ([75]%)"], // This number is not based on any source
+		"uniques": ["[+30]% Strength <when fighting in [Rough terrain] tiles>"],
 		"unitTypes": ["Scout"],
         "column": 9,
         "row": 3

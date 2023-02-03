@@ -618,8 +618,8 @@
             "Scientific": 40
         },
         "uniques": [
-            "[+1 Production] per [2] population [in all cities]",
-	    "[+15]% [Culture] when constructing [All] buildings [in all cities]"
+            "[-25]% maintenance cost for buildings [in all cities]",
+	    "[+1]% [Science] per [2] population [in all cities]",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Freedom]>"
         ],

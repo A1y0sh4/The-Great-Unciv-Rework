@@ -36,7 +36,7 @@
         "startingSettlerCount": 1,
         "startingWorkerCount": 0,
         "startingMilitaryUnitCount": 2,
-        "startingMilitaryUnit": "Spearman",
+        "startingMilitaryUnit": "Warrior",
         "startingGold": 10,
         "startingCulture": 100,
         "settlerPopulation": 1,

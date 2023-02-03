@@ -357,7 +357,7 @@
             "Domination": 20,
             "Scientific": 30
         },
-        "uniques": ["[+50]% [Gold] [in capital]", "[+1 Gold] from all [Gold] buildings"],
+        "uniques": ["[+50]% [Gold] [in capital]"],
         "policies": [
             {
                 "name": "Naval Tradition",
@@ -389,10 +389,7 @@
             },
             {
                 "name": "Mercantilism",
-                "uniques": [
-                    "[Gold] cost of purchasing items in cities [-15]%",
-                    "[+1 Science] from all [Gold] buildings"
-                ],
+                "uniques": ["[+1 Science] from all [Gold] buildings", "[+1 Gold] from all [Gold] buildings"],
                 "requires": ["Trade Unions"],
                 "row": 2,
                 "column": 4
@@ -622,7 +619,7 @@
         },
         "uniques": [
             "[+1 Production] per [2] population [in all cities]",
-	    "[8] units cost no maintenance"
+	    "[+15]% Culture when constructing [All] buildings [in all cities]"
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Freedom]>"
         ],

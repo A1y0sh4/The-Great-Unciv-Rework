@@ -762,7 +762,7 @@
 		"outerColor": [255,184,33],
 		"innerColor": [3,115,86],
 		"uniqueName": "Great Andean Road",
-		"uniques": ["Units ignore terrain costs when moving into any tile with Hills",
+		"uniques": ["Cannot build [Archer] units", "Units ignore terrain costs when moving into any tile with Hills",
 			"[-50]% maintenance on road & railroads",
 			"[-20]% tile improvement construction time <in [Hill] tiles>",
 			"[+1] Movement <within [1] tiles of a [Mountain]> <in [Friendly Land] tiles>"],

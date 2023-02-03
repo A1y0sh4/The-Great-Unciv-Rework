@@ -206,7 +206,7 @@
 	// Scout
 	{
 		"name": "Scouting I",
-		"uniques": ["[+1] Sight"],
+		"uniques": ["Ignores Zone of Control", "[+5] XP <in [Foreign Land] tiles>"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 1
@@ -228,6 +228,12 @@
         "row": 3
 	},
 	{
+		"name": "Ignore terrain cost",
+		"prerequisites": ["Scouting II", "Survivalism II"],
+		"uniques": ["Ignores terrain cost"],
+		"unitTypes": ["Scout"]
+	},
+	{
 		"name": "Survivalism I",
 		"uniques": ["Unit will heal every turn, even if it performs an action", "[+5] HP when healing <in [Foreign Land] tiles>"],
 		"unitTypes": ["Scout"],
@@ -237,7 +243,7 @@
 	{
 		"name": "Survivalism II",
 		"prerequisites": ["Survivalism I"],
-		"uniques": ["May withdraw before melee ([75]%)"],
+		"uniques": ["[+25]% Strength <when fighting in [Rough terrain] tiles>", "May withdraw before melee ([25]%)"],
 		"unitTypes": ["Scout"],
         "column": 9,
         "row": 2
@@ -245,7 +251,7 @@
 	{
 		"name": "Survivalism III",
 		"prerequisites": ["Survivalism II"],
-		"uniques": ["[+30]% Strength <when fighting in [Rough terrain] tiles>"],
+		"uniques": ["Invisible to non-adjacent units", "Can move after attacking"],
 		"unitTypes": ["Scout"],
         "column": 9,
         "row": 3
@@ -720,10 +726,6 @@
 	{
 		"name": "Slinger Withdraw", // only for Slinger and subsequent upgrades
 		"uniques": ["May withdraw before melee ([80]%)", "Can move after attacking"]
-	},
-	{
-		"name": "Ignore terrain cost",
-		"uniques": ["Ignores terrain cost"]
 	},
 	{
 		"name": "Pictish Courage", // only for Pictish Warrior and subsequent upgrades

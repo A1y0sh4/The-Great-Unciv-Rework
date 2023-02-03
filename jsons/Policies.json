@@ -619,7 +619,7 @@
         },
         "uniques": [
             "[+1 Production] per [2] population [in all cities]",
-	    "[+15]% Culture when constructing [All] buildings [in all cities]"
+	    "[+15]% [Culture] when constructing [All] buildings [in all cities]"
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Freedom]>"
         ],

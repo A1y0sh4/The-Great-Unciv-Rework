@@ -7,7 +7,7 @@
         "[-33]% Strength <for [All] units> <when below [-10] Happiness>",
         "Cannot build [Settler] units <when below [-10] Happiness>",
         "Rebel units may spawn <when below [-15] Happiness>",
-        "[+25]% maintenance on road & railroads",
+        "[+50]% maintenance on road & railroads",
         "[+100]% maintenance costs <for [Military] units>",
         "[+25]% maintenance costs <for [Water] units>",
         "[+50]% maintenance costs <for [Air] units>",

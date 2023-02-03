@@ -357,7 +357,7 @@
             "Domination": 20,
             "Scientific": 30
         },
-        "uniques": ["[+50]% [Gold] [in capital]"],
+        "uniques": ["[+25]% [Gold] [in capital]"],
         "policies": [
             {
                 "name": "Naval Tradition",
@@ -389,7 +389,7 @@
             },
             {
                 "name": "Mercantilism",
-                "uniques": ["[+1 Science] from all [Gold] buildings", "[+1 Gold] from all [Gold] buildings"],
+                "uniques": ["[+1 Science] from all [Gold] buildings", "Retain [50]% of the happiness from a luxury after the last copy has been traded away"],
                 "requires": ["Trade Unions"],
                 "row": 2,
                 "column": 4

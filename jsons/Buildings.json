@@ -787,7 +787,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Harbor",
 		"uniques": ["[+1 Production, +1 Gold] from [Water resource] tiles [in this city]",
-			"Must be next to [Coast]", "[+15]% Production when constructing [Water] units [in this city]", , "All newly-trained [{Military} {Water}] units [in this city] receive the [Quick Study II] promotion"],
+			"Must be next to [Coast]", "[+15]% Production when constructing [Water] units [in this city]", "All newly-trained [{Military} {Water}] units [in this city] receive the [Quick Study II] promotion"],
 		"requiredTech": "Navigation"
 	},
 	{

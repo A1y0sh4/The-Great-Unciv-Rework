@@ -9,9 +9,9 @@
         "Rebel units may spawn <when below [-15] Happiness>",
         "[+150]% maintenance costs <for [Military] units>",
         "[+150]% maintenance costs <for [Water] units>",
+        "[+150]% maintenance costs <for [Air] units>",
         "[+150]% maintenance costs <for [Armored] units>",
-        "[+150]% maintenance costs <for [Fighter] units>",
-        "[+150]% maintenance costs <for [Bomber] units>"]
+        "[+150]% maintenance costs <for [Helicopter] units>"]
     
         // TODO: Implement the uniques below
         // "[+20]% [Culture] [in all cities] <during a golden age>",

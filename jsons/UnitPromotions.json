@@ -164,9 +164,9 @@
 	},
 	{
 		"name": "Blitz",
-		"prerequisites": ["Shock III","Drill III"],
+		"prerequisites": ["Shock III","Drill III","Scouting III","Survivalism III"],
 		"uniques": ["[1] additional attacks per turn"],
-		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Scout"],
         "column": 6,
         "row": 4
 	},
@@ -188,9 +188,9 @@
 	},
 	{
 		"name": "Medic",
-		"prerequisites": ["Shock I", "Drill I", "Scouting II", "Survivalism II"],
+		"prerequisites": ["Shock I", "Drill I"],
 		"uniques": ["All adjacent units heal [+5] HP when healing"],
-		"unitTypes": ["Sword","Gunpowder","Mounted","Scout"],
+		"unitTypes": ["Sword","Gunpowder","Mounted"],
         "column": 10, // after scout base
         "row": 1
 	},
@@ -198,7 +198,7 @@
 		"name": "Medic II",
 		"prerequisites": ["Medic"],
 		"uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "All adjacent units heal [+5] HP when healing"],
-		"unitTypes": ["Sword","Gunpowder","Mounted","Scout"],
+		"unitTypes": ["Sword","Gunpowder","Mounted"],
         "column": 10,
         "row": 2
 	},
@@ -206,7 +206,7 @@
 	// Scout
 	{
 		"name": "Scouting I",
-		"uniques": ["Ignores Zone of Control", "[+5] XP <in [Foreign Land] tiles>"],
+		"uniques": ["Ignores Zone of Control", "[+5] XP gained from combat <in [Foreign Land] tiles>"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 1
@@ -214,7 +214,7 @@
 	{
 		"name": "Scouting II",
 		"prerequisites": ["Scouting I"],
-		"uniques": ["[+1] Sight"],
+		"uniques": ["Transfer Movement to [Civilian]", "No movement cost to pillage"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 2
@@ -222,7 +222,7 @@
 	{
 		"name": "Scouting III",
 		"prerequisites": ["Scouting II"],
-		"uniques": ["[+1] Movement"],
+		"uniques": ["[+1] Movement", "Can see invisible [Land] units"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 3
@@ -581,7 +581,7 @@
 	{
 		"name": "Cover I",
 		"uniques": ["[+33]% Strength <vs [Ranged] units> <when defending>"],
-		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Scout"],
         "column": 24,
         "row": 1
 	},
@@ -589,7 +589,7 @@
 		"name": "Cover II",
 		"prerequisites": ["Cover I"],
 		"uniques": ["[+33]% Strength <vs [Ranged] units> <when defending>"],
-		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Scout"],
         "column": 24,
         "row": 2
 	},
@@ -651,7 +651,7 @@
 	},
 	{
 		"name": "March I", // Krepost
-		"uniques": ["[+5]% XP gained from combat", "Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>", "[-5] HP when healing", "[+25]% maintenance costs"],
+		"uniques": ["[+5]% XP gained from combat", "Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>", "[+25]% maintenance costs"],
         "column": 28,
         "row": 1
 	},

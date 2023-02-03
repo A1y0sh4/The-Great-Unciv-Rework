@@ -20,7 +20,7 @@
 		"hurryCostModifier": 20
 	},
 	{
-		"name": "[Ancient era] Scout",
+		"name": "Scout I",
 		"unitType": "Scout",
 		"movement": 2,
 		"strength": 5,

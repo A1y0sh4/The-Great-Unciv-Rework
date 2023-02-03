@@ -124,7 +124,7 @@
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
-		"promotions": ["Slinger Withdraw", "Scouting I"],
+		"promotions": ["Slinger Withdraw"],
 		"attackSound": "arrow"
 	},
 	{

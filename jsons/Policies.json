@@ -265,7 +265,7 @@
             },
             {
                 "name": "Free Religion",
-                "uniques": ["[100]% of excess happiness converted to [Culture]"],
+                "uniques": ["[50]% of excess happiness converted to [Culture]"],
                 "requires": ["Mandate Of Heaven", "Reformation"],
                 "row": 3,
                 "column": 4

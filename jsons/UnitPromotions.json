@@ -725,7 +725,7 @@
 	},
 	{
 		"name": "Slinger Withdraw", // only for Slinger and subsequent upgrades
-		"uniques": ["May withdraw before melee ([80]%)", "Can move after attacking"]
+		"uniques": ["May withdraw before melee ([50]%)", "Can move after attacking"]
 	},
 	{
 		"name": "Pictish Courage", // only for Pictish Warrior and subsequent upgrades

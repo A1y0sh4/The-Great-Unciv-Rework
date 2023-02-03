@@ -486,7 +486,7 @@
         },
         "uniques": [
             "[+25]% Great Person generation [in all cities]",
-	    "[-10]% Culture cost of adopting new Policies",
+	    "[50]% of excess happiness converted to [Culture]",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Order]>"
         ],
@@ -619,7 +619,7 @@
         },
         "uniques": [
             "[-25]% maintenance cost for buildings [in all cities]",
-	    "[+1]% [Science] from every [2] population [in all cities]",
+	    "[+1 Culture] from every [2] population [in all cities]",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Freedom]>"
         ],

@@ -20,7 +20,7 @@
 		"hurryCostModifier": 20
 	},
 	{
-		"name": "Scout I",
+		"name": "Scout",
 		"unitType": "Scout",
 		"movement": 2,
 		"strength": 5,

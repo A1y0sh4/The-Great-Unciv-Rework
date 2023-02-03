@@ -71,7 +71,7 @@
 				"name": "Writing",
 				"row": 3,
 				"prerequisites": ["Pottery"],
-				"uniques": ["[-15]% maintenance cost for buildings [in all cities]"], 
+				"uniques": ["[-5]% maintenance cost for buildings [in all cities]"], 
 				"quote": "'He who destroys a good book kills reason itself.' - John Milton"
 			},
 			{
@@ -125,7 +125,7 @@
 				"name": "Mathematics",
 				"row": 7,
 				"prerequisites": ["The Wheel"],
-				"uniques": ["[-15]% maintenance cost for buildings [in all cities]"], 
+				"uniques": ["[-10]% maintenance cost for buildings [in all cities]"], 
 				"quote": "'Mathematics is the gate and key to the sciences.' - Roger Bacon"
 			},
 			{
@@ -322,7 +322,7 @@
 				"name": "Economics",
 				"row": 6,
 				"prerequisites": ["Banking","Printing Press"],
-				"uniques": ["[-15]% maintenance cost for buildings [in all cities]"], 
+				"uniques": ["[-20]% maintenance cost for buildings [in all cities]"], 
 				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
 			},
 			{

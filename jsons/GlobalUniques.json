@@ -6,8 +6,12 @@
         "[-50]% [Production] [in all cities] <when below [-10] Happiness>",
         "[-33]% Strength <for [All] units> <when below [-10] Happiness>",
         "Cannot build [Settler] units <when below [-10] Happiness>",
-        "Rebel units may spawn <when below [-20] Happiness>",
-        "[+250]% maintenance costs <for [Military] units>"]
+        "Rebel units may spawn <when below [-15] Happiness>",
+        "[+250]% maintenance costs <for [Military] units>",
+        "[+250]% maintenance costs <for [Water] units>",
+        "[+250]% maintenance costs <for [Armored] units>",
+        "[+250]% maintenance costs <for [Fighter] units>",
+        "[+250]% maintenance costs <for [Bomber] units>"]
     
         // TODO: Implement the uniques below
         // "[+20]% [Culture] [in all cities] <during a golden age>",

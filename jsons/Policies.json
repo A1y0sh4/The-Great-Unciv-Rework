@@ -265,7 +265,7 @@
             },
             {
                 "name": "Free Religion",
-                "uniques": ["[-10]% Culture cost of adopting new Policies"],
+                "uniques": ["[100]% of excess happiness converted to [Culture]"],
                 "requires": ["Mandate Of Heaven", "Reformation"],
                 "row": 3,
                 "column": 4
@@ -486,7 +486,7 @@
         },
         "uniques": [
             "[+25]% Great Person generation [in all cities]",
-	    "[50]% of excess happiness converted to [Culture]",
+	    "[-10]% Culture cost of adopting new Policies",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Order]>"
         ],
@@ -619,7 +619,7 @@
         },
         "uniques": [
             "[-25]% maintenance cost for buildings [in all cities]",
-	    "[+1 Culture] from every [2] population [in all cities]",
+	    "[+10]% [Culture] [in all cities with a garrison]",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Freedom]>"
         ],

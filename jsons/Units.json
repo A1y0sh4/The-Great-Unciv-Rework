@@ -258,12 +258,13 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "arrow"
 	},
 	{
 		"name": "Horde",
 		"unitType": "Mounted",
+		"range": 1,
 		"uniqueTo": "Barbarians",
 		"replaces": "Chariot Archer",
 		"movement": 3,
@@ -271,8 +272,10 @@
 		"rangedStrength": 10,
 		"cost": 50,
 		"requiredTech": "The Wheel",
+		"requiredResource": "Horses",
 		"obsoleteTech": "Chivalry",
 		"upgradesTo": "Knight",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>"],
 		"promotions": ["Brute"],
 		"attackSound": "arrow"
 	},
@@ -424,7 +427,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},

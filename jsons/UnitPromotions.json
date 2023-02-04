@@ -222,7 +222,7 @@
 	{
 		"name": "Scouting III",
 		"prerequisites": ["Scouting II"],
-		"uniques": ["[-10]% Strenght "],
+		"uniques": ["[-10]% Strength <for [Enemy] units> <within [2] tiles of []>"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 3

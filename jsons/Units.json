@@ -27,7 +27,7 @@
 		"cost": 25,
 		"obsoleteTech": "Guilds",
 		"upgradesTo": "Skirmisher",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit", "This Unit gains [10] XP <in [Ruins] tiles>"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -40,7 +40,7 @@
 		"requiredTech": "Guilds",
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Ranger",
-		"uniques": [],
+		"uniques": ["This Unit gains [10] XP <in [Ruins] tiles>"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -53,7 +53,7 @@
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Radar",
 		"upgradesTo": "Paratrooper",
-		"uniques": [],
+		"uniques": ["This Unit gains [10] XP <in [Ruins] tiles>"],
 		"attackSound": "nonmetalhit"
 	},
 	{

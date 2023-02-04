@@ -170,7 +170,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "[Barbarian] Skirmisher",
+		"name": "Outlaw",
 		"unitType": "Archery",
 		"uniqueTo": "Barbarians",
 		"replaces": "Archer",
@@ -259,6 +259,21 @@
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Horde",
+		"unitType": "Mounted",
+		"uniqueTo": "Barbarians",
+		"replaces": "Chariot Archer",
+		"movement": 3,
+		"strength": 6,
+		"rangedStrength": 10,
+		"cost": 50,
+		"requiredTech": "The Wheel",
+		"obsoleteTech": "Chivalry",
+		"upgradesTo": "Knight",
+		"promotions": ["Brute"],
 		"attackSound": "arrow"
 	},
 	{

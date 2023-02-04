@@ -170,7 +170,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Skirmisher",
+		"name": "[Barbarian] Skirmisher",
 		"unitType": "Archery",
 		"uniqueTo": "Barbarians",
 		"replaces": "Archer",

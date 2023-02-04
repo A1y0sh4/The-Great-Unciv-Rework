@@ -206,7 +206,7 @@
 	// Scout
 	{
 		"name": "Scouting I",
-		"uniques": ["Ignores Zone of Control", "This Unit gains [10] XP <in [Ruins] tiles>"],
+		"uniques": ["Ignores Zone of Control", "Gain [10] [XP]"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 1

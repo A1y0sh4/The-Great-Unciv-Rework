@@ -117,7 +117,7 @@
     {
         "name": "Stone Circles",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Quarry]"]
+        "uniques": ["[+1 Faith] from every [Stone]"]
     },
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
     {

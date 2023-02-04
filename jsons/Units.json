@@ -27,7 +27,7 @@
 		"cost": 25,
 		"obsoleteTech": "Guilds",
 		"upgradesTo": "Skirmisher",
-		"promotions": [],
+		"promotions": ["Scouting I"],
 		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Ignores Zone of Control", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit"
 	},
@@ -41,7 +41,7 @@
 		"requiredTech": "Guilds",
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Ranger",
-		"promotions": [],
+		"promotions": ["Scouting I"],
 		"uniques": ["Ignores Zone of Control"],
 		"attackSound": "nonmetalhit"
 	},
@@ -55,7 +55,7 @@
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Radar",
 		"upgradesTo": "Paratrooper",
-		"promotions": [],
+		"promotions": ["Scouting I"],
 		"uniques": ["Ignores Zone of Control"],
 		"attackSound": "nonmetalhit"
 	},
@@ -1367,7 +1367,7 @@
 		"cost": 400,
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Amphibious"],
-		"uniques": ["Normal vision when embarked", "Defense bonus when embarked"],
+		"uniques": ["Normal vision when embarked", "Defense bonus when embarked", "Ignores Zone of Control"],
 		"attackSound": "shot"
 	},
 	{

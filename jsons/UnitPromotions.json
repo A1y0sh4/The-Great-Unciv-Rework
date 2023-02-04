@@ -222,7 +222,7 @@
 	{
 		"name": "Scouting III",
 		"prerequisites": ["Scouting II"],
-		"uniques": ["[+1] Movement", "Can see invisible [Land] units"],
+		"uniques": ["[+1] Sight", "Can see invisible [Land] units"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 3
@@ -230,7 +230,7 @@
 	{
 		"name": "Ignore terrain cost",
 		"prerequisites": ["Scouting II", "Survivalism II"],
-		"uniques": ["Ignores terrain cost"],
+		"uniques": ["[+1] Movement", "Ignores terrain cost"],
 		"unitTypes": ["Scout"]
 	},
 	{

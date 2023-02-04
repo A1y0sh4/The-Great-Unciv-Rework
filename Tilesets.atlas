@@ -1432,6 +1432,13 @@ TileSets/FantasyHex/Units/Archer
   orig: 32, 28
   offset: 0, 0
   index: -1
+  TileSets/FantasyHex/Units/Outlaw
+  rotate: false
+  xy: 524, 270
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Artillery
   rotate: false
   xy: 1369, 1412
@@ -1852,6 +1859,13 @@ TileSets/FantasyHex/Units/Horse Archer
   orig: 32, 28
   offset: 0, 0
   index: -1
+  TileSets/FantasyHex/Units/Horde
+  rotate: false
+  xy: 532, 1077
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Horseman
   rotate: false
   xy: 492, 1037
@@ -2209,6 +2223,13 @@ TileSets/FantasyHex/Units/Rifleman
   orig: 32, 28
   offset: 0, 0
   index: -1
+  TileSets/FantasyHex/Units/Ranger
+  rotate: false
+  xy: 488, 412
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Rocket Artillery
   rotate: false
   xy: 444, 115
@@ -2316,7 +2337,7 @@ TileSets/FantasyHex/Units/Sipahi
   index: -1
 TileSets/FantasyHex/Units/Skirmisher
   rotate: false
-  xy: 524, 270
+  xy: 1297, 1475
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -4827,6 +4848,13 @@ TileSets/HexaRealm/Units/Horse Archer
   orig: 64, 63
   offset: 0, 0
   index: -1
+  TileSets/HexaRealm/Units/Horde
+  rotate: false
+  xy: 1700, 1448
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Horseman
   rotate: false
   xy: 1700, 1377
@@ -5142,6 +5170,13 @@ TileSets/HexaRealm/Units/Rifleman
   orig: 64, 56
   offset: 0, 0
   index: -1
+  TileSets/HexaRealm/Units/Ranger
+  rotate: false
+  xy: 1585, 1264
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Rocket Artillery
   rotate: false
   xy: 1369, 1208
@@ -5227,6 +5262,13 @@ TileSets/HexaRealm/Units/Sipahi
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Skirmisher
+  rotate: false
+  xy: 220, 1208
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+  TileSets/HexaRealm/Units/Outlaw
   rotate: false
   xy: 1077, 1144
   size: 64, 56

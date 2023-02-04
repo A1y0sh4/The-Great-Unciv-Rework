@@ -28,7 +28,7 @@
 		"obsoleteTech": "Guilds",
 		"upgradesTo": "Skirmisher",
 		"promotions": [],
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Gain [10] XP <in [Ruins] tiles>", "Never appears as a Barbarian unit"],
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit"
 	},
 	{

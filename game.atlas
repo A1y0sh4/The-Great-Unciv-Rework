@@ -11,7 +11,7 @@ UnitIcons/Ranger
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Horse Archer
+UnitIcons/Horde
   rotate: false
   xy: 1162, 1481
   size: 100, 100

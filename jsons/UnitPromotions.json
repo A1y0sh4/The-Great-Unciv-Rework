@@ -206,7 +206,7 @@
 	// Scout
 	{
 		"name": "Scouting I",
-		"uniques": ["Ignores Zone of Control", "No movement cost to pillage"],
+		"uniques": ["No movement cost to pillage", "Heals [10] damage if it kills a unit"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 1
@@ -222,7 +222,7 @@
 	{
 		"name": "Scouting III",
 		"prerequisites": ["Scouting II"],
-		"uniques": ["[-10]% Strength <for [Enemy] units> <within [2] tiles of []>"],
+		"uniques": ["[-10]% Strength bonus for [Enemy] units within [2] tiles"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 3

@@ -42,7 +42,7 @@
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Ranger",
 		"promotions": ["Scouting I"],
-		"uniques": ["Ignores Zone of Control"],
+		"uniques": ["Ignores Zone of Control", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -56,7 +56,7 @@
 		"obsoleteTech": "Radar",
 		"upgradesTo": "Paratrooper",
 		"promotions": ["Scouting I"],
-		"uniques": ["Ignores Zone of Control"],
+		"uniques": ["Ignores Zone of Control", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit"
 	},
 	{

@@ -27,8 +27,8 @@
 		"cost": 25,
 		"obsoleteTech": "Guilds",
 		"upgradesTo": "Skirmisher",
-		"promotions": ["Scouting I"],
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": [],
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "This Unit upgrades for free including special upgrades <in [Ruins] tiles>", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit"
 	},
 	{

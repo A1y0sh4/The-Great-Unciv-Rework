@@ -28,7 +28,6 @@
 		"obsoleteTech": "Guilds",
 		"upgradesTo": "Skirmisher",
 		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
-		"promotions": ["Scouting I"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -42,7 +41,6 @@
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Ranger",
 		"uniques": [],
-		"promotions": ["Scouting I"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -56,7 +54,6 @@
 		"obsoleteTech": "Radar",
 		"upgradesTo": "Paratrooper",
 		"uniques": [],
-		"promotions": ["Scouting I"],
 		"attackSound": "nonmetalhit"
 	},
 	{

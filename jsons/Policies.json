@@ -379,7 +379,7 @@
             },
             {
                 "name": "Merchant Navy",
-                "uniques": ["Provides a [Seaport] in your first [4] cities for free", "[+2 Production, +2 Gold] [in all coastal cities]"],
+                "uniques": ["[+2 Gold] from every [Harbor]", "[+2 Gold] from every [Seaport]"],
                 "requires": ["Naval Tradition"],
                 "row": 2,
                 "column": 2

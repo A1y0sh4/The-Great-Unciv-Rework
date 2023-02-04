@@ -1362,7 +1362,7 @@ UnitIcons/Anti-Aircraft Gun
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Anti-Tank Gun
+UnitIcons/Ranger
   rotate: false
   xy: 4, 170
   size: 100, 100
@@ -2111,14 +2111,14 @@ UnitIcons/Ship of the Line
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Sipahi
+UnitIcons/Skirmisher
   rotate: false
   xy: 328, 85
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Skirmisher
+UnitIcons/Outlaw
   rotate: false
   xy: 601, 617
   size: 100, 100

@@ -206,7 +206,7 @@
 	// Scout
 	{
 		"name": "Scouting I",
-		"uniques": ["Ignores Zone of Control", "[+5] XP gained from combat <in [Foreign Land] tiles>", "This Unit gains [10] XP <in [Ancient ruins] tiles>", "This Unit gains [10] XP <in [City ruins] tiles>", "This Unit gains [10] XP <in [Barbarian encampment] tiles>"],
+		"uniques": ["Ignores Zone of Control", "This Unit gains [5] XP <in [Ancient ruins] tiles>", "This Unit gains [10] XP <in [City ruins] tiles>", "This Unit gains [10] XP <in [Barbarian encampment] tiles>"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 1

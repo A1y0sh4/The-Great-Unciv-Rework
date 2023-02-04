@@ -281,16 +281,16 @@
 	// Unbuildable improvements
 	{
 		"name": "City ruins",
-		"type": "Ruin",
+		"type": "Ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Ruin", "Unpillagable", "Provides a random bonus when entered", "Unbuildable", "Will be replaced by automated workers"],
+		"uniques": ["Ruins", "Unpillagable", "Provides a random bonus when entered", "Unbuildable", "Will be replaced by automated workers"],
         "civilopediaText": [{"text":"A bleak reminder of the destruction wreaked by War"}]
 	},
 	{
 		"name": "Ancient ruins",
-		"type": "Ruin",
+		"type": "Ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Ruin", "Unpillagable", "Provides a random bonus when entered", "Unbuildable"]
+		"uniques": ["Ruins", "Unpillagable", "Provides a random bonus when entered", "Unbuildable"]
 	},
 	{
 		"name": "City center",
@@ -303,9 +303,9 @@
 	},
 	{
 		"name": "Barbarian encampment",
-		"type": "Ruin", 
+		"type": "Ruins", 
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Ruin", "Unpillagable", "Unbuildable"],
+		"uniques": ["Ruins", "Unpillagable", "Unbuildable"],
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
 	}
 ]

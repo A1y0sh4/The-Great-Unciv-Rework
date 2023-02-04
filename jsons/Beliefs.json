@@ -13,7 +13,7 @@
     {
         "name": "Desert Folklore",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from every [Desert]"]
+        "uniques": ["[+1 Faith] from [Desert] tiles without [Flood plains] [in this city]"]
     },
     {
         "name": "Faith Healers",

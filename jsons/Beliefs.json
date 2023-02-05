@@ -45,7 +45,7 @@
     {
         "name": "God of War",
         "type": "Pantheon",
-        "uniques": ["Upon capturing a city, receive [10] times its [Culture] production as [Faith] immediately", "May buy [Courthouse] buildings with [Faith] for [2] times their normal Production cost"]
+        "uniques": ["[+10]% Strength <vs [Military] units>"]
     },
     {
         "name": "Goddess of Festivals",

@@ -45,7 +45,7 @@
     {
         "name": "God of War",
         "type": "Pantheon",
-        "uniques": ["[+10]% Strength <vs [Military] units>"]
+        "uniques": ["[+10]% Strength <for [All] units> <vs [Military] units>"]
     },
     {
         "name": "Goddess of Festivals",

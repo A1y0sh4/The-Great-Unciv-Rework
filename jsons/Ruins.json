@@ -1,8 +1,8 @@
 [
     {
         "name": "discover cultural artifacts",
-        "notification": "We have discovered cultural artifacts in the ruins! (+[cultureAmount] culture)",
-        "uniques": ["Gain [20] [Culture]"],
+        "notification": "We have discovered cultural artifacts in the ruins!",
+        "uniques": ["Gain [10]-[30] [Culture]"],
         "color": "#cf8ff7"
     },
     {
@@ -25,12 +25,12 @@
     {
         "name": "survivors (adds population to a city)",
         "notification": "We have found survivors in the ruins! Population added to [cityName].",
-        "uniques": ["[+1]-[+2] population in a random city"], // This can't be easily added to cityFilter, as it is non-deterministic
+        "uniques": ["[+1] population in a random city"], // This can't be easily added to cityFilter, as it is non-deterministic
 		"color": "#81c784"
     },
     {
         "name": "a stash of gold",
-        "notification": "We have found a stash of [goldAmount] Gold in the ruins!",
+        "notification": "",
         "uniques": ["Gain [50]-[100] [Gold]"],
         "color": "#ffeb7f"
     },

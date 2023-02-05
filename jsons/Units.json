@@ -153,6 +153,7 @@
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"promotions": ["Slinger Withdraw"],
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Ignores Zone of Control"],
 		"attackSound": "arrow"
 	},
 	{

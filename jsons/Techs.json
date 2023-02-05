@@ -444,8 +444,9 @@
 				"quote": "'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford"
 			},
 			{
-				"name": "Flight",
+				"name": "Flight", 
 				"row": 6,
+				"uniques": ["[+10]% [Gold] from every [World Wonder]"],
 				"prerequisites": ["Steam Power"],
 				"quote": "'Aeronautics was neither an industry nor a science. It was a miracle.' - Igor Sikorsky"
 			},

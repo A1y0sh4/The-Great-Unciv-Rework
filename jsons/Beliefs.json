@@ -45,7 +45,7 @@
     {
         "name": "God of War",
         "type": "Pantheon",
-        "uniques": ["Earn [50]% of [Military] unit's [Strength] as [Faith] when killed within 4 tiles of a city following this religion"]
+        "uniques": ["Upon capturing a city, receive [10] times its [Culture] production as [Faith] immediately"]
     },
     {
         "name": "Goddess of Festivals",

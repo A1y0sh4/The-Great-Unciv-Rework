@@ -222,7 +222,7 @@
 	{
 		"name": "Scouting III",
 		"prerequisites": ["Scouting II"],
-		"uniques": ["[-10]% Strength <for [Enemy] units>", "[+25]% maintenance costs"],
+		"uniques": ["[-25]% Strength for enemy [All] units in adjacent [All] tiles", "[+25]% maintenance costs"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 3

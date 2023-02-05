@@ -24,7 +24,7 @@
     {
         "name": "Fertility Rites",
         "type": "Pantheon",
-        "uniques": ["[+15]% growth [in this city]"]
+        "uniques": ["[+10]% growth [in this city]"]
         // Preferably I would not have a cityFilter here, but doing so requires no additional implementation
     },
     {
@@ -45,7 +45,7 @@
     {
         "name": "God of War",
         "type": "Pantheon",
-        "uniques": ["[+10]% Strength <for [All] units> <vs [Military] units>"]
+        "uniques": ["[+10]% Strength"]
     },
     {
         "name": "Goddess of Festivals",

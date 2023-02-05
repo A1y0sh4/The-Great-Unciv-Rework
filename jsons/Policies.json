@@ -545,7 +545,7 @@
             "Scientific": 30
         },
         "uniques": [
-            "[-25]% maintenance costs <for [All] units>",
+            "[-25]% maintenance costs <for [Land] units>",
             "Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately",
             "Only available <before adopting [Order]>",
             "Only available <before adopting [Freedom]>"

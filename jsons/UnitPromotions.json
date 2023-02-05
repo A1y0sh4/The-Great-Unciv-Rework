@@ -206,7 +206,7 @@
 	// Scout
 	{
 		"name": "Scouting I",
-		"uniques": ["No movement cost to pillage", "Heals [10] damage if it kills a unit"],
+		"uniques": ["No movement cost to pillage", "Can see over obstacles"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 1

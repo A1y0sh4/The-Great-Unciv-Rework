@@ -273,9 +273,8 @@
             {
                 "name": "Piety Complete",
                 "uniques": [
-                    "[+6 Gold] from every [Holy site]",
-		    "[+3 Culture] [in all cities] <within [3] tiles of a [Holy site]>"
-                ]
+                    "[+1]% [Gold] from every follower, up to [15]% [in all cities] <within [3] tiles of a [Holy site]>",
+		    "[+1]% [Culture] from every follower, up to [15]% [in all cities] <within [3] tiles of a [Holy site]>"]
             }
         ]
     },

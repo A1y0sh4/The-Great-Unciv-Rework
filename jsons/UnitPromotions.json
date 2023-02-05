@@ -206,7 +206,7 @@
 	// Scout
 	{
 		"name": "Scouting I",
-		"uniques": ["No movement cost to pillage", "Can see over obstacles"],
+		"uniques": ["No movement cost to pillage", "[+1] Movement"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 1
@@ -230,7 +230,7 @@
 	{
 		"name": "Ignore terrain cost",
 		"prerequisites": ["Scouting I", "Survivalism I"],
-		"uniques": ["[+1] Movement", "Ignores terrain cost"],
+		"uniques": ["Ignores terrain cost"],
 		"unitTypes": ["Scout"]
 	},
 	{
@@ -605,9 +605,9 @@
 	{
 		"name": "Mobility",
 		"prerequisites": ["Shock II", "Drill II", "Targeting I",
-			"Bombardment I", "Boarding Party I", "Coastal Raider I", "Wolfpack I"],
+			"Bombardment I", "Boarding Party I", "Coastal Raider I", "Wolfpack I", "Ignore terrain cost"],
 		"uniques": ["[+1] Movement", "Ignores Zone of Control"],
-		"unitTypes": ["Sword", "Gunpowder", "Mounted","Melee Water","Ranged Water","Armored", "Submarine"],
+		"unitTypes": ["Sword", "Gunpowder", "Mounted","Melee Water","Ranged Water","Armored", "Submarine", "Scout"],
         "column": 24,
         "row": 3
 	},

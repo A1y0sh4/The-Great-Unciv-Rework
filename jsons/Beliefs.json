@@ -30,7 +30,7 @@
     {
         "name": "God of Craftsman",
         "type": "Pantheon",
-        "uniques": ["[+1 Production] from every [Copper]", "[+1 Production] from every [Iron]"]
+        "uniques": ["[+2 Production] from every [Copper]", "[+2 Production] from every [Iron]"]
     },
     {
         "name": "God of the Open Sky",
@@ -70,7 +70,7 @@
     {
         "name": "Messenger of the Gods",
         "type": "Pantheon",
-        "uniques": ["[+2 Science, +1 Happiness] from each Trade Route"]
+        "uniques": ["[+2 Science] from each Trade Route"]
     },
     {
         "name": "Monument to the Gods",
@@ -112,7 +112,7 @@
     {
         "name": "Sacred Waters",
         "type": "Pantheon",
-        "uniques": ["[+2 Faith, +1 Happiness] in cities on [River] tiles"]
+        "uniques": ["[+2 Faith] in cities on [River] tiles"]
     },
     {
         "name": "Stone Circles",

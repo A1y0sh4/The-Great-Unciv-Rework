@@ -319,7 +319,7 @@
 		"maintenance": 0,
 		"uniques": ["Doubles Gold given to enemy if city is captured"],
 		"faith": 2,
-		"uniques": ["[+1 Happiness] from [All] Wonders [in this city]"]
+		"uniques": ["[+1 Happiness] from [All] wonders [in this city]"]
 		"requiredBuilding": "Shrine",
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy"

@@ -279,11 +279,11 @@
 	{
 		"name": "Hanging Gardens",
 		"greatPersonPoints": {"Great Artist": 1},
-		"food": 6,
+		"food": 5,
 		"culture": 1,
 		"isWonder": true,
 		"requiredTech": "Mathematics",
-		"uniques": ["Gain a free [Garden] [in this city]", "[+10]% growth from every [Garden]"],
+		"uniques": ["Gain a free [Garden] [in this city]", "[+10]% growth [in all cities]"],
 		"quote": "'I think that if ever a mortal heard the word of God it would be in a garden at the cool of the day.' - F. Frankfort Moore"
 	},
 	{

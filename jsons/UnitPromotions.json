@@ -650,12 +650,6 @@
         "row": 1
 	},
 	{
-		"name": "March I", // Krepost
-		"uniques": ["[+5]% XP gained from combat", "Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>", "[+25]% maintenance costs"],
-        "column": 28,
-        "row": 1
-	},
-	{
 		"name": "Quick Study II", // Armory
 		"prerequisites": ["Quick Study I", "March I"],
 		"uniques": ["[+10]% XP gained from combat", "[+25]% maintenance costs"],

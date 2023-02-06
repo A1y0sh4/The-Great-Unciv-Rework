@@ -71,7 +71,7 @@
 				"name": "Writing",
 				"row": 3,
 				"prerequisites": ["Pottery"],
-				"uniques": ["[-5]% maintenance cost for buildings [in all cities]"], 
+				"uniques": ["[-15]% maintenance cost for buildings [in all cities]"], 
 				"quote": "'He who destroys a good book kills reason itself.' - John Milton"
 			},
 			{
@@ -125,7 +125,7 @@
 				"name": "Mathematics",
 				"row": 7,
 				"prerequisites": ["The Wheel"],
-				"uniques": ["[-10]% maintenance cost for buildings [in all cities]"], 
+				"uniques": ["[-15]% maintenance cost for buildings [in all cities]"], 
 				"quote": "'Mathematics is the gate and key to the sciences.' - Roger Bacon"
 			},
 			{
@@ -193,7 +193,7 @@
 				"name": "Civil Service",
 				"row": 5,
 				"prerequisites": ["Currency","Horseback Riding","Drama and Poetry"],
-				"uniques": ["Enables Open Borders agreements", "[-15]% maintenance cost for buildings [in all cities]"],
+				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
 			},
 			{
@@ -446,7 +446,7 @@
 			{
 				"name": "Flight", 
 				"row": 6,
-				"uniques": ["[+2 Gold] from every [World Wonder]"],
+				"uniques": ["[+3]% [Gold] from every [World Wonder]"],
 				"prerequisites": ["Steam Power"],
 				"quote": "'Aeronautics was neither an industry nor a science. It was a miracle.' - Igor Sikorsky"
 			},

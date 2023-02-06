@@ -214,7 +214,7 @@
 		"strength": 12,
 		"cost": 50,
 		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles", "Transfer Movement to [Civilian]", "[+25]% Strength <vs [City-State] units>"],
+		"uniques": ["Cannot enter ocean tiles", "Transfer Movement to [Civilian]", "[+15]% Strength <vs [Water] units>"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"

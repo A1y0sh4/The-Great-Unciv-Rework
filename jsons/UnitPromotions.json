@@ -651,7 +651,7 @@
 	},
 	{
 		"name": "Quick Study II", // Armory
-		"prerequisites": ["Quick Study I", "March I"],
+		"prerequisites": ["Quick Study I"],
 		"uniques": ["[+15]% XP gained from combat", "[+25]% maintenance costs"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine","Helicopter"],
         "column": 27,

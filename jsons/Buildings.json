@@ -775,7 +775,7 @@
 		"culture": 3,
 		"faith": 4,
 		"isWonder": true,
-		"uniques": ["[-10]% Strength <for [Enemy] units> <in [Friendly Land] tiles>", "[+25]% maintenance costs <for [Enemy] units> <in [Friendly Land] tiles>"],
+		"uniques": ["[-10]% Strength <for [Enemy] units> <in [Friendly Land] tiles>", "[+100]% maintenance costs <for [Enemy] units> <in [Friendly Land] tiles>"],
 		"requiredBuilding": "Palace",
 		"requiredTech": "Gunpowder",
 		"quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed"

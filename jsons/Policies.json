@@ -167,7 +167,10 @@
             {
                 "name": "Discipline",
                 "uniques": [
-                    "Damage is ignored when determining unit Strength <for [Land] units>",
+                    "Damage is ignored when determining unit Strength <for [Archery] units>",
+		    "Damage is ignored when determining unit Strength <for [Sword] units>",
+		    "Damage is ignored when determining unit Strength <for [Ranged Gunpowder] units>",
+		    "Damage is ignored when determining unit Strength <for [Gunpowder] units>",
 		    
                 ],
                 "row": 1,

@@ -158,8 +158,9 @@
             {
                 "name": "Warrior Code",
                 "uniques": [
-                    "[+1 Production] from all [Military] buildings", "[+1 Production] from every [Armory]", "[+1 Production] from every [Military Academy]",
-                    "Free [Great General] appears"
+                    "[+1 Culture] from every [Barracks]",
+		    "[+1 Culture] from every [Armory]",
+		    "[+1 Culture] from every [Military Academy]",
                 ],
                 "row": 1,
                 "column": 2
@@ -176,7 +177,7 @@
             {
                 "name": "Military Tradition",
                 "uniques": [
-                    "[+50]% XP gained from combat <for [Military] units>",
+                    "Free [Great General] appears",
 		    "[+30]% to Flank Attack bonuses"
                 ],
                 "requires": ["Warrior Code"],
@@ -186,7 +187,7 @@
             {
                 "name": "Military Caste",
                 "uniques": [
-                    "[+2 Production, +2 Culture] [in all cities with a garrison]",
+                    "[+2 Production, +2 Happiness] [in all cities with a garrison]",
 		    "New [Military] units start with [15] Experience [in capital]"
                 ],
                 "requires": ["Discipline"],
@@ -197,10 +198,7 @@
                 "name": "Professional Army",
                 "uniques": [
                     "[-33]% Gold cost of upgrading <for [Military] units>",
-                    "[+1 Happiness] from every [Walls]",
-                    "[+1 Happiness] from every [Castle]",
-                    "[+1 Happiness] from every [Arsenal]",
-                    "[+1 Happiness] from every [Military Base]"
+                    "[+50]% XP gained from combat <for [Military] units>"
                 ],
                 "requires": ["Military Caste"],
                 "row": 3,

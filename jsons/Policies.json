@@ -233,8 +233,8 @@
             {
                 "name": "Organized Religion",
                 "uniques": [
-                    "[+1 Faith] from all [Faith] buildings",
-		    "Provides the cheapest [Faith] building in your first [4] cities for free"
+		    "Provides the cheapest [Faith] building in your first [4] cities for free",
+		    "Free [Great Prophet] appears"
                 ],
                 "row": 1,
                 "column": 2

@@ -158,7 +158,7 @@
             {
                 "name": "Warrior Code",
                 "uniques": [
-                    "[+15]% Production when constructing [Melee] units [in all cities]",
+                    "[+1 Production] from every [Barracks]", "[+1 Production] from every [Armory]", "[+1 Production] from every [Military Academy]",
                     "Free [Great General] appears"
                 ],
                 "row": 1,
@@ -167,8 +167,8 @@
             {
                 "name": "Discipline",
                 "uniques": [
-                    "[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>",
-		    "[+1 Production] from every [Barracks]", "[+1 Production] from every [Armory]", "[+1 Production] from every [Military Academy]"
+                    "Damage is ignored when determining unit Strength <for [Land] units>",
+		    
                 ],
                 "row": 1,
                 "column": 4

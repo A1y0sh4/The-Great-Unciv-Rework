@@ -257,8 +257,8 @@
 		"cost": 56,
 		"requiredTech": "The Wheel",
 		"requiredResource": "Horses",
-		"upgradesTo": "Knight",
-		"obsoleteTech": "Chivalry",
+		"upgradesTo": "Horseman",
+		"obsoleteTech": "Horseback Riding",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "arrow"
 	},
@@ -292,8 +292,8 @@
 		"cost": 56,
 		"requiredTech": "The Wheel",
 		"requiredResource": "Horses",
-		"upgradesTo": "Knight",
-		"obsoleteTech": "Chivalry",
+		"upgradesTo": "Horseman",
+		"obsoleteTech": "Horseback Riding",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "[+15]% Strength <while the empire is happy>"],
 		"attackSound": "arrow"
 	},

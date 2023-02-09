@@ -698,12 +698,12 @@
 		"uniques": ["[+15]% Strength <while the empire is happy>", "[+5] HP when healing <while the empire is happy>"]
 	},
 	{
-		"name": "Great Generals I", // only for Companion Cavalry, Keshik and their subsequent upgrades
-		"uniques": ["[Great General] is earned [50]% faster", "Transfer Movement to [Great General]"]
+		"name": "Great Generals I", // only for Keshik and subsequent upgrades
+		"uniques": ["[Great General] is earned [50]% faster"]
 	},
 	{
 		"name": "Great Generals II", // only for Samurai and subsequent upgrades
-		"uniques": ["[Great General] is earned [100]% faster", "Transfer Movement to [Great General]"]
+		"uniques": ["[Great General] is earned [100]% faster"]
 	},
 	{
 		"name": "Quick Study", // only for Keshik and subsequent upgrades

@@ -109,7 +109,7 @@
 		"neutralHello": "Once again, greetings.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "I believe I have something that may be of some importance to you.",
-		"outerColor": [254,135,0],
+		"outerColor": [255,132,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Dutch East India Company",
 		"uniques": ["[+50]% [Gold] [in all cities connected to capital] <during a Golden Age>", "[+2 Happiness] from every [Harbor]", "[+2 Happiness] from every [Seaport]"],

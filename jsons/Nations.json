@@ -325,7 +325,7 @@
 
 		"tradeRequest": "My friend, does this seem reasonable to you?",		
 		"outerColor": [255, 255, 255],
-		"innerColor": [254, 218, 54],
+		"innerColor": [241, 206, 46],
 		"uniqueName": "Hellenic League",
 		"uniques": ["[+15]% Strength <when fighting units from a Civilization with more Cities than you>", "Empire enters golden age <upon conquering a city>", "[-100]% Unhappiness from [Population] [in annexed cities] <during a Golden Age>"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",

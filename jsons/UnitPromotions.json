@@ -699,11 +699,11 @@
 	},
 	{
 		"name": "Great Generals I", // only for Companion Cavalry, Keshik and their subsequent upgrades
-		"uniques": ["[Great General] is earned [50]% faster"]
+		"uniques": ["[Great General] is earned [50]% faster", "Transfer Movement to [Great General]"]
 	},
 	{
 		"name": "Great Generals II", // only for Samurai and subsequent upgrades
-		"uniques": ["[Great General] is earned [100]% faster"]
+		"uniques": ["[Great General] is earned [100]% faster", "Transfer Movement to [Great General]"]
 	},
 	{
 		"name": "Quick Study", // only for Keshik and subsequent upgrades

@@ -149,7 +149,7 @@
 	{
 		"name": "Formation I",
 		"prerequisites": ["Shock II", "Drill II", "Accuracy II", "Barrage II"],
-		"uniques": ["[+10]% Strength"],
+		"uniques": ["[+15]% Strength <when adjacent to a [Melee] unit>"],
 		"unitTypes": ["Sword", "Gunpowder", "Mounted", "Siege","Archery","Ranged Gunpowder"],
         "column": 7,
         "row": 2
@@ -157,7 +157,7 @@
 	{
 		"name": "Formation II",
 		"prerequisites": ["Formation I"],
-		"uniques": ["[+10]% Strength"],
+		"uniques": ["[+15]% Strength <when adjacent to a [Melee] unit>"],
 		"unitTypes": ["Sword", "Gunpowder", "Mounted", "Siege","Archery","Ranged Gunpowder"],
         "column": 7,
         "row": 3
@@ -786,10 +786,6 @@
         {
                 "name": "[Chu-Ko-Nu] ability",
                 "uniques": ["[1] additional attacks per turn", "Can move after attacking"]
-        },
-        {
-                "name": "[Hoplite] ability", 
-                "uniques": ["[+15]% Strength <when adjacent to a [Melee] unit>"]
         },
 	{
 		"name": "Brute",

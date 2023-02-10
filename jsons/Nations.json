@@ -247,7 +247,7 @@
 		"hateHello": "Oh, it is you.",
 		"tradeRequest": "My friend, it is my belief that this settlement can benefit both our peoples.",
 		
-		"outerColor": [0, 106, 167],
+		"outerColor": [0, 90, 178],
 		"innerColor": [254, 204, 0],
 		
 		"uniqueName": "Nobel Prize",
@@ -274,7 +274,7 @@
 		"hateHello": "Well?",
 		"tradeRequest": "Is the following trade of interest to you?",
 		
-		"outerColor": [ 60, 59, 110],
+		"outerColor": [ 0, 40, 104],
 		"innerColor": [255, 255, 255],
 		
 		"uniqueName": "Manifest Destiny",

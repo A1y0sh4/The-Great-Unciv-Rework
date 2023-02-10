@@ -643,30 +643,6 @@
         "column": 25,
         "row": 2
 	},
-		{
-		"name": "Quick Study I", // Barracks
-		"uniques": ["[+10]% XP gained from combat", "[+25]% maintenance costs"],
-        "column": 27,
-        "row": 1
-	},
-	{
-		"name": "Quick Study II", // Armory
-		"prerequisites": ["Quick Study I"],
-		"uniques": ["[+15]% XP gained from combat", "[+25]% maintenance costs"],
-		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine","Helicopter"],
-        "column": 27,
-        "row": 2
-	},
-	{
-		"name": "Quick Study III", // Military Academy
-		"prerequisites": ["Quick Study II"],
-		"uniques": ["[+25]% XP gained from combat", "[+25]% maintenance costs"],
-		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine","Helicopter"],
-        "column": 27,
-        "row": 3
-	},
-
-
 	// Water ranged and air units
 	{
 		"name": "Bombardment I",

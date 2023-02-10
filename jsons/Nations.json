@@ -246,8 +246,10 @@
 		"neutralHello": "Oh, welcome!",
 		"hateHello": "Oh, it is you.",
 		"tradeRequest": "My friend, it is my belief that this settlement can benefit both our peoples.",
-		"outerColor": [39,59,146],
-		"innerColor": [250,250,27],
+		
+		"outerColor": [0, 106, 167],
+		"innerColor": [254, 204, 0],
+		
 		"uniqueName": "Nobel Prize",
 		"uniques": ["Double quantity of [Iron] produced", "When declaring friendship, both parties gain a [15]% boost to great person generation", "Allied City-States provide [Science] equal to [50]% of what they produce for themselves"],
 		"cities": ["Stockholm","Sigtuna","Helsinki","Birka","Uppsala","Turku","Linköping","Lund","Espoo","Malmö",
@@ -271,8 +273,10 @@
 		"neutralHello": "Good day.",
 		"hateHello": "Well?",
 		"tradeRequest": "Is the following trade of interest to you?",
-		"outerColor": [ 28,51,119],
-		"innerColor": [255,255,255],
+		
+		"outerColor": [ 60, 59, 110],
+		"innerColor": [255, 255, 255],
+		
 		"uniqueName": "Manifest Destiny",
 		"uniques": ["Double quantity of [Aluminum] produced", "Earn [20]% of killed [Military] unit's [Cost] as [Science] <in [Friendly Land] tiles>", "[-50]% Gold cost of acquiring tiles [in all cities]"],
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",

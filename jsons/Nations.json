@@ -915,7 +915,7 @@
 		"hateYes": ["Fine, in my understanding.","It is clear.","It is clear."],
 
 		"outerColor": [7,137,48],
-		"innerColor": [218,18,26],
+		"innerColor": [252,221,9],
 		"uniqueName": "Spirit of Adwa",
 		"uniques": ["[+15]% [Science] [in all cities] <within [3] tiles of a [Holy site]>", "[+15]% Strength <within [3] tiles of a [Holy site]> <in [Friendly Land] tiles>"],
 		"cities": ["Addis Ababa","Harar","Adwa","Lalibela","Gondar","Axum","Dire Dawa","Bahir Dar","Adama",

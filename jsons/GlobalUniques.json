@@ -10,9 +10,10 @@
         "[+10]% growth [in all cities] <in [Fresh water] tiles>",
         "[+50]% maintenance on road & railroads",
         "[+100]% maintenance costs <for [Military] units>",
-        "[+25]% maintenance costs <for [Water] units>",
-        "[+50]% maintenance costs <for [Air] units>",
-        "[+50]% maintenance costs <for [Armored] units>",
+        "[+25]% maintenance costs <for [Mounted] units>",
+        "[+50]% maintenance costs <for [Water] units>",
+        "[+75]% maintenance costs <for [Air] units>",
+        "[+75]% maintenance costs <for [Armored] units>",
         "[+25]% maintenance costs <for [Helicopter] units>",
         "[+50]% XP gained from combat <for [Military] units> <within [2] tiles of a [Great General]>"]
     

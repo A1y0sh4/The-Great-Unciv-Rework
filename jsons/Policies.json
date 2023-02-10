@@ -150,7 +150,6 @@
             "Scientific": 20
         },
         "uniques": [
-		"[+30]% Strength <vs [Barbarian] units>",
                 "Earn [20]% of killed [Military] unit's [Cost] as [Culture]",
                 "Notified of new Barbarian encampments"
         ],
@@ -168,7 +167,8 @@
             {
                 "name": "Discipline",
                 "uniques": [
-                    "Damage is ignored when determining unit Strength <for [Military] units>"
+                    "[+30]% Strength <vs [Barbarian] units>",
+		    "[+15]% Strength <for [Wounded] units>"
                 ],
                 "row": 1,
                 "column": 4

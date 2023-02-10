@@ -177,7 +177,7 @@
 		"faith": 1,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["[-20]% tile improvement construction time","[2] free [Worker] units appear", "Hidden when religion is disabled"],
+		"uniques": ["[-20]% tile improvement construction time", "[2] free [Worker] units appear", "Hidden when religion is disabled"],
 		"requiredTech": "Masonry",
 		"quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge"
 	},
@@ -216,7 +216,7 @@
 		"faith": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 1},
-		"uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>", "[+50]% XP gained from combat <for [Sword] units>", "Hidden when religion is disabled"],
+		"uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>", "[2] free [Spearman] units appear", "Hidden when religion is disabled"],
 		"requiredTech": "Bronze Working",
 		"quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad"
 		// "Requires [Honor]" in BNW

@@ -168,8 +168,7 @@
             {
                 "name": "Discipline",
                 "uniques": [
-                    "Damage is ignored when determining unit Strength <for [Melee] units>",
-		    "Damage is ignored when determining unit Strength <for [Ranged] units>"
+                    "Damage is ignored when determining unit Strength <for [Military] units> <when above [50] HP>"
                 ],
                 "row": 1,
                 "column": 4

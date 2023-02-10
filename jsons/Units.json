@@ -271,7 +271,7 @@
 		"movement": 3,
 		"strength": 5,
 		"rangedStrength": 10,
-		"cost": 56,
+		"cost": 50,
 		"requiredTech": "The Wheel",
 		"requiredResource": "Horses",
 		"obsoleteTech": "Chivalry",

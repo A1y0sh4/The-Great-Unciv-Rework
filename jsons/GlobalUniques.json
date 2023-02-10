@@ -13,7 +13,8 @@
         "[+25]% maintenance costs <for [Water] units>",
         "[+50]% maintenance costs <for [Air] units>",
         "[+50]% maintenance costs <for [Armored] units>",
-        "[+25]% maintenance costs <for [Helicopter] units>"]
+        "[+25]% maintenance costs <for [Helicopter] units>",
+        "[+50]% XP gained from combat <for [Military] units> <within [2] tiles>"]
     
         // TODO: Implement the uniques below
         // "[+20]% [Culture] [in all cities] <during a golden age>",

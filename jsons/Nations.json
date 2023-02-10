@@ -139,7 +139,7 @@
 		"hateHello": "What do you need?!",
 		"tradeRequest": "How would you like it if I propose this kind of exchange?",
 		"favoredReligion": "Christianity",
-		"outerColor": [255, 205, 50],
+		"outerColor": [250, 200, 25],
 		"innerColor": [0,0,0],
 		"uniqueName": "Siberian Riches",
 		"uniques": ["Double quantity of [Uranium] produced", "[+1 Production, +1 Gold] [in all cities] <in [Resource] tiles>", "[+2 Happiness] [in all cities] <in [Tundra] tiles>"],

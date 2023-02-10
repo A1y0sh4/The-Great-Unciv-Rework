@@ -1,7 +1,7 @@
 [
     {
         "name": "discover cultural artifacts",
-        "notification": "We have discovered cultural artifacts in the ruins!",
+        "notification": "",
         "uniques": ["Gain [10]-[30] [Culture]"],
         "color": "#cf8ff7"
     },
@@ -20,7 +20,7 @@
     {
         "name": "your exploring unit receives training",
         "notification": "An ancient tribe trained us in their ways of combat!",
-        "uniques": ["This Unit gains [10] XP"]
+        "uniques": ["This Unit gains [15] XP"]
     },
     {
         "name": "survivors (adds population to a city)",
@@ -53,7 +53,7 @@
     {
         "name": "find a crudely-drawn map",
         "notification": "We have found a crudely-drawn map in the ruins!",
-        "uniques": ["From a randomly chosen tile [5] tiles away from the ruins, reveal tiles up to [5] tiles away with [67]% chance"]
+        "uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [67]% chance"]
     },
     {
         "name": "discover holy symbols",

@@ -20,8 +20,10 @@
 		"neutralHello": "Hello again.",
 		"tradeRequest": "I have heard that you adept at certain kinds of ... interactions. Show me.",
 		"favoredReligion": "Christianity",
-		"outerColor": [88,145,228],
-		"innerColor": [80,23,135],
+		
+		"outerColor": [128, 0, 128],
+		"innerColor": [255, 191, 0],
+		
 		"uniqueName": "Patriarchate of Constantinople",
 		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion", "[+2 Gold, +2 Faith] from every [Horses] <in [Pasture] tiles>"],
 		"cities": ["Constantinople","Adrianople","Nicaea","Antioch","Varna","Ohrid","Nicomedia","Trebizond","Cherson","Sardica",
@@ -56,8 +58,9 @@
 		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
 		"hateYes": ["Eugh! Fine then…","Disgusting! Okay then…","But if I have to…"],
 		
-		"outerColor": [22,101,63],
-		"innerColor": [148,170,255],
+		"outerColor": [22, 101, 63],
+		"innerColor": [148, 170, 255],
+		
 		"uniqueName": "Druidic Lore",
 		"uniques": ["Gain a free [Shrine] [in all cities] <within [1] tiles of a [Forest]>", "[+1 Science] from every [Forest]", "[-1 Science] from every [Improvement] <in [Forest] tiles>"],
 		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth","Penzance",
@@ -914,8 +917,9 @@
 		"hateNo": ["That is unacceptable.","You are not sure about it.","Please repeat for me."],
 		"hateYes": ["Fine, in my understanding.","It is clear.","It is clear."],
 
-		"outerColor": [7,137,48],
-		"innerColor": [252,221,9],
+		"outerColor": [18, 66, 22],
+                "innerColor": [255, 56, 56],
+		
 		"uniqueName": "Spirit of Adwa",
 		"uniques": ["[+15]% [Science] [in all cities] <within [3] tiles of a [Holy site]>", "[+15]% Strength <within [3] tiles of a [Holy site]> <in [Friendly Land] tiles>"],
 		"cities": ["Addis Ababa","Harar","Adwa","Lalibela","Gondar","Axum","Dire Dawa","Bahir Dar","Adama",

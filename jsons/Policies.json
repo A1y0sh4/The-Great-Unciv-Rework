@@ -7,7 +7,8 @@
             "Cultural": 30,
             "Diplomatic": 0,
             "Domination": 0,
-            "Scientific": 30
+            "Scientific": 30,
+	    "Religious": 30
         },
         "uniques": [
             "[+2 Culture] from every [Palace]",
@@ -79,7 +80,8 @@
             "Cultural": 0,
             "Diplomatic": 30,
             "Domination": 20,
-            "Scientific": 30
+            "Scientific": 30,
+	    "Religious": 20
         },
         "uniques": ["[+1 Culture, +1 Happiness] [in all cities]"],
         "policies": [
@@ -147,7 +149,8 @@
             "Cultural": 0,
             "Diplomatic": 20,
             "Domination": 30,
-            "Scientific": 20
+            "Scientific": 20,
+	    "Religious": 20
         },
         "uniques": [
                 "Earn [20]% of killed [Military] unit's [Cost] as [Culture]",
@@ -220,7 +223,8 @@
             "Cultural": 30,
             "Diplomatic": 20,
             "Domination": 20,
-            "Scientific": 0
+            "Scientific": 0,
+	    "Religious": 40
         },
         "uniques": [
             "[+100]% Production when constructing [Faith] buildings [in all cities]",
@@ -283,7 +287,8 @@
             "Cultural": 30,
             "Diplomatic": 30,
             "Domination": 0,
-            "Scientific": 30
+            "Scientific": 30,
+	    "Religious": 20
         },
         "uniques": ["[-30]% City-State Influence degradation", "City-State territory always counts as friendly territory"],
         "policies": [
@@ -351,7 +356,8 @@
             "Cultural": 10,
             "Diplomatic": 30,
             "Domination": 20,
-            "Scientific": 30
+            "Scientific": 30,
+	    "Religious": 20
         },
         "uniques": ["[+25]% [Gold] [in capital]", "[+2 Production] [in all cities] <on foreign continents>"],
         "policies": [
@@ -412,7 +418,8 @@
             "Cultural": 10,
             "Diplomatic": 30,
             "Domination": 10,
-            "Scientific": 40
+            "Scientific": 40,
+	    "Religious": 0
         },
         "uniques": [
             "[+1 Culture] from every [Artist]", "[+1 Gold] from every [Merchant]", "[+1 Science] from every [Scientist]", "[+1 Production] from every [Engineer]",
@@ -475,7 +482,8 @@
             "Cultural": 50,
             "Diplomatic": 40,
             "Domination": 30,
-            "Scientific": 40
+            "Scientific": 40,
+	    "Religious": 30
         },
         "uniques": [
             "[+25]% Great Person generation [in all cities]",
@@ -538,7 +546,8 @@
             "Cultural": 30,
             "Diplomatic": 30,
             "Domination": 50,
-            "Scientific": 30
+            "Scientific": 30,
+	    "Religious": 20
         },
         "uniques": [
             "[-25]% maintenance costs <for [Land] units>",
@@ -612,7 +621,8 @@
             "Cultural": 30,
             "Diplomatic": 40,
             "Domination": 30,
-            "Scientific": 40
+            "Scientific": 40,
+	    "Religious": 30
         },
         "uniques": [
             "[+25]% Production towards any buildings that already exist in the Capital",

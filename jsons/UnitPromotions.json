@@ -765,6 +765,6 @@
         },
 	{
 		"name": "Brute",
-		"uniques": ["Heals [25] damage if it kills a unit"]
+		"uniques": ["Can only heal by pillaging", "Heals [25] damage if it kills a unit"]
 	}
 ]

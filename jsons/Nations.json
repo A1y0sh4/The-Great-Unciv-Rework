@@ -653,7 +653,7 @@
 		"outerColor": [238,238,236],
 		"innerColor": [77,2,4],
 		"uniqueName": "Scourge of God",
-		"uniques": ["Starts with [Animal Husbandry]", "[2] free [Mounted] units appear <upon declaring war with a major Civilization>", "Cities are razed [2] times as fast", "Cannot build [Settler] units"],
+		"uniques": ["Starts with [Animal Husbandry]", "[2] free [Horse Archer] units appear <upon declaring war with a major Civilization>", "Cities are razed [2] times as fast", "Cannot build [Settler] units"],
 		"cities": ["Atilla's Court"]
 	},
 	{

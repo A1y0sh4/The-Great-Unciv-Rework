@@ -62,7 +62,7 @@
 		"innerColor": [148, 170, 255],
 		
 		"uniqueName": "Druidic Lore",
-		"uniques": ["Gain a free [Shrine] [in all cities] <within [1] tiles of a [Forest]>", "[+1 Science] from [Forest] tiles without [Improvement] [in all cities]"],
+		"uniques": ["Gain a free [Shrine] [in all cities] <within [1] tiles of a [Forest]>", "[+1 Science] from [Forest] tiles [in all cities]", "[-1 Science] from every [Improvement] <in [Forest] tiles>"],
 		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth","Penzance",
 			"Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen","Belfast",
 			"Caernafon","Newquay","Saint-Nazarre","Castletown","Stirling","Galway","Conwy","St. Austell","Saint-Malo",

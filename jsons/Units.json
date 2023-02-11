@@ -96,7 +96,7 @@
 		"strength": 8,
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
-		"promotions": ["[Jaguar] ability","Woodsman"],
+		"promotions": ["[Jaguar] ability", "Woodsman"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
@@ -397,7 +397,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "Religious Unit"],
 		"promotions": ["Pictish Courage"],
 		"attackSound": "metalhit"
 	},
@@ -472,13 +472,13 @@
 		"uniqueTo": "Byzantium",
 		"replaces": "Knight",
 		"movement": 4,
-		"strength": 25,
+		"strength": 22,
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "No defensive terrain bonus"],
+		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "Prevents spreading of religion to the city it is next to"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},

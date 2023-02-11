@@ -288,7 +288,7 @@
             "Diplomatic": 30,
             "Domination": 0,
             "Scientific": 30,
-	    "Religious": 20
+	    "Religious": 30
         },
         "uniques": ["[-30]% City-State Influence degradation", "City-State territory always counts as friendly territory"],
         "policies": [

@@ -310,7 +310,7 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-25]% Strength <when below [1] [Horses]>", "Can construct [Pasture]"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <when below [2] [Horses]>", "Can construct [Pasture]"],
 		"promotions": ["Blitz"],
 		"attackSound": "arrow"
 	},

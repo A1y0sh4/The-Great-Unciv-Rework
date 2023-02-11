@@ -653,7 +653,7 @@
 		"outerColor": [238,238,236],
 		"innerColor": [77,2,4],
 		"uniqueName": "Scourge of God",
-		"uniques": ["Starts with [Animal Husbandry]", "[2] free [Mounted] units appear <upon declaring war with a major Civilization> <before discovering [Combustion]>", "[Military] units gain the [Brute] promotion", "Cities are razed [2] times as fast", "\"Borrows\" city names from other civilizations in the game"],
+		"uniques": ["Starts with [Animal Husbandry]", "[2] free [Mounted] units appear <upon declaring war with a major Civilization> <before discovering [Combustion]>", "Cities are razed [2] times as fast", "\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Atilla's Court"]
 	},
 	{

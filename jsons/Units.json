@@ -308,10 +308,9 @@
 		"rangedStrength": 10,
 		"cost": 56,
 		"requiredTech": "The Wheel",
-		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "Can construct [Pasture]"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-25]% Strength <when below [1] [Horses]>", "Can construct [Pasture]"],
 		"promotions": ["Blitz"],
 		"attackSound": "arrow"
 	},

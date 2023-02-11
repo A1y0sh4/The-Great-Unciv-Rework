@@ -36,7 +36,7 @@
 		"leaderName": "Boudicca",
 		"adjective": ["Celtic"],
 		"startBias": ["Forest"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Religious",
 
 		"startIntroPart1": "",
                 "startIntroPart2": "",
@@ -398,7 +398,7 @@
 		"leaderName": "Suleiman I",
 		"adjective": ["Ottoman"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Religious",
 		
 		"startIntroPart1": "",
                 "startIntroPart2": "",
@@ -716,7 +716,7 @@
 		"leaderName": "Isabella",
 		"adjective": ["Spanish"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Religious",
 
 		"startIntroPart1": "",
                 "startIntroPart2": "",
@@ -843,7 +843,7 @@
 		"leaderName": "Harun al-Rashid",
 		"adjective": ["Arabian"],
 		"startBias": ["Desert"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Religious",
 
 		"startIntroPart1": "",
                 "startIntroPart2": "",
@@ -860,7 +860,7 @@
 		"innerColor": [146,221,9],
 		"favoredReligion": "Islam",
 		"uniqueName": "Trade Caravans",
-		"uniques": ["Double quantity of [Oil] produced", "[+2 Gold] from each Trade Route", "[Gold] cost of purchasing [All] buildings [-15]%"],
+		"uniques": ["Double quantity of [Oil] produced", "[+2 Faith] from each Trade Route", "[Gold] cost of purchasing [All] buildings [-15]%"],
 		"cities": ["Mecca","Medina","Damascus","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat",
 			"Aden","Yamama","Muscat","Mansura","Bukhara","Shiraz","Merw","Balkh","Mosul",
 			"Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr","Tripoli","Tunis","Kairouan","Algiers","Oran"]
@@ -900,7 +900,7 @@
 		"leaderName": "Haile Selassie",
 		"adjective": ["ethiopian"],
 		"startBias": ["Jungle"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Religious",
 
 		"startIntroPart1": "",
                 "startIntroPart2": "",

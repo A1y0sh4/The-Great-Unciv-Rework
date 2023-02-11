@@ -1033,7 +1033,7 @@
 		"replaces": "Lancer",
 		"uniqueTo": "Sweden",
 		"movement": 4,
-		"strength": 26,
+		"strength": 24,
 		"cost": 185,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",

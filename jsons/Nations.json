@@ -732,7 +732,7 @@
 		"outerColor": [102,0,0],
 		"innerColor": [255,102,102],
 		"uniqueName": "Seven Cities of Gold",
-		"uniques": ["100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)", "[+1 Happiness] for every known Natural Wonder", "[+100]% Yield from every [Natural Wonder]"],
+		"uniques": ["100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)", "[+1 Happiness, +2 Faith] for every known Natural Wonder", "[+100]% Yield from every [Natural Wonder]"],
 		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
 			"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
 			"Lugo","Alicante","Càdiz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La Coruña","Guadalquivir","Bilbao",
@@ -860,7 +860,7 @@
 		"innerColor": [146,221,9],
 		"favoredReligion": "Islam",
 		"uniqueName": "Trade Caravans",
-		"uniques": ["Double quantity of [Oil] produced", "May buy [Gold] buildings for [100] [Faith] [in all cities connected to capital] at an increasing price ([50])", "[+50]% Natural religion spread [in all cities connected to capital]"],
+		"uniques": ["Double quantity of [Oil] produced", "May buy [Gold] buildings for [50] [Faith] [in all cities connected to capital] at an increasing price ([50])", "[+50]% Natural religion spread [in all cities connected to capital]"],
 		"cities": ["Mecca","Medina","Damascus","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat",
 			"Aden","Yamama","Muscat","Mansura","Bukhara","Shiraz","Merw","Balkh","Mosul",
 			"Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr","Tripoli","Tunis","Kairouan","Algiers","Oran"]

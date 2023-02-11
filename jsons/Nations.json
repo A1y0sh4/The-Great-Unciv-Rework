@@ -653,7 +653,7 @@
 		"outerColor": [238,238,236],
 		"innerColor": [77,2,4],
 		"uniqueName": "Scourge of God",
-		"uniques": ["Starts with [Animal Husbandry]", "Cannot build [Settler] units", "[Military] units gain the [Brute] promotion", "Cities are razed [2] times as fast", "Can only heal by pillaging"],
+		"uniques": ["Starts with [Animal Husbandry]", "Cannot build [Settler] units", "[Military] units gain the [Brute] promotion", "Cities are razed [2] times as fast"],
 		"cities": ["Atilla's Court"]
 	},
 	{
@@ -1392,6 +1392,6 @@
 		"name": "Barbarians",
 		"outerColor": [0,0,0],
 		"innerColor": [180,0,0],
-		"uniques": ["Can only heal by pillaging"]
+		"uniques": [""]
 	}
 	]

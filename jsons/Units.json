@@ -308,10 +308,11 @@
 		"rangedStrength": 10,
 		"cost": 56,
 		"requiredTech": "The Wheel",
+		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty"],
-		"promotions": ["Accuracy I"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>"],
+		"promotions": ["Blitz"],
 		"attackSound": "arrow"
 	},
 	{
@@ -378,7 +379,7 @@
 		"replaces": "Spearman",
 		"uniqueTo": "The Huns",
 		"movement": 2,
-		"strength": 8,
+		"strength": 11,
 		"cost": 75,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Physics",

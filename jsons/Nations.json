@@ -8,7 +8,7 @@
 		"name": "Byzantium",
 		"leaderName": "Theodora",
 		"adjective": ["Byzantine"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Religious",
 
 		"startIntroPart1": "",
                 "startIntroPart2": "",

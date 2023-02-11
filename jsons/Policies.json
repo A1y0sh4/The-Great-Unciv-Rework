@@ -549,7 +549,7 @@
         "policies": [
             {
                 "name": "Populism",
-                "uniques": ["[+30]% Strength <for [Wounded] units>"],
+                "uniques": ["[-15]% Unhappiness from [Population] [in all non-occupied cities]"],
                 "row": 1,
                 "column": 1
             },

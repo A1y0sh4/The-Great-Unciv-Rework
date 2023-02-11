@@ -34,6 +34,14 @@
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
     },
     {
+        "name": "Religious",
+        "hiddenInVictoryScreen": false,
+		"victoryScreenHeader": "Become the dominant religion\nin every city of the world to win!",
+        "milestones": ["Become the world religion"],
+        "victoryString": "You have achieved victory through the power of faith and conviction. All the nations have submitted to your teachings, for better or worse. Rejoice! For your faith has converted the world.",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
+    {
         "name": "Time",
         "hiddenInVictoryScreen": true,
         "milestones": ["Have highest score after max turns"],

@@ -310,7 +310,7 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <when below [2] [Horses]>", "Can construct [Pasture]"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Can construct [Pasture]"],
 		"promotions": ["Blitz"],
 		"attackSound": "arrow"
 	},
@@ -383,8 +383,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Trebuchet",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-		"[-1] Sight", "Can only attack [City] units"],
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "Can only attack [City] units"],
 		"attackSound": "throw"
 	},
 	{

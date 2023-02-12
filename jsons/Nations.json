@@ -832,7 +832,7 @@
 		
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Father Governs Children",
-		"uniques": ["[+50]% [Food] from City-States", "[+50]% [Culture] from City-States", "[+50]% [Faith] from City-States", "Military Units gifted from City-States start with [+15] XP"],
+		"uniques": ["May buy [Wat] buildings with [Faith] [in all cities in which the majority religion is a enhanced religion]", "[+50]% [Food] from City-States", "[+50]% [Culture] from City-States", "[+50]% [Faith] from City-States", "Military Units gifted from City-States start with [+15] XP"],
 		"cities": ["Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Phitsanulok","Kamphaeng Pet","Nakhom Chum","Vientiane",
 			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
 			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",

@@ -587,9 +587,8 @@
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 2},
-		"Faith": 3,
-		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[+1 Culture] per [2] population [in this city]"],
+		"requiredBuilding": "Temple",
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[+1 Faith] from every [2] global followers [in this city]", "Unbuildable", "Hidden when religion is disabled"],
 		"requiredTech": "Education"
 	},
 	{
@@ -608,7 +607,7 @@
 		"faith": 3,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["[-25]% Culture cost of natural border growth [in all cities]","[-25]% Gold cost of acquiring tiles [in all cities]"],
+		"uniques": ["[-25]% Culture cost of natural border growth [in all cities]", "[-25]% Gold cost of acquiring tiles [in all cities]", "Gain a free [University] [in this city]"],
 		"requiredTech": "Education",
 		"quote": "'The temple is like no other building in the world. It has towers and decoration and all the refinements which the human genius can conceive of.' - Antonio da Magdalena"
 	},

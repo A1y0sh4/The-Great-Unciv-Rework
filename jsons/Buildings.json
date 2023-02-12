@@ -587,9 +587,9 @@
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 2},
-		"culture": 3,
+		"Faith": 3,
 		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[+1 Culture] per [2] population [in this city]"],
 		"requiredTech": "Education"
 	},
 	{

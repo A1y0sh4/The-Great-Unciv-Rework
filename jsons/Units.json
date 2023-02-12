@@ -478,7 +478,7 @@
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "Prevents spreading of religion to the city it is next to"],
+		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "Prevents spreading of religion to the city it is next to", "Religious Unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},

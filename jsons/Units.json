@@ -683,12 +683,12 @@
 		"replaces": "Knight",
 		"uniqueTo": "Siam",
 		"movement": 3,
-		"strength": 25,
+		"strength": 21,
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Lancer",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[+50]% Strength <vs [Mounted] units>", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-10]% Strength for enemy [Military] units in adjacent [All] tiles", "[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "elephant"
 	}
         {

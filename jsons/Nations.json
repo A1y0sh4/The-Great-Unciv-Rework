@@ -812,7 +812,7 @@
 		"name": "Siam",
 		"leaderName": "Ramkhamhaeng",
 		"adjective": ["Siamese"],
-		"startBias": ["Avoid [Forest]"],
+		"startBias": ["Jungle"],
 		"preferredVictoryType":"Religious",
 
 		"startIntroPart1": "",
@@ -832,7 +832,7 @@
 		
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Father Governs Children",
-		"uniques": ["May buy [Wat] buildings with [Faith] [in all cities]", "May buy [Aqueduct] buildings for [100] [Faith] [in all cities]", "[+2 Production, +1 Faith] from every [Aqueduct]"],
+		"uniques": ["May buy [Wat] buildings with [Faith] [in all cities]", "Gain a free [Aqueduct] [in all cities connected to capital]"],
 		"cities": ["Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Phitsanulok","Kamphaeng Pet","Nakhom Chum","Vientiane",
 			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
 			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",

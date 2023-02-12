@@ -813,7 +813,7 @@
 		"leaderName": "Ramkhamhaeng",
 		"adjective": ["Siamese"],
 		"startBias": ["Avoid [Forest]"],
-		"preferredVictoryType":"Diplomatic",
+		"preferredVictoryType":"Religious",
 
 		"startIntroPart1": "",
                 "startIntroPart2": "",
@@ -832,7 +832,7 @@
 		
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Father Governs Children",
-		"uniques": ["May buy [Wat] buildings with [Faith] [in all cities in which the majority religion is a enhanced religion]", "[+50]% [Food] from City-States", "[+50]% [Culture] from City-States", "[+50]% [Faith] from City-States", "Military Units gifted from City-States start with [+15] XP"],
+		"uniques": ["May buy [Wat] buildings with [Faith] [in all cities]", "[+50]% [Food] from City-States", "[+50]% [Culture] from City-States", "[+50]% [Faith] from City-States", "Military Units gifted from City-States start with [+15] XP"],
 		"cities": ["Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Phitsanulok","Kamphaeng Pet","Nakhom Chum","Vientiane",
 			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
 			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",
@@ -860,7 +860,7 @@
 		"innerColor": [146,221,9],
 		"favoredReligion": "Islam",
 		"uniqueName": "Trade Caravans",
-		"uniques": ["Double quantity of [Oil] produced", "May buy [Gold] buildings for [50] [Faith] [in all cities connected to capital] at an increasing price ([50])", "[+50]% Natural religion spread [in all cities connected to capital]"],
+		"uniques": ["Double quantity of [Oil] produced", "May buy [Gold] buildings for [50] [Faith] [in all cities connected to capital] at an increasing price ([50])", "[+2 Faith] from every [Trade route]"],
 		"cities": ["Mecca","Medina","Damascus","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat",
 			"Aden","Yamama","Muscat","Mansura","Bukhara","Shiraz","Merw","Balkh","Mosul",
 			"Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr","Tripoli","Tunis","Kairouan","Algiers","Oran"]

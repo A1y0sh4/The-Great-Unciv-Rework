@@ -259,7 +259,7 @@
     {
         "name": "Holy Order",
         "type": "Enhancer",
-        "uniques": ["[Faith] cost of purchasing [Missionary] units [-30]%", "[Faith] cost of purchasing [Inquisitor] units [-30]%"]
+        "uniques": ["[Faith] cost of purchasing [Missionary] units [-33]%", "[Faith] cost of purchasing [Inquisitor] units [-33]%"]
     },
     {
         "name": "Itinerant Preachers",
@@ -295,6 +295,6 @@
     {
         "name": "Reliquary",
         "type": "Enhancer",
-        "uniques": ["[+50 Faith] whenever a Great Person is expended"]
+        "uniques": ["[+50 Faith, +50 Culture] whenever a Great Person is expended"]
     }
 ]

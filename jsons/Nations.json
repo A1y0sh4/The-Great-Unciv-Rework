@@ -927,7 +927,7 @@
                 "innerColor": [255, 56, 56],
 		
 		"uniqueName": "Spirit of Adwa",
-		"uniques": ["[+15]% [Science] [in all cities] <within [3] tiles of a [Holy site]>", "[+15]% Strength <within [3] tiles of a [Holy site]> <in [Friendly Land] tiles>"],
+		"uniques": ["[+15]% [Science] [in all cities] <within [3] tiles of a [Holy site]>", "[+15]% Strength <within [3] tiles of a [Holy site]> <in [Friendly Land] tiles>", "[+50]% Yield from every [Holy site]"],
 		"cities": ["Addis Ababa","Harar","Adwa","Lalibela","Gondar","Axum","Dire Dawa","Bahir Dar","Adama",
 			"Mek'ele","Awasa","Jimma","Jijiga","Dessie","Debre Berhan","Shashamane","Debre Zeyit","Sodo","Hosaena",
 			"Nekemte","Asella","Dila","Adigrat","Debre Markos","Kombolcha","Debre Tabor","Sebeta",

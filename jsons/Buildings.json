@@ -196,6 +196,7 @@
 		"name": "Barracks",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
+		"greatPersonPoints": {"Great General": 1},
 		"uniques": ["New [{Land} {Military}] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
@@ -206,6 +207,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"cityHealth": 25,
+		"greatPersonPoints": {"Great General": 1},
 		"uniques": ["[-25]% Culture cost of natural border growth [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]",
 			"New [{Land} {Military}] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
@@ -668,6 +670,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredBuilding": "Barracks",
+		"greatPersonPoints": {"Great General": 1},
 		"uniques": ["New [{Land} {Military}] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Steel"
 	},
@@ -912,6 +915,7 @@
 		"hurryCostModifier": 0,
 		"maintenance": 1,
 		"requiredBuilding": "Armory",
+		"greatPersonPoints": {"Great General": 1},
 		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Military Science"
 	},

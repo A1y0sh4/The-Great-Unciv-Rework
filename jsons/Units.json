@@ -35,21 +35,21 @@
 		"name": "Skirmisher",
 		"unitType": "Scout",
 		"movement": 2,
-		"strength": 10,
-		"rangedStrength": 14,
+		"strength": 8,
+		"rangedStrength": 12,
 		"cost": 90,
 		"requiredTech": "Guilds",
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Ranger",
 		"promotions": ["Scouting I"],
 		"uniques": ["Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit"
+		"attackSound": "arrow"
 	},
 	{
 		"name": "Ranger",
 		"unitType": "Scout",
 		"movement": 2,
-		"strength": 22,
+		"strength": 20,
 		"rangedStrength": 24,
 		"cost": 185,
 		"requiredTech": "Rifling",
@@ -57,7 +57,7 @@
 		"upgradesTo": "Paratrooper",
 		"promotions": ["Scouting I"],
 		"uniques": ["Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit"
+		"attackSound": "shot"
 	},
 	{
 		"name": "Warrior",

@@ -295,6 +295,6 @@
     {
         "name": "Reliquary",
         "type": "Enhancer",
-        "uniques": ["[+50 Faith] whenever a Great Person is expended", "[+50 Faith] whenever a Great Person is expended"]
+        "uniques": ["[+50 Faith] whenever a Great Person is expended"]
     }
 ]

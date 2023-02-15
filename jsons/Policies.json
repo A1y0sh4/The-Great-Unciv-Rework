@@ -494,7 +494,7 @@
         "policies": [
             {
                 "name": "Constitution",
-                "uniques": ["[+5 Culture] per [2] social policies adopted"],
+                "uniques": ["[+3 Culture] per [2] social policies adopted"],
                 "row": 1,
                 "column": 1
             },

@@ -234,7 +234,7 @@
             {
                 "name": "Organized Religion",
                 "uniques": [
-		    "Provides the cheapest [Faith] building in your first [4] cities for free",
+		    "[+50]% Yield from every [Holy site]",
 		    "Free [Great Prophet] appears"
                 ],
                 "row": 1,

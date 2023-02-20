@@ -12,9 +12,17 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 # Notable Game-changer features
 
+-All Civs and most Beliefs and Policies have been completly reworked as such their game stategies. I suggest the players to try reinventing their games.
+
+-Most Resources are not revealed until the discovery of a tech, making some combinations stategical in the early-game
+
+-It's been added a religious victory and some civs have it as their favourite one (Byzantium, Celts, The Ottomans, Spain, Arabia, Ethiopia, Siam)
+
 -It's lowered the amount of unhappiness required to spawn rebels (from 20 to 15)
 
 -Cities in Fresh water obtain a growth bonus (+10%)
+
+-City-States bonuses have been raised
 
 -The maintainance of ALL military units is raised by +100%, but some UnitsTypes receive an additional raise
 
@@ -44,3 +52,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
  -Most late-game units have received a required resource (especially Siege units in order to avoid making Iron useless in later eras)
  
  -Ranged Mounted units now have 1 Range, but higher Strengh
+ 
+ -The Horde is the new Barbarian replacement for the War Chariot
+ 
+ -Military Units in a range of 2 tiles within a Great General receive more XP when in combat (+50%)

@@ -1,6 +1,5 @@
 # The Great Civ Rework
-It's an ambitious project that aims to modifiy the game, without removing the vanilla feeling. It includes: civs, buildings and policies, and offers the player new original mechanics to play with.
-So far I improved every civ in the game and changed most policies and buildings.
+It's an ambitious project that aims to modifiy the game, without removing the vanilla feeling. It includes: civs, buildings and policies, and offers the player new original mechanics to play with. Few years ago I had the idea to create my own first mod and this led me to this project; I hope that you shall appreciate the passion I put in my work as much I enjoyed coding it.
 
 
 

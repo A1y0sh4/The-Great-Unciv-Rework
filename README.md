@@ -37,5 +37,10 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 -Most Water and Air units have been (slightly) buffed in order to compensate their higher maintainance costs and to make them a viable alternative to the Land ones
  
+ -Most upgrade-chains have been reworked, mainly in order to avoid to keep passing from a UnitType to Another (ex: Pikemans do not upgrade to Lancer, but to Musketman; Lancer are upgraded from Knights)
  
+ -Scouts have been reworked: now they have both a pecultiar XP and upgradable tree
  
+ -Most late-game units have received a required resource (especially Siege units in order to avoid making Iron useless in later eras)
+ 
+ -Ranged Mounted units now have 1 Range, but higher Strengh

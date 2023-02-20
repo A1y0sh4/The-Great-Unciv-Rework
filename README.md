@@ -9,8 +9,11 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 ![Screenshot (130)](https://user-images.githubusercontent.com/102094544/220199396-d4b7b514-f521-4c37-8cd9-07aa77811ba0.png)
 
+
 # Notable Game-changer features
+
 -It's lowered the amount of unhappiness required to spawn rebels (from 20 to 15)
+
 -Cities in Fresh water obtain a growth bonus (+10%)
 
 -The maintainance of ALL military units is raised by +100%, but some UnitsTypes receive an additional raise

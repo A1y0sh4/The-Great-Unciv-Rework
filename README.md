@@ -50,7 +50,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
  
  -Most late-game units have received a required resource (especially Siege units in order to avoid making Iron useless in later eras)
  
- -Ranged Mounted units now have 1 Range, but higher Strengh
+ -Ranged Mounted units now have 1 Range, higher Strengh, and count as Mounted units (instead of ranged ones, this means that they have a malus against anti-cavalry units)
  
  -The Horde is the new Barbarian replacement for the War Chariot
  

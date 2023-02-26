@@ -364,10 +364,8 @@
             {
                 "name": "Naval Tradition",
                 "uniques": [
-                    "[+1] Movement <for [Water] units>",
-		    "[+1] Movement <for [Embarked] units>",
-                    "[+1] Sight <for [Water] units>",
-		    "[+1] Sight <for [Embarked] units>"
+                    "[+1] Movement <for [All] units> <in [Water] tiles>",
+		    "[+1] Sight <for [All] units> <in [Water] tiles>"
                 ],
                 "row": 1,
                 "column": 2
@@ -663,7 +661,8 @@
                 "name": "Socialism",
                 "requires": ["Planned Economy"],
                 "uniques": [
-                   "[+1 Food] from every [Improvement] <in [Resource] tiles>",
+                   "[+1 Food] from every [Farm]",
+		   "[+1 Food] from every [Plantation]"
                 ],
                 "row": 2,
                 "column": 3

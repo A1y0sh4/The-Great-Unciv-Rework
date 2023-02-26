@@ -2,32 +2,26 @@
     {
         "name": "Cultured",
         "friendBonusUniques": [
-            "[+3 Culture] <before the [Medieval era]>",
-            "[+6 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+12 Culture] <starting from the [Industrial era]>"
+            "[-10]% Culture cost of adopting new Policies"
         ],
         "allyBonusUniques": [
-            "[+6 Culture] <before the [Medieval era]>",
-            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+24 Culture] <starting from the [Industrial era]>"
+            "[-15]% Culture cost of adopting new Policies"
         ],
         "color": [139, 96, 255]
     },
     {
         "name": "Maritime",
-        "friendBonusUniques": ["[+2 Food] [in capital]"],
-        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]"],
+        "friendBonusUniques": ["[+10]% growth [in all cities]"],
+        "allyBonusUniques": ["[+15]% growth [in all cities]"],
         "color": [56, 255, 112]
     },
     {
         "name": "Mercantile",
         "friendBonusUniques": [
-            "[+2 Happiness] <before the [Medieval era]>",
-            "[+3 Happiness] <starting from the [Medieval era]>"
+            "[-10]% maintenance cost for buildings [in all cities]"
         ],
         "allyBonusUniques": [
-            "[+2 Happiness] <before the [Medieval era]>",
-            "[+3 Happiness] <starting from the [Medieval era]>",
+            "[-15]% maintenance cost for buildings [in all cities]",
             "Provides a unique luxury"
         ],
         "color": [255, 216, 0]
@@ -35,20 +29,16 @@
     {
         "name": "Militaristic",
         "friendBonusUniques": ["Provides military units every ≈[20] turns"],
-        "allyBonusUniques": ["Provides military units every ≈[16] turns"],
+        "allyBonusUniques": ["Provides military units every ≈[16] turns", "[-25]% maintenance costs <for [Military] units>"],
         "color": [255, 0, 0]
     },
     {
         "name": "Religious",
         "friendBonusUniques":  [
-            "[+3 Faith] <before the [Medieval era]>",
-            "[+6 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+12 Faith] <starting from the [Industrial era]>"
+            "[+15]% Natural religion spread [in all cities]"
         ],
         "allyBonusUniques":  [
-            "[+6 Faith] <before the [Medieval era]>",
-            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+24 Faith] <starting from the [Industrial era]>"
+            "[+25]% Natural religion spread [in all cities]"
         ],
         "color": [255, 255, 255]
     }

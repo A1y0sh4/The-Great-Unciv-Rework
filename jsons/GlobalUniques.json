@@ -16,7 +16,6 @@
         "[+75]% maintenance costs <for [Armored] units>",
         "[+25]% maintenance costs <for [Helicopter] units>",
         "[+50]% XP gained from combat <for [Military] units> <within [2] tiles of a [Great General]>",
-        "[-25]% [Gold] from Trade Routes",
         "[Great General] is earned [-75]% faster <when not at war>"]
     
         // TODO: Implement the uniques below

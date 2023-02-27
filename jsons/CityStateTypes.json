@@ -12,7 +12,7 @@
     {
         "name": "Maritime",
         "friendBonusUniques": ["[+10]% growth [in all cities]"],
-        "allyBonusUniques": ["[+15]% growth [in all cities]", "[+1 Science] from every [Fishing Boat]"],
+        "allyBonusUniques": ["[+15]% growth [in all cities]", "[25]% Food is carried over after population increases [in all cities]"],
         "color": [56, 255, 112]
     },
     {

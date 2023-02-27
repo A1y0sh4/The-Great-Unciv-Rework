@@ -21,7 +21,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 -Cities in Fresh water obtain a growth bonus (+10%)
 
--City-States bonuses have been raised
+-City-States bonuses have been completly reworked
 
 -The maintainance of ALL military units is raised by +100%, but some UnitsTypes receive an additional raise
 

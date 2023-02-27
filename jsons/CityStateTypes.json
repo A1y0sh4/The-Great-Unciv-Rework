@@ -5,14 +5,14 @@
             "[-10]% Culture cost of adopting new Policies"
         ],
         "allyBonusUniques": [
-            "[-15]% Culture cost of adopting new Policies"
+            "[-15]% Culture cost of adopting new Policies", "[+25]% Production when constructing [Culture] buildings [in all cities]"
         ],
         "color": [139, 96, 255]
     },
     {
         "name": "Maritime",
         "friendBonusUniques": ["[+10]% growth [in all cities]"],
-        "allyBonusUniques": ["[+15]% growth [in all cities]"],
+        "allyBonusUniques": ["[+15]% growth [in all cities]", "[+1 Science] from every [Fishing Boat]"],
         "color": [56, 255, 112]
     },
     {
@@ -21,24 +21,23 @@
             "[-10]% maintenance cost for buildings [in all cities]"
         ],
         "allyBonusUniques": [
-            "[-15]% maintenance cost for buildings [in all cities]",
-            "Provides a unique luxury"
+            "[-15]% maintenance cost for buildings [in all cities]", "Provides a unique luxury"
         ],
         "color": [255, 216, 0]
     },
     {
         "name": "Militaristic",
-        "friendBonusUniques": ["Provides military units every ≈[20] turns"],
-        "allyBonusUniques": ["Provides military units every ≈[16] turns", "[-25]% maintenance costs <for [Military] units>"],
+        "friendBonusUniques": ["[+10]% XP gained from combat <for [Military] units>"],
+        "allyBonusUniques": ["[+15]% XP gained from combat <for [Military] units>", "Provides military units every ≈[16] turns"],
         "color": [255, 0, 0]
     },
     {
         "name": "Religious",
         "friendBonusUniques":  [
-            "[+15]% Natural religion spread [in all cities]"
+            "[+10]% Spread Religion Strength <for [All] units>"
         ],
         "allyBonusUniques":  [
-            "[+25]% Natural religion spread [in all cities]"
+            "[+15]% Spread Religion Strength <for [All] units>", "[+25]% Natural religion spread [in all cities]"
         ],
         "color": [255, 255, 255]
     }

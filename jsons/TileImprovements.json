@@ -2,7 +2,7 @@
 	{
 		"name": "Farm",
 		"type": "Improvement",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Flood plains"],
 		"food": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Agriculture",

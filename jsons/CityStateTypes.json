@@ -2,33 +2,33 @@
     {
         "name": "Cultured",
         "friendBonusUniques": [
-            "[-10]% Culture cost of adopting new Policies"
+            "[+1 Culture] from every [Wonder]"
         ],
         "allyBonusUniques": [
-            "[-15]% Culture cost of adopting new Policies", "[+25]% Production when constructing [Culture] buildings [in all cities]"
+            "[-10]% Culture cost of adopting new Policies", "[+1 Culture] from every [Wonder]"
         ],
         "color": [139, 96, 255]
     },
     {
         "name": "Maritime",
-        "friendBonusUniques": ["[+10]% growth [in all cities]"],
-        "allyBonusUniques": ["[+15]% growth [in all cities]", "[25]% Food is carried over after population increases [in all cities]"],
+        "friendBonusUniques": ["[+1 Food] from every [Fishing Boats]"],
+        "allyBonusUniques": ["[+10]% growth [in all cities]", "[+1 Food] from every [Fishing Boats]"],
         "color": [56, 255, 112]
     },
     {
         "name": "Mercantile",
         "friendBonusUniques": [
-            "[-10]% maintenance cost for buildings [in all cities]"
+            "Provides a unique luxury"
         ],
         "allyBonusUniques": [
-            "[-15]% maintenance cost for buildings [in all cities]", "Provides a unique luxury"
+            "[-10]% maintenance cost for buildings [in all cities]", "Provides a unique luxury"
         ],
         "color": [255, 216, 0]
     },
     {
         "name": "Militaristic",
-        "friendBonusUniques": ["[+10]% XP gained from combat <for [Military] units>"],
-        "allyBonusUniques": ["[+15]% XP gained from combat <for [Military] units>", "Provides military units every ≈[16] turns"],
+        "friendBonusUniques": ["Provides military units every ≈[16] turns"],
+        "allyBonusUniques": ["[+10]% XP gained from combat <for [Military] units>", "Provides military units every ≈[16] turns"],
         "color": [255, 0, 0]
     },
     {
@@ -37,7 +37,7 @@
             "[+10]% Spread Religion Strength <for [All] units>"
         ],
         "allyBonusUniques":  [
-            "[+15]% Spread Religion Strength <for [All] units>", "[+25]% Natural religion spread [in all cities]"
+            "[Faith] cost of purchasing items in cities [-10]%", "[+10]% Spread Religion Strength <for [All] units>"
         ],
         "color": [255, 255, 255]
     }

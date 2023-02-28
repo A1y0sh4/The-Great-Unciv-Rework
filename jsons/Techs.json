@@ -321,7 +321,6 @@
 				"name": "Economics",
 				"row": 6,
 				"prerequisites": ["Banking","Printing Press"],
-				"uniques": ["[-20]% maintenance cost for buildings [in all cities]"], 
 				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
 			},
 			{

@@ -201,7 +201,7 @@
 		"production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"production": 1},
-		"uniques": ["Resource", "Generated with weight [40] <in [Desert] tiles> <in tiles without [Hill]>",
+		"uniques": ["Resource", "Generated with weight [40] <in [Desert] tiles>",
 			                "Generated with weight [30] <in [Marsh] tiles> <in tiles without [Hill]>",
 					"Generated with weight [35] <in [Jungle] tiles> <in tiles without [Hill]>",
 					"Generated with weight [25] <in [Forest] tiles> <in tiles without [Hill]>",
@@ -315,11 +315,12 @@
 	{
 		"name": "Ivory",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Plains", "Grassland"],
+		"terrainsCanBeFoundOn": ["Plains", "Grassland", "Desert"],
 		"gold": 1,
 		"improvement": "Camp",
 		"improvementStats": {"gold": 1},
 		"uniques": ["Resource", "Generated with weight [35] <in [Plains] Regions>",
+                                        "Generated with weight [25] <in [Desert] Regions>",
 					"Generated with weight [15] <in [Hybrid] Regions>",
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Grassland] [Fresh Water] tiles>"]

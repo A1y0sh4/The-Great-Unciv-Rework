@@ -118,7 +118,7 @@
                 "name": "Representation",
                 "uniques": [
                     "[+20]% [Science] <during a Golden Age>",
-		    "Each city founded increases culture cost of policies [30]% less than normal",
+		    "Each city founded increases culture cost of policies [33]% less than normal",
                     "Empire enters golden age"
                 ],
                 "requires": ["Citizenship"],

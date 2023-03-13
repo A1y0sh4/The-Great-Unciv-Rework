@@ -771,7 +771,7 @@
 		"name": "Himeji Castle",
 		"culture": 3,
 		"isWonder": true,
-		"greatPersonPoints": {"Great Engineer": 2},
+		"greatPersonPoints": {"Great General": 2},
 		"uniques": ["[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
 			"Gain a free [Castle] [in this city]"],
 		"requiredTech": "Gunpowder",

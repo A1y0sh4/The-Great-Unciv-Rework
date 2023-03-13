@@ -699,7 +699,7 @@
 	},
 	{
 		"name": "Pictish Courage", // only for Pictish Warrior and subsequent upgrades
-		"uniques": ["[+20]% Strength <when attacking>", "Heals [20] damage if it kills a unit"]
+		"uniques": ["Damage is ignored when determining unit Strength"]
 	},
 	{
 		"name": "Home Sweet Home", // only for Mehal Sefari and subsequent upgrades

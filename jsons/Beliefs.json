@@ -18,19 +18,17 @@
     {
         "name": "Faith Healers",
         "type": "Pantheon",
-        "uniques": ["[All] Units adjacent to this city heal [+30] HP per turn when healing"]
-        // This should be worded better
+        "uniques": ["[All] Units adjacent to this city heal [+33] HP per turn when healing"]
     },
     {
         "name": "Fertility Rites",
         "type": "Pantheon",
         "uniques": ["[+10]% growth [in this city]"]
-        // Preferably I would not have a cityFilter here, but doing so requires no additional implementation
     },
     {
         "name": "God of Craftsman",
         "type": "Pantheon",
-        "uniques": ["[+2 Production] from every [Copper]", "[+2 Production] from every [Iron]"]
+        "uniques": ["[+1 Production] from [Strategic resource] tiles [in this city]"]
     },
     {
         "name": "God of the Open Sky",

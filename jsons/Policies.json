@@ -594,9 +594,9 @@
             {
                 "name": "Total War",
                 "uniques": [
-                    "[2] free [Rifleman] units appear <upon declaring war with a major Civilization> <after discovering [Horseback Riding]> <before discovering [Chivalry]>",
-		    "[2] free [Great War Infantry] units appear <upon declaring war with a major Civilization> <after discovering [Horseback Riding]> <before discovering [Chivalry]>",
-		    "[2] free [Infantry] units appear <upon declaring war with a major Civilization> <after discovering [Horseback Riding]>"
+                    "[2] free [Rifleman] units appear <upon declaring war with a major Civilization> <after discovering [Rifling]> <before discovering [Replaceable Parts]>",
+		    "[2] free [Great War Infantry] units appear <upon declaring war with a major Civilization> <after discovering [Replaceable Parts]> <before discovering [Plastics]>",
+		    "[2] free [Infantry] units appear <upon declaring war with a major Civilization> <after discovering [Plastics]>"
                 ],
                 "requires": ["Police State", "Fascism"],
                 "row": 3,

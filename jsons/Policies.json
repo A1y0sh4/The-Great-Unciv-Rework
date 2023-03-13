@@ -594,8 +594,9 @@
             {
                 "name": "Total War",
                 "uniques": [
-                    "[+1] Movement <for [Military] units> <for [10] turns> <upon declaring war with a major Civilization>",
-		    "[+15]% Strength <for [Military] units> <for [10] turns> <upon declaring war with a major Civilization>"
+                    "[2] free [Rifleman] units appear <upon declaring war with a major Civilization> <after discovering [Horseback Riding]> <before discovering [Chivalry]>",
+		    "[2] free [Great War Infantry] units appear <upon declaring war with a major Civilization> <after discovering [Horseback Riding]> <before discovering [Chivalry]>",
+		    "[2] free [Infantry] units appear <upon declaring war with a major Civilization> <after discovering [Horseback Riding]>"
                 ],
                 "requires": ["Police State", "Fascism"],
                 "row": 3,

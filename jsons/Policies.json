@@ -498,7 +498,7 @@
             },
             {
                 "name": "Universal Suffrage",
-                "uniques": ["[+30]% Strength for cities <when defending>"],
+                "uniques": ["[+33]% Strength for cities <when defending>"],
                 "row": 1,
                 "column": 3
             },
@@ -651,7 +651,7 @@
             {
                 "name": "Nationalism",
                 "uniques": [
-                    "[+25]% City Strength from defensive buildings",
+                    
 		    "[+1] Movement <for [All] units> <in [Friendly Land] tiles> <when at war>"
                 ],
                 "row": 1,

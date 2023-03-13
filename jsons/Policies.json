@@ -652,7 +652,7 @@
             {
                 "name": "Nationalism",
                 "uniques": [
-                    "[+50]% XP gained from combat <for [Military] units> <in [Friendly Land] tiles>",
+                    "[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
 		    "[+1] Movement <for [All] units> <in [Friendly Land] tiles> <when at war>"
                 ],
                 "row": 1,

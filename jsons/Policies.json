@@ -594,9 +594,9 @@
             {
                 "name": "Total War",
                 "uniques": [
-                    "[2] free [Rifleman] units appear <upon declaring war with a major Civilization> <after discovering [Rifling]> <before discovering [Replaceable Parts]>",
-		    "[2] free [Great War Infantry] units appear <upon declaring war with a major Civilization> <after discovering [Replaceable Parts]> <before discovering [Plastics]>",
-		    "[2] free [Infantry] units appear <upon declaring war with a major Civilization> <after discovering [Plastics]>"
+                    "[3] free [Rifleman] units appear <upon declaring war with a major Civilization> <after discovering [Rifling]> <before discovering [Replaceable Parts]>",
+		    "[3] free [Great War Infantry] units appear <upon declaring war with a major Civilization> <after discovering [Replaceable Parts]> <before discovering [Plastics]>",
+		    "[3] free [Infantry] units appear <upon declaring war with a major Civilization> <after discovering [Plastics]>"
                 ],
                 "requires": ["Police State", "Fascism"],
                 "row": 3,
@@ -605,8 +605,8 @@
             {
                 "name": "Autocracy Complete",
                 "uniques": [
-                    "[+30]% Production when constructing [Military] units [in all cities] <during a Golden Age>",
-		    "New [Military] units start with [30] Experience [in all cities] <during a Golden Age>",
+                    "[+33]% Production when constructing [Military] units [in all cities] <during a Golden Age>",
+		    "New [Military] units start with [15] Experience [in all cities] <during a Golden Age>",
                     "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }

@@ -651,7 +651,7 @@
             {
                 "name": "Nationalism",
                 "uniques": [
-                    
+                    "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
 		    "[+1] Movement <for [All] units> <in [Friendly Land] tiles> <when at war>"
                 ],
                 "row": 1,

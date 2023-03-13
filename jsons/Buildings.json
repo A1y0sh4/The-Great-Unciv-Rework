@@ -716,7 +716,7 @@
 		"faith": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
-		"uniques": ["[+25]% Great Person generation [in this city]", "[Faith] cost of purchasing items in cities [-20]%"],
+		"uniques": ["[+25]% Great Person generation [in this city]", "[+1 Faith] per [2] social policies adopted"],
 		"requiredTech": "Acoustics",
 		"quote": "'I live and love in God's peculiar light.' - Michelangelo Buonarroti"
 	},

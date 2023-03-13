@@ -712,10 +712,11 @@
 	},
 	{
 		"name": "Sistine Chapel",
-		"culture": 1,
+		"culture": 3,
+		"faith": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
-		"uniques": ["[+25]% [Culture] [in all cities]"],
+		"uniques": ["[+25]% Great Person generation [in this city]", "[+25]% [Culture] [in all cities]"],
 		"requiredTech": "Acoustics",
 		"quote": "'I live and love in God's peculiar light.' - Michelangelo Buonarroti"
 	},
@@ -783,7 +784,7 @@
 		"faith": 4,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 2},
-		"uniques": ["[-10]% Strength <for [Enemy] units> <in [Friendly Land] tiles>", "[-10] HP when healing <for [Enemy] units> <in [Friendly Land] tiles>"],
+		"uniques": ["[+33]% City Strength from defensive buildings"],
 		"requiredBuilding": "Palace",
 		"requiredTech": "Gunpowder",
 		"quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed"

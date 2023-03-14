@@ -17,6 +17,8 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 -It's been added a religious victory and some civs have it as their favourite one (Byzantium, Celts, The Ottomans, Spain, Arabia, Ethiopia, Siam)
 
+-Scouts is now the ancient era starting unit
+
 -It's lowered the amount of unhappiness required to spawn rebels (from 20 to 15)
 
 -Cities in Fresh water obtain a growth bonus (+10%)

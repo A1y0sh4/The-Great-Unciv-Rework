@@ -780,6 +780,7 @@
 		"name": "Kremlin",
 		"culture": 3,
 		"faith": 4,
+                "cityStrength": 6,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 2},
 		"uniques": ["[+33]% City Strength from defensive buildings"],

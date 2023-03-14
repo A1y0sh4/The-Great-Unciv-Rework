@@ -159,11 +159,6 @@
         "uniques": ["[+1 Faith] from all [Culture] buildings <in cities with at least [6] [Followers of this Religion]>"]
     },
     {
-        "name": "Monasteries",
-        "type": "Follower",
-        "uniques": ["May buy [Monastery] buildings for [150] [Faith] [in cities following this religion]"]
-    },
-    {
         "name": "Mosques",
         "type": "Follower",
         "uniques": ["May buy [Mosque] buildings with [Faith] [in cities following this religion]"]

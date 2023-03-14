@@ -37,8 +37,7 @@
                 "name": "Oligarchy",
                 "uniques": [
                     "Units in cities cost no Maintenance",
-                    "[+50]% Strength for cities <with a garrison> <when attacking>",
-		    "[+1 Happiness] [in all cities with a garrison]"
+                    "[+33]% Strength for cities <with a garrison>"
                 ],
                 "row": 1,
                 "column": 5
@@ -46,7 +45,6 @@
             {
                 "name": "Landed Elite",
                 "uniques": [
-                    "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]",
 		    "[+1 Food] [in all cities]"
                 ],

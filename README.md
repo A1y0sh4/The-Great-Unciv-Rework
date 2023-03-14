@@ -38,7 +38,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
   
 -Considering the fact that mainteining an army will be a serious investment, the early game will see a decline in snow-balling battles and the late one will witness to a lower number of wars founded merely on the strenght's number. Now the battlefield won't just host bloody coflicts based on the science/industious levels of the two opponents, but also a major one about their economical situations.
 
--Great General points are offered by buildings (Barracks, Armories, Military Academies) and Wonders (Statue of Zeus, Alhambra, Kremlin, Brandenburg Gate, Pentagon)
+-Great General points are offered by buildings (Barracks, Armories, Military Academies) and Wonders (Statue of Zeus, Alhambra, Himeji Castle, Kremlin, Brandenburg Gate, Pentagon)
 
 -Great Generals are gained 4x slower when at peace
 

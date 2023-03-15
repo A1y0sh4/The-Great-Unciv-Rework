@@ -34,10 +34,10 @@
     {
         "name": "Religious",
         "friendBonusUniques":  [
-            "[+10]% Spread Religion Strength <for [All] units>"
+            "[Faith] cost of purchasing [All] units [-10]%"
         ],
         "allyBonusUniques":  [
-            "[+15]% Spread Religion Strength <for [All] units>", "[+10]% Spread Religion Strength <for [All] units>"
+            "[+15]% Spread Religion Strength <for [All] units>", "[Faith] cost of purchasing [All] units [-10]%"
         ],
         "color": [255, 255, 255]
     }

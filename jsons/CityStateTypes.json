@@ -37,7 +37,7 @@
             "[+10]% Spread Religion Strength <for [All] units>"
         ],
         "allyBonusUniques":  [
-            "[Faith] cost of purchasing items in cities [-15]%", "[+10]% Spread Religion Strength <for [All] units>"
+            "[+15]% Spread Religion Strength <for [All] units>", "[+10]% Spread Religion Strength <for [All] units>"
         ],
         "color": [255, 255, 255]
     }

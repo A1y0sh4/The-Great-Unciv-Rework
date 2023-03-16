@@ -8,6 +8,7 @@
 		"name": "Byzantium",
 		"leaderName": "Theodora",
 		"adjective": ["Byzantine"],
+                "startBias": ["Coast"],
 		"preferredVictoryType": "Religious",
 
 		"startIntroPart1": "",

@@ -38,7 +38,7 @@
     {
         "name": "God of the Sea",
         "type": "Pantheon",
-        "uniques": ["[+1 Production] from every [Fishing Boats]"]
+        "uniques": ["[+1 Faith] from every [Fishing Boats]"]
     },
     {
         "name": "God of War",
@@ -63,7 +63,7 @@
     {
         "name": "Goddess of the Hunt",
         "type": "Pantheon",
-        "uniques": ["[+1 Production] from every [Camp]"]
+        "uniques": ["[+1 Faith] from every [Camp]"]
     },
     {
         "name": "Messenger of the Gods",
@@ -85,7 +85,7 @@
     {
         "name": "One with Nature",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from [Resource] tiles [in this city]", "[-1 Faith] from every [Improvement]"]
+        "uniques": ["[+1 Faith] from [Resource] tiles [in this city]", "[-1 Faith] from every [Improvement] <in [Resource] tiles>"]
     },
     {
         "name": "Oral Tradition",
@@ -115,7 +115,7 @@
     {
         "name": "Stone Circles",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from every [Stone]"]
+        "uniques": ["[+2 Faith] from every [Stone]"]
     },
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
     {

@@ -1,6 +1,5 @@
 [
 
-	// Info according to Civilization Wiki and https://www.civfanatics.com/civ5/info/units/gods-and-kings/
 
 	/* Ancient Era */
 	{
@@ -478,7 +477,7 @@
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "Prevents spreading of religion to the city it is next to", "Religious Unit"],
+		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "Can be purchased with [Faith] [in all cities]", "Takes your religion over the one in their birth city", "Religious Unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},

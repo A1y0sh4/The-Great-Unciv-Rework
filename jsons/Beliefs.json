@@ -295,12 +295,12 @@
     
     {
         "name": "Charitable Missions",
-        "type": "Enhancer",
-        "uniques": ["[+25]% Spread Religion Strength <for [Great Prophet] units>", "[-25]% Faith cost of generating Great Prophet equivalents"]
+        "type": "Reformation",
+        "uniques": ["Gifts of Gold to City-States generate [30]% more Influence"]
     },
     {
         "name": "Jesuit Education",
-        "type": "Enhancer",
+        "type": "Reformation",
         "uniques": ["[+1 Faith] from all [Science] buildings <in cities with at least [6] [Followers of this Religion]>"]
     },
 ]

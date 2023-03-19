@@ -255,7 +255,7 @@
             {
                 "name": "Reformation",
                 "uniques": [
-                    "Gain a free [Reformation] belief",
+                    "Gain a free [Reformant] belief",
                     "Empire enters golden age"
                 ],
                 "requires": ["Organized Religion"],

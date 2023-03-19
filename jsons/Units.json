@@ -1,6 +1,5 @@
 [
 
-
 	/* Ancient Era */
 	{
 		"name": "Worker",
@@ -222,15 +221,15 @@
 		"name": "Dromon",
 		"unitType": "Ranged Water",
 		"uniqueTo": "Byzantium",
-		"replaces": "Galleass",
+		"replaces": "Trireme",
 		"movement": 3,
-		"strength": 16,
-		"rangedStrength": 20,
-		"cost": 120,
-		"requiredTech": "Compass",
-		"uniques": ["Cannot enter ocean tiles", "[+15]% Strength <vs [Military] units> <in [Water] tiles>"],
-		"upgradesTo": "Frigate",
-		"obsoleteTech": "Navigation",
+		"strength": 12,
+		"rangedStrength": 12,
+		"cost": 60,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles", "[+33]% Strength <vs [Military] units> <in [Water] tiles>"],
+		"upgradesTo": "Galleas",
+		"obsoleteTech": "Compass",
 		"attackSound": "arrow"
 	},
 	{
@@ -469,15 +468,15 @@
 		"name": "Cataphract",
 		"unitType": "Mounted",
 		"uniqueTo": "Byzantium",
-		"replaces": "Knight",
+		"replaces": "Horseman",
 		"movement": 4,
-		"strength": 20,
-		"cost": 120,
-		"requiredTech": "Chivalry",
-		"upgradesTo": "Lancer",
-		"obsoleteTech": "Metallurgy",
+		"strength": 15,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "[-20]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "Can be purchased with [Faith] [in all cities]", "Takes your religion over the one in their birth city", "Religious Unit"],
+		"uniques": ["[-33]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "Can be purchased with [Faith] [in all cities]", "Takes your religion over the one in their birth city", "Religious Unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},

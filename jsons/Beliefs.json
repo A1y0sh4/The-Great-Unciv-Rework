@@ -292,16 +292,16 @@
         "uniques": ["[+100 Faith] whenever a Great Person is expended"]
     },
     
-///////////////////////////////////////// Reformation beliefs /////////////////////////////////////////
+///////////////////////////////////////// Reformant beliefs /////////////////////////////////////////
     
     {
         "name": "Charitable Missions",
-        "type": "Reformation",
+        "type": "Reformant",
         "uniques": ["Gifts of Gold to City-States generate [30]% more Influence"]
     },
     {
         "name": "Jesuit Education",
-        "type": "Reformation",
+        "type": "Reformant",
         "uniques": ["[+1 Faith] from all [Science] buildings <in cities with at least [6] [Followers of this Religion]>"]
     }
 ]

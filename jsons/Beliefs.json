@@ -1,6 +1,7 @@
 [
     
 ///////////////////////////////////////// Pantheon beliefs /////////////////////////////////////////
+    
     {
         "name": "Ancestor Worship",
         "type": "Pantheon",
@@ -293,7 +294,7 @@
     },
     
 ///////////////////////////////////////// Reformant beliefs /////////////////////////////////////////
-    
+    */
     {
         "name": "Charitable Missions",
         "type": "Reformant",
@@ -305,3 +306,4 @@
         "uniques": ["[+1 Faith] from all [Science] buildings <in cities with at least [6] [Followers of this Religion]>"]
     }
 ]
+/*

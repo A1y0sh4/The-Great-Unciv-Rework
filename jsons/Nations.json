@@ -1408,6 +1408,97 @@
 		"innerColor": [198,255,192],
 		"cities": ["Jerusalem"]
 	},
+	{
+		"name": "Krakow",
+		"adjective": ["Polish"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Forest","Grassland"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [242, 92, 58],
+		"cities": ["Krakow"]
+	},
+	{
+		"name": "Kiev",
+		"adjective": ["Rusians"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Forest","Plains"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [40,140,240],
+		"cities": ["Kiev"]
+	},
+	{
+		"name": "Kazan",
+		"adjective": ["Tatar"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [180,160,255],
+		"cities": ["Kazan"]
+	},
+	{
+		"name": "Yerevan",
+		"adjective": ["Armenian"],
+		"cityStateType": "Religious",
+		"startBias": ["Hill","Grassland"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [174, 194, 185],
+		"cities": ["Yerevan"]
+	},
+	{
+		"name": "Minsk",
+		"adjective": ["Belarusian"],
+		"cityStateType": "Cultured",
+		"startBias": ["Forest","Grassland"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [116,55,250],
+		"cities": ["Minsk"]
+	},
+	{
+		"name": "Vilnius",
+		"adjective": ["Lithuanian"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [120,150,250],
+		"cities": ["Vilnius"]
+	},
+	{
+		"name": "Zurich",
+		"adjective": ["Swiss"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Lake","Mountain"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [80, 170, 200],
+		"cities": ["Zurich"]
+	},
 
 	//Barbarian
 	{

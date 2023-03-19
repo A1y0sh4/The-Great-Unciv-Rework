@@ -643,6 +643,14 @@
         "column": 25,
         "row": 2
 	},
+	{
+		"name": "Pride",
+		"prerequisites": ["Accuracy II","Barrage II","Shock III","Drill III"],
+		"uniques": ["Heal this unit by [25] HP <upon being promoted>"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Mounted"],
+        "column": 25,
+        "row": 3
+	}
 	// Water ranged and air units
 	{
 		"name": "Bombardment I",
@@ -766,5 +774,9 @@
 	{
 		"name": "Brute",
 		"uniques": ["Can only heal by pillaging", "Heals [25] damage if it kills a unit"]
+	},
+	{
+		"name": "Ceremonial Burial",
+		"uniques": ["[+10 Faith] <upon being defeated>"]
 	}
 ]

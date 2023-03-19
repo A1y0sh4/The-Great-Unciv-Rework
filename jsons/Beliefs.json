@@ -300,11 +300,11 @@
 //        "type": "Reformant",
 //        "uniques": ["Gifts of Gold to City-States generate [30]% more Influence"]
 //    },
-//    {
-//        "name": "Jesuit Education",
-//        "type": "Reformant",
-//        "uniques": ["[+1 Faith] from all [Science] buildings <in cities with at least [6] [Followers of this Religion]>"]
-//    }
+    {
+        "name": "Jesuit Education",
+        "type": "Reformant",
+        "uniques": ["[+1 Faith] from all [Science] buildings <in cities with at least [6] [Followers of this Religion]>"]
+    }
     
 ]
 

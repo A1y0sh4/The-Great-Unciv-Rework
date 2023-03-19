@@ -210,7 +210,7 @@
     {
         "name": "Ceremonial Burial",
         "type": "Founder",
-        "uniques": ["[+1 Happiness] for each global city following this religion"]
+        "uniques": ["[+1 Happiness] for each global city following this religion", "[Military] units gain the [Ceremonial Burial] promotion"]
     },
     {
         "name": "Church Property",

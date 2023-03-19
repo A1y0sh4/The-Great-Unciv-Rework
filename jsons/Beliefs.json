@@ -1,5 +1,5 @@
 [
-    ///////////////////////////////////////// Pantheon beliefs /////////////////////////////////////////
+///////////////////////////////////////// Pantheon beliefs /////////////////////////////////////////
     {
         "name": "Ancestor Worship",
         "type": "Pantheon",
@@ -241,7 +241,7 @@
         "uniques": ["[+1 Culture] from every [6] global followers [in this city]"]
     },
 
-    ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
+////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
 
     {
         "name": "Defender of the Faith",
@@ -302,5 +302,5 @@
         "name": "Jesuit Education",
         "type": "Reformation",
         "uniques": ["[+1 Faith] from all [Science] buildings <in cities with at least [6] [Followers of this Religion]>"]
-    },
+    }
 ]

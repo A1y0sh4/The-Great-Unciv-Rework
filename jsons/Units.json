@@ -228,7 +228,7 @@
 		"cost": 55,
 		"requiredTech": "Sailing",
 		"uniques": ["Cannot enter ocean tiles", "[+33]% Strength <vs [Military] units> <in [Water] tiles>"],
-		"upgradesTo": "Galleas",
+		"upgradesTo": "Galleass",
 		"obsoleteTech": "Compass",
 		"attackSound": "arrow"
 	},

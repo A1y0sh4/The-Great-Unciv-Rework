@@ -476,7 +476,7 @@
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
-		"uniques": ["[-33]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "Can be purchased with [Faith] [in all cities]", "Takes your religion over the one in their birth city", "Can [Remove Foreign religions from your own cities] [1] times", "Religious Unit"],
+		"uniques": ["[-33]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "Can be purchased with [Faith] [in all cities]", "Can [Remove Foreign religions from your own cities] [2] times", "Religious Unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},

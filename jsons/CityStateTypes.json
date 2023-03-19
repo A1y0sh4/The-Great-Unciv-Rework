@@ -34,10 +34,10 @@
     {
         "name": "Religious",
         "friendBonusUniques":  [
-            "[Faith] cost of purchasing [All] units [-10]%"
+            "[-10]% Faith cost of generating Great Prophet equivalents"
         ],
         "allyBonusUniques":  [
-            "[+15]% Spread Religion Strength <for [All] units>", "[Faith] cost of purchasing [All] units [-10]%"
+            "[+15]% Spread Religion Strength <for [All] units>", "[-10]% Faith cost of generating Great Prophet equivalents"
         ],
         "color": [255, 255, 255]
     }

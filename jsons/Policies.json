@@ -246,7 +246,7 @@
             },
             {
                 "name": "Theocracy",
-                "uniques": ["[+10]% [Gold] from every [Temple]",
+                "uniques": ["[Faith] cost of purchasing items in cities [-25]%",
 			   "[+1 Happiness] from every [Wonder]"],
                 "requires": ["Organized Religion"],
                 "row": 2,
@@ -255,7 +255,7 @@
             {
                 "name": "Reformation",
                 "uniques": [
-                    "[+30]% [Culture] [in all cities with a world wonder]",
+                    "Gain a free [Reformation] belief",
                     "Empire enters golden age"
                 ],
                 "requires": ["Organized Religion"],

@@ -37,7 +37,7 @@
             "[-10]% Faith cost of generating Great Prophet equivalents"
         ],
         "allyBonusUniques":  [
-            "[+15]% Spread Religion Strength <for [All] units>", "[-10]% Faith cost of generating Great Prophet equivalents"
+            "[+15]% Natural religion spread [in all cities]", "[-10]% Faith cost of generating Great Prophet equivalents"
         ],
         "color": [255, 255, 255]
     }

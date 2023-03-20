@@ -255,7 +255,7 @@
 		"uniqueTo": "Inca",
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"food": 1,
-		"turnsToBuild": 7,
+		"turnsToBuild": 6,
 		"uniques": ["Improvement", "Cannot be built on [Bonus resource] tiles",
 			"[+1 Food] for each adjacent [Mountain]",
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",

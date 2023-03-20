@@ -19,7 +19,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 -Scouts is now the ancient era starting unit
 
--It's lowered the amount of unhappiness required to spawn rebels (from 20 to 15)
+-It's lowered the amount of unhappiness required to spawn rebels (from 20 to 10)
 
 -Cities in Fresh water obtain a growth bonus (+10%)
 

@@ -78,12 +78,13 @@
 	{
 		"name": "Grape",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Grassland","Plains"],
+		"terrainsCanBeFoundOn": ["Grassland","Plains","Hill"],
 		"food": 1,
 		"improvement": "Plantation",
-		"uniques": ["Resource", "Generated with weight [40] <in [Plains] Regions>",
-					"Generated with weight [10] <in [Hybrid] Regions>",
-					"Generated near City States with weight [10]"]
+		"uniques": ["Resource", "Generated with weight [32] <in [Hill] Regions>",
+			                "Generated with weight [24] <in [Plains] Regions>",
+					"Generated with weight [16] <in [Hybrid] Regions>",
+					"Generated near City States with weight [8]"]
 	},
 	
 	// Strategic resources

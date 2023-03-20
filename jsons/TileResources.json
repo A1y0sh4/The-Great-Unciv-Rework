@@ -69,7 +69,6 @@
 	{
 		"name": "Fish",
 		"resourceType": "Bonus",
-		"revealedBy": "Sailing",
 		"terrainsCanBeFoundOn": ["Coast"],
 		"food": 1,
 		"improvement": "Fishing Boats",
@@ -79,7 +78,6 @@
 	{
 		"name": "Grape",
 		"resourceType": "Bonus",
-		"revealedBy": "Calendar",
 		"terrainsCanBeFoundOn": ["Grassland","Plains"],
 		"food": 1,
 		"improvement": "Plantation",
@@ -87,17 +85,6 @@
 					"Generated with weight [10] <in [Hybrid] Regions>",
 					"Generated near City States with weight [10]"]
 	},
-	/*
-	{
-		"name": "Bison",
-		"resourceType": "Bonus",
-		"revealedBy": "Animal Husbandry",
-		"terrainsCanBeFoundOn": ["Plains","Grassland"],
-		"food": 1,
-		"improvement": "Camp",
-		"improvementStats": {"production": 1}
-	},
-	*/
 	
 	// Strategic resources
 	{

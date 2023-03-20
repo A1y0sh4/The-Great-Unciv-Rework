@@ -531,7 +531,7 @@
 		"culture": 2,
                 "requiredNearbyImprovedResources": ["Sugar"],
 		 "uniques": ["Unbuildable <in cities with a [Vodka Distillery]>", "Unbuildable <in cities with a [Whisky Distillery]>", "Unbuildable <in cities with a [Cognac Distillery]>", "Provides [1] [Rum]"],
-		"requiredTech": "Theology"
+		"requiredTech": "Distillation"
 	},
 	{
 		"name": "Whisky Distillery",
@@ -539,7 +539,7 @@
 		"culture": 2,
                 "requiredNearbyImprovedResources": ["Wheat"],
 		 "uniques": ["Unbuildable <in cities with a [Rum Distillery]>", "Unbuildable <in cities with a [Vodka Distillery]>", "Unbuildable <in cities with a [Cognac Distillery]>", "Provides [1] [Whisky]"],
-		"requiredTech": "Theology"
+		"requiredTech": "Distillation"
 	},
 	{
 		"name": "Vodka Distillery",
@@ -547,7 +547,7 @@
 		"culture": 2,
                 "requiredNearbyImprovedResources": ["Wheat"],
 		 "uniques": ["Unbuildable <in cities with a [Rum Distillery]>", "Unbuildable <in cities with a [Whisky Distillery]>", "Unbuildable <in cities with a [Cognac Distillery]>", "Provides [1] [Vodka]"],
-		"requiredTech": "Theology"
+		"requiredTech": "Distillation"
 	},
 	{
 		"name": "Cognac Distillery",
@@ -555,7 +555,7 @@
 		"culture": 2,
                 "requiredBuilding": "Wine Cellar",
 		 "uniques": ["Unbuildable <in cities with a [Rum Distillery]>", "Unbuildable <in cities with a [Whisky Distillery]>", "Unbuildable <in cities with a [Vodka Distillery]>", "Provides [1] [Cognac]"],
-		"requiredTech": "Theology"
+		"requiredTech": "Distillation"
 	},
 	{
 		"name": "Chichen Itza",

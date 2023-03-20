@@ -50,7 +50,7 @@
     {
         "name": "Goddess of Festivals",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Wine]", "[+1 Culture, +1 Faith] from every [Incense]"]
+        "uniques": ["[+1 Culture, +1 Faith] from every [Grape]", "[+1 Culture, +1 Faith] from every [Incense]"]
     },
     {
         "name": "Goddess of Love",

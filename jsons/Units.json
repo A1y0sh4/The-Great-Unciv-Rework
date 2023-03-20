@@ -882,19 +882,6 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Musketeer",
-		"unitType": "Gunpowder",
-		"replaces": "Musketman",
-		"uniqueTo": "France",
-		"movement": 2,
-		"strength": 28,
-		"cost": 175,
-		"requiredTech": "Gunpowder",
-		"upgradesTo": "Rifleman",
-		"obsoleteTech": "Rifling",
-		"attackSound": "shot"
-	},
-	{
 		"name": "Janissary",
 		"unitType": "Gunpowder",
 		"replaces": "Musketman",
@@ -928,7 +915,7 @@
 		"replaces": "Musketman",
 		"uniqueTo": "Spain",
 		"movement": 2,
-		"strength": 26,
+		"strength": 24,
 		"cost": 175,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",

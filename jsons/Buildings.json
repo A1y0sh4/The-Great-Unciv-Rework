@@ -91,9 +91,25 @@
 		"isWonder": true,
                 "requiredNearbyImprovedResources": ["Stone"],
 		"greatPersonPoints": {"Great Engineer": 1},
-		 "uniques": ["[+1 Science] from every [Stone]", "Hidden when religion is disabled"],
+		 "uniques": ["[+2 Science] from every [Stone]", "Hidden when religion is disabled"],
 		"requiredTech": "Calendar",
 		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
+	},
+	{
+		"name": "Brewery",
+		"cost": 60,
+		"culture": 2,
+                "requiredNearbyImprovedResources": ["Wheat"],
+		 "uniques": ["Provides [1] [Beer]"],
+		"requiredTech": "Calendar"
+	},
+	{
+		"name": "Wine Cellar",
+		"cost": 60,
+		"culture": 2,
+                "requiredNearbyImprovedResources": ["Grape"],
+		 "uniques": ["Provides [1] [Wine]"],
+		"requiredTech": "Calendar"
 	},
 	{
 		"name": "Library",
@@ -508,6 +524,38 @@
 			"[+100]% Natural religion spread [in this city]", "[+1 Faith] from all [Faith] buildings", "Hidden when religion is disabled", "Can only be built [in holy cities]"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
+	},
+	{
+		"name": "Rum Distillery",
+		"cost": 120,
+		"culture": 2,
+                "requiredNearbyImprovedResources": ["Sugar"],
+		 "uniques": ["Unbuildable <in cities with a [Vodka Distillery]>", "Unbuildable <in cities with a [Whisky Distillery]>", "Unbuildable <in cities with a [Cognac Distillery]>", "Provides [1] [Rum]"],
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Whisky Distillery",
+		"cost": 120,
+		"culture": 2,
+                "requiredNearbyImprovedResources": ["Wheat"],
+		 "uniques": ["Unbuildable <in cities with a [Rum Distillery]>", "Unbuildable <in cities with a [Vodka Distillery]>", "Unbuildable <in cities with a [Cognac Distillery]>", "Provides [1] [Whisky]"],
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Vodka Distillery",
+		"cost": 120,
+		"culture": 2,
+                "requiredNearbyImprovedResources": ["Wheat"],
+		 "uniques": ["Unbuildable <in cities with a [Rum Distillery]>", "Unbuildable <in cities with a [Whisky Distillery]>", "Unbuildable <in cities with a [Cognac Distillery]>", "Provides [1] [Vodka]"],
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Cognac Distillery",
+		"cost": 120,
+		"culture": 2,
+                "requiredBuilding": "Wine Cellar",
+		 "uniques": ["Unbuildable <in cities with a [Rum Distillery]>", "Unbuildable <in cities with a [Whisky Distillery]>", "Unbuildable <in cities with a [Vodka Distillery]>", "Provides [1] [Cognac]"],
+		"requiredTech": "Theology"
 	},
 	{
 		"name": "Chichen Itza",

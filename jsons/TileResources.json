@@ -393,7 +393,7 @@
 	{
 		"name": "Cognac",
 		"resourceType": "Luxury",
-		"uniques": ["[-10]% [Production] [in all cities]"]
+		"uniques": ["[-5]% [Production] [in all cities]"]
 	},
 	{
 		"name": "Sugar",

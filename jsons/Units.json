@@ -148,10 +148,11 @@
 		"strength": 5,
 		"rangedStrength": 5,
 		"cost": 35,
+		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"promotions": ["Slinger Withdraw"],
-		"uniques": ["Hovering unit", "Ignores Zone of Control"],
+		"uniques": ["Can pass through impassable tiles", "Ignores Zone of Control"],
 		"attackSound": "arrow"
 	},
 	{
@@ -1553,7 +1554,6 @@
 		"attackSound": "nuke"
 	},
 	{
-		// "Hovering unit" unique gives ability to get into impassable tiles - and only that (no vision bonus or flying over ocean)
 		// Unit embarks like any other ground unit and has penalty for attacking over river or from embarked state
 		"name": "Helicopter Gunship",
 		"unitType": "Helicopter",
@@ -1563,7 +1563,7 @@
 		"requiredTech": "Computers",
 		"requiredResource": "Aluminum",
 		"uniques": ["[+100]% Strength <vs [Armored] units>", "No defensive terrain bonus", "Can move after attacking",
-			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit"],
+			"All tiles cost 1 movement", "Can pass through impassable tiles", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit"],
 		"attackSound": "machinegun"
 	},
 

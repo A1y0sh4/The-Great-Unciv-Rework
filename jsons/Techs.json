@@ -232,6 +232,12 @@
 				"quote": "'Education is the best provision for old age.' - Aristotle"
 			},
 			{
+				"name": "Distillation",
+				"row": 4,
+				"prerequisites": ["Theology", "Guilds"],
+				"quote": ""
+			},
+			{
 				"name": "Chivalry",
 				"row": 6,
 				"prerequisites": ["Civil Service","Guilds"],
@@ -275,7 +281,7 @@
 			{
 				"name": "Acoustics",
 				"row": 4,
-				"prerequisites": ["Education"],
+				"prerequisites": ["Education","Distillation"],
 				"quote": "'Their rising all at once was as the sound of thunder heard remote' - Milton"
 			},
 			{
@@ -293,7 +299,7 @@
 			{
 				"name": "Gunpowder",
 				"row": 10,
-				"prerequisites": ["Physics","Steel"],
+				"prerequisites": ["Physics","Steel","Distillation"],
 				"quote": "'The day when two army corps can annihilate each other in one second, all civilized nations, it is to be hoped, will recoil from war and discharge their troops.' - Alfred Nobel"
 			}
 		]

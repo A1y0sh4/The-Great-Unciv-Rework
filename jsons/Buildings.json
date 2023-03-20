@@ -116,10 +116,10 @@
 		"replaces": "Wine Cellar",
 		"uniqueTo": "France",
 		"cost": 60,
-		"culture": 3,
-		"faith": 3,
+		"culture": 2,
+		"faith": 2,
                 "requiredNearbyImprovedResources": ["Grape"],
-		 "uniques": ["Provides [1] [Wine]"],
+		 "uniques": ["Provides [2] [Wine]"],
 		"requiredTech": "Calendar"
 	},
 	{

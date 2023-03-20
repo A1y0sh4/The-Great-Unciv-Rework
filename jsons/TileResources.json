@@ -76,6 +76,17 @@
 		"uniques": ["Resource", "Generated on every [8] tiles <in [Featureless] [Coast] tiles>",
 			                "Generated on every [4] tiles <in [Featureless] [Coast] tiles> <in [Tundra] Regions>"]
 	},
+	{
+		"name": "Grape",
+		"resourceType": "Bonus",
+		"revealedBy": "Calendar",
+		"terrainsCanBeFoundOn": ["Grassland","Plains"],
+		"food": 1,
+		"improvement": "Plantation",
+		"uniques": ["Resource", "Generated with weight [40] <in [Plains] Regions>",
+					"Generated with weight [10] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]"]
+	},
 	/*
 	{
 		"name": "Bison",
@@ -357,20 +368,38 @@
 	{
 		"name": "Wine",
 		"resourceType": "Luxury",
-		"revealedBy": "Calendar",
-		"terrainsCanBeFoundOn": ["Grassland","Plains"],
-		"gold": 1,
-		"improvement": "Plantation",
-		"uniques": ["Resource", "Generated with weight [40] <in [Plains] Regions>",
-					"Generated with weight [10] <in [Hybrid] Regions>",
-					"Generated near City States with weight [10]"]
+		"uniques": ["[-5]% [Production] [in all cities]"]
+	},
+	{
+		"name": "Beer",
+		"resourceType": "Luxury",
+		"uniques": ["[-5]% [Production] [in all cities]"]
+	},
+	{
+		"name": "Rum",
+		"resourceType": "Luxury",
+		"uniques": ["[-5]% [Production] [in all cities]"]
+	},
+	{
+		"name": "Whisky",
+		"resourceType": "Luxury",
+		"uniques": ["[-5]% [Production] [in all cities]"]
+	},
+	{
+		"name": "Vodka",
+		"resourceType": "Luxury",
+		"uniques": ["[-5]% [Production] [in all cities]"]
+	},
+	{
+		"name": "Cognac",
+		"resourceType": "Luxury",
+		"uniques": ["[-5]% [Production] [in all cities]"]
 	},
 	{
 		"name": "Sugar",
 		"resourceType": "Luxury",
 		"revealedBy": "Calendar",
 		"terrainsCanBeFoundOn": ["Flood plains","Grassland","Marsh"],
-		// Technically sugar can also be placed on lowland jungles which then *turn* into marsh.
 		"gold": 1,
 		"improvement": "Plantation",
 		"uniques": ["Resource", "Generated with weight [20] <in [Jungle] Regions>",

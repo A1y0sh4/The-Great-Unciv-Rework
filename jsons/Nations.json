@@ -1499,6 +1499,70 @@
 		"innerColor": [80, 170, 200],
 		"cities": ["Zurich"]
 	},
+        {
+		"name": "Prague",
+		"adjective": ["Czech"],
+		"cityStateType": "Cultured",
+                "startBias": ["Hill","Grassland"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [247, 0, 207],
+		"cities": ["Prague"]
+	},
+        {
+		"name": "Antananarivo",
+		"adjective": ["Antananarivian"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Jungle"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [217, 250, 70],
+		"cities": ["Antananarivo"]
+	},
+        {
+		"name": "Hong Kong",
+		"adjective": ["Hong Kong"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "They will write songs of this.... pray that they shall be in your favor.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [144, 173, 14],
+		"cities": ["Hong Kong"]
+	},
+	{
+		"name": "Malacca",
+		"adjective": ["Malacca"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [81, 140, 3],
+		"cities": ["Malacca"]
+	},
+        {
+		"name": "Vatican City",
+		"adjective": ["Vatican"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We... defeated? No... we had so much work to do!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [224, 222, 188],
+		"cities": ["Vatican City"]
+	},
 
 	//Barbarian
 	{

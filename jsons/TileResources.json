@@ -50,10 +50,10 @@
 		"terrainsCanBeFoundOn": ["Plains","Flood plains","Desert"], // Desert only if fresh water
 		"food": 1,
 		"improvement": "Farm",
-		"uniques": ["Resource", "Generated on every [10] tiles <in [Featureless] [Plains] tiles>",
-					"Generated on every [15] tiles <in [Desert] [Fresh Water] tiles> <in tiles without [Hill]>",
-					"Generated on every [20] tiles <in [Featureless] [Plains] tiles> <in [Hill] Regions>",
-					"Generated on every [25] tiles <in [Fresh Water] [Desert] tiles> <in tiles without [Hill]> <in [Hill] Regions>"]
+		"uniques": ["Resource", "Generated on every [15] tiles <in [Featureless] [Plains] tiles>",
+					"Generated on every [20] tiles <in [Desert] [Fresh Water] tiles> <in tiles without [Hill]>",
+					"Generated on every [25] tiles <in [Featureless] [Plains] tiles> <in [Hill] Regions>",
+					"Generated on every [30] tiles <in [Fresh Water] [Desert] tiles> <in tiles without [Hill]> <in [Hill] Regions>"]
 	},
 	{
 		"name": "Stone",
@@ -81,10 +81,10 @@
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Hill"],
 		"food": 1,
 		"improvement": "Plantation",
-		"uniques": ["Resource", "Generated with weight [32] <in [Hill] Regions>",
-			                "Generated with weight [24] <in [Plains] Regions>",
-					"Generated with weight [16] <in [Hybrid] Regions>",
-					"Generated near City States with weight [8]"]
+		"uniques": ["Resource", "Generated on every [15] tiles <in [Featureless] [Hill] tiles> <in [Grassland] Regions>",
+			                "Generated on every [25] tiles <in [Featureless] [Hill] tiles> <in [Plains] Regions>",
+					"Generated on every [40] tiles <in [Featureless] [Hill] tiles> <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]"]
 	},
 	
 	// Strategic resources

@@ -767,19 +767,6 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
-		"name": "Ceilidh Hall",
-		"replaces": "Opera House",
-		"uniqueTo": "Celts",
-		"culture": 4,
-		"happiness": 3,
-		"specialistSlots": {"Artist": 1},
-		"hurryCostModifier": 10,
-		"requiredBuilding": "Amphitheater",
-		"maintenance": 2,
-		"requiredTech": "Acoustics",
-		"uniques": ["Destroyed when the city is captured"]
-	},
-	{
 		"name": "Sistine Chapel",
 		"culture": 3,
 		"isWonder": true,

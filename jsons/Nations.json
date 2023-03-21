@@ -73,6 +73,7 @@
 		"name": "Germany",
 		"leaderName": "Otto von Bismarck",
 		"adjective": ["German"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "",
@@ -262,6 +263,7 @@
 		"name": "America",
 		"leaderName": "George Washington",
 		"adjective": ["American"],
+		"startBias": ["Lakes"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "",
@@ -291,7 +293,7 @@
 		"name": "Rome",
 		"leaderName": "Augustus Caesar",
 		"adjective": ["Roman"],
-		"startBias":["Avoid [Tundra]","Avoid [Desert]"],
+		"startBias":["Hill"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "",
@@ -346,6 +348,7 @@
 		"name": "France",
 		"leaderName": "Napoleon",
 		"adjective": ["French"],
+		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "",
@@ -529,6 +532,7 @@
 		"name": "China",
 		"leaderName": "Wu Zetian",
 		"adjective": ["Chinese"],
+		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "",
@@ -609,6 +613,7 @@
 		"name": "Persia",
 		"leaderName": "Darius I",
 		"adjective": ["Persian"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "",
@@ -662,7 +667,7 @@
 		"name": "Babylon",
 		"leaderName": "Nebuchadnezzar II",
 		"adjective": ["Babylonian"],
-		"startBias": ["Avoid [Tundra]"],
+		"startBias": ["Flood plains"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "",
@@ -690,7 +695,7 @@
 		"name": "Songhai",
 		"leaderName": "Askia",
 		"adjective": ["Songhai"],
-		"startBias": ["Desert"],
+		"startBias": ["Flood plains"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
@@ -842,7 +847,7 @@
 		"name": "Arabia",
 		"leaderName": "Harun al-Rashid",
 		"adjective": ["Arabian"],
-		"startBias": ["Desert"],
+		"startBias": ["Oasis"],
 		"preferredVictoryType": "Religious",
 
 		"startIntroPart1": "",
@@ -869,7 +874,7 @@
 		"name": "Egypt",
 		"leaderName": "Ramesses II",
 		"adjective": ["Egyptian"],
-		"startBias": ["Desert"],
+		"startBias": ["Flood plains"],
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "",

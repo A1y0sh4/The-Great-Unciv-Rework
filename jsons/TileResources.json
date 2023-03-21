@@ -487,17 +487,6 @@
 					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]> <in tiles without [Tundra]>"]
 	},
 	{
-		"name": "Cocoa",
-		"resourceType": "Luxury",
-		"revealedBy": "Pottery",
-		"terrainsCanBeFoundOn": ["Jungle"],
-		"food": 1,
-		"gold": 1,
-		"improvement": "Plantation",
-		"uniques": ["Resource", "Generated with weight [24] <in [Jungle] Regions>",
-					"Generated with weight [8] <in [Hybrid] Regions>"]
-	},
-	{
 		"name": "Crab",
 		"resourceType": "Luxury",
 		"revealedBy": "Sailing",

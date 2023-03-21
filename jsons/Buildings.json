@@ -38,9 +38,7 @@
 		"food": 2,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
-			"[+1 Food] from [Bananas] tiles [in this city]",
-			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"uniques": ["[25]% Food is carried over after population increases [in this city]"],
 		"requiredTech": "Pottery"
 	},
 	{
@@ -473,7 +471,7 @@
 		"name": "Aqueduct",
 		"maintenance": 1,
 		"hurryCostModifier": 0,
-		"uniques": ["[33]% Food is carried over after population increases [in this city]", "[+10]% growth [in this city]"],
+		"uniques": ["[25]% Food is carried over after population increases [in this city]", "[+10]% growth [in this city]"],
 		"requiredTech": "Engineering"
 	},
 	{
@@ -800,7 +798,7 @@
 //	},
 	{
 		"name": "Forbidden Palace",
-		"culture": 1,
+		"culture": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
 		"uniques": ["[-15]% Unhappiness from [Population] [in all cities]"],
@@ -991,7 +989,7 @@
 		"requiredBuilding": "Aqueduct",
 		"maintenance": 2,
 		"hurryCostModifier": 0,
-		"uniques": ["[33]% Food is carried over after population increases [in this city]", "[+10]% growth [in this city]", "All newly-trained [relevant] units [in this city] receive the [Medic] promotion"],
+		"uniques": ["[25]% Food is carried over after population increases [in this city]", "[+10]% growth [in this city]", "All newly-trained [relevant] units [in this city] receive the [Medic] promotion"],
 		"requiredTech": "Biology"
 	},
 	{
@@ -1100,7 +1098,7 @@
 		"food": 2,
 		"maintenance": 3,
 		"requiredTech": "Pharmaceuticals",
-		"uniques": ["[34]% Food is carried over after population increases [in this city]", "[+10]% growth [in this city]"]
+		"uniques": ["[25]% Food is carried over after population increases [in this city]", "[+10]% growth [in this city]"]
 	},
 	{
 		"name": "Manhattan Project",

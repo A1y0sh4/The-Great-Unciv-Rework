@@ -97,7 +97,7 @@
 	},
 	{
 		"name": "Brewery",
-		"cost": 60,
+		"cost": 75,
 		"culture": 2,
                 "requiredNearbyImprovedResources": ["Wheat"],
 		 "uniques": ["Provides [1] [Beer]"],
@@ -105,7 +105,7 @@
 	},
 	{
 		"name": "Wine Cellar",
-		"cost": 60,
+		"cost": 75,
 		"culture": 2,
                 "requiredNearbyImprovedResources": ["Grape"],
 		 "uniques": ["Provides [1] [Wine]"],
@@ -115,7 +115,7 @@
 		"name": "Monastery",
 		"replaces": "Wine Cellar",
 		"uniqueTo": "France",
-		"cost": 60,
+		"cost": 75,
 		"culture": 2,
 		"faith": 2,
                 "requiredNearbyImprovedResources": ["Grape"],
@@ -233,7 +233,7 @@
 		"uniqueTo": "Russia",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"cityHealth": 25,
+		"cityStrength": 3,
 		"greatPersonPoints": {"Great General": 1},
 		"uniques": ["[-25]% Culture cost of natural border growth [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]",
 			"New [{Land} {Military}] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
@@ -538,7 +538,7 @@
 	},
 	{
 		"name": "Rum Distillery",
-		"cost": 120,
+		"cost": 140,
 		"culture": 2,
                 "requiredNearbyImprovedResources": ["Sugar"],
 		 "uniques": ["Unbuildable <in cities with a [Vodka Distillery]>", "Unbuildable <in cities with a [Whisky Distillery]>", "Unbuildable <in cities with a [Cognac Distillery]>", "Provides [1] [Rum]"],
@@ -546,7 +546,7 @@
 	},
 	{
 		"name": "Whisky Distillery",
-		"cost": 120,
+		"cost": 140,
 		"culture": 2,
                 "requiredNearbyImprovedResources": ["Wheat"],
 		 "uniques": ["Unbuildable <in cities with a [Rum Distillery]>", "Unbuildable <in cities with a [Vodka Distillery]>", "Unbuildable <in cities with a [Cognac Distillery]>", "Provides [1] [Whisky]"],
@@ -554,7 +554,7 @@
 	},
 	{
 		"name": "Vodka Distillery",
-		"cost": 120,
+		"cost": 140,
 		"culture": 2,
                 "requiredNearbyImprovedResources": ["Wheat"],
 		 "uniques": ["Unbuildable <in cities with a [Rum Distillery]>", "Unbuildable <in cities with a [Whisky Distillery]>", "Unbuildable <in cities with a [Cognac Distillery]>", "Provides [1] [Vodka]"],
@@ -562,7 +562,7 @@
 	},
 	{
 		"name": "Cognac Distillery",
-		"cost": 120,
+		"cost": 140,
 		"culture": 2,
                 "requiredBuilding": "Wine Cellar",
 		 "uniques": ["Unbuildable <in cities with a [Rum Distillery]>", "Unbuildable <in cities with a [Whisky Distillery]>", "Unbuildable <in cities with a [Vodka Distillery]>", "Provides [1] [Cognac]"],

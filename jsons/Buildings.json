@@ -361,9 +361,9 @@
 		"replaces": "Temple",
 		"uniqueTo": "Egypt",
 		"maintenance": 0,
-		"uniques": ["Doubles Gold given to enemy if city is captured"],
+		"uniques": ["Doubles Gold given to enemy if city is captured", "[+10]% [Culture] [in this city] <after discovering [Archaeology]>"],
 		"faith": 2,
-		"happiness": 2,
+		"culture": 1,
 		"requiredBuilding": "Shrine",
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy"
@@ -374,8 +374,9 @@
 		"uniqueTo": "Songhai",
 		"maintenance": 0,
 		"hurryCostModifier": 25,
-		"culture": 2,
+		"science": 2,
 		"faith": 2,
+		"uniques": ["[+15]% Great Person generation [in this city]"]
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy"
 	},

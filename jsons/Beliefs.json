@@ -5,7 +5,7 @@
     {
         "name": "Ancestor Worship",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Shrine]"]
+        "uniques": ["[+1 Culture] from every [Shrine]", "[+1 Faith] from every [Monument]"]
     },
     {
         "name": "Dance of the Aurora",
@@ -50,7 +50,7 @@
     {
         "name": "Goddess of Festivals",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith, +1 Culture] [in this city] <when above [1] [Wine]>", "[+1 Faith, +1 Culture] [in this city] <when above [1] [Beer]>"]
+        "uniques": ["[+1 Faith, +1 Culture] from every [Brewery]", "[+1 Faith, +1 Culture] from every [Wine Cellar]"]
     },
     {
         "name": "Goddess of Love",

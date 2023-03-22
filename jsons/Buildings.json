@@ -55,7 +55,7 @@
 		"uniqueTo": "The Maya",
 		"faith": 1,
 		"science": 1,
-		"cost": 40,
+		"cost": 30,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
 		"uniques": ["Hidden when religion is disabled"]

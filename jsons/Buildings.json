@@ -321,8 +321,8 @@
 	{
 		"name": "Hanging Gardens",
 		"greatPersonPoints": {"Great Artist": 1},
-		"food": 5,
-		"culture": 1,
+		"food": 2,
+		"culture": 2,
 		"isWonder": true,
 		"requiredTech": "Mathematics",
 		"uniques": ["Gain a free [Garden] [in this city]", "[+15]% growth [in all cities]"],

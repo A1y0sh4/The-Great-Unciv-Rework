@@ -128,7 +128,7 @@
     {
         "name": "Asceticism",
         "type": "Follower",
-        "uniques": ["[-2] Happiness from each type of luxury resource", "[+1 Happiness] from all [Faith] buildings"]
+        "uniques": ["[-1 Happiness] from all [Happiness] buildings", "[+1 Happiness] from all [Faith] buildings"]
     },
     {
         "name": "Cathedrals",

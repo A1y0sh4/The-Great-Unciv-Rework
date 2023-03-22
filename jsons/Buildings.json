@@ -38,7 +38,7 @@
 		"food": 2,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
-		"uniques": ["[25]% Food is carried over after population increases [in this city]"],
+		"uniques": ["[10]% Food is carried over after population increases [in this city]"],
 		"requiredTech": "Pottery"
 	},
 	{
@@ -471,7 +471,7 @@
 		"name": "Aqueduct",
 		"maintenance": 1,
 		"hurryCostModifier": 0,
-		"uniques": ["[25]% Food is carried over after population increases [in this city]", "[+10]% growth [in this city]"],
+		"uniques": ["[15]% Food is carried over after population increases [in this city]", "[+10]% growth [in this city]"],
 		"requiredTech": "Engineering"
 	},
 	{
@@ -989,7 +989,7 @@
 		"requiredBuilding": "Aqueduct",
 		"maintenance": 2,
 		"hurryCostModifier": 0,
-		"uniques": ["[25]% Food is carried over after population increases [in this city]", "[+10]% growth [in this city]", "All newly-trained [relevant] units [in this city] receive the [Medic] promotion"],
+		"uniques": ["[20]% Food is carried over after population increases [in this city]", "[+10]% growth [in this city]", "All newly-trained [relevant] units [in this city] receive the [Medic] promotion"],
 		"requiredTech": "Biology"
 	},
 	{

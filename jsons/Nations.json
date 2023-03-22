@@ -114,7 +114,7 @@
 		"neutralHello": "Once again, greetings.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "I believe I have something that may be of some importance to you.",
-		"outerColor": [255,132,0],
+		"outerColor": [229, 118, 0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Dutch East India Company",
 		"uniques": ["[+50]% [Gold] [in all cities connected to capital] <during a Golden Age>", "[+2 Happiness] from every [Harbor]", "[+2 Happiness] from every [Seaport]"],
@@ -335,7 +335,7 @@
 
 		"tradeRequest": "My friend, does this seem reasonable to you?",		
 		"outerColor": [255, 255, 255],
-		"innerColor": [255, 185, 0],
+		"innerColor": [191, 138, 0],
 		"uniqueName": "Hellenic League",
 		"uniques": ["[+15]% Strength <when fighting units from a Civilization with more Cities than you>", "Empire enters golden age <upon conquering a city>", "[-100]% Unhappiness from [Population] [in annexed cities] <during a Golden Age>"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
@@ -601,8 +601,10 @@
 		"hateHello": "What do you want?",
 		"tradeRequest": "My friend, are you interested in this arrangement?",
 		"favoredReligion": "Hinduism",
-		"outerColor": [18,136,7],
-		"innerColor": [255,153,51],
+		
+		"outerColor": [15, 115, 5],
+		"innerColor": [255, 168, 81],
+		
 		"uniqueName": "Population Growth",
 		"uniques": ["[+1] population in a random city <upon declaring friendship>", "[+25]% Natural religion spread [in all cities] <when not at war>", "[+1 Faith] from every [Cattle]"],
 		"cities": ["Delhi","Mumbai","Vijayanagara","Pataliputra","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
@@ -1015,7 +1017,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "So this is how it feels to die...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [0,0,255],
+		"innerColor": [51, 51, 255],
 		"cities": ["Hanoi"]
 	},
 	{
@@ -1028,7 +1030,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [153,0,76],
+		"innerColor": [168, 38, 102],
 		"cities": ["Kabul"]
 	},
 	{
@@ -1041,7 +1043,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Today, the Malay people obey you, but do not think this is over...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [0,68,102],
+		"innerColor": [38, 96, 124],
 		"cities": ["Kuala Lumpur"]
 	},
 	{
@@ -1572,7 +1574,7 @@
 	{
 		"name": "Barbarians",
 		"outerColor": [0,0,0],
-		"innerColor": [180,0,0],
+		"innerColor": [183, 12, 12],
 		"uniques": [""]
 	}
 	]

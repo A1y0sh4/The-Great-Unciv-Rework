@@ -102,7 +102,7 @@
     {
         "name": "Religious Settlements",
         "type": "Pantheon",
-        "uniques": ["[-15]% Culture cost of natural border growth [in cities following this religion]", "May buy [Settler] units with [Faith] for [2] times their normal Production cost"]
+        "uniques": ["May buy [Settler] units with [Faith] for [2] times their normal Production cost"]
     },
     {
         "name": "Sacred Path",

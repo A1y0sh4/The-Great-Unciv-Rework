@@ -777,6 +777,6 @@
 	},
 	{
 		"name": "Ceremonial Burial",
-		"uniques": ["[+10 Faith] <upon being defeated>"]
+		"uniques": ["Gain [5]-[15] [Faith] <upon being defeated>"]
 	}
 ]

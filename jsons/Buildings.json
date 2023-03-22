@@ -471,6 +471,7 @@
 		"name": "Aqueduct",
 		"maintenance": 1,
 		"hurryCostModifier": 0,
+		"requiredBuilding": "Granary",
 		"uniques": ["[15]% Food is carried over after population increases [in this city]", "[+10]% growth [in this city]"],
 		"requiredTech": "Engineering"
 	},

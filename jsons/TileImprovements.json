@@ -194,36 +194,36 @@
 		"name": "Academy",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"science": 8,
+		"science": 4,
 		"uniques": ["Improvement", "Great Improvement", "[+2 Science] <after discovering [Scientific Theory]>", "[+2 Science] <after discovering [Atomic Theory]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 	{
 		"name": "Landmark",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"culture": 6,
-		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"culture": 4,
+		"uniques": ["Improvement", "Great Improvement", "[+2 Culture] <after discovering [Acoustics]>", "[+2 Culture] <after discovering [Radio]>", "[+2 Culture] <after discovering [Acoustics]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 	{
 		"name": "Manufactory",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 4,
-		"uniques": ["Improvement", "Great Improvement", "[+1 Production] <after discovering [Chemistry]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["Improvement", "Great Improvement", "[+2 Production] <after discovering [Chemistry]>", "[+2 Production] <after discovering [Steam Power]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 	{
 		"name": "Customs house",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"gold": 4,
-		"uniques": ["Improvement", "Great Improvement", "[+1 Gold] <after discovering [Economics]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["Improvement", "Great Improvement", "[+2 Gold] <after discovering [Guilds]>", "[+2 Gold] <after discovering [Economics]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 	{
 		"name": "Holy site",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"faith": 6,
-		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"faith": 4,
+		"uniques": ["Improvement", "Great Improvement", "[+2 Faith] <after adopting [Piety]>", "[+2 Faith] <after discovering [Theology]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 	{
 		"name": "Citadel",
@@ -231,7 +231,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Great Improvement", "Improvement",
 			"Gives a defensive bonus of [100]%",
-			"Adjacent enemy units ending their turn take [30] damage",
+			"Adjacent enemy units ending their turn take [33] damage",
 			"Can be built just outside your borders",
         	"Constructing it will take over the tiles around it and assign them to your closest city",
 			"Removes removable features when built",

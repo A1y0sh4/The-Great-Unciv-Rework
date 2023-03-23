@@ -232,7 +232,7 @@
             {
                 "name": "Organized Religion",
                 "uniques": [
-		    "[+100]% Production when constructing [Faith] buildings [in all cities]", "Provides the cheapest [Faith] building in your first [4] cities for free"
+		    "Provides the cheapest [Faith] building in your first [4] cities for free", "Enables conversion of city production to [Faith]"
                 ],
                 "row": 1,
                 "column": 2

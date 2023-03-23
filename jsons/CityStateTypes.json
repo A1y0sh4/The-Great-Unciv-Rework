@@ -34,10 +34,10 @@
     {
         "name": "Religious",
         "friendBonusUniques":  [
-            "[-10]% Faith cost of generating Great Prophet equivalents"
+            "[+10]% Natural religion spread [in all cities]"
         ],
         "allyBonusUniques":  [
-            "[+15]% Natural religion spread [in all cities]", "[-10]% Faith cost of generating Great Prophet equivalents"
+            "[Faith] cost of purchasing items in cities [-15]%", "[+10]% Natural religion spread [in all cities]"
         ],
         "color": [255, 255, 255]
     }

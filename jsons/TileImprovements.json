@@ -202,7 +202,7 @@
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"culture": 4,
-		"uniques": ["Improvement", "Great Improvement", "[+2 Culture] <after discovering [Acoustics]>", "[+2 Culture] <after discovering [Radio]>", "[+2 Culture] <after discovering [Acoustics]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["Improvement", "Great Improvement", "[+2 Culture] <after discovering [Acoustics]>", "[+2 Culture] <after discovering [Radio]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 	{
 		"name": "Manufactory",

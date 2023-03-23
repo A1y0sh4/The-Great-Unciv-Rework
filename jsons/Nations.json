@@ -606,7 +606,7 @@
 		"innerColor": [255, 168, 81],
 		
 		"uniqueName": "Population Growth",
-		"uniques": ["[+1] population in a random city <upon declaring friendship>", "[+25]% Natural religion spread [in all cities] <when not at war>", "[+1 Faith] from every [Cattle]"],
+		"uniques": ["[15]% Food is carried over after population increases [in all cities] <when not at war>", "[+1 Faith] from every [Cattle]"],
 		"cities": ["Delhi","Mumbai","Vijayanagara","Pataliputra","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
 			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur",
 			"Bodhgaya","Kushinagar","Amaravati","Gaur","Gwalior","Jaipur","Karachi"]

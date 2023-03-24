@@ -370,7 +370,7 @@
             {
                 "name": "Trade Unions",
                 "uniques": [
-                    "[-50]% maintenance on road & railroads"],
+                    "[-50]% maintenance on road & railroads", "[+1 Production] from each Trade Route"],
                 "row": 1,
                 "column": 4
             },

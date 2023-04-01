@@ -35,7 +35,7 @@
 	// Column 1
 	{
 		"name": "Granary",
-		"food": 2,
+		"food": 3,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["[10]% Food is carried over after population increases [in this city]"],

@@ -11,8 +11,8 @@
                 "startBias": ["Coast"],
 		"preferredVictoryType": "Religious",
 
-		"startIntroPart1": "",
-                "startIntroPart2": "",
+		"startIntroPart1": "All hail the most magnificent and magnanimous Empress Theodora, beloved of Byzantium and of Rome! From the lowly ranks of actress and courtesan you became the most powerful woman in the Roman Empire, consort to Justinian I. Starting in the late 520's AD, you joined your husband in a series of important spiritual and legal reforms, creating many laws which elevated the status of and promoted equal treatment of women in the empire. You also aided in the restoration and construction of many aqueducts, bridges and churches across Constantinople, culminating in the creation of the Hagia Sophia, one of the most splendid architectural wonders of the world.",
+                "startIntroPart2": "Beautiful Empress, Byzantium is in need of your wisdom and strength - her people are lost without your light to lead them. The Byzantine Empire may have fallen once, but its spirit is still intact waiting to be reborn anew. Can you return Byzantium to the heights of glory it once enjoyed? Can you create a civilization to stand the test of time?",
 		
 		"declaringWar": "It is always a shame to destroy a thing of beauty. Happily, you are not one.",
 		"attacked": "Now darling, tantrums are most unbecoming. I shall have to teach you a lesson.",
@@ -39,8 +39,8 @@
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Religious",
 
-		"startIntroPart1": "",
-                "startIntroPart2": "",
+		"startIntroPart1": "Eternal glory and praise for you, fierce and vengeful Warrior Queen! In a time dominated by men, you not only secured your throne and sovereign rule, but also successfully defied the power of the Roman Empire. After suffering terrible punishment and humiliation at the hand of the Roman invaders, you rallied your people in a bloody and terrifying revolt. Legions fell under your chariot wheels and the city of London burned. While in the end the Romans retained ownership of the isles, you alone made Nero consider withdrawing all troops and leaving Britain forever.",
+                "startIntroPart2": "Oh sleeping lioness, your people desire that you rise and lead them again in the calling that is your namesake. Will you meet their challenge on the open field and lead the Celts to everlasting victory? Will you restore your lands and build an empire to stand the test of time?",
 		
 		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
 		"attacked": "Traitorous man! The Celtic peoples will not stand for such wanton abuse and slander - I shall have your balls!",
@@ -76,8 +76,8 @@
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "",
-                "startIntroPart2": "",
+		"startIntroPart1": "Hail mighty Bismarck, first chancellor of Germany and her empire! Germany is an upstart nation, fashioned from the ruins of the Holy Roman Empire and finally unified in 1871, a little more than a century ago. The German people have proven themselves to be creative, industrious and ferocious warriors. Despite enduring great catastrophe in the first half of the 20th century, Germany remains a worldwide economic, artistic and technological leader.",
+                "startIntroPart2": "Great Prince Bismarck, the German people look to you to lead them to greater days of glory. Their determination is strong and they turn to you, their beloved iron chancellor, to guide them once more. Will you rule and conquer through blood and iron, or foster the Germanic arts and industry? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
 		"attacked": "Corrupted villain! We will bring you into the ground!",
@@ -104,8 +104,8 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "",
-                "startIntroPart2": "",
+		"startIntroPart1": "Hail stalwart Prince William of Orange, liberator of the Netherlands and hero to the Dutch people. It was your courageous effort in the 1568 rebellion against Spanish dominion that led the Dutch to freedom, and ultimately resulted in the Eighty Years' War. Your undertaking allowed for the creation of one of Europe's first modern republics, the Seven United Provinces. You gave your life to the rebellion, falling at the hands of an assassin in 1584, but your death would only serve to embolden the people's charge, and your legacy as 'Father of the Fatherland' will stand as a symbol of Dutch independence for all time.",
+                "startIntroPart2": "Brave prince, the people again yearn for the wise stewardship your wisdom afforded them. Can you once again secure the sovereignty of your kingdom and lead your people to greatness? Can you build a civilization that stands the test of time?",
 		
 		"declaringWar": "As much as I despise war, I consider it a, hahaha, contribution to the common cause to erase your existence.",
 		"attacked": "You call yourself an exalted ruler, but I see nothing more than a smartly dressed barbarian!",
@@ -130,8 +130,8 @@
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
 	
-	        "startIntroPart1": "",
-                "startIntroPart2": "",
+	        "startIntroPart1": "Greetings upon thee, Your Imperial Majesty Catherine, wondrous Empress of all the Russias. At your command lies the largest country in the world. Mighty Russia stretches from the Pacific Ocean in the east to the Baltic Sea in the west. Despite wars, droughts, and every manner of disaster the heroic Russian people survive and prosper, their artists and scientists among the best in the world. The Empire today remains one of the strongest ever seen in human history - a true superpower, with the greatest destructive force ever devised at her command.",
+                "startIntroPart2": "Catherine, your people look to you to bring forth glorious days for Russia and her people, to revitalize the land and recapture the wonder of the Enlightenment. Will you lead your people once more into greatness? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "You've behaved yourself very badly, you know it. Now it's payback time.",
 		"attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
@@ -157,8 +157,8 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "",
-                "startIntroPart2": "",
+		"startIntroPart1": "Honor and glory be yours, Harald Bluetooth Gormsson, mighty heir of King Gorm the Old and Thyra Dannebod. Not only were you victorious on the battlefield against the armies of Norway, you also completed massive construction projects across the land - numerous Ring Fortresses to protect the populace from invasion and internal strife. You successfully drove off waves of German settlers in 983 AD and sheltered your kingdom from unwanted foreign influence.",
+                "startIntroPart2": "Stalwart Viking, the time for greatness is upon you once more. You are called to rise up and lead your people to renewed power and triumph! Will you make the world shudder once more at the very thought of your great armies of Northsmen? Will you let the Viking battle cry ring out across the crashing waves? Will you build a civilization to stand the test of time?",
 		
 		"declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the skalds will sing of your valor... or mine!",
 		"attacked": "Ahahah! You seem to show some skills of a true Viking! Too bad that I'll probably kill you!",
@@ -184,8 +184,8 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "",
-                "startIntroPart2": "",
+		"startIntroPart1": "Blessings upon you noble Oda Nobunaga, ruler of the land where the sun rises - may you long walk among its flowering blossoms. You are the ruler of Japan, the land of the Rising Sun. The Japanese are an island people, proud and pious with a rich culture of arts and letters. Your civilization stretches back thousands of years, years of bloody warfare, expansion and isolation, great wealth and great poverty. In addition to their prowess on the field of battle, your people are also immensely industrious, and their technological innovation and mighty factories are the envy of lesser people everywhere.",
+                "startIntroPart2": "Legendary daimyo, will you grab the reins of destiny? Will you bring your family and people honor and glory? Will you once again pick up the sword and shield and march to triumph? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "I hereby inform you of our intention to wipe out your civilization from this world.",
 		"attacked": "Pitiful fool! Now we shall destroy you!",
@@ -211,8 +211,8 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "",
-                "startIntroPart2": "",
+		"startIntroPart1": "Greetings o great Temujin, immortal emperor of the mighty Mongol Empire! Your fists shatter walls of cities and your voice brings despair to your enemies. O Khan! You united the warring tribes of Northern Asia into a mighty people, creating the greatest cavalry force the world has ever witnessed. Your people's cunning diplomacy divided their enemies, making them weak and helpless before Mongolia's conquering armies. In a few short years, your people soldiers conquered most of China and Eastern Asia, and the empire continued to grow until it reached west into Europe and south to Korea. Indeed, it was the greatest empire ever seen, dwarfing those pathetic conquests of the Romans or the Greeks.",
+                "startIntroPart2": "Temujin, your people call upon you once more to lead them to battle and conquest. Will the world once again tremble at the thunderous sound of your cavalry, sweeping down from the steppes? Will you build an empire that stands the test of time?",
 		
 		"declaringWar": "You stand in the way of my armies. Let us solve this like warriors!",
 		"attacked": "No more words. Today, Mongolia charges toward your defeat.",
@@ -237,8 +237,8 @@
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Diplomatic",
 
-		"startIntroPart1": "",
-                "startIntroPart2": "",
+		"startIntroPart1": "All hail the transcendent King Gustavus Adolphus, founder of the Swedish Empire and her most distinguished military tactician. It was during your reign that Sweden emerged as one of the greatest powers in Europe, due in no small part to your wisdom, both on and off the battlefield. As king, you initiated a number of domestic reforms that ensured the economic stability and prosperity of your people. As the general who came to be known as the "Lion of the North," your visionary designs in warfare gained the admiration of military commanders the world over. Thanks to your triumphs in the Thirty Years' War, you were assured a legacy as one of history's greatest generals.",
+                "startIntroPart2": "Oh noble King, the people long for your prudent leadership, hopeful that once again they will see your kingdom rise to glory. Will you devise daring new strategies, leading your armies to victory on the theater of war? Will you build a civilization that stands the test of time?",
 		
 		"declaringWar": "The Hakkapeliittas will ride again and your men will fall just at the sight of my cavalry! God with us!",
 		"attacked": "Ha ha ha, captain Gars will be very glad to head out to war again.",
@@ -266,8 +266,8 @@
 		"startBias": ["Lakes"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "",
-                "startIntroPart2": "",
+		"startIntroPart1": "Welcome President Washington! You lead the industrious American civilization! Formed in the conflagration of revolution in the 18th century, within a hundred years, the young nation became embroiled in a terrible civil war that nearly tore the country apart, but it was just a few short years later in the 20th century that the United States reached the height of its power, emerging triumphant and mighty from the two terrible wars that destroyed so many other great nations. The United States is a nation of immigrants, filled with optimism and determination. They lack only a leader to help them fulfill their promise.",
+                "startIntroPart2": "President Washington, can you lead the American people to greatness? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
 		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
@@ -296,8 +296,8 @@
 		"startBias":["Hill"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "",
-                "startIntroPart2": "",
+		"startIntroPart1": "The blessings of the gods be upon you, Caesar Augustus, emperor of Rome and all her holdings. Your empire was the greatest and longest lived of all in Western civilization. And your people single handedly shaped its culture, law, art, and warfare like none other, before or since. Through years of glorious conquest, Rome came to dominate all the lands of the Mediterranean from Spain in the west to Syria in the east. And her dominion would eventually expand to cover much of England and northern Germany. Roman art and architecture still awe and inspire the world. And she remains the envy of all lesser civilizations who have followed.",
+                "startIntroPart2": "O mighty emperor, your people turn to you to once more reclaim the glory of Rome! Will you see to it that your empire rises again, bringing peace and order to all? Will you make Rome once again center of the world? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "My treasury contains little and my soldiers are getting impatient... (sigh) ...therefore you must die.",
 		"attacked": "So brave, yet so stupid! If only you had a brain similar to your courage.",
@@ -322,8 +322,8 @@
 		"startBias": ["Hill"],
 		"preferredVictoryType":"Domination",
 		
-		"startIntroPart1": "",
-                "startIntroPart2": "",
+		"startIntroPart1": "May the blessings of the gods be upon you, oh great King Alexander! You are the ruler of the mighty Greek nation. Your people lived for so many years in isolated city-states - legendary cities such as Athens, Sparta, Thebes - where they gave the world many great things, such as democracy, philosophy, tragedy, art and architecture, the very foundation of Western Civilization. Although few in number and often hostile to each other, in the 5th century BC they were able to defeat their much larger neighbor, Persia, on land and sea.",
+                "startIntroPart2": "Alexander, your people stand ready to march to war, to spread the great Greek culture to millions and to bring you everlasting glory. Are you ready to accept your destiny, King Alexander? Will you lead your people to triumph and greatness? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "You are in my way, you must be destroyed.",
 		"attacked": "As a matter of fact I too grow weary of peace.",
@@ -351,8 +351,8 @@
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "",
-                "startIntroPart2": "",
+		"startIntroPart1": "Long life and triumph to you, First Consul and Emperor of France, Napoleon I, ruler of the French people. France lies at the heart of Europe. Long has Paris been the world center of culture, arts and letters. Although surrounded by competitors - and often enemies - France has endured as a great nation. Its armies have marched triumphantly into battle from one end of the world to the other, its soldiers and generals among the best in history.",
+                "startIntroPart2": "Napoleon Bonaparte, France yearns for you to rebuild your empire, to lead her once more to glory and greatness, to make France once more the epicenter of culture and refinement. Emperor, will you ride once more against your foes? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "You're disturbing us, prepare for war.",
 		"attacked": "You've fallen into my trap. I'll bury you.",
@@ -378,7 +378,7 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 	
-		"startIntroPart1": "",
+		"startIntroPart1": "Praises upon her serene highness, Queen Elizabeth Gloriana. You lead and protect the celebrated maritime nation of England. England is an ancient land, settled as early as 35,000 years ago. The island has seen countless waves of invaders, each in turn becoming a part of the fabric of the people. Although England is a small island, for many years your people dominated the world stage. Their matchless navy, brilliant artists and shrewd merchants, giving them power and influence far in excess of their mere numbers.",
                 "startIntroPart2": "",
 		
 		"declaringWar": "By the grace of God, your days are numbered.",

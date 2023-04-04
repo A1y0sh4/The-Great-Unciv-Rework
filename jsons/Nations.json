@@ -144,7 +144,7 @@
 		"outerColor": [250, 200, 25],
 		"innerColor": [0,0,0],
 		"uniqueName": "Siberian Riches",
-		"uniques": ["Double quantity of [Uranium] produced", "[+1 Production] from every [Improvement] <in [Strategic resource] tiles>", "[+2 Happiness] [in all cities] <in [Tundra] tiles>"],
+		"uniques": ["Double quantity of [Uranium] produced", "[+1 Gold] from every [Improvement] <in [Strategic resource] tiles>", "[+2 Happiness] [in all cities] <in [Tundra] tiles>"],
 		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",

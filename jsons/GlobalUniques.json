@@ -17,7 +17,8 @@
         "[+25]% maintenance costs <for [Helicopter] units>",
         "[+50]% XP gained from combat <for [Military] units> <within [2] tiles of a [Great General]>",
         "[Great General] is earned [-75]% faster <when not at war>",
-        "[Faith] cost of purchasing [Military] units [-50]%"]
+        "[Faith] cost of purchasing [Military] units [-50]%",
+        "[Gold] cost of purchasing [Landsknecht] units [-75]%"]
     
         // TODO: Implement the uniques below
         // "[+20]% [Culture] [in all cities] <during a golden age>",

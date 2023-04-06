@@ -735,7 +735,7 @@
 	},
 	{
 		"name": "[Sipahi] ability",
-		"uniques": ["No movement cost to pillage"]
+		"uniques": ["No movement cost to pillage", "Ignores Zone of Control"]
 	},
 	{
 		"name": "[Cossack] ability",

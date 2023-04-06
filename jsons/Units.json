@@ -1127,7 +1127,7 @@
 	{
 		"name": "Cossack",
 		"unitType": "Mounted",
-		"replaces": "Lancer",
+		"replaces": "Cavalry",
 		"uniqueTo": "Russia",
 		"movement": 4,
 		"strength": 34,
@@ -1135,7 +1135,7 @@
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
-		"upgradesTo": "Cavalry",
+		"upgradesTo": "Landship",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Founds a new city"],
 		"promotions": ["[Cossack] ability"],
 		"attackSound": "horse"
@@ -1143,7 +1143,7 @@
 	{
 		"name": "Hussar",
 		"unitType": "Mounted",
-		"replaces": "Lancer",
+		"replaces": "Cavalry",
 		"uniqueTo": "Austria",
 		"movement": 4,
 		"strength": 34,
@@ -1151,7 +1151,7 @@
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
-		"upgradesTo": "Cavalry",
+		"upgradesTo": "Landship",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+1] Sight"],
 		"promotions": ["[Hussar] ability"],
 		"attackSound": "horse"

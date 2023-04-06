@@ -592,7 +592,7 @@
 		"strength": 16,
 		"cost": 90,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+50]% maintenance costs", "Can move immediately once bought"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+50]% maintenance costs", "Earn [33]% of the damage done to [City] units as [Gold]", "Can move immediately once bought"],
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "metalhit"

@@ -292,7 +292,7 @@
             {
                 "name": "Philantropy",
                 "uniques": [
-                    "Gifts of Gold to City-States generate [20]% more Influence"
+                    "Gifts of Gold to City-States generate [15]% more Influence"
                 ],
                 "row": 1,
                 "column": 2
@@ -300,7 +300,7 @@
             {
                 "name": "Aesthetics",
                 "uniques": [
-                    "Resting point for Influence with City-States is increased by [20]",
+                    "Resting point for Influence with City-States is increased by [15]",
 		    "[+1 Culture] from all [Happiness] buildings"
                 ],
                 "row": 1,
@@ -309,7 +309,7 @@
             {
                 "name": "Scholasticism",
                 "uniques": [
-                    "Allied City-States provide [Science] equal to [30]% of what they produce for themselves",
+                    "Allied City-States provide [Science] equal to [33]% of what they produce for themselves",
 		    "Provides the cheapest [Science] building in your first [4] cities for free"
                 ],
                 "requires": ["Philantropy"],

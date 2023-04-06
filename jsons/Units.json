@@ -1429,13 +1429,14 @@
 		"unitType": "Armored",
 		"uniqueTo": "Germany",
 		"replaces": "Tank",
-		"movement": 6,
+		"movement": 5,
 		"strength": 80,
 		"cost": 400,
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
+		"promotions" : ["Mobility"],
 		"upgradesTo": "Modern Armor",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
 		"attackSound": "tankshot"
 	},
 	{

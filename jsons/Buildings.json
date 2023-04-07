@@ -97,6 +97,7 @@
 		"name": "Brewery",
 		"cost": 70,
 		"culture": 1,
+		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Wheat"],
 		 "uniques": ["Provides [1] [Beer]"],
 		"requiredTech": "Calendar"
@@ -107,6 +108,7 @@
 		"uniqueTo": "Celts",
 		"cost": 70,
 		"culture": 2,
+		"maintenance": 0,
                 "requiredNearbyImprovedResources": ["Wheat"],
 		 "uniques": ["Provides [2] [Beer]"],
 		"requiredTech": "Calendar"
@@ -115,6 +117,7 @@
 		"name": "Wine Cellar",
 		"cost": 70,
 		"culture": 1,
+		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Grape"],
 		 "uniques": ["Provides [1] [Wine]"],
 		"requiredTech": "Calendar"
@@ -126,6 +129,7 @@
 		"cost": 70,
 		"culture": 1,
 		"faith": 1,
+		"maintenance": 0,
                 "requiredNearbyImprovedResources": ["Grape"],
 		 "uniques": ["Provides [2] [Wine]"],
 		"requiredTech": "Calendar"
@@ -550,6 +554,7 @@
 		"name": "Rum Distillery",
 		"cost": 140,
 		"culture": 1,
+		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Sugar"],
 		 "uniques": ["Only available <in cities without a [Vodka Distillery]>", "Only available <in cities without a [Whisky Distillery]>", "Only available <in cities without a [Cognac Distillery]>", "Provides [1] [Rum]"],
 		"requiredTech": "Distillation"
@@ -558,6 +563,7 @@
 		"name": "Whisky Distillery",
 		"cost": 140,
 		"culture": 1,
+		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Wheat"],
 		 "uniques": ["Only available <in cities without a [Rum Distillery]>", "Only available <in cities without a [Vodka Distillery]>", "Only available <in cities without a [Cognac Distillery]>", "Provides [1] [Whisky]"],
 		"requiredTech": "Distillation"
@@ -566,6 +572,7 @@
 		"name": "Vodka Distillery",
 		"cost": 140,
 		"culture": 1,
+		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Wheat"],
 		 "uniques": ["Only available <in cities without a [Rum Distillery]>", "Only available <in cities without a [Whisky Distillery]>", "Only available <in cities without a [Cognac Distillery]>", "Provides [1] [Vodka]"],
 		"requiredTech": "Distillation"
@@ -574,6 +581,7 @@
 		"name": "Cognac Distillery",
 		"cost": 140,
 		"culture": 1,
+		"maintenance": 1,
                 "requiredBuilding": "Wine Cellar",
 		 "uniques": ["Only available <in cities without a [Rum Distillery]>", "Only available <in cities without a [Whisky Distillery]>", "Only available <in cities without a [Vodka Distillery]>", "Provides [1] [Cognac]"],
 		"requiredTech": "Distillation"

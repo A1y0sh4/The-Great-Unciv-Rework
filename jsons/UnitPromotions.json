@@ -778,5 +778,9 @@
 	{
 		"name": "Ceremonial Burial",
 		"uniques": ["Gain [5]-[15] [Faith] <upon being defeated>"]
+	},
+        {
+		"name": "Climber",
+		"uniques": ["Can pass through impassable tiles"]
 	}
 ]

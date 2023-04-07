@@ -168,7 +168,7 @@
             {
                 "name": "Discipline",
                 "uniques": [
-                    "[+30]% Strength <vs [Barbarian] units>",
+                    "[+15]% Strength <vs [Barbarian] units>",
 		    "[+15]% Strength <for [Wounded] units>"
                 ],
                 "row": 1,

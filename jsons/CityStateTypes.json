@@ -12,7 +12,7 @@
     {
         "name": "Maritime",
         "friendBonusUniques": ["[+1 Food] from every [Fishing Boats]"],
-        "allyBonusUniques": ["[+15]% growth [in all cities]", "[+1 Food] from every [Fishing Boats]"],
+        "allyBonusUniques": ["[+15]% [Food] [in all cities]", "[+1 Food] from every [Fishing Boats]"],
         "color": [56, 255, 112]
     },
     {

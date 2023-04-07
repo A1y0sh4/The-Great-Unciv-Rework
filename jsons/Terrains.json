@@ -462,7 +462,7 @@
 			"Must be adjacent to [0] [Marsh] tiles",
 			"Must be adjacent to [0] to [1] [Desert] tiles",
 			"Must be adjacent to [4] to [6] [Elevated] tiles",
-		"Grants [Climber] to adjacent [Religious Unit] units for the rest of the game"],
+		"Grants [Climber] ([Can pass through impassable tiles]) to adjacent [Religious Unit] units for the rest of the game"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
@@ -479,7 +479,7 @@
 		"uniques": ["[+1 Food] for each adjacent [Farm]", "Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] to [6] [Hill] tiles",
 			"Must be adjacent to [0] to [2] [Mountain] tiles",
-			"Grants [Climber] to adjacent [{Military} {Land}] units for the rest of the game"],
+			"Grants [Climber] ([Can pass through impassable tiles]) to adjacent [{Military} {Land}] units for the rest of the game"],
 		"weight": 10
 	},
 	{

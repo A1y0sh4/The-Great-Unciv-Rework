@@ -475,8 +475,8 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"uniques": ["Must be adjacent to [0] [Coast] tiles",
-			"Must be adjacent to [2] to [6] [Hill] tiles",
+		"uniques": ["[+1 Food] for each adjacent [Farm]", "Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [0] to [6] [Hill] tiles",
 			"Must be adjacent to [0] to [2] [Mountain] tiles",
 			"Grants [Ignore terrain cost] to adjacent [{Military} {Land}] units for the rest of the game"],
 		"weight": 10

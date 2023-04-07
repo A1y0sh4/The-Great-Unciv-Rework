@@ -517,7 +517,7 @@
 		"culture": 3,
 		"faith": 3,
 		"occursOn": ["Desert"],
-		"uniques": ["Must be adjacent to [6] [Desert] tiles", "Must be adjacent to [0] [Hills] tiles", "Must not be on [1] largest landmasses"],
+		"uniques": ["Must be adjacent to [3] to [4] [Desert] tiles", "Must be adjacent to [2] to [3] [Plains] tiles", "Must be adjacent to [0] [Hills] tiles", "Must not be on [1] largest landmasses"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,

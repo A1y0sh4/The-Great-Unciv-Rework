@@ -319,6 +319,20 @@
 		"weight": 10
 	},
 	{
+		"name": "Dead Sea",
+		"type": "NaturalWonder",
+		"culture": 2,
+		"faith": 2,
+		"occursOn": ["Desert"],
+		"uniques": ["Must be adjacent to [2] to [6] [Desert] tiles",
+			"Must be adjacent to [0] [Water] tiles",
+			"Must be adjacent to [0] to [2] [Hill] tiles"],
+		"turnsInto": "Coast",
+		"impassable": false,
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
 		"name": "Old Faithful",
 		"type": "NaturalWonder",
 		"science": 3,

@@ -15,6 +15,8 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 -Most Resources are not revealed until the discovery of a tech, making some combinations stategical in the early-game
 
+-It's been added new Natural Wonders
+
 -It's been added a religious victory and some civs have it as their favourite one (Byzantium, Celts, The Ottomans, Spain, Arabia, Ethiopia, Siam)
 
 -Scouts is now the ancient era starting unit

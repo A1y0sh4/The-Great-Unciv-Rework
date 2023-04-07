@@ -461,7 +461,7 @@
 			"Must be adjacent to [0] [Marsh] tiles",
 			"Must be adjacent to [0] to [1] [Desert] tiles",
 			"Must be adjacent to [4] to [6] [Elevated] tiles"],
-		"Grants [Ignore terrain cost] to adjacent [Missionary] units for the rest of the game"
+		"Grants [Ignore terrain cost] to adjacent [Religious Unit] units for the rest of the game"
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,

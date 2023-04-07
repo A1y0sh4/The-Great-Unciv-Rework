@@ -555,10 +555,10 @@
             {
                 "name": "Populism",
                 "uniques": [
-		    "[+1 Happiness] from every [Walls]",
-                    "[+1 Happiness] from every [Castle]",
-                    "[+1 Happiness] from every [Arsenal]",
-                    "[+1 Happiness] from every [Military Base]"],
+		    "[+1 Happiness, +1 Production] from every [Walls]",
+                    "[+1 Happiness, +1 Production] from every [Castle]",
+                    "[+1 Happiness, +1 Production] from every [Arsenal]",
+                    "[+1 Happiness, +1 Production] from every [Military Base]"],
                 "row": 1,
                 "column": 1
             },

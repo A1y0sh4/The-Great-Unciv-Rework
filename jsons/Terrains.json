@@ -393,6 +393,79 @@
 		"weight": 10
 	},
 	{
+		"name": "Manpupuner",
+		"type": "NaturalWonder",
+		"culture": 2,
+		"faith": 4,
+		"occursOn": ["Tundra"],
+		"uniques": ["Must be adjacent to [2] to [6] [Tundra] tiles",
+			"Must be adjacent to [1] to [4] [Hill] tiles",
+			"Must be adjacent to [1] to [3] [Mountain] tiles"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
+		"name": "Mount Vesuvius",
+		"type": "NaturalWonder",
+		"culture": 3,
+		"production": 3,
+		"occursOn": ["Grassland"],
+		"uniques": ["Must be adjacent to [1] to [3] [Coast] tiles",
+			"Must be adjacent to [1] to [4] [Hill] tiles",
+			"Must be adjacent to [0] [Mountain] tiles"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
+		"name": "Mount Elbrus",
+		"type": "NaturalWonder",
+		"culture": 3,
+		"faith": 2,
+		"production": 2,
+		"occursOn": ["Grassland"],
+		"uniques": ["Must be adjacent to [1] to [2] [Coast] tiles",
+			"Must be adjacent to [1] to [4] [Hill] tiles",
+			"Must be adjacent to [1] to [2] [Mountain] tiles"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
+		"name": "Pamukkale",
+		"type": "NaturalWonder",
+		"happiness": 3,
+		"culture": 2,
+		"gold": 2,
+		"occursOn": ["Grassland"],
+		"uniques": ["Fresh Water", "Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [0] to [2] [Hill] tiles",
+			"Must be adjacent to [0] [Mountain] tiles"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
+		"name": "Chocolate Hills",
+		"type": "NaturalWonder",
+		"food": 1,
+		"culture": 1,
+		"science": 2,
+		"occursOn": ["Grassland", "Plains"],
+		"uniques": ["Must be adjacent to [0] to [5] [Coast] tiles",
+			"Must be adjacent to [0] to [2] [Hill] tiles",
+			"Must be adjacent to [0] [Mountain] tiles", "Must not be on [1] largest landmasses"],
+		"turnsInto": "Hill",
+		"impassable": false,
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
 		"name": "Mount Fuji",
 		"type": "NaturalWonder",
 		"culture": 4,
@@ -435,6 +508,21 @@
 		"turnsInto": "Hill",
 		"impassable": false,
 		"unbuildable": true,
+		"weight": 10
+	},
+	{
+		"name": "Ha Long Bay",
+		"type": "NaturalWonder",
+		"food": 1,
+		"culture": 2,
+		"occursOn": ["Coast"],
+		"uniques": ["Must be adjacent to [2] to [4] [Water] tiles",
+			    "Must be adjacent to [2] to [4] [Grassland] tiles",
+			    "Must be adjacent to [0] to [4] [Jungle] tiles"],
+		"turnsInto": "Atoll",
+		"impassable": false,
+		"unbuildable": true,
+		"defenceBonus": 0.25,
 		"weight": 10
 	},
 	{
@@ -537,6 +625,18 @@
 		"unbuildable": true,
 		"weight": 10
 	},
+	{
+		"name": "Lake Victoria",
+		"type": "NaturalWonder",
+		"food": 2,
+		"culture": 2,
+		"occursOn": ["Plains"],
+		"turnsInto": "Lakes",
+		"impassable": true,
+		"unbuildable": true,
+		"uniques": ["Fresh water", "Must be adjacent to [0] [Coast] tiles"],
+		"weight": 10
+	},
 /*
 	// BNW wonders
 	{
@@ -552,17 +652,5 @@
 		"unbuildable": true,
 		"weight": 4
 	},
-	{// Will be introduced in Brave New World. Despite being a lake, it cannot be sailed on and it blocks line of sight like a mountain.
-		"name": "Lake Victoria",
-		"type": "NaturalWonder",
-		"food": 6,
-		"occursOn": ["Plains"],
-		"turnsInto": "Mountain",
-		"impassable": true,
-		"unbuildable": true,
-		"uniques": ["Fresh water","Must be adjacent to [0] [Coast] tiles"],
-		"weight": 10
-	},
-	
 */
 ]

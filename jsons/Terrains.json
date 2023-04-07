@@ -303,11 +303,26 @@
 		"weight": 10
 	},
 	{
+		"name": "Lake Baikal",
+		"type": "NaturalWonder",
+		"food": 3,
+		"production": 1,
+		"faith": 2,
+		"occursOn": ["Tundra"],
+		"uniques": ["Fresh water", "Must be adjacent to [1] to [6] [Tundra] tiles",
+			"Must be adjacent to [0] [Water] tiles",
+			"Occurs in groups of [2] to [2] tiles"],
+		"turnsInto": "Lakes",
+		"impassable": false,
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
 		"name": "Old Faithful",
 		"type": "NaturalWonder",
-		"science": 2,
-		"happiness": 3,
-		"occursOn": ["Grassland","Plains","Tundra","Mountain"],
+		"science": 3,
+		"culture": 3,
+		"occursOn": ["Grassland", "Plains", "Tundra", "Mountain"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] to [4] [Mountain] tiles",
 			"Must be adjacent to [3] to [6] [Elevated] tiles",
@@ -321,18 +336,18 @@
 	{
 		"name": "El Dorado",
 		"type": "NaturalWonder",
-		"culture": 5,
-		"overrideStats": true,
-		"occursOn": ["Plains"],
-		"turnsInto": "Plains",
+		"culture": 2,
+		"overrideStats": false,
+		"occursOn": ["Plains", "Grassland"],
+		"turnsInto": "Jungle",
 		"impassable": true,
 		"unbuildable": true,
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
-			"Must be adjacent to [1] to [6] [Jungle] tiles",
+			"Must be adjacent to [3] to [6] [Jungle] tiles",
 			"Grants 500 Gold to the first civilization to discover it"],
-		"weight": 2
+		"weight": 10
 	},
-	{ // This will count as "Fresh water" in civ 6
+	{
 		"name": "Fountain of Youth",
 		"type": "NaturalWonder",
 		"happiness": 3,
@@ -350,7 +365,7 @@
 	{
 		"name": "Grand Mesa",
 		"type": "NaturalWonder",
-		"production": 2,
+		"production": 3,
 		"gold": 3,
 		"occursOn": ["Desert"],
 		"uniques": ["Must be adjacent to [6] [Desert] tiles",
@@ -364,10 +379,9 @@
 	{
 		"name": "Mount Fuji",
 		"type": "NaturalWonder",
-		"gold": 2,
-		"culture": 3,
-		"faith": 3,
-		"occursOn": ["Grassland","Plains"],
+		"culture": 4,
+		"faith": 2,
+		"occursOn": ["Grassland", "Plains"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] [Tundra] tiles",
 			"Must be adjacent to [0] [Desert] tiles",
@@ -383,7 +397,7 @@
 	{
 		"name": "Krakatoa",
 		"type": "NaturalWonder",
-		"science": 5,
+		"science": 6,
 		"occursOn": ["Ocean"],
 		"uniques": ["Must be adjacent to [1] to [6] [Coast] tiles",
 			"Must be adjacent to [0] [Ice] tiles",
@@ -396,8 +410,9 @@
 	{
 		"name": "Rock of Gibraltar",
 		"type": "NaturalWonder",
-		"food": 2,
-		"gold": 5,
+		"culture": 1,
+		"production": 2,
+		"gold": 2,
 		"occursOn": ["Grassland"],
 		"uniques": ["Must be adjacent to [1] to [5] [Coast] tiles",
 			"Must be adjacent to [1] [Mountain] tiles",
@@ -410,20 +425,22 @@
 	{
 		"name": "Cerro de Potosi",
 		"type": "NaturalWonder",
-		"gold": 10,
-		"occursOn": ["Plains","Mountain"],
+		"production": 2,
+		"gold": 4,
+		"occursOn": ["Plains", "Mountain"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
-			"Must be adjacent to [1] to [6] [Hill] tiles"],
+			"Must be adjacent to [1] to [6] [Hill] tiles",
+			"Must be adjacent to [1] [Silver] tiles"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 5
+		"weight": 10
 	},
 	{
 		"name": "Barringer Crater",
 		"type": "NaturalWonder",
-		"gold": 2,
-		"science": 3,
+		"production": 2,
+		"science": 2,
 		"occursOn": ["Desert"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] [Grassland] tiles",
@@ -434,27 +451,41 @@
 		"unbuildable": true,
 		"weight": 10
 	},
-	// G&K Wonders
 	{
 		"name": "Mount Kailash",
 		"type": "NaturalWonder",
-		"faith": 6,
+		"faith": 3,
 		"happiness": 2,
-		"occursOn": ["Plains","Grassland"],
+		"occursOn": ["Plains", "Grassland"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] [Marsh] tiles",
 			"Must be adjacent to [0] to [1] [Desert] tiles",
 			"Must be adjacent to [4] to [6] [Elevated] tiles"],
+		"Grants [Ignore terrain cost] to adjacent [Missionary] units for the rest of the game"
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
 		"weight": 10
 	},
 	{
+		"name": "Mount Kilimanjaro",
+		"type": "NaturalWonder",
+		"culture": 3,
+		"occursOn": ["Plains", "Grassland"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [2] to [6] [Hill] tiles",
+			"Must be adjacent to [0] to [2] [Mountain] tiles",
+			"Grants [Ignore terrain cost] to adjacent [{Military} {Land}] units for the rest of the game"],
+		"weight": 10
+	}
+	{
 		"name": "Mount Sinai",
 		"type": "NaturalWonder",
-		"faith": 8,
-		"occursOn": ["Desert","Plains"],
+		"faith": 6,
+		"occursOn": ["Desert"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] [Grassland] tiles",
 			"Must be adjacent to [0] [Tundra] tiles",
@@ -470,7 +501,6 @@
 		"type": "NaturalWonder",
 		"food": 2,
 		"faith": 4,
-		"happiness": 2,
 		"occursOn": ["Plains","Grassland"],
 		"uniques": ["Must be adjacent to [0] [Tundra] tiles",
 			"Must be adjacent to [0] [Desert] tiles",
@@ -519,20 +549,6 @@
 		"uniques": ["Fresh water","Must be adjacent to [0] [Coast] tiles"],
 		"weight": 10
 	},
-	{
-		"name": "Mount Kilimanjaro",
-		"type": "NaturalWonder",
-		"food": 3,
-		"culture": 2,
-		"occursOn": ["Plains","Grassland"],
-		"turnsInto": "Mountain",
-		"impassable": true,
-		"unbuildable": true,
-		"uniques": ["Must be adjacent to [0] [Coast] tiles",
-			"Must be adjacent to [2] to [6] [Hill] tiles",
-			"Must be adjacent to [0] to [2] [Mountain] tiles",
-			"Grants [Altitude Training] ([double movement and +10% Strength in hills]) to adjacent [Land] units for the rest of the game"],
-		"weight": 10
-	}
+	
 */
 ]

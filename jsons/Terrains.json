@@ -559,7 +559,7 @@
 		"production": 1,
 		"culture": 2,
 		"occursOn": ["Desert"],
-		"uniques": ["[+6 SCience] <after discovering [Satellites]>",
+		"uniques": ["[+6 Science] <after discovering [Satellites]>",
 			"Must be adjacent to [6] [Desert] tiles",
 			"Must be adjacent to [0] to [2] [Mountain] tiles",
 			"Must be adjacent to [0] to [2] [Elevated] tiles"],

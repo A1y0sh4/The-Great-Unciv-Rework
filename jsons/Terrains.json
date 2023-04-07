@@ -564,7 +564,7 @@
 			"Must be adjacent to [0] to [2] [Mountain] tiles",
 			"Must be adjacent to [0] to [2] [Elevated] tiles"],
 		"turnsInto": "Desert",
-		"impassable": true,
+		"impassable": false,
 		"unbuildable": true,
 		"weight": 15
 	},

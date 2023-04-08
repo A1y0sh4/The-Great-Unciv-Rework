@@ -117,18 +117,21 @@
 	},
 	{
 		"name": "Mountain",
-		"type": "Land",
+		"type": "TerrainFeature",
+		"production": 2,
 		"impassable": true,
+		"overrideStats": true,
 		"defenceBonus": 0.25,
 		"RGB": [132, 132, 132],
 		"uniques": ["Rough terrain",
-            "Has an elevation of [4] for visibility calculations",
+            "Has an elevation of [3] for visibility calculations",
             "Occurs in chains at high elevations",
             "Units ending their turn on this terrain take [50] damage",
 	    "[-2] to Fertility for Map Generation <in all except [Mountain] Regions>",
             "[+2] to Fertility for Map Generation <in [Mountain] Regions>",
+	    "Base Terrain on this tile is not counted for Region determination",
 	    "A Region is formed with at least [15]% [Mountain] tiles, with priority [4]",
-            "Considered [Undesirable] when determining start locations <in all except [Mountain] Regions>", "Tile provides yield without assigned population"]
+            "Considered [Undesirable] when determining start locations <in all except [Mountain] Regions>", "Considered [Production] when determining start locations", "Tile provides yield without assigned population"]
 	},
 	{
 		"name": "Snow",
@@ -160,7 +163,7 @@
 		"occursOn": ["Tundra","Plains","Grassland","Desert","Snow"],
 		"uniques": ["Rough terrain",
 					"[+5] Strength for cities built on this terrain",
-					"Has an elevation of [2] for visibility calculations",
+					"Has an elevation of [1] for visibility calculations",
 					"Occurs in groups around high elevations",
 					"[+1] to Fertility for Map Generation",
 					"A Region is formed with at least [40]% [Hill] tiles, with priority [5]",

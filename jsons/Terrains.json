@@ -427,7 +427,7 @@
 		"type": "NaturalWonder",
 		"culture": 3,
 		"faith": 2,
-		"production": 2,
+		"production": 1,
 		"occursOn": ["Grassland"],
 		"uniques": ["Must be adjacent to [0] to [2] [Coast] tiles",
 			"Must be adjacent to [1] to [4] [Hill] tiles",

@@ -488,8 +488,8 @@
 		"improvement": "Fishing Boats",
 		"improvementStats": {"gold": 1},
 		"uniques": ["Resource", "Generated with weight [32] <in [Desert] Regions>",
-					"Generated with weight [24] <in [Tundra] Regions>",
-					"Generated with weight [16] <in [Jungle] Regions>",
+					"Generated with weight [24] <in [Jungle] Regions>",
+					"Generated with weight [16] <in [Tundra] Regions>",
 					"Generated near City States with weight [8]"]
 	},
 	{

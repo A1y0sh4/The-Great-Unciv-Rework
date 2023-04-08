@@ -129,9 +129,8 @@
             "Units ending their turn on this terrain take [50] damage",
 	    "[+2] to Fertility for Map Generation",
 	    "Base Terrain on this tile is not counted for Region determination",
-	    "A Region is formed with at least [10]% [Mountain] tiles, with priority [3]",
-	    "A Region is formed with at least [15]% [Mountain] tiles and [Lakes] tiles, with priority [3]",
-	    "A Region is formed with at least [25]% [Hill] tiles, with priority [6]",
+	    "A Region is formed with at least [10]% [Mountain] tiles, with priority [6]",
+	    "A Region is formed with at least [15]% [Mountain] tiles and [Lakes] tiles, with priority [6]",
 	    "A Region can not contain more [Lakes] tiles than [Mountain] tiles",
             "Considered [Desirable] when determining start locations", "Considered [Science] when determining start locations", "Tile provides yield without assigned population"]
 	},

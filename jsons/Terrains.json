@@ -120,7 +120,7 @@
 		"type": "Land",
 		"impassable": true,
 		"defenceBonus": 0.25,
-		"RGB": [112, 112, 112],
+		"RGB": [132, 132, 132],
 		"uniques": ["Rough terrain",
             "Has an elevation of [4] for visibility calculations",
             "Occurs in chains at high elevations",

@@ -552,7 +552,7 @@
 		"uniques": ["[+1 Production] for each adjacent [Mine]", "[+1 Production] for each adjacent [Quarry]", "Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] [Grassland] tiles",
 			"Must be adjacent to [0] to [1] [Mountain] tiles",
-			"Must be adjacent to [1] to [4] [Elevated] tiles", "Tile provides yield without assigned population"],
+			"Must be adjacent to [2] to [4] [Elevated] tiles", "Tile provides yield without assigned population"],
 		"turnsInto": "Desert",
 		"impassable": true,
 		"unbuildable": true,
@@ -603,7 +603,7 @@
 		"impassable": true,
 		"unbuildable": true,
 		"uniques": ["[+1 Food] for each adjacent [Farm]", "Must be adjacent to [0] [Coast] tiles",
-			"Must be adjacent to [0] to [6] [Hill] tiles",
+			"Must be adjacent to [0] to [2] [Hill] tiles",
 			"Must be adjacent to [0] to [2] [Mountain] tiles",
 			"Grants [Climber] ([Can pass through impassable tiles]) to adjacent [{Military} {Land}] units for the rest of the game", "Tile provides yield without assigned population"],
 		"weight": 15

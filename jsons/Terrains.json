@@ -307,7 +307,7 @@
 		"type": "NaturalWonder",
 		"food": 1,
 		"gold": 1,
-		"faith": 2,
+		"faith": 1,
 		"occursOn": ["Tundra"],
 		"uniques": ["Fresh water", "Must be adjacent to [1] to [6] [Tundra] tiles",
 			"Must be adjacent to [0] [Water] tiles",

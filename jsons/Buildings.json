@@ -87,9 +87,8 @@
 		"name": "Stonehenge",
 		"faith": 3,
 		"isWonder": true,
-                "requiredNearbyImprovedResources": ["Stone"],
 		"greatPersonPoints": {"Great Engineer": 1},
-		 "uniques": ["[+2 Science] from every [Stone]", "Hidden when religion is disabled"],
+		 "uniques": ["Gain enough Faith for a Pantheon", "Gain [50] [Science] <upon founding a Pantheon>", "Gain [50] [Science] <upon founding a Religion>", "Gain [50] [Science] <upon enhancing a Religion>", "Hidden when religion is disabled"],
 		"requiredTech": "Calendar",
 		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
 	},

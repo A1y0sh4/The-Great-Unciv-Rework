@@ -513,7 +513,7 @@
 		"occursOn": ["Grassland"],
 		"uniques": ["[+5] Strength for cities built on this terrain", "Must be adjacent to [1] to [5] [Coast] tiles",
 			"Must be adjacent to [1] [Mountain] tiles",
-			"Neighboring tiles except [Mountain] will convert to [Coast]", "Tile provides yield without assigned population"],
+			"Neighboring tiles except [Mountain] will convert to [Coast]", "Tile provides yield without assigned population", "Occurs on latitudes from [10] to [25] percent of distance equator to pole",],
 		"turnsInto": "Hill",
 		"impassable": false,
 		"unbuildable": true,

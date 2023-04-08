@@ -121,7 +121,7 @@
 		"impassable": true,
 		"overrideStats": true,
 		"defenceBonus": 0.25,
-		"RGB": [150, 150, 150],
+		"RGB": [166, 166, 166],
 		"occursOn": ["Tundra", "Plains", "Grassland", "Desert", "Snow", "Hill"],
 		"uniques": ["Rough terrain",
             "Has an elevation of [2] for visibility calculations",

@@ -697,7 +697,7 @@
 		"name": "Songhai",
 		"leaderName": "Askia",
 		"adjective": ["Songhai"],
-		"startBias": ["Flood plains"],
+		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "May the blessings of God, who is greatest of all, be upon you Askia, leader of the Songhai people! For many years your kingdom was a vassal of the mighty West African state of Mali, until the middle of the 14th century, when King Sunni Ali Ber wrested independence from the Mali, conquering much territory and fighting off numerous foes who sought to destroy him. Ultimately, his conquest of the wealthy cities of Timbuktu and Jenne gave the growing Songhai empire the economic power to survive for some 100 years, until the empire was destroyed by foes with advanced technology - muskets against spearmen.",
@@ -849,7 +849,7 @@
 		"name": "Arabia",
 		"leaderName": "Harun al-Rashid",
 		"adjective": ["Arabian"],
-		"startBias": ["Oasis"],
+		"startBias": ["Desert"],
 		"preferredVictoryType": "Religious",
 
 		"startIntroPart1": "Blessings of God be upon you oh great caliph Harun al-Rashid, leader of the pious Arabian people! The Muslim empire, the Caliphate was born in the turbulent years after the death of the prophet Muhammad in 632 AD, as his followers sought to extend the rule of God to all of the people of the earth. The caliphate grew mighty indeed at the height of its power, ruling Spain, North Africa, the Middle East, Anatolia, the Balkans and Persia. An empire as great as or even greater than that of Rome. The arts and sciences flourished in Arabia during the Middle Ages, even as the countries of Europe descended into ignorance and chaos. The Caliphate survived for six hundred years, until finally succumbing to attack from the Mongols, those destroyers of Empires.",

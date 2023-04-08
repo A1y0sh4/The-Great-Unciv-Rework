@@ -33,7 +33,7 @@
             "Occurs at temperature between [0.7] and [0.8] and humidity between [0.7] and [1]",
             "Occurs at temperature between [0.6] and [0.8] and humidity between [0.4] and [0.6]",
             "[+3] to Fertility for Map Generation",
-            "A Region is formed with at least [30]% [Grassland] tiles, with priority [7]",
+            "A Region is formed with at least [33]% [Grassland] tiles, with priority [7]",
             "A Region can not contain more [Plains] tiles than [Grassland] tiles",
             "Considered [Desirable] when determining start locations",
             "Considered [Food] when determining start locations <in [Jungle] Regions>",
@@ -61,7 +61,7 @@
             "Occurs at temperature between [0.6] and [0.8] and humidity between [0.6] and [0.7]",
             "Occurs at temperature between [0.5] and [0.7] and humidity between [0.7] and [0.8]",
             "[+4] to Fertility for Map Generation",
-            "A Region is formed with at least [30]% [Plains] tiles, with priority [6]",
+            "A Region is formed with at least [33]% [Plains] tiles, with priority [6]",
             "A Region can not contain more [Grassland] tiles than [Plains] tiles",
             "Considered [Desirable] when determining start locations",
             "Considered [Food] when determining start locations <in [Tundra] Regions>",
@@ -83,7 +83,7 @@
             "Occurs at temperature between [-0.6] and [-0.4] and humidity between [0.2] and [0.4]",
             "Occurs at temperature between [-0.5] and [-0.4] and humidity between [0] and [0.2]",
             "[+2] to Fertility for Map Generation",
-            "A Region is formed with at least [30]% [Tundra] tiles and [Snow] tiles, with priority [1]",
+            "A Region is formed with at least [33]% [Tundra] tiles and [Snow] tiles, with priority [1]",
             "Considered [Food] when determining start locations <in [Tundra] Regions>",
             "Considered [Desirable] when determining start locations <in [Tundra] Regions>",
             "Becomes [Plains] when adjacent to [River]",
@@ -126,7 +126,7 @@
             "Occurs in chains at high elevations",
             "Units ending their turn on this terrain take [50] damage",
             "Always Fertility [-2] for Map Generation",
-            "Considered [Undesirable] when determining start locations", "Tile provides yield without assigned population"]
+            "Considered [Undesirable] when determining start locations <in all except [Hill] Regions>", "Tile provides yield without assigned population"]
 	},
 	{
 		"name": "Snow",

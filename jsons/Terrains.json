@@ -132,7 +132,7 @@
 	    "A Region is formed with at least [10]% [Mountain] tiles, with priority [3]",
 	    "A Region is formed with at least [15]% [Mountain] tiles and [Lakes] tiles, with priority [3]",
 	    "A Region can not contain more [Lakes] tiles than [Mountain] tiles",
-            "Considered [Desirable] when determining start locations", "Considered [Science] when determining start locations", "Tile provides yield without assigned population"]
+            "Considered [Undesirable] when determining start locations <in all except [Mountain] Regions>", "Considered [Science] when determining start locations", "Tile provides yield without assigned population"]
 	},
 	{
 		"name": "Snow",

@@ -73,7 +73,8 @@
 		"food": 1,
 		"improvement": "Fishing Boats",
 		"uniques": ["Resource", "Generated on every [8] tiles <in [Featureless] [Coast] tiles>",
-			                "Generated on every [4] tiles <in [Featureless] [Coast] tiles> <in [Tundra] Regions>"]
+			                "Generated on every [4] tiles <in [Featureless] [Coast] tiles> <in [Tundra] Regions>",
+			                "Generated on every [4] tiles <in [Featureless] [Coast] tiles> <in [Snow] Regions>"]
 	},
 	{
 		"name": "Grape",
@@ -418,8 +419,9 @@
 		"improvement": "Fishing Boats",
 		"improvementStats": {"gold": 1},
 		"uniques": ["Resource", "Generated with weight [35] <in [Tundra] Regions>",
+			                "Generated with weight [30] <in [Snow] Regions>",
 					"Generated with weight [10] <in [Forest] Regions>",
-					"Generated with weight [10] <in [Hill] Regions>",
+					"Generated with weight [25] <in [Hill] Regions>",
 					"Generated with weight [5] <in [Plains] Regions>",
 					"Generated with weight [10] <in [Grassland] Regions>",
 					"Generated with weight [20] <in [Hybrid] Regions>",
@@ -495,13 +497,13 @@
 		"food": 1,
 		"improvement": "Fishing Boats",
 		"improvementStats": {"gold": 1},
-		"uniques": ["Resource", "Generated with weight [30] <in [Tundra] Regions>",
-					"Generated with weight [5] <in [Jungle] Regions>",
-					"Generated with weight [10] <in [Forest] Regions>",
+		"uniques": ["Resource", "Generated with weight [30] <in [Desert] Regions>",
+					"Generated with weight [25] <in [Jungle] Regions>",
+					"Generated with weight [20] <in [Forest] Regions>",
 					"Generated with weight [10] <in [Hill] Regions>",
 					"Generated with weight [5] <in [Plains] Regions>",
-					"Generated with weight [20] <in [Grassland] Regions>",
-					"Generated with weight [20] <in [Hybrid] Regions>",
+					"Generated with weight [5] <in [Grassland] Regions>",
+					"Generated with weight [15] <in [Hybrid] Regions>",
 					"Generated near City States with weight [15]"]
 	},
 	{

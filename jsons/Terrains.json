@@ -124,7 +124,7 @@
 		"RGB": [150, 150, 150],
 		"occursOn": ["Tundra", "Plains", "Grassland", "Desert", "Snow", "Hill"],
 		"uniques": ["Rough terrain",
-            "Has an elevation of [2] for visibility calculations",
+            "Has an elevation of [3] for visibility calculations",
             "Occurs in chains at high elevations",
             "Units ending their turn on this terrain take [50] damage",
 	    "[+2] to Fertility for Map Generation",

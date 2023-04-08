@@ -187,8 +187,8 @@
             {
                 "name": "Military Caste",
                 "uniques": [
-                    "[+2 Production, +2 Happiness] [in all cities with a garrison]",
-		    "New [Military] units start with [15] Experience [in capital]"
+                    "[+1 Production, +1 Happiness] [in all cities with a garrison]",
+		    "New [Military] units start with [15] Experience [in all cities with a garrison]"
                 ],
                 "requires": ["Discipline"],
                 "row": 2,

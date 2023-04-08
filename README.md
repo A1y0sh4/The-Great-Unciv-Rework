@@ -15,7 +15,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 -Most Resources are not revealed until the discovery of a tech, making some combinations stategical in the early-game
 
--It's been added new Natural Wonders
+-It's been added new Natural Wonders (and now all Natural Wonders give their yields without having to be worked)
 
 -It's been added a religious victory and some civs have it as their favourite one (Byzantium, Celts, The Ottomans, Spain, Arabia, Ethiopia, Siam)
 

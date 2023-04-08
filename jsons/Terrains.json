@@ -534,7 +534,8 @@
 		"gold": 4,
 		"occursOn": ["Plains", "Mountain"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
-			"Must be adjacent to [0] to [6] [Hill] tiles"],
+			"Must be adjacent to [0] to [6] [Hill] tiles"
+			   "Must be adjacent to [1] to [3] [Desert] tiles"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,

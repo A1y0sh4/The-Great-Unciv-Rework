@@ -121,17 +121,16 @@
 		"impassable": true,
 		"overrideStats": true,
 		"defenceBonus": 0.25,
-		"RGB": [132, 132, 132],
-		"occursOn": ["Tundra","Plains","Grassland","Desert","Snow"],
+		"RGB": [150, 150, 150],
+		"occursOn": ["Tundra", "Plains", "Grassland", "Desert", "Snow"],
 		"uniques": ["Rough terrain",
             "Has an elevation of [3] for visibility calculations",
             "Occurs in chains at high elevations",
             "Units ending their turn on this terrain take [50] damage",
-	    "[-2] to Fertility for Map Generation <in all except [Mountain] Regions>",
-            "[+2] to Fertility for Map Generation <in [Mountain] Regions>",
+	    "[+1] to Fertility for Map Generation",
 	    "Base Terrain on this tile is not counted for Region determination",
 	    "A Region is formed with at least [15]% [Mountain] tiles, with priority [4]",
-            "Considered [Undesirable] when determining start locations <in all except [Mountain] Regions>", "Considered [Production] when determining start locations", "Tile provides yield without assigned population"]
+            "Considered [Desirable] when determining start locations", "Considered [Science] when determining start locations", "Tile provides yield without assigned population"]
 	},
 	{
 		"name": "Snow",

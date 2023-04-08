@@ -170,7 +170,7 @@
 		"outerColor": [51,25,0],
 		"innerColor": [255,255,102],
 		"uniqueName": "Viking Fury",
-		"uniques": ["Earn [10]% of the damage done to [{Military} {Land}] units as [Gold]", "[1] Movement point cost to embark <for [All] units>", "[1] Movement point cost to disembark <for [All] units>", "Enables [All] units to enter ocean tiles <upon entering the [Medieval era]>"], 
+		"uniques": ["Earn [15]% of the damage done to [{Military} {Land}] units as [Gold]", "[1] Movement point cost to embark <for [All] units>", "[1] Movement point cost to disembark <for [All] units>", "Enables [All] units to enter ocean tiles <upon entering the [Medieval era]>"], 
 		"cities": ["Copenhagen","Aarhus","Kaupang","Ribe","Viborg","Tunsbers","Roskilde","Hedeby","Oslo","Jelling","Truso",
 			"Bergen","Faeroerne","Reykjavik","Trondheim","Godthab","Helluland","Lillehammer","Markland","Elsinore",
 			"Sarpsborg","Odense","Aalborg","Stavanger","Vorbasse","Schleswig","Kristiansand","Halogaland","Randers",

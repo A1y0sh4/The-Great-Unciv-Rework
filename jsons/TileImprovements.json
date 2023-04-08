@@ -260,7 +260,7 @@
 			"[+1 Food] for each adjacent [Mountain]",
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
 			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
-            "Pillaging this improvement yields approximately [+18 Gold]"],
+            "Pillaging this improvement yields approximately [+10 Gold]"],
 		"techRequired": "Construction",
 		"shortcutKey": "F"
 	},

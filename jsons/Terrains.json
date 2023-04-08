@@ -294,7 +294,7 @@
 	{
 		"name": "Great Barrier Reef",
 		"type": "NaturalWonder",
-		"food": 2,
+		"food": 1,
 		"gold": 1,
 		"science": 3,
 		"occursOn": ["Ocean"],

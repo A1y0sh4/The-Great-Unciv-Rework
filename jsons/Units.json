@@ -1204,7 +1204,7 @@
 		"requiredTech": "Rifling",
 		"upgradesTo": "Great War Infantry",
 		"obsoleteTech": "Replaceable Parts",
-		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
+		"uniques": ["[+15]% Strength <when fighting in [Foreign Land] tiles>"],
 		"promotions": ["Pride"],
 		"attackSound": "shot"
 	},

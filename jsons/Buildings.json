@@ -1104,7 +1104,7 @@
 	{
 		"name": "Medical Lab",
 		"requiredBuilding": "Hospital",
-		"food": 2,
+		"food": 4,
 		"maintenance": 3,
 		"requiredTech": "Pharmaceuticals",
 		"uniques": ["[25]% Food is carried over after population increases [in this city]", "[+10]% growth [in this city]"]

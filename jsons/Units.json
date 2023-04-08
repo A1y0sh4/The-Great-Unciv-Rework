@@ -146,7 +146,7 @@
 		"movement": 2,
 		"range": 1,
 		"strength": 5,
-		"rangedStrength": 5,
+		"rangedStrength": 6,
 		"cost": 35,
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",

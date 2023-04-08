@@ -501,9 +501,9 @@
 	{
 		"name": "Rock of Gibraltar",
 		"type": "NaturalWonder",
-		"gold": 1,
+		"gold": 2,
 		"production": 1,
-		"culture": 2,
+		"culture": 1,
 		"occursOn": ["Grassland"],
 		"uniques": ["[+5] Strength for cities built on this terrain", "Must be adjacent to [1] to [5] [Coast] tiles",
 			"Must be adjacent to [1] [Mountain] tiles",
@@ -546,7 +546,7 @@
 	{
 		"name": "Barringer Crater",
 		"type": "NaturalWonder",
-		"production": 1,
+		"production": 2,
 		"science": 2,
 		"occursOn": ["Desert"],
 		"uniques": ["[+1 Production] for each adjacent [Mine]", "[+1 Production] for each adjacent [Quarry]", "Must be adjacent to [0] [Coast] tiles",

@@ -125,8 +125,9 @@
             "Has an elevation of [4] for visibility calculations",
             "Occurs in chains at high elevations",
             "Units ending their turn on this terrain take [50] damage",
-            "Always Fertility [-2] for Map Generation",
-            "Considered [Undesirable] when determining start locations <in all except [Hill] Regions>", "Tile provides yield without assigned population"]
+            "[+2] to Fertility for Map Generation",
+	    "A Region is formed with at least [15]% [Desert] tiles, with priority [4]",
+            "Considered [Undesirable] when determining start locations <in all except [Mountain] Regions>", "Tile provides yield without assigned population"]
 	},
 	{
 		"name": "Snow",

@@ -455,7 +455,7 @@
 		"culture": 2,
 		"gold": 1,
 		"occursOn": ["Grassland"],
-		"uniques": ["Fresh Water", "Must be adjacent to [0] [Coast] tiles",
+		"uniques": ["Fresh water", "Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] to [2] [Hill] tiles",
 			"Must be adjacent to [0] [Mountain] tiles", "Tile provides yield without assigned population"],
 		"turnsInto": "Mountain",

@@ -196,35 +196,35 @@
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"science": 4,
-		"uniques": ["Improvement", "Great Improvement", "[+2 Science] <after discovering [Scientific Theory]>", "[+2 Science] <after discovering [Atomic Theory]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["Improvement", "Great Improvement", "[+2 Science] <after discovering [Scientific Theory]>", "[+2 Science] <after discovering [Atomic Theory]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+100 Science]"]
 	},
 	{
 		"name": "Landmark",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"culture": 4,
-		"uniques": ["Improvement", "Great Improvement", "[+2 Culture] <after discovering [Acoustics]>", "[+2 Culture] <after discovering [Radio]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["Improvement", "Great Improvement", "[+2 Culture] <after discovering [Acoustics]>", "[+2 Culture] <after discovering [Radio]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+100 Culture]"]
 	},
 	{
 		"name": "Manufactory",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 4,
-		"uniques": ["Improvement", "Great Improvement", "[+2 Production] <after discovering [Chemistry]>", "[+2 Production] <after discovering [Steam Power]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["Improvement", "Great Improvement", "[+2 Production] <after discovering [Chemistry]>", "[+2 Production] <after discovering [Steam Power]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+100 Gold]"]
 	},
 	{
 		"name": "Customs house",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"gold": 4,
-		"uniques": ["Improvement", "Great Improvement", "[+2 Gold] <after discovering [Guilds]>", "[+2 Gold] <after discovering [Economics]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["Improvement", "Great Improvement", "[+2 Gold] <after discovering [Guilds]>", "[+2 Gold] <after discovering [Economics]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+100 Gold]"]
 	},
 	{
 		"name": "Holy site",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"faith": 4,
-		"uniques": ["Improvement", "Great Improvement", "[+2 Faith] <after adopting [Piety]>", "[+2 Faith] <after discovering [Theology]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["Improvement", "Great Improvement", "[+2 Faith] <after adopting [Piety]>", "[+2 Faith] <after discovering [Theology]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+100 Faith]"]
 	},
 	{
 		"name": "Citadel",
@@ -271,9 +271,9 @@
 		"uniqueTo": "The Netherlands",
 		"food": 2,
 		"production": 1,
-		"terrainsCanBeBuiltOn": ["Grassland"],
+		"terrainsCanBeBuiltOn": ["Grassland", "Marsh"],
 		"turnsToBuild": 7,
-		"uniques": ["Improvement", "Can only be built on [Coastal] tiles", "[+1 Production, +1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+18 Gold]"],
+		"uniques": ["Improvement", "Can only be built on [Coastal] tiles", "[+1 Food, +1 Production] <in [Marsh] tiles>", "[+1 Production, +1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+18 Gold]"],
 		"techRequired": "Guilds",
 		"shortcutKey": "F"
 	},

@@ -181,7 +181,7 @@
 	{
 		"name": "Amphibious",
 		"prerequisites": ["Shock I", "Drill I", "Scouting III", "Survivalism III"],
-		"uniques": ["Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast"],
+		"uniques": ["Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May attack when embarked"],
 		"unitTypes": ["Sword","Gunpowder","Scout"],
         "column": 6,
         "row": 1

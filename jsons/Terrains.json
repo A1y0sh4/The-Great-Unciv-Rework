@@ -230,7 +230,10 @@
 		"occursOn": ["Grassland"],
 		"uniques": ["Rare feature",
 					"[-2] to Fertility for Map Generation",
-					"Every [9] tiles with this terrain will receive a major deposit of a strategic resource."],
+					"Every [9] tiles with this terrain will receive a major deposit of a strategic resource.",
+			                "A Region is formed with at least [16]% [Marsh] tiles, with priority [2]",
+			                "A Region is formed with at least [64]% [Marsh] tiles and [Forest] tiles, with priority [2]",
+			                "A Region can not contain more [Marsh] tiles than [Forest] tiles",],
 		"civilopediaText": [{"text":"Only Polders can be built here", "link":"Improvement/Polder"}]
 	},
 	{

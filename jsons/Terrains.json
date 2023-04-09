@@ -119,12 +119,11 @@
 	},
 	{
 		"name": "Mountain",
-		"type": "TerrainFeature",
+		"type": "Land",
 		"impassable": true,
 		"overrideStats": true,
 		"defenceBonus": 0.25,
 		"RGB": [166, 166, 166],
-		"occursOn": ["Tundra", "Plains", "Grassland", "Desert", "Snow", "Hill"],
 		"uniques": ["Rough terrain",
             "Has an elevation of [2] for visibility calculations",
             "Occurs in chains at high elevations",

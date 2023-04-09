@@ -35,6 +35,8 @@
             "[+3] to Fertility for Map Generation",
             "A Region is formed with at least [33]% [Grassland] tiles, with priority [7]",
             "A Region can not contain more [Plains] tiles than [Grassland] tiles",
+	    "Becomes [Marsh] when adjacent to [River] <with [16]% chance>",
+	    "Becomes [Marsh] when adjacent to [Coast] <with [16]% chance>",
             "Considered [Desirable] when determining start locations",
             "Considered [Food] when determining start locations <in [Jungle] Regions>",
             "Considered [Food] when determining start locations <in [Forest] Regions>",

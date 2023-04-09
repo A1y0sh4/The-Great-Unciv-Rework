@@ -331,7 +331,7 @@
 	{
 		"name": "Dead Sea",
 		"type": "NaturalWonder",
-		"food": -2,
+		"food": -1,
 		"culture": 3,
 		"faith": 3,
 		"occursOn": ["Desert"],

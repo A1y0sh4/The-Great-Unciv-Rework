@@ -417,7 +417,7 @@
 			{
 				"name": "Dynamite",
 				"row": 9,
-				"uniques": ["[+2 Production] from every [Mountain]"],
+				"uniques": ["[+1 Production] from every [Mountain]"],
 				"prerequisites": ["Fertilizer","Military Science"],
 				"quote": "'As soon as men decide that all means are permitted to fight an evil, then their good becomes indistinguishable from the evil that they set out to destroy.' - Christopher Dawson"
 			}

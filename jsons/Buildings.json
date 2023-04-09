@@ -80,7 +80,8 @@
 		"hurryCostModifier": 0,
 		"uniques": ["Must not be on [Plains]",
 			"[+1 Production] from [Stone] tiles [in this city]",
-			"[+1 Production] from [Marble] tiles [in this city]"],
+			"[+1 Production] from [Marble] tiles [in this city]",
+			"[+1 Production] from [Mountain] tiles [in this city]"],
 		"requiredTech": "Calendar"
 	},
 	{

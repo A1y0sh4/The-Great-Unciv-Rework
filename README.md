@@ -42,6 +42,8 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 -Army Upkeep raises by +5% each time you get into the next era (up to +35%)
 
+-Melee units automatically plunder little amounts of Gold (up to a max. of 16) when attacking
+
 -Great General points are offered by buildings (Barracks, Armories, Military Academies) and Wonders (Statue of Zeus, Alhambra, Himeji Castle, Kremlin, Brandenburg Gate, Pentagon)
 
 -Great Generals are gained 4x slower when at peace

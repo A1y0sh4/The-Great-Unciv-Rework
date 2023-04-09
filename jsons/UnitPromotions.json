@@ -756,8 +756,7 @@
 	},
 	{
 		"name": "Privateer",
-		"uniques": ["Earn [25]% of the damage done to [All] units as [Gold] <within [1] tiles of a [Coast]>",
-			    "Earn [25]% of the damage done to [All] units as [Gold] <within [1] tiles of a [Ocean]>"]
+		"uniques": ["Earn [33]% of the damage done to [All] units as [Gold] <within [1] tiles of a [Water]>"]
 	},
 	{
 		"name": "[Hakkapeliitta] ability",

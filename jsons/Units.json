@@ -815,7 +815,7 @@
 		"requiredTech": "Metal Casting",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Metallurgy",
-		"uniques": ["[+2] Movement <in [Water] tiles>"],
+		"uniques": ["[+2] Movement <in [Water] tiles>", "Transfer Movement to [Civilian]"],
 		"requiredResource": "Iron",
 		"promotions": ["Amphibious"],
 		"hurryCostModifier": 20,

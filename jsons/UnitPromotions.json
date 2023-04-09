@@ -767,7 +767,7 @@
                 "uniques": ["[1] additional attacks per turn", "Can move after attacking"]
         },
 	{
-		"name": "Brute",
+		"name": "Barbarian",
 		"uniques": ["Destroys tile improvements when attacking", "Can only heal by pillaging", "Heals [50] damage if it kills a unit"]
 	},
 	{

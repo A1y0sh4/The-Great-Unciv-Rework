@@ -269,11 +269,11 @@
 		"name": "Polder",
 		"type": "Improvement",
 		"uniqueTo": "The Netherlands",
-		"food": 2,
+		"food": 1,
 		"production": 1,
 		"terrainsCanBeBuiltOn": ["Grassland", "Marsh"],
 		"turnsToBuild": 7,
-		"uniques": ["Improvement", "Can only be built on [Coastal] tiles", "[+1 Food, +1 Production] <in [Marsh] tiles>", "[+1 Production, +1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+18 Gold]"],
+		"uniques": ["Improvement", "Can only be built on [Coastal] tiles", "[+2 Food] <in [Marsh] tiles>", "[+1 Production, +1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+18 Gold]"],
 		"techRequired": "Guilds",
 		"shortcutKey": "F"
 	},

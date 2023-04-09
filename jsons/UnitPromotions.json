@@ -773,7 +773,7 @@
         },
 	{
 		"name": "Brute",
-		"uniques": ["Can only heal by pillaging", "Heals [25] damage if it kills a unit"]
+		"uniques": ["Destroys tile improvements when attacking", "Can only heal by pillaging", "Heals [50] damage if it kills a unit"]
 	},
 	{
 		"name": "Ceremonial Burial",

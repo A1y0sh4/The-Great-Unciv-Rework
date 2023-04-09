@@ -308,7 +308,7 @@
 	},
 	{
 		"name": "Landing Party",
-		"uniques": ["Eliminates combat penalty for attacking across a coast"],
+		"uniques": ["Eliminates combat penalty for attacking across a coast", "Earn [33]% of the damage done to [Military] units as [Gold]"],
 		"unitTypes": ["Melee Water"],
         "column": 12,
         "row": 5
@@ -753,10 +753,6 @@
 			"Double movement in [Snow]",
 			"Double movement in [Tundra]",
 			"Double movement in [Hill]"]
-	},
-	{
-		"name": "Privateer",
-		"uniques": ["Earn [33]% of the damage done to [All] units as [Gold] <within [1] tiles of a [Water]>"]
 	},
 	{
 		"name": "[Hakkapeliitta] ability",

@@ -809,17 +809,17 @@
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
 		"uniqueTo": "Denmark",
-		"movement": 3,
+		"movement": 2,
 		"strength": 21,
 		"cost": 120,
 		"requiredTech": "Metal Casting",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Metallurgy",
+		"uniques": ["[+2] Movement <in [Water] tiles>"],
 		"requiredResource": "Iron",
 		"promotions": ["Amphibious"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
-		//Danish unique unit. Can attack from the sea without any penalty, and moves faster.
 	},
 
 	// Rennaisance Era

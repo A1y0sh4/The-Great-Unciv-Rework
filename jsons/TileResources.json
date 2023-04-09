@@ -246,8 +246,8 @@
 		"uniques": ["Resource", "Generated with weight [16] <in [Water] Regions>",
 					"Generated with weight [4] <in [Jungle] Regions>",
 			                "Generated with weight [4] <in [Desert] Regions>",
-					"Generated with weight [33] <in [Forest] Regions>",
-					"Generated near City States with weight [33]",
+					"Generated with weight [32] <in [Forest] Regions>",
+					"Generated near City States with weight [24]",
 					"Doesn't generate naturally <in [Hill] tiles>"]
 	},
 	{
@@ -389,7 +389,8 @@
 		"terrainsCanBeFoundOn": ["Flood plains","Grassland","Marsh"],
 		"gold": 1,
 		"improvement": "Plantation",
-		"uniques": ["Resource", "Generated with weight [25] <in [Jungle] Regions>",
+		"uniques": ["Resource", "Generated with weight [30] <in [Marsh] Regions>",
+			                "Generated with weight [25] <in [Jungle] Regions>",
 					"Generated with weight [15] <in [Desert] Regions>",
 					"Generated with weight [20] <in [Grassland] Regions>",
 					"Generated with weight [5] <in [Hybrid] Regions>",

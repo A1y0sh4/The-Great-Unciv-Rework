@@ -365,7 +365,7 @@
 		"replaces": "Temple",
 		"uniqueTo": "Egypt",
 		"maintenance": 0,
-		"uniques": ["Doubles Gold given to enemy if city is captured", "[+15]% [Culture] [in this city] <after discovering [Archaeology]>"],
+		"uniques": ["Doubles Gold given to enemy if city is captured", "[+15]% Production when constructing [All] wonders [in this city]"],
 		"faith": 2,
 		"culture": 1,
 		"requiredBuilding": "Shrine",

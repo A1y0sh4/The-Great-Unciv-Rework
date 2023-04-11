@@ -231,7 +231,7 @@
 		"improvement": "Plantation",
 		"uniques": ["Resource", "Generated with weight [16] <in [Desert] Regions>",
 					"Generated with weight [16] <in [Grassland] Regions>",
-					"Generated with weight [33] <in [Hybrid] Regions>",
+					"Generated with weight [32] <in [Hybrid] Regions>",
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Hill] tiles>"]
 	},
@@ -385,7 +385,7 @@
 		"name": "Sugar",
 		"resourceType": "Luxury",
 		"revealedBy": "Pottery",
-		"terrainsCanBeFoundOn": ["Flood plains", "Grassland", "Marsh"],
+		"terrainsCanBeFoundOn": ["Flood plains", "Grassland", "Marsh", "Jungle"],
 		"gold": 1,
 		"improvement": "Plantation",
 		"uniques": ["Resource", "Generated with weight [64] <in [Marsh] tiles>",

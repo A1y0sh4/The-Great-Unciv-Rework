@@ -545,7 +545,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"uniques": ["Can instantly construct a [Fort] improvement <once>"],
+		"uniques": ["Can instantly construct a [Fort] improvement <once>", "Can build [Remove Forest] improvements on tiles"],
 		"hurryCostModifier": 20,
 		"promotions": ["March"],
 		"attackSound": "metalhit"

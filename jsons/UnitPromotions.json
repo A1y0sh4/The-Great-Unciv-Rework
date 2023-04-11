@@ -707,7 +707,7 @@
 	},
 	{
 		"name": "Pictish Courage", // only for Pictish Warrior and subsequent upgrades
-		"uniques": ["Damage is ignored when determining unit Strength"]
+		"uniques": ["Damage is ignored when determining unit Strength", "Double movement in [Forest]"]
 	},
 	{
 		"name": "Home Sweet Home", // only for Mehal Sefari and subsequent upgrades

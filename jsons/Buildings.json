@@ -64,6 +64,8 @@
 		"name": "Temple of Artemis",
 		"culture": 1,
 		"faith": 1,
+		"happiness": 2,
+		"requiredNearbyImprovedResources": ["Deer", "Ivory", "Truffles", "Furs"],
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"uniques": ["[+1 Food] from every [Camp]", "[+50]% XP gained from combat <for [Ranged] units>", "Hidden when religion is disabled"],
@@ -89,6 +91,7 @@
 		"faith": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
+		"requiredNearbyImprovedResources": ["Marble", "Stone"],
 		 "uniques": ["Gain enough Faith for a Pantheon", "Gain [50] [Science] <upon founding a Pantheon>", "Gain [50] [Science] <upon founding a Religion>", "Gain [50] [Science] <upon enhancing a Religion>", "Hidden when religion is disabled"],
 		"requiredTech": "Calendar",
 		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
@@ -159,7 +162,7 @@
 		"greatPersonPoints": {"Great Scientist": 1},
 		"isWonder": true,
 		"requiredTech": "Writing",
-		"uniques": ["Free Technology", "Gain a free [Library] [in this city]"],
+		"uniques": ["Must be next to [Coast]", "Free Technology", "Gain a free [Library] [in this city]"],
 		"quote": "'Libraries are as the shrine where all the relics of the ancient saints, full of true virtue, and all that without delusion or imposture are preserved and reposed.' - Sir Francis Bacon"
 	},
 	{
@@ -216,18 +219,17 @@
 		"faith": 1,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["[-20]% tile improvement construction time", "[2] free [Worker] units appear", "Hidden when religion is disabled"],
+		"uniques": ["Must be next to [Desert]", "[-20]% tile improvement construction time", "[2] free [Worker] units appear", "Hidden when religion is disabled"],
 		"requiredTech": "Masonry",
 		"quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge"
 	},
 	{
 		"name": "Mausoleum of Halicarnassus",
 		"culture": 1,
-		"requiredNearbyImprovedResources": ["Marble", "Stone"],
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
 		"uniques": ["Provides a sum of gold each time you spend a Great Person", "Must be next to [Coast]",
-			"[+1 Gold] from [Marble] tiles [in this city]", "[+1 Gold] from [Stone] tiles [in this city]", "[+1 Gold] from every [Quarry]"],
+			"[+2 Gold] from [Marble] tiles [in this city]", "[+2 Gold] from [Stone] tiles [in this city]"],
 		"requiredTech": "Masonry",
 		"quote": "'The whole earth is the tomb of heroic men and their story is not given only on stone over their clay but abides everywhere without visible symbol woven into the stuff of other men's lives.' - Pericles"
 	},
@@ -329,7 +331,7 @@
 		"culture": 2,
 		"isWonder": true,
 		"requiredTech": "Mathematics",
-		"uniques": ["Gain a free [Garden] [in this city]", "[+15]% growth [in all cities]"],
+		"uniques": ["Must be next to [Fresh water]", "Gain a free [Garden] [in this city]", "[+15]% growth [in all cities]"],
 		"quote": "'I think that if ever a mortal heard the word of God it would be in a garden at the cool of the day.' - F. Frankfort Moore"
 	},
 	{

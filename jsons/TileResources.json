@@ -388,12 +388,11 @@
 		"terrainsCanBeFoundOn": ["Flood plains","Grassland","Marsh"],
 		"gold": 1,
 		"improvement": "Plantation",
-		"uniques": ["Resource", "Generated with weight [30] <in [Marsh] Regions>",
-			                "Generated with weight [25] <in [Jungle] Regions>",
-					"Generated with weight [15] <in [Desert] Regions>",
-					"Generated with weight [20] <in [Grassland] Regions>",
-					"Generated with weight [5] <in [Hybrid] Regions>",
-					"Generated near City States with weight [10]",
+		"uniques": ["Resource", "Generated with weight [64] <in [Marsh] Regions>",
+			                "Generated with weight [32] <in [Jungle] Regions>",
+					"Generated with weight [8] <in [Desert] Regions>",
+					"Generated with weight [16] <in [Grassland] Regions>",
+					"Generated with weight [4] <in [Hybrid] Regions>",
 					"Doesn't generate naturally <in [Grassland] tiles> <in tiles without [Fresh Water]>"]
 	},
 	{

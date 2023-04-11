@@ -33,7 +33,7 @@
             "Occurs at temperature between [0.7] and [0.8] and humidity between [0.7] and [1]",
             "Occurs at temperature between [0.6] and [0.8] and humidity between [0.4] and [0.6]",
             "[+3] to Fertility for Map Generation",
-            "Becomes [Marsh] when adjacent to [Fresh water] <in [Costal] tiles>",
+            "Becomes [Marsh] when adjacent to [River]",
             "A Region is formed with at least [33]% [Grassland] tiles, with priority [7]",
             "A Region can not contain more [Plains] tiles than [Grassland] tiles",
             "Considered [Desirable] when determining start locations",

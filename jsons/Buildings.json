@@ -1238,6 +1238,7 @@
 		"faith": 2,
 		"culture": 3,
 		"happiness": 1,
+		"requiredBuilding": "Temple",
 		"uniques": ["Unbuildable", "Hidden when religion is disabled"]
 	},
 	{
@@ -1246,6 +1247,7 @@
 		"culture": 2,
 		"faith": 3,
 		"happiness": 1,
+		"requiredBuilding": "Temple",
 		"uniques": ["Unbuildable", "Hidden when religion is disabled"]
 	},
 	{
@@ -1254,6 +1256,7 @@
 		"culture": 2,
 		"faith": 2,
 		"happiness": 2,
+		"requiredBuilding": "Temple",
 		"uniques": ["Unbuildable", "Hidden when religion is disabled"]
 	},
 	{
@@ -1262,6 +1265,7 @@
 		"happiness": 3,
 		"faith": 2,
 		"culture": 1,
+		"requiredBuilding": "Temple",
 		"uniques": ["Unbuildable", "Hidden when religion is disabled"]
 	}
 ]

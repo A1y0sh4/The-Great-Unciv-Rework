@@ -63,7 +63,7 @@
 		"innerColor": [148, 170, 255],
 		
 		"uniqueName": "Druidic Lore",
-		"uniques": ["[+1 Faith, -1 Production] from [Forest] tiles [in all cities]", "[+1 Science] from [Forest] tiles [in all cities] <upon founding a Pantheon>", "[-1 Science, -1 Faith, +1 Production] from every [Improvement] <in [Forest] tiles>"],
+		"uniques": ["[+1 Faith, -1 Production] from [Forest] tiles [in all cities]", "[+1 Science] from [Forest] tiles [in all cities] <after founding a Pantheon>", "[-1 Science, -1 Faith, +1 Production] from every [Improvement] <in [Forest] tiles>"],
 		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth","Penzance",
 			"Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen","Belfast",
 			"Caernafon","Newquay","Saint-Nazarre","Castletown","Stirling","Galway","Conwy","St. Austell","Saint-Malo",

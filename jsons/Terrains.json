@@ -229,7 +229,7 @@
 		"unbuildable": true,
 		"defenceBonus": -0.15,
 		"occursOn": ["Grassland"],
-		"uniques": ["Rare feature",
+		"uniques": [
 					"[-2] to Fertility for Map Generation",
 					"Every [9] tiles with this terrain will receive a major deposit of a strategic resource.",
 			                "A Region is formed with at least [16]% [Marsh] tiles, with priority [2]",

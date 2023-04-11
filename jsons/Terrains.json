@@ -406,8 +406,7 @@
 	{
 		"name": "Manpupuner",
 		"type": "NaturalWonder",
-		"production": 1,
-		"culture": 2,
+		"culture": 3,
 		"faith": 3,
 		"occursOn": ["Tundra"],
 		"uniques": ["Must be adjacent to [2] to [6] [Tundra] tiles",

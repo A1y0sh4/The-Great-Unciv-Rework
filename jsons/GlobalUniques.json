@@ -27,7 +27,11 @@
         "[Great General] is earned [-75]% faster <when not at war>",
         "Earn [16]% of the damage done to [Military] units as [Gold] <for [Melee] units>",
         "[Faith] cost of purchasing [Military] units [-50]%",
-        "[Gold] cost of purchasing [Landsknecht] units [-75]%"]
+        "[Gold] cost of purchasing [Landsknecht] units [-75]%",
+        "May buy [Shrine] buildings with [Faith] [in all cities]",
+        "May buy [Temple] buildings with [Faith] [in all cities]",
+        "[Faith] cost of purchasing [Shrine] buildings [-75]%",
+        "[Faith] cost of purchasing [Temple] buildings [-50]%"]
     
         // TODO: Implement the uniques below
         // "[+20]% [Culture] [in all cities] <during a golden age>",

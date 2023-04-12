@@ -23,7 +23,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 -It's lowered the amount of unhappiness required to spawn rebels (from 20 to 10)
 
--Cities in Fresh water obtain a growth bonus (+10%)
+-Cities in Fresh water obtain a growth bonus (+15%)
 
 -City-States bonuses have been completly reworked
 
@@ -42,7 +42,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 -Army Upkeep raises by +5% each time you get into the next era (up to +35%)
 
--Melee units automatically plunder little amounts of Gold (up to a max. of 16) when attacking
+-Melee units automatically plunder little amounts of Gold (up to a max of 10) when attacking
 
 -Great General points are offered by buildings (Barracks, Armories, Military Academies) and Wonders (Statue of Zeus, Alhambra, Himeji Castle, Kremlin, Brandenburg Gate, Pentagon)
 

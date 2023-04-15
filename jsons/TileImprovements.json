@@ -283,14 +283,14 @@
 		"name": "City ruins",
 		"type": "Ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Ruins", "Unpillagable", "Provides a random bonus when entered", "Unbuildable", "Will be replaced by automated workers"],
+		"uniques": ["Unpillagable", "Unbuildable", "Will be replaced by automated workers"],
         "civilopediaText": [{"text":"A bleak reminder of the destruction wreaked by War"}]
 	},
 	{
 		"name": "Ancient ruins",
 		"type": "Ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Ruins", "Unpillagable", "Provides a random bonus when entered", "Unbuildable"]
+		"uniques": ["Unpillagable", "Provides a random bonus when entered", "Unbuildable"]
 	},
 	{
 		"name": "City center",

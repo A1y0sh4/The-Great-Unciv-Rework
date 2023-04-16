@@ -580,6 +580,7 @@
 		"culture": 1,
 		"maintenance": 1,
                 "requiredBuilding": "Wine Cellar",
+		"requiredNearbyImprovedResources": ["Grape"],
 		 "uniques": ["Only available <in cities without a [Rum Distillery]>", "Only available <in cities without a [Whisky Distillery]>", "Only available <in cities without a [Vodka Distillery]>", "Provides [1] [Cognac]"],
 		"requiredTech": "Distillation"
 	},

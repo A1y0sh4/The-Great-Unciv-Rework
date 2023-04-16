@@ -70,7 +70,6 @@
 				"name": "Writing",
 				"row": 3,
 				"prerequisites": ["Pottery"],
-				"uniques": ["[-15]% maintenance cost for buildings [in all cities]"], 
 				"quote": "'He who destroys a good book kills reason itself.' - John Milton"
 			},
 			{
@@ -124,7 +123,6 @@
 				"name": "Mathematics",
 				"row": 7,
 				"prerequisites": ["The Wheel"],
-				"uniques": ["[-15]% maintenance cost for buildings [in all cities]"], 
 				"quote": "'Mathematics is the gate and key to the sciences.' - Roger Bacon"
 			},
 			{

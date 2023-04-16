@@ -7,6 +7,7 @@
         "[-33]% Strength <for [All] units> <when below [-10] Happiness>",
         "Cannot build [Settler] units <when below [-10] Happiness>",
         "Rebel units may spawn <when below [-10] Happiness>",
+        "[+10]% Culture cost of adopting new Policies",
         "[+15]% growth [in all cities] <in [Fresh water] tiles>",
         "[+25]% growth [in all cities] <during We Love The King Day>",
         "[+50]% maintenance on road & railroads",

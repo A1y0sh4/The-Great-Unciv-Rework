@@ -56,14 +56,14 @@
 	{
 		"name": "Stone",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Grassland", "Desert", "Tundra"],
+		"terrainsCanBeFoundOn": ["Grassland", "Desert", "Tundra", "Hill"],
 		"production": 1,
 		"improvement": "Quarry",
 		"improvementStats": {"production": 1},
-		"uniques": ["Resource", "Generated on every [5] tiles <in [Featureless] [Grassland] tiles> <in [Mountain] Regions>",
-			                "Generated on every [10] tiles <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>",
-					"Generated on every [15] tiles <in [Featureless] [Tundra] tiles>",
-					"Generated on every [20] tiles <in [Featureless] [Desert] tiles>"]
+		"uniques": ["Resource", "Generated on every [8] tiles <in [Mountain] Regions> <in tiles without [Hill]> <in tiles without [Fresh Water]>",
+			                "Generated on every [16] tiles <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>",
+					"Generated on every [24] tiles <in [Featureless] [Desert] tiles> <in tiles without [Fresh Water]>",
+					"Generated on every [32] tiles <in [Featureless] [Tundra] tiles> <in tiles without [Fresh Water]>"]
 	},
 	{
 		"name": "Fish",

@@ -48,7 +48,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 -Great Generals are gained 4x slower when at peace
 
--Barracks and Armories give XP on contruction for Land units, while the Harbor and Seaport for the Water ones (Military Academies give XPs to both of them)
+-Barracks and Armories give XP on contruction for Land units, while the Harbor and Seaport for the Water ones (Military Academies gives XPs to both of them)
 
 -Most Water and Air units have been (slightly) buffed in order to compensate their higher maintainance costs and to make them a viable alternative to the Land ones
  

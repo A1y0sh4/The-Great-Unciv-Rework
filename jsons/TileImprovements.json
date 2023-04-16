@@ -288,14 +288,13 @@
 	// Unbuildable improvements
 	{
 		"name": "City ruins",
-		"type": "Ruins",
+		"food": -1,
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Nullifies all other stats this tile provides", "Tile provides yield without assigned population", "Unpillagable", "Unbuildable"],
+		"uniques": ["Gives a defensive bonus of [15]%", "Tile provides yield without assigned population", "Unpillagable", "Unbuildable"],
         "civilopediaText": [{"text":"A bleak reminder of the destruction wreaked by War"}]
 	},
 	{
 		"name": "Ancient ruins",
-		"type": "Ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Unpillagable", "Provides a random bonus when entered", "Unbuildable"]
 	},

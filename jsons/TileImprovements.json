@@ -164,6 +164,13 @@
 		"shortcutKey": "X"
 	},
 	{
+		"name": "Remove City ruins",
+		"turnsToBuild": 3,
+		// Has no tech requirements as it can always be built
+		"uniques": ["Can be built outside your borders"],
+		"shortcutKey": "X"
+	},
+	{
 		"name": "Remove Marsh",
 		"turnsToBuild": 5,
 		"techRequired": "Masonry",

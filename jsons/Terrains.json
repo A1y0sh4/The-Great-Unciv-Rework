@@ -132,6 +132,7 @@
 	    "Starts in regions of this type receive an extra [Stone]",
 	    "A Region is formed with at least [10]% [Mountain] tiles, with priority [5]",
 	    "A Region is formed with at least [15]% [Mountain] tiles and [Lakes] tiles, with priority [5]",
+	    "A Region is formed with at least [25]% [Hill] tiles, with priority [5]",
 	    "A Region can not contain more [Lakes] tiles than [Mountain] tiles",
             "Considered [Undesirable] when determining start locations <in all except [Mountain] Regions>", "Considered [Production] when determining start locations", "Tile provides yield without assigned population"]
 	},
@@ -168,7 +169,7 @@
 					"Has an elevation of [1] for visibility calculations",
 					"Occurs in groups around high elevations",
 					"[+1] to Fertility for Map Generation",
-					"A Region is formed with at least [25]% [Hill] tiles, with priority [5]",
+					"A Region is formed with at least [33]% [Hill] tiles, with priority [5]",
 					"Base Terrain on this tile is not counted for Region determination",
 					"Starts in regions of this type receive an extra [Sheep]",
 					"Considered [Desirable] when determining start locations",

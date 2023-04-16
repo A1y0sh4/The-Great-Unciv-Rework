@@ -15,6 +15,10 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 -Most Resources are not revealed until the discovery of a tech, making some combinations stategical in the early-game
 
+-Its been added 6 new resources, 1 Bonus (Grapes) and 5 Luxuries (Beer, Vodka, Whisky, Rum, Cognac)
+
+-Its been added 6 new alcohol buildings that grant alcohol luxuries (France and the Celts also have new Unique Buildings) 
+
 -It's been added new Natural Wonders (and now all Natural Wonders give their yields without having to be worked)
 
 -It's been added a religious victory and some civs have it as their favourite one (Byzantium, Celts, The Ottomans, Spain, Arabia, Ethiopia, Siam)

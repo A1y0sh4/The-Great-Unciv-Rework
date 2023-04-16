@@ -402,7 +402,7 @@
 	},
 	{
 		"name": "Amphitheater",
-		"culture": 2,
+		"culture": 3,
 		"specialistSlots": {"Artist": 1},
 		"requiredBuilding": "Monument",
 		"maintenance": 2,
@@ -763,7 +763,7 @@
 	},
 	{
 		"name": "Opera House",
-		"culture": 3,
+		"culture": 4,
 		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 10,
 		"requiredBuilding": "Amphitheater",
@@ -924,7 +924,7 @@
 	// Column 9
 	{
 		"name": "Museum",
-		"culture": 3,
+		"culture": 4,
 		"specialistSlots": {"Artist": 2},
 		"requiredBuilding": "Opera House",
 		"maintenance": 3,
@@ -934,7 +934,7 @@
 	},
 	{
 		"name": "The Louvre",
-		"happiness": 3,
+		"happiness": 4,
 		"isWonder": true,
 		"uniques": ["[2] free [Great Artist] units appear", "Gain a free [Museum] [in this city]"],
 		"requiredTech": "Archaeology",

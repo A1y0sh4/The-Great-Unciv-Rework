@@ -532,7 +532,7 @@
 		"faith": 3,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["Gain a free [Mosque] [in this city]", "[+1 Science] from all [Faith] buildings", "Hidden when religion is disabled",
+		"uniques": ["Must be next to [Desert]", "Gain a free [Mosque] [in this city]", "[+1 Science] from all [Faith] buildings", "Hidden when religion is disabled",
 			"[Missionary] units built [in this city] can [Spread Religion] [1] extra times", "[Great Prophet] units built [in this city] can [Spread Religion] [1] extra times"],
 		"requiredTech": "Theology",
 		"quote": "'With the magnificence of eternity before us, let time, with all its fluctuations, dwindle into its own littleness.' - Thomas Chalmers"
@@ -589,7 +589,7 @@
 		"happiness": 4,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["[+50]% Golden Age length", "[+1 Culture] from [Jungle] tiles [in all cities]", "Must have an owned [Jungle] within [2] tiles"],
+		"uniques": ["Must be next to [Jungle]", "[+50]% Golden Age length", "[+1 Culture] from [Jungle] tiles [in all cities]"],
 		"requiredTech": "Civil Service",
 		"quote": "'The katun is established at Chichen Itza. The settlement of the Itza shall take place there. The quetzal shall come, the green bird shall come. Ah Kantenal shall come. It is the word of God. The Itza shall come.' - The Books of Chilam Balam"
 	},
@@ -683,7 +683,7 @@
 		"faith": 3,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["[-25]% Culture cost of natural border growth [in all cities]", "[-25]% Gold cost of acquiring tiles [in all cities]", "Gain a free [University] [in this city]"],
+		"uniques": ["Must be next to [Jungle]", "[-25]% Culture cost of natural border growth [in all cities]", "[-25]% Gold cost of acquiring tiles [in all cities]", "Gain a free [University] [in this city]"],
 		"requiredTech": "Education",
 		"quote": "'The temple is like no other building in the world. It has towers and decoration and all the refinements which the human genius can conceive of.' - Antonio da Magdalena"
 	},
@@ -808,6 +808,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
 		"uniques": ["[-15]% Unhappiness from [Population] [in all cities]"],
+		"requiredBuilding": "Palace",
 		"requiredTech": "Banking",
 		"quote": "'Most of us can, as we choose, make of this world either a palace or a prison' - John Lubbock"
 	},
@@ -873,7 +874,7 @@
 		"happiness": 4,
 		"greatPersonPoints": {"Great Artist": 2},
 		"isWonder": true,
-		"uniques": ["Empire enters golden age", "[+1 Gold] from all [Faith] buildings"],
+		"uniques": ["Must be next to [Fresh water]", "Empire enters golden age", "[+1 Gold] from all [Faith] buildings"],
 		"requiredTech": "Architecture",
 		"quote": "'The Taj Mahal rises above the banks of the river like a solitary tear suspended on the cheek of time.' - Rabindranath Tagore"
 	},
@@ -1012,7 +1013,7 @@
 		"requiredResource": "Aluminum",
 		"hurryCostModifier": 0,
 		"maintenance": 3,
-		"uniques": ["[+1 Production] from [Fresh water] tiles [in this city]", "Must have an owned [Fresh water] within [2] tiles"],
+		"uniques": ["[+1 Production] from [Fresh water] tiles [in this city]", "Must be next to [Fresh water]"],
 		"requiredTech": "Electricity"
 	},
 

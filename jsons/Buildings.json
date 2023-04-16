@@ -74,12 +74,11 @@
 	// Column 2
 	{
 		"name": "Stone Works",
-		"happiness": 1,
-		"production": 1,
 		"requiredNearbyImprovedResources": ["Marble", "Stone"],
+		"production": 1,
 		"maintenance": 1,
 		"hurryCostModifier": 0,
-		"uniques": ["Must not be on [Plains]",
+		"uniques": [
 			"[+1 Production] from [Stone] tiles [in this city]",
 			"[+1 Production] from [Marble] tiles [in this city]",
 			"[+1 Production] from [Mountain] tiles [in this city]"],

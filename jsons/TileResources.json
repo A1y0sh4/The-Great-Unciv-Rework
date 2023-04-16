@@ -60,8 +60,8 @@
 		"production": 1,
 		"improvement": "Quarry",
 		"improvementStats": {"production": 1},
-		"uniques": ["Resource", "Generated on every [98] tiles <in [Featureless] tiles> <in tiles without [Fresh Water]>",
-			                "Generated on every [2] tiles <in [Mountain] Regions> <in tiles without [Hill]>"]
+		"uniques": ["Resource", "Generated on every [96] tiles <in [Featureless] tiles> <in tiles without [Fresh Water]>",
+			                "Generated on every [5] tiles <in [Mountain] Regions> <in tiles without [Hill]>"]
 	},
 	{
 		"name": "Fish",

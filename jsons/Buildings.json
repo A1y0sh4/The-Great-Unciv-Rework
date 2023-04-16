@@ -403,7 +403,7 @@
 	},
 	{
 		"name": "Amphitheater",
-		"culture": 3,
+		"culture": 2,
 		"specialistSlots": {"Artist": 1},
 		"requiredBuilding": "Monument",
 		"maintenance": 2,
@@ -764,7 +764,7 @@
 	},
 	{
 		"name": "Opera House",
-		"culture": 4,
+		"culture": 3,
 		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 10,
 		"requiredBuilding": "Amphitheater",
@@ -924,13 +924,13 @@
 	// Column 9
 	{
 		"name": "Museum",
-		"culture": 5,
+		"culture": 3,
 		"specialistSlots": {"Artist": 2},
 		"requiredBuilding": "Opera House",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"requiredTech": "Archaeology",
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["[+3 Culture, +2 Gold] from [City ruins] tiles [in this city]", "Destroyed when the city is captured"]
 	},
 	{
 		"name": "The Louvre",

@@ -308,7 +308,7 @@
 	},
 	{
 		"name": "Landing Party",
-		"uniques": ["Eliminates combat penalty for attacking across a coast", "Earn [20]% of the damage done to [{Military} {Land}] units as [Gold]"],
+		"uniques": ["Eliminates combat penalty for attacking across a coast"],
 		"unitTypes": ["Melee Water"],
         "column": 12,
         "row": 5

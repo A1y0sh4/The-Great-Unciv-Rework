@@ -283,7 +283,7 @@
 		"name": "City ruins",
 		"type": "Ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Nullifies all other stats this tile provides", "Unpillagable", "Unbuildable"],
+		"uniques": ["Nullifies all other stats this tile provides", "Tile provides yield without assigned population", "Unpillagable", "Unbuildable"],
         "civilopediaText": [{"text":"A bleak reminder of the destruction wreaked by War"}]
 	},
 	{

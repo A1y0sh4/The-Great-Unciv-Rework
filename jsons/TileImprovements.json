@@ -288,9 +288,8 @@
 	// Unbuildable improvements
 	{
 		"name": "City ruins",
-		"food": -1,
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Gives a defensive bonus of [15]%", "Tile provides yield without assigned population", "Unpillagable", "Unbuildable"],
+		"uniques": ["[-2 Food] <in [Grassland] tiles>", "[-1 Food, -1 Production] <in [Plains] tiles>", "[-2 Production] <in [Hill] tiles>", "Gives a defensive bonus of [15]%", "Unpillagable", "Unbuildable"],
         "civilopediaText": [{"text":"A bleak reminder of the destruction wreaked by War"}]
 	},
 	{

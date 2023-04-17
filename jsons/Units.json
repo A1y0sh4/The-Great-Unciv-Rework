@@ -1157,7 +1157,7 @@
 		"requiredTech": "Dynamite",
 		"upgradesTo": "Rocket Artillery",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"Must set up to ranged attack", "[-1] Sight", "Never appears as a Barbarian unit"],
+			"Must set up to ranged attack", "[-1] Sight", "Destroys tile improvements when attacking", "Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "artillery"
 	},
@@ -1230,6 +1230,7 @@
 		"requiredResource": "Oil",
 		"upgradesTo": "Bomber",
 		"obsoleteTech": "Radar",
+                "uniques": ["Destroys tile improvements when attacking"],
 		"attackSound": "bombing"
 	},
 	{
@@ -1263,7 +1264,7 @@
 		"cost": 375,
 		"requiredResource": "Oil",
 		"requiredTech": "Electronics",
-		"uniques": ["Never appears as a Barbarian unit"],
+		"uniques": ["Destroys tile improvements when attacking", "Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "shipguns"
 		// Does not actually upgrade to Missile Cruisers
@@ -1378,6 +1379,7 @@
 		"requiredTech": "Radar",
 		"requiredResource": "Oil",
 		"upgradesTo": "Stealth Bomber",
+                "uniques": ["Destroys tile improvements when attacking"],
 		"attackSound": "bombing"
 	},
 	{
@@ -1394,13 +1396,14 @@
 		"requiredResource": "Oil",
 		"promotions": ["Evasion", "Siege I"],
 		"upgradesTo": "Stealth Bomber",
+                "uniques": ["Destroys tile improvements when attacking"],
 		"attackSound": "bombing"
 	},
 	{
 		"name": "Paratrooper",
 		"unitType": "Scout",
 		"movement": 2,
-		"strength": 65,
+		"strength": 66,
 		"cost": 375,
 		"requiredTech": "Radar",
 		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
@@ -1474,7 +1477,7 @@
 		"requiredTech": "Rocketry",
 		"requiredResource": "Aluminum",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
-			"[-1] Sight", "Never appears as a Barbarian unit"],
+			"[-1] Sight", "Destroys tile improvements when attacking", "Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "artillery"
 	},
@@ -1500,7 +1503,7 @@
 		"range": 8,
 		"cost": 150,
 		"requiredTech": "Advanced Ballistics",
-		"uniques": ["[-100]% maintenance costs"],
+		"uniques": ["Destroys tile improvements when attacking", "[-100]% maintenance costs"],
 		"attackSound": "missile"
 	},
 	{
@@ -1566,7 +1569,7 @@
 		"requiredResource": "Aluminum",
 		"requiredTech": "Robotics",
 		"uniques": ["[100]% chance to intercept air attacks", "Can see invisible [Submarine] units",
-			"Can carry [3] [Missile] units", "[+100]% Strength <vs [Submarine] units>", "Never appears as a Barbarian unit"],
+			"Can carry [3] [Missile] units", "[+100]% Strength <vs [Submarine] units>", "Destroys tile improvements when attacking", "Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "shipguns"
 	},
@@ -1604,7 +1607,7 @@
 		"cost": 425,
 		"requiredTech": "Nuclear Fusion",
 		"requiredResource": "Uranium",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking", "Destroys tile improvements when attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "gdrAttack"
 	},
 	{
@@ -1617,7 +1620,7 @@
 		"cost": 425,
 		"requiredTech": "Stealth",
 		"requiredResource": "Aluminum",
-		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
+		"uniques": ["Damage taken from interception reduced by [100]%", "Destroys tile improvements when attacking", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
 	},
 

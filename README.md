@@ -31,7 +31,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 -City-States bonuses have been completly reworked
 
--Buildings Upkeep raises by +5% each time you get into the next era (up to +35%)
+-Buildings and Roads Upkeep raise by +5% each time you get into the next era (up to +35%)
 
 -The maintainance of ALL military units is raised by +100%, but some UnitsTypes receive an additional raise
 

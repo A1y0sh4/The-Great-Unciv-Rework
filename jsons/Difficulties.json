@@ -224,7 +224,7 @@
 		"aiUnitMaintenanceModifier": 0.75,
 		"aiUnitSupplyModifier": 0.33,
 		"aiFreeTechs": ["Pottery", "Animal Husbandry", "Mining", "Archery", "Sailing", "Wheel"],
-		"aiMajorCivBonusStartingUnits": ["Settler", "Settler", "Settler", "Worker", "Worker", "Scout", "Scout", "Scout", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit"],
+		"aiMajorCivBonusStartingUnits": ["Settler", "Settler", "Settler", "Worker", "Worker", "Scout", "Scout", "Scout", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit"],
 		"aiCityStateBonusStartingUnits": ["Worker", "Scout", "Era Starting Unit", "Era Starting Unit"],
 		"aiUnhappinessModifier": 0.85,
 		"aisExchangeTechs": true,

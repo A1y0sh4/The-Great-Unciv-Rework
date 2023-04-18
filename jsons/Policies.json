@@ -363,7 +363,7 @@
                 "name": "Naval Tradition",
                 "uniques": [
                     "[+1] Movement <for [All] units> <in [Water] tiles>",
-		    "[+1] Sight <for [All] units> <in [Water] tiles>"
+		    "Normal vision when embarked <for [All] units>"
                 ],
                 "row": 1,
                 "column": 2

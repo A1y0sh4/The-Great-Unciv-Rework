@@ -776,6 +776,6 @@
 	},
         {
 		"name": "Climber",
-		"uniques": ["Can pass through impassable tiles"]
+		"uniques": ["Can pass through impassable tiles", "Double movement in [Hill]"]
 	}
 ]

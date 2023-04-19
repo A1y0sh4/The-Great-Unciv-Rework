@@ -305,7 +305,7 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Can instantly construct a [Pasture] improvement <by consuming this unit>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Earn [10]% of the damage done to [Land] units as [Gold]"],
 		"promotions": ["Blitz"],
 		"attackSound": "arrow"
 	},

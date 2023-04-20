@@ -281,7 +281,7 @@
 		"innerColor": [255, 255, 255],
 		
 		"uniqueName": "Manifest Destiny",
-		"uniques": ["Double quantity of [Aluminum] produced", "Earn [20]% of killed [Military] unit's [Cost] as [Science] <in [Friendly Land] tiles>", "[-50]% Gold cost of acquiring tiles [in all cities]"],
+		"uniques": ["Double quantity of [Aluminum] produced", "Earn [20]% of killed [Military] unit's [Cost] as [Science] <within [2] tiles of a [Friendly Land]>", "[-50]% Gold cost of acquiring tiles [in all cities]"],
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
 			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",

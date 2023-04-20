@@ -719,7 +719,7 @@
 	},
 	{
 		"name": "[Jaguar] ability",
-		"uniques": ["Heals [25] damage if it kills a unit", "Free [Worker] appears <upon defeating a [Military] unit> <with [33]% chance>"]
+		"uniques": ["Heals [50] damage if it kills a unit", "Free [Worker] appears <upon defeating a [Military] unit> <with [25]% chance>"]
 	},
 	{
 		"name": "[Persian Immortal] ability",

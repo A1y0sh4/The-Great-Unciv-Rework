@@ -662,7 +662,7 @@
 		"innerColor": [77,2,4],
 		"uniqueName": "Scourge of God",
 		"uniques": ["Starts with [Animal Husbandry]", "Cannot build [Settler] units", "[Military] units gain the [Barbarian] promotion", "Cities are razed [2] times as fast"],
-		"cities": ["Etzelburg", "Szeged", "Esztergom"]
+		"cities": ["Etzelburg", "Szeged", "Esztergom", "Buda"]
 	},
 	{
 		

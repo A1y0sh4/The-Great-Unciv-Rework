@@ -904,7 +904,7 @@
 		"percentStatBonus": {"production": 10},
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
-		"maintenance": 2,
+		"maintenance": 0,
 		"uniques": ["[+25]% Great Person generation [in this city]"],
 		"requiredTech": "Economics"
 	},

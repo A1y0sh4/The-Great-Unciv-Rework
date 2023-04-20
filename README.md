@@ -40,7 +40,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
  Air: +75%,
  Armored: +75%,
  Helicopter: +25%,
- Nuclear Weapons: +315%)
+ Nuclear Weapons: +300%)
  
  
 # Main War-related changes

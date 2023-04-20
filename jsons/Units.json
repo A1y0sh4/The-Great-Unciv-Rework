@@ -91,10 +91,10 @@
 		"uniqueTo": "Aztecs",
 		"replaces": "Warrior",
 		"movement": 2,
-		"strength": 8,
+		"strength": 10,
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
-		"promotions": ["[Jaguar] ability", "Woodsman"],
+		"promotions": ["[Jaguar] ability"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},

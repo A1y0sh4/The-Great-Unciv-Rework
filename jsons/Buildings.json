@@ -185,7 +185,7 @@
 		"uniqueTo": "Aztecs",
 		"food": 2,
 		"production": 1,
-		"uniques": ["[+1 Food, +1 Production] [in this city] <when at war>", "Must be next to [Fresh water]", "Can be purchased for [100] [Faith] [in all cities]"],
+		"uniques": ["[+2 Food, +1 Production] [in this city] <when at war>", "Must be next to [Fresh water]", "Can be purchased for [100] [Faith] [in all cities]"],
 		"hurryCostModifier": 25,
 		"maintenance": 0,
 		"requiredTech": "The Wheel"

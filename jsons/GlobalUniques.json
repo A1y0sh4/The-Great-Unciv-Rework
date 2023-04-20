@@ -39,6 +39,7 @@
         "[+25]% maintenance costs <for [Helicopter] units>",
         "[+215]% maintenance costs <for [Atomic Bomb] units>",
         "[+215]% maintenance costs <for [Nuclear Missile] units>",
+        "[+215]% maintenance costs <for [Giant Death Robot] units>",
         "[+50]% XP gained from combat <for [Military] units> <within [2] tiles of a [Great General]>",
         "[Great General] is earned [-75]% faster <when not at war>",
         "Earn [10]% of the damage done to [Military] units as [Gold] <for [Melee] units>",

@@ -1329,8 +1329,8 @@
 		"name": "Marine",
 		"unitType": "Scout",
 		"movement": 2,
-		"strength": 65,
-		"cost": 400,
+		"strength": 60,
+		"cost": 375,
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Amphibious"],
 		"uniques": ["Normal vision when embarked", "Defense bonus when embarked"],
@@ -1403,12 +1403,11 @@
 		"name": "Paratrooper",
 		"unitType": "Scout",
 		"movement": 2,
-		"strength": 66,
+		"strength": 60,
 		"cost": 375,
 		"requiredTech": "Radar",
 		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
-		// upgradesTo "XCOM Squad", "No Movement Cost to Pillage" in BNW
 	},
 	{
 		"name": "Tank",

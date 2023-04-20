@@ -661,8 +661,8 @@
 		"outerColor": [238,238,236],
 		"innerColor": [77,2,4],
 		"uniqueName": "Scourge of God",
-		"uniques": ["Starts with [Animal Husbandry]", "Cannot build [Settler] units", "[Military] units gain the [Barbarian] promotion", "Cities are razed [2] times as fast"],
-		"cities": ["Etzelburg", "Szeged", "Esztergom", "Buda"]
+		"uniques": ["Starts with [Animal Husbandry]", "Cannot build [Settler] units <before discovering [Civil Service]>", "[Military] units gain the [Barbarian] promotion <before discovering [Civil Service]>", "Cities are razed [2] times as fast"],
+		"cities": ["Etzelburg", "Szeged", "Esztergom", "Buda", "Pécs", "Eger", "Székesfehérvár", "Győr", "Kőszeg", "Diósgyőr", "Mohács", "Tata", "Kecskemét", "Szombathely", "Sárvár", "Sopron", "Hódmezővásárhely", "Sümeg"]
 	},
 	{
 		

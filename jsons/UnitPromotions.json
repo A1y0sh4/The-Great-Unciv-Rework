@@ -719,7 +719,7 @@
 	},
 	{
 		"name": "[Jaguar] ability",
-		"uniques": ["[+33]% Strength <when fighting in [Forest] tiles>", "[+33]% Strength <when fighting in [Jungle] tiles>", "Heals [25] damage if it kills a unit"]
+		"uniques": ["Heals [25] damage if it kills a unit", "Free [Worker] appears <upon defeating a [Military] unit> <with [33]% chance>"]
 	},
 	{
 		"name": "[Persian Immortal] ability",

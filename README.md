@@ -39,7 +39,8 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
  Water: +50%,
  Air: +75%,
  Armored: +75%,
- Helicopter: +25%)
+ Helicopter: +25%,
+ Nuclear Weapons: +315%)
  
  
 # Main War-related changes

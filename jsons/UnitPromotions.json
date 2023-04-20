@@ -768,7 +768,7 @@
         },
 	{
 		"name": "Barbarian",
-		"uniques": ["No movement cost to pillage", "Can only heal by pillaging", "Heals [50] damage if it kills a unit"]
+		"uniques": ["No movement cost to pillage", "Can only heal by pillaging", "Heals [33] damage if it kills a unit"]
 	},
 	{
 		"name": "Ceremonial Burial",

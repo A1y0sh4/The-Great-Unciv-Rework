@@ -185,10 +185,9 @@
 		"uniqueTo": "Aztecs",
 		"food": 2,
 		"production": 1,
-		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]", "Must be next to [Fresh water]"],
+		"uniques": ["[+1 Food, +1 Production] [in this city] <when at war>", "Must be next to [Fresh water]"],
 		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"percentStatBonus": {"food": 15},
+		"maintenance": 0,
 		"requiredTech": "The Wheel"
 	},
 	{

@@ -243,10 +243,8 @@
 		"type": "TerrainFeature",
 		"movementCost": 2,
 		"unbuildable": true,
-		"uniques": ["Nullifies all other stats this tile provides", "Doesn't generate naturally"],
-		// For map editor only - the generator won't place it without code or enabling uniques
-		// If the map generator is ever updated to always take these into account, it should also take the "Doesn't generate naturally" unique into account
-		"occursOn": ["Grassland","Plains","Desert","Tundra","Snow","Forest","Jungle","Hill","Flood plains","Marsh","Oasis"]
+		"uniques": ["Nullifies all other stats this tile provides", "Units ending their turn on this terrain take [5] damage", "Doesn't generate naturally"],
+		"occursOn": ["Grassland", "Plains", "Desert", "Tundra", "Snow", "Forest", "Jungle", "Hill", "Flood plains", "Marsh", "Oasis"]
 		"defenceBonus": -0.15
 	},
 	{

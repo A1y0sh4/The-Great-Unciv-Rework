@@ -85,7 +85,7 @@
 	// Melee, Mounted+Armor
 	{
 		"name": "Shock I",
-		"uniques": ["[+15]% Strength <when fighting in [{Land} {Open terrain}] tiles>"],
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <in [Land] tiles>"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
         "column": 4,
         "row": 1
@@ -93,7 +93,7 @@
 	{
 		"name": "Shock II",
 		"prerequisites": ["Shock I"],
-		"uniques": ["[+15]% Strength <when fighting in [{Land} {Open terrain}] tiles>"],
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <in [Land] tiles>"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
         "column": 4,
         "row": 2
@@ -101,7 +101,7 @@
 	{
 		"name": "Shock III",
 		"prerequisites": ["Shock II"],
-		"uniques": ["[+15]% Strength <when fighting in [{Land} {Open terrain}] tiles>"],
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <in [Land] tiles>"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
         "column": 4,
         "row": 3

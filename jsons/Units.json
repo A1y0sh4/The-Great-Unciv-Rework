@@ -868,7 +868,7 @@
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"promotions": ["[Janissary] ability"],
+		"promotions": ["[Janissary] ability", "Besiege"],
 		"attackSound": "shot"
 	},
 	{

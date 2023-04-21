@@ -1181,10 +1181,11 @@
 	},
 	{
 		"name": "Bomb Shelter",
-		"cost": 200,
+		"cost": 300,
+		"cityHealth": 25,
 		"maintenance": 1,
 		"requiredTech": "Telecommunications",
-		"uniques": ["Population loss from nuclear attacks [-75]% [in this city]"]
+		"uniques": ["Population loss from nuclear attacks [-50]% [in this city]"]
 	},
 	{
 		"name": "Hubble Space Telescope",

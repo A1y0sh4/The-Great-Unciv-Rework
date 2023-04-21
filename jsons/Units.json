@@ -999,7 +999,7 @@
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
-		"promotions": ["[Hakkapeliitta] ability"],
+		"promotions": ["[Hakkapeliitta] ability", "Great Generals I"],
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
 		"attackSound": "horse"

@@ -16,6 +16,7 @@
 		"RGB": [107,167,193],
 		"uniques": ["[+2] to Fertility for Map Generation",
             "Considered [Desirable] when determining start locations <on water maps>",
+            "Starts in regions of this type receive an extra [Fish]",
             "Every [60] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
 	{
@@ -36,6 +37,7 @@
             "Becomes [Marsh] when adjacent to [River]",
             "A Region is formed with at least [33]% [Grassland] tiles, with priority [7]",
             "A Region can not contain more [Plains] tiles than [Grassland] tiles",
+            "Starts in regions of this type receive an extra [Cattle]",
             "Considered [Desirable] when determining start locations",
             "Considered [Food] when determining start locations <in [Jungle] Regions>",
             "Considered [Food] when determining start locations <in [Forest] Regions>",
@@ -84,6 +86,7 @@
             "Occurs at temperature between [-0.6] and [-0.4] and humidity between [0.2] and [0.4]",
             "Occurs at temperature between [-0.5] and [-0.4] and humidity between [0] and [0.2]",
             "[+2] to Fertility for Map Generation",
+            "Starts in regions of this type receive an extra [Deer]",
             "A Region is formed with at least [33]% [Tundra] tiles and [Snow] tiles, with priority [1]",
             "Considered [Food] when determining start locations <in [Tundra] Regions>",
             "Considered [Desirable] when determining start locations <in [Tundra] Regions>",
@@ -101,6 +104,7 @@
             "Occurs at temperature between [0.4] and [0.6] and humidity between [0.4] and [0.5]",
             "Occurs at temperature between [0.5] and [0.6] and humidity between [0.5] and [0.7]",
             "[+1] to Fertility for Map Generation",
+            "Starts in regions of this type receive an extra [Wheat]",
             "A Region is formed with at least [25]% [Desert] tiles, with priority [4]",
             "Becomes [Flood plains] when adjacent to [River]",
             "Considered [Undesirable] when determining start locations <in all except [Desert] Regions>",

@@ -1310,6 +1310,7 @@
 		"innerColor": [211,180,113],
 		"cities": ["Belgrade"]
 	},
+/*
 	{
 		"name": "Dublin",
 		"adjective": ["Dubliner"],
@@ -1336,6 +1337,7 @@
 		"innerColor": [0,102,102],
 		"cities": ["Edinburgh"]
 	},
+*/
 	{
 		"name": "M'Banza-Kongo",
 		"adjective": ["M'Banza-Kongo"],

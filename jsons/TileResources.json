@@ -27,10 +27,8 @@
 		"food": 1,
 		"improvement": "Camp",
 		"improvementStats": {"production": 1},
-		"uniques": ["Resource", "Generated on every [8] tiles <in [Tundra] [Forest] tiles>",
-					"Generated on every [16] tiles <in [Featureless] [Tundra] tiles>",
-					"Generated on every [24] tiles <in [Forest] tiles> <in tiles without [Hill]>",
-					"Generated on every [32] tiles <in [Forest] tiles> <in [Hill] Regions>"]
+		"uniques": ["Resource", "Generated on every [8] tiles <in [Tundra] tiles>",
+					"Generated on every [16] tiles <in [Forest] tiles>"]
 	},
 	{
 		"name": "Bananas",

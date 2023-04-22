@@ -95,7 +95,7 @@
     {
         "name": "Religious Settlements",
         "type": "Pantheon",
-        "uniques": ["May buy [Settler] units with [Faith] for [2] times their normal Production cost"]
+        "uniques": ["May buy [Settler] units with [Faith] for [2] times their normal Production cost", "May buy [Worker] units with [Faith] for [2] times their normal Production cost"]
     },
     {
         "name": "Sacred Path",

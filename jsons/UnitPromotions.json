@@ -707,7 +707,7 @@
 	},
 	{
 		"name": "Pictish Courage", // only for Pictish Warrior and subsequent upgrades
-		"uniques": ["Damage is ignored when determining unit Strength", "Double movement in [Forest]"]
+		"uniques": ["Damage is ignored when determining unit Strength", "Double movement in [Foreign Land]"]
 	},
 	{
 		"name": "Home Sweet Home", // only for Mehal Sefari and subsequent upgrades
@@ -719,7 +719,7 @@
 	},
 	{
 		"name": "[Jaguar] ability",
-		"uniques": ["Heals [50] damage if it kills a unit", "Free [Worker] appears <upon defeating a [Military] unit> <with [25]% chance>"]
+		"uniques": ["Heals [33] damage if it kills a unit", "Free [Worker] appears <upon defeating a [Military] unit> <with [25]% chance>"]
 	},
 	{
 		"name": "[Persian Immortal] ability",

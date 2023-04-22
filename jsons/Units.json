@@ -386,7 +386,7 @@
 		"unitType": "Sword",
 		"replaces": "Spearman",
 		"uniqueTo": "Celts",
-		"movement": 2,
+		"movement": 3,
 		"strength": 10,
 		"cost": 40,
 		"requiredTech": "Bronze Working",

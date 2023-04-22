@@ -707,7 +707,7 @@
 	},
 	{
 		"name": "Pictish Courage", // only for Pictish Warrior and subsequent upgrades
-		"uniques": ["Damage is ignored when determining unit Strength", "Double movement in [Foreign Land]"]
+		"uniques": ["Damage is ignored when determining unit Strength", "No movement cost to pillage"]
 	},
 	{
 		"name": "Home Sweet Home", // only for Mehal Sefari and subsequent upgrades

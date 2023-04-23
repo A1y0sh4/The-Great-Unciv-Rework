@@ -921,9 +921,9 @@
 		"movement": 5,
 		"strength": 30,
 		"cost": 150,
-		"requiredTech": "Ironclad",
+		"requiredTech": "Navigation",
 		"obsoleteTech": "Steam Power",
-		"upgradesTo": "Destroyer",
+		"upgradesTo": "Ironclad",
 		"promotions": ["Coastal Raider I", "Coastal Raider II", "Supply"],
 		"uniques": ["May capture killed [Water] units"],
 		"attackSound": "cannon"

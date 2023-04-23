@@ -1340,8 +1340,24 @@
 		"requiredResource": "Oil",
 		"upgradesTo": "Tank",
 		"obsoleteTech": "Combined Arms",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "tankshot"
+	},
+        {
+		"name": "Jeep",
+		"unitType": "Gunpowder",
+		"replaces": "Landship",
+		"uniqueTo": "Barbarians",
+		"movement": 4,
+		"strength": 56,
+		"cost": 200,
+		"requiredTech": "Combustion",
+		"requiredResource": "Oil",
+		"upgradesTo": "Mechanized Infantry",
+		"promotions": ["Shock I"],
+		"obsoleteTech": "Mobile Tactics",
+		"uniques": ["Can move after attacking"],
+		"attackSound": "machinegun"
 	},
 	{
 		"name": "Destroyer",

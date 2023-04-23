@@ -1172,6 +1172,7 @@
 		"strength": 28,
 		"cost": 150,
 		"requiredTech": "Steam Power",
+		"requiredResource": "Coal",
 		"upgradesTo": "Destroyer",
 		"promotions": ["Boarding Party I", "Boarding Party II"],
 		"obsoleteTech": "Combustion",

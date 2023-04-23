@@ -240,7 +240,7 @@
 		"strength": 10,
 		"cost": 45,
 		"uniques": ["Cannot enter ocean tiles"],
-		"upgradesTo": "Trireme",
+		"upgradesTo": "Caravel",
 		"obsoleteTech": "Compass",
 		"attackSound": "nonmetalhit"
 	},

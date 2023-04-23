@@ -392,7 +392,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
 		"promotions": ["Pictish Courage"],
 		"attackSound": "metalhit"
 	},
@@ -793,7 +793,7 @@
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
-		"uniques": ["Can instantly construct a [Fishing Boats] improvement <once>", "Can be purchased with [Faith] [in all cities]"],
+		"uniques": ["Can instantly construct a [Fishing Boats] improvement <once>", "Earn [100]% of killed [Military] unit's [Strength] as [Faith]", "Can be purchased with [Faith] [in all cities]"],
 		"requiredResource": "Iron",
 		"promotions": ["Shock I", "Great Generals II"],
 		"attackSound": "metalhit"

@@ -761,7 +761,6 @@
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 50},
 		"requiredBuilding": "Library",
-		"greatPersonPoints": {"Great Scientist": 1},
 		"uniques": ["Must be next to [Mountain]"],
 		"requiredTech": "Astronomy"
 	},

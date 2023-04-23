@@ -825,8 +825,8 @@
 		"strength": 24,
 		"cost": 120,
 		"requiredTech": "Astronomy",
-		"upgradesTo": "Ironclad",
-		"obsoleteTech": "Steam Power",
+		"upgradesTo": "Privateer",
+		"obsoleteTech": "Navigation",
 		"uniques": ["May withdraw before melee ([80]%)", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
@@ -840,8 +840,8 @@
 		"strength": 38,
 		"cost": 120,
 		"requiredTech": "Astronomy",
-		"upgradesTo": "Ironclad",
-		"obsoleteTech": "Steam Power",
+		"upgradesTo": "Privateer",
+		"obsoleteTech": "Navigation",
 		"uniques": ["Cannot enter ocean tiles"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
@@ -908,7 +908,7 @@
 		"cost": 150,
 		"requiredTech": "Navigation",
 		"obsoleteTech": "Steam Power",
-		"upgradesTo": "Destroyer",
+		"upgradesTo": "Ironclad",
 		"promotions": ["Coastal Raider I"],
 		"uniques": ["May capture killed [Water] units"],
 		"attackSound": "cannon"
@@ -921,7 +921,7 @@
 		"movement": 5,
 		"strength": 30,
 		"cost": 150,
-		"requiredTech": "Navigation",
+		"requiredTech": "Ironclad",
 		"obsoleteTech": "Steam Power",
 		"upgradesTo": "Destroyer",
 		"promotions": ["Coastal Raider I", "Coastal Raider II", "Supply"],
@@ -938,7 +938,7 @@
 		"cost": 100,
 		"requiredTech": "Compass",
 		"obsoleteTech": "Steam Power",
-		"upgradesTo": "Destroyer",
+		"upgradesTo": "Ironclad",
 		"promotions": ["Boarding Party I"],
 		"uniques": ["May capture killed [Water] units"],
 		"attackSound": "cannon"

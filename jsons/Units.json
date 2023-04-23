@@ -240,7 +240,7 @@
 		"strength": 10,
 		"cost": 45,
 		"uniques": ["Cannot enter ocean tiles"],
-		"upgradesTo": "Caravel",
+		"upgradesTo": "Galleon",
 		"obsoleteTech": "Compass",
 		"attackSound": "nonmetalhit"
 	},
@@ -930,7 +930,7 @@
 		"attackSound": "cannon"
 	},
         {
-		"name": "Galleon ",
+		"name": "Galleon",
 		"unitType": "Melee Water",
 		"replaces": "Privateer",
 		"uniqueTo": "Barbarians",

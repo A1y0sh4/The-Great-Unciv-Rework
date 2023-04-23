@@ -19,7 +19,7 @@
 		"production": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Construction",
-		"uniques": ["Improvement", "[+1 Production] <after discovering [Scientific Theory]>", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": ["Improvement", "[+1 Production] <after discovering [Scientific Theory]>", "[+1 Production] <after discovering [Railways]>", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "L"
 	},
 	{
@@ -310,7 +310,7 @@
 		"name": "Barbarian encampment",
 		"type": "Ruins", 
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Ruins", "Unpillagable", "Unbuildable"],
+		"uniques": ["Unpillagable", "Unbuildable"],
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
 	}
 ]

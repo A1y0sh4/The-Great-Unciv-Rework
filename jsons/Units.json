@@ -1174,7 +1174,7 @@
 		"upgradesTo": "Destroyer",
 		"promotions": ["Boarding Party I", "Boarding Party II"],
 		"obsoleteTech": "Combustion",
-		"uniques": ["Double movement in [Coast]", "Can move after attacking"],
+		"uniques": ["Double movement in [Coast]", "Can move after attacking", "May capture killed [Water] units", "Free [Motorboat] appears <upon defeating a [Military] unit> <with [67]% chance>"],
 		"attackSound": "shipguns"
 	},
 	{

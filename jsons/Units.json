@@ -911,7 +911,7 @@
 		"obsoleteTech": "Steam Power",
 		"upgradesTo": "Ironclad",
 		"promotions": ["Coastal Raider I"],
-		"uniques": ["May capture killed [Water] units"],
+		"uniques": ["May capture killed [Water] units", "Can move after attacking"],
 		"attackSound": "cannon"
 	},
 	{
@@ -926,7 +926,7 @@
 		"obsoleteTech": "Steam Power",
 		"upgradesTo": "Ironclad",
 		"promotions": ["Coastal Raider I", "Coastal Raider II", "Supply"],
-		"uniques": ["May capture killed [Water] units"],
+		"uniques": ["May capture killed [Water] units", "Can move after attacking"],
 		"attackSound": "cannon"
 	},
         {
@@ -934,14 +934,14 @@
 		"unitType": "Melee Water",
 		"replaces": "Privateer",
 		"uniqueTo": "Barbarians",
-		"movement": 4,
+		"movement": 5,
 		"strength": 25,
 		"cost": 100,
 		"requiredTech": "Compass",
 		"obsoleteTech": "Steam Power",
 		"upgradesTo": "Ironclad",
 		"promotions": ["Boarding Party I"],
-		"uniques": ["May capture killed [Water] units"],
+		"uniques": ["May capture killed [Water] units", "Can move after attacking"],
 		"attackSound": "cannon"
 	},
 	{

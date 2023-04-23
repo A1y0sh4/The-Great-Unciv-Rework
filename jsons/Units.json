@@ -601,7 +601,7 @@
 		"requiredTech": "Compass",
 		"obsoleteTech": "Navigation",
 		"upgradesTo": "Frigate",
-		"uniques": ["Cannot enter ocean tiles"],
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
 		"attackSound": "arrow"
 	},
 	{
@@ -827,7 +827,7 @@
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Ironclad",
 		"obsoleteTech": "Steam Power",
-		"uniques": ["May withdraw before melee ([80]%)"],
+		"uniques": ["May withdraw before melee ([80]%)", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
 	},

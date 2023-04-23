@@ -235,12 +235,13 @@
 		"name": "Galley",
 		"unitType": "Melee Water",
 		"uniqueTo": "Barbarians",
+		"replaces": "Trireme",
 		"movement": 3,
 		"strength": 10,
 		"cost": 45,
 		"uniques": ["Cannot enter ocean tiles"],
 		"upgradesTo": "Trireme",
-		"obsoleteTech": "Astronomy",
+		"obsoleteTech": "Compass",
 		"attackSound": "nonmetalhit"
 	},
 	{

@@ -234,20 +234,6 @@
 					"Doesn't generate naturally <in [Hill] tiles>"]
 	},
 	{
-		"name": "Dyes",
-		"resourceType": "Luxury",
-		"revealedBy": "Pottery",
-		"terrainsCanBeFoundOn": ["Jungle", "Forest", "Marsh"],
-		"gold": 1,
-		"improvement": "Plantation",
-		"uniques": ["Resource", "Generated with weight [16] <in [Marsh] Regions>",
-					"Generated with weight [4] <in [Jungle] Regions>",
-			                "Generated with weight [4] <in [Desert] Regions>",
-					"Generated with weight [32] <in [Forest] Regions>",
-					"Generated near City States with weight [24]",
-					"Doesn't generate naturally <in [Hill] tiles>"]
-	},
-	{
 		"name": "Gems",
 		"resourceType": "Luxury",
 		"revealedBy": "Mining",
@@ -437,6 +423,12 @@
 	},
 	{
 		"name": "Porcelain",
+		"resourceType": "Luxury",
+		"gold": 2,
+		"uniques": ["Can only be created by Mercantile City-States"]
+	},
+	{
+		"name": "Dyes",
 		"resourceType": "Luxury",
 		"gold": 2,
 		"uniques": ["Can only be created by Mercantile City-States"]

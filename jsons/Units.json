@@ -939,7 +939,7 @@
 		"cost": 100,
 		"requiredTech": "Compass",
 		"obsoleteTech": "Steam Power",
-		"upgradesTo": "Ironclad",
+		"upgradesTo": "Motorboat",
 		"promotions": ["Boarding Party I"],
 		"uniques": ["May capture killed [Water] units", "Can move after attacking"],
 		"attackSound": "cannon"
@@ -1160,7 +1160,21 @@
 		"requiredResource": "Coal",
 		"upgradesTo": "Destroyer",
 		"obsoleteTech": "Combustion",
-		"uniques": ["[+33]% Strength <vs cities>", "Double movement in [Coast]", "Never appears as a Barbarian unit"],
+		"uniques": ["[+33]% Strength <vs cities>", "Double movement in [Coast]"],
+		"attackSound": "shipguns"
+	},
+        {
+		"name": "Motorboat",
+		"unitType": "Melee Water",
+		"uniqueTo": "Barbarians",
+		"movement": 4,
+		"strength": 28,
+		"cost": 150,
+		"requiredTech": "Steam Power",
+		"upgradesTo": "Destroyer",
+		"promotions": ["Boarding Party I", "Boarding Party II"],
+		"obsoleteTech": "Combustion",
+		"uniques": ["Double movement in [Coast]", "Can move after attacking"],
 		"attackSound": "shipguns"
 	},
 	{
@@ -1270,7 +1284,7 @@
 		"cost": 375,
 		"requiredResource": "Oil",
 		"requiredTech": "Electronics",
-		"uniques": ["Cannot attack", "Can carry [2] [Aircraft] units"]
+		"uniques": ["Cannot attack", "Can carry [2] [Aircraft] units", "Never appears as a Barbarian unit"]
 	},
 	{
 		"name": "Battleship",
@@ -1337,7 +1351,7 @@
 		"requiredResource": "Oil",
 		"requiredTech": "Combustion",
 		"uniques": ["Can see invisible [Submarine] units", "[33]% chance to intercept air attacks",
-			"May withdraw before melee ([67]%)", "[+100]% Strength <vs [Submarine] units>"],
+			"May withdraw before melee ([67]%)", "[+100]% Strength <vs [Submarine] units>", "Never appears as a Barbarian unit"],
 		"attackSound": "shipguns"
 	},
 

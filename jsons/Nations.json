@@ -808,7 +808,7 @@
 		"innerColor": [134,238,214],
 
 		"uniqueName": "Sacrificial Captives",
-		"uniques": ["[+1] Happiness from each type of luxury resource <when at war>", "Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
+		"uniques": ["[+1] Happiness from each type of luxury resource <when at war>", "Earn [100]% of killed [Military] unit's [Strength] as [Faith]", "[+2 Production] [in all cities] <when at war>"],
 		"cities": ["Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
 			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
 			"Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac",

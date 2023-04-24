@@ -80,8 +80,7 @@
 		"hurryCostModifier": 0,
 		"uniques": [
 			"[+1 Production] from [Stone] tiles [in this city]",
-			"[+1 Production] from [Marble] tiles [in this city]",
-			"[+1 Production] from [Mountain] tiles [in this city]"],
+			"[+1 Production] from [Marble] tiles [in this city]"],
 		"requiredTech": "Calendar"
 	},
 	{
@@ -295,6 +294,7 @@
 	{
 		"name": "Stable",
 		"maintenance": 1,
+		"production": 1,
 		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
@@ -640,6 +640,7 @@
 	{
 		"name": "Forge",
 		"maintenance": 1,
+		"production": 1,
 		"hurryCostModifier": 25,
 		"requiredNearbyImprovedResources": ["Iron"],
 		"requiredTech": "Metal Casting",

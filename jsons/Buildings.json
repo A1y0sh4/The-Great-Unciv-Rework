@@ -88,7 +88,7 @@
 		"faith": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
-		"requiredNearbyImprovedResources": ["Marble", "Stone"],
+		"requiredNearbyImprovedResources": ["Stone"],
 		 "uniques": ["Gain enough Faith for [50]% of a Great Prophet", "Gain [50] [Science] <upon founding a Pantheon>", "Gain [50] [Science] <upon founding a Religion>", "Gain [50] [Science] <upon enhancing a Religion>", "Hidden when religion is disabled"],
 		"requiredTech": "Calendar",
 		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
@@ -224,7 +224,7 @@
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
 		"uniques": ["Provides a sum of gold each time you spend a Great Person", "Must be next to [Coast]",
-			"[+2 Gold] from [Marble] tiles [in this city]", "[+2 Gold] from [Stone] tiles [in this city]"],
+			"Provides [1] [Marble]"],
 		"requiredTech": "Masonry",
 		"quote": "'The whole earth is the tomb of heroic men and their story is not given only on stone over their clay but abides everywhere without visible symbol woven into the stuff of other men's lives.' - Pericles"
 	},

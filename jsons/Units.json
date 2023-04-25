@@ -768,7 +768,7 @@
 		"requiredTech": "Physics",
 		"obsoleteTech": "Chemistry",
 		"upgradesTo": "Cannon",
-		"uniques": ["No defensive terrain bonus","Must set up to ranged attack"],
+		"uniques": ["No defensive terrain bonus", "Must set up to ranged attack"],
 		"attackSound": "throw"
 	},
 	{
@@ -952,6 +952,7 @@
 		"rangedStrength": 32,
 		"cost": 185,
 		"requiredResource": "Iron",
+		"uniques": ["Destroys tile improvements when attacking"],
 		"requiredTech": "Navigation",
 		"obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
@@ -968,7 +969,7 @@
 		"rangedStrength": 34,
 		"cost": 185,
 		"requiredResource": "Iron",
-		"uniques": ["[+1] Sight"],
+		"uniques": ["[+1] Sight", "Destroys tile improvements when attacking"],
 		"requiredTech": "Navigation",
 		"obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
@@ -1033,7 +1034,7 @@
 		"requiredTech": "Chemistry",
 		"upgradesTo": "Artillery",
 		"obsoleteTech": "Dynamite",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "Must set up to ranged attack", "[-1] Sight", "Never appears as a Barbarian unit"],
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "Must set up to ranged attack", "[-1] Sight", "Destroys tile improvements when attacking", "Never appears as a Barbarian unit"],
 		"attackSound": "cannon"
 	},
 
@@ -1340,7 +1341,7 @@
 		"requiredResource": "Oil",
 		"upgradesTo": "Tank",
 		"obsoleteTech": "Combined Arms",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
 		"attackSound": "tankshot"
 	},
         {
@@ -1468,7 +1469,7 @@
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
 		"upgradesTo": "Modern Armor",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Destroys tile improvements when attacking", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -1483,7 +1484,7 @@
 		"requiredResource": "Oil",
 		"promotions" : ["Mobility"],
 		"upgradesTo": "Modern Armor",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
+		"uniques": ["Can move after attacking", "Destroys tile improvements when attacking", "No defensive terrain bonus"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -1631,7 +1632,7 @@
 		"requiredTech": "Lasers",
 		"requiredResource": "Aluminum",
 		"upgradesTo": "Giant Death Robot",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Destroys tile improvements when attacking", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
 	{

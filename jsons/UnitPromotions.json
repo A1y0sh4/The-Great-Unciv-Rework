@@ -189,7 +189,7 @@
 	{
 		"name": "Medic",
 		"prerequisites": ["Shock I", "Drill I"],
-		"uniques": ["All adjacent units heal [+5] HP when healing"],
+		"uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "All adjacent units heal [+5] HP when healing"],
 		"unitTypes": ["Sword","Gunpowder","Mounted"],
         "column": 10, // after scout base
         "row": 1
@@ -197,7 +197,7 @@
 	{
 		"name": "Medic II",
 		"prerequisites": ["Medic"],
-		"uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "All adjacent units heal [+5] HP when healing"],
+		"uniques": ["[+5] HP when healing", "All adjacent units heal [+5] HP when healing"],
 		"unitTypes": ["Sword","Gunpowder","Mounted"],
         "column": 10,
         "row": 2
@@ -416,7 +416,7 @@
 	{
 		"name" : "Supply",
 		"prerequisites": ["Bombardment III", "Targeting III", "Boarding Party III", "Coastal Raider III"],
-		"uniques": ["May heal outside of friendly territory", "[+15] HP when healing <in [Foreign Land] tiles>"],
+		"uniques": ["May heal outside of friendly territory", "[+5] HP when healing <in [Foreign Land] tiles>", "Unit will heal every turn, even if it performs an action <in [Coast] tiles>"],
 		"unitTypes": ["Melee Water", "Ranged Water"],
         "column": 16,
         "row": 4
@@ -655,7 +655,7 @@
 	{
 		"name": "Bombardment I",
 		"uniques": ["[+33]% Strength <vs [Military] units> <in [Land] tiles>"],
-		"unitTypes": ["Ranged Water","Fighter","Bomber"],
+		"unitTypes": ["Ranged Water","Fighter","Bomber","Siege"],
         "column": 26,
         "row": 1
 	},
@@ -663,7 +663,7 @@
 		"name": "Bombardment II",
 		"prerequisites": ["Bombardment I"],
 		"uniques": ["[+33]% Strength <vs [Military] units> <in [Land] tiles>"],
-		"unitTypes": ["Ranged Water","Fighter","Bomber"],
+		"unitTypes": ["Ranged Water","Fighter","Bomber","Siege"],
         "column": 26,
         "row": 2
 	},
@@ -671,7 +671,7 @@
 		"name": "Bombardment III",
 		"prerequisites": ["Bombardment II"],
 		"uniques": ["[+34]% Strength <vs [Military] units> <in [Land] tiles>"],
-		"unitTypes": ["Ranged Water","Fighter","Bomber"],
+		"unitTypes": ["Ranged Water","Fighter","Bomber","Siege"],
         "column": 26,
         "row": 3
 	},

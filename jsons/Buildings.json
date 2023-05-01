@@ -9,7 +9,7 @@
 		"gold": 3,
 		"culture": 1,
 		"cityStrength": 3,
-		"cost": 75,
+		"cost": 150,
 		"uniques": ["Indicates the capital city", "Limited to [1] per Civilization"]
 	},
 	{

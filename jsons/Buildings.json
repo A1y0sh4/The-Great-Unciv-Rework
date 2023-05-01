@@ -4,14 +4,13 @@
 	// Always available
 	{
 		"name": "Palace",
-		"isNationalWonder": true,
 		"production": 3,
 		"science": 3,
 		"gold": 3,
 		"culture": 1,
 		"cityStrength": 3,
-		"cost": 1,
-		"uniques": ["Indicates the capital city"]
+		"cost": 75,
+		"uniques": ["Indicates the capital city", "Limited to [1] per Civilization"]
 	},
 	{
 		"name": "Monument",
@@ -95,7 +94,7 @@
 	},
 	{
 		"name": "Brewery",
-		"cost": 70,
+		"cost": 75,
 		"culture": 1,
 		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Wheat"],
@@ -106,7 +105,7 @@
 		"name": "Pub",
 		"replaces": "Brewery",
 		"uniqueTo": "Celts",
-		"cost": 70,
+		"cost": 75,
 		"culture": 2,
 		"maintenance": 0,
                 "requiredNearbyImprovedResources": ["Wheat"],
@@ -115,7 +114,7 @@
 	},
 	{
 		"name": "Wine Cellar",
-		"cost": 70,
+		"cost": 75,
 		"culture": 1,
 		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Grape"],
@@ -126,7 +125,7 @@
 		"name": "Monastery",
 		"replaces": "Wine Cellar",
 		"uniqueTo": "France",
-		"cost": 70,
+		"cost": 75,
 		"culture": 1,
 		"faith": 1,
 		"maintenance": 0,
@@ -552,7 +551,7 @@
 	},
 	{
 		"name": "Rum Distillery",
-		"cost": 140,
+		"cost": 150,
 		"culture": 1,
 		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Sugar"],
@@ -561,7 +560,7 @@
 	},
 	{
 		"name": "Whisky Distillery",
-		"cost": 140,
+		"cost": 150,
 		"culture": 1,
 		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Wheat"],
@@ -570,7 +569,7 @@
 	},
 	{
 		"name": "Vodka Distillery",
-		"cost": 140,
+		"cost": 150,
 		"culture": 1,
 		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Wheat"],
@@ -579,7 +578,7 @@
 	},
 	{
 		"name": "Cognac Distillery",
-		"cost": 140,
+		"cost": 150,
 		"culture": 1,
 		"maintenance": 1,
                 "requiredBuilding": "Wine Cellar",

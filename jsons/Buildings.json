@@ -447,7 +447,7 @@
 		"happiness": 2,
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 10},
-		"uniques": ["[-5]% maintenance costs <for [Military] units>"],
+              //"uniques": ["[-5]% maintenance costs <for [Military] units>"],
 		"requiredTech": "Currency"
 	},
 	{

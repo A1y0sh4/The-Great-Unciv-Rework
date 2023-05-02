@@ -632,7 +632,7 @@
 		"outerColor": [153,5,3],
 		"innerColor": [244,232,54],
 		"uniqueName": "Achaemenid Legacy",
-		"uniques": ["[+50]% Golden Age length <when at war>", "[+1] Movement <for [All] units> <during a Golden Age>", "[+10]% Strength <for [All] units> <during a Golden Age>"],
+		"uniques": ["Empire enters golden age <upon declaring war with a major Civilization> <before the [Medieval era]>", "[+1] Movement <for [All] units> <during a Golden Age>", "[+10]% Strength <for [All] units> <during a Golden Age>"],
 		"cities": ["Persepolis","Parsagadae","Susa","Ecbatana","Tarsus","Gordium","Bactra","Sardis","Ergili","Dariushkabir",
 			"Ghulaman","Zohak","Istakhr","Jinjan","Borazjan","Herat","Dakyanus","Bampur","Turengtepe","Rey","Shiraz",
 			"Thuspa","Hasanlu","Gabae","Merv","Behistun","Kandahar","Altintepe","Bunyan","Charsadda","Uratyube",

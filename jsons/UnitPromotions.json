@@ -723,7 +723,7 @@
 	},
 	{
 		"name": "[Persian Immortal] ability",
-		"uniques": ["[+10] HP when healing"]
+		"uniques": ["Heals [15] damage if it kills a unit", "[+10] HP when healing"]
 	},
 	{
 		"name": "[Conquistador] ability",

@@ -10,7 +10,7 @@
 		"culture": 1,
 		"cityStrength": 3,
 		"cost": 150,
-		"uniques": ["Indicates the capital city", "Limited to [1] per Civilization"]
+		"uniques": ["Indicates the capital city", "Limited to [1] per Civilization", "Destroyed when the city is captured"]
 	},
 	{
 		"name": "Monument",

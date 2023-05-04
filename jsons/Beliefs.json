@@ -50,7 +50,7 @@
     {
         "name": "Goddess of Festivals",
         "type": "Pantheon",
-        "uniques": ["[+1 Happiness] from every [Brewery]", "[+1 Happiness] from every [Wine Cellar]", "[+1 Happiness] from every [Vodka Distillery]", "[+1 Happiness] from every [Rum Distillery]", "[+1 Happiness] from every [Whiskey Distillery]", "[+1 Happiness] from every [Cognac Distillery]"]
+        "uniques": ["[+1 Happiness] from every [Brewery]", "[+1 Happiness] from every [Wine Cellar]", "[+1 Happiness] from every [Vodka Distillery]", "[+1 Happiness] from every [Rum Distillery]", "[+1 Happiness] from every [Whisky Distillery]", "[+1 Happiness] from every [Cognac Distillery]"]
     },
     {
         "name": "Goddess of Love",

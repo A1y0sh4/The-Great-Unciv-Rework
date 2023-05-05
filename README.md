@@ -72,3 +72,9 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
  -The Horde is the new Barbarian replacement for the War Chariot
  
  -Military Units in a range of 2 tiles within a Great General receive more XP when in combat (+50%)
+
+
+# Where can I find you?
+
+-If you have any suggestion to make, any bug to report, or you are just looking for a quick way to contact me, here's my mod's official Discord thread:
+https://discord.com/channels/586194543280390151/1020322259094753360/threads/1071804673956266096

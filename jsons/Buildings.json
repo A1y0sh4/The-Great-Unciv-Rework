@@ -776,6 +776,14 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
+		"name": "Bolshoi Theatre",
+		"isWonder": true,
+		"greatPersonPoints": {"Great Artist": 1},
+		"uniques": ["Gain a free [Opera House] [in this city]", "[+100]% Production when constructing [Culture] buildings [in all cities]"],
+		"requiredTech": "Acoustics",
+		"quote": "'Bolshoi Ballet is a universe of the imagination, a place of magic and enchantment, beauty and romance. Its many worlds vibrate with graceful dancers, glorious music, and sumptuous costumes.' - Trudy Garfunkel"
+	},
+	{
 		"name": "Sistine Chapel",
 		"culture": 3,
 		"isWonder": true,
@@ -823,6 +831,15 @@
 		"maintenance": 2,
 		"requiredBuilding": "Colosseum",
 		"requiredTech": "Printing Press"
+	},
+	{
+		"name": "Globe Theatre",
+		"culture": 3,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Artist": 1},
+		"uniques": ["Must be next to [Fresh water]", "Gain a free [Theatre] [in this city]", "[+1 Gold] from every [Culture] building"],
+		"requiredTech": "Printing Press",
+		"quote": "'Totus mundus agit histrionem.' - Inscription above main entrance to the Globe Theatre"
 	},
 	{
 		"name": "Leaning Tower of Pisa",

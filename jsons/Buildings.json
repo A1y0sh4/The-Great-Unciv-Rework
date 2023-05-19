@@ -419,15 +419,15 @@
 		"requiredTech": "Drama and Poetry"
 	},
 	{
-		"name": "Teotihuacan Pyramids",
-		"culture": 2,
-		"faith": 2,
-		"happiness": 2,
+		"name": "Parthenon",
+		"cityStrength": 5,
+		"cityHealth": 25,
+		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 1},
-		"uniques": ["[+10]% [Food] [in this city] <when at war>", "[+10]% [Production] [in this city] <when at war>"],
+		"uniques": ["Must be on [Hill]", "Adopt [Mecenatism]", "[+250] [Gold]"],
 		"requiredTech": "Drama and Poetry",
-		"quote": "'But the wrath of Huitzilopochtli was great, and as the sacrifice passed each of the four rooms dedicated to the sun god, the sun disappeared or reappeared in the sky.' - Fray Diego Durán"
+		"quote": "'Earth proudly wears the Parthenon as the best gem upon her zone.' - Ralph Waldo Emerson"
 	},
 	{
 		"name": "Market",
@@ -606,6 +606,17 @@
 		"uniques": ["Must be next to [Jungle]", "[+50]% Golden Age length", "[+1 Culture] from [Jungle] tiles [in all cities]"],
 		"requiredTech": "Civil Service",
 		"quote": "'The katun is established at Chichen Itza. The settlement of the Itza shall take place there. The quetzal shall come, the green bird shall come. Ah Kantenal shall come. It is the word of God. The Itza shall come.' - The Books of Chilam Balam"
+	},
+	{
+		"name": "Teotihuacan Pyramids",
+		"culture": 2,
+		"faith": 2,
+		"happiness": 2,
+		"isWonder": true,
+		"greatPersonPoints": {"Great General": 1},
+		"uniques": ["[+10]% [Food] [in this city] <when at war>", "[+10]% [Production] [in this city] <when at war>"],
+		"requiredTech": "Civil Service",
+		"quote": "'But the wrath of Huitzilopochtli was great, and as the sacrifice passed each of the four rooms dedicated to the sun god, the sun disappeared or reappeared in the sky.' - Fray Diego Durán"
 	},
 	{
 		"name": "National Treasury",

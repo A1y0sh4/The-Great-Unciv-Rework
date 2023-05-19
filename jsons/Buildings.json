@@ -422,11 +422,12 @@
 		"name": "Teotihuacan Pyramids",
 		"culture": 2,
 		"faith": 2,
+		"happiness": 2,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 1},
 		"uniques": ["[+10]% [Food] [in this city] <when at war>", "[+10]% [Production] [in this city] <when at war>"],
-		"requiredTech": "Archery",
-		"quote": "'It is not so much for its beauty that the forest makes a claim upon men's hearts, as for that subtle something, that quality of air, that emanation from old trees, that so wonderfully changes and renews a weary spirit.' - Robert Louis Stevenson"
+		"requiredTech": "Drama and Poetry",
+		"quote": "'But the wrath of Huitzilopochtli was great, and as the sacrifice passed each of the four rooms dedicated to the sun god, the sun disappeared or reappeared in the sky.' - Fray Diego Durán"
 	},
 	{
 		"name": "Market",

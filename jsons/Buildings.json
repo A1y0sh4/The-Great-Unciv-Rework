@@ -425,7 +425,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 1},
-		"uniques": ["Must be on [Hill]", "Adopt [Mecenatism]", "[+250] [Gold]"],
+		"uniques": ["Must be on [Hill]", "Adopt [Mecenatism]", "Gain [250] [Gold]"],
 		"requiredTech": "Drama and Poetry",
 		"quote": "'Earth proudly wears the Parthenon as the best gem upon her zone.' - Ralph Waldo Emerson"
 	},
@@ -754,10 +754,22 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 1},
 		"percentStatBonus": {"culture": 25},
-		"uniques": ["All newly-trained [relevant] units [in this city] receive the [Drill I] promotion",
+		"uniques": ["Must be on [Hill]", "All newly-trained [relevant] units [in this city] receive the [Drill I] promotion",
 			"Gain a free [Castle] [in this city]"],
 		"requiredTech": "Chivalry",
 		"quote": "'Justice is an unassailable fortress, built on the brow of a mountain which cannot be overthrown by the violence of torrents, nor demolished by the force of armies.' - Joseph Addison"
+	},
+	{
+		"name": "Red Fort",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"culture": 3,
+		"isWonder": true,
+		"greatPersonPoints": {"Great General": 1},
+		"uniques": ["Gain a free [Castle] [in this city]", "[-20]% Unhappiness from [Population] [in all cities] <during a Golden Age>", "[+25]% Great Person generation [in this city] <when not at war>"],
+		"requiredBuilding": "Palace",
+		"requiredTech": "Chivalry",
+		"quote": "'If heaven can be on the face of the earth,\nIt is this, it is this, it is this.' - Amir Khusrow"
 	},
 	{
 		"name": "Ironworks",

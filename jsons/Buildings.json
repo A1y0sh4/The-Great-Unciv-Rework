@@ -213,7 +213,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["Must be next to [Desert]", "[-20]% tile improvement construction time", "[2] free [Worker] units appear"],
+		"uniques": ["Must be next to [Desert]", "Must not be on [Hill]", "[-20]% tile improvement construction time", "[2] free [Worker] units appear"],
 		"requiredTech": "Masonry",
 		"quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge"
 	},
@@ -487,9 +487,10 @@
 		"isWonder": true,
 		"cityStrength": 5,
 		"cityHealth": 25,
-		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"requiredNearbyImprovedResources": ["Gold Ore","Ivory"],
 		"greatPersonPoints": {"Great Merchant": 1},
-		"uniques": ["Must be on [Hill]", "[+2 Gold] from [Pasture] tiles [in this city]", "Provides [1] [Gold Ore]"],
+		"percentStatBonus": {"gold": 10},
+		"uniques": ["Must be on [Hill]", "[+1 Gold] from [Resource] tiles [in this city]"],
 		"requiredTech": "Currency",
 		"quote": "'Among the gold mines of the inland plains between the Limpopo and Zambezi rivers there is a fortress built of stones of marvelous size, and there appears to be no mortar joining them ... This edifice is almost surrounded by hills, upon which are others resembling it in the fashioning of stone and the absence of mortar, and one of them is a tower more than 12 fathoms high.\nThe natives of the country call these edifices Symbaoe, which according to their language signifies court.' - Vicente Pegado"
 	},

@@ -799,6 +799,7 @@
 	},
 	{
 		"name": "Bolshoi Theatre",
+		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
 		"uniques": ["Gain a free [Opera House] [in this city]", "[+100]% Production when constructing [Culture] buildings [in all cities]"],
@@ -964,6 +965,7 @@
 	},
 	{
 		"name": "Venetian Arsenal",
+		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"uniques": ["Must be next to [Coast]", "[+50]% Production when constructing [Water] units [in this city]"],
@@ -1169,7 +1171,7 @@
 	{
 		"name": "Pentagon",
 		"isWonder": true,
-		"culture": 3,
+		"culture": 1,
 		"greatPersonPoints": {"Great General": 2},
 		"uniques": ["[-33]% Gold cost of upgrading <for [Military] units>", "All newly-trained [relevant] units [in this city] receive the [Sentry] promotion", "All newly-trained [relevant] units [in this city] receive the [Logistics] promotion"],
 		"requiredTech": "Combined Arms",

@@ -480,6 +480,19 @@
 		"requiredTech": "Currency",
 		"quote": "'...who drinks the water I shall give him, says the Lord, will have a spring inside him welling up for eternal life. Let them bring me to your holy mountain in the place where you dwell. Across the desert and through the mountain to the Canyon of the Crescent Moon...' - Indiana Jones"
 	},
+	{ 
+		"name": "Great Zimbabwe",
+		"culture": 1,
+		"gold": 2,
+		"isWonder": true,
+		"cityStrength": 5,
+		"cityHealth": 25,
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"greatPersonPoints": {"Great Merchant": 1},
+		"uniques": ["Must be on [Hill]", "[+2 Gold] from [Pasture] tiles [in this city]", "Provides [1] [Gold Ore]"],
+		"requiredTech": "Currency",
+		"quote": "'Among the gold mines of the inland plains between the Limpopo and Zambezi rivers there is a fortress built of stones of marvelous size, and there appears to be no mortar joining them ... This edifice is almost surrounded by hills, upon which are others resembling it in the fashioning of stone and the absence of mortar, and one of them is a tower more than 12 fathoms high.\nThe natives of the country call these edifices Symbaoe, which according to their language signifies court.' - Vicente Pegado"
+	},
 	{
 		"name": "Aqueduct",
 		"maintenance": 1,

@@ -1115,15 +1115,15 @@
 		"requiredBuilding": "Theatre",
 		"maintenance": 2,
 		"requiredTech": "Refrigeration"
+	},
 	{
-		"name": "Maracana Stadium",
+		"name": "Maracanã Stadium",
 		"isWonder": true,
 		"culture": 4,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"uniques": ["Gain a free [Stadium] [in this city]", "[50]% of excess happiness converted to [Culture]", "Enables conversion of city production to [Happiness] <in cities with a [Stadium]>"],
 		"requiredTech": "Refrigeration",
 		"quote": "'Down through its history, only three people have managed to silence the Maracana: the Pope, Frank Sinatra, and me.' - Alcides Ghiggia"
-	},
 	},
 	{
 		"name": "Broadcast Tower",

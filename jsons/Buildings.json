@@ -886,7 +886,7 @@
 		"culture": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
-		"uniques": ["Must be next to [Fresh water]", "Gain a free [Theatre] [in this city]", "[+1 Gold] from every [Culture] building"],
+		"uniques": ["Must be next to [Fresh water]", "Gain a free [Theatre] [in this city]", "[+1 Gold] from all [Culture] buildings"],
 		"requiredTech": "Printing Press",
 		"quote": "'Totus mundus agit histrionem.' - Inscription above main entrance to the Globe Theatre"
 	},

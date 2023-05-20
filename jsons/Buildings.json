@@ -213,7 +213,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["Must be next to [Desert]", "[-20]% tile improvement construction time", "[2] free [Worker] units appear"],
+		"uniques": ["Must be next to [Desert]", "Must not be on [Hill]", "[-20]% tile improvement construction time", "[2] free [Worker] units appear"],
 		"requiredTech": "Masonry",
 		"quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge"
 	},
@@ -419,6 +419,17 @@
 		"requiredTech": "Drama and Poetry"
 	},
 	{
+		"name": "Parthenon",
+		"cityStrength": 5,
+		"cityHealth": 25,
+		"culture": 1,
+		"isWonder": true,
+		"greatPersonPoints": {"Great General": 1},
+		"uniques": ["Must be on [Hill]", "Adopt [Mecenatism]", "Gain [250] [Gold]"],
+		"requiredTech": "Drama and Poetry",
+		"quote": "'Earth proudly wears the Parthenon as the best gem upon her zone.' - Ralph Waldo Emerson"
+	},
+	{
 		"name": "Market",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1}, 
@@ -468,6 +479,20 @@
 		"uniques": ["Must be next to [Desert]", "[+1 Food, +1 Production, +1 Gold] from [Desert] tiles without [Flood plains] [in this city]", "Gain a free [Amphitheater] [in this city]", "[+6 Culture] [in this city] <after discovering [Archaeology]>"],
 		"requiredTech": "Currency",
 		"quote": "'...who drinks the water I shall give him, says the Lord, will have a spring inside him welling up for eternal life. Let them bring me to your holy mountain in the place where you dwell. Across the desert and through the mountain to the Canyon of the Crescent Moon...' - Indiana Jones"
+	},
+	{ 
+		"name": "Great Zimbabwe",
+		"culture": 1,
+		"gold": 2,
+		"isWonder": true,
+		"cityStrength": 5,
+		"cityHealth": 25,
+		"requiredNearbyImprovedResources": ["Gold Ore","Ivory"],
+		"greatPersonPoints": {"Great Merchant": 1},
+		"percentStatBonus": {"gold": 10},
+		"uniques": ["Must be on [Hill]", "[+1 Gold] from [Resource] tiles [in this city]"],
+		"requiredTech": "Currency",
+		"quote": "'Among the gold mines of the inland plains between the Limpopo and Zambezi rivers there is a fortress built of stones of marvelous size, and there appears to be no mortar joining them ... This edifice is almost surrounded by hills, upon which are others resembling it in the fashioning of stone and the absence of mortar, and one of them is a tower more than 12 fathoms high.\nThe natives of the country call these edifices Symbaoe, which according to their language signifies court.' - Vicente Pegado"
 	},
 	{
 		"name": "Aqueduct",
@@ -597,6 +622,17 @@
 		"quote": "'The katun is established at Chichen Itza. The settlement of the Itza shall take place there. The quetzal shall come, the green bird shall come. Ah Kantenal shall come. It is the word of God. The Itza shall come.' - The Books of Chilam Balam"
 	},
 	{
+		"name": "Teotihuacan Pyramids",
+		"culture": 2,
+		"faith": 2,
+		"happiness": 2,
+		"isWonder": true,
+		"greatPersonPoints": {"Great General": 1},
+		"uniques": ["[+10]% [Food] [in this city] <when at war>", "[+10]% [Production] [in this city] <when at war>"],
+		"requiredTech": "Civil Service",
+		"quote": "'But the wrath of Huitzilopochtli was great, and as the sacrifice passed each of the four rooms dedicated to the sun god, the sun disappeared or reappeared in the sky.' - Fray Diego Durán"
+	},
+	{
 		"name": "National Treasury",
 		"cost": 125,
 		"culture": 1,
@@ -719,10 +755,22 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 1},
 		"percentStatBonus": {"culture": 25},
-		"uniques": ["All newly-trained [relevant] units [in this city] receive the [Drill I] promotion",
+		"uniques": ["Must be on [Hill]", "All newly-trained [relevant] units [in this city] receive the [Drill I] promotion",
 			"Gain a free [Castle] [in this city]"],
 		"requiredTech": "Chivalry",
 		"quote": "'Justice is an unassailable fortress, built on the brow of a mountain which cannot be overthrown by the violence of torrents, nor demolished by the force of armies.' - Joseph Addison"
+	},
+	{
+		"name": "Red Fort",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"culture": 3,
+		"isWonder": true,
+		"greatPersonPoints": {"Great General": 1},
+		"uniques": ["Gain a free [Castle] [in this city]", "[-20]% Unhappiness from [Population] [in all cities] <during a Golden Age>", "[+25]% Great Person generation [in this city] <when not at war>"],
+		"requiredBuilding": "Palace",
+		"requiredTech": "Chivalry",
+		"quote": "'If heaven can be on the face of the earth,\nIt is this, it is this, it is this.' - Amir Khusrow"
 	},
 	{
 		"name": "Ironworks",
@@ -776,6 +824,15 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
+		"name": "Bolshoi Theatre",
+		"culture": 1,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Artist": 1},
+		"uniques": ["Gain a free [Opera House] [in this city]", "[+100]% Production when constructing [Culture] buildings [in all cities]"],
+		"requiredTech": "Acoustics",
+		"quote": "'Bolshoi Ballet is a universe of the imagination, a place of magic and enchantment, beauty and romance. Its many worlds vibrate with graceful dancers, glorious music, and sumptuous costumes.' - Trudy Garfunkel"
+	},
+	{
 		"name": "Sistine Chapel",
 		"culture": 3,
 		"isWonder": true,
@@ -823,6 +880,15 @@
 		"maintenance": 2,
 		"requiredBuilding": "Colosseum",
 		"requiredTech": "Printing Press"
+	},
+	{
+		"name": "Globe Theatre",
+		"culture": 3,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Artist": 1},
+		"uniques": ["Must be next to [Fresh water]", "Gain a free [Theatre] [in this city]", "[+1 Gold] from every [Culture] building"],
+		"requiredTech": "Printing Press",
+		"quote": "'Totus mundus agit histrionem.' - Inscription above main entrance to the Globe Theatre"
 	},
 	{
 		"name": "Leaning Tower of Pisa",
@@ -923,6 +989,15 @@
 		"requiredTech": "Metallurgy",
 		"uniques": ["[+1 Production] from [Fort] tiles [in this city]", "[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured"]
 	},
+	{
+		"name": "Venetian Arsenal",
+		"culture": 1,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Engineer": 2},
+		"uniques": ["Must be next to [Coast]", "[+50]% Production when constructing [Water] units [in this city]"],
+		"requiredTech": "Metallurgy",
+		"quote": "'Happy is that city which in time of peace thinks of war' - Inscription on the venetian armory"
+	},
 
 	// Industrial Era
 
@@ -995,6 +1070,15 @@
 		"requiredTech": "Military Science",
 		"quote": "'Pale Death beats equally at the poor man's gate and at the palaces of kings.' - Horace"
 	},
+	{
+		"name": "Nobel Foundation",
+		"culture": 1,
+		"greatPersonPoints": {"Great Scientist": 2},
+		"isWonder": true,
+		"uniques": ["[+25]% Great Person generation [in non-enemy foreign cities]", "[+1 Science, +1 Culture] per [6] population [in non-enemy foreign cities]"],
+		"requiredTech": "Dynamite",
+		"quote": "'One can state, without exaggeration, that the observation of and the search for similarities and differences are the basis of all human knowledge.' - Alfred Nobel"
+	},
 	// Column 10
 	{
 		"name": "Hospital",
@@ -1031,6 +1115,15 @@
 		"requiredBuilding": "Theatre",
 		"maintenance": 2,
 		"requiredTech": "Refrigeration"
+	{
+		"name": "Maracanã Stadium",
+		"isWonder": true,
+		"culture": 4,
+		"greatPersonPoints": {"Great Engineer": 2},
+		"uniques": ["Gain a free [Stadium] [in this city]", "[50]% of excess happiness converted to [Culture]", "Enables conversion of city production to [Happiness] <in cities with a [Stadium]>"],
+		"requiredTech": "Refrigeration",
+		"quote": "'Down through its history, only three people have managed to silence the Maracana: the Pope, Frank Sinatra, and me.' - Alcides Ghiggia"
+	},
 	},
 	{
 		"name": "Broadcast Tower",
@@ -1122,7 +1215,7 @@
 	{
 		"name": "Pentagon",
 		"isWonder": true,
-		"culture": 3,
+		"culture": 1,
 		"greatPersonPoints": {"Great General": 2},
 		"uniques": ["[-33]% Gold cost of upgrading <for [Military] units>", "All newly-trained [relevant] units [in this city] receive the [Sentry] promotion", "All newly-trained [relevant] units [in this city] receive the [Logistics] promotion"],
 		"requiredTech": "Combined Arms",

@@ -49,7 +49,8 @@
         "May buy [Shrine] buildings with [Faith] [in all cities]",
         "May buy [Temple] buildings with [Faith] [in all cities]",
         "[Faith] cost of purchasing [Shrine] buildings [-75]%",
-        "[Faith] cost of purchasing [Temple] buildings [-50]%"]
+        "[Faith] cost of purchasing [Temple] buildings [-50]%",
+        "[+100]% [Gold] [in all cities] <for [City-States]>"]
     
         // TODO: Implement the uniques below
         // "[+20]% [Culture] [in all cities] <during a golden age>",

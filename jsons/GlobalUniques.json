@@ -52,7 +52,7 @@
         "[Faith] cost of purchasing [Temple] buildings [-50]%",
         "[+50]% [Production] [in all cities] <for [City-States]>",
         "[+50]% [Gold] [in all cities] <for [City-States]>",
-        "Free [Great Person] appears <upon entering a Golden Age> <for [City-States]>"]
+        "Gain [250] [Gold] <upon declaring war with a major Civilization> <for [City-States]>"]
     
         // TODO: Implement the uniques below
         // "[+20]% [Culture] [in all cities] <during a golden age>",

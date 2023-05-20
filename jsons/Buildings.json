@@ -1116,7 +1116,7 @@
 		"maintenance": 2,
 		"requiredTech": "Refrigeration"
 	{
-		"name": "Maracanã Stadium",
+		"name": "Maracanà Stadium",
 		"isWonder": true,
 		"culture": 4,
 		"greatPersonPoints": {"Great Engineer": 2},

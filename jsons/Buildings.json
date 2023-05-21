@@ -1359,7 +1359,7 @@
 	{
 		"name": "Wat",
 		"cost": 0,
-		"Science": 3,
+		"science": 3,
 		"faith": 2,
 		"culture": 1,
 		"requiredBuilding": "Temple",

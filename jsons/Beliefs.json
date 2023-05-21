@@ -179,6 +179,11 @@
         "uniques": ["May buy [Pagoda] buildings with [Faith] [in cities following this religion]"]
     },
     {
+        "name": "Wats",
+        "type": "Follower",
+        "uniques": ["May buy [Wat] buildings with [Faith] [in cities following this religion]"]
+    },
+    {
         "name": "Peace Gardens",
         "type": "Follower",
         "uniques": ["[+2 Happiness] from every [Garden]"]

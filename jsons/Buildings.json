@@ -420,8 +420,6 @@
 	},
 	{
 		"name": "Parthenon",
-		"cityStrength": 5,
-		"cityHealth": 25,
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 1},
@@ -483,10 +481,7 @@
 	{ 
 		"name": "Great Zimbabwe",
 		"culture": 1,
-		"gold": 2,
 		"isWonder": true,
-		"cityStrength": 5,
-		"cityHealth": 25,
 		"requiredNearbyImprovedResources": ["Gold Ore","Ivory"],
 		"greatPersonPoints": {"Great Merchant": 1},
 		"percentStatBonus": {"gold": 10},
@@ -762,8 +757,6 @@
 	},
 	{
 		"name": "Red Fort",
-		"cityStrength": 7,
-		"cityHealth": 25,
 		"culture": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 1},
@@ -1186,10 +1179,11 @@
 	},
 	{
 		"name": "Cristo Redentor",
-		"culture": 5,
+		"culture": 3,
+		"faith": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
-		"uniques": ["[-10]% Culture cost of adopting new Policies"],
+		"uniques": ["[-10]% Culture cost of adopting new Policies", "[Faith] cost of purchasing items in cities [-10]%"],
 		"requiredTech": "Plastics",
 		"quote": "'Come to me, all who labor and are heavy burdened, and I will give you rest.' - New Testament, Matthew 11:28"
 	},

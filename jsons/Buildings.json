@@ -498,6 +498,17 @@
 		"requiredTech": "Engineering"
 	},
 	{
+		"name": "Baray",
+		"replaces": "Aqueduct",
+		"uniqueTo": "Siam",
+		"happiness": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"requiredBuilding": "Granary",
+		"uniques": ["[15]% Food is carried over after population increases [in this city]", "[+10]% [Food] [in this city]"],
+		"requiredTech": "Engineering"
+	},
+	{
 		"name": "Great Wall",
 		"culture": 3,
 		"greatPersonPoints": {"Great Engineer": 1},
@@ -691,18 +702,6 @@
 		"requiredTech": "Education"
 	},
 	{
-		"name": "Wat",
-		"replaces": "University",
-		"uniqueTo": "Siam",
-		"maintenance": 2,
-		"hurryCostModifier": 15,
-		"percentStatBonus": {"science": 33},
-		"specialistSlots": {"Scientist": 2},
-		"requiredBuilding": "Temple",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[+1 Faith] per [2] population [in this city]", "Unbuildable"],
-		"requiredTech": "Education"
-	},
-	{
 		"name": "Oxford University",
 		"cost": 125,
 		"science": 3,
@@ -718,7 +717,7 @@
 		"faith": 3,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["Must be next to [Jungle]", "[-25]% Culture cost of natural border growth [in all cities]", "[-25]% Gold cost of acquiring tiles [in all cities]", "Gain a free [University] [in this city]"],
+		"uniques": ["Must be next to [Jungle]", "[-25]% Culture cost of natural border growth [in all cities]", "[-25]% Gold cost of acquiring tiles [in all cities]", "Gain a free [Wat] [in this city]"],
 		"requiredTech": "Education",
 		"quote": "'The temple is like no other building in the world. It has towers and decoration and all the refinements which the human genius can conceive of.' - Antonio da Magdalena"
 	},
@@ -1351,7 +1350,16 @@
 	{
 		"name": "Gurdwara",
 		"cost": 0,
-		"happiness": 3,
+		"food": 3,
+		"faith": 2,
+		"culture": 1,
+		"requiredBuilding": "Temple",
+		"uniques": ["Unbuildable", "Hidden when religion is disabled"]
+	},
+	{
+		"name": "Wat",
+		"cost": 0,
+		"Science": 3,
 		"faith": 2,
 		"culture": 1,
 		"requiredBuilding": "Temple",

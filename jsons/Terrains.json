@@ -372,7 +372,7 @@
 		"overrideStats": false,
 		"occursOn": ["Plains", "Grassland"],
 		"turnsInto": "Jungle",
-		"impassable": true,
+		"impassable": false,
 		"unbuildable": true,
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [4] to [6] [Jungle] tiles",

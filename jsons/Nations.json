@@ -1021,22 +1021,9 @@
 		"cities": ["Hanoi"]
 	},
 	{
-		"name": "Kabul",
-		"adjective": ["Kabul"],
-		"cityStateType": "Cultured",
-		"startBias": ["Hill"],
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Unacceptable!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [168, 38, 102],
-		"cities": ["Kabul"]
-	},
-	{
 		"name": "Kuala Lumpur",
 		"adjective": ["KLite"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Maritime",
 		"startBias": ["Coast"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1045,20 +1032,6 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [38, 96, 124],
 		"cities": ["Kuala Lumpur"]
-	},
-	{
-		"name": "Lhasa",
-		"translatedName": "Lhasa",
-		"adjective": ["tibetano"],
-		"cityStateType": "Cultured",
-		"startBias": ["Mountain"],
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps now we will find peace in death...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [204,102,0],
-		"cities": ["Lhasa"]
 	},
 	{
 		"name": "Milan",
@@ -1195,7 +1168,7 @@
 	{
 		"name": "Venice",
 		"adjective": ["Venetian"],
-		"cityStateType": "Maritime",
+		"cityStateType": "Mercantile",
 		"startBias": ["Coast"],
 
 		"declaringWar": "You have revealed your purposes a bit too early, my friend...",
@@ -1271,6 +1244,19 @@
 		"innerColor": [255,97,255],
 		"cities": ["Tyre"]
 	},
+        {
+		"name": "Sidon",
+		"adjective": ["Sidon"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "What a fine battle! Sidon is willing to serve you!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [250,128,114],
+		"cities": ["Sidon"]
+	},
 	{
 		"name": "Zanzibar",
 		"adjective": ["Zanzibar"],
@@ -1297,6 +1283,19 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [152,0,241],
 		"cities": ["Almaty"]
+	},
+	{
+		"name": "Kabul",
+		"adjective": ["Kabul"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Hill"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [168, 38, 102],
+		"cities": ["Kabul"]
 	},
 	{
 		"name": "Belgrade",
@@ -1352,19 +1351,6 @@
 		"cities": ["M'Banza-Kongo"]
 	},
 	{
-		"name": "Sidon",
-		"adjective": ["Sidon"],
-		"cityStateType": "Militaristic",
-		"startBias": ["Coast"],
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "What a fine battle! Sidon is willing to serve you!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [250,128,114],
-		"cities": ["Sidon"]
-	},
-	{
 		"name": "Valletta",
 		"adjective": ["maltese"],
 		"cityStateType": "Militaristic",
@@ -1402,6 +1388,20 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [203, 253, 232],
 		"cities": ["Cahokia"]
+	},
+        {
+		"name": "Lhasa",
+		"translatedName": "Lhasa",
+		"adjective": ["tibetano"],
+		"cityStateType": "Religious",
+		"startBias": ["Mountain"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps now we will find peace in death...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [204,102,0],
+		"cities": ["Lhasa"]
 	},
 	{
 		"name": "Jerusalem",

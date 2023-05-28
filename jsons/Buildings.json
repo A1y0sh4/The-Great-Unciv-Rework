@@ -739,7 +739,7 @@
 		"culture": 2,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"uniques": ["[+5]% [Gold] [in this city] <after discovering [Flight]>", "[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["[+10]% [Gold] [in this city] <after discovering [Flight]>", "[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Chivalry"
 	},
 	{
@@ -758,7 +758,7 @@
 		"culture": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 1},
-		"uniques": ["Gain a free [Castle] [in this city]", "[-20]% Unhappiness from [Population] [in all cities] <during a Golden Age>", "[+25]% Great Person generation [in this city] <when not at war>"],
+		"uniques": ["Gain a free [Castle] [in this city]", "[-20]% Unhappiness from [Population] [in all cities] <during a Golden Age>", "[+50]% Golden Age length <when not at war>"],
 		"requiredBuilding": "Palace",
 		"requiredTech": "Chivalry",
 		"quote": "'If heaven can be on the face of the earth,\nIt is this, it is this, it is this.' - Amir Khusrow"
@@ -877,7 +877,7 @@
 		"culture": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
-		"uniques": ["Must be next to [Fresh water]", "Gain a free [Theatre] [in this city]", "[+1 Gold] from all [Culture] buildings"],
+		"uniques": ["Must be next to [Fresh water]", "Gain a free [Theatre] [in this city]", "[+1 Gold] from all [Happiness] buildings"],
 		"requiredTech": "Printing Press",
 		"quote": "'Totus mundus agit histrionem.' - Inscription above main entrance to the Globe Theatre"
 	},

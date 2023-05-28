@@ -1213,6 +1213,15 @@
 		"requiredTech": "Combined Arms",
 		"quote": "'In preparing for battle I have always found that plans are useless, but planning is indispensable.' - Dwight D. Eisenhower"
 	},
+	{
+		"name": "Oak Ridge Leadership Computing Facility",
+		"isWonder": true,
+		"percentStatBonus": {"science": 50},
+		"greatPersonPoints": {"Great Scientist": 2},
+		"uniques": ["[2] free [Great Scientist] units appear", "[+3 Science] from every [Strategic Resource]"],
+		"requiredTech": "Computers",
+		"quote": "'The good thing about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.' – Ted Nelson"
+	},
 	// Column 14
 	{
 		"name": "Solar Plant",
@@ -1280,9 +1289,8 @@
 	{
 		"name": "Hubble Space Telescope",
 		"isWonder": true,
-		"greatPersonPoints": {"Great Scientist": 1},
-		"uniques": ["[2] free [Great Scientist] units appear",
-			"[+25]% Production when constructing [Spaceship part] units [in this city]",
+		"greatPersonPoints": {"Great Scientist": 2},
+		"uniques": ["[+50]% Production when constructing [Spaceship part] units [in this city]",
 			"Gain a free [Spaceship Factory] [in this city]"],
 		"requiredTech": "Satellites",
 		"quote": "'The wonder is, not that the field of stars is so vast, but that man has measured it.' - Anatole France"

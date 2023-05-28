@@ -1216,6 +1216,7 @@
 	{
 		"name": "Oak Ridge Leadership Computing Facility",
 		"isWonder": true,
+		"culture": 1,
 		"percentStatBonus": {"science": 50},
 		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["[2] free [Great Scientist] units appear", "[+3 Science] from every [Strategic Resource]"],
@@ -1243,7 +1244,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
 		"percentStatBonus": {"culture": 50},
-		"uniques": ["Free Social Policy","Must be next to [Coast]"],
+		"uniques": ["Free Social Policy", "Must be next to [Coast]"],
 		"requiredTech": "Ecology",
 		"quote": "'Those who lose dreaming are lost.' - Australian Aboriginal saying"
 	},
@@ -1289,9 +1290,10 @@
 	{
 		"name": "Hubble Space Telescope",
 		"isWonder": true,
+		"culture": 1,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["[+50]% Production when constructing [Spaceship part] units [in this city]",
-			"Gain a free [Spaceship Factory] [in this city]"],
+			"Gain a free [Spaceship Factory] [in this city]", "[+5 Science] from every [Observatory]"],
 		"requiredTech": "Satellites",
 		"quote": "'The wonder is, not that the field of stars is so vast, but that man has measured it.' - Anatole France"
 	},

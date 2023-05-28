@@ -1299,7 +1299,7 @@
 		"cost": 375,
 		"requiredResource": "Oil",
 		"requiredTech": "Electronics",
-		"upgradesTo": "Missile Cruisers",
+		"upgradesTo": "Missile Cruiser",
 		"uniques": ["Destroys tile improvements when attacking", "Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "shipguns"

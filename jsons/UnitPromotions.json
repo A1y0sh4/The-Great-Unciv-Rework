@@ -416,7 +416,7 @@
 	{
 		"name" : "Supply",
 		"prerequisites": ["Bombardment III", "Targeting III", "Boarding Party III", "Coastal Raider III"],
-		"uniques": ["May heal outside of friendly territory", "[+5] HP when healing <in [Foreign Land] tiles>", "Unit will heal every turn, even if it performs an action <in [Coast] tiles>"],
+		"uniques": ["May heal outside of friendly territory", "[+10] HP when healing <in [Foreign Land] tiles>", "Unit will heal every turn, even if it performs an action <in [Coast] tiles>"],
 		"unitTypes": ["Melee Water", "Ranged Water"],
         "column": 16,
         "row": 4
@@ -505,7 +505,7 @@
 	{
 		"name": "Air Targeting I",
 		"prerequisites": ["Interception I","Siege I","Bombardment I","Dogfighting I"],
-		"uniques": ["[+33]% Strength <vs [Water] units>"],
+		"uniques": ["[+33]% Strength <vs [Military] units> <in [Water] tiles>"],
 		"unitTypes": ["Fighter","Bomber"],
         "column": 20,
         "row": 1
@@ -513,10 +513,18 @@
 	{
 		"name": "Air Targeting II",
 		"prerequisites": ["Air Targeting I"],
-		"uniques": ["[+33]% Strength <vs [Water] units>"],
+		"uniques": ["[+33]% Strength <vs [Military] units> <in [Water] tiles>"],
 		"unitTypes": ["Fighter","Bomber"],
         "column": 20,
         "row": 2
+	},
+	{
+		"name": "Air Targeting III",
+		"prerequisites": ["Air Targeting I"],
+		"uniques": ["[+34]% Strength <vs [Military] units> <in [Water] tiles>"],
+		"unitTypes": ["Fighter","Bomber"],
+        "column": 20,
+        "row": 3
 	},
 
 	{

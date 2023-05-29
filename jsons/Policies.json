@@ -591,11 +591,7 @@
             },
             {
                 "name": "Total War",
-                "uniques": [
-                    "[3] free [Rifleman] units appear <upon declaring war with a major Civilization> <after discovering [Rifling]> <before discovering [Replaceable Parts]>",
-		    "[3] free [Great War Infantry] units appear <upon declaring war with a major Civilization> <after discovering [Replaceable Parts]> <before discovering [Plastics]>",
-		    "[3] free [Infantry] units appear <upon declaring war with a major Civilization> <after discovering [Plastics]>"
-                ],
+                "uniques": ["Empire enters golden age <upon declaring war with a major Civilization> <with [33]% chance>"],
                 "requires": ["Police State", "Fascism"],
                 "row": 3,
                 "column": 4

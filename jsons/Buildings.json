@@ -451,6 +451,7 @@
 		"name": "Satrap's Court",
 		"replaces": "Market",
 		"uniqueTo": "Persia",
+		"cost": 75,
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"happiness": 2,

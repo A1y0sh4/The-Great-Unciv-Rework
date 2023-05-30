@@ -1221,7 +1221,7 @@
 		"culture": 1,
 		"percentStatBonus": {"science": 50},
 		"greatPersonPoints": {"Great Scientist": 2},
-		"uniques": ["[2] free [Great Scientist] units appear", "[+3 Science] from every [Strategic Resource]"],
+		"uniques": ["[2] free [Great Scientist] units appear", "[+3 Science] from every [Strategic resource]"],
 		"requiredTech": "Computers",
 		"quote": "'The good thing about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.' – Ted Nelson"
 	},

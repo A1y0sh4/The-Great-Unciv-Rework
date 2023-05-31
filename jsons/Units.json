@@ -1541,7 +1541,7 @@
 		"requiredResource": "Aluminum",
 		"requiredTech": "Rocketry",
 		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Air] units>",
-			"[+150]% Strength <vs [Helicopter] units>", "Never appears as a Barbarian unit"],
+			"[+150]% Strength <vs [Helicopter] units>", "Can see invisible [Helicopter] units", "Never appears as a Barbarian unit"],
 		"attackSound": "missile"
 	},
 	{

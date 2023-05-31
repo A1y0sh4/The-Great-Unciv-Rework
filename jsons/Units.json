@@ -1578,7 +1578,22 @@
 		"requiredTech": "Computers",
 		"requiredResource": "Aluminum",
 		"uniques": ["[+100]% Strength <vs [Armored] units>", "Destroys tile improvements when attacking", "No defensive terrain bonus", "Can move after attacking", "Unable to capture cities", "Never appears as a Barbarian unit"],
+		"promotions":["[Helicopter] ability", "Water Mobility"],
 		"attackSound": "machinegun"
+	},
+        {
+		"name": "UAV",
+		"unitType": "Helicopter",
+		"range": 1,
+		"movement": 3,
+		"strength": 45,
+		"rangedStrength": 65,
+		"cost": 375,
+		"requiredTech": "Computers",
+		"requiredResource": "Aluminum",
+		"uniques": ["Can move after attacking", "Unable to capture cities", "Invisible to non-adjacent units", "Can see over obstacles", "Never appears as a Barbarian unit"],
+		"promotions":["[Helicopter] ability"],
+		"attackSound": "jetgun"
 	},
 
 	// Information Era
@@ -1657,6 +1672,7 @@
 		"requiredTech": "Nuclear Fusion",
 		"requiredResource": "Uranium",
 		"uniques": ["Can move after attacking", "Destroys tile improvements when attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"promotions":["Water Mobility"],
 		"attackSound": "gdrAttack"
 	},
 	{

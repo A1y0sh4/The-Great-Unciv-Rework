@@ -635,7 +635,7 @@
 		"name": "Sentry",
 		"prerequisites": ["Accuracy II", "Barrage II", "Shock II", "Drill II", "Bombardment I", "Targeting I", "Boarding Party I", "Coastal Raider I"],
 		"uniques": ["[+1] Sight", "Can see invisible [Land] units"],
-		"unitTypes": ["Sword", "Gunpowder", "Mounted", "Ranged Water", "Siege", "Armored", "Melee Water", "Submarine"],
+		"unitTypes": ["Sword", "Gunpowder", "Mounted", "Ranged Water", "Siege", "Armored", "Melee Water", "Submarine", "Helicopter"],
         "column": 24,
         "row": 4
 	},

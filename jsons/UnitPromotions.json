@@ -557,8 +557,7 @@
 	{
 		"name": "[Helicopter] ability",
 		"uniques": ["All tiles cost 1 movement", "Can pass through impassable tiles", "Ignores Zone of Control"],
-		"unitTypes": ["Helicopter"],
-        "column": 22,
+        "column": 25,
         "row": 1
 	},
 	{
@@ -590,6 +589,12 @@
 		"unitTypes": ["Helicopter"],
         "column": 23,
         "row": 2
+	},
+	{
+		"name": "Water Mobility",
+		"uniques": ["[1] Movement point cost to embark", "[1] Movement point cost to disembark"],
+        "column": 26,
+        "row": 1
 	},
 
 	// Mixed

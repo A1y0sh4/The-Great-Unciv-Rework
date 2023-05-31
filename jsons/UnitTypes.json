@@ -79,7 +79,7 @@
     {
         "name": "Helicopter",
         "movementType": "Land",
-        "uniques": ["Can pass through impassable tiles"]
+        "uniques": ["All tiles cost 1 movement", "Can pass through impassable tiles", "Ignores Zone of Control"]
     },
 
     // Deprecated unit types required for mods without a UnitTypes.json file to work

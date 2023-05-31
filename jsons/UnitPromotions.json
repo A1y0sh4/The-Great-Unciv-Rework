@@ -182,7 +182,7 @@
 		"name": "Amphibious",
 		"prerequisites": ["Shock I", "Drill I", "Scouting III", "Survivalism III"],
 		"uniques": ["Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May attack when embarked"],
-		"unitTypes": ["Sword","Gunpowder","Scout"],
+		"unitTypes": ["Sword","Gunpowder","Scout", "Helicopter", "Giant Death Robot"],
         "column": 6,
         "row": 1
 	},
@@ -555,8 +555,15 @@
 
 	// Helicopter
 	{
+		"name": "[Helicopter] ability",
+		"uniques": ["All tiles cost 1 movement", "Can pass through impassable tiles", "Ignores Zone of Control"],
+		"unitTypes": ["Helicopter"],
+        "column": 22,
+        "row": 1
+	},
+	{
 		"name": "Mobility I",
-		"uniques": ["[+1] Movement"],
+		"uniques": ["[+1] Movement <in [Land] tiles>"],
 		"unitTypes": ["Helicopter"],
         "column": 22,
         "row": 1
@@ -564,7 +571,7 @@
 	{
 		"name": "Mobility II",
 		"prerequisites": ["Mobility I"],
-		"uniques": ["[+1] Movement"],
+		"uniques": ["[+1] Movement <in [Land] tiles>"],
 		"unitTypes": ["Helicopter"],
         "column": 22,
         "row": 2

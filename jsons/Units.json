@@ -1577,8 +1577,7 @@
 		"cost": 425,
 		"requiredTech": "Computers",
 		"requiredResource": "Aluminum",
-		"uniques": ["[+100]% Strength <vs [Armored] units>", "No defensive terrain bonus", "Can move after attacking", "Eliminates combat penalty for attacking over a river",
-			"All tiles cost 1 movement", "Can pass through impassable tiles", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit"],
+		"uniques": ["[+100]% Strength <vs [Armored] units>", "Destroys tile improvements when attacking", "No defensive terrain bonus", "Can move after attacking", "Unable to capture cities", "Never appears as a Barbarian unit"],
 		"attackSound": "machinegun"
 	},
 

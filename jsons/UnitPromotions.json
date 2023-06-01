@@ -596,6 +596,77 @@
         "column": 28,
         "row": 1
 	},
+	
+	//GDR
+	{
+		"name": "Enhanced Mobility I",
+		"uniques": ["[+1] Movement <in [Land] tiles>", "Ignores Zone of Control"],
+		"unitTypes": ["Mech"],
+        "column": 30,
+        "row": 1
+	},
+	{
+		"name": "Enhanced Mobility II",
+		"prerequisites": ["Enhanced Mobility I"],
+		"uniques": ["[+1] Movement <in [Land] tiles>", "May Paradrop up to [3] tiles from inside friendly territory"],
+		"unitTypes": ["Mech"],
+        "column": 30,
+        "row": 2
+	},
+	{
+		"name": "Integrated Laser Cannon I",
+		"uniques": ["[+15]% Strength <when attacking>"],
+		"unitTypes": ["Mech"],
+        "column": 29,
+        "row": 1
+	},
+	{
+		"name": "Integrated Laser Cannon II",
+		"prerequisites": ["Integrated Laser Cannon I"],
+		"uniques": ["[+15]% Strength <when attacking>"],
+		"unitTypes": ["Mech"],
+        "column": 29,
+        "row": 2
+	},
+	{
+		"name": "Drone Support I",
+		"uniques": ["[+1] Sight", "Can see over obstacles"],
+		"unitTypes": ["Mech"],
+        "column": 31,
+        "row": 1
+	},
+	{
+		"name": "Drone Support II",
+		"prerequisites": ["Drone Support I"],
+		"uniques": ["[+50]% Strength <vs [Air] units>", "[+50]% Strength <vs [Helicopter] units>"],
+		"unitTypes": ["Mech"],
+        "column": 31,
+        "row": 2
+	},
+	{
+		"name": "Improved Agility",
+		"prerequisites": ["Drone Support II", "Integrated Laser Cannon II", "Enhanced Mobility II"],
+		"uniques": ["[1] additional attacks per turn", "May withdraw before melee ([25]%)"],
+		"unitTypes": ["Mech"],
+        "column": 30,
+        "row": 3
+	},
+	{
+		"name": "Repairing System",
+		"prerequisites": ["Drone Support II", "Integrated Laser Cannon II", "Enhanced Mobility II"],
+		"uniques": ["Unit will heal every turn, even if it performs an action", "Heal this unit by [33] HP <upon being promoted>"],
+		"unitTypes": ["Mech"],
+        "column": 31,
+        "row": 3
+	},
+	{
+		"name": "Laser Siege Cannon",
+		"prerequisites": ["Drone Support II", "Integrated Laser Cannon II", "Enhanced Mobility II"],
+		"uniques": ["[+50]% Strength <vs cities>"],
+		"unitTypes": ["Mech"],
+        "column": 29,
+        "row": 3
+	},
 
 	// Mixed
 	{
@@ -731,7 +802,7 @@
 	},
 	{
 		"name": "Home Sweet Home", // only for Mehal Sefari and subsequent upgrades
-		"uniques": ["[+30]% Strength decreasing with distance from the capital"]
+		"uniques": ["[+33]% Strength decreasing with distance from the capital"]
 	},
 	{
 		"name": "[Mohawk Warrior] ability",

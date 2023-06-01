@@ -79,7 +79,12 @@
     {
         "name": "Helicopter",
         "movementType": "Land",
-        "uniques": ["All tiles cost 1 movement", "Can pass through impassable tiles", "Ignores Zone of Control"]
+        "uniques": ["All tiles cost 1 movement", "Can pass through impassable tiles", "Ignores Zone of Control", "Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May attack when embarked"]
+    },
+    {
+        "name": "Mech",
+        "movementType": "Land",
+        "uniques": ["Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May attack when embarked"]
     },
 
     // Deprecated unit types required for mods without a UnitTypes.json file to work

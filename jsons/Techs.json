@@ -589,8 +589,7 @@
 			{
 				"name": "Satellites",
 				"row": 6,
-				"prerequisites": ["Rocketry"],
-				"uniques": ["Reveals the entire map"],
+				"prerequisites": ["Rocketry","Computers"],
 				"quote": "'Now, somehow, in some new way, the sky seemed almost alien.' - Lyndon B. Johnson"
 			},
 			{

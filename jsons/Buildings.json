@@ -1203,6 +1203,7 @@
 		"name": "Manhattan Project",
 		"cost": 750,
 		"isNationalWonder": true,
+		"culture": 1,
 		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion"],
 		"requiredTech": "Atomic Theory"
 	},
@@ -1244,6 +1245,7 @@
 	{
 		"name": "Sydney Opera House",
 		"isWonder": true,
+		"culture": 1,
 		"greatPersonPoints": {"Great Artist": 2},
 		"percentStatBonus": {"culture": 50},
 		"uniques": ["Free Social Policy", "Must be next to [Coast]"],
@@ -1263,9 +1265,20 @@
 	{
 		"name": "Apollo Program",
 		"cost": 750,
+		"culture": 1,
 		"isNationalWonder": true,
+		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["Enables construction of Spaceship parts", "Triggers a global alert upon completion", 
 			"Hidden when [Scientific] Victory is disabled"],
+		"requiredTech": "Satellites"
+	},
+	{
+		"name": "Sputnik Program",
+		"cost": 750,
+		"culture": 1,
+		"isNationalWonder": true,
+		"greatPersonPoints": {"Great Scientist": 2},
+		"uniques": ["Reveals the entire map", "Free Technology", "[+25]% [Science] [in foreign cities]", "Triggers a global alert upon completion"],
 		"requiredTech": "Rocketry"
 	},
 

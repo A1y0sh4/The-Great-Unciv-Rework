@@ -6,7 +6,8 @@
 		"food": 1,
 		"gold": 1,
 		"movementCost": 1,
-		"RGB": [45,108,145]
+		"RGB": [45,108,145],
+		 "uniques": ["Becomes [Coast] when adjacent to [Land]"]
 	},
 	{
 		"name": "Coast",

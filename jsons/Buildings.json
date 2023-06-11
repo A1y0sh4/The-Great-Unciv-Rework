@@ -1220,7 +1220,6 @@
 		"name": "Oak Ridge Leadership Computing Facility",
 		"isWonder": true,
 		"culture": 1,
-		"percentStatBonus": {"science": 50},
 		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["[2] free [Great Scientist] units appear", "[+3 Science] from every [Strategic resource]"],
 		"requiredTech": "Computers",
@@ -1289,7 +1288,7 @@
 		"name": "CN Tower",
 		"isWonder": true,
 		"culture": 1,
-		"greatPersonPoints": {"Great Merchant": 1},
+		"greatPersonPoints": {"Great Merchant": 2},
 		"uniques": ["[+1] population [in all cities]", "[+1 Happiness, +1 Culture] [in all cities]", "Gain a free [Broadcast Tower] [in all cities]"],
 		"requiredTech": "Telecommunications",
 		"quote": "'Nothing travels faster than light with the possible exception of bad news, which obeys its own special rules.' - Douglas Adams"

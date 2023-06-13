@@ -12,7 +12,7 @@
         },
         "uniques": [
             "[+2 Culture] from every [Palace]",
-            "[-25]% Culture cost of natural border growth [in all cities with a world wonder]"
+            "[Gold] cost of purchasing items in cities [-20]%"
         ],
         "policies": [
             {

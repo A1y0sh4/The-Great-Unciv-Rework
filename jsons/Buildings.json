@@ -1041,7 +1041,7 @@
 		"gold": 4,
 		"greatPersonPoints": {"Great Merchant": 2},
 		"isWonder": true,
-		"uniques": ["[Gold] cost of purchasing items in cities [-25]%", "Provides the cheapest [Production] building in your first [4] cities for free"],
+		"uniques": ["[Gold] cost of purchasing items in cities [-20]%", "Provides the cheapest [Production] building in your first [4] cities for free"],
 		"requiredTech": "Industrialization",
 		"quote": "'To achieve great things, two things are needed: a plan, and not quite enough time.' - Leonard Bernstein"
 	},

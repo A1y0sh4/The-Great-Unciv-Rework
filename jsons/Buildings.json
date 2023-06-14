@@ -387,7 +387,7 @@
 		"hurryCostModifier": 25,
 		"gold": 1,
 		"faith": 2,
-		"uniques": ["[Faith] cost of purchasing [All] buildings [-10]%"]
+		"uniques": ["[+5]% Natural religion spread [in all cities]", "[Faith] cost of purchasing [All] buildings [-5]%"]
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy"
 	},

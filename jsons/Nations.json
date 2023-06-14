@@ -990,10 +990,10 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		
-		"declaringWar": "It is the time you should learn the God's will. There is no place for heresy!",
-		"attacked": "I excommunicate you, burn in hell!",
-		"defeated": "If that's the Lord's will, I must accept it!",
-		"introduction": "Welcome, I am Julius II, the disciple of Christ and apostolic succesor to Saint Peter.",
+		"declaringWar": "War, war, war!",
+		"attacked": "I will do everything possible to ensure that the noble patrimony of the Church is not sold or alienated in any way.",
+		"defeated": "I don't worry about my life, but about my fame.",
+		"introduction": "Greetings, I am Julius II, the disciple of Christ and apostolic succesor to Saint Peter.",
 		
 		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Yes.","Speak."],
@@ -1003,8 +1003,8 @@
 		"hateLetsHearIt": ["What's your offer?"],
 		"hateNo": ["..."],
 		"hateYes": ["I must accept."],
-		"afterPeace": "What do you want, you vile beast?",
-		"tradeRequest": "This offer is blessed, you should accept it!",
+		"afterPeace": "If you don't want to help the Church, at least don't bother her.",
+		"tradeRequest": "If the Church is the body of Christ, then the Pope is his voice. Listen to what he has to say.",
 
 		"outerColor": [188, 46, 46],
 		"innerColor": [255, 219, 67],

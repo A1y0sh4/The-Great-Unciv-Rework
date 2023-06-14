@@ -380,6 +380,18 @@
 		"requiredTech": "Philosophy"
 	},
 	{
+		"name": "Basilica",
+		"replaces": "Temple",
+		"uniqueTo": "Papal States",
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"gold": 1,
+		"faith": 2,
+		"uniques": ["[Faith] cost of purchasing [All] buildings [-15]%"]
+		"requiredBuilding": "Shrine",
+		"requiredTech": "Philosophy"
+	},
+	{
 		"name": "National College",
 		"cost": 125,
 		"science": 3,

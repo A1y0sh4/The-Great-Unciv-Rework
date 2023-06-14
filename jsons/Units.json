@@ -593,6 +593,20 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Swiss Guard",
+		"unitType": "Sword",
+		"replaces": "Pikeman",
+		"uniqueTo": "Papal States",
+		"movement": 2,
+		"strength": 16,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"promotions": ["Formation I"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+25]% Strength <when fighting in [Friendly Land] tiles>", "[+25]% Strength <vs [City-State] units>"],
+		"obsoleteTech": "Gunpowder",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Galleass",
 		"unitType": "Ranged Water",
 		"movement": 3,

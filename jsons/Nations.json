@@ -1011,7 +1011,7 @@
 		
 		"uniqueName": "Holy See",
 		"uniques": ["Unhappiness from number of Cities doubled", "Gain [100] [Faith] <upon constructing [Wonders] [in capital]>", "Allied City-States provide [Faith] equal to [100]% of what they produce for themselves"],
-		"cities": ["Rome", "Benevento", "Ravenna", "Avignon", "Bologna", "Ferrara", "Ascoli", "Piacenza", "Rieti", "Assisi", "Orvieto", "Rimini", "Todi", "Viterbo"]
+		"cities": ["Urbs", "Beneventum", "Ravenna", "Avignon", "Bologna", "Ferrara", "Ascoli", "Piacenza", "Rieti", "Assisi", "Orvieto", "Rimini", "Todi", "Viterbo"]
 	},
 
 

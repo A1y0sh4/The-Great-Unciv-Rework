@@ -980,6 +980,39 @@
 			"Q'umarkaj","Nakbe","Cerros","Xunantunich","Takalik Abaj","Cival","San Bartolo","Altar de Sacrificios","Seibal",
 			"Caracol","Naranjo","Dos Pilas","Mayapan","Ixinche","Zaculeu","Kabah"]
 	},
+        {
+		"name": "Papal States",
+		"leaderName": "Julius II",
+		"adjective": ["Papal"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Religious",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "It is the time you should learn the God's will. There is no place for heresy!",
+		"attacked": "I excommunicate you, burn in hell!",
+		"defeated": "If that's the Lord's will, I must accept it!",
+		"introduction": "Welcome, I am Julius II, the disciple of Christ and apostolic succesor to Saint Peter.",
+		
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["Yes.","Speak."],
+		"neutralNo": ["No.","Unacceptable."],
+		"neutralYes": ["I can't refuse.","Let it be."],
+		"hateHello": "Don't waste my time!",
+		"hateLetsHearIt": ["What's your offer?"],
+		"hateNo": ["..."],
+		"hateYes": ["I must accept."],
+		"afterPeace": "What do you want, you vile beast?",
+		"tradeRequest": "This offer is blessed, you should accept it!",
+
+		"outerColor": [128, 8, 0],
+		"innerColor": [255, 204, 0],
+		
+		"uniqueName": "Holy See",
+		"uniques": ["Unhappiness from number of Cities doubled", "Gain [100] [Faith] <upon constructing [Wonders] [in capital]>", "[+2 Gold, +2 Faith] from every [6] global followers [in City-State cities]"],
+		"cities": ["Rome", "Benevento", "Ravenna", "Avignon", "Bologna", "Ponte Corvo", "Ferrara", "Ascoli", "Camerino", "Rieti", "Assisi", "Orvieto", "Rimini", "Todi", "Viterbo"]
+	},
 
 
 	// City-States sorted by cityStateType, name

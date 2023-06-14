@@ -601,7 +601,7 @@
 		"strength": 16,
 		"cost": 90,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+25]% Strength <when fighting in [Friendly Land] tiles>", "[+25]% Strength <vs [City-State] units>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+25]% Strength <when fighting in [Friendly Land] tiles>", "[+25]% Strength <vs [City-State] units>", "Can move immediately once bought"],
 		"obsoleteTech": "Gunpowder",
 		"attackSound": "metalhit"
 	},

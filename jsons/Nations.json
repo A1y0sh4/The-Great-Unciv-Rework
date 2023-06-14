@@ -1011,7 +1011,7 @@
 		
 		"uniqueName": "Holy See",
 		"uniques": ["Unhappiness from number of Cities doubled", "Gain [100] [Faith] <upon constructing [Wonders] [in capital]>", "[+2 Gold, +2 Faith] from every [6] global followers [in City-State cities]"],
-		"cities": ["Rome", "Benevento", "Ravenna", "Avignon", "Bologna", "Ponte Corvo", "Ferrara", "Ascoli", "Camerino", "Rieti", "Assisi", "Orvieto", "Rimini", "Todi", "Viterbo"]
+		"cities": ["Rome", "Benevento", "Ravenna", "Avignon", "Bologna", "Ferrara", "Ascoli", "Piacenza", "Rieti", "Assisi", "Orvieto", "Rimini", "Todi", "Viterbo"]
 	},
 
 
@@ -1592,18 +1592,19 @@
 		"innerColor": [81, 140, 3],
 		"cities": ["Malacca"]
 	},
-        {
-		"name": "Vatican City",
-		"adjective": ["Vatican"],
-		"cityStateType": "Religious",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We... defeated? No... we had so much work to do!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [224, 222, 188],
-		"cities": ["Vatican City"]
-	},
+      //{
+      //	"name": "Vatican City",
+      //	"adjective": ["Vatican"],
+      //	"cityStateType": "Religious",
+      //
+      //	"declaringWar": "You leave us no choice. War it must be.",
+      //	"attacked": "Very well, this shall not be forgotten.",
+      //	"defeated": "We... defeated? No... we had so much work to do!",
+      //	"outerColor": [0, 0, 0],
+      //	"innerColor": [224, 222, 188],
+      //	"cities": ["Vatican City"]
+      //},
 
 	//Barbarian
 	{

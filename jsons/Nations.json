@@ -1006,8 +1006,8 @@
 		"afterPeace": "What do you want, you vile beast?",
 		"tradeRequest": "This offer is blessed, you should accept it!",
 
-		"outerColor": [128, 8, 0],
-		"innerColor": [255, 204, 0],
+		"outerColor": [212, 0, 0],
+		"innerColor": [255, 189, 3],
 		
 		"uniqueName": "Holy See",
 		"uniques": ["Unhappiness from number of Cities doubled", "Gain [100] [Faith] <upon constructing [Wonders] [in capital]>", "Allied City-States provide [Faith] equal to [100]% of what they produce for themselves"],

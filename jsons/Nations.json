@@ -1006,7 +1006,7 @@
 		"afterPeace": "What do you want, you vile beast?",
 		"tradeRequest": "This offer is blessed, you should accept it!",
 
-		"outerColor": [204, 204, 204],
+		"outerColor": [210, 40, 40],
 		"innerColor": [255, 189, 3],
 		
 		"uniqueName": "Holy See",

@@ -1007,7 +1007,7 @@
 		"tradeRequest": "This offer is blessed, you should accept it!",
 
 		"outerColor": [255, 255, 255],
-		"innerColor": [255, 189, 3],
+		"innerColor": [178, 132, 2],
 		
 		"uniqueName": "Holy See",
 		"uniques": ["Unhappiness from number of Cities doubled", "Gain [100] [Faith] <upon constructing [Wonders] [in capital]>", "Allied City-States provide [Faith] equal to [100]% of what they produce for themselves"],

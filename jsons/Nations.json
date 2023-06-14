@@ -1010,7 +1010,7 @@
 		"innerColor": [255, 204, 0],
 		
 		"uniqueName": "Holy See",
-		"uniques": ["Unhappiness from number of Cities doubled", "Gain [100] [Faith] <upon constructing [Wonders] [in capital]>", "[+2 Gold, +2 Faith] from every [6] global followers [in City-State cities]"],
+		"uniques": ["Unhappiness from number of Cities doubled", "Gain [100] [Faith] <upon constructing [Wonders] [in capital]>", "Allied City-States provide [Faith] equal to [100]% of what they produce for themselves"],
 		"cities": ["Rome", "Benevento", "Ravenna", "Avignon", "Bologna", "Ferrara", "Ascoli", "Piacenza", "Rieti", "Assisi", "Orvieto", "Rimini", "Todi", "Viterbo"]
 	},
 

@@ -1016,7 +1016,7 @@
 	},
 	{				
 		"name": "Australia",
-		"leaderName": "Henry Parker",
+		"leaderName": "John Curtin",
 		"adjective": ["Australian"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
@@ -1027,7 +1027,7 @@
 		"declaringWar": "After thorough deliberation, Australia finds itself at a crossroads. Prepare yourself, for war is upon us.",
 		"attacked": "We will mobilize every means of resistance to stop this transgression against our nation!",
 		"defeated": "The principles for which we have fought will survive longer than any nation you could ever build.",
-		"introduction": "The Commonwealth Of Australia greets you, fellow nation. I am Prime Minister Henry Parker and I look forward to cooperate with you!",
+		"introduction": "John Curtin, I speak for the people of Australia as their Prime Minister. We seek sympathetic allies in the fight against the hawks of war.",
 		"neutralHello": "Welcome.",
 		"hateHello": "?",
 		"tradeRequest": "Will you accept this deal?",

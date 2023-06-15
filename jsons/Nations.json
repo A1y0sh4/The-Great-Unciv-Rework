@@ -1008,7 +1008,8 @@
 
 		"outerColor": [188, 46, 46],
 		"innerColor": [255, 219, 67],
-		
+
+		"favoredReligion": "Christianity",
 		"uniqueName": "Holy See",
 		"uniques": ["Unhappiness from number of Cities doubled", "Gain [50] [Faith] <upon constructing [Wonders] [in capital]>", "Allied City-States provide [Faith] equal to [100]% of what they produce for themselves"],
 		"cities": ["Urbs", "Beneventum", "Ravenna", "Avignon", "Bologna", "Ferrara", "Ascoli", "Piacenza", "Rieti", "Assisi", "Orvieto", "Rimini", "Todi", "Viterbo"]
@@ -1034,11 +1035,37 @@
 		"outerColor": [0, 91, 65],
 		"innerColor": [225, 148, 26],
 		
+		"favoredReligion": "Christianity",
 		"uniqueName": "Terra Australis",
 		"uniques": ["[+1 Happiness, +1 Culture] [in all coastal cities]", "[+1 Happiness, +1 Culture] [in all cities] <within [3] tiles of a [Natural Wonder]>"],
 		"cities": ["Canberra", "Sydney", "Perth", "Melbourne", "Brisbane", "Adelaide", "Darwin", "Hobart", "Wollongong", "Mackay", "Townsville", "Cairns", "Dampier", "Alice Springs", "Bathurst", "Queanbeyan", "Bundaberg", "Coffs Harbor", "Fremantle", "Gladstone", "Goulburn", "Hervey Bay", "Kalgoorlie"]
 	},
-
+	{
+		"name": "Canada",
+		"leaderName": "Wilfrid Laurier",
+		"adjective": ["Canadian"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Diplomatic",
+		
+                "startIntroPart1": " ",
+		"startIntroPart2": " ",
+		
+		"declaringWar": "In responding to the unstinting malignancy that has heretofore defined your relationship with Canada, we can have no recourse but war!",
+		"attacked": "As we can reach no peaceful resolution with you, Canada must turn, with reluctance, to war.",
+		"defeated": "I regret not defending my country to the last, although it was not of use.",
+		"introduction": "On behalf of the people of Canada, welcome. I am Prime Minister Laurier.",
+		"neutralHello": "Greetings.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		
+		"outerColor": [255, 255, 255],
+		"innerColor": [255, 0, 0],
+		
+                "favoredReligion": "Christianity",
+		"uniqueName": "From Sea to Sea",
+		"uniques": ["[+1 Production, +1 Culture] from every [Tundra]", "[-25]% Culture cost of natural border growth [in all cities]"],
+		"cities": ["Ottawa", "Toronto", "Montreal", "Vancouver", "Calgary", "Edmonton", "Winnipeg", "Quebec City", "Hamilton", "Kitchener", "Laval", "London", "Victoria", "Halifax", "Oshawa", "Windsor", "Saskatoon", "St. Catharines", "Regina", "St. John's", "Kelowna"]
+	},
 
 	// City-States sorted by cityStateType, name
 	{
@@ -1104,20 +1131,6 @@
 		"innerColor": [185,132,66],
 		"cities": ["Milan"]
 	},
-	{
-		"name": "Quebec City",
-		"adjective": ["Québécois"],
-		"cityStateType": "Cultured",
-		"startBias": ["Coast"],
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We were too weak to protect ourselves...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [51,102,0],
-		"cities": ["Quebec City"]
-	},
-
 	{
 		"name": "Cape Town",
 		"adjective": ["Cape Town"],

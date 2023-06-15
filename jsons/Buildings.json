@@ -375,7 +375,7 @@
 		"hurryCostModifier": 25,
 		"science": 1,
 		"faith": 2,
-		"uniques": ["[+10]% Great Person generation [in this city]"]
+		"uniques": ["[Gold] cost of purchasing items in cities [-5]%"]
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy"
 	},
@@ -387,7 +387,7 @@
 		"hurryCostModifier": 25,
 		"happiness": 1,
 		"faith": 2,
-		"uniques": ["[+5]% Natural religion spread [in all cities]", "[Faith] cost of purchasing [All] buildings [-5]%"]
+		"uniques": ["[Faith] cost of purchasing items in cities [-5]%"]
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy"
 	},

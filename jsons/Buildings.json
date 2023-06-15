@@ -987,6 +987,7 @@
 		"name": "Sugar shack",
 		"replaces": "Windmill",
 		"uniqueTo": "Canada",
+		"cost": 200,
 		"production": 2,
 		"percentStatBonus": {"production": 10},
 		"specialistSlots": {"Engineer": 1},

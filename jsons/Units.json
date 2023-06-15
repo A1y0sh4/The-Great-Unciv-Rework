@@ -1246,7 +1246,7 @@
 		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Marine",
 		"obsoleteTech": "Pharmaceuticals",
-		"uniques": ["[+1] Sight <in [Water] tiles>"],
+		"uniques": ["[+1] Sight <when [Embarked]>"],
 		"promotions": ["Amphibious", "[Digger] ability"],
 		"attackSound": "shot"
 	},

@@ -1210,20 +1210,6 @@
 		"cities": ["Ur"]
 	},
 	{
-		"name": "Vancouver",
-		"translatedName": "Vancouver",
-		"adjective": ["Vancouverite"],
-		"cityStateType": "Maritime",
-		"startBias": ["Coast"],
-
-		"declaringWar": "In responding to the unstinting malignancy that has heretofore defined your relationship with Canada, we can have no recourse but war!",
-		"attacked": "As we can reach no peaceful resolution with you, Canada must turn, with reluctance, to war.",
-		"defeated": "I regret not defending my country to the last, although it was not of use.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [0,255,128],
-		"cities": ["Vancouver"]
-	},
-	{
 		"name": "Venice",
 		"adjective": ["Venetian"],
 		"cityStateType": "Mercantile",

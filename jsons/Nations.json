@@ -1036,7 +1036,7 @@
 		
 		"uniqueName": "Terra Australis",
 		"uniques": ["[+1 Happiness, +1 Culture] [in all coastal cities]", "[+1 Happiness, +1 Culture] [in all cities] <within [3] tiles of a [Natural Wonder]>"],
-		"cities": ["Canberra", "Melbourne", "Sydney", "Perth", "Brisbane", "Adelaide", "Darwin", "Hobart", "Wollongong", "Mackay", "Townsville", "Cairns", "Dampier", "Alice Springs", "Bathurst", "Queanbeyan", "Bundaberg", "Coffs Harbor", "Fremantle", "Gladstone", "Goulburn", "Hervey Bay", "Kalgoorlie"]
+		"cities": ["Canberra", "Sydney", "Perth", "Melbourne", "Brisbane", "Adelaide", "Darwin", "Hobart", "Wollongong", "Mackay", "Townsville", "Cairns", "Dampier", "Alice Springs", "Bathurst", "Queanbeyan", "Bundaberg", "Coffs Harbor", "Fremantle", "Gladstone", "Goulburn", "Hervey Bay", "Kalgoorlie"]
 	},
 
 

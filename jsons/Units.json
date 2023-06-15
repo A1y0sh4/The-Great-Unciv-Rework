@@ -1236,6 +1236,21 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Digger",
+		"unitType": "Gunpowder",
+		"replaces": "Great War Infantry",
+		"uniqueTo": "Australia",
+		"movement": 2,
+		"strength": 50,
+		"cost": 320,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Marine",
+		"obsoleteTech": "Pharmaceuticals",
+		"uniques": ["[+1] Sight <in [Water] tiles>"],
+		"promotions": ["Amphibious", "[Digger] ability"],
+		"attackSound": "shot"
+	},
+	{
 		"name": "Foreign Legion",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",

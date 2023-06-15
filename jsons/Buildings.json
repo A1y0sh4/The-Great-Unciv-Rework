@@ -771,7 +771,7 @@
 		"culture": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 1},
-		"uniques": ["Gain a free [Castle] [in this city]", "[-20]% Unhappiness from [Population] [in all cities] <during a Golden Age>", "[+50]% Golden Age length <when not at war>"],
+		"uniques": ["Gain a free [Castle] [in this city]", "Gain [100] [Gold] <upon constructing [Wonders] [in all cities]>", "Gain [100] [Culture] <upon gaining a [Great Person] unit>"],
 		"requiredBuilding": "Palace",
 		"requiredTech": "Chivalry",
 		"quote": "'If heaven can be on the face of the earth,\nIt is this, it is this, it is this.' - Amir Khusrow"

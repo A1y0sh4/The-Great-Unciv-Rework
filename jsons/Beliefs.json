@@ -238,7 +238,7 @@
     {
         "name": "Papal Primacy",
         "type": "Founder",
-        "uniques": ["Resting point for Influence with City-States following this religion [+30]"]
+        "uniques": ["Resting point for Influence with City-States following this religion [+15]"]
     },
     {
         "name": "Peace Loving",

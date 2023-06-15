@@ -476,10 +476,10 @@
         "priorities": {
             "Neutral": 30,
             "Cultural": 50,
-            "Diplomatic": 40,
+            "Diplomatic": 50,
             "Domination": 30,
             "Scientific": 40,
-	    "Religious": 30
+	    "Religious": 40
         },
         "uniques": [
             "[+25]% Great Person generation [in all cities]",
@@ -614,7 +614,7 @@
             "Cultural": 30,
             "Diplomatic": 40,
             "Domination": 30,
-            "Scientific": 40,
+            "Scientific": 50,
 	    "Religious": 30
         },
         "uniques": [

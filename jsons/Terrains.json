@@ -474,14 +474,16 @@
 	{
 		"name": "Chocolate Hills",
 		"type": "NaturalWonder",
-		"food": 1,
+		"food": -1,
 		"culture": 1,
 		"science": 2,
+		"production": 2,
 		"occursOn": ["Grassland", "Plains"],
 		"uniques": ["Must be adjacent to [0] to [5] [Coast] tiles",
 			"Must be adjacent to [0] to [2] [Hill] tiles",
 			"Must be adjacent to [0] [Mountain] tiles", "Must not be on [1] largest landmasses", "Only [All Road] improvements may be built on this tile", "Tile provides yield without assigned population"],
-		"turnsInto": "Hill",
+		"turnsInto": "Grassland",
+		"defenceBonus": 0.25,
 		"impassable": false,
 		"unbuildable": true,
 		"weight": 15

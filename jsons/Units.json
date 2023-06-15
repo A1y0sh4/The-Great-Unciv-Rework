@@ -1250,6 +1250,7 @@
 		"promotions": ["Amphibious", "[Digger] ability"],
 		"attackSound": "shot"
 	},
+	
 	{
 		"name": "Foreign Legion",
 		"unitType": "Gunpowder",
@@ -1305,6 +1306,20 @@
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Peacekeeper",
+		"unitType": "Scout",
+		"replaces": "Infantry",
+		"uniqueTo": "Canada",
+		"movement": 2,
+		"strength": 70,
+		"cost": 350,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>", "May enter foreign tiles without open borders"],
 		"attackSound": "shot"
 	},
 	{

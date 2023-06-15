@@ -859,7 +859,7 @@
         },
 	{
                 "name": "[Digger] ability",
-                "uniques": ["Invisible to non-adjacent units <in [Water] tiles>", "[1] Movement point cost to disembark"]
+                "uniques": ["Invisible to non-adjacent units <when [Embarked]>", "[1] Movement point cost to disembark"]
         },
 	{
 		"name": "Barbarian",

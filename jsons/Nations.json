@@ -1063,8 +1063,8 @@
 		
                 "favoredReligion": "Christianity",
 		"uniqueName": "Canadian Expeditionary Force",
-		"uniques": ["Resting point for Influence with City-States is increased by [15] <when not at war>", "Gain [10] Influence with a [Peacekeeper] gift to a City-State", "Allied City-States provide [Culture] equal to [100]% of what they produce for themselves"],
-		"cities": ["Ottawa", "Toronto", "Montreal", "Vancouver", "Calgary", "Edmonton", "Winnipeg", "Quebec City", "Hamilton", "Kitchener", "Laval", "London", "Victoria", "Halifax", "Oshawa", "Windsor", "Saskatoon", "St. Catharines", "Regina", "St. John's", "Kelowna"]
+		"uniques": ["Resting point for Influence with City-States is increased by [15] <when not at war>", "Allied City-States provide [Culture] equal to [100]% of what they produce for themselves", "Gain [10] Influence with a [Peacekeeper] gift to a City-State"],
+		"cities": ["Ottawa", "Toronto", "Montreal", "Vancouver", "Winnipeg", "Quebec City", "Hamilton", "Halifax", "Victoria", "Windsor", "Kingston", "Brantford", "Regina", "St. John's", "Calgary", "Saskatoon", "Sault Sainte Marie", "Saint-Lin", "Whitehorse", "Thunder Bay"]
 	},
 
 	// City-States sorted by cityStateType, name

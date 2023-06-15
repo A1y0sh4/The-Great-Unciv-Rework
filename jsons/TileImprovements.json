@@ -293,7 +293,7 @@
 		"turnsToBuild": 8,
 		"uniques": ["Improvement", "Cannot be built on [Resource] tiles",
 			"[+1 Food] for each adjacent [Pasture]",
-			"[+1 Production] for each adjacent [Pasture] <after discovering [Steam Power]>",
+			"[+1 Production] for each adjacent [Pasture] <after discovering [Economy]>",
 			"Pillaging this improvement yields approximately [+10 Gold]", "Constructing it will take over the tiles around it and assign them to your closest city <in [Desert] tiles>"],
 		"techRequired": "Guilds",
 		"shortcutKey": "O"

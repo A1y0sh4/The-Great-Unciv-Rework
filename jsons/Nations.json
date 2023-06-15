@@ -1062,8 +1062,8 @@
 		"innerColor": [255, 0, 0],
 		
                 "favoredReligion": "Christianity",
-		"uniqueName": "From Sea to Sea",
-		"uniques": ["[+1 Production, +1 Culture] from every [Tundra]", "[-25]% Culture cost of natural border growth [in all cities]"],
+		"uniqueName": "Canadian Expeditionary Force",
+		"uniques": ["Resting point for Influence with City-States is increased by [15] <when not at war>", "Gain [10] Influence with a [military units] gift to a City-State", "Allied City-States provide [Culture] equal to [100]% of what they produce for themselves"],
 		"cities": ["Ottawa", "Toronto", "Montreal", "Vancouver", "Calgary", "Edmonton", "Winnipeg", "Quebec City", "Hamilton", "Kitchener", "Laval", "London", "Victoria", "Halifax", "Oshawa", "Windsor", "Saskatoon", "St. Catharines", "Regina", "St. John's", "Kelowna"]
 	},
 

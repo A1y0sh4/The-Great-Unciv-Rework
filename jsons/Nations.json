@@ -1013,6 +1013,31 @@
 		"uniques": ["Unhappiness from number of Cities doubled", "Gain [50] [Faith] <upon constructing [Wonders] [in capital]>", "Allied City-States provide [Faith] equal to [100]% of what they produce for themselves"],
 		"cities": ["Urbs", "Beneventum", "Ravenna", "Avignon", "Bologna", "Ferrara", "Ascoli", "Piacenza", "Rieti", "Assisi", "Orvieto", "Rimini", "Todi", "Viterbo"]
 	},
+	{				
+		"name": "Australia",
+		"leaderName": "Henry Parker",
+		"adjective": ["Australian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+		
+		"declaringWar": "After thorough deliberation, Australia finds itself at a crossroads. Prepare yourself, for war is upon us.",
+		"attacked": "We will mobilize every means of resistance to stop this transgression against our nation!",
+		"defeated": "The principles for which we have fought will survive longer than any nation you could ever build.",
+		"introduction": "The Commonwealth Of Australia greets you, fellow nation. I am Prime Minister Henry Parker and I look forward to cooperate with you!",
+		"neutralHello": "Welcome.",
+		"hateHello": "?",
+		"tradeRequest": "Will you accept this deal?",
+		
+		"outerColor": [0, 91, 65],
+		"innerColor": [225, 148, 26],
+		
+		"uniqueName": "Terra Australis",
+		"uniques": ["[+1 Happiness, +1 Culture] [in all coastal cities]", "[+1 Happiness, +1 Culture] [in all cities] <within [3] tiles of a [Natural wonder]>"],
+		"cities": ["Canberra", "Melbourne", "Sydney", "Perth", "Brisbane", "Adelaide", "Darwin", "Hobart", "Wollongong", "Mackay", "Townsville", "Cairns", "Dampier", "Alice Springs", "Bathurst", "Queanbeyan", "Bundaberg", "Coffs Harbor", "Fremantle", "Gladstone", "Goulburn", "Hervey Bay", "Kalgoorlie"]
+	},
 
 
 	// City-States sorted by cityStateType, name
@@ -1157,19 +1182,6 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [211, 220, 103],
 		"cities": ["Rio de Janeiro"]
-	},
-	{
-		"name": "Sydney",
-		"adjective": ["Sydney"],
-		"cityStateType": "Maritime",
-		"startBias": ["Coast"],
-
-		"declaringWar": "After thorough deliberation, Australia finds itself at a crossroads. Prepare yourself, for war is upon us.",
-		"attacked": "We will mobilize every means of resistance to stop this transgression against our nation!",
-		"defeated": "The principles for which we have fought will survive longer than any nation you could ever build.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [255,204,204],
-		"cities": ["Sydney"]
 	},
 	{
 		"name": "Ur",

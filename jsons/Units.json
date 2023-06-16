@@ -1319,7 +1319,7 @@
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
-		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>", "May enter foreign tiles without open borders"],
+		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>", "[-20]% Strength <when fighting in [Foreign Land] tiles>", "May enter foreign tiles without open borders"],
 		"attackSound": "shot"
 	},
 	{

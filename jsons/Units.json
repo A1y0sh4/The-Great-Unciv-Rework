@@ -606,6 +606,20 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Impi", 
+		"replaces": "Pikeman",
+		"uniqueTo": "Zulu",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 14,
+		"cost": 60,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+50]% Strength <vs [Gunpowder] units>", "Heals [15] damage if it kills a unit"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Galleass",
 		"unitType": "Ranged Water",
 		"movement": 3,

@@ -1093,7 +1093,33 @@
 			"KwaHlomendlini","Hlobane","eThekwini","Mlambongwenya","Eziqwaqweni","Isiphezi","Masotsheni","Mtunzini","Nyakamubi","Dumazulu",
 			"Hlatikulu","Mthonjaneni","Empangeni","Pongola","Tugela","Kwamashu","Ingwavuma","Hlulhluwe","Matubatuba","Mhlahlandlela",
 			"Mthatha","Maseru","Lobamba","Qunu"]
-	},	       
+	},
+	{
+		"name": "Brazil",
+		"leaderName": "Pedro II",
+		"adjective": ["Brazilian"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "I have to do this, for the sake of progress if nothing else. You must be opposed!",
+		"attacked": "You can see how fruitless this will be for you... right?",
+		"defeated": "May God grant me these last wishes - peace and prosperity for Brazil.",
+		"introduction": "I am Pedro, Emperor of Brazil. I have little time for pleasantries, what brings you here?",
+		"neutralHello": "Hello.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Should we prosper through commerce?",
+		"outerColor": [107,208,6],
+		"innerColor": [63,106,64],
+		"uniqueName": "Carnival",
+		"uniques": ["[Great Artist] is earned [100]% faster <during a Golden Age>", "[+1 Food] from every [Plantation]"],
+		"cities": ["Rio de Janeiro","Sao Paulo","Salvador","Brasilia","Fortaleza","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
+			"Belém","Goiânia","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina",
+			"Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju",
+			"Feira de Santana","Juiz de Fora","Joinville","Jundiaí"]			
+	},
 
 	// City-States sorted by cityStateType, name
 	{
@@ -1210,19 +1236,6 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [224,224,224],
 		"cities": ["Mogadishu"]
-	},
-	{
-		"name": "Rio de Janeiro",
-		"adjective": ["Carioca"],
-		"cityStateType": "Maritime",
-		"startBias": ["Coast"],
-
-		"declaringWar": "I have to do this, for the sake of progress if nothing else. You must be opposed!",
-		"attacked": "You can see how fruitless this will be for you... right?",
-		"defeated": "May God grant me these last wishes - peace and prosperity for Brazil.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [211, 220, 103],
-		"cities": ["Rio de Janeiro"]
 	},
 	{
 		"name": "Ur",

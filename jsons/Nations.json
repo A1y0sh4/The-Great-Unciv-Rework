@@ -61,6 +61,31 @@
 			"Aden","Yamama","Muscat","Mansura","Bukhara","Shiraz","Merw","Balkh","Mosul",
 			"Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr","Tripoli","Tunis","Kairouan","Algiers","Oran"]
 	},
+	{
+		"name": "Argentina",
+		"leaderName": "Eva Peron",
+		"adjective": ["Argentinan"],
+  		"startBias": ["Grassland"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+		
+		"declaringWar": "Prepare for war!",
+		"attacked": "You shall regret this!",
+		"defeated": "The victory is yours.",
+		"introduction": "Welcome, mighty leader.",
+		"neutralHello": "Greetings.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		
+		"outerColor": [64, 138, 178],
+		"innerColor": [244, 244, 86],
+		
+		"uniqueName": "Land Rush",
+		"uniques": ["[+1] population in a random city <upon constructing [Production]> <with [33]% chance>", "[-30]% tile improvement construction time"],
+		"cities": ["Buenos Aires","La Plata","Catamarca","Cordoba","Formosa","San Juan","Posadas","San Luis","Parana","Salta","Neeuquen","Jujuy","La Rioja","Santa Fe", "Río Gallegos", "Ushuaia"]
+	},
 	{				
 		"name": "Australia",
 		"leaderName": "John Curtin",

@@ -156,7 +156,7 @@
 	},
 	{
 		"name": "Atlatlist",
-		"unitType": "Archery",
+		"unitType": "Scout",
 		"movement": 2,
 		"strength": 5,
 		"rangedStrength": 8,
@@ -1334,6 +1334,20 @@
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
 		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>", "[-20]% Strength <when fighting in [Foreign Land] tiles>", "May enter foreign tiles without open borders"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Jungle Brigades", 
+		"unitType": "Scout",
+		"uniqueTo": "Brazil",
+		"movement": 2,
+		"strength": 70,
+		"cost": 375,
+		"requiredTech": "Plastics",
+		"uniques": ["[+50]% Strength <vs [Barbarian] units>"],
+		"promotions": ["Survivalism I", "Survivalism I"],
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
 	},
 	{

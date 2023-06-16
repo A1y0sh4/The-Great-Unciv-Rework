@@ -1195,6 +1195,22 @@
 		"attackSound": "horse"
 	},
 	{
+		"name": "Llanero",
+		"replaces": "Cavalry",
+		"uniqueTo": "Gran Colombia",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 34,
+		"cost": 220,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"upgradesTo": "Landship",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Ignores Zone of Control", "[+20]% Strength <when adjacent to a [Llanero] unit>"],
+		"promotions": ["Shock I"],
+		"attackSound": "horse"
+	},
+	{
 		"name": "Ironclad",
 		"unitType": "Melee Water",
 		"movement": 3,

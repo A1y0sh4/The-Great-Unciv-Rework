@@ -551,6 +551,34 @@
 			"Recklinghausen","Gצttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"]
 	},
 	{
+		"name": "Gran Colombia",
+		"leaderName": "Simon Boli­var",
+		"adjective": ["Gran Colombian"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		
+		"declaringWar": "Your tyranny, if unchecked, dooms the world to darkness, and for this reason I must declare war on you.",
+		"attacked": "Recourse to war is regrettable, but necessary, when dealing with vipers like you.",
+		"defeated": "Everything I have done, I did for the nation of Gran Colombia. I remain a patriot to the very end.",
+		"introduction": "I, President Simon Bolivar, welcome you to Gran Colombia.",
+		"neutralHello": "Excellent!",
+		"hateHello": "Tyrant!",
+		"tradeRequest": "I send to you a delegation of my finest horsemen. Will you let them in?",
+		
+		"outerColor": [1,42,108],
+		"innerColor": [245,217,0],
+		
+		"uniqueName": "Ejército Patriota",
+		"uniques": ["[+2] Movement <for [non-air] units>"],
+		"cities": ["Bogotá","Caracas","Quito","Valencia De Carabobo","Cali","Medellín","Maracaibo","Cumaná","Guayaquil","Panamá",
+			"Cartagena de Indias","Popayán","Cuenca","Barinas","Santa Marta","Loja","Angostura","Pasto","Nueva Barcelona","Neiva",
+			"Mérida","Portoviejo","Riobamba","Ibarra","Riohacha","Quibdó","Nueva Pamplona","Santiago de Veraguas","La Asunción","Achaguas",
+			"Honda","Socorro","Mompós","Trujillo","Santa Fe de Antioquia","Pore","Cúcuta","Mariquita","San Fernando de Apure","Barquisimeto"]
+	},
+	{
 		"name": "Greece",
 		"leaderName": "Alexander",
 		"adjective": ["Greek"],

@@ -1337,7 +1337,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Jungle Brigades", 
+		"name": "Jungle Brigade", 
 		"unitType": "Scout",
 		"replaces": "Infantry",
 		"uniqueTo": "Brazil",

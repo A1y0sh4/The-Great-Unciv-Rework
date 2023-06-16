@@ -554,6 +554,7 @@
 		"name": "Gran Colombia",
 		"leaderName": "Simon Boli­var",
 		"adjective": ["Gran Colombian"],
+		"startBias": ["Jungle"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",

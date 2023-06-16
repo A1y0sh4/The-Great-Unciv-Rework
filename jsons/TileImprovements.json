@@ -298,6 +298,20 @@
 		"techRequired": "Guilds",
 		"shortcutKey": "O"
 	},
+	{
+		"name": "Hacienda",
+		"uniqueTo": "Gran Colombia",
+		"food": 1,
+		"gold": 1,
+		"turnsToBuild": 7,
+		"terrainsCanBeBuiltOn": ["Grassland", "Plains"],
+		"uniques": ["Improvement", "Cannot be built on [Resource] tiles",
+			"[+1 Gold] for each adjacent [Plantation]",
+			"[+1 Production] for each adjacent [Plantation] <after discovering [Replaceable Parts]>",
+			"Pillaging this improvement yields approximately [+10 Gold]"],
+		"techRequired": "Economics",
+		"shortcutKey": "H"
+	},
 	
 	// Unbuildable improvements
 	{

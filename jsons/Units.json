@@ -1179,6 +1179,21 @@
 		"attackSound": "horse"
 	},
 	{
+		"name": "Gaucho",
+		"replaces": "Cavalry",
+		"uniqueTo": "Argentina",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 34,
+		"cost": 200,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"upgradesTo": "Landship",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "May withdraw before melee ([50]%)", "Can instantly construct a [Pasture] improvement <once>"],
+		"attackSound": "horse"
+	},
+	{
 		"name": "Ironclad",
 		"unitType": "Melee Water",
 		"movement": 3,

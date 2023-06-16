@@ -573,7 +573,7 @@
 		"innerColor": [245,217,0],
 		
 		"uniqueName": "Ejército Patriota",
-		"uniques": ["All newly-trained [relevant] units [in all cities] receive the [Pride] promotion", "Free [Great General] appears <upon declaring war with a major Civilization> <with [50]% chance>"],
+		"uniques": ["All newly-trained [relevant] units [in all cities] receive the [Pride] promotion", "Free [Great General] appears <upon declaring war with a major Civilization> <with [33]% chance>", "Free Social Policy <upon gaining a [Great General] unit>"],
 		"cities": ["Bogotá","Caracas","Quito","Valencia De Carabobo","Cali","Medellín","Maracaibo","Cumaná","Guayaquil","Panamá",
 			"Cartagena de Indias","Popayán","Cuenca","Barinas","Santa Marta","Loja","Angostura","Pasto","Nueva Barcelona","Neiva",
 			"Mérida","Portoviejo","Riobamba","Ibarra","Riohacha","Quibdó","Nueva Pamplona","Santiago de Veraguas","La Asunción","Achaguas",

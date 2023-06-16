@@ -1088,7 +1088,7 @@
 		"innerColor": [116,55,25],
 		
 		"uniqueName": "Iklwa",
-		"uniques": ["[-50]% maintenance costs <for [Melee] units>", "[25]% XP gained from combat <for [Military] units>", "[+10] HP when healing <for [Sword] units> <when at war>"],
+		"uniques": ["[-50]% maintenance costs <for [Melee] units>", "[25]% XP gained from combat <for [Military] units>", "[+10] HP when healing <for [{Military} {Land}] units> <in [Friendly Land] tiles> <when at war>"],
 		"cities": ["Ulundi","Umgungundlovu","Bulawayo","KwaDukuza","Nongoma","oNdini","Nodwengu","Ndonakusuka","Babanango","Khangela",
 			"KwaHlomendlini","Hlobane","eThekwini","Mlambongwenya","Eziqwaqweni","Isiphezi","Masotsheni","Mtunzini","Nyakamubi","Dumazulu",
 			"Hlatikulu","Mthonjaneni","Empangeni","Pongola","Tugela","Kwamashu","Ingwavuma","Hlulhluwe","Matubatuba","Mhlahlandlela",

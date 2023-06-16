@@ -86,7 +86,7 @@
 		"innerColor": [244, 244, 86],
 		
 		"uniqueName": "Land Rush",
-		"uniques": ["[+1] population in a random city <upon constructing [Production]> <with [33]% chance>", "[-50]% Food consumption by specialists [in all cities]"],
+		"uniques": ["[+1] population in a random city <upon constructing [Production]> <with [33]% chance>", "[-50]% Food consumption by specialists [in capital]"],
 		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Catamarca","Formosa","San Juan","San Luis","Posadas","Parana","Salta","Neeuquen","Jujuy","La Rioja","Santa Fe","Río Gallegos","Ushuaia"]
 	},
 	{				

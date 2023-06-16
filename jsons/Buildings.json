@@ -323,6 +323,21 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
+		"name": "Livestock Farm", 
+		"replaces": "Stable",
+		"uniqueTo": "Argentina",
+		"maintenance": 1,
+		"production": 1,
+		"percentStatBonus": {"food": 10},
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"hurryCostModifier": 25,
+		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
+			"[+1 Production, +1 Gold] from [Cattle] tiles [in this city]",
+			"[+1 Production, +1 Gold] from [Horses] tiles [in this city]",
+			"[+1 Production, +1 Gold] from [Sheep] tiles [in this city]"],
+		"requiredTech": "Horseback Riding"
+	},
+	{
 		"name": "Circus Maximus",
 		"cost": 125,
 		"happiness": 5,

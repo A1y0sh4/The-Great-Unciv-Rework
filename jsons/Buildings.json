@@ -169,6 +169,16 @@
 		"requiredTech": "Trapping"
 	},
 	{
+		"name": "Street Carnival",
+		"replaces": "Circus", 
+		"uniqueTo": "Brazil",
+		"happiness": 2,
+		"culture": 1,
+		"uniques": ["[+50]% Great Person generation [in this city] <during a Golden Age>"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Trapping"
+	},
+	{
 		"name": "Water Mill",
 		"maintenance": 2,
 		"food": 2,

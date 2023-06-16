@@ -84,7 +84,7 @@
 		
 		"uniqueName": "Land Rush",
 		"uniques": ["[+1] population in a random city <upon constructing [Production]> <with [33]% chance>", "[-30]% tile improvement construction time"],
-		"cities": ["Buenos Aires","La Plata","Catamarca","Cordoba","Formosa","San Juan","Posadas","San Luis","Parana","Salta","Neeuquen","Jujuy","La Rioja","Santa Fe", "Río Gallegos", "Ushuaia"]
+		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Catamarca","Formosa","San Juan","San Luis","Posadas","Parana","Salta","Neeuquen","Jujuy","La Rioja","Santa Fe","Río Gallegos","Ushuaia"]
 	},
 	{				
 		"name": "Australia",

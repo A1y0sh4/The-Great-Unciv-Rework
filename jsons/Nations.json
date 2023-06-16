@@ -714,7 +714,7 @@
 		"outerColor": [214,145,19],
 		"innerColor": [90,0,10],
 		"uniqueName": "River Warlord",
-		"uniques": ["[Land] units gain the [Amphibious] promotion", "[+2 Gold, +1 Faith] from every [Mine] <in [Desert] tiles>", "May buy [Gold] buildings with [Faith] for [2] times their normal Production cost"],
+		"uniques": ["[Land] units gain the [Amphibious] promotion", "[-1 Production, +3 Gold] from every [Mine]", "May buy [Gold] buildings with [Faith] for [2] times their normal Production cost"],
 		"cities": ["Gao","Tombouctu","Jenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
 			"Kebbi","Boussa","Motpi","Bamako","Wa","Kayes","Awdaghost","Ouadane","Dakar","Tadmekket","Tekedda","Kano",
 			"Agadez","Niamey","Torodi","Ouatagouna","Dori","Bamba","Segou"]

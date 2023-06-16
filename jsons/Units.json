@@ -1206,7 +1206,7 @@
 		"obsoleteTech": "Combustion",
 		"upgradesTo": "Landship",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Ignores Zone of Control", "[+20]% Strength <when adjacent to a [Llanero] unit>", "[-50]% maintenance costs"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Ignores Zone of Control", "[-50]% maintenance costs", "[+20]% Strength <when adjacent to a [Llanero] unit>"],
 		"attackSound": "horse"
 	},
 	{

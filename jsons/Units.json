@@ -1339,6 +1339,7 @@
 	{
 		"name": "Jungle Brigades", 
 		"unitType": "Scout",
+		"replaces": "Infantry",
 		"uniqueTo": "Brazil",
 		"movement": 2,
 		"strength": 70,

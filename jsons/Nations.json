@@ -1021,8 +1021,8 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
 
-		"startIntroPart1": " ",
-		"startIntroPart2": " ",
+		"startIntroPart1": "We owe you much, Right and Honourable John Curtin, Prime Minister of Australia! Before you were thrust into office, your country had suffered years upon years of crippling economic depression and governmental instability, and was faced with the outbreak of war in Europe and rising tensions in the Pacific. When Japanese aggression brought warfare to the nation's borders for the first time in its history, Australia was truly at its darkest hour. But under your leadership, Australia and her allies pushed their would-be invaders back from your shores! Thanks to your ingenious diplomatic and internal policies, Australia emerged from the war more united, more prosperous, and more assertive than ever. Though you tragically would not live to see it, your actions transformed the country into an independent and self.sufficient nation that thrives to this day.",
+		"startIntroPart2": "Prime Minister Curtin, dark clouds brew over Australia once more. The people clamour for your guiding hand to lead them through another time of great turmoil. Will you lead your island home onwards to peace and prosperity? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "After thorough deliberation, Australia finds itself at a crossroads. Prepare yourself, for war is upon us.",
 		"attacked": "We will mobilize every means of resistance to stop this transgression against our nation!",

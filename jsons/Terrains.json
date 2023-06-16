@@ -133,7 +133,7 @@
             "Has an elevation of [2] for visibility calculations",
             "Occurs in chains at high elevations",
             "Units ending their turn on this terrain take [50] damage",
-	    "[+1] to Fertility for Map Generation",
+	    "[+3] to Fertility for Map Generation",
 	    "Base Terrain on this tile is not counted for Region determination",
 	    "Starts in regions of this type receive an extra [Stone]",
 	    "A Region is formed with at least [10]% [Mountain] tiles, with priority [2]",

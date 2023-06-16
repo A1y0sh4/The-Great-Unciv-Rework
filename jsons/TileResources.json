@@ -287,12 +287,38 @@
 		"resourceType": "Luxury",
 		"revealedBy": "Pottery",
 		"terrainsCanBeFoundOn": ["Plains","Desert","Flood plains"],
-		"gold": 1,
+		"faith": 1,
 		"improvement": "Plantation",
+		"improvementStats": {"gold": 2},
 		"uniques": ["Resource", "Generated with weight [35] <in [Desert] Regions>",
 					"Generated with weight [10] <in [Plains] Regions>",
 					"Generated with weight [5] <in [Hybrid] Regions>",
 					"Generated near City States with weight [15]"]
+	},
+	{
+		"name": "Coffee",
+		"resourceType": "Luxury",
+		"revealedBy": "Pottery",
+		"terrainsCanBeFoundOn": ["Grassland","Jungle","Hill"],
+		"gold": 1,
+		"improvement": "Plantation",
+		"improvementStats": {"food": 1},
+		"uniques": ["Resource", "Generated with weight [35] <in [Jungle] Regions>",
+					"Generated with weight [10] <in [Desert] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated near City States with weight [15]"
+		                        "Doesn't generate naturally <in [Tundra] tiles>", "Doesn't generate naturally <in [Plains] tiles>", "Doesn't generate naturally <in [Desert] tiles>"]
+	},
+	{
+		"name": "Tobacco",
+		"resourceType": "Luxury",
+		"revealedBy": "Pottery",
+		"terrainsCanBeFoundOn": ["Grassland","Plains","Jungle"],
+		"faith": 1,
+		"improvement": "Plantation",
+		"improvementStats": {"gold": 2},
+		"uniques": ["Resource", "Generated with weight [25] <in [Jungle] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>"]
 	},
 	{
 		"name": "Ivory",

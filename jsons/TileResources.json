@@ -309,7 +309,8 @@
 		"uniques": ["Resource", "Generated with weight [35] <in [Jungle] Regions>",
 					"Generated with weight [10] <in [Desert] Regions>",
 					"Generated with weight [5] <in [Hybrid] Regions>",
-		                        "Doesn't generate naturally <in [Tundra] tiles>", "Doesn't generate naturally <in [Plains] tiles>", "Doesn't generate naturally <in [Desert] tiles>"]
+		                        "Doesn't generate naturally <in [Tundra] tiles>", "Doesn't generate naturally <in [Plains] tiles>", "Doesn't generate naturally <in [Desert] tiles>",
+		                        "Doesn't generate naturally <in [Tundra] Regions>", "Doesn't generate naturally <in [Desert] Regions>"]
 	},
 	{
 		"name": "Tobacco",
@@ -320,7 +321,9 @@
 		"improvement": "Plantation",
 		"improvementStats": {"gold": 1},
 		"uniques": ["Resource", "Generated with weight [25] <in [Jungle] Regions>",
-					"Generated with weight [5] <in [Hybrid] Regions>"]
+					"Generated with weight [5] <in [Hybrid] Regions>",
+		                        "Doesn't generate naturally <in [Tundra] Regions>", 
+			                "Doesn't generate naturally <in [Desert] Regions>"]
 	},
 	{
 		"name": "Cocoa",
@@ -331,7 +334,9 @@
 		"improvement": "Plantation",
 		"improvementStats": {"gold": 1},
 		"uniques": ["Resource", "Generated with weight [25] <in [Jungle] Regions>",
-					"Generated with weight [5] <in [Hybrid] Regions>"]
+					"Generated with weight [5] <in [Hybrid] Regions>",
+		                        "Doesn't generate naturally <in [Tundra] Regions>",
+			                "Doesn't generate naturally <in [Desert] Regions>"]
 	},
 	{
 		"name": "Ivory",

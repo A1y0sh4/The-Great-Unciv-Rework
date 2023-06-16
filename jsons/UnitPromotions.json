@@ -873,4 +873,20 @@
 		"name": "Climber",
 		"uniques": ["Can pass through impassable tiles", "Double movement in [Hill]"]
 	}
+	{
+		"name": "Buffalo Horns I", // only for Ikanda
+		"uniques": ["[+1] Movement", "[+25]% to Flank Attack bonuses", "[+10]% Strength <when defending> <vs [Ranged] units>"],
+	},
+	{
+		"name": "Buffalo Chest II",
+		"uniques": ["[+10]% Strength <when fighting in [Open terrain] tiles>", "[+25]% to Flank Attack bonuses", "[+10]% Strength <when defending> <vs [Ranged] units>"],
+		"prerequisites": ["Buffalo Horns I"],
+		"unitTypes": ["Sword","Gunpowder"]
+	},
+	{
+		"name": "Buffalo Loins III",
+		"uniques": ["[+10]% Strength", "[+25]% to Flank Attack bonuses", "[+10]% Strength <when defending> <vs [Ranged] units>"],
+		"prerequisites": ["Buffalo Chest II"],
+		"unitTypes": ["Sword","Gunpowder"]
+	},
 ]

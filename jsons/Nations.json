@@ -1066,6 +1066,34 @@
 		"uniques": ["Resting point for Influence with City-States is increased by [15] <when not at war>", "Allied City-States provide [Culture] equal to [100]% of what they produce for themselves", "Gain [10] Influence with a [Peacekeeper] gift to a City-State"],
 		"cities": ["Ottawa", "Toronto", "Montreal", "Vancouver", "Winnipeg", "Quebec City", "Hamilton", "Halifax", "Victoria", "Windsor", "Kingston", "Brantford", "Regina", "St. John's", "Calgary", "Saskatoon", "Sault Sainte Marie", "Saint-Lin", "Whitehorse", "Thunder Bay"]
 	},
+	{
+		"name": "Zulu",
+		"leaderName": "Shaka",
+		"adjective": ["Zulu"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "None will slow our progress, not even you! Prepare for war!",
+		"attacked": "Your arrogance will only lead you to defeat!",
+		"defeated": "My warriors have failed, and so I failed them.",
+		"introduction": "I'm Shaka of Zulu. Don't try to move, warrior, or I'll destroy you.",
+		"neutralHello": "Hail your Majesty!",
+		"hateHello": "You say? What are you doing here?",
+		"tradeRequest": "Approve the closure sell.",
+		
+		"outerColor": [255,247,241],
+		"innerColor": [116,55,25],
+		
+		"uniqueName": "Iklwa",
+		"uniques": ["[-50]% maintenance costs <for [Melee] units>", "[25]% XP gained from combat <for [Military] units>"],
+		"cities": ["Ulundi","Umgungundlovu","Bulawayo","KwaDukuza","Nongoma","oNdini","Nodwengu","Ndonakusuka","Babanango","Khangela",
+			"KwaHlomendlini","Hlobane","eThekwini","Mlambongwenya","Eziqwaqweni","Isiphezi","Masotsheni","Mtunzini","Nyakamubi","Dumazulu",
+			"Hlatikulu","Mthonjaneni","Empangeni","Pongola","Tugela","Kwamashu","Ingwavuma","Hlulhluwe","Matubatuba","Mhlahlandlela",
+			"Mthatha","Maseru","Lobamba","Qunu"]
+	},	       
 
 	// City-States sorted by cityStateType, name
 	{

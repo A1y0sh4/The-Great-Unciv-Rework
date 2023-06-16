@@ -1190,7 +1190,8 @@
 		"obsoleteTech": "Combustion",
 		"upgradesTo": "Landship",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "May withdraw before melee ([50]%)", "Can instantly construct a [Pasture] improvement <once>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Ignores Zone of Control", "May withdraw before melee ([50]%)"],
+		"promotions": ["Shock I"],
 		"attackSound": "horse"
 	},
 	{

@@ -1191,7 +1191,6 @@
 		"upgradesTo": "Landship",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Ignores Zone of Control", "May withdraw before melee ([50]%)"],
-		"promotions": ["Shock I"],
 		"attackSound": "horse"
 	},
 	{

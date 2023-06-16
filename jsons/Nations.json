@@ -21,6 +21,7 @@
 		"neutralHello": "Good day.",
 		"hateHello": "Well?",
 		"tradeRequest": "Is the following trade of interest to you?",
+		"favoredReligion": "Christianity",
 		
 		"outerColor": [ 0, 40, 104],
 		"innerColor": [255, 255, 255],
@@ -52,9 +53,10 @@
 		"hateHello": "Oh, it's you.",
 		"tradeRequest": "Come forth, let's do business.",
 		"favoredReligion": "Islam",
+		
 		"outerColor": [ 41,83,42],
 		"innerColor": [146,221,9],
-		"favoredReligion": "Islam",
+		
 		"uniqueName": "Trade Caravans",
 		"uniques": ["Double quantity of [Oil] produced", "[+2 Faith] from each Trade Route", "[+25]% Natural religion spread [in all cities connected to capital]"],
 		"cities": ["Mecca","Medina","Damascus","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat",
@@ -78,6 +80,7 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "Better hurry, I may change my mind.",
+		"favoredReligion": "Christianity",
 		
 		"outerColor": [64, 138, 178],
 		"innerColor": [244, 244, 86],

@@ -1346,7 +1346,7 @@
 		"cost": 375,
 		"requiredTech": "Plastics",
 		"uniques": ["[+50]% Strength <vs [Barbarian] units>"],
-		"promotions": ["Survivalism I", "Survivalism I"],
+		"promotions": ["Survivalism I", "Survivalism II"],
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"

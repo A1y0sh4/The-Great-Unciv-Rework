@@ -1073,8 +1073,8 @@
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Your people kneel before you, great warrior Shaka of the Zulu Kingdom. As you rose from a place of exile to become the true leader of the Zulus, you ushered in changes throughout the Zulu society, implementing new laws and cultural reforms that strengthened the position of your kingdom. However, it was your tenacity in the art of war that truly established your reputation, as your tactics and strategies on the battlefield forever changed the face of combat across the plains of southern Africa.",
+		"startIntroPart2": "Most formidable king, your people once again long for the unity and strength your leadership afforded them. Can you return the Zulu kingdom to such great prominence? Will you build a civilization that stands the test of time?",
 		
 		"declaringWar": "None will slow our progress, not even you! Prepare for war!",
 		"attacked": "Your arrogance will only lead you to defeat!",
@@ -1101,8 +1101,8 @@
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Cultural",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "All Hail his most respected and magnanimous Emperor, Pedro II of Brazil. It was with great insight and unshakeable dignity that you ruled the Brazilian empire for over 50 years, ushering in a time of lasting peace and prosperity. Your reputation as a stern, but fair leader was never blemished by controversy, as your unwavering dedication to the people of Brazil provided hope and established the kingdom's position in South America. Your scholarly pursuits and staunch defense of freedom of speech led to the creation of several institutions of higher learning, strengthening Brazil's sense of national identity.",
+		"startIntroPart2": "Revered Emperor Pedro, your people long for a return to the peaceful days when you walked among them, hearing their stories and reassuring them of a bright future. Will you once again lead your kingdom to prosperity? Can you build a civilization that stands the test of time?",
 		
 		"declaringWar": "I have to do this, for the sake of progress if nothing else. You must be opposed!",
 		"attacked": "You can see how fruitless this will be for you... right?",
@@ -1111,12 +1111,14 @@
 		"neutralHello": "Hello.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "Should we prosper through commerce?",
+		
 		"outerColor": [107,208,6],
 		"innerColor": [63,106,64],
-		"uniqueName": "Carnival",
-		"uniques": ["[Great Artist] is earned [100]% faster <during a Golden Age>", "[+1 Food] from every [Plantation]"],
-		"cities": ["Rio de Janeiro","Sao Paulo","Salvador","Brasilia","Fortaleza","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
-			"Belém","Goiânia","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina",
+		
+		"uniqueName": "Amazon",
+		"uniques": ["[+1 Food] from every [Plantation]", "[+1 Gold] from every [Jungle]", "[+50]% Yield from every [Jungle] <during a Golden Age>"],
+		"cities": ["Rio de Janeiro", "Sao Paulo", "Salvador", "Brasilia", "Fortaleza", "Belo Horizonte", "Manaus", "Curitiba", "Recife", "Porto Alegre",
+			"Belém", "Goiânia", "Guarulhos", "Campinas", "São Luis", "Maceió", "Duque de Caxias", "Natal", "Campo Grande", "Teresina",
 			"Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju",
 			"Feira de Santana","Juiz de Fora","Joinville","Jundiaí"]			
 	},

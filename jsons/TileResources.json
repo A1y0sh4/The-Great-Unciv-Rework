@@ -220,8 +220,7 @@
 		"improvement": "Camp",
 		"improvementStats": {"gold": 1},
 		"uniques": ["Resource", "Generated with weight [40] <in [Tundra] Regions>",
-					"Generated with weight [20] <in [Forest] Regions>",
-					"Generated near City States with weight [15]"]
+					"Generated with weight [20] <in [Forest] Regions>"]
 	},
 	{
 		"name": "Cotton",
@@ -234,7 +233,6 @@
 		"uniques": ["Resource", "Generated with weight [16] <in [Desert] Regions>",
 					"Generated with weight [16] <in [Grassland] Regions>",
 					"Generated with weight [32] <in [Hybrid] Regions>",
-					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Hill] tiles>"]
 	},
 	{
@@ -311,7 +309,6 @@
 		"uniques": ["Resource", "Generated with weight [35] <in [Jungle] Regions>",
 					"Generated with weight [10] <in [Desert] Regions>",
 					"Generated with weight [5] <in [Hybrid] Regions>",
-					"Generated near City States with weight [15]"
 		                        "Doesn't generate naturally <in [Tundra] tiles>", "Doesn't generate naturally <in [Plains] tiles>", "Doesn't generate naturally <in [Desert] tiles>"]
 	},
 	{

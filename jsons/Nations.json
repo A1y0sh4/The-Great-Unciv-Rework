@@ -1339,6 +1339,21 @@
 		"cities": ["Milan"]
 	},
 	{
+		"name": "Havana",
+		"adjective": ["Havana"],
+		"cityStateType": "Cultured",
+		"startBias": ["Jungle"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,102,102],
+		"cities": ["Havana"]
+	},
+
+	
+	{
 		"name": "Cape Town",
 		"adjective": ["Cape Town"],
 		"cityStateType": "Maritime",
@@ -1404,6 +1419,34 @@
 		"cities": ["Ur"]
 	},
 	{
+		"name": "Santiago de Chile",
+		"adjective": ["Chilean"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,102,102],
+		"cities": ["Santiago de Chile"]
+	},
+	{
+		"name": "Auckland",
+		"adjective": ["New Zelandian"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [45,255,86],
+		"cities": ["Auckland"]
+	},
+
+	
+	{
 		"name": "Venice",
 		"adjective": ["Venetian"],
 		"cityStateType": "Mercantile",
@@ -1416,7 +1459,6 @@
 		"innerColor": [153,204,255],
 		"cities": ["Venice"]
 	},
-
 	{
 		"name": "Antwerp",
 		"adjective": ["Antwerp"],
@@ -1470,6 +1512,19 @@
 		"cities": ["Singapore"]
 	},
 	{
+		"name": "Kilwa",
+		"adjective": ["Kilwanese"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "What a fine battle! Sidon is willing to serve you!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [250,128,114],
+		"cities": ["Kilwa"]
+	},
+	{
 		"name": "Tyre",
 		"adjective": ["Tyrian"],
 		"cityStateType": "Mercantile",
@@ -1509,6 +1564,7 @@
 		"cities": ["Zanzibar"]
 	},
 
+	
 	{
 		"name": "Almaty",
 		"adjective": ["Almaty"],
@@ -1602,6 +1658,7 @@
 		"cities": ["Valletta"]
 	},
 
+	
 	{
 		"name": "Bratislava",
 		"adjective": ["Bratislava"],

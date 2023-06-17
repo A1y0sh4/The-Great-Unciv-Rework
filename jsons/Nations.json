@@ -523,6 +523,34 @@
 			"Le Havre","Lourdes","Cannes","Aix-En-Provence","La Rochelle","Bourges","Calais"]
 	},
 	{
+		"name": "Georgia",
+		"leaderName": "Tamar",
+		"adjective": ["Georgian"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Religious",
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "God fights with us. You stand alone.",
+		"attacked": "Georgian hearts will not tremble before your multitudes.",
+		"defeated": "Walls weren't enough to save Georgia from ruin. And neither was I.",
+		"introduction": "I am Tamar of Georgia. Say what you will and be on your way... unless you wish to admire my walls.",
+		"neutralHello": "Have your say.",
+		"hateHello": "Well? What is it?",
+		"tradeRequest": "Georgian merchants bring many strings of churchkhela. They make a filling dessert.",
+		
+		"outerColor": [255,255,255],
+		"innerColor": [255,153,51],
+		
+		"uniqueName": "Narikala Fortress",
+		"uniques": ["May buy [Walls] buildings for [100] [Faith] [in all cities]", "May buy [Castle] buildings for [150] [Faith] [in all cities]", "[+1 Faith] from every [Mountain]"],
+		"cities": ["Tbilisi", "Kaspi", "Rustavi", "Tskhumi", "Akhalkalaki", "Kutaisi", "Zugdidi", "Batumi", "Gori",
+		"Mtskheta", "Poti", "Telavi", "Akhali Atoni", "Akhaltsikhe", "Bichvinta", "Borjomi", "Dedoplistsqaro", "Dmanisi",
+		"Geguti", "Mutso", "Nicopsia", "Omalo", "Oni", "Tianeti", "Tmogvi", "Tsageri", "Tsalka", "Tskhinvali", "Urbnisi",
+		"Zestafoni"]
+	},
+	{
 		"name": "Germany",
 		"leaderName": "Otto von Bismarck",
 		"adjective": ["German"],

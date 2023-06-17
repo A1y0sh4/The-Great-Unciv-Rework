@@ -1844,6 +1844,15 @@
 		"movement": 2
 	},
 	{
+		"name": "Great Navigator",
+		"unitType": "Civilian",
+		"uniqueTo": "Portugal",
+		"replaces": "Great Merchant",
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [60] Influence",
+			"Can instantly construct a [Customs house] improvement <by consuming this unit>", "[+2] Movement <when [Embarked]>", "[+2] Sight <when [Embarked]>", "Great Person - [Gold]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+	{
 		"name": "Great Engineer",
 		"unitType": "Civilian",
 		"uniques": ["Can speed up construction of a building", "Can instantly construct a [Manufactory] improvement <by consuming this unit>", "Great Person - [Production]", "Unbuildable", "Uncapturable"],

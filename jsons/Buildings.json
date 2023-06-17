@@ -967,7 +967,7 @@
 		"culture": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 2},
-		"uniques": ["Gain a free [Castle] [in this city]", "May buy [Military] units with [Faith] [in this city]", "+30% Strength when fighting City-State units and cities"],
+		"uniques": ["May buy [Military] units with [Faith] [in this city]", "+30% Strength when fighting City-State units and cities"],
 		"requiredTech": "Gunpowder",
 		"quote": "'Bushido is realized in the presence of death. This means choosing death whenever there is a choice between life and death. There is no other reasoning.' - Yamamoto Tsunetomo"
 	},

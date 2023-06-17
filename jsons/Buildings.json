@@ -996,7 +996,7 @@
 {
 		"name": "Nautical School",
 		"replaces": "Seaport",
-		"cost": 160,
+		"cost": 200,
 		"uniqueTo": "Portugal",
 		"hurryCostModifier": 25,
 		"greatPersonPoints": {"Great Merchant": 2},

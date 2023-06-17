@@ -789,6 +789,19 @@
 		"uniques": ["[+10]% [Gold] [in this city] <after discovering [Flight]>", "[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Chivalry"
 	},
+{
+		"name": "Barbican",
+		"cost": 160,
+		"replaces": "Castle",
+		"uniqueTo": "Poland",
+		"cityStrength": 7,
+		"cityHealth": 50,
+		"faith": 2,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"uniques": ["All newly-trained [relevant] units [in this city] receive the [Cover I] promotion", "[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Chivalry"
+	},
 	{
 		"name": "Alhambra",
 		"culture": 1,

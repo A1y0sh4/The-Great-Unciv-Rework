@@ -522,6 +522,38 @@
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
 			"Le Havre","Lourdes","Cannes","Aix-En-Provence","La Rochelle","Bourges","Calais"]
 	},
+	/*
+	//{
+	//	"name": "Georgia",
+	//	"leaderName": "Tamar",
+	//	"adjective": ["Georgian"],
+	//	"startBias": ["Hills"],
+	//	"preferredVictoryType": "Religious",
+	//
+	//	"startIntroPart1": "",
+	//	"startIntroPart2": "",
+	//	
+	//	"declaringWar": "God fights with us. You stand alone.",
+	//	"attacked": "Georgian hearts will not tremble before your multitudes.",
+	//	"defeated": "Walls weren't enough to save Georgia from ruin. And neither was I.",
+	//	"introduction": "I am Tamar of Georgia. Say what you will and be on your way... unless you wish to admire my walls.",
+	//	"neutralHello": "Have your say.",
+	//	"hateHello": "Well? What is it?",
+	//	"tradeRequest": "Georgian merchants bring many strings of churchkhela. They make a filling dessert.",
+	//	
+	//	"outerColor": [255,255,255],
+	//	"innerColor": [255,153,51],
+	//	
+	//	"uniqueName": "Holdfast of the Dragonslayer",
+	//	"uniques": ["Killing an unit provides Faith equal to 50% of its Combat Strenght.","+1 Faith to improved Hills adjacent to Cities","+1 Strenght for units near Mountains"],
+	//	"cities": ["Tbilisi", "Kaspi", "Rustavi", "Tskhumi", "Akhalkalaki", "Kutaisi", "Zugdidi", "Batumi", "Gori",
+	//	"Mtskheta", "Poti", "Telavi", "Akhali Atoni", "Akhaltsikhe", "Bichvinta", "Borjomi", "Dedoplistsqaro", "Dmanisi",
+	//	"Geguti", "Mutso", "Nicopsia", "Omalo", "Oni", "Tianeti", "Tmogvi", "Tsageri", "Tsalka", "Tskhinvali", "Urbnisi",
+	//	"Zestafoni"]
+	//	Unique Unit: Tadzreuli (Knight) - Gains +1 Movement points and earns double Great General points while stacked with a Missionary or Inquisitor. Earns Faith when levelling up
+	//	Unique Building: Tsikhe (Castle) - -20 Production cost, +4 Faith, +2 City Strenght, Cannot be purchased with Gold
+	//},
+	*/
 	{
 		"name": "Germany",
 		"leaderName": "Otto von Bismarck",
@@ -701,6 +733,38 @@
 			"Chondote","Canajoharie","Nedrow","Oneida Lake","Kanonwalohale","Green Bay","Southwold","Mohawk Valley",
 			"Schoharie","Bay of Quinte","Kanawale","Kanatsiokareke","Tyendinaga","Hahta"]
 	},
+	/*
+	//{
+	//	"name": "Italy",
+	//	"leaderName": "Victor Emmanuel III",
+	//	"adjective": ["Italian"],
+	//	"startBias": ["Coast"],
+	//	"preferredVictoryType": "Cultural",
+	//
+	//	"startIntroPart1": "",
+	//	"startIntroPart2": "",
+	//	
+	//	"declaringWar": "I hate to do this, but for the sake of my nations I must fight you.",
+	//	"attacked": "I guess I have no other choice but to prepare my forces, then...",
+	//	"defeated": "How horrible... I had a dream where I were to bring Italy to glory, but instead I have to face this nightmare turned reality...",
+	//	"introduction": "Saluti. I am Victor Emmanuel III, King of Italy and commander of her forces. I pray our nations can get along.",
+	//	"neutralHello": "Buongiorno.",
+	//	"hateHello": "What do you want?",
+	//	"tradeRequest": "Italy offers you this generous deal.",
+	//	
+	//	"outerColor": [0,102,51],
+	//	"innerColor": [255,255,255],
+	//	
+	//	"uniqueName": "March of Ordinance",
+	//	"uniques": ["All units heal 10 HP and produce Culture when defeating an enemy unit within your borders. Coastal cities have +20% military unit production."],
+	//	"cities": ["Rome", "Naples", "Milan", "Turin", "Palermo", "Modena", "Venice", "Brescia", "Genoa", "Vicenza",
+	//		"Florence", "Prato", "Bologna", "Bari", "Catania", "Verona", "Parma", "Livorno", "Cagliari", "Foggia",
+	//		"Salerno", "Forli", "Pisa", "Asti", ""Messina, "Trieste", "Padua", "Siracusa", "Ferrara", "Novara",
+	//		"Rimini", "Taranto", "Perugia", "Latina", "Bergamo", "Pescara", "Monza", "Sassari", "Terni", "Vittoria"]
+	//	Unique Unit: Alpini (Great War Infantry) - +20 Production cost, Ignores Terrain costs when moving, May cross Mountains
+	//	Unique Unit: Andrea Doria (Battleship) - +15% Combat Strenght in Friendly territory. Enemy naval units beginning their turn within two tiles of this Unit must spend 2 extra Movement points
+	//},
+	*/
 	{
 		"name": "Japan",
 		"leaderName": "Oda Nobunaga",

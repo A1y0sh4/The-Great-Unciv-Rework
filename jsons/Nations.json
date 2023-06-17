@@ -848,7 +848,7 @@
 		"name": "Poland",
 		"leaderName": "Sigismund III",
 		"adjective": ["Polish"],
-		"startBias": ["Plains"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Scientific",
 
 		"startIntroPart1": "",

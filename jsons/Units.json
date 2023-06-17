@@ -480,7 +480,7 @@
 	{
 		"name": "Mona-spa",
 		"unitType": "Mounted",
-		"uniqueTo": "Byzantium",
+		"uniqueTo": "Georgia",
 		"replaces": "Horseman",
 		"movement": 4,
 		"strength": 12,

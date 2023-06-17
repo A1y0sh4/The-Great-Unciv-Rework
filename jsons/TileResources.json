@@ -370,17 +370,8 @@
 	{
 		"name": "Spices",
 		"resourceType": "Luxury",
-		"revealedBy": "Pottery",
-		"terrainsCanBeFoundOn": ["Jungle","Forest","Marsh"],
-		"food": 1,
-		"improvement": "Plantation",
-		"improvementStats": {"gold": 1},
-		"uniques": ["Resource", "Generated with weight [33] <in [Jungle] Regions>",
-					"Generated with weight [16] <in [Forest] Regions>",
-					"Generated with weight [5] <in [Hybrid] Regions>",
-					"Generated near City States with weight [15]",
-					"Doesn't generate naturally <in [Hill] tiles>",
-					"Doesn't generate naturally <in [Tundra] [Forest] tiles>"]
+		"gold": 2,
+		"uniques": ["Can only be created by Mercantile City-States"]
 	},
 	{
 		"name": "Wine",

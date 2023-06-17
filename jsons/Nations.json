@@ -541,7 +541,7 @@
 		"tradeRequest": "Georgian merchants bring many strings of churchkhela. They make a filling dessert.",
 		
 		"outerColor": [255,255,255],
-		"innerColor": [255,153,51],
+		"innerColor": [204,122,40],
 		
 		"uniqueName": "Narikala Fortress",
 		"uniques": ["May buy [Walls] buildings for [100] [Faith] [in all cities]", "May buy [Castle] buildings for [150] [Faith] [in all cities]", "[+1 Faith] from every [Mountain]"],

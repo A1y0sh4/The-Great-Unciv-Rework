@@ -993,6 +993,17 @@
 			"Must be next to [Coast]", "[+15]% Production when constructing [Water] units [in this city]", "New [{Water} {Military}] units start with [15] Experience [in this city]"],
 		"requiredTech": "Navigation"
 	},
+{
+		"name": "Nautical School",
+		"replaces": "Seaport",
+		"cost": 160,
+		"uniqueTo": "Portugal",
+		"hurryCostModifier": 25,
+		"greatPersonPoints": {"Great Merchant": 2},
+		"uniques": ["[+1 Production, +1 Gold, +1 Science] from [Water resource] tiles [in this city]",
+			"Must be next to [Coast]", "[+15]% Production when constructing [Water] units [in this city]", "New [{Water} {Military}] units start with [15] Experience [in this city]"],
+		"requiredTech": "Compass"
+	},
 	{
 		"name": "Hermitage",
 		"cost": 125,

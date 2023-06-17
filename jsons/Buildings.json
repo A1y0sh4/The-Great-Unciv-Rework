@@ -219,6 +219,18 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
+		"name": "Tsikhe",
+		"replaces": "Walls",
+		"cost": 75,
+		"uniqueTo": "Georgia",
+		"faith": 1,
+		"cityStrength": 8,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["[+50]% [Faith] [in this city] <during We Love The King Day>", "Destroyed when the city is captured"]
+	},
+	{
 		"name": "The Pyramids",
 		"culture": 1,
 		"greatPersonPoints": {"Great Engineer": 1},

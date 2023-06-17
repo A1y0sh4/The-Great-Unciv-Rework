@@ -385,6 +385,36 @@
 		"weight": 15
 	},
 	{
+		"name": "Mount Roraima",
+		"type": "NaturalWonder",
+		"food": 3,
+		"production": 1,
+		"faith": 1,
+		"science": 1,
+		"occursOn": ["Grassland"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"uniques": ["Fresh water", "Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [4] to [6] [Jungle] tiles",
+			"Tile provides yield without assigned population"],
+		"weight": 15
+	},
+	{
+		"name": "Perito Moreno",
+		"type": "NaturalWonder",
+		"science": 2,
+		"culture": 3,
+		"money": 1,
+		"occursOn": ["Snow"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"uniques": ["Fresh water", "Must be adjacent to [1] to [3] [Mountain] tiles",
+			"Tile provides yield without assigned population"],
+		"weight": 15
+	},
+	{
 		"name": "Fountain of Youth",
 		"type": "NaturalWonder",
 		"happiness": 3,

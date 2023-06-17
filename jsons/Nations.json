@@ -83,7 +83,7 @@
 		"favoredReligion": "Christianity",
 		
 		"outerColor": [116, 172, 223],
-		"innerColor": [244, 244, 86],
+		"innerColor": [246, 180, 14],
 		
 		"uniqueName": "Land Rush",
 		"uniques": ["[+1] population in a random city <upon constructing [Production]> <with [33]% chance>", "[-50]% Food consumption by specialists [in capital]"],

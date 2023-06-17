@@ -1351,8 +1351,34 @@
 		"innerColor": [0,102,102],
 		"cities": ["Havana"]
 	},
-
+	{
+		"name": "Kumasi",
+		"adjective": ["Ghanaian"],
+		"cityStateType": "Cultured",
+		"startBias": ["Flood plains"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You fiend! History shall remember this!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [211, 220, 103],
+		"cities": ["Kumasi"]
+	},
 	
+
+	{
+		"name": "Djibouti",
+		"adjective": ["Djibouti"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You fiend! History shall remember this!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [185,132,66],
+		"cities": ["Djibouti"]
+	},
 	{
 		"name": "Cape Town",
 		"adjective": ["Cape Town"],

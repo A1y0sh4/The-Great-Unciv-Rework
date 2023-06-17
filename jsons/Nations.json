@@ -845,6 +845,33 @@
 			"Paishiyauvada","Patigrbana","Phrada"]
 	},
 	{
+		"name": "Poland",
+		"leaderName": "Sigismund III",
+		"adjective": ["Polish"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		"declaringWar": "I have decided to end you!",
+		"attacked": "My armies will grind you to dust!",
+		"defeated": "Celebrate your victory well...it might be your last one.",
+		"introduction": "I, Sigismund III, welcome you to the lands of the Great Kingdom of Poland.",
+		"neutralHello": "I salute you.",
+		"hateHello": "What are you looking for here?",
+		"tradeRequest": "How do you like my offer?",
+		
+		"outerColor": [241,3,0],
+		"innerColor": [80,11,14],
+		
+		"uniqueName": "Golden Liberty",
+		"uniques": ["May buy [Great Person] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <after discovering [Theology]>", "[+1 Faith, +1 Gold] from every [Farm]"],
+		"cities": ["Warsaw","Kraków","Łódź","Wroclaw","Poznań","Gdansk","Szczecin","Bydgoszcz","Lublin","Kaunas",
+			"Katowice","Białystok","Gdynia","Świdnica","Częstochowa","Radom","Toruń","Kielce","Gliwice","Klaipėda",
+			"Bytom","Olsztyn","Rzeszów","Ruda Śląska","Bielsko-Biala","Rybnik","Płock","Elbląg","Gorzów Wielkopolski","Opole",
+			"Šiauliai","Wałbrzych","Zielona Góra","Włocławek"]
+	},
+	{
 		"name": "Polynesia",
 		"leaderName": "Kamehameha I",
 		"adjective": ["Polynesia"],
@@ -1560,6 +1587,7 @@
 		"innerColor": [198,255,192],
 		"cities": ["Jerusalem"]
 	},
+	/*
 	{
 		"name": "Krakow",
 		"adjective": ["Polish"],
@@ -1573,6 +1601,7 @@
 		"innerColor": [242, 92, 58],
 		"cities": ["Krakow"]
 	},
+	*/
 	{
 		"name": "Kiev",
 		"adjective": ["Rusians"],

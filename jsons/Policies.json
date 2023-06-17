@@ -6,7 +6,7 @@
             "Neutral": 30,
             "Cultural": 30,
             "Diplomatic": 0,
-            "Domination": 0,
+            "Domination": 20,
             "Scientific": 30,
 	    "Religious": 30
         },
@@ -353,7 +353,7 @@
             "Neutral": 0,
             "Cultural": 10,
             "Diplomatic": 30,
-            "Domination": 20,
+            "Domination": 30,
             "Scientific": 30,
 	    "Religious": 30
         },
@@ -413,7 +413,7 @@
             "Neutral": 0,
             "Cultural": 10,
             "Diplomatic": 30,
-            "Domination": 10,
+            "Domination": 20,
             "Scientific": 40,
 	    "Religious": 0
         },

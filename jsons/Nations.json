@@ -736,7 +736,7 @@
 	/*
 	//{
 	//	"name": "Italy",
-	//	"leaderName": "Victor Emmanuel III",
+	//	"leaderName": "Victor Emmanuel II",
 	//	"adjective": ["Italian"],
 	//	"startBias": ["Coast"],
 	//	"preferredVictoryType": "Cultural",
@@ -755,14 +755,14 @@
 	//	"outerColor": [0,102,51],
 	//	"innerColor": [255,255,255],
 	//	
-	//	"uniqueName": "March of Ordinance",
-	//	"uniques": ["All units heal 10 HP and produce Culture when defeating an enemy unit within your borders. Coastal cities have +20% military unit production."],
+	//	"uniqueName": "Risorgimento",
+	//	"uniques": ["+1 Culture to all Production buildings. City-States under siege may surrender without incurring a warmonger penalty upon their capture."],
 	//	"cities": ["Rome", "Naples", "Milan", "Turin", "Palermo", "Modena", "Venice", "Brescia", "Genoa", "Vicenza",
 	//		"Florence", "Prato", "Bologna", "Bari", "Catania", "Verona", "Parma", "Livorno", "Cagliari", "Foggia",
 	//		"Salerno", "Forli", "Pisa", "Asti", ""Messina, "Trieste", "Padua", "Siracusa", "Ferrara", "Novara",
 	//		"Rimini", "Taranto", "Perugia", "Latina", "Bergamo", "Pescara", "Monza", "Sassari", "Terni", "Vittoria"]
-	//	Unique Unit: Alpini (Great War Infantry) - +20 Production cost, Ignores Terrain costs when moving, May cross Mountains
-	//	Unique Unit: Andrea Doria (Battleship) - +15% Combat Strenght in Friendly territory. Enemy naval units beginning their turn within two tiles of this Unit must spend 2 extra Movement points
+	//	Unique Unit: Regio Esercito (Rifleman) - Gains the March Promotion if trained in a city on your home continent, or Blitz when trained in a city on a foreign continent
+	//	Unique Building: Pizzeria (Theater) - No maintenance, +2 Food
 	//},
 	*/
 	{

@@ -1617,6 +1617,19 @@
 		"innerColor": [255,153,255],
 		"cities": ["Zanzibar"]
 	},
+	{
+		"name": "Fez",
+		"adjective": ["Moroccan"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Desert"],
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [27,90,192],
+		"cities": ["Fez"]
+	},
 
 	
 	{

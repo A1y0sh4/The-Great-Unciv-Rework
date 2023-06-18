@@ -711,6 +711,34 @@
 			"Bodhgaya","Kushinagar","Amaravati","Gaur","Gwalior","Jaipur","Karachi"]
 	},
 	{
+		"name": "Indonesia",
+		"leaderName": "Gajah Mada",
+		"adjective": ["Indonesian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		"declaringWar": "Before this war ends, you will know the fury of a thousand ships.",
+		"attacked": "Truly? Didn't you know my vengeance puts monsoons to shame? Soon you will.",
+		"defeated": "The dream of Nusantara is lost to the turning tide.",
+		"introduction": "I am Gitarja, Nusantara's queen and protector. Those who thought us weak litter the ocean floor.",
+		"neutralHello": "Greetings!",
+		"hateHello": "And here the ill tide rolls in",
+		"tradeRequest": "What if we make a deal, you and me?",
+		
+		"outerColor": [101,211,220],
+		"innerColor": [167,52,31],
+		
+		"uniqueName": "Spice Islanders",
+		"uniqueText": "Your first 3 coastal cities each provide 2 copies of unique Luxury Resources",
+		"cities": ["Jakarta","Surabaya","Medan","Makassar","Batam","Denpasar","Samarinda","Mataram","Ambon","Bandung",
+			"Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung",
+			"Malang","Padang","Ternate","Banjarmasin","Pontianak","Cimahi","Balikpapan","Jambi","Komodo","Solo",
+			"Biak","Djawa","Kudus","Lombok","Samosir","Sragen","Garut","Gresik","Nias","Madiun",
+			"Yogyakarta","Bima","Sorong"]
+	},
+	{
 		"name": "Iroquois",
 		"leaderName": "Hiawatha",
 		"adjective": ["Irochese"],

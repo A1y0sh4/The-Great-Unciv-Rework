@@ -712,7 +712,7 @@
 	},
 	{
 		"name": "Indonesia",
-		"leaderName": "Gajah Mada",
+		"leaderName": "Gitarja",
 		"adjective": ["Indonesian"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
@@ -730,8 +730,8 @@
 		"outerColor": [101,211,220],
 		"innerColor": [167,52,31],
 		
-		"uniqueName": "Spice Islanders",
-		"uniqueText": "Your first 3 coastal cities each provide 2 copies of unique Luxury Resources",
+		"uniqueName": "Great Nusantara",
+		"uniques": ["May buy [Water] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>", "[+25]% Yield from every [Great Improvement] <in [Costal] tiles>", "[+1 Faith] from every [Coast]"],
 		"cities": ["Jakarta","Surabaya","Medan","Makassar","Batam","Denpasar","Samarinda","Mataram","Ambon","Bandung",
 			"Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung",
 			"Malang","Padang","Ternate","Banjarmasin","Pontianak","Cimahi","Balikpapan","Jambi","Komodo","Solo",

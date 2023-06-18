@@ -315,6 +315,7 @@
 		"name": "Rumah adat",
 		"uniqueTo": "Indonesia",
 		"production": 1,
+		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 5,
 		"techRequired": "Sailing",
 		"uniques": ["Improvement", "Can only be built on [Coastal] tiles", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "Cannot be built on [Resource] tiles", "[+1 Food] for each adjacent [Fishing Boats]", "[+1 Production] <after discovering [Replaceable Parts]>", "Pillaging this improvement yields approximately [+10 Gold]"],

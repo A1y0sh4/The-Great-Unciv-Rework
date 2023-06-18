@@ -441,11 +441,10 @@
 		"name": "Duomo",
 		"replaces": "Temple",
 		"uniqueTo": "Italy",
-		"maintenance": 2,
+		"maintenance": 0,
 		"hurryCostModifier": 25,
 		"faith": 2,
-		"specialistSlots": {"Scientist": 1, "Merchant": 1, "Artist": 1, "Engineer": 1},
-		"uniques": ["[+25]% Great Person generation [in this city] <during We Love The King Day>"]
+		"uniques": ["[+1 Culture] per [2] social policies adopted"]
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy"
 	},

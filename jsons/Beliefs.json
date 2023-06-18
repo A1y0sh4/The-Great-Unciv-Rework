@@ -129,7 +129,7 @@
         "uniques": ["[+1 Happiness] from all [Faith] buildings"]
     },
      {
-        "name": "Religious Astemity",
+        "name": "Religious teetotality",
         "type": "Follower",
         "uniques": ["[+3]% [Faith] [in this city] <without [Beer]>",
                     "[+3]% [Faith] [in this city] <without [Wine]>",

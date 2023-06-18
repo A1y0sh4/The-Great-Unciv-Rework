@@ -957,7 +957,7 @@
 		"innerColor": [80,11,14],
 		
 		"uniqueName": "Golden Liberty",
-		"uniques": ["May buy [Great Person] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <after discovering [Theology]>", "[+1 Faith, +1 Gold] from every [Farm]"],
+		"uniques": ["May buy [Great Person] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <after discovering [Theology]>", "[+1 Faith] from every [Farm]"],
 		"cities": ["Warsaw","Kraków","Łódź","Wroclaw","Poznań","Gdansk","Szczecin","Bydgoszcz","Lublin","Kaunas",
 			"Katowice","Białystok","Gdynia","Świdnica","Częstochowa","Radom","Toruń","Kielce","Gliwice","Klaipėda",
 			"Bytom","Olsztyn","Rzeszów","Ruda Śląska","Bielsko-Biala","Rybnik","Płock","Elbląg","Gorzów Wielkopolski","Opole",

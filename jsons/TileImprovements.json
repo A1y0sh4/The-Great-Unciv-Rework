@@ -311,6 +311,17 @@
 		"techRequired": "Economics",
 		"shortcutKey": "H"
 	},
+	{
+		"name": "Rumah adat",
+		"uniqueTo": "Indonesia",
+		"production": 1,
+		"terrainsCanBeBuiltOn": ["Coast"],
+		"techRequired": "Sailing",
+		"uniques": ["Improvement", "Cannot be built on [Resource] tiles", "[+1 Food] for each adjacent [Fishing Boats]",
+			"[+1 Production] <after discovering [Replaceable Parts]>",
+			"Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "R"
+	},
 	
 	// Unbuildable improvements
 	{

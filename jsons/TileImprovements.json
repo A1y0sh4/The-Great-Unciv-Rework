@@ -315,6 +315,7 @@
 		"name": "Rumah adat",
 		"uniqueTo": "Indonesia",
 		"production": 1,
+		"faith": 1,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 5,
 		"techRequired": "Sailing",

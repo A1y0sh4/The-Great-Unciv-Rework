@@ -649,6 +649,22 @@
 		"attackSound": "arrow"
 	},
 	{
+		"name": "Djong",
+		"unitType": "Ranged Water",
+		"replaces": "Galleass",
+		"uniqueTo": "Indonesia",
+		"movement": 3,
+		"strength": 18,
+		"rangedStrength": 22,
+		"cost": 120,
+		"uniques": ["Cannot enter ocean tiles", "Transfer Movement to [Civilian]", "Can move immediately once bought"],
+		"promotions": ["Mobility"],
+		"requiredTech": "Compass",
+		"obsoleteTech": "Navigation",
+		"upgradesTo": "Frigate",
+		"attackSound": "arrow"
+	},
+	{
 		"name": "Knight",
 		"unitType": "Mounted",
 		"movement": 4,

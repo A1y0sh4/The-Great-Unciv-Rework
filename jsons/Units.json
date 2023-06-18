@@ -1246,7 +1246,7 @@
 		"uniqueTo": "Argentina",
 		"unitType": "Mounted",
 		"movement": 4,
-		"strength": 35,
+		"strength": 36,
 		"cost": 225,
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",

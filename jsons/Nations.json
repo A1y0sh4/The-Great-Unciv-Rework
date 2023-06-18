@@ -784,7 +784,7 @@
 		"hateHello": "What do you want?",
 		"tradeRequest": "Italy offers you this generous deal.",
 		
-		"outerColor": [0,102,51],
+		"outerColor": [75,97,209],
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Renaissance Flower",

@@ -291,7 +291,7 @@
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert"],
 		"culture": 1,
 		"faith": 1,
-		"turnsToBuild": 9,
+		"turnsToBuild": 8,
 		"uniques": ["Improvement", "Cannot be built on [Resource] tiles",
 			"[+1 Science] for each adjacent [Farm]",
 			"[+1 Culture] <after discovering [Archaeology]>",
@@ -363,7 +363,7 @@
 		"name": "Barbarian encampment",
 		"type": "Ruins", 
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Unpillagable", "Unbuildable", "Provides a random bonus when entered <for [Sumeria]>"],
+		"uniques": ["Unpillagable", "Unbuildable"],
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
 	}
 ]

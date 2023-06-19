@@ -1156,6 +1156,30 @@
 			"San Sebastian","Granada","Mérida","Huelva","Ibiza","Las Palmas","Tenerife"]
 	},
 	{
+		"name": "Sumeria",
+		"leaderName": "Gilgamesh",
+		"adjective": ["Sumer"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+		
+		"declaringWar": "Prepare for war!",
+		"attacked": "You shall regret this!",
+		"defeated": "The victory is yours.",
+		"introduction": "Welcome, mighty leader.",
+		"neutralHello": "Greetings.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		
+		"outerColor": [15,70,109],
+		"innerColor": [229,118,95],
+		
+		"uniqueName": "Adventures of Enkidu",
+		"uniques": ["Capturing a Barbarian encampment also grants an Ancient ruins reward", "[+50]% XP gained from combat <for [Military] units> <when adjacent to a [City-State] unit>", "[+10]% Strength <for [Military] units> <when adjacent to a [City-State] unit>"],
+		"cities": ["Ur","Kish","Uruk","Eridu","Umma","Lagash","Sippar","Akshak","Larak","Bad-Tibira","Larsa","Isin","Shruppak","Nibru","Hamazi","Girsu","Jemdet Nasr","Nina"]
+	},
+	{
 		"name": "Sweden",
 		"leaderName": "Gustavus Adolphus",
 		"adjective": ["Swedish"],
@@ -1500,8 +1524,8 @@
 		"cities": ["Mogadishu"]
 	},
 	{
-		"name": "Ur",
-		"adjective": ["Ur"],
+		"name": "Akkad",
+		"adjective": ["Akkadian"],
 		"cityStateType": "Maritime",
 		"startBias": ["Coast"],
 
@@ -1510,7 +1534,7 @@
 		"defeated": "What treachery has struck us? No, what evil?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,69,0],
-		"cities": ["Ur"]
+		"cities": ["Akkad"]
 	},
 	{
 		"name": "Santiago de Chile",

@@ -1177,7 +1177,7 @@
 		"innerColor": [229,118,95],
 		
 		"uniqueName": "Adventures of Enkidu",
-		"uniques": ["[1] free random researchable Tech(s) from the [Ancient era] <upon defeating a [Barbarian] unit> <with [15]% chance>", "[+50]% XP gained from combat <for [Military] units> <when adjacent to a [City-State] unit>", "[+10]% Strength <for [Military] units> <when adjacent to a [City-State] unit>"],
+		"uniques": ["[1] free random researchable Tech(s) from the [Ancient era] <upon defeating a [Military] unit> <with [15]% chance> <during the [Ancient era]>", "[+50]% XP gained from combat <for [Military] units> <when adjacent to a [City-State] unit>", "[+10]% Strength <for [Military] units> <when adjacent to a [City-State] unit>"],
 		"cities": ["Ur","Kish","Uruk","Eridu","Umma","Lagash","Sippar","Akshak","Larak","Bad-Tibira","Larsa","Isin","Shruppak","Nibru","Hamazi","Girsu","Jemdet Nasr","Nina"]
 	},
 	{

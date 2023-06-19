@@ -348,7 +348,7 @@
 		"name": "Barbarian encampment",
 		"type": "Ruins", 
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Unpillagable", "Unbuildable"],
+		"uniques": ["Unpillagable", "Unbuildable", "Provides a random bonus when entered <for [Sumeria]>"],
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
 	}
 ]

@@ -50,12 +50,12 @@
     {
         "name": "Goddess of Festivals",
         "type": "Pantheon",
-        "uniques": ["[-2]% Unhappiness from [Population] [in this city] <with [Beer]>",
-                    "[-2]% Unhappiness from [Population] [in this city] <with [Wine]>",
-                    "[-2]% Unhappiness from [Population] [in this city] <with [Rum]>",
-                    "[-2]% Unhappiness from [Population] [in this city] <with [Whisky]>",
-                    "[-2]% Unhappiness from [Population] [in this city] <with [Vodka]>",
-                    "[-2]% Unhappiness from [Population] [in this city] <with [Cognac]>"]
+        "uniques": ["[+3]% [Culture] [in this city] <with [Beer]>",
+                    "[+3]% [Culture] [in this city] <with [Wine]>",
+                    "[+3]% [Culture] [in this city] <with [Rum]>",
+                    "[+3]% [Culture] [in this city] <with [Whisky]>",
+                    "[+3]% [Culture] [in this city] <with [Vodka]>",
+                    "[+3]% [Culture] [in this city] <with [Cognac]>"]
     },
     {
         "name": "Goddess of Love",
@@ -131,12 +131,7 @@
      {
         "name": "Religious teetotality",
         "type": "Follower",
-        "uniques": ["[+3]% [Faith] [in this city] <without [Beer]>",
-                    "[+3]% [Faith] [in this city] <without [Wine]>",
-                    "[+3]% [Faith] [in this city] <without [Rum]>",
-                    "[+3]% [Faith] [in this city] <without [Whisky]>",
-                    "[+3]% [Faith] [in this city] <without [Vodka]>",
-                    "[+3]% [Faith] [in this city] <without [Cognac]>"]
+        "uniques": ["[+33]% [Faith] [in this city] <without [Beer]> <without [Wine]> <without [Rum]> <without [Whisky]> <without [Vodka]> <without [Cognac]>"]
     },
     {
         "name": "Cathedrals",

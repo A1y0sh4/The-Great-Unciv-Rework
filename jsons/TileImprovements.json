@@ -291,7 +291,7 @@
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert"],
 		"culture": 1,
 		"faith": 1,
-		"turnsToBuild": 8,
+		"turnsToBuild": 9,
 		"uniques": ["Improvement", "Cannot be built on [Resource] tiles",
 			"[+1 Science] for each adjacent [Farm]",
 			"[+1 Culture] <after discovering [Archaeology]>",

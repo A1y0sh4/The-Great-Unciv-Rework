@@ -86,7 +86,7 @@
 		"innerColor": [248, 202, 86],
 		
 		"uniqueName": "Land Rush",
-		"uniques": ["[+1] population in a random city <upon constructing [Production]> <with [50]% chance>", "[-100]% Food consumption by specialists [in capital]"],
+		"uniques": ["[+1] population in a random city <upon constructing [Production]> <with [50]% chance>", "[-50]% Food consumption by specialists [in capital]"],
 		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Catamarca","Formosa","San Juan","San Luis","Posadas","Parana","Salta","Neeuquen","Jujuy","La Rioja","Santa Fe","Río Gallegos","Ushuaia"]
 	},
 	{				
@@ -1159,6 +1159,7 @@
 		"name": "Sumeria",
 		"leaderName": "Gilgamesh",
 		"adjective": ["Sumer"],
+		"startBias": ["Flood plains"],
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": " ",
@@ -1527,7 +1528,7 @@
 		"name": "Akkad",
 		"adjective": ["Akkadian"],
 		"cityStateType": "Maritime",
-		"startBias": ["Coast"],
+		"startBias": ["Flood plains"],
 
 		"declaringWar": "I will enjoy hearing your last breath as you witness the destruction of your realm!",
 		"attacked": "Why do we fight? Because Inanna demands it. Now, witness the power of the Sumerians!",

@@ -292,7 +292,7 @@
 		"culture": 1,
 		"faith": 1,
 		"turnsToBuild": 8,
-		"uniques": ["Improvement",
+		"uniques": ["Improvement", "Cannot be built on [Resource] tiles",
 			"[+1 Science] for each adjacent [Farm]",
 			"[+1 Culture] <after discovering [Archaeology]>",
 			"Pillaging this improvement yields approximately [+10 Gold]"],

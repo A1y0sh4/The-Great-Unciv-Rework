@@ -711,7 +711,7 @@
 		"name": "Lake Victoria",
 		"type": "NaturalWonder",
 		"food": 2,
-		"culture": 2,
+		"science": 2,
 		"occursOn": ["Plains"],
 		"turnsInto": "Lakes",
 		"impassable": true,

@@ -56,7 +56,8 @@
         "[+1 Faith, +1 Culture] per [4] population [in all cities] <for [City-States]>",
         "Gain [250] [Gold] <upon declaring war with a major Civilization> <for [City-States]>",
         "May buy [Swiss Guard] units with [Faith] for [2] times their normal Production cost",
-        "[-10]% Unhappiness from [Population] [in all cities] <during a Golden Age>"]
+        "[-10]% Unhappiness from [Population] [in all cities] <during a Golden Age>",
+        "[-1] Sight <for [Embarked] units>"]
     
         // TODO: Implement the uniques below
         // "[+20]% [Culture] [in all cities] <during a golden age>",

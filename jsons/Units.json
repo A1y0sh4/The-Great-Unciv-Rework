@@ -505,7 +505,6 @@
 		"requiredTech": "Horseback Riding",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "Double movement in [Hill]", "Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"

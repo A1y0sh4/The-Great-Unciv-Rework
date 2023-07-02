@@ -963,6 +963,7 @@
 		"uniqueTo": "Kievan Rus'",
 		"hurryCostModifier": 10,
 		"uniques": ["[+1 Gold] from [Farm] tiles [in this city]", "[+2 Gold] <in [River] tiles>"],
+		"maintenance": 2,
 		"requiredBuilding": "Colosseum",
 		"requiredTech": "Civil Service"
 	},

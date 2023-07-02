@@ -652,6 +652,21 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Druzhina", 
+		"replaces": "Pikeman",
+		"uniqueTo": "Kievan Rus'",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 16,
+		"cost": 60,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"promotions": ["Mobility"],
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Galleass",
 		"unitType": "Ranged Water",
 		"movement": 3,

@@ -955,6 +955,17 @@
 		"requiredBuilding": "Colosseum",
 		"requiredTech": "Printing Press"
 	},
+        {
+		"name": "Veche",
+		"replaces": "Theatre",
+		"cost": 120,
+		"happiness": 2,
+		"uniqueTo": "Kievan Rus'",
+		"hurryCostModifier": 10,
+		"uniques": ["[+1 Gold] from [Farm] tiles [in this city]", "[+2 Gold] <in [River] tiles>"],
+		"requiredBuilding": "Colosseum",
+		"requiredTech": "Civil Service"
+	},
 	{
 		"name": "Globe Theatre",
 		"culture": 3,
@@ -1004,7 +1015,7 @@
 			"Must be next to [Coast]", "[+15]% Production when constructing [Water] units [in this city]", "New [{Water} {Military}] units start with [15] Experience [in this city]"],
 		"requiredTech": "Navigation"
 	},
-{
+        {
 		"name": "Nautical School",
 		"replaces": "Seaport",
 		"cost": 200,

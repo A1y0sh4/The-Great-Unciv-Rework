@@ -821,6 +821,33 @@
 			"Kamakura","Kochi","Naha","Sendai","Gifu","Yamaguchi","Ota","Tottori"]
 	},
 	{
+		"name": "Kievan Rus'",
+		"leaderName": "Vladimir I",
+		"adjective": ["Rusian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		"neutralHello": "Greetings!",
+		"hateHello": "What do you want?",
+		"tradeRequest": "",
+		"favoredReligion": "Christianity",
+		
+		"outerColor": [21,34,78],
+		"innerColor": [255,233,142],
+		
+		"uniqueName": "Poliudie",
+		"uniques": ["[+2 Food, +1 Production] from each Trade Route", "[-50]% maintenance on road & railroads"],
+		"cities": ["Kiev","Polotsk","Novgorod",,"Pskov","Ryazan","Tver","Vladimir","Smolensk","Chernigov","Pereyaslavl","Kaniv","Horchevsk",
+			"Hubyn","Iskorosten","Volodymyr","Dorogochyn","Lublin","Halych","Rodka","Kiliya","Bilyar"]
+	},
+	{
 		"name": "Korea",
 		"leaderName": "Sejong",
 		"adjective": ["Korean"],
@@ -1858,19 +1885,6 @@
 		"cities": ["Krakow"]
 	},
 	*/
-	{
-		"name": "Kiev",
-		"adjective": ["Rusians"],
-		"cityStateType": "Militaristic",
-		"startBias": ["Forest","Plains"],
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "How could we fall to the likes of you?!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [40,140,240],
-		"cities": ["Kiev"]
-	},
 	{
 		"name": "Kazan",
 		"adjective": ["Tatar"],

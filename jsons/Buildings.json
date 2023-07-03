@@ -385,7 +385,7 @@
         {
 		"name": "Veche",
 		"replaces": "Colosseum",
-		"cost": 120,
+		"cost": 100,
 		"happiness": 2,
 		"uniqueTo": "Kievan Rus'",
 		"hurryCostModifier": 25,

@@ -880,13 +880,11 @@
 	{
 		"name": "Buffalo Chest II",
 		"uniques": ["[+10]% Strength <when fighting in [Open terrain] tiles>", "[+25]% to Flank Attack bonuses", "[+10]% Strength <when defending> <vs [Ranged] units>"],
-		"prerequisites": ["Buffalo Horns I"],
-		"unitTypes": ["Sword"]
+		"prerequisites": ["Buffalo Horns I"]
 	},
 	{
 		"name": "Buffalo Loins III",
 		"uniques": ["[+10]% Strength", "[+25]% to Flank Attack bonuses", "[+10]% Strength <when defending> <vs [Ranged] units>"],
-		"prerequisites": ["Buffalo Chest II"],
-		"unitTypes": ["Sword"]
+		"prerequisites": ["Buffalo Chest II"]
 	},
 ]

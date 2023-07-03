@@ -382,6 +382,17 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Construction"
 	},
+        {
+		"name": "Veche",
+		"replaces": "Colosseum",
+		"cost": 120,
+		"happiness": 2,
+		"uniqueTo": "Kievan Rus'",
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Gold] from [Farm] tiles [in this city]", "[+2 Gold] <in [River] tiles>"],
+		"maintenance": 1,
+		"requiredTech": "Construction"
+	},
 	{
 		"name": "Terracotta Army",
 		"culture": 3,
@@ -954,18 +965,6 @@
 		"maintenance": 2,
 		"requiredBuilding": "Colosseum",
 		"requiredTech": "Printing Press"
-	},
-        {
-		"name": "Veche",
-		"replaces": "Theatre",
-		"cost": 120,
-		"happiness": 2,
-		"uniqueTo": "Kievan Rus'",
-		"hurryCostModifier": 10,
-		"uniques": ["[+1 Gold] from [Farm] tiles [in this city]", "[+2 Gold] <in [River] tiles>"],
-		"maintenance": 2,
-		"requiredBuilding": "Colosseum",
-		"requiredTech": "Civil Service"
 	},
 	{
 		"name": "Globe Theatre",

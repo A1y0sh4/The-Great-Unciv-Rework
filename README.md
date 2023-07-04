@@ -35,7 +35,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 -Buildings and Roads Upkeep raise by +5% each time you get into the next era (up to +35%)
 
--The maintainance of ALL military units is raised by +100%, but some UnitsTypes receive an additional raise
+-The maintainance of ALL military units is raised by +65%, but some UnitsTypes receive an additional raise
 
 (Mounted: +25%,
  Water: +50%,
@@ -47,7 +47,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
  
 # Main War-related changes
   
--Considering the fact that mainteining an army will be a serious investment, the early game will see a decline in snow-balling battles and the late one will witness to a lower number of wars founded merely on the strenght's number. Now the battlefield won't just host bloody coflicts based on the science/industious levels of the two opponents, but also a major one about their economical situations.
+-Considering the fact that mainteining an army will be a serious investment, the early game will see a decline in snow-balling battles and the late one will witness to a lower number of wars founded merely on the strenght's number. Now the battlefield won't just host bloody conflicts based on the scientifical/industrious levels of the two opponents, but also a major one about their economical situations.
 
 -Army Upkeep raises by +5% each time you get into the next era (up to +35%)
 
@@ -71,7 +71,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
  
  -The Horde is the new Barbarian replacement for the War Chariot
  
- -Military Units in a range of 2 tiles within a Great General receive more XP when in combat (+50%)
+ -Military Units in a range of 2 tiles within a Great General receive more XP when in combat (+15%)
 
 
 # Where can I find you?

@@ -23,7 +23,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 -It's been added a religious victory and some civs have it as their favourite one (Byzantium, Celts, The Ottomans, Spain, Arabia, Ethiopia, Siam)
 
--It's been added the ability to relocate your Capital (by selling your Palace and rebuilding it in any city that you want). Now We Love The King Day also give +15% Gold and Production in Capital, and Palaces are built 50% faster when under the value -10 Happiness.
+-It's been added the ability to relocate your Capital (by selling your Palace and rebuilding it in any city that you want). Now We Love The King Day also give +15% Gold and Production in Capital and Palaces are built 50% faster when under the value -10 Happiness.
 
 -Scouts is now the ancient era starting unit
 

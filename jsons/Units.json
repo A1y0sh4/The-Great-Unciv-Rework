@@ -1911,7 +1911,7 @@
 		"uniqueTo": "Portugal",
 		"replaces": "Great Merchant",
 		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [60] Influence",
-			"Can instantly construct a [Customs house] improvement <by consuming this unit>", "[+2] Movement <when [Embarked]>", "[+2] Sight <when [Embarked]>", "Great Person - [Gold]", "Unbuildable", "Uncapturable"],
+			"Can instantly construct a [Customs house] improvement <by consuming this unit>", "[+1] Movement <when [Embarked]>", "[+1] Sight <when [Embarked]>", "Great Person - [Gold]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
 	{

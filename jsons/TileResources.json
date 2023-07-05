@@ -527,7 +527,7 @@
 		"terrainsCanBeFoundOn": ["Desert","Tundra","Plains","Forest"],
 		"food": 1,
 		"improvement": "Mine",
-		"improvementStats": {"food": 1, "gold": 1},
+		"improvementStats": {"gold": 1},
 		"uniques": ["Resource", "Generated with weight [15] <in [Tundra] Regions>",
 					"Generated with weight [5] <in [Forest] Regions>",
 					"Generated with weight [15] <in [Desert] Regions>",

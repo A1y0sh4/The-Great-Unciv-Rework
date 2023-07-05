@@ -228,7 +228,7 @@
 		"terrainsCanBeFoundOn": ["Grassland", "Flood plains"],
 		"gold": 1,
 		"improvement": "Plantation",
-		"improvementStats": {"food": -1, "production": 1, "gold":1},
+		"improvementStats": {"food": -1, "gold": -1, "production": 2},
 		"uniques": ["Resource", "Generated with weight [16] <in [Desert] Regions>",
 					"Generated with weight [16] <in [Grassland] Regions>",
 					"Generated with weight [32] <in [Hybrid] Regions>",

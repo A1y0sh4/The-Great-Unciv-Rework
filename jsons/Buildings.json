@@ -34,8 +34,8 @@
 	// Column 1
 	{
 		"name": "Granary",
-		"food": 3,
 		"maintenance": 1,
+	        "food": 3,
 		"hurryCostModifier": 25,
 		"uniques": ["[10]% Food is carried over after population increases [in this city]"],
 		"requiredTech": "Pottery"

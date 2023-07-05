@@ -131,7 +131,12 @@
      {
         "name": "Religious teetotality",
         "type": "Follower",
-        "uniques": ["[+33]% [Faith] [in this city] <without [Beer]> <without [Wine]> <without [Rum]> <without [Whisky]> <without [Vodka]> <without [Cognac]>"]
+        "uniques": ["[+3]% [Faith] [in this city] <without [Beer]>",
+                    "[+3]% [Faith] [in this city] <without [Wine]>",
+                    "[+3]% [Faith] [in this city] <without [Rum]>",
+                    "[+3]% [Faith] [in this city] <without [Whisky]>",
+                    "[+3]% [Faith] [in this city] <without [Vodka]>",
+                    "[+3]% [Faith] [in this city] <without [Cognac]>"]
     },
     {
         "name": "Cathedrals",

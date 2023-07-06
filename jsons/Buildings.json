@@ -35,9 +35,9 @@
 	{
 		"name": "Granary",
 		"maintenance": 1,
-	        "food": 3,
+	        "food": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["[10]% Food is carried over after population increases [in this city]"],
+		"uniques": ["[10]% Food is carried over after population increases [in this city]", "[+10]% growth [in this city]"],
 		"requiredTech": "Pottery"
 	},
 	{

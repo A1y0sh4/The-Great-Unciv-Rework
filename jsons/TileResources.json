@@ -111,6 +111,7 @@
 		"terrainsCanBeFoundOn": ["Grassland", "Plains", "Desert", "Tundra", "Snow", "Hill", "Marsh"],
 		"production": 1,
 		"improvement": "Mine",
+		"improvementStats": {"production": 1},
 		"uniques": ["Resource", "Guaranteed with Strategic Balance resource option",
 					"Generated with weight [30] <in [Featureless] [Tundra] tiles>",
 					"Generated with weight [15] <in [Featureless] [Snow] tiles>",
@@ -135,7 +136,7 @@
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Hill","Jungle","Forest","Marsh"],
 		"production": 1,
 		"improvement": "Mine",
-		"improvementStats": {"production": 1},
+		"improvementStats": {"production": 2},
 		"uniques": ["Resource", "Generated with weight [35] <in [Hill] tiles>",
 					"Generated with weight [30] <in [Jungle] tiles> <in tiles without [Hill]>",
 					"Generated with weight [30] <in [Forest] tiles> <in tiles without [Hill]>",
@@ -147,7 +148,7 @@
 					"Minor deposits generated with weight [30] <in [Desert] [Hill] tiles>",
 					"Minor deposits generated with weight [30] <in [Tundra] [Hill] tiles>",
 					"Minor deposits generated with weight [30] <in [Snow] [Hill] tiles>"],
-		"majorDepositAmount": {"sparse": 5, "default": 7, "abundant": 10},
+		"majorDepositAmount": {"sparse": 4, "default": 5, "abundant": 6},
 		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 4}
 	},
 	{
@@ -170,8 +171,8 @@
 					"Minor deposits generated with weight [10] <in [Featureless] [Desert] tiles>",
 					"Minor deposits generated with weight [20] <in [Featureless] [Tundra] tiles>",
 					"Minor deposits generated with weight [20] <in [Featureless] [Snow] tiles>"],
-		"majorDepositAmount": {"sparse": 2, "default": 4, "abundant": 6},
-		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
+		"majorDepositAmount": {"sparse": 3, "default": 4, "abundant": 6},
+		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 4}
 	},
 	{
 		"name": "Aluminum",
@@ -180,13 +181,13 @@
 		"terrainsCanBeFoundOn": ["Desert","Tundra","Hill","Snow","Jungle"],
 		"production": 1,
 		"improvement": "Mine",
-		"improvementStats": {"production": 1},
+		"improvementStats": {"production": 2},
 		"uniques": ["Resource", "Generated with weight [15] <in [Featureless] [Tundra] tiles>",
 					"Generated with weight [15] <in [Featureless] [Snow] tiles>",
 					"Generated with weight [30] <in [Hill] tiles>",
 					"Minor deposits generated with weight [20] <in [Jungle] tiles>",
 					"Minor deposits generated with weight [10] <in [Featureless] [Desert] tiles>"],
-		"majorDepositAmount": {"sparse": 5, "default": 6, "abundant": 7},
+		"majorDepositAmount": {"sparse": 4, "default": 5, "abundant": 6},
 		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 4}
 	},
 	{
@@ -196,7 +197,7 @@
 		"terrainsCanBeFoundOn": ["Desert", "Marsh", "Jungle", "Forest", "Tundra", "Snow"],
 		"production": 1,
 		"improvement": "Mine",
-		"improvementStats": {"production": 1},
+		"improvementStats": {"production": 2},
 		"uniques": ["Resource", "Generated with weight [40] <in [Desert] tiles> <in tiles without [Hill]>",
 			                "Generated with weight [30] <in [Marsh] tiles> <in tiles without [Hill]>",
 					"Generated with weight [35] <in [Jungle] tiles> <in tiles without [Hill]>",

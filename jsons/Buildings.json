@@ -76,7 +76,7 @@
 		"requiredNearbyImprovedResources": ["Marble", "Stone"],
 		"maintenance": 1,
 		"hurryCostModifier": 0,
-		"uniques": ["[+5]% Production when constructing [All] buildings [in other cities]",
+		"uniques": ["[+5]% Production when constructing [All] buildings [in all cities]",
 			    "[+1 Production] from [Stone] tiles [in this city]",
                             "[+1 Production] from [Marble] tiles [in this city]"],
 		"requiredTech": "Calendar"

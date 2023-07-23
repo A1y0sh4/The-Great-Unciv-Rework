@@ -67,10 +67,11 @@
 	{
 		"name": "Fish",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Coast"],
+		"terrainsCanBeFoundOn": ["Coast", "Lakes"],
 		"food": 1,
 		"improvement": "Fishing Boats",
-		"uniques": ["Resource", "Generated on every [6] tiles <in [Featureless] [Coast] tiles>",
+		"uniques": ["Resource", "Generated on every [8] tiles <in [Featureless] [Lakes] tiles>",
+			                "Generated on every [6] tiles <in [Featureless] [Coast] tiles>",
 			                "Generated on every [4] tiles <in [Featureless] [Coast] tiles> <in [Tundra] Regions>"]
 	},
 	{
@@ -444,7 +445,7 @@
 		"name": "Pearls",
 		"resourceType": "Luxury",
 		"revealedBy": "Sailing",
-		"terrainsCanBeFoundOn": ["Coast"],
+		"terrainsCanBeFoundOn": ["Coast", "Lakes"],
 		"gold": 1,
 		"improvement": "Fishing Boats",
 		"improvementStats": {"gold": 1},
@@ -510,7 +511,7 @@
 		"name": "Crab",
 		"resourceType": "Luxury",
 		"revealedBy": "Sailing",
-		"terrainsCanBeFoundOn": ["Coast"],
+		"terrainsCanBeFoundOn": ["Coast", "Lakes"],
 		"food": 1,
 		"improvement": "Fishing Boats",
 		"improvementStats": {"gold": 1},

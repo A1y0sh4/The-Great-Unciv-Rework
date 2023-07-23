@@ -74,12 +74,11 @@
 	{
 		"name": "Stone Works",
 		"requiredNearbyImprovedResources": ["Marble", "Stone"],
-		"production": 1,
 		"maintenance": 1,
 		"hurryCostModifier": 0,
-		"uniques": [
-			"[+1 Production] from [Stone] tiles [in this city]",
-			"[+1 Production] from [Marble] tiles [in this city]"],
+		"uniques": ["[+5]% Production when constructing [All] buildings [in other cities]",
+			    "[+1 Production] from [Stone] tiles [in this city]",
+                            "[+1 Production] from [Marble] tiles [in this city]"],
 		"requiredTech": "Calendar"
 	},
 	{
@@ -105,11 +104,11 @@
 		"name": "Pub",
 		"replaces": "Brewery",
 		"uniqueTo": "Celts",
-		"cost": 75,
+		"cost": 60,
 		"culture": 2,
 		"maintenance": 0,
                 "requiredNearbyImprovedResources": ["Wheat"],
-		 "uniques": ["Provides [2] [Beer]"],
+		 "uniques": ["Provides [1] [Beer]"],
 		"requiredTech": "Calendar"
 	},
 	{
@@ -125,12 +124,12 @@
 		"name": "Monastery",
 		"replaces": "Wine Cellar",
 		"uniqueTo": "France",
-		"cost": 75,
+		"cost": 60,
 		"culture": 1,
 		"faith": 1,
 		"maintenance": 0,
                 "requiredNearbyImprovedResources": ["Grape"],
-		 "uniques": ["Provides [2] [Wine]"],
+		 "uniques": ["Provides [1] [Wine]"],
 		"requiredTech": "Calendar"
 	},
 	{
@@ -298,8 +297,7 @@
 		"cost": 75,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["Must be next to [Coast]", "[+1 Food] from [Ocean] tiles [in this city]",
-			"[+1 Food] from [Coast] tiles [in this city]"],
+		"uniques": ["Must be next to [Coast]", "[+1 Food] from [Water] tiles [in this city]"],
 		"requiredTech": "Optics"
 	},
 	{
@@ -309,7 +307,7 @@
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
 		"uniques": ["Must be next to [Coast]", "[+1] Movement <for [Water] units>",
-			"[+1] Sight <for [Water] units>", "Gain a free [Lighthouse] [in this city]", "[+1 Food] from [Water resource] tiles [in this city]"],
+			"[+1] Sight <for [Water] units>", "Gain a free [Lighthouse] [in this city]", "[+10]% [Food] [in this city]"],
 		"requiredTech": "Optics",
 		"quote": "'They that go down to the sea in ships, that do business in great waters; these see the works of the Lord, and his wonders in the deep.' - The Bible, Psalms 107:23-24"
 	},
@@ -326,10 +324,9 @@
 	{
 		"name": "Stable",
 		"maintenance": 1,
-		"production": 1,
 		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
-		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
+		"uniques": ["[+25]% Production when constructing [Mounted] units [in this city]",
 			"[+1 Production] from [Cattle] tiles [in this city]",
 			"[+1 Production] from [Horses] tiles [in this city]",
 			"[+1 Production] from [Sheep] tiles [in this city]"],
@@ -340,10 +337,9 @@
 		"replaces": "Stable",
 		"uniqueTo": "Argentina",
 		"maintenance": 0,
-		"production": 1,
 		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
-		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
+		"uniques": ["[+25]% Production when constructing [Mounted] units [in this city]",
 			"[+1 Production, +1 Gold] from [Cattle] tiles [in this city]",
 			"[+1 Production, +1 Gold] from [Horses] tiles [in this city]",
 			"[+1 Production, +1 Gold] from [Sheep] tiles [in this city]"],
@@ -763,12 +759,10 @@
 	{
 		"name": "Forge",
 		"maintenance": 1,
-		"production": 1,
 		"hurryCostModifier": 25,
 		"requiredNearbyImprovedResources": ["Iron"],
 		"requiredTech": "Metal Casting",
-		"uniques": ["[+15]% Production when constructing [Spaceship part] units [in this city]",
-			"[+15]% Production when constructing [Land] units [in this city]",
+		"uniques": ["[+25]% Production when constructing [Sword] units [in this city]",
 			"[+1 Production] from [Iron] tiles [in this city]"]
 	},
 	// Column 6

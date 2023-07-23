@@ -93,7 +93,6 @@
 		"terrainsCanBeFoundOn": ["Plains","Grassland","Hill"], // Hill only if plains or grassland
 		"production": 1,
 		"improvement": "Pasture",
-		"improvementStats": {"production": 1},
 		"uniques": ["Resource", "Guaranteed with Strategic Balance resource option",
 					"Generated with weight [75] <in [Featureless] [Plains] tiles>",
 					"Minor deposits generated with weight [25] <in [Grassland] [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
@@ -111,7 +110,6 @@
 		"terrainsCanBeFoundOn": ["Grassland", "Plains", "Desert", "Tundra", "Snow", "Hill", "Marsh"],
 		"production": 1,
 		"improvement": "Mine",
-		"improvementStats": {"production": 1},
 		"uniques": ["Resource", "Guaranteed with Strategic Balance resource option",
 					"Generated with weight [30] <in [Featureless] [Tundra] tiles>",
 					"Generated with weight [15] <in [Featureless] [Snow] tiles>",
@@ -306,7 +304,7 @@
 		"food": 1,
 		"improvement": "Plantation",
 		"improvementStats": {"gold": 1},
-		"uniques": ["Resource", "Generated with weight [32] <in [Jungle] Regions>",
+		"uniques": ["Resource", "Generated with weight [25] <in [Jungle] Regions>",
 					"Generated with weight [5] <in [Hybrid] Regions>",
 		                        "Doesn't generate naturally <in [Tundra] tiles>", "Doesn't generate naturally <in [Plains] tiles>", "Doesn't generate naturally <in [Desert] tiles>",
 		                        "Doesn't generate naturally <in [Tundra] Regions>", "Doesn't generate naturally <in [Desert] Regions>"]

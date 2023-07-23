@@ -843,7 +843,7 @@
 		"innerColor": [255,233,142],
 		
 		"uniqueName": "Golden Bonds",
-		"uniques": ["Gain [250] [Gold] <upon declaring friendship>", "[+1 Science, +1 Culture] per [6] population [in all cities in which the majority religion is a enhanced religion]"],
+		"uniques": ["Gain [250] [Gold] <upon declaring friendship>", "[+1 Science, +1 Culture] per [6] population [in all cities in which the majority religion is a major religion]"],
 		"cities": ["Kiev","Polotsk","Novgorod","Pskov","Ryazan","Tver","Vladimir","Smolensk","Chernigov","Pereyaslavl","Kaniv","Horchevsk",
 			"Hubyn","Iskorosten","Volodymyr","Dorogochyn","Lublin","Halych","Rodka","Kiliya","Bilyar"]
 	},

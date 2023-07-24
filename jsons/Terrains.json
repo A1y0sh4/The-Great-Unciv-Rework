@@ -117,10 +117,11 @@
 		"type": "Water",
 		"food": 1,
 		"gold": 1,
+		"movementCost": 1,
 		"RGB": [ 123, 202, 226],
 		"uniques": ["Fresh water",
-					"Considered [Food] when determining start locations",
-					"Considered [Desirable] when determining start locations"]
+			    "Considered [Food] when determining start locations",
+			    "Considered [Desirable] when determining start locations"]
 	},
 	{
 		"name": "Mountain",

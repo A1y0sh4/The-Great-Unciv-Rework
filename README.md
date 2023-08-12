@@ -70,8 +70,6 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
  -Ranged Mounted units now have 1 Range, higher Strengh, and count as Mounted units (instead of ranged ones, this means that they have a malus against anti-cavalry units)
  
  -The Horde is the new Barbarian replacement for the War Chariot
- 
- -Military Units in a range of 2 tiles within a Great General receive more XP when in combat (+15%)
 
 
 # Where can I find you?

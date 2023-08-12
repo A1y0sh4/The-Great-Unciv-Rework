@@ -899,6 +899,29 @@
 			"Baruun-Urt","Ereen","Batshireet","Choyr","Ulaangom","Tosontsengel","Altay","Uliastay","Bayanhongor",
 			"Har-Ayrag","Nalayh","Tes"]
 	},
+	{
+		"name": "Nubia",
+		"leaderName": "Amanitore",
+		"adjective": ["Nubian"],
+		"startBias": ["Desert"],
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "We have arrows, finely honed. We shall deliver them freely to your throat.",
+		"attacked": "As predicted, you know only how to take. Come, then—choose the manner of your defeat.",
+		"defeated": "Though Nubia declines, our pyramids shall remain long after your plans fall to ruin.",
+		"introduction": "I am Amanitore of Nubia. All are welcome in our magnificent cities—provided they come as friends.",
+		"neutralHello": "Greetings.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		
+		"outerColor": [184,179,112],
+		"innerColor": [105,73,45],
+		
+		"uniqueName": "Ta-Seti",
+		"uniques": ["[+25]% Production when constructing [Ranged] units [in this city]", "[+50]% XP gained from combat <for [Ranged] units>"],
+		"cities": ["Meroë","Napata","Kerma","Miam","El-Kurru","Pachoras","Buhen","Nuri","Kawa","Sadeinga","Iken","Buhen","Faras","Pademe","Shaat","Heh","Dengeil"]
+	},
 	 {
 		"name": "Papal States",
 		"leaderName": "Julius II",

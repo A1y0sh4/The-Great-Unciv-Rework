@@ -258,6 +258,16 @@
 		"shortcutKey": "M"
 	},
 	{
+		"name": "Nubian pyramid",
+		"type": "Improvement",
+		"uniqueTo": "Nubia",
+		"terrainsCanBeBuiltOn": ["Desert", "Flood plains"],
+		"turnsToBuild": 6,
+		"uniques": ["Improvement", "[+2 Food, +1 Faith] for each adjacent [Bonus resource]", "[+2 Production, +1 Faith] for each adjacent [Strategic resource]", "[+2 Gold, +1 Faith] for each adjacent [Luxury resource]", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"techRequired": "Construction",
+		"shortcutKey": "P"
+	},
+	{
 		"name": "Terrace farm",
 		"type": "Improvement",
 		"uniqueTo": "Inca",

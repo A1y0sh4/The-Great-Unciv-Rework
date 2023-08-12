@@ -557,7 +557,7 @@
 		"unitType": "Archery",
 		"movement": 2,
 		"strength": 8,
-		"rangedStrength": 11,
+		"rangedStrength": 12,
 		"cost": 56,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",

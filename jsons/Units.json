@@ -123,21 +123,6 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Bowman",
-		"unitType": "Archery",
-		"movement": 2,
-		"strength": 5,
-		"rangedStrength": 8,
-		"cost": 40,
-		"requiredTech": "Archery",
-		"obsoleteTech": "Construction",
-		"replaces": "Archer",
-		"uniqueTo": "Babylon",
-		"upgradesTo": "Composite Bowman",
-		"promotions": ["Accuracy I"],
-		"attackSound": "arrow"
-	},
-	{
 		"name": "Slinger",
 		"unitType": "Scout",
 		"uniqueTo": "Inca",
@@ -549,6 +534,20 @@
 		"cost": 75,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Bowman",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 11,
+		"cost": 56,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"replaces": "Composite Bowman",
+		"uniqueTo": "Babylon",
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow"
 	},

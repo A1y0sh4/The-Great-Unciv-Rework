@@ -843,7 +843,7 @@
 		"innerColor": [255,233,142],
 		
 		"uniqueName": "Greco-Varangian Way",
-		"uniques": ["Double movement in [River] <for [All] units>", "[+1 Science, +1 Culture] per [6] population [in all cities connected to capital]"],
+		"uniques": ["Double movement in [Fresh water] <for [Civilian] units>", "Double movement in [Fresh water] <for [Sword] units>", "[+1 Science, +1 Culture] per [6] population [in all cities connected to capital]"],
 		"cities": ["Kiev","Polotsk","Novgorod","Pskov","Ryazan","Tver","Vladimir","Smolensk","Chernigov","Pereyaslavl","Kaniv","Horchevsk",
 			"Hubyn","Iskorosten","Volodymyr","Dorogochyn","Lublin","Halych","Rodka","Kiliya","Bilyar"]
 	},

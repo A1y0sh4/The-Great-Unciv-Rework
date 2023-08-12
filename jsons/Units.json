@@ -166,7 +166,7 @@
 		"uniqueTo": "Nubia",
 		"upgradesTo": "Composite Bowman",
 		"uniques": ["Earn [10]% of the damage done to [All] units as [Gold]"],
-		"promotions":["Precision I"],
+		"promotions":["Accuracy I"],
 		"attackSound": "arrow"
 	},
 	{

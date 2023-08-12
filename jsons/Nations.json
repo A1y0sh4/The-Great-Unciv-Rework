@@ -919,7 +919,7 @@
 		"innerColor": [105,73,45],
 		
 		"uniqueName": "Ta-Seti",
-		"uniques": ["[+25]% Production when constructing [Ranged] units [in this city]", "[+50]% XP gained from combat <for [Ranged] units>", "[Ranged] units gain the [Accuracy I] promotion"],
+		"uniques": ["[+25]% Production when constructing [Ranged] units [in all cities]", "[+50]% XP gained from combat <for [Ranged] units>", "[Ranged] units gain the [Accuracy I] promotion"],
 		"cities": ["Meroë","Napata","Kerma","Miam","El-Kurru","Pachoras","Buhen","Nuri","Kawa","Sadeinga","Iken","Buhen","Faras","Pademe","Shaat","Heh","Dengeil"]
 	},
 	 {

@@ -165,7 +165,7 @@
 		"replaces": "Archer",
 		"uniqueTo": "Nubia",
 		"upgradesTo": "Composite Bowman",
-		"promotions":["Renowned Mercenary"],
+		"promotions":["Mercenary"],
 		"attackSound": "arrow"
 	},
 	{

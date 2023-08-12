@@ -156,10 +156,10 @@
 	{
 		"name": "Pítati",
 		"unitType": "Archery",
-		"movement": 2,
+		"movement": 3,
 		"strength": 5,
 		"rangedStrength": 7,
-		"cost": 40,
+		"cost": 60,
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
 		"replaces": "Archer",

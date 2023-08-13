@@ -165,7 +165,7 @@
 		"replaces": "Archer",
 		"uniqueTo": "Nubia",
 		"upgradesTo": "Composite Bowman",
-		"uniques" : ["Earn [15]% of the damage done to [All] units as [Gold]"],
+		"uniques" : ["Earn [20]% of the damage done to [All] units as [Gold]"],
 		"promotions":["Mercenary"],
 		"attackSound": "arrow"
 	},

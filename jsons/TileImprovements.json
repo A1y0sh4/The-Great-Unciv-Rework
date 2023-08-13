@@ -262,8 +262,9 @@
 		"type": "Improvement",
 		"uniqueTo": "Nubia",
 		"terrainsCanBeBuiltOn": ["Desert", "Flood plains"],
+		"faith": 1,
 		"turnsToBuild": 6,
-		"uniques": ["Improvement", "[+2 Food, +1 Faith] for each adjacent [Bonus resource]", "[+2 Production, +1 Faith] for each adjacent [Strategic resource]", "[+2 Gold, +1 Faith] for each adjacent [Luxury resource]", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": ["Improvement", "[+1 Production, +2 Gold] for each adjacent [Strategic resource]", "[+1 Production, +2 Gold] for each adjacent [Luxury resource]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"techRequired": "Construction",
 		"shortcutKey": "P"
 	},

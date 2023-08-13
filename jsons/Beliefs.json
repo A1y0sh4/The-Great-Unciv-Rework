@@ -201,7 +201,7 @@
     {
         "name": "Peace Gardens",
         "type": "Follower",
-        "uniques": ["[+2 Happiness] from every [Garden]"]
+        "uniques": ["[+2 Happiness, +2 Culture] from every [Garden]"]
     },
     {
         "name": "Religious Art",

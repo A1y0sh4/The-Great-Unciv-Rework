@@ -275,6 +275,11 @@
         "type": "Founder",
         "uniques": ["[+1 Culture] from every [6] global followers [in this city]"]
     },
+     {
+        "name": "Divine Spark",
+        "type": "Founder",
+        "uniques": ["Free Great Person <upon discovering [Philosophy]>", "[+15]% Great Person generation [in cities following this religion]"]
+    },
 
 ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
 

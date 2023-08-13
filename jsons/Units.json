@@ -161,7 +161,7 @@
 		"rangedStrength": 7,
 		"cost": 60,
 		"requiredTech": "Archery",
-		"obsoleteTech": "Construction",
+		"obsoleteTech": "Machinery",
 		"replaces": "Archer",
 		"uniqueTo": "Nubia",
 		"upgradesTo": "Composite Bowman",

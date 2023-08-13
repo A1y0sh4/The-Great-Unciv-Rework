@@ -875,7 +875,7 @@
 	},
 	{
 		"name": "Mercenary",
-		"uniques": ["Earn [15]% of the damage done to [All] units as [Gold]", "[+50]% maintenance costs"]
+		"uniques": ["[+50]% maintenance costs"]
 	}
 	{
 		"name": "Buffalo Horns I", // only for Ikanda

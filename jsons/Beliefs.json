@@ -98,11 +98,6 @@
         "uniques": ["[+1 Culture, +1 Faith] from every [Gold Ore]", "[+1 Culture, +1 Faith] from every [Silver]"]
     },
     {
-        "name": "Religious Settlements",
-        "type": "Pantheon",
-        "uniques": ["May buy [Settler] units with [Faith] for [2] times their normal Production cost", "May buy [Worker] units with [Faith] for [2] times their normal Production cost"]
-    },
-    {
         "name": "Sacred Path",
         "type": "Pantheon",
         "uniques": ["[+1 Culture] from every [Jungle]"]
@@ -274,6 +269,11 @@
         "name": "World Church",
         "type": "Founder",
         "uniques": ["[+1 Culture] from every [6] global followers [in this city]"]
+    },
+    {
+        "name": "Religious Settlements",
+        "type": "Founder",
+        "uniques": ["May buy [Settler] units with [Faith] for [2] times their normal Production cost", "May buy [Worker] units with [Faith] for [2] times their normal Production cost"]
     },
 
 ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////

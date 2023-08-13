@@ -159,7 +159,7 @@
 		"movement": 3,
 		"strength": 5,
 		"rangedStrength": 7,
-		"cost": 60,
+		"cost": 56,
 		"requiredTech": "Archery",
 		"obsoleteTech": "Machinery",
 		"replaces": "Archer",

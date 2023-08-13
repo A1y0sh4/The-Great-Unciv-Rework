@@ -867,7 +867,7 @@
 	},
 	{
 		"name": "Ceremonial Burial",
-		"uniques": ["Gain [5]-[15] [Faith] <upon being defeated>"]
+		"uniques": ["Gain [3]-[12] [Faith] <upon being defeated>"]
 	},
         {
 		"name": "Climber",

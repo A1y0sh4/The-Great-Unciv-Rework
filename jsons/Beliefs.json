@@ -270,11 +270,6 @@
         "type": "Founder",
         "uniques": ["[+1 Culture] from every [6] global followers [in this city]"]
     },
-    {
-        "name": "Religious Settlements",
-        "type": "Founder",
-        "uniques": ["May buy [Settler] units with [Faith] for [2] times their normal Production cost", "May buy [Worker] units with [Faith] for [2] times their normal Production cost"]
-    },
 
 ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
 
@@ -324,6 +319,11 @@
         "name": "Reliquary",
         "type": "Enhancer",
         "uniques": ["[+50 Faith] whenever a Great Person is expended"]
+    },
+    {
+        "name": "Religious Settlements",
+        "type": "Enhancer",
+        "uniques": ["May buy [Settler] units with [Faith] for [2] times their normal Production cost", "May buy [Worker] units with [Faith] for [2] times their normal Production cost"]
     }
 ]
 

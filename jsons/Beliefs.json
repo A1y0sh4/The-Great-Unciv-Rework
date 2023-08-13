@@ -129,7 +129,7 @@
         "uniques": ["[+1 Happiness] from all [Faith] buildings"]
     },
      {
-        "name": "Religious teetotality",
+        "name": "Religious Teetotality",
         "type": "Follower",
         "uniques": ["[+3]% [Faith] [in this city] <without [Beer]>",
                     "[+3]% [Faith] [in this city] <without [Wine]>",
@@ -329,6 +329,11 @@
         "name": "Religious Settlements",
         "type": "Enhancer",
         "uniques": ["May buy [Settler] units with [Faith] for [2] times their normal Production cost", "May buy [Worker] units with [Faith] for [2] times their normal Production cost"]
+    },
+     {
+        "name": "Holy Alliance",
+        "type": "Enhancer",
+        "uniques": ["Gain [100] [Faith] <upon declaring friendship>"]
     }
 ]
 

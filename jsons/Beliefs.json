@@ -75,7 +75,7 @@
     {
         "name": "Messenger of the Gods",
         "type": "Pantheon",
-        "uniques": ["[+2 Science] from each Trade Route", "[+1] Movement <for [Scout] units>"]
+        "uniques": ["[+2 Science] from each Trade Route", "New [Scout] units start with [10] Experience [in this city]"]
     },
     {
         "name": "Monument to the Gods",

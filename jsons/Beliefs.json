@@ -75,7 +75,7 @@
     {
         "name": "Messenger of the Gods",
         "type": "Pantheon",
-        "uniques": ["[+2 Science] from each Trade Route", "Improves movement speed on roads"]
+        "uniques": ["[+2 Science] from each Trade Route", "[+1] Movement <for [Scout] units>"]
     },
     {
         "name": "Monument to the Gods",

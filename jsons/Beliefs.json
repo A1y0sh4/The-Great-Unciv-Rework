@@ -117,6 +117,11 @@
         "type": "Pantheon",
         "uniques": ["[+3 Faith] from every [Palace]"]
     },
+    {
+        "name": "Rain Dancing",
+        "type": "Pantheon",
+        "uniques": ["[+1 Food, +1 Culture] [in all cities] <in [Fresh water] tiles>"]
+    },
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
     {
         "name": "Asceticism",

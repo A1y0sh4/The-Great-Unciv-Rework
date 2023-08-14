@@ -552,7 +552,7 @@
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Trebuchet",
 		"promotions": ["Cover I"],
-		"uniques": ["[-15]% Strength for enemy [City] units in adjacent [All] tiles", "No defensive terrain bonus", "[-1] Sight"],
+		"uniques": ["[+50]% Strength bonus for [Military] units within [1] tiles <vs cities>", "No defensive terrain bonus", "[-1] Sight"],
 		"hurryCostModifier": 20
 	},
 	{

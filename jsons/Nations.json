@@ -108,7 +108,7 @@
 		"outerColor": [252,255,218],
 		"innerColor": [191,132,6],
 		"uniqueName": "Organized Warfare",
-		"uniques": ["Ignores Zone of Control <for [Military] units>", "[+50]% maintenance costs <for [Military] units>"],
+		"uniques": ["[{Military} {Land}] units gain the [Mobility] promotion", "[+50]% maintenance costs <for [{Military} {Land}] units>"],
 		"cities": ["Aššur","Nineveh","Nimrud","Kar-Tukulti-Ninurta","Dur-Šharrukin","Halab","Carchemish","Kanesh","Harran","Imgur-Enlil",
 			"Shubat-Enlil","Qatna","Sareisa","Sam al","Qarqar","Til Barsip","Sultantepe","Erbil","Hamath","Guzana",
 			"Turuspa","Nasibina","Arpad","Kelashin","Urartu","Sabata","Hit"]

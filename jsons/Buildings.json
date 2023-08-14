@@ -364,6 +364,8 @@
 		"name": "Royal Palace", 
 		"replaces": "Courthouse",
 		"uniqueTo": "Assyria",
+		"science": 1,
+		"culture": 1,
 		"hurryCostModifier": 25,
 		"maintenance": 2,
 		"uniques": ["Remove extra unhappiness from annexed cities", "[+10]% [Production] [in this city] <during We Love The King Day>", "[+10]% [Gold] [in this city] <during We Love The King Day>"],

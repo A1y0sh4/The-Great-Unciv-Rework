@@ -1305,7 +1305,7 @@
 		"innerColor": [128,3,28],
 		
 		"uniqueName": "Guerrilla Tactics",
-		"uniques": ["[Sword] units gain the [Guerrilla Tactics] promotion", "[Gunpowder] units gain the [Guerrilla Tactics] promotion", "Invisible to non-adjacent units <in [Forest] tiles> <for [All] units>"],
+		"uniques": ["[Sword] units gain the [Guerrilla Tactics] promotion", "[Gunpowder] units gain the [Guerrilla Tactics] promotion", "[{Melee} {Land}] units gain the [Ambush I] promotion"],
 		"cities": ["Thăng Long","Huế","Hoa Lư","Trà Kiệu","Đồng Hới","Quảng Trị","Sài Gòn","Hải Phòng","Cần Thơ","Đà Nẵng","Thái Nguyên","Hạ Long","Quy Nhơn","Đà Lạt","Biên Hòa","Nha Trang","Rạch Giá"
 		"Nam Định","Vinh","Buôn Ma Thuột","Việt Trì"]
 	},

@@ -542,6 +542,22 @@
 		"attackSound": "throw"
 	},
 	{
+		"name": "Siege Tower",
+		"unitType": "Civilian",
+		"uniqueTo": "Assyria",
+		"replaces": "Catapult",
+		"movement": 2,
+		"strength": 12,
+		"cost": 75,
+		"requiredTech": "Mathematics",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "Trebuchet",
+		"promotions": ["Cover I"],
+		"uniques": ["[+50]% Strength bonus for [Military] units within [2] tiles <vs [City] units>", "No defensive terrain bonus", "[-1] Sight"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Composite Bowman",
 		"unitType": "Archery",
 		"movement": 2,

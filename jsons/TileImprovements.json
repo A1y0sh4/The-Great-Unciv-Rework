@@ -253,7 +253,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"culture": 1,
 		"turnsToBuild": 6,
-		"uniques": ["Improvement", "Can only be built on [Coastal] tiles", "[+1 Culture] for each adjacent [Moai]", "[+1 Gold] for each adjacent [Coast] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": ["Improvement", "Can only be built on [Coastal] tiles", "[+1 Culture] for each adjacent [Moai]", "[+1 Gold] for each adjacent [Coast] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"techRequired": "Construction",
 		"shortcutKey": "M"
 	},
@@ -264,7 +264,7 @@
 		"terrainsCanBeBuiltOn": ["Desert", "Flood plains"],
 		"faith": 1,
 		"turnsToBuild": 6,
-		"uniques": ["Improvement", "[+1 Production, +2 Gold] for each adjacent [Strategic resource]", "[+1 Production, +2 Gold] for each adjacent [Luxury resource]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": ["Improvement", "[+1 Production, +2 Gold] for each adjacent [Strategic resource]", "[+1 Production, +2 Gold] for each adjacent [Luxury resource]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"techRequired": "Construction",
 		"shortcutKey": "P"
 	},
@@ -279,9 +279,22 @@
 			"[+1 Food] for each adjacent [Mountain]",
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
 			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
-            "Pillaging this improvement yields approximately [+10 Gold]"],
+            "Pillaging this improvement yields approximately [+20 Gold]"],
 		"techRequired": "Construction",
 		"shortcutKey": "F"
+	},
+	{
+		"name": "Rice paddy",
+		"type": "Improvement",
+		"uniqueTo": "Vietnam",
+		"terrainsCanBeBuiltOn": ["Grassland", "Marsh"],
+		"food": 1,
+		"turnsToBuild": 6,
+		"uniques": ["Improvement", "Cannot be built on [Resource] tiles",
+			    "[+1 Food] from [Fresh water] tiles",
+			    "[+3 Food, +1 Culture] from [Marsh] tiles",
+                            "Pillaging this improvement yields approximately [+20 Gold]"],
+	         "shortcutKey": "F"
 	},
 	{
 		"name": "Polder",
@@ -291,7 +304,7 @@
 		"production": 1,
 		"terrainsCanBeBuiltOn": ["Grassland", "Plains", "Marsh"],
 		"turnsToBuild": 7,
-		"uniques": ["Improvement", "Can only be built on [Coastal] tiles", "[+2 Food] <in [Marsh] tiles>", "[+1 Production, +1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": ["Improvement", "Can only be built on [Coastal] tiles", "[+2 Food] <in [Marsh] tiles>", "[+1 Production, +1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"techRequired": "Guilds",
 		"shortcutKey": "P"
 	},
@@ -306,7 +319,7 @@
 		"uniques": ["Improvement", "Cannot be built on [Resource] tiles",
 			"[+1 Science] for each adjacent [Farm]",
 			"[+1 Culture] <after discovering [Archaeology]>",
-			"Pillaging this improvement yields approximately [+10 Gold]"],
+			"Pillaging this improvement yields approximately [+20 Gold]"],
 		"techRequired": "Calendar",
 		"shortcutKey": "Z"
 	},
@@ -320,7 +333,7 @@
 		"uniques": ["Improvement", "Cannot be built on [Resource] tiles",
 			"[+1 Food] for each adjacent [Pasture]",
 			"[+1 Production] for each adjacent [Pasture] <after discovering [Steam Power]>",
-			"Pillaging this improvement yields approximately [+10 Gold]"],
+			"Pillaging this improvement yields approximately [+20 Gold]"],
 		"techRequired": "Guilds",
 		"shortcutKey": "O"
 	},
@@ -334,7 +347,7 @@
 			"[+1 Food, +1 Gold] for each adjacent [Plantation]",
 			"[+1 Production] for each adjacent [Plantation] <after discovering [Steam Power]>",
 			"[+1 Food, +1 Gold] <after discovering [Replaceable Parts]>",
-			"Pillaging this improvement yields approximately [+10 Gold]"],
+			"Pillaging this improvement yields approximately [+20 Gold]"],
 		"techRequired": "Economics",
 		"shortcutKey": "H"
 	},
@@ -345,7 +358,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 5,
 		"techRequired": "Sailing",
-		"uniques": ["Improvement", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "[+1 Food, +1 Faith] for each adjacent [Water resource]", "[+1 Production] <after discovering [Replaceable Parts]>", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": ["Improvement", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "[+1 Food, +1 Faith] for each adjacent [Water resource]", "[+1 Production] <after discovering [Replaceable Parts]>", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "R"
 	},
 	

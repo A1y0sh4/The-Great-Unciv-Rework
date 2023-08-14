@@ -104,10 +104,9 @@
 		"name": "Pub",
 		"replaces": "Brewery",
 		"uniqueTo": "Celts",
-		"cost": 60,
+		"cost": 75,
 		"culture": 2,
-		"maintenance": 0,
-                "requiredNearbyImprovedResources": ["Wheat"],
+		"maintenance": 1,
 		 "uniques": ["Provides [1] [Beer]"],
 		"requiredTech": "Calendar"
 	},
@@ -124,11 +123,10 @@
 		"name": "Monastery",
 		"replaces": "Wine Cellar",
 		"uniqueTo": "France",
-		"cost": 60,
+		"cost": 75,
 		"culture": 1,
 		"faith": 1,
-		"maintenance": 0,
-                "requiredNearbyImprovedResources": ["Grape"],
+		"maintenance": 1,
 		 "uniques": ["Provides [1] [Wine]"],
 		"requiredTech": "Calendar"
 	},
@@ -360,6 +358,15 @@
 		"hurryCostModifier": 50,
 		"uniques": ["Remove extra unhappiness from annexed cities",
 			"Can only be built [in annexed cities]"],
+		"requiredTech": "Mathematics"
+	},
+        {
+		"name": "Royal Palace", 
+		"replaces": "Courthouse",
+		"uniqueTo": "Assyria",
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"uniques": ["Remove extra unhappiness from annexed cities", "[+10]% [Production] [in this city] <during We Love The King Day>", "[+10]% [Gold] [in this city] <during We Love The King Day>"],
 		"requiredTech": "Mathematics"
 	},
 	{

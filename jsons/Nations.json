@@ -1418,7 +1418,7 @@
 		"tradeRequest": "Better hurry, I may change my mind.",
 		
 		"outerColor": [255,255,0],
-		"innerColor": [128,3,28],
+		"innerColor": [218,37,29],
 		
 		"uniqueName": "Guerrilla Tactics",
 		"uniques": ["[Sword] units gain the [Guerrilla Tactics] promotion", "[Gunpowder] units gain the [Guerrilla Tactics] promotion", "[{Melee} {Land}] units gain the [Ambush I] promotion"],

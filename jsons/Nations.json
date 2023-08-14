@@ -1304,8 +1304,8 @@
 		"outerColor": [0,204,126],
 		"innerColor": [128,3,28],
 		
-		"uniqueName": " Drive Out The Aggressors",
-		"uniques": ["[+2 Food, +1 Production] from every [Marsh]","[+1 Faith] from every [Jungle]"],
+		"uniqueName": "Guerrilla Tactics",
+		"uniques": ["[Sword] units gain the [Guerrilla Tactics] promotion", "[Gunpowder] units gain the [Guerrilla Tactics] promotion"],
 		"cities": ["Thăng Long","Huế","Hoa Lư","Trà Kiệu","Đồng Hới","Quảng Trị","Sài Gòn","Hải Phòng","Cần Thơ","Đà Nẵng","Thái Nguyên","Hạ Long","Quy Nhơn","Đà Lạt","Biên Hòa","Nha Trang","Rạch Giá"
 		"Nam Định","Vinh","Buôn Ma Thuột","Việt Trì"]
 	},

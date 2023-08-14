@@ -389,8 +389,10 @@
 		"hateHello": "Oh. It's you?",
 		"tradeRequest": "My friend, do you think you can accept this request?",
 		"favoredReligion": "Confucianism",
+		
 		"outerColor": [9, 112, 84],
 		"innerColor": [255,255,255],
+		
 		"uniqueName": "Art of War",
 		"uniques": ["Free Social Policy <upon gaining a [Great General] unit>", "Great General provides double combat bonus"],
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",

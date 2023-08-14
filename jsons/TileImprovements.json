@@ -292,7 +292,7 @@
 		"turnsToBuild": 6,
 		"uniques": ["Improvement", "Cannot be built on [Resource] tiles",
 			    "[+1 Food] from [Fresh water] tiles",
-			    "[+3 Food, +1 Culture] <in [Marsh] tiles>",
+			    "[+1 Food, +1 Culture] <in [Marsh] tiles>",
                             "Pillaging this improvement yields approximately [+20 Gold]"],
 	         "shortcutKey": "F"
 	},

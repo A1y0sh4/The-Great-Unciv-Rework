@@ -928,6 +928,7 @@
 		"leaderName": "Amanitore",
 		"adjective": ["Nubian"],
 		"startBias": ["Desert"],
+		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": " ",
 		"startIntroPart2": " ",
@@ -1405,6 +1406,7 @@
 		"leaderName": "Bà Triệu",
 		"adjective": ["Vietnamese"],
 		"startBias": ["Marsh"],
+		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": " ",
 		"startIntroPart2": " ",

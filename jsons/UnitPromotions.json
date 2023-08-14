@@ -879,7 +879,7 @@
 	},
 	{
 		"name": "Guerrilla Tactics",
-		"uniques": ["Ignores terrain cost <in [Friendly Land] tiles>", "Can move after attacking"]
+		"uniques": ["Ignores terrain cost <in [Friendly Land] tiles>", "Ignores Zone of Control <in [Friendly Land] tiles>", "Can move after attacking"]
 	},
 	{
 		"name": "Buffalo Horns I", // only for Ikanda

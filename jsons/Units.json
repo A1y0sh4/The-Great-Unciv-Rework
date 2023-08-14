@@ -341,7 +341,7 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-10]% Strength for enemy [Military] units in adjacent [All] tiles", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-10]% Strength for enemy [Military] units in adjacent [All] tiles", "[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "elephant"
 	},
 	{
@@ -865,6 +865,22 @@
 		"obsoleteTech": "Industrialization",
 		"promotions": ["Extended Range"],
 		"attackSound": "arrow"
+	},
+	{
+		"name": "Voi Chiến",
+		"unitType": "Mounted",
+		"uniqueTo": "Vietnam",
+		"range": 1,
+		"movement": 3,
+		"strength": 21,
+		"rangedStrength": 18,
+		"replaces": "Crossbowman",
+		"cost": 200,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-10]% Strength for enemy [Military] units in adjacent [All] tiles", "[-33]% Strength <vs cities> <when attacking>"],
+		"attackSound": "elephant"
 	},
 	{
 		"name": "Trebuchet",

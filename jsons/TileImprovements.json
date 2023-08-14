@@ -288,6 +288,7 @@
 		"type": "Improvement",
 		"uniqueTo": "Vietnam",
 		"terrainsCanBeBuiltOn": ["Grassland", "Marsh"],
+		"techRequired": "Agriculture",
 		"food": 1,
 		"turnsToBuild": 6,
 		"uniques": ["Improvement", "Cannot be built on [Resource] tiles",

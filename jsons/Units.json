@@ -547,13 +547,16 @@
 		"uniqueTo": "Assyria",
 		"replaces": "Catapult",
 		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 12,
+		"range": 1,
 		"cost": 75,
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Trebuchet",
-		"promotions": ["Cover I"],
-		"uniques": ["[+50]% Strength bonus for [Military] units within [1] tiles <vs cities>", "No defensive terrain bonus", "[-1] Sight"],
-		"hurryCostModifier": 20
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "Can only attack [City] units", "[-1] Sight"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	},
 	{
 		"name": "Composite Bowman",

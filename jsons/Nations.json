@@ -513,7 +513,7 @@
                 "innerColor": [255, 56, 56],
 		
 		"uniqueName": "Spirit of Adwa",
-		"uniques": ["[+15]% [Science] [in all cities] <within [3] tiles of a [Holy site]>", "[+15]% Strength <within [3] tiles of a [Holy site]> <in [Friendly Land] tiles>"],
+		"uniques": ["[+20]% [Science] [in all cities] <within [3] tiles of a [Holy site]>", "[+20]% Strength <within [3] tiles of a [Holy site]> <in [Friendly Land] tiles>"],
 		"cities": ["Addis Ababa","Harar","Adwa","Lalibela","Gondar","Axum","Dire Dawa","Bahir Dar","Adama",
 			"Mek'ele","Awasa","Jimma","Jijiga","Dessie","Debre Berhan","Shashamane","Debre Zeyit","Sodo","Hosaena",
 			"Nekemte","Asella","Dila","Adigrat","Debre Markos","Kombolcha","Debre Tabor","Sebeta",
@@ -931,6 +931,7 @@
 
 		"startIntroPart1": " ",
 		"startIntroPart2": " ",
+		
 		"declaringWar": "We have arrows, finely honed. We shall deliver them freely to your throat.",
 		"attacked": "As predicted, you know only how to take. Come, then—choose the manner of your defeat.",
 		"defeated": "Though Nubia declines, our pyramids shall remain long after your plans fall to ruin.",
@@ -1282,6 +1283,31 @@
 			"Vantaa","Visby","Strängnäs","Tampere","Skara","Lödöse","Oulu","Växjö","Jyväskylä","Gothenburg",
 			"Örebro","Lahti","Helsingborg","Jönköping","Kuopio","Norrköping","Sundsvall","Kouvola","Karlstad","Umeå",
 			"Pori","Ystad","Paviken","Vaasa"]
+	},
+	{
+		"name": "Vietnam",
+		"leaderName": "Bà Triệu",
+		"adjective": ["Vietnamese"],
+		"startBias": ["Marsh"],
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+		
+		"declaringWar": "Now you are at war with Vietnam. Do you hear our trumpets? The thunder of our elephants? They are coming for you!",
+		"attacked": "I have waited for this day for a long time. Today begins the war that will end in your destruction.",
+		"defeated": "Do you think you have defeated me? I will ascend to heaven, and become the immortal spirit of our resistance!",
+		"introduction": "I am Lady Trieu, the general who wears the golden robe. Welcome to Vietnam.",
+		"neutralHello": "Xin chao.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		
+		"outerColor": [0,204,126],
+		"innerColor": [128,3,28],
+		
+		"uniqueName": " Drive Out The Aggressors",
+		"uniques": ["[+2 Food, +1 Production] from every [Marsh]","[+1 Faith] from every [Jungle]"],
+		"cities": ["Thăng Long","Huế","Hoa Lư","Trà Kiệu","Đồng Hới","Quảng Trị","Sài Gòn","Hải Phòng","Cần Thơ","Đà Nẵng","Thái Nguyên","Hạ Long","Quy Nhơn","Đà Lạt","Biên Hòa","Nha Trang","Rạch Giá"
+		"Nam Định","Vinh","Buôn Ma Thuột","Việt Trì"]
 	},
 	{
 		"name": "The Huns",

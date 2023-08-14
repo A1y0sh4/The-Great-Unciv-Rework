@@ -75,7 +75,7 @@
     {
         "name": "Messenger of the Gods",
         "type": "Pantheon",
-        "uniques": ["[+1 Science, +1 Culture] from each Trade Route", "[+1 Science, +1 Culture] from each Trade Route <upon discovering [Guilds]>"]
+        "uniques": ["[+1 Science, +1 Culture] per [6] population [in all cities connected to capital]"]
     },
     {
         "name": "Monument to the Gods",

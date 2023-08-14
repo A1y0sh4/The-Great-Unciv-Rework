@@ -1285,31 +1285,6 @@
 			"Pori","Ystad","Paviken","Vaasa"]
 	},
 	{
-		"name": "Vietnam",
-		"leaderName": "Bà Triệu",
-		"adjective": ["Vietnamese"],
-		"startBias": ["Marsh"],
-
-		"startIntroPart1": " ",
-		"startIntroPart2": " ",
-		
-		"declaringWar": "Now you are at war with Vietnam. Do you hear our trumpets? The thunder of our elephants? They are coming for you!",
-		"attacked": "I have waited for this day for a long time. Today begins the war that will end in your destruction.",
-		"defeated": "Do you think you have defeated me? I will ascend to heaven, and become the immortal spirit of our resistance!",
-		"introduction": "I am Lady Trieu, the general who wears the golden robe. Welcome to Vietnam.",
-		"neutralHello": "Xin chao.",
-		"hateHello": "What do you want?",
-		"tradeRequest": "Better hurry, I may change my mind.",
-		
-		"outerColor": [0,204,126],
-		"innerColor": [128,3,28],
-		
-		"uniqueName": "Guerrilla Tactics",
-		"uniques": ["[Sword] units gain the [Guerrilla Tactics] promotion", "[Gunpowder] units gain the [Guerrilla Tactics] promotion", "[{Melee} {Land}] units gain the [Ambush I] promotion"],
-		"cities": ["Thăng Long","Huế","Hoa Lư","Trà Kiệu","Đồng Hới","Quảng Trị","Sài Gòn","Hải Phòng","Cần Thơ","Đà Nẵng","Thái Nguyên","Hạ Long","Quy Nhơn","Đà Lạt","Biên Hòa","Nha Trang","Rạch Giá"
-		"Nam Định","Vinh","Buôn Ma Thuột","Việt Trì"]
-	},
-	{
 		"name": "The Huns",
 		"leaderName": "Attila the Hun",
 		"adjective": ["Hunnic"],
@@ -1424,6 +1399,31 @@
 			"Marsin","Antalya","Zonguldak","Denizli","Ordu","Mugia","Eskishehir","Inebolu","Sinop","Adana","Artuin",
 			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarhisar",
 			"Bitlis","Yalova"]
+	},
+	{
+		"name": "Vietnam",
+		"leaderName": "Bà Triệu",
+		"adjective": ["Vietnamese"],
+		"startBias": ["Marsh"],
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+		
+		"declaringWar": "Now you are at war with Vietnam. Do you hear our trumpets? The thunder of our elephants? They are coming for you!",
+		"attacked": "I have waited for this day for a long time. Today begins the war that will end in your destruction.",
+		"defeated": "Do you think you have defeated me? I will ascend to heaven, and become the immortal spirit of our resistance!",
+		"introduction": "I am Lady Trieu, the general who wears the golden robe. Welcome to Vietnam.",
+		"neutralHello": "Xin chao.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		
+		"outerColor": [255,255,0],
+		"innerColor": [128,3,28],
+		
+		"uniqueName": "Guerrilla Tactics",
+		"uniques": ["[Sword] units gain the [Guerrilla Tactics] promotion", "[Gunpowder] units gain the [Guerrilla Tactics] promotion", "[{Melee} {Land}] units gain the [Ambush I] promotion"],
+		"cities": ["Thăng Long","Huế","Hoa Lư","Trà Kiệu","Đồng Hới","Quảng Trị","Sài Gòn","Hải Phòng","Cần Thơ","Đà Nẵng","Thái Nguyên","Hạ Long","Quy Nhơn","Đà Lạt","Biên Hòa","Nha Trang","Rạch Giá"
+		"Nam Định","Vinh","Buôn Ma Thuột","Việt Trì"]
 	},
 	{
 		"name": "Zulu",

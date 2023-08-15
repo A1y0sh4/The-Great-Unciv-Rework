@@ -161,7 +161,7 @@
     {
         "name": "Guruship",
         "type": "Follower",
-        "uniques": ["[+2 Production] [in cities following this religion] <in cities with at least [1] [Specialists]>"]
+        "uniques": ["[+1 Culture, +1 Happiness] [in cities following this religion] <in cities with at least [1] [Specialists]>"]
     },
     {
         "name": "Holy Warriors",
@@ -196,7 +196,7 @@
     {
         "name": "Peace Gardens",
         "type": "Follower",
-        "uniques": ["[+2 Happiness, +2 Culture] from every [Garden]"]
+        "uniques": ["[+1 Happiness, +1 Culture] from every [Garden]"]
     },
     {
         "name": "Religious Art",
@@ -333,7 +333,7 @@
      {
         "name": "Holy Alliance",
         "type": "Enhancer",
-        "uniques": ["Gain [100] [Faith] <upon declaring friendship>"]
+        "uniques": ["Gain [100] [Gold] <upon declaring friendship>"]
     }
 ]
 

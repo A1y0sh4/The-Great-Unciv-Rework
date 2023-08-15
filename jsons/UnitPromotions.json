@@ -592,7 +592,7 @@
 	},
 	{
 		"name": "Water Mobility",
-		"uniques": ["[1] Movement point cost to embark", "[1] Movement point cost to disembark"],
+		"uniques": ["May travel on Water tiles without embarking"],
         "column": 28,
         "row": 1
 	},

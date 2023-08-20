@@ -424,7 +424,7 @@
             {
                 "name": "Secularism",
                 "uniques": [
-                "[+25]% [Science] from every [Garden]", "[+1 Science] from all [Science] buildings" 
+                "[-50]% Natural religion spread [in all cities]", "[+1 Science] from all [Science] buildings" 
                 ],
                 "row": 1,
                 "column": 2

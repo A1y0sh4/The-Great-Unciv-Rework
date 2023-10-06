@@ -309,7 +309,7 @@
 		"uniques": ["Resource", "Generated with weight [25] <in [Jungle] Regions>",
 			                "Generated with weight [20] <in [Desert] Regions>",
 					"Generated with weight [5] <in [Hybrid] Regions>",
-		                        "Doesn't generate naturally <in [Tundra] tiles>", "Doesn't generate naturally <in [Plains] tiles>", "Doesn't generate naturally <in [Desert] tiles>",
+		                        "Doesn't generate naturally <in [Tundra] tiles>", "Doesn't generate naturally <in [Plains] tiles>", "Doesn't generate naturally <in [Hill] tiles>", "Doesn't generate naturally <in [Desert] tiles>",
 		                        "Doesn't generate naturally <in [Tundra] Regions>", "Doesn't generate naturally <in [Desert] Regions>"]
 	},
 	{
@@ -322,6 +322,7 @@
 		"improvementStats": {"gold": 1},
 		"uniques": ["Resource", "Generated with weight [25] <in [Jungle] Regions>",
 					"Generated with weight [5] <in [Hybrid] Regions>",
+                                        "Doesn't generate naturally <in [Hill] tiles>",
 			                "Doesn't generate naturally <in [Tundra] tiles>",
 			                "Doesn't generate naturally <in [Desert] tiles>",
 		                        "Doesn't generate naturally <in [Tundra] Regions>", 
@@ -336,6 +337,7 @@
 		"improvement": "Plantation",
 		"improvementStats": {"gold": 1},
 		"uniques": ["Resource", "Generated with weight [25] <in [Jungle] Regions>",
+                                        "Doesn't generate naturally <in [Hill] tiles>",
 					"Generated with weight [5] <in [Hybrid] Regions>",
 		                        "Doesn't generate naturally <in [Tundra] Regions>",
 			                "Doesn't generate naturally <in [Desert] Regions>"]

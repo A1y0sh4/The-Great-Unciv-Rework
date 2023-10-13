@@ -1227,7 +1227,7 @@
 		"requiredTech": "Refrigeration"
 	},
 	{
-		"name": "Maracanã Stadium",
+		"name": "Maracana Stadium",
 		"isWonder": true,
 		"culture": 6,
 		"greatPersonPoints": {"Great Engineer": 2},

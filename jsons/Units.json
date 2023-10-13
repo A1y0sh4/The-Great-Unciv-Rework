@@ -154,7 +154,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Pítati",
+		"name": "Pitati",
 		"unitType": "Archery",
 		"movement": 3,
 		"strength": 5,
@@ -867,7 +867,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Voi Chiến",
+		"name": "Voi Chien",
 		"unitType": "Mounted",
 		"uniqueTo": "Vietnam",
 		"range": 1,

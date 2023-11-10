@@ -639,7 +639,7 @@
 		"faith": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
-		"uniques": ["Gain a free [Temple] [in this city]", "Free [Great Prophet] appears", "Hidden when religion is disabled", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Culture]"],
+		"uniques": ["Free [Great Prophet] appears", "Hidden when religion is disabled", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Culture]"],
 		"requiredTech": "Theology",
 		"quote": "'For it soars to a height to match the sky, and as if surging up from among the other buildings it stands on high and looks down upon the remainder of the city, adorning it, because it is a part of it, but glorying in its own beauty' - Procopius, De Aedificis"
 	},
@@ -649,8 +649,7 @@
 		"faith": 3,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["Must be next to [Desert]", "Gain a free [Mosque] [in this city]", "[+1 Science] from all [Faith] buildings", "Hidden when religion is disabled",
-			"[Missionary] units built [in this city] can [Spread Religion] [1] extra times", "[Great Prophet] units built [in this city] can [Spread Religion] [1] extra times"],
+		"uniques": ["Must be next to [Desert]", "Gain a free [Mosque] [in this city]", "[+1 Science] from all [Faith] buildings", "Hidden when religion is disabled"],
 		"requiredTech": "Theology",
 		"quote": "'With the magnificence of eternity before us, let time, with all its fluctuations, dwindle into its own littleness.' - Thomas Chalmers"
 	},
@@ -658,9 +657,9 @@
 		"name": "Grand Temple",
 		"cost": 125,
 		"culture": 1,
-		"faith": 6,
+		"faith": 5,
 		"uniques": ["Requires a [Temple] in all cities", "Cost increases by [30] per owned city",
-			"[+100]% Natural religion spread [in this city]", "[+1 Faith] from all [Faith] buildings", "Hidden when religion is disabled", "Can only be built [in holy cities]"],
+			"[+100]% Natural religion spread [in this city]", "[Missionary] units built [in this city] can [Spread Religion] [1] extra times", "[Great Prophet] units built [in this city] can [Spread Religion] [1] extra times", "Hidden when religion is disabled", "Can only be built [in holy cities]"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	},
@@ -849,7 +848,7 @@
 	},
 	{
 		"name": "Red Fort",
-		"culture": 3,
+		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 1},
 		"uniques": ["Gain a free [Castle] [in this city]", "Gain [100] [Gold] <upon constructing [Wonders] [in all cities]>", "Gain [100] [Culture] <upon gaining a [Great Person] unit>"],

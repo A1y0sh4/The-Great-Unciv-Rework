@@ -94,7 +94,7 @@
 		"strength": 10,
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
-		"promotions": ["[Jaguar] ability", "Can be purchased with [50] [Faith] [in all cities]"],
+		"promotions": ["[Jaguar] ability", "Can be purchased with [Faith] [in all cities]"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},

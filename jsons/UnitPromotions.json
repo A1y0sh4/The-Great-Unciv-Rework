@@ -899,6 +899,6 @@
 	},
 	{
 		"name": "River Mobility",
-		"uniques": ["Double movement in [River]"],
+		"uniques": ["Ignores terrain cost <in [River] tiles>"],
 	}
 ]

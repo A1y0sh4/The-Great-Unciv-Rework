@@ -373,10 +373,10 @@
 	{
 		"name": "El Dorado",
 		"type": "NaturalWonder",
-		"culture": 3,
+		"culture": 5,
 		"overrideStats": false,
 		"occursOn": ["Plains", "Grassland"],
-		"turnsInto": "Jungle",
+		"turnsInto": "Grassland",
 		"impassable": false,
 		"unbuildable": true,
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",

@@ -898,7 +898,7 @@
 		"unitTypes": ["Sword"]
 	},
 	{
-		"name": "Water Mobility",
+		"name": "River Mobility",
 		"uniques": ["Double movement in [River]"],
 	}
 ]

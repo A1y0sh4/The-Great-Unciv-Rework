@@ -897,4 +897,8 @@
 		"prerequisites": ["Buffalo Chest II"],
 		"unitTypes": ["Sword"]
 	},
+	{
+		"name": "Water Mobility",
+		"uniques": ["Double movement in [River]"],
+	}
 ]

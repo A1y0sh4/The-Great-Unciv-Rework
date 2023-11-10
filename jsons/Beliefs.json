@@ -80,7 +80,7 @@
     {
         "name": "Monument to the Gods",
         "type": "Pantheon",
-        "uniques": ["[+15]% Production when constructing [All] wonders [in this city] <before the [Medieval era]>", "[+1 Faith, +1 Culture] from every [World Wonder] <before the [Medieval era]>"]
+        "uniques": ["[+10]% Production when constructing [All] wonders [in this city]", "[+1 Faith] from every [Wonder]"]
     },
     {
         "name": "One with Nature",

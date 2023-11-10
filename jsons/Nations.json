@@ -85,8 +85,8 @@
 		"outerColor": [81, 120, 156],
 		"innerColor": [248, 202, 86],
 		
-		"uniqueName": "Land Rush",
-		"uniques": ["[+1] population in a random city <upon constructing [Production]> <with [50]% chance>", "[-50]% Food consumption by specialists [in capital]"],
+		"uniqueName": "Foreign Immigration",
+		"uniques": ["[+1] population in a random city <upon declaring friendship>", "[+1] population in a random city <upon entering a Golden Age>", "[-50]% Food consumption by specialists [in capital]"],
 		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Catamarca","Formosa","San Juan","San Luis","Posadas","Parana","Salta","Neeuquen","Jujuy","La Rioja","Santa Fe","Río Gallegos","Ushuaia"]
 	},
 	{

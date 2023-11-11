@@ -373,7 +373,7 @@
 	{
 		"name": "El Dorado",
 		"type": "NaturalWonder",
-		"culture": 5,
+		"culture": 4,
 		"overrideStats": false,
 		"occursOn": ["Plains", "Grassland"],
 		"turnsInto": "Grassland",

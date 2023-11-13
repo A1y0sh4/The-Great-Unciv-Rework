@@ -1141,11 +1141,13 @@
 		"replaces": "Factory",
 		"uniqueTo": "Germany",
 		"cost": 360,
+		"production": 2,
 		"specialistSlots": {"Engineer": 2},
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"uniques": ["Must be next to [Fresh water]", "[+1 Production] from [Mine] tiles [in this city]", "[+5]% [Production] [in all cities]"],
+		"requiredResource": "Coal",
 		"requiredTech": "Industrialization"
 	},
 	{

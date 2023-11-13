@@ -932,19 +932,6 @@
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
 	},
-	// will be introduced in BNW expansion pack
-//	{
-//		"name": "Hanse",
-//		"replaces": "Bank",
-//		"uniqueTo": "Germany",
-//	        "gold": 2,
-//		"specialistSlots": {"Merchant": 1},
-//		"hurryCostModifier": 15,
-//		"percentStatBonus": {"gold": 15},
-//		"uniques": ["+5% Production for every Trade Route with a City-State in the empire"],
-//		"requiredBuilding": "Market",
-//		"requiredTech": "Banking"
-//	},
 	{
 		"name": "Forbidden Palace",
 		"culture": 3,
@@ -1147,6 +1134,17 @@
 		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"requiredResource": "Coal",
+		"requiredTech": "Industrialization"
+	},
+        {
+		"name": "Coking Factory",
+		"replaces": "Factory",
+		"uniqueTo": "Germany",
+		"specialistSlots": {"Engineer": 2},
+		"requiredBuilding": "Workshop",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"uniques": ["Must be next to [Fresh water]", "[+1 Production] from [Mine] tiles [in this city]", "[+5]% [Production] [in all cities]"],
 		"requiredTech": "Industrialization"
 	},
 	{

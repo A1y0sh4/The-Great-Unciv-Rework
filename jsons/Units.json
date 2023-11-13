@@ -643,21 +643,6 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Landsknecht",
-		"unitType": "Sword",
-		"replaces": "Pikeman",
-		"uniqueTo": "Germany",
-		"movement": 2,
-		"strength": 16,
-		"cost": 90,
-		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Earn [20]% of the damage done to [City] units as [Gold]", "Can move immediately once bought"],
-		"promotions":["Mercenary"],
-		"upgradesTo": "Musketman",
-		"obsoleteTech": "Gunpowder",
-		"attackSound": "metalhit"
-	},
-	{
 		"name": "Swiss Guard",
 		"unitType": "Sword",
 		"replaces": "Pikeman",

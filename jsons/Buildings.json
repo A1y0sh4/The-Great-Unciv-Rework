@@ -1140,6 +1140,7 @@
 		"name": "Coking Factory",
 		"replaces": "Factory",
 		"uniqueTo": "Germany",
+		"cost": 360,
 		"specialistSlots": {"Engineer": 2},
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,

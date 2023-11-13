@@ -389,11 +389,10 @@
 		"replaces": "Colosseum",
 		"cost": 100,
 		"happiness": 2,
-		"culture": 1,
 		"uniqueTo": "Kievan Rus'",
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Gold] from [Farm] tiles [in this city]"],
-		"maintenance": 1,
+		"maintenance": 0,
 		"requiredTech": "Construction"
 	},
 	{

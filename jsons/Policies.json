@@ -32,10 +32,9 @@
                 "column": 4
             },
             {
-                "name": "Oligarchy",
+                "name": "Monumentalism",
                 "uniques": [
-                    "Units in cities cost no Maintenance",
-                    "[+33]% Strength for cities <with a garrison>"
+                   "[+15]% Production when constructing [All] wonders [in all cities]",
                 ],
                 "row": 1,
                 "column": 5
@@ -45,7 +44,7 @@
                 "uniques": [
                     "[+1 Gold] from every [Farm]"
                 ],
-                "requires": ["Legalism"],
+                "requires": ["God King"],
                 "row": 2,
                 "column": 2
             },

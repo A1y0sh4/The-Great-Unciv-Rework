@@ -100,7 +100,7 @@
             {
                 "name": "Collective Rule",
                 "uniques": [
-		    "[+100]% Production when constructing [Settler] units [in capital]"
+		    "[+50]% Production when constructing [Civil] units [in capital]"
                 ],
                 "requires": ["Republic"],
                 "row": 1,

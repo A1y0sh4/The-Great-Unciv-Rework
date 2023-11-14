@@ -11,7 +11,7 @@
 	    "Religious": 30
         },
         "uniques": [
-            "[+3 Culture] [in capital]"
+            "[+15]% [Food] [in capital]",
         ],
         "policies": [
             {

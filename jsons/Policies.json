@@ -116,10 +116,9 @@
                 "column": 3
             },
             {
-                "name": "Meritocracy",
+                "name": "Diplomatic League",
                 "uniques": [
-                    "[+1 Happiness] [in all cities connected to capital]",
-                    "[-5]% Unhappiness from [Population] [in all non-occupied cities]"
+                    "[+1 Happiness] [in all cities connected to capital]"
                 ],
                 "requires": ["Citizenship"],
                 "row": 2,

@@ -98,9 +98,8 @@
             {
                 "name": "Collective Rule",
                 "uniques": [
-		    "[+33]% Production when constructing [Civil] units [in capital]"
+		    "[+33]% Production when constructing [Civil] units [in all cities]"
                 ],
-                "requires": ["Republic"],
                 "row": 1,
                 "column": 1
             },

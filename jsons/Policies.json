@@ -27,7 +27,7 @@
                 "uniques": [
                     "[-50]% Unhappiness from [Population] [in capital]"
                 ],
-		"requires": ["God King"],
+		"requires": ["Monarchy"],
                 "row": 2,
                 "column": 4
             },
@@ -44,12 +44,12 @@
                 "uniques": [
                     "[+1 Gold] from every [Farm]"
                 ],
-                "requires": ["God King"],
+                "requires": ["Monarchy"],
                 "row": 2,
                 "column": 2
             },
             {
-                "name": "God King",
+                "name": "Monarchy",
                 "uniques": [
                     "[+1 Culture, +1 Faith] per [2] population [in capital]"
                 ],
@@ -91,7 +91,6 @@
                 "name": "Citizenship",
                 "uniques": [
                     "[+1 Production] per [4] population [in all cities]"
-                    "Free [Worker] appears"
                 ],
                 "row": 1,
                 "column": 4

@@ -11,7 +11,7 @@
 	    "Religious": 30
         },
         "uniques": [
-            "[+15]% [Food] [in capital]",
+            "[+15]% [Food] [in capital]"
         ],
         "policies": [
             {
@@ -34,7 +34,7 @@
             {
                 "name": "Monumentalism",
                 "uniques": [
-                   "[+15]% Production when constructing [All] wonders [in all cities]",
+                   "[+15]% Production when constructing [All] wonders [in all cities]"
                 ],
                 "row": 1,
                 "column": 5
@@ -90,7 +90,7 @@
             {
                 "name": "Citizenship",
                 "uniques": [
-                    "[+1 Production] per [4] population [in all cities]",
+                    "[+1 Production] per [4] population [in all cities]"
                     "Free [Worker] appears"
                 ],
                 "row": 1,

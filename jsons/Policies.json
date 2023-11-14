@@ -15,7 +15,7 @@
         ],
         "policies": [
             {
-                "name": "Aristocracy",
+                "name": "Discipline",
                 "uniques": [
                     "[+15]% Production when constructing [All] wonders [in all cities]",
                     "[+1 Gold, +1 Happiness] per [10] population [in all cities]"

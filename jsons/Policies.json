@@ -11,7 +11,7 @@
 	    "Religious": 30
         },
         "uniques": [
-            "[+15]% [Food] [in capital]"
+            "[+20]% [Food] [in capital]"
         ],
         "policies": [
             {
@@ -34,7 +34,7 @@
             {
                 "name": "Monumentalism",
                 "uniques": [
-                   "[+15]% Production when constructing [All] wonders [in all cities]"
+                   "[+1 Happiness] from every [Wonder]"
                 ],
                 "row": 1,
                 "column": 5

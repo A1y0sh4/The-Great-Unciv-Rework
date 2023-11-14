@@ -98,7 +98,7 @@
             {
                 "name": "Collective Rule",
                 "uniques": [
-		    "[+50]% Production when constructing [Civil] units [in capital]"
+		    "[+33]% Production when constructing [Civil] units [in capital]"
                 ],
                 "requires": ["Republic"],
                 "row": 1,
@@ -107,7 +107,7 @@
             {
                 "name": "Representation",
                 "uniques": [
-                    "Each city founded increases culture cost of policies [33]% less than normal"
+                    "Each city founded increases culture cost of policies [50]% less than normal"
                 ],
                 "requires": ["Citizenship"],
                 "row": 2,

@@ -158,7 +158,6 @@
                 "uniques": [
                     "[+50]% XP gained from combat <for [Military] units>"
                 ],
-                "requires": ["Warrior Code"],
                 "row": 1,
                 "column": 4
             },

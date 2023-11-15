@@ -165,8 +165,7 @@
             {
                 "name": "Military Tradition",
                 "uniques": [
-                    "Free [Great General] appears",
-		    "[+30]% to Flank Attack bonuses"
+                    "[+50]% XP gained from combat <for [Military] units>"
                 ],
                 "requires": ["Warrior Code"],
                 "row": 2,

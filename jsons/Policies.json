@@ -171,7 +171,7 @@
                 "column": 2
             },
             {
-                "name": "Logistics",
+                "name": "State Logistics",
                 "uniques": [
                     "[-50]% maintenance on road & railroads"
                 ],

@@ -154,11 +154,11 @@
                 "column": 2
             },
             {
-                "name": "Discipline",
+                "name": "Military Tradition",
                 "uniques": [
-                    "[+15]% Strength <vs [Barbarian] units>",
-		    "[+15]% Strength <for [Wounded] units>"
+                    "[+50]% XP gained from combat <for [Military] units>"
                 ],
+                "requires": ["Warrior Code"],
                 "row": 1,
                 "column": 4
             },

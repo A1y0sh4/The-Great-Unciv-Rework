@@ -128,8 +128,8 @@
         ]
     },
     {
-        "name": "Honor",
-        "era": "Ancient era",
+        "name": "Expansion",
+        "era": "Classical era",
         "priorities": {
             "Neutral": 0,
             "Cultural": 0,
@@ -139,7 +139,7 @@
 	    "Religious": 20
         },
         "uniques": [
-                "Earn [20]% of killed [Military] unit's [Cost] as [Culture]",
+                "[+33]% Strength <vs [Barbarian] units>",
                 "Notified of new Barbarian encampments"
         ],
         "policies": [

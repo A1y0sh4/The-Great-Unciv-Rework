@@ -191,7 +191,7 @@
             {
                 "name": "Expansion Complete",
                 "uniques": [
-                 "Provides the cheapest [Happiness] building in your first [4] cities for free"
+                 "[-25]% Culture cost of natural border growth [in all cities connected to capital]", "[-25]% Gold cost of acquiring tiles [in all cities connected to capital]"
                 ]
             }
         ]

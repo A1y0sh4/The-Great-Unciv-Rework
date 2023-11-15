@@ -123,7 +123,7 @@
             },
             {
                 "name": "Liberty Complete",
-                "uniques": ["Free Great Person", "Provides the cheapest [Happiness] building in your first [4] cities for free"]
+                "uniques": ["Free Great Person"]
             }
         ]
     },
@@ -162,39 +162,36 @@
                 "column": 4
             },
             {
-                "name": "Military Tradition",
+                "name": "City Militia",
                 "uniques": [
-                    "[+50]% XP gained from combat <for [Military] units>"
+                    "Units in cities cost no Maintenance", "[+1 Happiness] [in all cities with a garrison]"
                 ],
                 "requires": ["Warrior Code"],
                 "row": 2,
                 "column": 2
             },
             {
-                "name": "Military Caste",
+                "name": "Logistics",
                 "uniques": [
-                    "[+1 Production, +1 Happiness] [in all cities with a garrison]",
-		    "New [Military] units start with [15] Experience [in all cities with a garrison]"
+                    "[-50]% maintenance on road & railroads"
                 ],
-                "requires": ["Discipline"],
-                "row": 2,
+                "requires": ["Professional Army"],
+                "row": 3,
                 "column": 4
             },
             {
                 "name": "Professional Army",
                 "uniques": [
-                    "[-33]% Gold cost of upgrading <for [Military] units>",
-                    "[+50]% XP gained from combat <for [Military] units>"
+                    "[-33]% Gold cost of upgrading <for [Military] units>"
                 ],
-                "requires": ["Military Caste"],
-                "row": 3,
+                "requires": ["Military Tradition"],
+                "row": 2,
                 "column": 4
             },
             {
-                "name": "Honor Complete",
+                "name": "Expansion Complete",
                 "uniques": [
-                    "Earn [20]% of killed [Military] unit's [Cost] as [Gold]",
-		    "When defeating a [Military] unit, earn [0] Gold and recruit it <with [15]% chance>"
+                 "Provides the cheapest [Happiness] building in your first [4] cities for free"
                 ]
             }
         ]

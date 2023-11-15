@@ -146,9 +146,9 @@
             {
                 "name": "Warrior Code",
                 "uniques": [
-                    "[+1 Culture, +1 Gold] from every [Barracks]",
-		    "[+1 Culture, +1 Gold] from every [Armory]",
-		    "[+1 Culture, +1 Gold] from every [Military Academy]",
+                    "[+1 Culture, +1 Production] from every [Barracks]",
+		    "[+1 Culture, +1 Production] from every [Armory]",
+		    "[+1 Culture, +1 Production] from every [Military Academy]",
                 ],
                 "row": 1,
                 "column": 2

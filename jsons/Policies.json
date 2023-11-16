@@ -215,7 +215,7 @@
             {
                 "name": "Organized Religion",
                 "uniques": [
-		    "[+1 Happiness] [in all cities in which the majority religion is a major religion]", "Enables conversion of city production to [Faith]"
+		    "[+1 Happiness] [in all cities in which the majority religion is a major religion]"
                 ],
                 "row": 1,
                 "column": 2
@@ -228,8 +228,7 @@
             },
             {
                 "name": "Theocracy",
-                "uniques": ["[Faith] cost of purchasing items in cities [-25]%",
-			   "[+1 Happiness] from every [Wonder]"],
+                "uniques": ["[50]% of excess happiness converted to [Faith]"],
                 "requires": ["Organized Religion"],
                 "row": 2,
                 "column": 1

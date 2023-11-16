@@ -245,7 +245,7 @@
             },
             {
                 "name": "Inquisition",
-                "uniques": ["[50]% of excess happiness converted to [Faith]"],
+                "uniques": ["May buy [Inquisitor] units with [Faith] [in all cities in which the majority religion is a major religion]", "Free [Inquisitor] appears"],
                 "requires": ["Mandate Of Heaven", "Religious Orders"],
                 "row": 3,
                 "column": 4

@@ -222,7 +222,7 @@
             },
             {
                 "name": "Holy War",
-                "uniques": ["[+1 Culture, +1 Faith] per [2] population [in capital]"],
+                "uniques": ["Gain [50] [Faith] <upon declaring war with a major Civilization>"],
                 "row": 1,
                 "column": 5
             },

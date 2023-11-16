@@ -208,6 +208,7 @@
         },
         "uniques": [
             "Gain enough Faith for a Pantheon",
+	    "Only available <after founding a religion>",
             "Only available <before adopting [Rationalism]>"
         ],
         "policies": [

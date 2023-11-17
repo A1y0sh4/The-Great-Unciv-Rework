@@ -246,7 +246,7 @@
 		"unbuildable": true,
 		"defenceBonus": -0.1,
 		"occursOn": ["Grassland", "Plains", "Tundra"],
-		"uniques": ["Fresh water", "Occurs in groups of [1] to [3] tiles",
+		"uniques": ["Fresh water", 
 			    "Always Fertility [4] for Map Generation",
 			    "Only [All Road] improvements may be built on this tile",
 			    "Considered [Food] when determining start locations",

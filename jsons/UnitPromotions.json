@@ -900,5 +900,9 @@
 	{
 		"name": "River Mobility",
 		"uniques": ["Ignores terrain cost <in [River] tiles>"],
-	}
+	},
+	 {
+        "name": "Devout",
+        "uniques": ["Can Spread Religion <[1] additional time(s)>"]
+    }
 ]

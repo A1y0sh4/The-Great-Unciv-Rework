@@ -309,7 +309,7 @@
             },
             {
                 "name": "Educated Elite",
-                "requires": ["Scholasticism", "Aesthetics"],
+                "requires": ["Scholasticism", "Philantropy"],
                 "uniques": [
                     "Allied City-States will occasionally gift Great People",
 		    "[+1 Science] from every specialist [in all cities]"

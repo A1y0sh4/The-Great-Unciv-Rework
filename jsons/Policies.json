@@ -280,10 +280,9 @@
                 "column": 4
             },
             {
-                "name": "Aesthetics",
+                "name": "Political Science",
                 "uniques": [
-                    "Resting point for Influence with City-States is increased by [15]",
-		    "[+1 Culture] from all [Happiness] buildings"
+                    "[+3 Science] per [1] social policies adopted"
                 ],
                 "row": 1,
                 "column": 2

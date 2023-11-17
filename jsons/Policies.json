@@ -282,7 +282,7 @@
             {
                 "name": "Political Science",
                 "uniques": [
-                    "[+3 Science] per [1] social policies adopted"
+                    "[+2 Science] per [1] social policies adopted"
                 ],
                 "row": 1,
                 "column": 2

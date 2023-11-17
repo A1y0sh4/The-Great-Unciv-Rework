@@ -241,13 +241,14 @@
 	{
 		"name": "Lakes",
 		"type": "TerrainFeature",
-		"food": 3,
+		"food": 2,
 		"movementCost": 1,
 		"unbuildable": true,
 		"defenceBonus": -0.1,
 		"occursOn": ["Grassland", "Plains", "Tundra"],
 		"RGB": [ 123, 202, 226],
-		"uniques": ["Fresh water", "Occurs in groups of [1] to [4] tiles",
+		"uniques": ["Fresh water", "Occurs in groups of [1] to [3] tiles",
+			    "Always Fertility [4] for Map Generation",
 			    "Only [All Road] improvements may be built on this tile",
 			    "Considered [Food] when determining start locations",
 			    "Considered [Desirable] when determining start locations"]

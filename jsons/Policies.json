@@ -293,7 +293,7 @@
                     "Allied City-States provide [Science] equal to [33]% of what they produce for themselves",
 		    "Provides the cheapest [Science] building in your first [4] cities for free"
                 ],
-                "requires": ["Philantropy"],
+                "requires": ["Political Science"],
                 "row": 2,
                 "column": 2
             },

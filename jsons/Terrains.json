@@ -335,7 +335,7 @@
 			"Must be adjacent to [0] [Water] tiles",
 			"Must be adjacent to [0] to [2] [Hill] tiles",
 			"Occurs in groups of [2] to [2] tiles", "Tile provides yield without assigned population"],
-		"turnsInto": "Lakes",
+		"turnsInto": "Tundra",
 		"impassable": false,
 		"unbuildable": true,
 		"weight": 15
@@ -718,7 +718,7 @@
 		"science": 1,
 		"culture": 1,
 		"occursOn": ["Plains"],
-		"turnsInto": "Lakes",
+		"turnsInto": "Plains",
 		"impassable": true,
 		"unbuildable": true,
 		"uniques": ["Fresh water", "Must be adjacent to [0] [Coast] tiles", "Tile provides yield without assigned population"],

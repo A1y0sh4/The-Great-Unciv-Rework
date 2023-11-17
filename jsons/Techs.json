@@ -294,6 +294,7 @@
 				"name": "Printing Press",
 				"row": 8,
 				"prerequisites": ["Machinery","Physics","Chivalry"],
+				"uniques": ["Enables Defensive Pacts"],
 				"quote": "'It is a newspaper's duty to print the news and raise hell.' - The Chicago Times"
 			},
 			{

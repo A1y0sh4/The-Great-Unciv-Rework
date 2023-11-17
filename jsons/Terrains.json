@@ -246,7 +246,6 @@
 		"unbuildable": true,
 		"defenceBonus": -0.1,
 		"occursOn": ["Grassland", "Plains", "Tundra"],
-		"RGB": [ 123, 202, 226],
 		"uniques": ["Fresh water", "Occurs in groups of [1] to [3] tiles",
 			    "[+2] to Fertility for Map Generation",
 			    "A Region is formed with at least [16]% [Lakes] tiles, with priority [3]",

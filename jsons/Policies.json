@@ -258,7 +258,7 @@
         ]
     },
     {
-        "name": "Patronage",
+        "name": "Diplomacy",
         "era": "Medieval era",
         "priorities": {
             "Neutral": 0,
@@ -277,7 +277,7 @@
 		    "City-State Influence recovers at twice the normal rate"
                 ],
                 "row": 1,
-                "column": 2
+                "column": 4
             },
             {
                 "name": "Aesthetics",
@@ -286,7 +286,7 @@
 		    "[+1 Culture] from all [Happiness] buildings"
                 ],
                 "row": 1,
-                "column": 4
+                "column": 2
             },
             {
                 "name": "Scholasticism",

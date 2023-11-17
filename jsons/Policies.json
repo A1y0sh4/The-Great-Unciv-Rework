@@ -273,7 +273,7 @@
             {
                 "name": "Philantropy",
                 "uniques": [
-                    "Gifts of Gold to City-States generate [15]% more Influence",
+                    "Gifts of Gold to City-States generate [20]% more Influence",
 		    "City-State Influence recovers at twice the normal rate"
                 ],
                 "row": 1,
@@ -318,7 +318,7 @@
                 "column": 4
             },
             {
-                "name": "Patronage Complete",
+                "name": "Diplomacy Complete",
                 "uniques": [
                     "Influence of all other civilizations with all city-states degrades [33]% faster",
                     "Triggers the following global alert: [Our influence with City-States has started dropping faster!]"

@@ -187,7 +187,6 @@
 		"name": "Floating Gardens",
 		"replaces": "Water Mill",
 		"uniqueTo": "Aztecs",
-		"production": 1,
 		"uniques": ["Must be next to [Fresh water]", "[+1 Food] from [Fresh Water] tiles [in this city]"],
 		"hurryCostModifier": 25,
 		"maintenance": 0,

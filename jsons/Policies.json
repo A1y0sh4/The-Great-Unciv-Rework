@@ -299,18 +299,18 @@
             {
                 "name": "Cultural Diplomacy",
                 "uniques": [
-                    "[+100]% resources gifted by City-States",
-                    "[+50]% Happiness from luxury resources gifted by City-States"
+                    "Allied City-States provide [Culture] equal to [50]% of what they produce for themselves"
                 ],
-                "requires": ["Scholasticism"],
+                "requires": ["Consulates"],
                 "row": 3,
                 "column": 2
             },
             {
                 "name": "Merchant Confederacy",
-                "requires": ["Scholasticism", "Philantropy"],
+                "requires": ["Consulates", "Philantropy"],
                 "uniques": [
-		    "[+1 Science] from every specialist [in all cities]"
+		    "[+100]% resources gifted by City-States",
+                    "[+50]% Happiness from luxury resources gifted by City-States"
                 ],
                 "row": 3,
                 "column": 4

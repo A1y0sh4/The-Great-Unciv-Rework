@@ -594,8 +594,8 @@
 	{
 		"name": "Cerro de Potosi",
 		"type": "NaturalWonder",
-		"production": 2,
-		"gold": 4,
+		"production": 1,
+		"gold": 5,
 		"occursOn": ["Plains", "Mountain"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] to [6] [Hill] tiles"

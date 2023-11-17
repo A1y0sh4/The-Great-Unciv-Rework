@@ -274,8 +274,7 @@
             {
                 "name": "Philantropy",
                 "uniques": [
-                    "Gifts of Gold to City-States generate [20]% more Influence",
-		    "City-State Influence recovers at twice the normal rate"
+                    "Gifts of Gold to City-States generate [20]% more Influence"
                 ],
                 "row": 1,
                 "column": 4
@@ -289,10 +288,9 @@
                 "column": 2
             },
             {
-                "name": "Scholasticism",
+                "name": "Consulates",
                 "uniques": [
-                    "Allied City-States provide [Science] equal to [33]% of what they produce for themselves",
-		    "Provides the cheapest [Science] building in your first [4] cities for free"
+                    "Resting point for Influence with City-States is increased by [20]",
                 ],
                 "requires": ["Political Science"],
                 "row": 2,
@@ -309,10 +307,9 @@
                 "column": 2
             },
             {
-                "name": "Educated Elite",
+                "name": "Merchant Confederacy",
                 "requires": ["Scholasticism", "Philantropy"],
                 "uniques": [
-                    "Allied City-States will occasionally gift Great People",
 		    "[+1 Science] from every specialist [in all cities]"
                 ],
                 "row": 3,
@@ -321,7 +318,7 @@
             {
                 "name": "Diplomacy Complete",
                 "uniques": [
-                    
+                    "Allied City-States will occasionally gift Great People", "City-State Influence recovers at twice the normal rate"
                 ]
             }
         ]

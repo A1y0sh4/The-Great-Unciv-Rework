@@ -114,10 +114,10 @@
 	},
 	{
 		"name": "Lakes",
-		"type": "Water",
-		"food": 1,
+		"type": "Land",
+		"food": 2,
 		"gold": 1,
-		"movementCost": 1,
+		"movementCost": 2,
 		"RGB": [ 123, 202, 226],
 		"uniques": ["Fresh water",
 			    "Considered [Food] when determining start locations",

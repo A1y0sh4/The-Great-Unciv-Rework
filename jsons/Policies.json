@@ -197,7 +197,7 @@
     },
     {
         "name": "Piety",
-        "era": "Classical era",
+        "era": "Ancient era",
         "priorities": {
             "Neutral": 0,
             "Cultural": 30,
@@ -215,7 +215,7 @@
             {
                 "name": "Organized Religion",
                 "uniques": [
-		    "[+1 Happiness] [in all cities in which the majority religion is a major religion]"
+		    "[+1 Happiness] from every [Temple]"
                 ],
                 "row": 1,
                 "column": 2

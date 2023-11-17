@@ -505,7 +505,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 1},
-		"uniques": ["Must be on [Hill]", "Adopt [Patronage]", "Gain [500] [Gold]"],
+		"uniques": ["Must be on [Hill]", "Adopt [Diplomacy]", "Gain [500] [Gold]"],
 		"requiredTech": "Drama and Poetry",
 		"quote": "'Earth proudly wears the Parthenon as the best gem upon her zone.' - Ralph Waldo Emerson"
 	},

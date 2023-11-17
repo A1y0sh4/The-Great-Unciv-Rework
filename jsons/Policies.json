@@ -268,7 +268,8 @@
             "Scientific": 30,
 	    "Religious": 30
         },
-        "uniques": ["[-33]% City-State Influence degradation", "City-State territory always counts as friendly territory"],
+        "uniques": ["Influence of all other civilizations with all city-states degrades [20]% faster",
+                    "Triggers the following global alert: [Our influence with City-States has started dropping faster!]", "City-State territory always counts as friendly territory"],
         "policies": [
             {
                 "name": "Philantropy",
@@ -320,8 +321,7 @@
             {
                 "name": "Diplomacy Complete",
                 "uniques": [
-                    "Influence of all other civilizations with all city-states degrades [33]% faster",
-                    "Triggers the following global alert: [Our influence with City-States has started dropping faster!]"
+                    
                 ]
             }
         ]

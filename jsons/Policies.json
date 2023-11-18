@@ -400,7 +400,7 @@
             {
                 "name": "Secularism",
                 "uniques": [
-                "[-75]% Natural religion spread [in all cities]", "[+1 Science] from all [Science] buildings" 
+                "[+15]% [Science] [in all cities] <while the empire is happy>" 
                 ],
                 "row": 1,
                 "column": 2
@@ -416,7 +416,6 @@
             {
                 "name": "Free Thought",
                 "uniques": [
-                    "[+2 Science] from every [Trading post]",
                     "[+33]% Great Person generation [in all cities]"
                 ],
                 "requires": ["Secularism"],
@@ -432,7 +431,7 @@
             },
             {
                 "name": "Scientific Revolution",
-                "uniques": ["Science gained from research agreements [+50]%", "Free Great Person"],
+                "uniques": ["Science gained from research agreements [+50]%"],
                 "requires": ["Free Thought"],
                 "row": 3,
                 "column": 1

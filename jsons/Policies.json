@@ -362,14 +362,14 @@
             {
                 "name": "Free Market",
                 "uniques": ["[+1] Happiness from each type of luxury resource"],
-                "requires": ["Trade Unions"],
+                "requires": ["Free Trade"],
                 "row": 2,
                 "column": 4
             },
             {
                 "name": "Market Economy",
-                "uniques": ["[+1] Happiness from each type of luxury resource", "[+1 Gold] from every [Luxury resource]"],
-                "requires": ["Mercantilism"],
+                "uniques": ["[-20]% maintenance cost for buildings [in all cities]"],
+                "requires": ["Free Market"],
                 "row": 3,
                 "column": 4
             },

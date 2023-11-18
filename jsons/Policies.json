@@ -268,8 +268,8 @@
             "Scientific": 30,
 	    "Religious": 30
         },
-        "uniques": ["Influence of all other civilizations with all city-states degrades [20]% faster",
-                    "Triggers the following global alert: [Our influence with City-States has started dropping faster!]", "City-State territory always counts as friendly territory"],
+        "uniques": [,
+                    "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory"],
         "policies": [
             {
                 "name": "Philantropy",
@@ -318,7 +318,7 @@
             {
                 "name": "Diplomacy Complete",
                 "uniques": [
-                    "Allied City-States will occasionally gift Great People", "City-State Influence recovers at twice the normal rate"
+                    "Allied City-States will occasionally gift Great People", "Influence of all other civilizations with all city-states degrades [33]% faster", "Triggers the following global alert: [Our influence with City-States has started dropping faster!]"
                 ]
             }
         ]

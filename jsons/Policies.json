@@ -425,7 +425,7 @@
             },
             {
                 "name": "Sovereignty",
-                "uniques": ["[+1 Gold] from all [Science] buildings"],
+                "uniques": ["[50]% of excess happiness converted to [Culture]"],
                 "requires": ["Humanism"],
                 "row": 2,
                 "column": 5

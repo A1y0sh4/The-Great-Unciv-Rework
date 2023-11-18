@@ -196,7 +196,7 @@
         ]
     },
     {
-        "name": "Religion",
+        "name": "Piety",
         "era": "Ancient era",
         "priorities": {
             "Neutral": 0,
@@ -324,7 +324,7 @@
         ]
     },
     {
-        "name": "Economy",
+        "name": "Commerce",
         "era": "Renaissance era",
         "priorities": {
             "Neutral": 0,
@@ -334,7 +334,7 @@
             "Scientific": 30,
 	    "Religious": 30
         },
-        "uniques": ["[+25]% [Gold] [in capital]", "[+1 Production] [in all cities connected to capital]"],
+        "uniques": ["[+25]% [Gold] [in capital]", "[+2 Production] [in all cities connected to capital]"],
         "policies": [
             {
                 "name": "Mercantilism",

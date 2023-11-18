@@ -325,7 +325,7 @@
     },
     {
         "name": "Economy",
-        "era": "Medieval era",
+        "era": "Renaissance era",
         "priorities": {
             "Neutral": 0,
             "Cultural": 10,
@@ -337,25 +337,25 @@
         "uniques": ["[+25]% [Gold] [in capital]", "[+2 Production] [in all cities] <on foreign continents>"],
         "policies": [
             {
-                "name": "Naval Tradition",
+                "name": "Mercantilism",
                 "uniques": [
-                    "[+1] Movement <for [All] units> <in [Water] tiles>",
-		    "[+1] Sight <for [All] units> <in [Water] tiles>"
+                    "[+1 Happiness] [in all cities connected to capital]",
+		    "[+1 Science] from all [Gold] buildings"
                 ],
                 "row": 1,
                 "column": 2
             },
             {
-                "name": "Trade Unions",
+                "name": "Free Market",
                 "uniques": [
-                    "[-50]% maintenance on road & railroads", "[+1 Production] from each Trade Route"],
+                    "Retain [50]% of the happiness from a luxury after the last copy has been traded away"],
                 "row": 1,
                 "column": 4
             },
             {
-                "name": "Merchant Navy",
-                "uniques": ["[+2 Gold] from every [Harbor]", "[+2 Gold] from every [Seaport]"],
-                "requires": ["Naval Tradition"],
+                "name": "Protectionism",
+                "uniques": ["[+1 Gold] from every [Luxury resource]", "[+1 Gold] from every [Trading post]"],
+                "requires": ["Mercantilism"],
                 "row": 2,
                 "column": 2
             },
@@ -376,7 +376,6 @@
             {
                 "name": "Commerce Complete",
                 "uniques": [
-                    "[+2 Gold] from every [Trading post]",
                     "[+100]% Gold from Great Merchant trade missions",
                     "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]

@@ -400,7 +400,7 @@
             {
                 "name": "Secularism",
                 "uniques": [
-                "[-50]% Natural religion spread [in all cities]", "[+1 Science] from all [Science] buildings" 
+                "[-75]% Natural religion spread [in all cities]", "[+1 Science] from all [Science] buildings" 
                 ],
                 "row": 1,
                 "column": 2
@@ -417,7 +417,7 @@
                 "name": "Free Thought",
                 "uniques": [
                     "[+2 Science] from every [Trading post]",
-                    "[+17]% [Science] from every [University]"
+                    "[+33]% Great Person generation [in all cities]"
                 ],
                 "requires": ["Secularism"],
                 "row": 2,
@@ -440,7 +440,7 @@
             {
                 "name": "Rationalism Complete",
                 "uniques": [
-                    "[2] Free Technologies",
+                    "[1] Free Technologies",
                     "May buy [Great Scientist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }

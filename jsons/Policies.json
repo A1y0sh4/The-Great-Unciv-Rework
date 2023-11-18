@@ -196,7 +196,7 @@
         ]
     },
     {
-        "name": "Piety",
+        "name": "Religion",
         "era": "Ancient era",
         "priorities": {
             "Neutral": 0,
@@ -324,7 +324,7 @@
         ]
     },
     {
-        "name": "Commerce",
+        "name": "Economy",
         "era": "Medieval era",
         "priorities": {
             "Neutral": 0,

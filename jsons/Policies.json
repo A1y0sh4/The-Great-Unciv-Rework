@@ -87,7 +87,7 @@
                 "column": 1
             },
             {
-                "name": "Citizenship",
+                "name": "Republic",
                 "uniques": [
                     "[+1 Production] per [4] population [in all cities]"
                 ],
@@ -107,16 +107,16 @@
                 "uniques": [
                     "Each city founded increases culture cost of policies [50]% less than normal"
                 ],
-                "requires": ["Citizenship"],
+                "requires": ["Republic"],
                 "row": 2,
                 "column": 3
             },
             {
-                "name": "Diplomatic League",
+                "name": "Citizenship",
                 "uniques": [
                     "[+1 Happiness] [in all cities connected to capital]"
                 ],
-                "requires": ["Citizenship"],
+                "requires": ["Republic"],
                 "row": 2,
                 "column": 5
             },

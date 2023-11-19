@@ -86,7 +86,7 @@
             "Occurs at temperature between [-0.5] and [-0.4] and humidity between [0] and [0.2]",
             "[+2] to Fertility for Map Generation",
             "Starts in regions of this type receive an extra [Deer]",
-            "A Region is formed with at least [33]% [Tundra] tiles and [Snow] tiles, with priority [1]",
+            "A Region is formed with at least [25]% [Tundra] tiles and [Snow] tiles, with priority [1]",
 	    "A Region can not contain more [Snow] tiles than [Tundra] tiles",
             "Considered [Food] when determining start locations <in [Tundra] Regions>",
             "Considered [Desirable] when determining start locations <in [Tundra] Regions>",

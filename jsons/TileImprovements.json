@@ -394,7 +394,6 @@
 	},
 	{
 		"name": "Barbarian encampment",
-		"type": "Ruins", 
 		"terrainsCanBeBuiltOn": ["Tundra", "Grassland", "Plains", "Hill", "Lakes", "Desert"],
 		"uniques": ["Unpillagable", "Unbuildable"],
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]

@@ -1399,7 +1399,7 @@
 		"innerColor": [18,84,30],
 		"uniqueName": "Barbary Corsairs",
 		"uniques": ["[-50]% maintenance costs <for [Melee Water] units>", "[Gold] cost of purchasing [Melee Water] units [-50]%", "[Melee Water] units gain the [Landing Party] promotion", "[+3 Culture, +3 Faith] from every [Courthouse]"],
-		"cities": ["Instanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyabakir","Izmir","Kayseri","Malatya",
+		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyabakir","Izmir","Kayseri","Malatya",
 			"Marsin","Antalya","Zonguldak","Denizli","Ordu","Mugia","Eskishehir","Inebolu","Sinop","Adana","Artuin",
 			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarhisar",
 			"Bitlis","Yalova"]

@@ -380,7 +380,7 @@
 	},
 	{
 		"name": "Ancient ruins",
-		"terrainsCanBeBuiltOn": ["Land"],
+		"terrainsCanBeBuiltOn": ["Tundra", "Grassland", "Plains", "Hill", "Lakes", "Desert"],
 		"uniques": ["Unpillagable", "Provides a random bonus when entered", "Unbuildable"]
 	},
 	{
@@ -395,7 +395,7 @@
 	{
 		"name": "Barbarian encampment",
 		"type": "Ruins", 
-		"terrainsCanBeBuiltOn": ["Land"],
+		"terrainsCanBeBuiltOn": ["Tundra", "Grassland", "Plains", "Hill", "Lakes", "Desert"],
 		"uniques": ["Unpillagable", "Unbuildable"],
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
 	}

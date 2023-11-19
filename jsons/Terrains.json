@@ -259,7 +259,7 @@
 	{
 		"name": "Oasis",
 		"type": "TerrainFeature",
-		"food": 3,
+		"food": 2,
 		"movementCost": 1,
 		"unbuildable": true,
 		"defenceBonus": -0.1,
@@ -273,7 +273,7 @@
 	{
 		"name": "Flood plains",
 		"type": "TerrainFeature",
-		"food": 2,
+		"food": 1,
 		"movementCost": 1,
 		"defenceBonus": -0.1,
 		"occursOn": ["Desert"],

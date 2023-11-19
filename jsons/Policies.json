@@ -5,10 +5,10 @@
         "priorities": {
             "Neutral": 30,
             "Cultural": 30,
-            "Diplomatic": 0,
-            "Domination": 20,
+            "Diplomatic": 10,
+            "Domination": 30,
             "Scientific": 30,
-	    "Religious": 30
+	    "Religious": 20
         },
         "uniques": [
             "[+15]% [Food] [in capital]"
@@ -73,7 +73,7 @@
             "Diplomatic": 30,
             "Domination": 20,
             "Scientific": 30,
-	    "Religious": 20
+	    "Religious": 10
         },
         "uniques": ["[+1 Culture] [in all cities]"],
         "policies": [
@@ -134,7 +134,7 @@
             "Cultural": 0,
             "Diplomatic": 20,
             "Domination": 30,
-            "Scientific": 20,
+            "Scientific": 30,
 	    "Religious": 20
         },
         "uniques": [
@@ -200,7 +200,7 @@
         "era": "Ancient era",
         "priorities": {
             "Neutral": 0,
-            "Cultural": 30,
+            "Cultural": 20,
             "Diplomatic": 20,
             "Domination": 20,
             "Scientific": 0,
@@ -263,7 +263,7 @@
         "priorities": {
             "Neutral": 0,
             "Cultural": 30,
-            "Diplomatic": 30,
+            "Diplomatic": 40,
             "Domination": 0,
             "Scientific": 30,
 	    "Religious": 30
@@ -332,7 +332,7 @@
             "Diplomatic": 30,
             "Domination": 30,
             "Scientific": 30,
-	    "Religious": 30
+	    "Religious": 20
         },
         "uniques": ["[+25]% [Gold] [in capital]", "[+2 Production] [in all cities connected to capital]"],
         "policies": [
@@ -387,7 +387,7 @@
         "era": "Renaissance era",
         "priorities": {
             "Neutral": 0,
-            "Cultural": 10,
+            "Cultural": 30,
             "Diplomatic": 30,
             "Domination": 20,
             "Scientific": 40,

@@ -303,9 +303,8 @@
 	{
 		"name": "Great Barrier Reef",
 		"type": "NaturalWonder",
-		"food": 1,
 		"gold": 1,
-		"science": 3,
+		"science": 2,
 		"occursOn": ["Ocean"],
 		"uniques": ["Must be adjacent to [1] to [6] [Coast] tiles",
 			"Must be adjacent to [6] [Water] tiles",

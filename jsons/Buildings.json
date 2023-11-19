@@ -397,7 +397,6 @@
 	{
 		"name": "Temple",
 		"faith": 2,
-		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
@@ -408,10 +407,8 @@
 		"replaces": "Temple",
 		"uniqueTo": "Egypt",
 		"maintenance": 0,
-		"uniques": ["Doubles Gold given to enemy if city is captured", "[+15]% [Culture] [in this city] <after discovering [Archaeology]>"],
+		"uniques": ["[+15]% [Culture] [in this city] <after discovering [Archaeology]>"],
 		"faith": 2,
-		"culture": 1,
-		"requiredBuilding": "Shrine",
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy"
 	},
@@ -421,10 +418,8 @@
 		"uniqueTo": "Songhai",
 		"maintenance": 0,
 		"hurryCostModifier": 25,
-		"science": 1,
 		"faith": 2,
 		"uniques": ["[Gold] cost of purchasing items in cities [-5]%"]
-		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy"
 	},
 	{
@@ -433,10 +428,8 @@
 		"uniqueTo": "Papal States",
 		"maintenance": 0,
 		"hurryCostModifier": 25,
-		"happiness": 1,
 		"faith": 2,
 		"uniques": ["[Faith] cost of purchasing items in cities [-5]%"]
-		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy"
 	},
         {
@@ -447,7 +440,6 @@
 		"hurryCostModifier": 25,
 		"faith": 2,
 		"uniques": ["[+1 Culture] per [2] social policies adopted"]
-		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy"
 	},
 	{

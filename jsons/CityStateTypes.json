@@ -15,10 +15,10 @@
         "allyBonusUniques": ["[+15]% [Food] [in all cities]", "[+10]% growth [in all cities]"],
         "color": [56, 255, 112]
     },
-    {
+     {
         "name": "Mercantile",
         "friendBonusUniques": [
-        "Provides a unique luxury"
+            "Provides a unique luxury"
         ],
         "allyBonusUniques": [
             "[-15]% maintenance cost for buildings [in all cities]", "Provides a unique luxury"

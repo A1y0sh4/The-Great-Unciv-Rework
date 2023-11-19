@@ -241,9 +241,8 @@
 	{
 		"name": "Lakes",
 		"type": "TerrainFeature",
-		"food": 2,
+		"food": 1,
 		"movementCost": 1,
-		"overrideStats": true,
 		"unbuildable": true,
 		"defenceBonus": -0.1,
 		"occursOn": ["Grassland", "Plains", "Tundra"],

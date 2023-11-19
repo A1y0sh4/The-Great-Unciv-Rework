@@ -625,7 +625,7 @@
 	// Column 5
 	{
 		"name": "Garden",
-		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
+		"uniques": ["[+33]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredTech": "Theology"
@@ -1055,7 +1055,7 @@
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"maintenance": 0,
-		"uniques": ["[+25]% Great Person generation [in this city]"],
+		"uniques": ["[+33]% Great Person generation [in this city]"],
 		"requiredTech": "Economics"
 	},
         {

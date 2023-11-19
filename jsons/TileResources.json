@@ -83,7 +83,7 @@
 		"improvementStats": {"gold": 1},
 		"uniques": ["Resource", "Generated on every [20] tiles <in [Featureless] [Hill] tiles> <in [Grassland] Regions>",
 			                "Generated on every [30] tiles <in [Featureless] [Hill] tiles> <in [Plains] Regions>",
-		                        "Doesn't generate naturally <in [Tundra] tiles>", "Doesn't generate naturally <in [Desert] tiles>"]
+		                        "Doesn't generate naturally <in [Hill] tiles> <in [Tundra] Regions>", "Doesn't generate naturally <in [Hill] tiles> <in [Desert] Regions>"]
 	},
 	
 	// Strategic resources

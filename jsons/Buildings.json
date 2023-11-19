@@ -496,7 +496,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Artist": 1},
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Monument] in all cities", "[+25]% Great Person generation [in all cities]", "Cost increases by [30] per owned city"],
+		"uniques": ["Requires a [Monument] in all cities", "[+33]% Great Person generation [in all cities]", "Cost increases by [30] per owned city"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{

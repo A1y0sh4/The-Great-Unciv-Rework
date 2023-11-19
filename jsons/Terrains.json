@@ -154,6 +154,7 @@
 		"name": "Hill",
 		"type": "TerrainFeature",
 		"production": 1,
+		"overrideStats": true,
 		"movementCost": 2,
 		"defenceBonus": 0.25,
 		"RGB": [105,125,72],

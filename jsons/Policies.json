@@ -466,11 +466,12 @@
                 "name": "Constitution",
                 "uniques": ["[+2 Culture] per [1] social policies adopted"],
                 "row": 1,
-                "column": 1
+                "column": 2
             },
             {
                 "name": "Universal Suffrage",
                 "uniques": ["[-50]% Food consumption by specialists [in all cities]"],
+		"requires": ["Constitution"],
                 "row": 2,
                 "column": 3
             },

@@ -431,7 +431,7 @@
             },
             {
                 "name": "Scientific Revolution",
-                "uniques": ["[+20]% [Science] [in all cities] <during a Golden Age>"],
+                "uniques": ["[+20]% [Science] [in all cities] <during a Golden Age>", "Empire enters golden age"],
                 "requires": ["Free Thought"],
                 "row": 3,
                 "column": 1

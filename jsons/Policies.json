@@ -457,8 +457,7 @@
 	    "Religious": 40
         },
         "uniques": [
-            "[+33]% Great Person generation [in all cities]",
-	    "[-10]% Culture cost of adopting new Policies",
+            "[+15]% Great Person generation [in all cities]",
             "Only available <before adopting [Nationalism]>",
             "Only available <before adopting [Cosmopolitanism]>"
         ],
@@ -472,7 +471,7 @@
             {
                 "name": "Universal Suffrage",
                 "uniques": ["[-50]% Food consumption by specialists [in all cities]"],
-                "row": 1,
+                "row": 2,
                 "column": 3
             },
             {
@@ -485,7 +484,7 @@
             },
             {
                 "name": "Free Speech",
-                "uniques": ["[+1 Culture] from every specialist [in all cities]"],
+                "uniques": ["[-10]% Culture cost of adopting new Policies"],
                 "requires": ["Constitution"],
                 "row": 2,
                 "column": 1
@@ -521,8 +520,7 @@
 	    "Religious": 20
         },
         "uniques": [
-            "[+33]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
-            "Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately",
+            "[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
             "Only available <before adopting [Cosmopolitanism]>",
             "Only available <before adopting [Individualism]>"
         ],
@@ -592,8 +590,7 @@
 	    "Religious": 30
         },
         "uniques": [
-            "[+33]% Production towards any buildings that already exist in the Capital",
-	    "[+10]% [Culture] [in all cities connected to capital]",
+            "[+15]% Production towards any buildings that already exist in the Capital",
             "Only available <before adopting [Nationalism]>",
             "Only available <before adopting [Individualism]>"
         ],

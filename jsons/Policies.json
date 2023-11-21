@@ -547,7 +547,7 @@
                 "name": "National Party",
                 "uniques": [
                     "Quantity of strategic resources produced by the empire +[100]%",
-                    "[+2] Movement <for [Great General] units>"
+                    "[+2 Food] [in all cities connected to capital]"
                 ],
                 "requires": ["Populism", "Militarism"],
                 "row": 2,

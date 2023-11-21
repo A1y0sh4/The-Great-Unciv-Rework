@@ -400,7 +400,7 @@
             {
                 "name": "Secularism",
                 "uniques": [
-                "[+15]% [Science] [in all cities] <while the empire is happy>" 
+                "[-33]% Natural religion spread [in all cities] <for [All]>"
                 ],
                 "row": 1,
                 "column": 2
@@ -431,7 +431,7 @@
             },
             {
                 "name": "Scientific Revolution",
-                "uniques": ["Science gained from research agreements [+50]%"],
+                "uniques": ["[+20]% [Science] [in all cities] <during a Golden Age>"],
                 "requires": ["Free Thought"],
                 "row": 3,
                 "column": 1
@@ -620,8 +620,7 @@
             {
                 "name": "Alpha",
                 "uniques": [
-                    "[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
-		    "[+1] Movement <for [All] units> <in [Friendly Land] tiles> <when at war>"
+                    "Science gained from research agreements [+50]%"
                 ],
                 "row": 1,
                 "column": 5

@@ -418,7 +418,7 @@
 		"resourceType": "Luxury",
 		"revealedBy": "Sailing",
 		"terrainsCanBeFoundOn": ["Coast"],
-		"food": 1,
+		"gold": 1,
 		"improvement": "Fishing Boats",
 		"uniques": ["Resource", "Generated with weight [66] <in [Tundra] Regions>",
 					"Generated with weight [15] <in [Hybrid] Regions>",

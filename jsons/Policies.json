@@ -593,7 +593,7 @@
         },
         "uniques": [
             "[+33]% Production towards any buildings that already exist in the Capital",
-	    "[+10]% [Culture] [in all cities with a garrison]",
+	    "[+10]% [Culture] [in all cities connected to capital]",
             "Only available <before adopting [Nationalism]>",
             "Only available <before adopting [Individualism]>"
         ],

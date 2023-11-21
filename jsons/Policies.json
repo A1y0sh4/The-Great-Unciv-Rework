@@ -565,7 +565,7 @@
             },
             {
                 "name": "Total War",
-                "uniques": ["[+33]% Production when constructing [Military] units [in all cities] <when at war>"],
+                "uniques": ["[+33]% Production when constructing [Military] units [in all cities] <when at war>", "[+15]% Strength <for [All] units> <vs cities> <when attacking>"],
                 "requires": ["National Party", "Police State"],
                 "row": 3,
                 "column": 3

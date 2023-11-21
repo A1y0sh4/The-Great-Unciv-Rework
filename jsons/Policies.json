@@ -618,7 +618,7 @@
                 "column": 3
             },
             {
-                "name": "Nationalismo",
+                "name": "Alpha",
                 "uniques": [
                     "[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
 		    "[+1] Movement <for [All] units> <in [Friendly Land] tiles> <when at war>"

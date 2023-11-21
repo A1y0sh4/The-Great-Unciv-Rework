@@ -521,7 +521,7 @@
 	    "Religious": 20
         },
         "uniques": [
-            "[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
+            "[+25]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
             "Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately",
             "Only available <before adopting [Order]>",
             "Only available <before adopting [Freedom]>"

@@ -485,7 +485,7 @@
             },
             {
                 "name": "Free Speech",
-                "uniques": ["[-10]% Culture cost of adopting new Policies"],
+                "uniques": ["[+1 Culture] per [4] population [in all cities]"],
                 "requires": ["Constitution"],
                 "row": 2,
                 "column": 2

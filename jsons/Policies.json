@@ -559,14 +559,14 @@
                     "[+3 Happiness] from every [Courthouse]",
                     "[+100]% Production when constructing [Courthouse] buildings [in all cities]"
                 ],
-                "requires": ["Dictatorship"],
+                "requires": ["National Party"],
                 "row": 3,
                 "column": 4
             },
             {
                 "name": "Total War",
                 "uniques": ["Empire enters golden age <upon declaring war with a major Civilization> <with [33]% chance>"],
-                "requires": ["Dictatorship"],
+                "requires": ["National Party"],
                 "row": 3,
                 "column": 2
             },

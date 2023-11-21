@@ -559,13 +559,13 @@
                     "[+3 Happiness] from every [Courthouse]",
                     "[+100]% Production when constructing [Courthouse] buildings [in all cities]"
                 ],
-                "requires": ["National Party"],
-                "row": 3,
-                "column": 4
+                "requires": ["Militarism"],
+                "row": 2,
+                "column": 5
             },
             {
                 "name": "Total War",
-                "uniques": ["Empire enters golden age <upon declaring war with a major Civilization> <with [33]% chance>"],
+                "uniques": ["[+33]% Production when constructing [Military] units [in all cities] <when at war>"],
                 "requires": ["National Party"],
                 "row": 3,
                 "column": 2
@@ -573,7 +573,7 @@
             {
                 "name": "Nationalism Complete",
                 "uniques": [
-                    "[+33]% Production when constructing [Military] units [in all cities] <during a Golden Age>",
+                    "Empire enters golden age <upon declaring war with a major Civilization> <with [33]% chance>",
 		    "New [Military] units start with [15] Experience [in all cities] <during a Golden Age>",
                     "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]

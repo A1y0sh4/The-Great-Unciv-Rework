@@ -541,7 +541,7 @@
                 "uniques": ["[Gold] cost of purchasing [All] units [-33]%",
 		"[+15]% [Science] from every [Military Academy]"],
                 "row": 1,
-                "column": 4
+                "column": 5
             },
             {
                 "name": "National Party",
@@ -561,7 +561,7 @@
                 ],
                 "requires": ["National Party"],
                 "row": 3,
-                "column": 4
+                "column": 5
             },
             {
                 "name": "Total War",

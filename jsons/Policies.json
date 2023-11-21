@@ -457,7 +457,7 @@
 	    "Religious": 40
         },
         "uniques": [
-            "[+15]% Great Person generation [in all cities]",
+            "[-15]% Culture cost of adopting new Policies",
             "Only available <before adopting [Nationalism]>",
             "Only available <before adopting [Cosmopolitanism]>"
         ],

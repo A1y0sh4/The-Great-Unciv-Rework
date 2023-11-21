@@ -465,13 +465,13 @@
         "policies": [
             {
                 "name": "Constitution",
-                "uniques": ["[+5 Culture] per [2] social policies adopted"],
+                "uniques": ["[+2 Culture] per [1] social policies adopted"],
                 "row": 1,
                 "column": 1
             },
             {
                 "name": "Universal Suffrage",
-                "uniques": ["[+33]% Strength for cities <when defending>"],
+                "uniques": ["[-50]% Food consumption by specialists [in all cities]"],
                 "row": 1,
                 "column": 3
             },

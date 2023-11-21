@@ -521,7 +521,7 @@
 	    "Religious": 20
         },
         "uniques": [
-            "[-25]% maintenance costs <for [Land] units>",
+            "[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
             "Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately",
             "Only available <before adopting [Order]>",
             "Only available <before adopting [Freedom]>"
@@ -538,13 +538,13 @@
             },
             {
                 "name": "Militarism",
-                "uniques": ["[Gold] cost of purchasing [All] units [-50]%",
+                "uniques": ["[Gold] cost of purchasing [All] units [-33]%",
 		"[+15]% [Science] from every [Military Academy]"],
                 "row": 1,
                 "column": 5
             },
             {
-                "name": "Fascism",
+                "name": "Dictatorship",
                 "uniques": [
                     "Quantity of strategic resources produced by the empire +[100]%",
                     "[+2] Movement <for [Great General] units>"
@@ -559,16 +559,16 @@
                     "[+3 Happiness] from every [Courthouse]",
                     "[+100]% Production when constructing [Courthouse] buildings [in all cities]"
                 ],
-                "requires": ["Militarism"],
-                "row": 2,
-                "column": 5
+                "requires": ["Dictatorship"],
+                "row": 3,
+                "column": 4
             },
             {
                 "name": "Total War",
                 "uniques": ["Empire enters golden age <upon declaring war with a major Civilization> <with [33]% chance>"],
-                "requires": ["Police State", "Fascism"],
+                "requires": ["Dictatorship"],
                 "row": 3,
-                "column": 4
+                "column": 2
             },
             {
                 "name": "Nationalism Complete",

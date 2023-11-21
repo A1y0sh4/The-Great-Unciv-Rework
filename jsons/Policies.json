@@ -551,7 +551,7 @@
                 ],
                 "requires": ["Populism", "Militarism"],
                 "row": 2,
-                "column": 3
+                "column": 2
             },
             {
                 "name": "Police State",
@@ -561,7 +561,7 @@
                 ],
                 "requires": ["Militarism"],
                 "row": 2,
-                "column": 5
+                "column": 4
             },
             {
                 "name": "Total War",

@@ -459,7 +459,7 @@
         "uniques": [
             "[+25]% Great Person generation [in all cities]",
 	    "[-10]% Culture cost of adopting new Policies",
-            "Only available <before adopting [Autocracy]>",
+            "Only available <before adopting [Nationalism]>",
             "Only available <before adopting [Order]>"
         ],
         "policies": [
@@ -594,7 +594,7 @@
         "uniques": [
             "[+25]% Production towards any buildings that already exist in the Capital",
 	    "[+10]% [Culture] [in all cities with a garrison]",
-            "Only available <before adopting [Autocracy]>",
+            "Only available <before adopting [Nationalism]>",
             "Only available <before adopting [Freedom]>"
         ],
         "policies": [
@@ -618,7 +618,7 @@
                 "column": 3
             },
             {
-                "name": "Nationalism",
+                "name": "Nationalismo",
                 "uniques": [
                     "[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
 		    "[+1] Movement <for [All] units> <in [Friendly Land] tiles> <when at war>"

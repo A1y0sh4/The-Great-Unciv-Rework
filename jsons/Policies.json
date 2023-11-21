@@ -481,14 +481,14 @@
                     "[-50]% Food consumption by specialists [in all cities]"
                 ],
                 "row": 1,
-                "column": 5
+                "column": 4
             },
             {
                 "name": "Free Speech",
                 "uniques": ["[-10]% Culture cost of adopting new Policies"],
                 "requires": ["Constitution"],
                 "row": 2,
-                "column": 1
+                "column": 2
             },
             {
                 "name": "Democracy",

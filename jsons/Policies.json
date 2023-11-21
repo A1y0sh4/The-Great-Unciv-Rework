@@ -502,7 +502,6 @@
                 "name": "Individualism Complete",
                 "uniques": [
                     "[+100]% Yield from every [Great Improvement] <during a Golden Age>",
-                    "[+50]% Golden Age length",
                     "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
@@ -571,8 +570,7 @@
             {
                 "name": "Nationalism Complete",
                 "uniques": [
-                    "Empire enters golden age <upon declaring war with a major Civilization> <with [33]% chance>",
-		    "New [Military] units start with [15] Experience [in all cities] <during a Golden Age>",
+                    "Empire enters golden age <upon declaring war with a major Civilization>",
                     "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
@@ -645,8 +643,7 @@
             {
                 "name": "Cosmopolitanism Complete",
                 "uniques": [
-		    "[+15]% [Science] [in all cities connected to capital] <during a Golden Age>",
-		    "[+15]% [Production] [in all cities connected to capital] <during a Golden Age>",
+		     "[+100]% Golden Age length",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }

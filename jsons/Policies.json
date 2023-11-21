@@ -561,14 +561,14 @@
                 ],
                 "requires": ["Dictatorship"],
                 "row": 3,
-                "column": 4
+                "column": 5
             },
             {
                 "name": "Total War",
                 "uniques": ["Empire enters golden age <upon declaring war with a major Civilization> <with [33]% chance>"],
                 "requires": ["Dictatorship"],
                 "row": 3,
-                "column": 2
+                "column": 1
             },
             {
                 "name": "Nationalism Complete",

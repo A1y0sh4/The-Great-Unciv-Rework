@@ -7,7 +7,7 @@
 		"production": 3,
 		"science": 3,
 		"gold": 3,
-		"culture": 1,
+		"culture": 3,
 		"cityStrength": 3,
 		"cost": 100,
 		"uniques": ["Indicates the capital city", "[+15]% [Production] [in this city] <during We Love The King Day>", "[+15]% [Gold] [in this city] <during We Love The King Day>", "Limited to [1] per Civilization", "Cost increases by [25] per owned city", "Destroyed when the city is captured"]

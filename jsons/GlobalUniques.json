@@ -1,6 +1,8 @@
 {
     "name": "Global uniques", 
     "uniques": [
+        "[+10]% Unhappiness from [Population] [in all cities] <when at war>",
+		"[-25]% growth [in all cities] <when at war>"
         "[-50]% growth [in all cities] <when between [-10] and [0] Happiness>",
         "Nullifies Growth [in all cities] <when below [-10] Happiness>",
         "[-50]% [Production] [in all cities] <when below [-10] Happiness>",

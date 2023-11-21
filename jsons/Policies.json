@@ -534,14 +534,14 @@
 		    "[+25]% growth [in all cities] <when at war>"
 		],
                 "row": 1,
-                "column": 1
+                "column": 2
             },
             {
                 "name": "Militarism",
                 "uniques": ["[Gold] cost of purchasing [All] units [-33]%",
 		"[+15]% [Science] from every [Military Academy]"],
                 "row": 1,
-                "column": 5
+                "column": 4
             },
             {
                 "name": "National Party",
@@ -561,14 +561,14 @@
                 ],
                 "requires": ["Dictatorship"],
                 "row": 3,
-                "column": 5
+                "column": 4
             },
             {
                 "name": "Total War",
                 "uniques": ["Empire enters golden age <upon declaring war with a major Civilization> <with [33]% chance>"],
                 "requires": ["Dictatorship"],
                 "row": 3,
-                "column": 1
+                "column": 2
             },
             {
                 "name": "Nationalism Complete",

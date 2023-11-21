@@ -530,7 +530,8 @@
             {
                 "name": "Populism",
                 "uniques": [
-		    "[-10]% Unhappiness from [Population] [in all cities] <when at war>"
+		    "[-10]% Unhappiness from [Population] [in all cities] <when at war>",
+		    "[+25]% growth [in all cities] <when at war>"
 		],
                 "row": 1,
                 "column": 1

@@ -471,7 +471,7 @@
             {
                 "name": "Universal Suffrage",
                 "uniques": ["[-50]% Food consumption by specialists [in all cities]"],
-		"requires": ["Constitution"],
+		"requires": ["Constitution", "Civil Society"],
                 "row": 2,
                 "column": 3
             },
@@ -495,9 +495,9 @@
                 "uniques": [
                     "[-50]% Unhappiness from [Specialists] [in all cities]"
                 ],
-                "requires": ["Civil Society"],
-                "row": 2,
-                "column": 5
+                "requires": ["Universal Suffrage"],
+                "row": 3,
+                "column": 3
             },
             {
                 "name": "Individualism Complete",

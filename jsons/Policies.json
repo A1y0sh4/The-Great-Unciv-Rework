@@ -615,7 +615,7 @@
             {
                 "name": "Exchange Programs",
                 "uniques": [
-                    "Science gained from research agreements [+50]%"
+                    "Gain [50] [Culture] <upon declaring friendship> <for [All]>"
                 ],
                 "row": 1,
                 "column": 5

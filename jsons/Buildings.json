@@ -333,11 +333,11 @@
 	},
 	{
 		"name": "Circus Maximus",
-		"cost": 125,
+		"cost": 100,
 		"happiness": 5,
 		"culture": 1,
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Colosseum] in all cities", "Cost increases by [30] per owned city"],
+		"uniques": ["Requires a [Colosseum] in all cities", "Cost increases by [25] per owned city"],
 		"requiredTech": "Horseback Riding"
 	},
 	{
@@ -445,13 +445,13 @@
 	},
 	{
 		"name": "National College",
-		"cost": 125,
+		"cost": 100,
 		"science": 3,
 		"culture": 1,
 		"greatPersonPoints": {"Great Scientist": 1},
 		"isNationalWonder": true,
 		"percentStatBonus": {"science": 50},
-		"uniques": ["Requires a [Library] in all cities", "Cost increases by [30] per owned city"],
+		"uniques": ["Requires a [Library] in all cities", "Cost increases by [25] per owned city"],
 		"requiredTech": "Philosophy"
 	},
 	{
@@ -475,11 +475,11 @@
 	},
 	{
 		"name": "National Epic",
-		"cost": 125,
+		"cost": 100,
 		"culture": 1,
 		"greatPersonPoints": {"Great Artist": 1},
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Monument] in all cities", "[+33]% Great Person generation [in all cities]", "Cost increases by [30] per owned city"],
+		"uniques": ["Requires a [Monument] in all cities", "[+33]% Great Person generation [in all cities]", "Cost increases by [25] per owned city"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{
@@ -582,12 +582,12 @@
 	},
 	{
 		"name": "Heroic Epic",
-		"cost": 125,
+		"cost": 100,
 		"culture": 1,
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great General": 1},
 		"uniques": ["Requires a [Barracks] in all cities", "All newly-trained [non-air] units [in this city] receive the [Morale] promotion",
-			"Cost increases by [30] per owned city"],
+			"Cost increases by [25] per owned city"],
 		"requiredTech": "Iron Working"
 	},
 	{
@@ -634,10 +634,10 @@
 	},
 	{
 		"name": "Grand Temple",
-		"cost": 125,
+		"cost": 100,
 		"culture": 1,
 		"faith": 5,
-		"uniques": ["Requires a [Temple] in all cities", "Cost increases by [30] per owned city",
+		"uniques": ["Requires a [Temple] in all cities", "Cost increases by [25] per owned city",
 			"[+100]% Natural religion spread [in this city]", "All newly-trained [Missionary] units [in this city] receive the [Devout] promotion", "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion", "Hidden when religion is disabled", "Can only be built [in holy cities]"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
@@ -701,12 +701,12 @@
 	},
 	{
 		"name": "National Treasury",
-		"cost": 125,
+		"cost": 100,
 		"culture": 1,
 		"percentStatBonus": {"gold": 25},
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Market] in all cities", "Cost increases by [30] per owned city"],
+		"uniques": ["Requires a [Market] in all cities", "Cost increases by [25] per owned city"],
 		"requiredTech": "Guilds"
 	},
 	{
@@ -762,12 +762,12 @@
 	},
 	{
 		"name": "Oxford University",
-		"cost": 125,
+		"cost": 100,
 		"science": 3,
 		"culture": 1,
 		"greatPersonPoints": {"Great Scientist": 1},
 		"isNationalWonder": true,
-		"uniques": ["Requires a [University] in all cities", "Free Technology", "Cost increases by [30] per owned city"],
+		"uniques": ["Requires a [University] in all cities", "Free Technology", "Cost increases by [25] per owned city"],
 		"requiredTech": "Education"
 	},
 	{
@@ -993,11 +993,11 @@
 	},
 	{
 		"name": "Hermitage",
-		"cost": 125,
+		"cost": 100,
 		"percentStatBonus": {"culture": 50},
 		"greatPersonPoints": {"Great Artist": 1},
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Opera House] in all cities", "Cost increases by [30] per owned city", "[+1 Culture] from every [National Wonder]"],
+		"uniques": ["Requires a [Opera House] in all cities", "Cost increases by [25] per owned city", "[+1 Culture] from every [National Wonder]"],
 		"requiredTech": "Architecture"
 	},
 	{
@@ -1298,7 +1298,7 @@
 	},
 	{
 		"name": "Manhattan Project",
-		"cost": 750,
+		"cost": 1060,
 		"isNationalWonder": true,
 		"culture": 1,
 		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion"],
@@ -1360,7 +1360,7 @@
 	},
 	{
 		"name": "Apollo Program",
-		"cost": 750,
+		"cost": 1060,
 		"culture": 1,
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
@@ -1370,7 +1370,7 @@
 	},
 	{
 		"name": "Sputnik Program",
-		"cost": 750,
+		"cost": 1060,
 		"culture": 1,
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},

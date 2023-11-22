@@ -605,9 +605,7 @@
             {
                 "name": "Demilitarization",
                 "uniques": [
-                    "[+10]% [Science] from every [Factory]",
-		    "[+10]% [Gold] from every [Factory]",
-                    "[+100]% Production when constructing [Factory] buildings [in all cities]"
+                    "[+25]% maintenance costs <for [Military] units> <for [All]>",
                 ],
                 "row": 1,
                 "column": 3

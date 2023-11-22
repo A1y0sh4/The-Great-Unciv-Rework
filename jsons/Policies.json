@@ -597,7 +597,7 @@
             {
                 "name": "World Expo",
                 "uniques": [
-                    "Allied City-States provide [Science] equal to [100]% of what they produce for themselves"
+                    "Science gained from research agreements [+25]% <for [All]>"
                 ],
                 "row": 1,
                 "column": 1

@@ -47,7 +47,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 	        "cost": 40,
-		"uniques": ["[15]% Food is carried over after population increases [in this city]"],
+		"uniques": ["[+15]% growth [in this city]"],
 		"requiredTech": "Pottery"
 	},
 	{
@@ -558,7 +558,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"requiredBuilding": "Granary",
-		"uniques": ["[30]% Food is carried over after population increases [in this city]"],
+		"uniques": ["[+20]% growth [in this city]"],
 		"requiredTech": "Engineering"
 	},
 	{
@@ -568,7 +568,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"requiredBuilding": "Granary",
-		"uniques": ["[+15]% [Food] [in this city]"],
+		"uniques": ["[+10]% [Food] [in this city]"],
 		"requiredTech": "Engineering"
 	},
 	{
@@ -1175,7 +1175,7 @@
 		"requiredBuilding": "Aqueduct",
 		"maintenance": 2,
 		"hurryCostModifier": 0,
-		"uniques": ["[45]% Food is carried over after population increases [in this city]", "All newly-trained [relevant] units [in this city] receive the [Medic] promotion"],
+		"uniques": ["[+25]% growth [in this city]", "All newly-trained [relevant] units [in this city] receive the [Medic] promotion"],
 		"requiredTech": "Biology"
 	},
 	{
@@ -1294,7 +1294,7 @@
 		"food": 4,
 		"maintenance": 3,
 		"requiredTech": "Pharmaceuticals",
-		"uniques": ["[25]% Food is carried over after population increases [in this city]", "[+10]% growth [in this city]"]
+		"uniques": ["[25]% Food is carried over after population increases [in this city]"]
 	},
 	{
 		"name": "Manhattan Project",

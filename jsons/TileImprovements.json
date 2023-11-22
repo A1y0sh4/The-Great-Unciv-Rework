@@ -47,6 +47,7 @@
 	{
 		"name": "Camp",
 		"type": "Improvement",
+		"production": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Trapping",
 		"uniques": ["Improvement", "Does not need removal of [Forest]","Does not need removal of [Jungle]","[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
@@ -55,6 +56,7 @@
 	{
 		"name": "Oil well",
 		"type": "Improvement",
+		"production": 2,
 		"turnsToBuild": 9,
 		"techRequired": "Biology",
 		"uniques": ["Improvement", "Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"],
@@ -63,6 +65,7 @@
 	{
 		"name": "Offshore Platform",
 		"type": "Improvement",
+		"production": 1,
 		"techRequired": "Refrigeration",
 		"uniques": ["Improvement", "Can only be built to improve a resource", "Can only be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "P"
@@ -71,6 +74,7 @@
 		"name": "Pasture",
 		"type": "Improvement",
 		"turnsToBuild": 8,
+		"production": 1,
 		"techRequired": "Animal Husbandry",
 		"uniques": ["Improvement", "[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
@@ -88,6 +92,7 @@
 		"name": "Quarry",
 		"type": "Improvement",
 		"turnsToBuild": 8,
+		"production": 1,
 		"techRequired": "Masonry",
 		"uniques": ["Improvement", "[+1 Production] <after discovering [Chemistry]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "Q"

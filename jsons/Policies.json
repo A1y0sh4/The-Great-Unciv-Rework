@@ -608,7 +608,7 @@
                     "[+25]% maintenance costs <for [Military] units> <for [All]>",
                 ],
                 "row": 1,
-                "column": 3
+                "column": 5
             },
             {
                 "name": "Exchange Programs",
@@ -616,7 +616,7 @@
                     "Gain [50] [Culture] <upon declaring friendship> <for [All]>"
                 ],
                 "row": 1,
-                "column": 5
+                "column": 3
             },
             {
                 "name": "Total Cooperation",

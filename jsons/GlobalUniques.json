@@ -49,6 +49,7 @@
         "Earn [10]% of the damage done to [Military] units as [Gold] <for [Gunpowder] units>",
         "Earn [10]% of the damage done to [Military] units as [Gold] <for [Armored] units>",
         "Earn [10]% of the damage done to [Military] units as [Gold] <for [Melee Water] units>",
+	"Earn [10]% of the damage done to [Military] units as [Gold] <for [Scout] units>",
         "May buy [Temple] buildings with [Faith] [in all cities]",
         "[Faith] cost of purchasing [Faith] buildings [-25]%",
         "[Faith] cost of purchasing [Temple] buildings [-25]%",

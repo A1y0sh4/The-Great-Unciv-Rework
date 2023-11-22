@@ -595,10 +595,9 @@
         ],
         "policies": [
             {
-                "name": "United Front",
+                "name": "World Expo",
                 "uniques": [
-                    "Militaristic City-States grant units [2] times as fast when you are at war with a common nation",
-		    "[-50]% City-State Influence degradation <when at war>"
+                    "Allied City-States provide [Science] equal to [100]% of what they produce for themselves"
                 ],
                 "row": 1,
                 "column": 1

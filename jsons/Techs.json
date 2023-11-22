@@ -19,7 +19,7 @@
 		"era": "Ancient era",
 		"techCost": 30,
 		"buildingCost": 40,
-		"wonderCost": 185,
+		"wonderCost": 160,
 		"techs": [
 			{
 				"name": "Pottery",
@@ -53,7 +53,7 @@
 		"era": "Ancient era",
 		"techCost": 50,
 		"buildingCost": 60,
-		"wonderCost": 185,
+		"wonderCost": 180,
 		"techs": [
 			{
 				"name": "Sailing",
@@ -104,7 +104,7 @@
 		"era": "Classical era",
 		"techCost": 80,
 		"buildingCost": 75,
-		"wonderCost": 250,
+		"wonderCost": 220,
 		"techs": [
 			{
 				"name": "Optics",
@@ -179,7 +179,7 @@
 		"era": "Medieval era",
 		"techCost": 250,
 		"buildingCost": 110,
-		"wonderCost": 300,
+		"wonderCost": 330,
 		"techs": [
 			{
 				"name": "Theology",
@@ -214,7 +214,7 @@
 		"era": "Medieval era",
 		"techCost": 400,
 		"buildingCost": 145,
-		"wonderCost": 400,
+		"wonderCost": 350,
 		"techs": [
 			{
 				"name": "Compass",
@@ -269,7 +269,7 @@
 		"era": "Renaissance era",
 		"techCost": 650,
 		"buildingCost": 185,
-		"wonderCost": 500,
+		"wonderCost": 450,
 		"techs": [
 			{
 				"name": "Astronomy",
@@ -310,7 +310,7 @@
 		"era": "Renaissance era",
 		"techCost": 1050,
 		"buildingCost": 225,
-		"wonderCost": 625,
+		"wonderCost": 600,
 		"techs": [
 			{
 				"name": "Navigation",

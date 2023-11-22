@@ -622,17 +622,16 @@
                 "name": "Global Cooperation",
                 "requires": ["World Expo", "Demilitarization", "Exchange Programs"],
                 "uniques": [
-                   "[+5]% [Food] [in all cities] <for [All]>", "[+5]% [Production] [in all cities] <for [All]>"
+                   "[+10]% [Food] [in all cities] <for [All]>", "[+10]% [Production] [in all cities] <for [All]>"
                 ],
                 "row": 2,
                 "column": 3
             },
             {
-                "name": "Communism",
-                "requires": ["Total Cooperation"],
+                "name": "International Harmony",
+                "requires": ["Global Congress"],
                 "uniques": [
-                    "[+1 Production] from every [Mine]",
-                    "[+1 Production] from every [Quarry]"
+                    "[-10]% Unhappiness from [Population] [in all cities] <for [All]>"
                 ],
                 "row": 3,
                 "column": 3

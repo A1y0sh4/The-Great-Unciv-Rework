@@ -619,7 +619,7 @@
                 "column": 3
             },
             {
-                "name": "Total Cooperation",
+                "name": "Global Cooperation",
                 "requires": ["World Expo", "Demilitarization", "Exchange Programs"],
                 "uniques": [
                    "[+5]% [Food] [in all cities] <for [All]>", "[+5]% [Production] [in all cities] <for [All]>"

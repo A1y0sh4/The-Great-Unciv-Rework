@@ -84,7 +84,7 @@
 	},
 	{
 		"name": "Brewery",
-		"cost": 75,
+		"cost": 60,
 		"culture": 1,
 		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Wheat"],
@@ -95,7 +95,7 @@
 		"name": "Pub",
 		"replaces": "Brewery",
 		"uniqueTo": "Celts",
-		"cost": 75,
+		"cost": 60,
 		"culture": 2,
 		"maintenance": 1,
 		 "uniques": ["Provides [1] [Beer]"],
@@ -103,7 +103,7 @@
 	},
 	{
 		"name": "Wine Cellar",
-		"cost": 75,
+		"cost": 60,
 		"culture": 1,
 		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Grape"],
@@ -114,7 +114,7 @@
 		"name": "Monastery",
 		"replaces": "Wine Cellar",
 		"uniqueTo": "France",
-		"cost": 75,
+		"cost": 60,
 		"culture": 1,
 		"faith": 1,
 		"maintenance": 1,
@@ -131,7 +131,7 @@
 	{
 		"name": "Paper Maker",
 		"replaces": "Library",
-		"cost": 75,
+		"cost": 60,
 		"uniqueTo": "China",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
@@ -194,7 +194,7 @@
 	{
 		"name": "Walls of Babylon",
 		"replaces": "Walls",
-		"cost": 60,
+		"cost": 50,
 		"uniqueTo": "Babylon",
 		"culture": 1,
 		"cityStrength": 5,
@@ -206,7 +206,7 @@
 	{
 		"name": "Tsikhe",
 		"replaces": "Walls",
-		"cost": 75,
+		"cost": 60,
 		"uniqueTo": "Georgia",
 		"faith": 1,
 		"cityStrength": 8,
@@ -299,7 +299,7 @@
 	},
 	{
 		"name": "Harbor",
-		"cost": 100,
+		"cost": 95,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Lighthouse",
 		"greatPersonPoints": {"Great Merchant": 1},
@@ -377,7 +377,7 @@
         {
 		"name": "Veche",
 		"replaces": "Colosseum",
-		"cost": 100,
+		"cost": 75,
 		"happiness": 2,
 		"uniqueTo": "Kievan Rus'",
 		"hurryCostModifier": 25,
@@ -515,7 +515,7 @@
 		"name": "Satrap's Court",
 		"replaces": "Market",
 		"uniqueTo": "Persia",
-		"cost": 75,
+		"cost": 95,
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"happiness": 2,
@@ -644,7 +644,7 @@
 	},
 	{
 		"name": "Rum Distillery",
-		"cost": 150,
+		"cost": 145,
 		"culture": 1,
 		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Sugar"],
@@ -653,7 +653,7 @@
 	},
 	{
 		"name": "Whisky Distillery",
-		"cost": 150,
+		"cost": 145,
 		"culture": 1,
 		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Wheat"],
@@ -662,7 +662,7 @@
 	},
 	{
 		"name": "Vodka Distillery",
-		"cost": 150,
+		"cost": 145,
 		"culture": 1,
 		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Wheat"],
@@ -671,7 +671,7 @@
 	},
 	{
 		"name": "Cognac Distillery",
-		"cost": 150,
+		"cost": 145,
 		"culture": 1,
 		"maintenance": 1,
                 "requiredBuilding": "Wine Cellar",
@@ -804,7 +804,7 @@
 	},
 {
 		"name": "Barbican",
-		"cost": 160,
+		"cost": 145,
 		"replaces": "Castle",
 		"uniqueTo": "Poland",
 		"cityStrength": 7,
@@ -945,7 +945,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
-		"uniques": ["[+25]% Great Person generation [in all cities]", "Free Great Person"],
+		"uniques": ["[+33]% Great Person generation [in all cities]", "Free Great Person"],
 		"requiredTech": "Printing Press",
 		"quote": "'Don't clap too hard - it's a very old building.' - John Osbourne"
 	},
@@ -1044,7 +1044,7 @@
 		"name": "Sugar shack",
 		"replaces": "Windmill",
 		"uniqueTo": "Canada",
-		"cost": 225,
+		"cost": 200,
 		"production": 2,
 		"percentStatBonus": {"production": 10},
 		"specialistSlots": {"Engineer": 1},
@@ -1055,7 +1055,7 @@
 	},
 	{
 		"name": "Arsenal",
-		"cost": 300,
+		"cost": 225,
 		"cityStrength": 9,
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
@@ -1107,7 +1107,7 @@
 	},
 	{
 		"name": "Factory",
-		"cost": 360,
+		"cost": 275,
 		"production": 4,
 		"percentStatBonus": {"production": 10},
 		"specialistSlots": {"Engineer": 2},
@@ -1121,7 +1121,7 @@
 		"name": "Coking Factory",
 		"replaces": "Factory",
 		"uniqueTo": "Germany",
-		"cost": 360,
+		"cost": 275,
 		"production": 4,
 		"percentStatBonus": {"production": 10},
 		"specialistSlots": {"Engineer": 2},
@@ -1392,7 +1392,7 @@
 	},
 	{
 		"name": "Bomb Shelter",
-		"cost": 300,
+		"cost": 360,
 		"cityHealth": 25,
 		"maintenance": 1,
 		"requiredTech": "Telecommunications",

@@ -493,7 +493,7 @@
             {
                 "name": "Democracy",
                 "uniques": [
-                    "[-50]% Unhappiness from [Specialists] [in all cities]"
+                    "[Faith] cost of purchasing [Great Person] units [-33]%"
                 ],
                 "requires": ["Universal Suffrage"],
                 "row": 3,

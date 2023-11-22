@@ -619,18 +619,17 @@
                 "column": 5
             },
             {
-                "name": "Socialism",
-                "requires": ["Planned Economy"],
+                "name": "Total Cooperation",
+                "requires": ["World Expo", "Demilitarization", "Exchange Programs"],
                 "uniques": [
-                   "[+1 Food] from every [Farm]",
-		   "[+1 Food] from every [Plantation]"
+                   "[+5]% [Food] [in all cities] <for [All]>", "[+5]% [Production] [in all cities] <for [All]>"
                 ],
                 "row": 2,
                 "column": 3
             },
             {
                 "name": "Communism",
-                "requires": ["Socialism"],
+                "requires": ["Total Cooperation"],
                 "uniques": [
                     "[+1 Production] from every [Mine]",
                     "[+1 Production] from every [Quarry]"

@@ -137,7 +137,7 @@
 	{
 		"columnNumber": 4,
 		"era": "Classical era",
-		"techCost": 150,
+		"techCost": 130,
 		"buildingCost": 95,
 		"wonderCost": 250,
 		"techs": [
@@ -177,7 +177,7 @@
 	{
 		"columnNumber": 5,
 		"era": "Medieval era",
-		"techCost": 250,
+		"techCost": 210,
 		"buildingCost": 110,
 		"wonderCost": 330,
 		"techs": [
@@ -212,7 +212,7 @@
 	{
 		"columnNumber": 6,
 		"era": "Medieval era",
-		"techCost": 400,
+		"techCost": 340,
 		"buildingCost": 145,
 		"wonderCost": 350,
 		"techs": [
@@ -267,7 +267,7 @@
 	{
 		"columnNumber": 7,
 		"era": "Renaissance era",
-		"techCost": 650,
+		"techCost": 550,
 		"buildingCost": 185,
 		"wonderCost": 450,
 		"techs": [
@@ -308,7 +308,7 @@
 	{
 		"columnNumber": 8,
 		"era": "Renaissance era",
-		"techCost": 1050,
+		"techCost": 890,
 		"buildingCost": 225,
 		"wonderCost": 600,
 		"techs": [
@@ -347,7 +347,7 @@
 	{
 		"columnNumber": 9,
 		"era": "Industrial era",
-		"techCost": 1600,
+		"techCost": 1440,
 		"buildingCost": 275,
 		"wonderCost": 750,
 		"techs": [
@@ -392,7 +392,7 @@
 	{
 		"columnNumber": 10,
 		"era": "Industrial era",
-		"techCost": 2250,
+		"techCost": 2330,
 		"buildingCost": 330,
 		"wonderCost": 900, // Note that this column doesn't actually have any wonders. This just continues the wonderCost = 2.5 * buildingCost pattern from the last few columns.
 		"techs": [
@@ -427,7 +427,7 @@
 	{
 		"columnNumber": 11,
 		"era": "Modern era",
-		"techCost": 3000,
+		"techCost": 3770,
 		"buildingCost": 450,
 		"wonderCost": 1060,
 		"techs": [
@@ -467,7 +467,7 @@
 	{
 		"columnNumber": 12,
 		"era": "Modern era",
-		"techCost": 4000,
+		"techCost": 6100,
 		"buildingCost": 500,
 		"wonderCost": 1250,
 		"techs": [
@@ -500,7 +500,7 @@
 	{
 		"columnNumber": 13,
 		"era": "Atomic era",
-		"techCost": 5000,
+		"techCost": 9870,
 		"buildingCost": 500,
 		"wonderCost": 1250,
 		"techs": [
@@ -533,7 +533,7 @@
 	{
 		"columnNumber": 14,
 		"era": "Atomic era",
-		"techCost": 6400,
+		"techCost": 15970,
 		"buildingCost": 500,
 		"wonderCost": 1250,
 		"techs": [
@@ -566,7 +566,7 @@
 	{
 		"columnNumber": 15,
 		"era": "Information era",
-		"techCost": 7200,
+		"techCost": 25840,
 		"buildingCost": 750,
 		"wonderCost": 1250,
 		"techs": [

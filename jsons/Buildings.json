@@ -46,8 +46,8 @@
 		"name": "Granary",
 		"maintenance": 1,
 		"hurryCostModifier": 25,
+	        "percentStatBonus": {"food": 10},
 	        "cost": 40,
-		"uniques": ["[+15]% growth [in this city]"],
 		"requiredTech": "Pottery"
 	},
 	{
@@ -555,10 +555,11 @@
 	},
 	{
 		"name": "Aqueduct",
+		"food": 1,
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"requiredBuilding": "Granary",
-		"uniques": ["[+20]% growth [in this city]"],
+		"uniques": ["[+2 Food] <in tiles without [Fresh Water]>"],
 		"requiredTech": "Engineering"
 	},
 	{
@@ -568,7 +569,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"requiredBuilding": "Granary",
-		"uniques": ["[+10]% [Food] [in this city]"],
+		"uniques": ["[+10]% [Food] [in this city]", "[+2 Food] <in tiles without [Fresh Water]>"],
 		"requiredTech": "Engineering"
 	},
 	{
@@ -1173,9 +1174,10 @@
 	{
 		"name": "Hospital",
 		"requiredBuilding": "Aqueduct",
+		"percentStatBonus": {"food": 10},
 		"maintenance": 2,
 		"hurryCostModifier": 0,
-		"uniques": ["[+25]% growth [in this city]", "All newly-trained [relevant] units [in this city] receive the [Medic] promotion"],
+		"uniques": ["All newly-trained [relevant] units [in this city] receive the [Medic] promotion"],
 		"requiredTech": "Biology"
 	},
 	{
@@ -1291,7 +1293,7 @@
 	{
 		"name": "Medical Lab",
 		"requiredBuilding": "Hospital",
-		"food": 4,
+		"percentStatBonus": {"food": 10},
 		"maintenance": 3,
 		"requiredTech": "Pharmaceuticals",
 		"uniques": ["[25]% Food is carried over after population increases [in this city]"]

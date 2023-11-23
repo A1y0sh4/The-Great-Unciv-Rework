@@ -892,7 +892,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
-		"uniques": ["Gain a free [Opera House] [in this city]", "[+100]% Production when constructing [Culture] buildings [in all cities]"],
+		"uniques": ["Gain a free [Opera House] [in this city]", "[+50]% Production when constructing [Culture] buildings [in all cities]"],
 		"requiredTech": "Acoustics",
 		"quote": "'Bolshoi Ballet is a universe of the imagination, a place of magic and enchantment, beauty and romance. Its many worlds vibrate with graceful dancers, glorious music, and sumptuous costumes.' - Trudy Garfunkel"
 	},

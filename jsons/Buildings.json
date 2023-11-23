@@ -493,35 +493,30 @@
 	},
 	{
 		"name": "Market",
-		"gold": 2,
 		"specialistSlots": {"Merchant": 1}, 
 		"hurryCostModifier": 25,
-		"percentStatBonus": {"gold": 10},
+		"uniques": ["[+1 Gold] from [Resource] tiles [in this city]"],
 		"requiredTech": "Currency"
 	},
 	{
 		"name": "Bazaar",
 		"replaces": "Market",
 		"uniqueTo": "Arabia",
-		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
-		"percentStatBonus": {"gold": 10},
 		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
-			"[+2 Gold] from [Oil] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
+			"[+1 Gold] from [Resource] tiles [in this city]", "[+1 Gold] from [Oil] tiles [in this city]", "[+1 Gold] from [Oasis] tiles [in this city]"],
 		"requiredTech": "Currency"
 	},
 	{
 		"name": "Satrap's Court",
 		"replaces": "Market",
 		"uniqueTo": "Persia",
-		"cost": 95,
-		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"happiness": 2,
+		"uniques": ["[+1 Gold] from [Resource] tiles [in this city]"],
 		"hurryCostModifier": 25,
 		"greatPersonPoints": {"Great General": 1},
-		"percentStatBonus": {"gold": 10},
 		"requiredTech": "Currency"
 	},
 	{
@@ -530,7 +525,7 @@
 		"requiredNearbyImprovedResources": ["Gold Ore", "Silver"],
 		"hurryCostModifier": 25,
 		"greatPersonPoints": {"Great Merchant": 1},
-		"percentStatBonus": {"gold": 5},
+		"percentStatBonus": {"gold": 10},
 		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]"],
 		"requiredTech": "Currency"
 	},

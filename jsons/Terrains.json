@@ -302,6 +302,7 @@
         "name": "River",
         "type": "TerrainFeature",
         "movementCost": 0, 
+	"gold": -1,
         "uniques": [
             "Doesn't generate naturally",
             "Excluded from map editor"

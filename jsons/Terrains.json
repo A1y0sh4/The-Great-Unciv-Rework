@@ -298,6 +298,21 @@
 		"occursOn": ["Coast"],
 		"uniques": ["Rare feature"]
 	},
+	 {
+        "name": "River",
+        "type": "TerrainFeature",
+        "movementCost": 0, 
+        "uniques": [
+            "Doesn't generate naturally",
+            "Excluded from map editor"
+        ],
+        "civilopediaText": [
+            {"text": "Rivers exist on tile edges, not as terrain feature per se."},
+            {"text": "The tile has access to fresh water, allowing farming where it would otherwise not be possible."},
+            {"text": "Movement across rivers takes all remaining movement points of a unit unless there is a bridge."},
+            {"text": "When attacking across a river, the attacker gets a -20% strength malus."},
+        ]
+    },
 
 	// Natural Wonders
 	{

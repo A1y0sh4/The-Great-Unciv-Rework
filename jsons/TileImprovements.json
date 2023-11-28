@@ -29,7 +29,7 @@
 		"production": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Mining",
-		"uniques": ["Improvement", "[+1 Production] <after discovering [Chemistry]>", "Pillaging this improvement yields approximately [+21 Gold]"],
+		"uniques": ["Improvement", "[+1 Production] <after discovering [Steam Power]>", "Pillaging this improvement yields approximately [+21 Gold]"],
 		"shortcutKey": "M"
 	},
 	{

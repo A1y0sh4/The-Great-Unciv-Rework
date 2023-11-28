@@ -213,7 +213,7 @@
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
-		"uniques": ["[+50]% [Faith] [in this city] <during We Love The King Day>", "Destroyed when the city is captured", "Obsolete with [Rifling]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>"]
+		"uniques": ["[+25]% [Faith] [in this city] <during We Love The King Day>", "Destroyed when the city is captured", "Obsolete with [Rifling]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>"]
 	},
 	{
 		"name": "The Pyramids",

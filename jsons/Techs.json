@@ -411,7 +411,7 @@
 			{
 				"name": "Steam Power",
 				"row": 6,
-				"uniques": ["[+1] Movement <for [Embarked] units>"],
+				"uniques": ["[+1] Movement <for [All] units> <in [Water] tiles>", "[+1 Science] from every [Strategic Resource]"],
 				"prerequisites": ["Industrialization","Scientific Theory","Rifling"],
 				"quote": "'The nations of the West hope that by means of steam communication all the world will become as one family.' - Townsend Harris"
 			},

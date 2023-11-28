@@ -32,6 +32,7 @@
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Jungle"],
 		"food": 1,
+		"improvementStats": {"food": 1},
 		"improvement": "Plantation",
 		"uniques": ["Resource", "Generated on every [14] tiles <in [Jungle] tiles>",
 					"Generated on every [16] tiles <in [Jungle] tiles> <in [Hill] Regions>"]

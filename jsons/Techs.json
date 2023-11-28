@@ -4,7 +4,7 @@
 		"era": "Ancient era",
 		"techCost": 20,
 		"buildingCost": 40,
-		"wonderCost": 120,
+		"wonderCost": 100,
 		"techs": [
 			{
 				"name": "Agriculture",
@@ -19,7 +19,7 @@
 		"era": "Ancient era",
 		"techCost": 30,
 		"buildingCost": 40,
-		"wonderCost": 160,
+		"wonderCost": 100,
 		"techs": [
 			{
 				"name": "Pottery",
@@ -53,7 +53,7 @@
 		"era": "Ancient era",
 		"techCost": 50,
 		"buildingCost": 60,
-		"wonderCost": 180,
+		"wonderCost": 150,
 		"techs": [
 			{
 				"name": "Sailing",
@@ -104,7 +104,7 @@
 		"era": "Classical era",
 		"techCost": 80,
 		"buildingCost": 75,
-		"wonderCost": 220,
+		"wonderCost": 188,
 		"techs": [
 			{
 				"name": "Optics",
@@ -139,7 +139,7 @@
 		"era": "Classical era",
 		"techCost": 130,
 		"buildingCost": 90,
-		"wonderCost": 250,
+		"wonderCost": 225,
 		"techs": [
 			{
 				"name": "Philosophy",
@@ -179,7 +179,7 @@
 		"era": "Medieval era",
 		"techCost": 210,
 		"buildingCost": 110,
-		"wonderCost": 330,
+		"wonderCost": 275,
 		"techs": [
 			{
 				"name": "Theology",
@@ -214,7 +214,7 @@
 		"era": "Medieval era",
 		"techCost": 340,
 		"buildingCost": 135,
-		"wonderCost": 350,
+		"wonderCost": 340,
 		"techs": [
 			{
 				"name": "Compass",
@@ -269,7 +269,7 @@
 		"era": "Renaissance era",
 		"techCost": 550,
 		"buildingCost": 175,
-		"wonderCost": 450,
+		"wonderCost": 440,
 		"techs": [
 			{
 				"name": "Astronomy",
@@ -310,7 +310,7 @@
 		"era": "Renaissance era",
 		"techCost": 890,
 		"buildingCost": 215,
-		"wonderCost": 600,
+		"wonderCost": 540,
 		"techs": [
 			{
 				"name": "Navigation",
@@ -350,7 +350,7 @@
 		"era": "Industrial era",
 		"techCost": 1440,
 		"buildingCost": 265,
-		"wonderCost": 750,
+		"wonderCost": 660,
 		"techs": [
 			{
 				"name": "Archaeology",
@@ -395,7 +395,7 @@
 		"era": "Industrial era",
 		"techCost": 2330,
 		"buildingCost": 300,
-		"wonderCost": 900, // Note that this column doesn't actually have any wonders. This just continues the wonderCost = 2.5 * buildingCost pattern from the last few columns.
+		"wonderCost": 750, // Note that this column doesn't actually have any wonders. This just continues the wonderCost = 2.5 * buildingCost pattern from the last few columns.
 		"techs": [
 			{
 				"name": "Biology",
@@ -430,7 +430,7 @@
 		"era": "Modern era",
 		"techCost": 3770,
 		"buildingCost": 360,
-		"wonderCost": 1060,
+		"wonderCost": 900,
 		"techs": [
 			{
 				"name": "Refrigeration",
@@ -470,7 +470,7 @@
 		"era": "Modern era",
 		"techCost": 6100,
 		"buildingCost": 450,
-		"wonderCost": 1250,
+		"wonderCost": 1125,
 		"techs": [
 			{
 				"name": "Plastics",
@@ -569,7 +569,7 @@
 		"era": "Information era",
 		"techCost": 25840,
 		"buildingCost": 750,
-		"wonderCost": 1250,
+		"wonderCost": 1875,
 		"techs": [
 			{
 				"name": "Telecommunications",
@@ -615,7 +615,7 @@
 		"era": "Information era",
 		"techCost": 41810,
 		"buildingCost": 750,
-		"wonderCost": 1250,
+		"wonderCost": 1875,
 		"techs": [
 			{
 				"name": "Globalization",
@@ -654,7 +654,7 @@
 		"era": "Future era",
 		"techCost": 67650,
 		"buildingCost": 750,
-		"wonderCost": 1250,
+		"wonderCost": 1875,
 		"techs": [
 			{
 				"name": "Future Tech",

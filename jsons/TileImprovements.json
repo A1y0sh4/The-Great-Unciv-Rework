@@ -94,7 +94,7 @@
 		"turnsToBuild": 8,
 		"production": 1,
 		"techRequired": "Masonry",
-		"uniques": ["Improvement", "[+1 Production] <after discovering [Chemistry]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+21 Gold]"],
+		"uniques": ["Improvement", "[+1 Production] <after discovering [Steam Power]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+21 Gold]"],
 		"shortcutKey": "Q"
 	},
 	{

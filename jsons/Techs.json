@@ -339,7 +339,8 @@
 			{
 				"name": "Chemistry",
 				"row": 10,
-				"prerequisites": ["Gunpowder"],
+				"prerequisites": ["Gunpowder"], 
+				"uniques": ["[+1 Science] from every [Strategic resource]"],
 				"quote": "'Wherever we look, the work of the chemist has raised the level of our civilization and has increased the productive capacity of the nation.' - Calvin Coolidge"
 			}
 		]
@@ -411,7 +412,7 @@
 			{
 				"name": "Steam Power",
 				"row": 6,
-				"uniques": ["[+1] Movement <for [All] units> <in [Water] tiles>", "[+1 Science] from every [Strategic Resource]"],
+				"uniques": ["[+1] Movement <for [All] units> <in [Water] tiles>"],
 				"prerequisites": ["Industrialization","Scientific Theory","Rifling"],
 				"quote": "'The nations of the West hope that by means of steam communication all the world will become as one family.' - Townsend Harris"
 			},

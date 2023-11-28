@@ -189,7 +189,7 @@
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured", "Obsolete with [Metallurgy]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>"]
+		"uniques": ["Destroyed when the city is captured", "Obsolete with [Rifling]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>"]
 	},
 	{
 		"name": "Walls of Babylon",
@@ -201,7 +201,7 @@
 		"cityHealth": 50,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured", "Obsolete with [Metallurgy]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>"]
+		"uniques": ["Destroyed when the city is captured", "Obsolete with [Rifling]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>"]
 	},
 	{
 		"name": "Tsikhe",
@@ -213,7 +213,7 @@
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
-		"uniques": ["[+50]% [Faith] [in this city] <during We Love The King Day>", "Destroyed when the city is captured", "Obsolete with [Metallurgy]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>"]
+		"uniques": ["[+50]% [Faith] [in this city] <during We Love The King Day>", "Destroyed when the city is captured", "Obsolete with [Rifling]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>"]
 	},
 	{
 		"name": "The Pyramids",
@@ -783,7 +783,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
-		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured", "Obsolete with [Metallurgy]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>"]
+		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured", "Obsolete with [Rifling]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>"]
 	},
 	{
 		"name": "Mughal Fort",
@@ -795,7 +795,7 @@
 		"culture": 2,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"uniques": ["[+10]% [Gold] [in this city] <after discovering [Flight]>", "[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured", "Obsolete with [Metallurgy]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>"],
+		"uniques": ["[+10]% [Gold] [in this city] <after discovering [Flight]>", "[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured", "Obsolete with [Rifling]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>"],
 		"requiredTech": "Chivalry"
 	},
 {
@@ -807,7 +807,7 @@
 		"cityHealth": 50,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"uniques": ["All newly-trained [relevant] units [in this city] receive the [Cover I] promotion", "[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured", "Obsolete with [Metallurgy]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>"],
+		"uniques": ["All newly-trained [relevant] units [in this city] receive the [Cover I] promotion", "[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured", "Obsolete with [Rifling]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>"],
 		"requiredTech": "Chivalry"
 	},
 	{

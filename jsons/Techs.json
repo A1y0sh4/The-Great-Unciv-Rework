@@ -220,7 +220,7 @@
 				"name": "Compass",
 				"cost": 340,
 				"row": 1,
-				"uniques": ["[+1] Sight <for [Embarked] units>"],
+				"uniques": ["[+1] Sight <for [All] units> <in [Water] tiles>"],
 				"prerequisites": ["Optics","Theology"],
 				"quote": "'I find the great thing in this world is not so much where we stand, as in what direction we are moving.' - Oliver Wendell Holmes"
 			},
@@ -274,7 +274,7 @@
 			{
 				"name": "Astronomy",
 				"row": 2,
-				"uniques": ["[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles"],
+				"uniques": ["[+1] Movement <for [All] units> <in [Water] tiles>", "Enables [Embarked] units to enter ocean tiles"],
 				"prerequisites": ["Compass","Education"],
 				"quote": "'Joyfully to the breeze royal Odysseus spread his sail, and with his rudder skillfully he steered.' - Homer"
 			},

@@ -125,7 +125,7 @@
 		"name": "Library",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Printing Press]>"],
+		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Mathematics]>"],
 		"requiredTech": "Writing"
 	},
 	{
@@ -135,7 +135,7 @@
 		"uniqueTo": "China",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["[+1 Science, +1 Gold] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Printing Press]>"],
+		"uniques": ["[+1 Science, +1 Gold] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Mathematics]>"],
 		"requiredTech": "Writing"
 	},
 	{
@@ -446,11 +446,10 @@
 	{
 		"name": "National College",
 		"cost": 100,
-		"science": 3,
 		"culture": 1,
 		"greatPersonPoints": {"Great Scientist": 1},
 		"isNationalWonder": true,
-		"percentStatBonus": {"science": 50},
+		"percentStatBonus": {"science": 33},
 		"uniques": ["Requires a [Library] in all cities", "Cost increases by [25] per owned city"],
 		"requiredTech": "Philosophy"
 	},
@@ -634,7 +633,7 @@
 		"culture": 1,
 		"faith": 5,
 		"uniques": ["Requires a [Temple] in all cities", "Cost increases by [25] per owned city",
-			"[+100]% Natural religion spread [in this city]", "All newly-trained [Missionary] units [in this city] receive the [Devout] promotion", "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion", "Hidden when religion is disabled", "Can only be built [in holy cities]"],
+			"[+33]% Natural religion spread [in this city]", "All newly-trained [Missionary] units [in this city] receive the [Devout] promotion", "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion", "Hidden when religion is disabled", "Can only be built [in holy cities]"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	},
@@ -699,7 +698,7 @@
 		"name": "National Treasury",
 		"cost": 100,
 		"culture": 1,
-		"percentStatBonus": {"gold": 25},
+		"percentStatBonus": {"gold": 33},
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isNationalWonder": true,
 		"uniques": ["Requires a [Market] in all cities", "Cost increases by [25] per owned city"],
@@ -753,17 +752,15 @@
 		"percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[+17]% [Science] <after discovering [Printing Press]>"],
 		"requiredTech": "Education"
 	},
 	{
 		"name": "Oxford University",
-		"cost": 100,
 		"science": 3,
 		"culture": 1,
 		"greatPersonPoints": {"Great Scientist": 1},
-		"isNationalWonder": true,
-		"uniques": ["Requires a [University] in all cities", "Free Technology", "Cost increases by [25] per owned city"],
+		"uniques": ["Gain a free [University] [in this city]", "Free Technology"],
 		"requiredTech": "Education"
 	},
 	{
@@ -833,7 +830,7 @@
 	{
 		"name": "Ironworks",
 		"cost": 125,
-		"production": 8,
+		"percentStatBonus": {"production": 33},
 		"culture": 1,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isNationalWonder": true,
@@ -989,10 +986,10 @@
 	{
 		"name": "Hermitage",
 		"cost": 100,
-		"percentStatBonus": {"culture": 50},
+		"percentStatBonus": {"culture": 33},
 		"greatPersonPoints": {"Great Artist": 1},
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Opera House] in all cities", "Cost increases by [25] per owned city", "[+1 Culture] from every [National Wonder]"],
+		"uniques": ["Requires a [Opera House] in all cities", "Cost increases by [25] per owned city"],
 		"requiredTech": "Architecture"
 	},
 	{
@@ -1085,7 +1082,7 @@
 		"name": "The Louvre",
 		"happiness": 4,
 		"isWonder": true,
-		"uniques": ["[2] free [Great Artist] units appear", "Gain a free [Museum] [in this city]"],
+		"uniques": ["[1] free [Great Artist] units appear", "Gain a free [Museum] [in this city]"],
 		"requiredTech": "Archaeology",
 		"quote": "'Every genuine work of art has as much reason for being as the earth and the sun' - Ralph Waldo Emerson"
 	},

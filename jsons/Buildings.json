@@ -759,6 +759,7 @@
 		"name": "Oxford University",
 		"science": 3,
 		"culture": 1,
+		"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 1},
 		"uniques": ["Gain a free [University] [in this city]", "Free Technology"],
 		"requiredTech": "Education"

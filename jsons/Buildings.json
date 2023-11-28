@@ -752,7 +752,7 @@
 		"percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[+17]% [Science] <after discovering [Printing Press]>"],
+		"uniques": ["[+1 Science] from [Jungle] tiles [in this city]", "[+17]% [Science] <after discovering [Printing Press]>"],
 		"requiredTech": "Education"
 	},
 	{

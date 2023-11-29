@@ -328,11 +328,11 @@
         "era": "Renaissance era",
         "priorities": {
             "Neutral": 0,
-            "Cultural": 10,
+            "Cultural": 30,
             "Diplomatic": 30,
             "Domination": 30,
             "Scientific": 30,
-	    "Religious": 20
+	    "Religious": 30
         },
         "uniques": ["[+25]% [Gold] [in capital]", "[+2 Production] [in all cities connected to capital]"],
         "policies": [

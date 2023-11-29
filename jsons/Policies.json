@@ -163,7 +163,7 @@
             {
                 "name": "City Militia",
                 "uniques": [
-                    "Units in cities cost no Maintenance", "[+1 Happiness] [in all cities with a garrison]"
+                    "[-50]% maintenance costs <for [Military] units> <in [City center] tiles>", "[+1 Happiness] [in all cities with a garrison]"
                 ],
                 "requires": ["Warrior Code"],
                 "row": 2,

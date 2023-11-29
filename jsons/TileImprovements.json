@@ -215,35 +215,35 @@
 		"name": "Academy",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"science": 4,
+		"science": 5,
 		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+50 Science]"]
 	},
 	{
 		"name": "Landmark",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"culture": 4,
+		"culture": 5,
 		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+50 Culture]"]
 	},
 	{
 		"name": "Manufactory",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"production": 4,
+		"production": 5,
 		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+50 Gold]"]
 	},
 	{
 		"name": "Customs house",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"gold": 4,
+		"gold": 5,
 		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+50 Gold]"]
 	},
 	{
 		"name": "Holy site",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"faith": 4,
+		"faith": 5,
 		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+50 Faith]"]
 	},
 	{

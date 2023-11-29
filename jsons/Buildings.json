@@ -1217,7 +1217,7 @@
 		"culture": 3,
 		"happiness": 2,
 		"greatPersonPoints": {"Great Engineer": 2},
-		"uniques": ["Gain a free [Stadium] [in this city]", "[50]% of excess happiness converted to [Culture]", "[+1 Culture] from every [Stadium]"],
+		"uniques": ["Gain a free [Stadium] [in this city]", "[+1 Culture] from every [Stadium]"],
 		"requiredTech": "Refrigeration",
 		"quote": "'Down through its history, only three people have managed to silence the Maracana: the Pope, Frank Sinatra, and me.' - Alcides Ghiggia"
 	},

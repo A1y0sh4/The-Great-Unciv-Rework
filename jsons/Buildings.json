@@ -918,7 +918,7 @@
 	},
 	{
 		"name": "Theatre",
-		"happiness": 3,
+		"happiness": 2,
 		"hurryCostModifier": 10,
 		"maintenance": 2,
 		"requiredBuilding": "Colosseum",
@@ -926,7 +926,7 @@
 	},
 	{
 		"name": "Globe Theatre",
-		"culture": 3,
+		"culture": 2,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
 		"uniques": ["Must be next to [Fresh water]", "Gain a free [Theatre] [in this city]", "[+1 Gold] from all [Happiness] buildings"],
@@ -1206,7 +1206,7 @@
 	// Column 11
 	{
 		"name": "Stadium",
-		"happiness": 4,
+		"happiness": 2,
 		"requiredBuilding": "Theatre",
 		"maintenance": 2,
 		"requiredTech": "Refrigeration"
@@ -1214,9 +1214,9 @@
 	{
 		"name": "Maracana Stadium",
 		"isWonder": true,
-		"culture": 6,
+		"culture": 3,
 		"greatPersonPoints": {"Great Engineer": 2},
-		"uniques": ["Gain a free [Stadium] [in this city]", "[50]% of excess happiness converted to [Culture]", "[+2 Happiness] from every [Stadium]"],
+		"uniques": ["Gain a free [Stadium] [in this city]", "[50]% of excess happiness converted to [Culture]", "[+1 Happiness] from every [Stadium]"],
 		"requiredTech": "Refrigeration",
 		"quote": "'Down through its history, only three people have managed to silence the Maracana: the Pope, Frank Sinatra, and me.' - Alcides Ghiggia"
 	},

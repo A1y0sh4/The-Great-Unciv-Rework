@@ -390,7 +390,7 @@
             "Cultural": 30,
             "Diplomatic": 30,
             "Domination": 20,
-            "Scientific": 40,
+            "Scientific": 50,
 	    "Religious": 0
         },
         "uniques": [
@@ -583,9 +583,9 @@
         "priorities": {
             "Neutral": 50,
             "Cultural": 30,
-            "Diplomatic": 40,
+            "Diplomatic": 50,
             "Domination": 30,
-            "Scientific": 50,
+            "Scientific": 40,
 	    "Religious": 30
         },
         "uniques": [
@@ -597,7 +597,7 @@
             {
                 "name": "World Expo",
                 "uniques": [
-                    "Science gained from research agreements [+25]% <for [All]>"
+                    "Science gained from research agreements [+50]%"
                 ],
                 "row": 1,
                 "column": 1
@@ -608,21 +608,21 @@
                     "[+25]% maintenance costs <for [Military] units> <for [All]>",
                 ],
                 "row": 1,
-                "column": 5
+                "column": 3
             },
             {
                 "name": "Exchange Programs",
                 "uniques": [
-                    "Gain [50] [Culture] <upon declaring friendship> <for [All]>"
+                    "Gain [50] [Culture] <upon declaring friendship>"
                 ],
                 "row": 1,
-                "column": 3
+                "column": 5
             },
             {
                 "name": "Global Cooperation",
                 "requires": ["World Expo", "Demilitarization", "Exchange Programs"],
                 "uniques": [
-                   "[+10]% [Food] [in all cities] <for [All]>", "[+10]% [Production] [in all cities] <for [All]>"
+                   "[+10]% [Food] [in all cities]", "[+10]% [Production] [in all cities]"
                 ],
                 "row": 2,
                 "column": 3
@@ -631,7 +631,7 @@
                 "name": "International Harmony",
                 "requires": ["Global Cooperation"],
                 "uniques": [
-                    "[-10]% Unhappiness from [Population] [in all cities] <for [All]>"
+                    "[-10]% Unhappiness from [Population] [in all cities]"
                 ],
                 "row": 3,
                 "column": 3

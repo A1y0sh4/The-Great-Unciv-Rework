@@ -1414,7 +1414,7 @@
 		"culture": 3,
 		"greatPersonPoints": {"Great Merchant": 3},
 		"uniques": ["Triggers voting for the Diplomatic Victory", "Hidden when [Diplomatic] Victory is disabled", "Triggers a global alert upon build start", "Triggers a global alert upon completion", "Only available <after adopting [Cosmopolitanism Complete]>"],
-		"quote": "'More than ever before in human history, we share a common destiny. We can master it only if we face it together. And that is why we have the United Nations.' - Kofi Annan"
+		"quote": "'There is nothing like a dream to create the future.' - Victor Hugo"
 	},
 
 	// All Eras

@@ -114,7 +114,7 @@
             {
                 "name": "Citizenship",
                 "uniques": [
-                    "[-20]% tile improvement construction time"
+                    "[-25]% tile improvement construction time"
                 ],
                 "requires": ["Republic"],
                 "row": 2,

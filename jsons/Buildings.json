@@ -1106,7 +1106,7 @@
 		"requiredBuilding": "University",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
-		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Mathematics]>"],
+		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Biology]>"],
 		"requiredTech": "Scientific Theory"
 	},
 	{
@@ -1254,17 +1254,17 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
-		"uniques": ["Must be next to [Water]", "[+1 Production] from every specialist [in all cities]", "[+25]% Great Person generation [in this city]"],
+		"uniques": ["Must be next to [Water]", "[+1 Production] from every specialist [in all cities]", "[+33]% Great Person generation [in this city]"],
 		"requiredTech": "Replaceable Parts",
 		"quote": "'Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore. Send these, the homeless, tempest-tossed to me, I lift my lamp beside the golden door!' - Emma Lazarus"
 	},
 	// Column 12
 	{
 		"name": "Research Lab",
-		"science": 4,
 		"percentStatBonus": {"science": 50},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Public School",
+		"uniques": ["[+50]% [Science] <after discovering [Atomic Theory]>"],
 		"maintenance": 3,
 		"requiredTech": "Plastics"
 	},

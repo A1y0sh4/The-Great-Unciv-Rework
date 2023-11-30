@@ -1101,12 +1101,12 @@
 	},
 	{
 		"name": "Public School",
-		"science": 4,
+		"science": 2,
 		"specialistSlots": {"Scientist": 1},
 		"requiredBuilding": "University",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
-		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city]"],
+		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Mathematics]>"],
 		"requiredTech": "Scientific Theory"
 	},
 	{

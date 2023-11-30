@@ -239,7 +239,7 @@
 		"unbuildable": true,
 		"defenceBonus": -0.1,
 		"occursOn": ["Grassland", "Plains", "Tundra"],
-		"uniques": ["Fresh water", "Rare feature",
+		"uniques": ["Becomes [Coast] when adjacent to [Land] <in tiles without [Grassland]> <in tiles without [Plains]> <in tiles without [Tundra]>", "Fresh water", "Rare feature",
 			    "Always Fertility [4] for Map Generation",
 			    "Only [All Road] improvements may be built on this tile",
 			    "Considered [Food] when determining start locations",

@@ -7,7 +7,7 @@
             "Cultural": 30,
             "Diplomatic": 10,
             "Domination": 30,
-            "Scientific": 20,
+            "Scientific": 30,
 	    "Religious": 20
         },
         "uniques": [
@@ -72,7 +72,7 @@
             "Cultural": 0,
             "Diplomatic": 30,
             "Domination": 20,
-            "Scientific": 20,
+            "Scientific": 30,
 	    "Religious": 10
         },
         "uniques": ["[+1 Culture] [in all cities]"],
@@ -134,7 +134,7 @@
             "Cultural": 0,
             "Diplomatic": 20,
             "Domination": 40,
-            "Scientific": 30,
+            "Scientific": 40,
 	    "Religious": 20
         },
         "uniques": [

@@ -334,10 +334,9 @@
 	{
 		"name": "Circus Maximus",
 		"cost": 100,
-		"happiness": 5,
 		"culture": 1,
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Colosseum] in all cities", "Cost increases by [25] per owned city"],
+		"uniques": ["Requires a [Colosseum] in all cities", "[-33]% Unhappiness from [Population] [in this city]", "Cost increases by [25] per owned city"],
 		"requiredTech": "Horseback Riding"
 	},
 	{
@@ -478,7 +477,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Artist": 1},
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Monument] in all cities", "[+33]% Great Person generation [in all cities]", "Cost increases by [25] per owned city"],
+		"uniques": ["Requires a [Monument] in all cities", "[+33]% Great Person generation [in this city]", "Cost increases by [25] per owned city"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{

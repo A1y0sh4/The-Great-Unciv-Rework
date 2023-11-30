@@ -523,7 +523,7 @@
 		"requiredNearbyImprovedResources": ["Gold Ore", "Silver"],
 		"hurryCostModifier": 25,
 		"greatPersonPoints": {"Great Merchant": 1},
-		"percentStatBonus": {"gold": 10},
+		"percentStatBonus": {"gold": 25},
 		"uniques": ["[+1 Gold] from [Gold Ore] tiles [in this city]", "[+1 Gold] from [Silver] tiles [in this city]"],
 		"requiredTech": "Currency"
 	},
@@ -899,10 +899,9 @@
 	},
 	{
 		"name": "Bank",
-		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 15,
-		"percentStatBonus": {"gold": 15},
+		"uniques": ["[+1 Gold] per [2] population [in this city]"],
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
 	},
@@ -1185,10 +1184,9 @@
 	},
 	{
 		"name": "Stock Exchange",
-		"gold": 2,
-		"percentStatBonus": {"gold": 20},
 		"specialistSlots": {"Merchant": 2},
 		"hurryCostModifier": 15,
+		"uniques": ["[+1 Gold] per [2] population [in this city]"],
 		"requiredBuilding": "Bank",
 		"requiredTech": "Electricity"
 	},

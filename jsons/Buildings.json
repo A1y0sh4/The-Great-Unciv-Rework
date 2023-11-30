@@ -863,6 +863,7 @@
 		"name": "Observatory",
 		"maintenance": 0,
 		"hurryCostModifier": 15,
+		"greatPersonPoints": {"Great Scientist": 1},
 		"percentStatBonus": {"science": 50},
 		"requiredBuilding": "Library",
 		"uniques": ["Must be next to [Mountain]"],
@@ -968,7 +969,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Harbor",
 		"greatPersonPoints": {"Great Merchant": 1},
-		"uniques": ["[+1 Production] from [Fishing Boats] tiles [in this city]",
+		"uniques": ["[+1 Production, +1 Gold] from [Fishing Boats] tiles [in this city]",
 			"Must be next to [Water]", "[+15]% Production when constructing [Water] units [in this city]", "New [{Water} {Military}] units start with [15] Experience [in this city]"],
 		"requiredTech": "Navigation"
 	},
@@ -979,7 +980,7 @@
 		"uniqueTo": "Portugal",
 		"hurryCostModifier": 25,
 		"greatPersonPoints": {"Great Merchant": 2},
-		"uniques": ["[+1 Production, +1 Science] from [Fishing Boats] tiles [in this city]",
+		"uniques": ["[+1 Production, +1 Gold, +1 Science] from [Fishing Boats] tiles [in this city]",
 			"Must be next to [Water]", "[+15]% Production when constructing [Water] units [in this city]", "New [{Water} {Military}] units start with [15] Experience [in this city]"],
 		"requiredTech": "Compass"
 	},
@@ -1105,7 +1106,7 @@
 		"requiredBuilding": "University",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
-		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city]"],
 		"requiredTech": "Scientific Theory"
 	},
 	{

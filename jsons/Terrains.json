@@ -123,8 +123,6 @@
 	    "Base Terrain on this tile is not counted for Region determination",
 	    "Starts in regions of this type receive an extra [Stone]",
 	    "A Region is formed with at least [10]% [Mountain] tiles, with priority [2]",
-	    "A Region is formed with at least [15]% [Mountain] tiles and [Lakes] tiles, with priority [2]",
-	    "A Region can not contain more [Lakes] tiles than [Mountain] tiles",
 	    "A Region is formed with at least [50]% [Hill] tiles, with priority [5]",
             "Considered [Undesirable] when determining start locations <in all except [Mountain] Regions>", "Considered [Production] when determining start locations", "Tile provides yield without assigned population"]
 	},

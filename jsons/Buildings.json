@@ -750,7 +750,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 33},
-		"specialistSlots": {"Scientist": 2},
+		"specialistSlots": {"Scientist": 1},
 		"requiredBuilding": "Library",
 		"uniques": ["[+1 Science] from [Jungle] tiles [in this city]", "[+17]% [Science] <after discovering [Printing Press]>"],
 		"requiredTech": "Education"
@@ -1263,7 +1263,7 @@
 		"name": "Research Lab",
 		"science": 4,
 		"percentStatBonus": {"science": 50},
-		"specialistSlots": {"Scientist": 1},
+		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Public School",
 		"maintenance": 3,
 		"requiredTech": "Plastics"

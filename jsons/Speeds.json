@@ -41,8 +41,8 @@
             {"yearsPerTurn": 20, "untilTurn": 105},
             {"yearsPerTurn": 10, "untilTurn": 135},
             {"yearsPerTurn":  4, "untilTurn": 160},
-            {"yearsPerTurn":  2, "untilTurn": 120},
-            {"yearsPerTurn":  1, "untilTurn": 150}
+            {"yearsPerTurn":  2, "untilTurn": 220},
+            {"yearsPerTurn":  1, "untilTurn": 250}
         ]
     },
     {
@@ -173,5 +173,33 @@
             {"yearsPerTurn": 0.25,     "untilTurn": 1344},
             {"yearsPerTurn": 0.083333, "untilTurn": 1500}
         ]
-    }
+    },
+    {
+        "name": "Endless",
+        "modifier": 5.0,
+        "productionCostModifier": 5.0,
+        "goldCostModifier": 5.0,
+        "scienceCostModifier": 5.0,
+        "cultureCostModifier": 5.0,
+        "faithCostModifier": 5.0,
+        "improvementBuildLengthModifier": 5.0,
+        "barbarianModifier": 5.0,
+        "goldGiftModifier": 0.5,
+        "cityStateTributeScalingInterval": 65.0,
+        "goldenAgeLengthModifier": 3.0,
+        "religiousPressureAdjacentCity": 1,
+        "peaceDealDuration": 50,
+        "dealDuration": 150,
+        "startYear": -4000,
+        "turns": [
+            {"yearsPerTurn":   10,     "untilTurn":  100},
+            {"yearsPerTurn":    5,     "untilTurn":  400},
+            {"yearsPerTurn":    2,     "untilTurn":  570},
+            {"yearsPerTurn":    1,     "untilTurn":  771},
+            {"yearsPerTurn":  0.5,     "untilTurn":  900},
+            {"yearsPerTurn": 0.25,     "untilTurn": 1080},
+            {"yearsPerTurn": 0.083333, "untilTurn": 1344},
+            {"yearsPerTurn": 0.041111, "untilTurn": 1500}
+        ]
+    },
 ]

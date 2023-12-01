@@ -108,7 +108,7 @@
 		"techs": [
 			{
 				"name": "Optics",
-				"cost": 85,
+				"cost": 80,
 				"row": 1,
 				"prerequisites": ["Sailing"],
 				"uniques": ["Enables embarkation for land units"],

@@ -317,7 +317,7 @@
 	{
 		"name": "Lake Baikal",
 		"type": "NaturalWonder",
-		"food": 1,
+		"food": 2,
 		"gold": 1,
 		"occursOn": ["Tundra"],
 		"uniques": ["Fresh water", "Must be adjacent to [1] to [6] [Tundra] tiles",

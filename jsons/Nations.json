@@ -220,7 +220,7 @@
 		"outerColor": [27,53,63],
 		"innerColor": [213,249,255],
 		"uniqueName": "Ingenuity",
-		"uniques": ["Gain [5] [Science] <upon constructing [Buildings] [in capital]>", "Gain [50] [Science] <upon constructing [Wonders] [in capital]>"],
+		"uniques": ["Gain [10] [Science] <upon constructing [Buildings] [in capital]>", "Gain [50] [Science] <upon constructing [Wonders] [in capital]>"],
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",

@@ -449,12 +449,12 @@
         "name": "Individualism",
         "era": "Industrial era",
         "priorities": {
-            "Neutral": 30,
+            "Neutral": 50,
             "Cultural": 50,
-            "Diplomatic": 50,
+            "Diplomatic": 30,
             "Domination": 30,
             "Scientific": 40,
-	    "Religious": 40
+	    "Religious": 30
         },
         "uniques": [
             "[-15]% Culture cost of adopting new Policies",
@@ -517,7 +517,7 @@
             "Diplomatic": 30,
             "Domination": 50,
             "Scientific": 30,
-	    "Religious": 20
+	    "Religious": 40
         },
         "uniques": [
             "[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",

@@ -695,7 +695,7 @@
 	{
 		"name": "Lake Victoria",
 		"type": "NaturalWonder",
-		"food": 2,
+		"food": 1,
 		"science": 1,
 		"culture": 1,
 		"occursOn": ["Plains"],

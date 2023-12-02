@@ -27,7 +27,7 @@
 		"innerColor": [255, 255, 255],
 		
 		"uniqueName": "Manifest Destiny",
-		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Science] <within [1] tiles of a [Friendly Land]>", "[-50]% Gold cost of acquiring tiles [in all cities]"],
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Science] <within [2] tiles of a [Friendly Land]>", "[-50]% Gold cost of acquiring tiles [in all cities]"],
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
 			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
@@ -58,7 +58,7 @@
 		"innerColor": [146,221,9],
 		
 		"uniqueName": "Trade Caravans",
-		"uniques": ["Double quantity of [Oil] produced", "[+2 Faith] from each Trade Route", "[+25]% Natural religion spread [in all cities connected to capital]"],
+		"uniques": "[+1 Faith] from each Trade Route", "[+25]% Natural religion spread [in all cities connected to capital]"],
 		"cities": ["Mecca","Medina","Damascus","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat",
 			"Aden","Yamama","Muscat","Mansura","Bukhara","Shiraz","Merw","Balkh","Mosul",
 			"Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr","Tripoli","Tunis","Kairouan","Algiers","Oran"]

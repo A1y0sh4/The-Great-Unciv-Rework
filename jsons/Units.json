@@ -1669,11 +1669,11 @@
 		"movement": 1,
 		"strength": 80,
 		"rangedStrength": 80,
-		"range": 10,
+		"range": 8,
 		"cost": 300,
 		"requiredTech": "Radar",
 		"requiredResource": "Oil",
-		"promotions": ["Evasion", "Siege I"],
+		"promotions": ["Evasion"],
 		"upgradesTo": "Stealth Bomber",
                 "uniques": ["Destroys tile improvements when attacking"],
 		"attackSound": "bombing"

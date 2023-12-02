@@ -661,7 +661,7 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [65, 141, 254],
 		"uniqueName": "Hellenization",
-		"uniques": ["Upon capturing a city, receive [10] times its [Science] production as [Science] immediately", "Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately"],
+		"uniques": ["Upon capturing a city, receive [5] times its [Science] production as [Science] immediately", "Upon capturing a city, receive [5] times its [Culture] production as [Culture] immediately"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
 			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon",

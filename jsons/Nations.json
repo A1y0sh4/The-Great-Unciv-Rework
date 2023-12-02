@@ -86,7 +86,7 @@
 		"innerColor": [248, 202, 86],
 		
 		"uniqueName": "Foreign Immigration",
-		"uniques": ["[+1] population in a random city <upon declaring friendship>", "[+1] population in a random city <upon entering a Golden Age>", "[-50]% Food consumption by specialists [in capital]"],
+		"uniques": ["[+1] population in a random city <upon declaring friendship>", "[+1] population in a random city <upon entering a Golden Age>"],
 		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Catamarca","Formosa","San Juan","San Luis","Posadas","Parana","Salta","Neeuquen","Jujuy","La Rioja","Santa Fe","Río Gallegos","Ushuaia"]
 	},
 	{
@@ -161,7 +161,7 @@
 		"outerColor": [234,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Diplomatic Marriage",
-		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns.", "Gain [90] Influence with a [Great Person] gift to a City-State"],
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns."],
 		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
 			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
 			"Amstetten", "Bad Ischl", "Wolfsberg", "Kufstein", "Leoben", "Klosterneuburg", "Leonding",
@@ -190,7 +190,7 @@
 		"innerColor": [134,238,214],
 
 		"uniqueName": "Sacrificial Captives",
-		"uniques": ["[+1] Happiness from each type of luxury resource <when at war>", "Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
+		"uniques": ["[+1] Happiness from each type of luxury resource <when at war>", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
 		"cities": ["Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
 			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
 			"Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac",
@@ -276,7 +276,7 @@
 		"innerColor": [255, 191, 0],
 		
 		"uniqueName": "Patriarchate of Constantinople",
-		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion", "[+2 Gold] from every [Circus]"],
+		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion"],
 		"cities": ["Constantinople","Adrianople","Nicaea","Antioch","Varna","Ohrid","Nicomedia","Trebizond","Cherson","Sardica",
 			"Ani","Dyrrachium","Edessa","Chalcedon","Naissus","Bari","Iconium","Prilep","Samosata","Kars",
 			"Nicopolis","Theodosiopolis","Tyana","Gaza","Kerkyra","Phoenice","Selymbria","Sillyon","Chrysopolis","Vodena",
@@ -328,7 +328,7 @@
 		"outerColor": [189,189,189],
 		"innerColor": [88,0,154],
 		"uniqueName": "Phoenician Heritage",
-		"uniques": ["[1] Movement point cost to disembark <for [Settler] units>", "Gain a free [Harbor] [in all coastal cities]", "Land units may cross [Mountain] tiles after the first [Great General] is earned"],
+		"uniques": ["[1] Movement point cost to disembark <for [Settler] units>", "Gain a free [Harbor] [in all coastal cities]"],
 		"cities": ["Carthage","Utique","Hippo Regius","Gades","Saguntum","Carthago Nova","Panormus","Lilybaeum","Hadrumetum","Zama Regia",
 			"Karalis","Malaca","Leptis Magna","Hippo Diarrhytus","Motya","Sulci","Leptis Parva","Tharros","Soluntum","Lixus",
 			"Oea","Theveste","Ibossim","Thapsus","Aleria","Tingis","Abyla","Sabratha","Rusadir","Baecula",

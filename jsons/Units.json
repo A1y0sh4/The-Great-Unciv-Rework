@@ -1006,7 +1006,7 @@
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"uniques": ["Ignores terrain cost", "[+25]% Strength <in [Rough terrain] tiles>"],
+		"uniques": ["Ignores terrain cost", "[+15]% Strength <in [Friendly Land] tiles>"],
 		"attackSound": "shot"
 	},
 	{

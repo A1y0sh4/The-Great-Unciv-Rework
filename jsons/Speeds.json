@@ -27,7 +27,7 @@
         "faithCostModifier": 0.5,
         "improvementBuildLengthModifier": 0.5,
         "barbarianModifier": 0.5,
-        "goldGiftModifier": 1.33,
+        "goldGiftModifier": 1.25,
         "cityStateTributeScalingInterval": 3.5,
         "goldenAgeLengthModifier": 0.67,
         "religiousPressureAdjacentCity": 8,

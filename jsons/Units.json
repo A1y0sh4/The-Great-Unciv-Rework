@@ -362,12 +362,12 @@
 		"replaces": "Spearman",
 		"uniqueTo": "Greece",
 		"movement": 2,
-		"strength": 11,
+		"strength": 13,
 		"cost": 50,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+20]% Strength <when fighting in [Open terrain] tiles>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "No defensive terrain bonus"],
 		"attackSound": "metalhit"
 	},
 	{

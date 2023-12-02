@@ -367,7 +367,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+20]% Strength <when fighting in [Open terrain] tiles> <when attacking>"],
+		"uniques": ["[+20]% Strength <when fighting in [Open terrain] tiles>"],
 		"attackSound": "metalhit"
 	},
 	{

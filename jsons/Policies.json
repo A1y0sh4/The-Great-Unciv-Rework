@@ -329,9 +329,9 @@
         "priorities": {
             "Neutral": 0,
             "Cultural": 30,
-            "Diplomatic": 30,
-            "Domination": 30,
-            "Scientific": 30,
+            "Diplomatic": 40,
+            "Domination": 40,
+            "Scientific": 40,
 	    "Religious": 30
         },
         "uniques": ["[+25]% [Gold] [in capital]", "[+2 Production] [in all cities connected to capital]"],

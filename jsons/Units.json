@@ -223,6 +223,7 @@
 		"uniqueTo": "Byzantium",
 		"replaces": "Trireme",
 		"movement": 3,
+		"range": 1,
 		"strength": 12,
 		"rangedStrength": 12,
 		"cost": 50,

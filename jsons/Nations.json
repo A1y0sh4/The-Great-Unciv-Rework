@@ -248,7 +248,7 @@
 		"innerColor": [63,106,64],
 		
 		"uniqueName": "Amazon",
-		"uniques": ["[+1 Food, +1 Gold] from every [Jungle]", "[+50]% Yield from every [Jungle] <during a Golden Age>", "[+25]% Yield from every [Great Improvement] <within [1] tiles of a [Jungle]>"],
+		"uniques": ["[+1 Food, +1 Gold] from every [Jungle]", "[+20]% Yield from every [Great Improvement] <within [1] tiles of a [Jungle]>"],
 		"cities": ["Rio de Janeiro", "Sao Paulo", "Salvador", "Brasilia", "Fortaleza", "Belo Horizonte", "Manaus", "Curitiba", "Recife", "Porto Alegre",
 			"Belém", "Goiânia", "Guarulhos", "Campinas", "São Luis", "Maceió", "Duque de Caxias", "Natal", "Campo Grande", "Teresina",
 			"Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju",

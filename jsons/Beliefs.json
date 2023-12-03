@@ -80,7 +80,7 @@
     {
         "name": "Monument to the Gods",
         "type": "Pantheon",
-        "uniques": ["[+10]% Production when constructing [All] wonders [in this city]"]
+        "uniques": ["[+10]% Production when constructing [All] wonders [in this city]", "[+1 Faith] from every [Wonder]"]
     },
     {
         "name": "One with Nature",
@@ -151,7 +151,7 @@
     {
         "name": "Divine inspiration",
         "type": "Follower",
-        "uniques": ["[+2 Faith] from every [Wonder]"]
+        "uniques": ["[+2 Science] from every [Wonder]"]
     },
     {
         "name": "Feed the World",

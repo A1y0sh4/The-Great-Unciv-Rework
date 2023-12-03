@@ -712,11 +712,12 @@
 		"percentStatBonus": {"production": 10},
 		"requiredTech": "Metal Casting"
 	},
-{
+        {
 		"name": "Artists Workshop",
 		"replaces": "Workshop",
 		"uniqueTo": "Italy",
-		"maintenance": 1,
+	        "greatPersonPoints": {"Great Artist": 1},
+		"maintenance": 2,
 		"hurryCostModifier": 25,
 	        "specialistSlots": {"Engineer": 1},
 		"production": 2,

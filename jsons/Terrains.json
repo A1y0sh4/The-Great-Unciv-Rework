@@ -338,7 +338,7 @@
 		"uniques": ["Must be adjacent to [2] to [5] [Desert] tiles",
 			    "Must be adjacent to [1] to [3] [Water] tiles",
 			    "Must be adjacent to [0] to [1] [Hill] tiles", 
-			    "Neighboring tiles will convert to [Desert]", "Tile provides yield without assigned population"],
+			    "Tile provides yield without assigned population"],
 		"turnsInto": "Desert",
 		"impassable": false,
 		"unbuildable": true,

@@ -35,7 +35,7 @@
 	{
 		"name": "Trading post",
 		"type": "Improvement",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Flood plains"],
 		"gold": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Guilds",

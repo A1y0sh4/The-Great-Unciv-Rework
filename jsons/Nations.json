@@ -477,7 +477,7 @@
 		"outerColor": [ 114, 0, 0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Sun Never Sets",
-		"uniques": ["Double quantity of [Coal] produced", "[+50]% XP gained from combat <for [Water] units>", "[+10]% Strength <for [Military] units> <on foreign continents>"],
+		"uniques": ["[+1 Production, +1 Gold] from every [Resource] <on foreign continents>", "[+10]% Strength <for [Military] units> <on foreign continents>"],
 		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",

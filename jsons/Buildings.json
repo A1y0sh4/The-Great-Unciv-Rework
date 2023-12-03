@@ -433,16 +433,6 @@
 		"uniques": ["[Faith] cost of purchasing items in cities [-5]%"]
 		"requiredTech": "Philosophy"
 	},
-        {
-		"name": "Duomo",
-		"replaces": "Temple",
-		"uniqueTo": "Italy",
-		"maintenance": 0,
-		"hurryCostModifier": 25,
-		"faith": 2,
-		"uniques": ["[+1 Culture] per [2] social policies adopted"]
-		"requiredTech": "Philosophy"
-	},
 	{
 		"name": "National College",
 		"cost": 100,
@@ -720,6 +710,18 @@
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
+		"requiredTech": "Metal Casting"
+	},
+{
+		"name": "Artists Workshop",
+		"replaces": "Workshop",
+		"uniqueTo": "Italy",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+	        "specialistSlots": {"Engineer": 1},
+		"production": 2,
+	        "percentStatBonus": {"production": 10},
+		"uniques": ["[+1 Culture] from every [Wonder]"]
 		"requiredTech": "Metal Casting"
 	},
 	{

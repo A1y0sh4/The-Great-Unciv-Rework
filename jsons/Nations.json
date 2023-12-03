@@ -394,7 +394,7 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Art of War",
-		"uniques": ["Gain [50] [Culture] <upon gaining a [Great General] unit>", "Great General provides double combat bonus"],
+		"uniques": ["Great General provides double combat bonus", "Influence of all other civilizations with all city-states degrades [33]% faster <when at war>"],
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",

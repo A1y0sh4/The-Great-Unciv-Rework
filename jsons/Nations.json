@@ -450,7 +450,7 @@
 		"outerColor": [ 231, 213, 0],
 		"innerColor": [98,10,210],
 		"uniqueName": "Monument Builders",
-		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities] <before the [Medieval era]>", "[+1 Culture, +1 Gold] from every [World Wonder] <after discovering [Archaeology]>"],
+		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities] <before the [Medieval era]>", "[+2 Culture, +2 Gold] from every [World Wonder] <after discovering [Archaeology]>"],
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",

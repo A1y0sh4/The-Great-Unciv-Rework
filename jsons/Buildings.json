@@ -408,7 +408,7 @@
 		"replaces": "Temple",
 		"uniqueTo": "Egypt",
 		"maintenance": 0,
-		"uniques": ["Gain [50] [Culture] <upon constructing [Wonders] [in this city]>"],
+		"uniques": ["Gain [50] [Culture] <upon constructing [Wonders] [in this city]>", "Destroyed when the city is captured"],
 		"faith": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy"
@@ -420,7 +420,7 @@
 		"maintenance": 0,
 		"hurryCostModifier": 25,
 		"faith": 2,
-		"uniques": ["[Gold] cost of purchasing items in cities [-5]%"]
+		"uniques": ["[Gold] cost of purchasing items in cities [-5]%", "Destroyed when the city is captured"]
 		"requiredTech": "Philosophy"
 	},
 	{
@@ -430,7 +430,7 @@
 		"maintenance": 0,
 		"hurryCostModifier": 25,
 		"faith": 2,
-		"uniques": ["[Faith] cost of purchasing items in cities [-5]%"]
+		"uniques": ["[Faith] cost of purchasing items in cities [-5]%", "Destroyed when the city is captured"]
 		"requiredTech": "Philosophy"
 	},
 	{

@@ -135,7 +135,7 @@
 		"uniqueTo": "China",
 		"hurryCostModifier": 25,
 		"maintenance": 0,
-		"gold": 2,
+		"gold": 1,
 		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Mathematics]>"],
 		"requiredTech": "Writing"
 	},

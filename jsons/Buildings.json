@@ -408,7 +408,7 @@
 		"replaces": "Temple",
 		"uniqueTo": "Egypt",
 		"maintenance": 0,
-		"uniques": ["[+15]% [Culture] [in this city] <after discovering [Archaeology]>"],
+		"uniques": ["Gain [50] [Culture] <upon constructing [Wonders] [in this city]>"],
 		"faith": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy"

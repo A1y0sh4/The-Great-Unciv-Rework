@@ -1169,7 +1169,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"isWonder": true,
-		"uniques": ["Free Great Person <upon declaring friendship> <with [25]% chance>", "[+25]% Great Person generation [in non-enemy foreign cities]"],
+		"uniques": ["Free Great Person <upon declaring friendship> <with [33]% chance>", "[+33]% Great Person generation [in all cities] <for [All]>"],
 		"requiredTech": "Dynamite",
 		"quote": "'One can state, without exaggeration, that the observation of and the search for similarities and differences are the basis of all human knowledge.' - Alfred Nobel"
 	},

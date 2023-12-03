@@ -39,7 +39,7 @@
 		"gold": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Guilds",
-		"uniques": ["Improvement", "[+1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+21 Gold]"],
+		"uniques": ["Improvement", "[+1 Gold] for each adjacent [Resource] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+21 Gold]"],
 		"shortcutKey": "T"
 	},
 

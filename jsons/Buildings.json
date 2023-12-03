@@ -134,8 +134,9 @@
 		"cost": 60,
 		"uniqueTo": "China",
 		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Mathematics]>", "Gain [10] [Science] <upon adopting [All]>", "Gain [10] [Culture] <upon discovering [All]>"],
+		"maintenance": 0,
+		"gold": 2,
+		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Mathematics]>"],
 		"requiredTech": "Writing"
 	},
 	{

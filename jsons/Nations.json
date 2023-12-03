@@ -27,7 +27,7 @@
 		"innerColor": [255, 255, 255],
 		
 		"uniqueName": "Manifest Destiny",
-		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Science] <within [2] tiles of a [Friendly Land]>", "[-50]% Gold cost of acquiring tiles [in all cities]"],
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Science] <within [1] tiles of a [Friendly Land]>", "[-50]% Gold cost of acquiring tiles [in all cities]"],
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
 			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
@@ -190,7 +190,7 @@
 		"innerColor": [134,238,214],
 
 		"uniqueName": "Sacrificial Captives",
-		"uniques": ["[+1] Happiness from each type of luxury resource <when at war>", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
+		"uniques": ["[+1] Happiness from each type of luxury resource <when at war>", "Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
 		"cities": ["Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
 			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
 			"Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac",

@@ -722,7 +722,7 @@
 	        "specialistSlots": {"Engineer": 1},
 		"production": 2,
 	        "percentStatBonus": {"production": 10},
-		"uniques": ["[+1 Culture] from every [Wonder]"]
+		"uniques": ["[+1 Culture] from every [World Wonder]"]
 		"requiredTech": "Metal Casting"
 	},
 	{

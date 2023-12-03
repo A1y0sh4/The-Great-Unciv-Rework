@@ -814,7 +814,7 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Renaissance Flower",
-		"uniques": ["[+1 Happiness] from all [Culture] buildings", "[+10]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["Empire enters a [24]-turn Golden Age <upon entering the [Renaissance era]>", ],
 		"cities": ["Rome", "Naples", "Milan", "Turin", "Florence", "Venice", "Genoa", "Bologna", "Palermo", "Modena", "Verona", "Brescia", "Vicenza", "Prato", "Bari", "Catania", "Parma", "Livorno", "Cagliari", "Foggia",
 			"Salerno", "Forlì", "Pisa", "Asti", "Messina", "Trieste", "Padua", "Siracusa", "Ferrara", "Novara",
 			"Rimini", "Taranto", "Perugia", "Latina", "Bergamo", "Pescara", "Monza", "Sassari", "Terni", "Vittoria"]

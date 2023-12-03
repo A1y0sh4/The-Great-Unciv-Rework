@@ -573,7 +573,7 @@
 		"innerColor": [204,122,40],
 		
 		"uniqueName": "Narikala Fortress",
-		"uniques": ["May buy [Walls] buildings for [75] [Faith] [in all cities]", "May buy [Castle] buildings for [150] [Faith] [in all cities]", "[+1 Faith, +1 Culture] from every [Mountain]"],
+		"uniques": ["May buy [Walls] buildings for [75] [Faith] [in all cities]", "May buy [Castle] buildings for [150] [Faith] [in all cities]", "[+1 Faith] from every [Mountain]"],
 		"cities": ["Tbilisi", "Kaspi", "Rustavi", "Tskhumi", "Akhalkalaki", "Kutaisi", "Zugdidi", "Batumi", "Gori",
 		"Mtskheta", "Poti", "Telavi", "Akhali Atoni", "Akhaltsikhe", "Bichvinta", "Borjomi", "Dedoplistsqaro", "Dmanisi",
 		"Geguti", "Mutso", "Nicopsia", "Omalo", "Oni", "Tianeti", "Tmogvi", "Tsageri", "Tsalka", "Tskhinvali", "Urbnisi",

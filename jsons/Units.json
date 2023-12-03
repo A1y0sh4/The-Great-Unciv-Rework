@@ -410,7 +410,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
 		"promotions": ["Pictish Courage"],
 		"attackSound": "metalhit"
 	},
@@ -505,7 +505,7 @@
 		"requiredTech": "Horseback Riding",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "Double movement in [Hill]", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
+		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "Double movement in [Hill]", "Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},

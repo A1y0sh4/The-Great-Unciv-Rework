@@ -894,7 +894,7 @@
 		"outerColor": [26,32,96],
 		"innerColor": [255,0,0],
 		"uniqueName": "Scholars of the Jade Hall",
-		"uniques": ["[50]% of excess happiness converted to [Science] <after discovering [Philosophy]>", "[+1 Culture] per every [10] [Science]"],
+		"uniques": ["[50]% of excess happiness converted to [Science] <after discovering [Philosophy]>", "[+1 Culture] per every [+10] [Science]"],
 		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
 			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"]

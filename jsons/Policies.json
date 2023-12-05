@@ -282,7 +282,7 @@
             {
                 "name": "Political Science",
                 "uniques": [
-                    "[+2 Science] per [1] social policies adopted"
+                    "[+1 Science] per [1] social policies adopted"
                 ],
                 "row": 1,
                 "column": 2
@@ -464,7 +464,7 @@
         "policies": [
             {
                 "name": "Constitution",
-                "uniques": ["[+2 Culture] per [1] social policies adopted"],
+                "uniques": ["[+1 Culture] per [1] social policies adopted"],
                 "row": 1,
                 "column": 2
             },

@@ -1125,7 +1125,7 @@
 		"requiredTech": "Industrialization"
 	},
         {
-		"name": "Coking Factory",
+		"name": "Metallurgical Factory",
 		"replaces": "Factory",
 		"uniqueTo": "Germany",
 		"cost": 275,
@@ -1135,7 +1135,7 @@
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
-		"uniques": ["Must be next to [Fresh water]", "[+1 Production] from [Mine] tiles [in this city]", "[+1 Production] from [Quarry] tiles [in this city]"],
+		"uniques": ["[+1 Production] from [Mine] tiles [in this city]"],
 		"requiredResource": "Coal",
 		"requiredTech": "Industrialization"
 	},

@@ -919,7 +919,7 @@
 		"outerColor": [81,0,9],
 		"innerColor": [255,120,0],
 		"uniqueName": "Mongol Terror",
-		"uniques": ["Double quantity of [Horses] produced", "Starts with [Animal Husbandry]", "[+1] Movement <for [Mounted] units>", "[+20]% to Flank Attack bonuses"],
+		"uniques": ["Starts with [Animal Husbandry]", "[+1] Movement <for [Mounted] units>", "[Mounted] units gain the [Blitz] promotion"],
 		"cities": ["Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan",
 			"Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg",
 			"Baruun-Urt","Ereen","Batshireet","Choyr","Ulaangom","Tosontsengel","Altay","Uliastay","Bayanhongor",

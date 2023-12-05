@@ -215,7 +215,7 @@
             {
                 "name": "Organized Religion",
                 "uniques": [
-		    "[+1 Happiness] from every [Temple]"
+		    "[+1 Happiness] from all [Faith] buildings"
                 ],
                 "row": 1,
                 "column": 2

@@ -1397,7 +1397,7 @@
 		"outerColor": [245,248,185],
 		"innerColor": [18,84,30],
 		"uniqueName": "The Great Turkish Bombard",
-		"uniques": ["[+50]% Production when constructing [Siege] units [in all cities]", "[+3 Culture, +3 Faith] from every [Courthouse]"],
+		"uniques": ["[+50]% Production when constructing [Siege] units [in all cities]", "[+1 Culture, +1 Faith] [in all cities with a garrison] <after founding a religion>"],
 		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyabakir","Izmir","Kayseri","Malatya",
 			"Marsin","Antalya","Zonguldak","Denizli","Ordu","Mugia","Eskishehir","Inebolu","Sinop","Adana","Artuin",
 			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarhisar",

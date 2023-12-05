@@ -1202,7 +1202,7 @@
 		"outerColor": [214,145,19],
 		"innerColor": [90,0,10],
 		"uniqueName": "River Warlord",
-		"uniques": ["[Land] units gain the [Amphibious] promotion", "[-1 Production, +2 Gold] from every [Mine]", "May buy [Gold] buildings with [Faith] for [2] times their normal Production cost"],
+		"uniques": ["[{Military} {Land}] units gain the [Amphibious] promotion", "[-1 Production, +2 Gold] from every [Mine]", "May buy [Gold] buildings with [Faith] for [2] times their normal Production cost"],
 		"cities": ["Gao","Tombouctu","Jenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
 			"Kebbi","Boussa","Motpi","Bamako","Wa","Kayes","Awdaghost","Ouadane","Dakar","Tadmekket","Tekedda","Kano",
 			"Agadez","Niamey","Torodi","Ouatagouna","Dori","Bamba","Segou"]
@@ -1282,7 +1282,7 @@
 		"innerColor": [254, 204, 0],
 		
 		"uniqueName": "Nobel Prize",
-		"uniques": ["Double quantity of [Iron] produced", "When declaring friendship, both parties gain a [15]% boost to great person generation", "Allied City-States provide [Science] equal to [50]% of what they produce for themselves"],
+		"uniques": ["When declaring friendship, both parties gain a [15]% boost to great person generation", "Allied City-States provide [Science] equal to [100]% of what they produce for themselves"],
 		"cities": ["Stockholm","Sigtuna","Helsinki","Birka","Uppsala","Turku","Linköping","Lund","Espoo","Malmö",
 			"Vantaa","Visby","Strängnäs","Tampere","Skara","Lödöse","Oulu","Växjö","Jyväskylä","Gothenburg",
 			"Örebro","Lahti","Helsingborg","Jönköping","Kuopio","Norrköping","Sundsvall","Kouvola","Karlstad","Umeå",
@@ -1328,7 +1328,6 @@
 		"tradeRequest": "Friend, I believe I may have found a way to save us all! Look, look and accept my offering!",
 
 		"neutralHello": "A fine day, it helps you.",
-/* Not used by Unciv, and uncertain
 		"afterPeace": "",
 
 		"neutralLetsHearIt": ["If you must show me."],
@@ -1339,13 +1338,13 @@
 		"hateLetsHearIt": ["Talk.","So?","Speak!"],
 		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
 		"hateYes": ["Oh… Fine, okay."],
-*/
+		
 		"outerColor": [198,141,99], // color picker: cf9f75
 		"innerColor": [24,63,66], // color picker: 1f4a4d
 
 		"uniqueName": "The Long Count",
-		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
-			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.", "[+1 Science] from every [Plantation]"],
+		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Calendar]. Each bonus person can only be chosen once.",
+			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count."],
 		"cities": ["Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul",
 			"Edzna","Lamanai","Izapa","Uaxactun","Comalcalco","Piedras Negras","Cancuen","Yaxha","Quirigua",
 			"Q'umarkaj","Nakbe","Cerros","Xunantunich","Takalik Abaj","Cival","San Bartolo","Altar de Sacrificios","Seibal",
@@ -1371,7 +1370,7 @@
 		"outerColor": [229, 118, 0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Dutch East India Company",
-		"uniques": ["[100]% of excess happiness converted to [Gold]", "[+2 Happiness] from every [Harbor]", "[+2 Happiness] from every [Seaport]"],
+		"uniques": ["[50]% of excess happiness converted to [Gold]", "[+2 Happiness] from every [Harbor]", "[+2 Happiness] from every [Seaport]"],
 		"cities": ["Amsterdam","Rotterdam","Utrecht","Groningen","Breda","Nijimegen","Den Haag","Haarlem","Arnhem","Zutphen",
 			"Maastricht","Tilburg","Eindhoven","Dordrecht","Leiden","Hertogenbosch","Almere","Alkmaar","Brielle","Vlissingen",
 			"Apeldoorn","Nova Enschede","Sao Bernardo do Amersfoort","Zwolle","Venlo","Uden","Grave","Delft","Gouda","Nieuwstadt",
@@ -1452,7 +1451,7 @@
 		"innerColor": [116,55,25],
 		
 		"uniqueName": "Iklwa",
-		"uniques": ["[+5] HP when healing <for [{Military} {Land}] units>", "[25]% XP gained from combat <for [Military] units>", "[-50]% maintenance costs <for [Melee] units>"],
+		"uniques": ["[+5] HP when healing <for [{Military} {Land}] units>", "[+25]% XP gained from combat <for [Military] units>", "[-50]% maintenance costs <for [Sword] units>"],
 		"cities": ["Ulundi","Umgungundlovu","Bulawayo","KwaDukuza","Nongoma","oNdini","Nodwengu","Ndonakusuka","Babanango","Khangela",
 			"KwaHlomendlini","Hlobane","eThekwini","Mlambongwenya","Eziqwaqweni","Isiphezi","Masotsheni","Mtunzini","Nyakamubi","Dumazulu",
 			"Hlatikulu","Mthonjaneni","Empangeni","Pongola","Tugela","Kwamashu","Ingwavuma","Hlulhluwe","Matubatuba","Mhlahlandlela",

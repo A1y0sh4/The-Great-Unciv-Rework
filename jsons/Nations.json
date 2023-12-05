@@ -894,7 +894,7 @@
 		"outerColor": [26,32,96],
 		"innerColor": [255,0,0],
 		"uniqueName": "Scholars of the Jade Hall",
-		"uniques": ["[+1 Science, +1 Culture] from every specialist [in all cities] <when not at war>", "[+2 Science, +2 Culture] from every [Great Improvement]"],
+		"uniques": ["[50]% of excess happiness converted to [Science] <after discovering [Philosophy]>"],
 		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
 			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"]
@@ -1202,7 +1202,7 @@
 		"outerColor": [214,145,19],
 		"innerColor": [90,0,10],
 		"uniqueName": "River Warlord",
-		"uniques": ["[Land] units gain the [Amphibious] promotion", "[-1 Production, +3 Gold] from every [Mine]", "May buy [Gold] buildings with [Faith] for [2] times their normal Production cost"],
+		"uniques": ["[Land] units gain the [Amphibious] promotion", "[-1 Production, +2 Gold] from every [Mine]", "May buy [Gold] buildings with [Faith] for [2] times their normal Production cost"],
 		"cities": ["Gao","Tombouctu","Jenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
 			"Kebbi","Boussa","Motpi","Bamako","Wa","Kayes","Awdaghost","Ouadane","Dakar","Tadmekket","Tekedda","Kano",
 			"Agadez","Niamey","Torodi","Ouatagouna","Dori","Bamba","Segou"]

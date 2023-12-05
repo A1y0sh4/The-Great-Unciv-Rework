@@ -372,7 +372,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 5,
 		"techRequired": "Sailing",
-		"uniques": ["Improvement", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "[+1 Food, +1 Faith] for each adjacent [Water resource]", "[+1 Production] <after discovering [Replaceable Parts]>", "Pillaging this improvement yields approximately [+21 Gold]"],
+		"uniques": ["Improvement", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "[+1 Food] for each adjacent [Water resource]", "[+1 Production] <after discovering [Replaceable Parts]>", "Pillaging this improvement yields approximately [+21 Gold]"],
 		"shortcutKey": "R"
 	},
 	

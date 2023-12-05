@@ -1175,7 +1175,7 @@
 		
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Father Governs Children",
-		"uniques": ["[+20]% [Faith] [in all cities] <during a Golden Age>", "[+1 Faith] per [6] population [in all cities]", "[+1 Production] from every [Jungle]"],
+		"uniques": ["[+20]% [Faith] [in all cities] <during a Golden Age>", "[+1 Faith] per [4] population [in all cities]"],
 		"cities": ["Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Phitsanulok","Kamphaeng Pet","Nakhom Chum","Vientiane",
 			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
 			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",

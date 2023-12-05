@@ -1133,9 +1133,9 @@
 		"percentStatBonus": {"production": 10},
 		"specialistSlots": {"Engineer": 2},
 		"requiredBuilding": "Workshop",
-		"maintenance": 3,
+		"maintenance": 1,
 		"hurryCostModifier": 0,
-		"uniques": ["[+1 Production] from [Mine] tiles [in this city]"],
+		"uniques": ["[+1 Production, +1 Gold] from [Mine] tiles [in this city]"],
 		"requiredResource": "Coal",
 		"requiredTech": "Industrialization"
 	},

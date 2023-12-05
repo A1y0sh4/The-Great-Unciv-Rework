@@ -988,11 +988,12 @@
 		"uniqueTo": "The Ottomans",
 		"movement": 2,
 		"strength": 24,
-		"cost": 150,
+		"cost": 165,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"promotions": ["[Janissary] ability", "Besiege"],
+		"uniques": ["[+50]% Strength <vs cities>", "Excess Food converted to Production when under construction"],
+		"promotions": ["[Janissary] ability"],
 		"attackSound": "shot"
 	},
 	{

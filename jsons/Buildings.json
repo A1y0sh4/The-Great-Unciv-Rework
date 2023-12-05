@@ -730,12 +730,12 @@
 		"replaces": "Workshop",
 		"uniqueTo": "Iroquois",
 		"cost": 100,
-		"maintenance": 2,
+		"maintenance": 0,
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
-		"uniques": ["[+1 Production] from [Forest] tiles [in this city]"],
+		"uniques": ["[+1 Culture] from [Forest] tiles [in this city]"],
 		"requiredTech": "Metal Casting"
 	},
 	{

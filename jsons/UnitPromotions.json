@@ -822,7 +822,7 @@
 	},
 	{
 		"name": "[Janissary] ability",
-		"uniques": ["Heals [33] damage if it kills a unit"]
+		"uniques": ["Heals [33] damage if it kills a unit", "Free [Janissary] appears <upon defeating a [Military] unit> <with [33]% chance>"]
 	},
 	{
 		"name": "[Sipahi] ability",

@@ -381,7 +381,7 @@
 		"happiness": 2,
 		"uniqueTo": "Kievan Rus'",
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Gold] from [Farm] tiles [in this city]"],
+		"uniques": ["[+1 Gold] per [2] social policies adopted"],
 		"maintenance": 0,
 		"requiredTech": "Construction"
 	},
@@ -550,6 +550,7 @@
 		"name": "Baray",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Siam",
+		"food": 1,
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"requiredBuilding": "Granary",

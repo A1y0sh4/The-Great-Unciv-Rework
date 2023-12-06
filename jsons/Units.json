@@ -726,20 +726,18 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Camel Archer",
+		"name": "Mamluk",
 		"unitType": "Mounted",
 		"replaces": "Knight",
 		"uniqueTo": "Arabia",
-		"range": 1,
 		"movement": 4,
-		"strength": 20,
-		"rangedStrength": 20,
+		"strength": 22,
 		"cost": 110,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+15] HP when healing <within [1] tiles of a [Oasis]>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "arrow"
 	},
 	{

@@ -11,8 +11,8 @@
     },
     {
         "name": "Maritime",
-        "friendBonusUniques": ["[+10]% growth [in all cities]"],
-        "allyBonusUniques": ["[+10]% [Food] [in all cities]"],
+        "friendBonusUniques": ["[+25]% growth [in all cities]"],
+        "allyBonusUniques": ["[+25]% growth [in all cities]", "[+10]% [Food] [in all cities]"],
         "color": [56, 255, 112]
     },
      {
@@ -34,10 +34,10 @@
     {
         "name": "Religious",
         "friendBonusUniques":  [
-            "[+10]% Natural religion spread [in all cities]"
+            "[+25]% Natural religion spread [in all cities]"
         ],
         "allyBonusUniques":  [
-            "[+10]% [Faith] [in all cities]"
+            "[+25]% Natural religion spread [in all cities]", "[+10]% [Faith] [in all cities]"
         ],
         "color": [255, 255, 255]
     }

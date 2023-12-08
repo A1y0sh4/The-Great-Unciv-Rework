@@ -181,7 +181,7 @@
 		"uniqueTo": "Aztecs",
 		"uniques": ["Must be next to [Fresh water]", "[+1 Food] from [Fresh Water] tiles [in this city]"],
 		"hurryCostModifier": 25,
-		"maintenance": 0,
+		"maintenance": 2,
 		"requiredTech": "The Wheel"
 	},
 	{
@@ -681,7 +681,7 @@
 		"faith": 4,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 1},
-		"uniques": ["[+10]% [Food] [in this city] <when at war>", "[+10]% [Production] [in this city] <when at war>"],
+		"uniques": ["Must be next to [Lake]", "[+10]% [Food] [in this city] <when at war>", "[+10]% [Production] [in this city] <when at war>"],
 		"requiredTech": "Civil Service",
 		"quote": "'But the wrath of Huitzilopochtli was great, and as the sacrifice passed each of the four rooms dedicated to the sun god, the sun disappeared or reappeared in the sky.' - Fray Diego Durán"
 	},

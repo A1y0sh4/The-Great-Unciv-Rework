@@ -898,7 +898,7 @@
 		"culture": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
-		"uniques": ["[-50]% Unhappiness from [Specialists] [in this city]", "[+1 Faith] per [2] social policies adopted"],
+		"uniques": ["[+1 Faith] per [1] social policies adopted", "Can only be built [in holy cities]"],
 		"requiredTech": "Acoustics",
 		"quote": "'I live and love in God's peculiar light.' - Michelangelo Buonarroti"
 	},

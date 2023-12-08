@@ -12,7 +12,7 @@
     {
         "name": "Maritime",
         "friendBonusUniques": ["[+10]% [Food] [in all cities]"],
-        "allyBonusUniques": ["[+10]% [Food] [in all cities]", "[+25]% growth [in all cities]"],
+        "allyBonusUniques": ["[+10]% [Food] [in all cities]", "[25]% Food is carried over after population increases [in all cities]"],
         "color": [56, 255, 112]
     },
      {
@@ -28,7 +28,7 @@
     {
         "name": "Militaristic",
         "friendBonusUniques": ["[+10]% Strength <for [Military] units>"],
-        "allyBonusUniques": ["[+10]% Strength <for [Military] units>", "Provides military units every ≈[12] turns"],
+        "allyBonusUniques": ["[+10]% Strength <for [Military] units>", "Provides military units every ≈[10] turns"],
         "color": [255, 0, 0]
     },
     {

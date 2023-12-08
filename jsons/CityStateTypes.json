@@ -5,7 +5,7 @@
             "[+10]% [Culture] [in all cities]"
         ],
         "allyBonusUniques": [
-            "[+10]% [Culture] [in all cities]", "[+10]% Production when constructing [All] wonders [in all cities]"
+            "[+10]% [Culture] [in all cities]", "[-10]% Culture cost of adopting new Policies"
         ],
         "color": [139, 96, 255]
     },

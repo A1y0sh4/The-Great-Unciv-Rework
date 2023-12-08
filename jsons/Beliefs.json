@@ -113,15 +113,15 @@
         "uniques": ["[+2 Faith] from every [Stone]"]
     },
     {
-        "name": "God King",
+        "name": "Oracles of the Mountains",
         "type": "Pantheon",
-        "uniques": ["[+3 Faith] from every [Palace]"]
+        "uniques": ["[+1 Culture] from every [Mountain]"]
     },
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
     {
         "name": "Asceticism",
         "type": "Follower",
-        "uniques": ["[+1 Happiness] from all [Faith] buildings"]
+        "uniques": ["[+1 Culture] from all [Faith] buildings"]
     },
      {
         "name": "Religious Teetotality",
@@ -146,7 +146,7 @@
     {
         "name": "Choral Music",
         "type": "Follower",
-        "uniques": ["[+2 Culture] from every [Temple] <in cities with at least [6] [Followers of this Religion]>"]
+        "uniques": ["[+1 Culture] from all [Faith] buildings"]
     },
     {
         "name": "Divine inspiration",
@@ -211,7 +211,7 @@
     {
         "name": "Religious Center",
         "type": "Follower",
-        "uniques": ["[+2 Happiness] from every [Temple] <in cities with at least [6] [Followers of this Religion]>"]
+        "uniques": ["[+100]%  Faith] from all [Faith] buildings"]
     },
     {
         "name": "Religious Community",

@@ -18,17 +18,17 @@
      {
         "name": "Mercantile",
         "friendBonusUniques": [
-            "Provides a unique luxury"
+        "Provides a unique luxury"
         ],
         "allyBonusUniques": [
-            "[+10]% [Gold] [in all cities]"
+        "Provides a unique luxury", "[+10]% [Gold] [in all cities]"
         ],
         "color": [255, 216, 0]
     },
     {
         "name": "Militaristic",
         "friendBonusUniques": ["Provides military units every ≈[16] turns"],
-        "allyBonusUniques": ["[+10]% Strength <for [Military] units>"],
+        "allyBonusUniques": ["Provides military units every ≈[16] turns", "[+10]% Strength <for [Military] units>"],
         "color": [255, 0, 0]
     },
     {

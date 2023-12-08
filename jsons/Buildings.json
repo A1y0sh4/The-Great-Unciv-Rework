@@ -774,7 +774,7 @@
 		"faith": 3,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["Must be next to [Jungle]", "[-25]% Culture cost of natural border growth [in all cities]", "[-25]% Gold cost of acquiring tiles [in all cities]", "Gain a free [Wat] [in this city]"],
+		"uniques": ["Must be next to [Jungle]", "[+1 Faith] per [2] population [in this city]", "Gain a free [Wat] [in this city]"],
 		"requiredTech": "Education",
 		"quote": "'The temple is like no other building in the world. It has towers and decoration and all the refinements which the human genius can conceive of.' - Antonio da Magdalena"
 	},
@@ -796,7 +796,7 @@
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"uniques": ["[+10]% [Gold] [in this city] <after discovering [Flight]>", "[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured", "Obsolete with [Rifling]", "[+2 Culture] <after discovering [Archaeology]>", "[+2 Culture, +2 Gold] <after discovering [Flight]>"],
+		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured", "Obsolete with [Rifling]", "[+2 Culture] <after discovering [Archaeology]>", "[+2 Culture, +2 Gold] <after discovering [Flight]>"],
 		"requiredTech": "Chivalry"
 	},
 {

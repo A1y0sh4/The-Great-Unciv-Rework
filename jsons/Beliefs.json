@@ -25,7 +25,7 @@
     {
         "name": "Fertility Rites",
         "type": "Pantheon",
-        "uniques": ["[+10]% growth [in this city]"]
+        "uniques": ["[+25]% growth [in this city]"]
     },
     {
         "name": "God of Craftsman",
@@ -118,11 +118,6 @@
         "uniques": ["[+1 Culture] from every [Mountain]"]
     },
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
-    {
-        "name": "Asceticism",
-        "type": "Follower",
-        "uniques": ["[+1 Culture] from all [Faith] buildings"]
-    },
      {
         "name": "Religious Teetotality",
         "type": "Follower",
@@ -211,7 +206,7 @@
     {
         "name": "Religious Center",
         "type": "Follower",
-        "uniques": ["[+100]%  Faith] from all [Faith] buildings"]
+        "uniques": ["[+150]% Natural religion spread [in holy cities]"]
     },
     {
         "name": "Religious Community",
@@ -221,14 +216,14 @@
     {
         "name": "Swords into Ploughshares",
         "type": "Follower",
-        "uniques": ["[+15]% growth [in this city] <when not at war>"]
+        "uniques": ["[+15]% [Food] [in this city] <when not at war>"]
     },
 ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
 
     {
         "name": "Ceremonial Burial",
         "type": "Founder",
-        "uniques": ["[+1 Happiness] for each global city following this religion", "[Military] units gain the [Ceremonial Burial] promotion"]
+        "uniques": ["[+1 Happiness] for each global city following this religion"]
     },
     {
         "name": "Church Property",
@@ -238,7 +233,7 @@
     {
         "name": "Initiation Rites",
         "type": "Founder",
-        "uniques": ["[+50 Faith] when a city adopts this religion for the first time (modified by game speed)"]
+        "uniques": ["[+30 Faith] when a city adopts this religion for the first time (modified by game speed)"]
     },
     {
         "name": "Interfaith Dialogue",
@@ -333,7 +328,7 @@
      {
         "name": "Holy Alliance",
         "type": "Enhancer",
-        "uniques": ["Gain [100] [Gold] <upon declaring friendship>"]
+        "uniques": ["Gain [50] [Gold] <upon declaring friendship>", "Gain [50] [Gold] <upon declaring a defensive pact>"]
     }
 ]
 

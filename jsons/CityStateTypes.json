@@ -28,7 +28,7 @@
     {
         "name": "Militaristic",
         "friendBonusUniques": ["Provides military units every ≈[16] turns"],
-        "allyBonusUniques": ["[+15]% XP gained from combat <for [Military] units>", "Provides military units every ≈[16] turns"],
+        "allyBonusUniques": ["[+10]% Strength <for [Military] units>"],
         "color": [255, 0, 0]
     },
     {

@@ -28,7 +28,7 @@
     {
         "name": "Militaristic",
         "friendBonusUniques": ["[+10]% Strength <for [Military] units>"],
-        "allyBonusUniques": ["[+10]% Strength <for [Military] units>", "Provides military units every ≈[16] turns"],
+        "allyBonusUniques": ["[+10]% Strength <for [Military] units>", "Provides military units every ≈[12] turns"],
         "color": [255, 0, 0]
     },
     {
@@ -37,7 +37,7 @@
             "[+10]% [Faith] [in all cities]"
         ],
         "allyBonusUniques":  [
-            "[+10]% [Faith] [in all cities]", "[+25]% Natural religion spread [in all cities]"
+            "[+10]% [Faith] [in all cities]", "[Faith] cost of purchasing items in cities [-10]%"
         ],
         "color": [255, 255, 255]
     }

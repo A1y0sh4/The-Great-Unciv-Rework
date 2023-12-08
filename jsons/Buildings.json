@@ -39,7 +39,7 @@
 		"science": 1,
 		"cost": 40,
 		"maintenance": 1,
-		"uniques": ["Hidden when religion is disabled"]
+		"uniques": ["Destroyed when the city is captured"]
 	},
 	// Column 1
 	{

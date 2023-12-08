@@ -11,24 +11,24 @@
     },
     {
         "name": "Maritime",
-        "friendBonusUniques": ["[+10]% [Food] [in all cities]", "[+25]% growth [in all cities]"],
-        "allyBonusUniques": ["[+25]% growth [in all cities]", "[+10]% [Food] [in all cities]"],
+        "friendBonusUniques": ["[+10]% [Food] [in all cities]"],
+        "allyBonusUniques": ["[+10]% [Food] [in all cities]", "[+25]% growth [in all cities]"],
         "color": [56, 255, 112]
     },
      {
         "name": "Mercantile",
         "friendBonusUniques": [
-        "[+10]% [Gold] [in all cities]", "Provides a unique luxury"
+        "[+10]% [Gold] [in all cities]"
         ],
         "allyBonusUniques": [
-        "Provides a unique luxury", "[+10]% [Gold] [in all cities]"
+        "[+10]% [Gold] [in all cities]", "Provides a unique luxury",
         ],
         "color": [255, 216, 0]
     },
     {
         "name": "Militaristic",
-        "friendBonusUniques": ["[+10]% Strength <for [Military] units>", "Provides military units every ≈[16] turns"],
-        "allyBonusUniques": ["Provides military units every ≈[16] turns", "[+10]% Strength <for [Military] units>"],
+        "friendBonusUniques": ["[+10]% Strength <for [Military] units>"],
+        "allyBonusUniques": ["[+10]% Strength <for [Military] units>", "Provides military units every ≈[16] turns"],
         "color": [255, 0, 0]
     },
     {
@@ -37,7 +37,7 @@
             "[+10]% [Faith] [in all cities]"
         ],
         "allyBonusUniques":  [
-            "[+25]% Natural religion spread [in all cities]", "[+10]% [Faith] [in all cities]"
+            "[+10]% [Faith] [in all cities]", "[+25]% Natural religion spread [in all cities]"
         ],
         "color": [255, 255, 255]
     }

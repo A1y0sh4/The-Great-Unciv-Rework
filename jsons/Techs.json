@@ -536,6 +536,7 @@
 				"name": "Ecology",
 				"row": 2,
 				"prerequisites": ["Atomic Theory","Pharmaceuticals"],
+				"uniques": ["[+3 Culture] from every [Natural Wonder]"],
 				"quote": "'Only within the moment of time represented by the present century has one species, man, acquired significant power to alter the nature of his world.' - Rachel Carson"
 			},
 			{

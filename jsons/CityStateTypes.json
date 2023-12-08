@@ -2,7 +2,7 @@
     {
         "name": "Cultured",
         "friendBonusUniques": [
-            "[+10]% [Culture] [in all cities]", "[+1 Culture] from every [Wonder]"
+            "[+10]% [Culture] [in all cities]"
         ],
         "allyBonusUniques": [
             "[+10]% [Culture] [in all cities]"

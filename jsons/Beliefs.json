@@ -218,6 +218,11 @@
         "type": "Follower",
         "uniques": ["[+15]% [Food] [in this city] <when not at war>"]
     },
+    {
+        "name": "Divine Spark",
+        "type": "Follower",
+        "uniques": ["[+33]% Great Person generation [in this city]"]
+    },
 ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
 
     {
@@ -265,12 +270,6 @@
         "type": "Founder",
         "uniques": ["[+1 Culture] from every [4] global followers [in this city]"]
     },
-     {
-        "name": "Divine Spark",
-        "type": "Founder",
-        "uniques": ["[+33]% Great Person generation [in cities following this religion]"]
-    },
-
 ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
 
     {

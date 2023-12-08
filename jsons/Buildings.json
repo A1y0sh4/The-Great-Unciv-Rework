@@ -845,9 +845,10 @@
 	{
 		"name": "Notre Dame",
 		"happiness": 4,
+		"culture": 1,
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
-		"uniques": ["[+1 Culture] from all [Faith] buildings", "Gain a free [Cathedral] [in this city]"],
+		"uniques": ["Gain [50] [Science] <upon gaining a [Great Person] unit>", "Gain a free [Cathedral] [in this city]"],
 		"requiredTech": "Physics",
 		"quote": "'Architecture has recorded the great ideas of the human race. Not only every religious symbol, but every human thought has its page in that vast book.' - Victor Hugo"
 	},

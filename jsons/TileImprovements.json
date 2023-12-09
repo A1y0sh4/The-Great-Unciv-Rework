@@ -326,7 +326,6 @@
 		"type": "Improvement",
 		"uniqueTo": "Sumeria",
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert"],
-		"science": 1,
 		"faith": 1,
 		"turnsToBuild": 8,
 		"uniques": ["Improvement", "Cannot be built on [Resource] tiles",

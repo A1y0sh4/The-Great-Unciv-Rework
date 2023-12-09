@@ -265,7 +265,7 @@
 		"uniqueTo": "Polynesia",
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland"],
 		"turnsToBuild": 6,
-		"uniques": ["Improvement", "[+1 Culture] ", "[+1 Culture] for each adjacent [Moai]", "[+1 Food] for each adjacent [City center]", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+21 Gold]"],
+		"uniques": ["Improvement", "[+1 Culture] <within [1] tiles of a [Coast]>", "[+1 Culture] for each adjacent [Moai]", "[+1 Food] for each adjacent [City center]", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+21 Gold]"],
 		"techRequired": "Construction",
 		"shortcutKey": "M"
 	},

@@ -786,7 +786,7 @@
 	},
 	{
 		"name": "Haka War Dance", // only for Maori Warrior and subsequent upgrades
-		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles", "[+15]% Strength <within [2] tiles of a [Moai]>"]
+		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles", "[+15]% Strength <within [3] tiles of a [Moai]>"]
 	},
 	{
 		"name": "Rejuvenation", // only for Units that have been close to Natural Wonder Fountain of Youth
@@ -864,10 +864,6 @@
 	{
 		"name": "Barbarian",
 		"uniques": ["No movement cost to pillage", "Can only heal by pillaging", "Heals [33] damage if it kills a unit"]
-	},
-	{
-		"name": "Ceremonial Burial",
-		"uniques": ["Gain [3]-[12] [Faith] <upon being defeated>"]
 	},
         {
 		"name": "Climber",

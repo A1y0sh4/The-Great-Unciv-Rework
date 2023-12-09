@@ -82,7 +82,6 @@
 		"strength": 8,
 		"cost": 35,
 		"obsoleteTech": "Metal Casting",
-		"uniques": ["Can instantly construct a [Moai] improvement <once>"],
 		"promotions": ["Haka War Dance"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"

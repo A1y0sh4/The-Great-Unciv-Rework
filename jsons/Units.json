@@ -324,6 +324,7 @@
 		"rangedStrength": 10,
 		"cost": 50,
 		"requiredTech": "The Wheel",
+		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],

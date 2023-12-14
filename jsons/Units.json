@@ -733,7 +733,7 @@
 		"replaces": "Knight",
 		"uniqueTo": "Arabia",
 		"movement": 4,
-		"strength": 22,
+		"strength": 21,
 		"cost": 110,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",

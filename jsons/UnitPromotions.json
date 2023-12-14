@@ -786,7 +786,7 @@
 	},
 	{
 		"name": "Haka War Dance", // only for Maori Warrior and subsequent upgrades
-		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [Land] tiles", "[+15]% Strength <within [3] tiles of a [Moai]>"]
+		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [Land] tiles", "[+15]% Strength <within [2] tiles of a [Moai]>"]
 	},
 	{
 		"name": "Rejuvenation", // only for Units that have been close to Natural Wonder Fountain of Youth
@@ -814,7 +814,7 @@
 	},
 	{
 		"name": "[Persian Immortal] ability",
-		"uniques": ["Heals [15] damage if it kills a unit", "[+10] HP when healing"]
+		"uniques": ["Heals [10] damage if it kills a unit", "[+10] HP when healing"]
 	},
 	{
 		"name": "[Conquistador] ability",

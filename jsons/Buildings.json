@@ -1138,7 +1138,7 @@
 		"requiredBuilding": "Workshop",
 		"maintenance": 1,
 		"hurryCostModifier": 0,
-		"uniques": ["[+1 Production, +1 Gold] from [Mine] tiles [in this city]"],
+		"uniques": ["[+1 Production, +1 Gold] from [Mine] tiles [in this city]", "[+1 Production, +1 Gold] from [Quarry] tiles [in this city]"],
 		"requiredResource": "Coal",
 		"requiredTech": "Industrialization"
 	},

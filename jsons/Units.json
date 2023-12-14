@@ -365,7 +365,7 @@
 		"uniqueTo": "Greece",
 		"movement": 2,
 		"strength": 13,
-		"cost": 50,
+		"cost": 40,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",

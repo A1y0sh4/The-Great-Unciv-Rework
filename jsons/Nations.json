@@ -600,7 +600,7 @@
 		"outerColor": [150,150,150],
 		"innerColor": [60,60,60],
 		"uniqueName": "Iron and Blood",
-		"uniques": ["[+1 Science] from all [Production] buildings", "[+10]% Strength <for [Military] units> <when attacking>", "When defeating a [Barbarian] unit, earn [10] Gold and recruit it <with [75]% chance>"],
+		"uniques": ["[+1 Science] from all [Production] buildings", "[+10]% Strength <for [Military] units> <when attacking>"],
 		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Dusseldorf","Bremen",
 			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
 			"Munster","Rostok","Chemnitz","Braunschweig","Halle","Mצnchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
@@ -1307,7 +1307,7 @@
 		"outerColor": [238,238,236],
 		"innerColor": [77,2,4],
 		"uniqueName": "Scourge of God",
-		"uniques": ["Starts with [Animal Husbandry]", "Cannot build [Settler] units <before discovering [Civil Service]>", "[Military] units gain the [Barbarian] promotion <before discovering [Civil Service]>"],
+		"uniques": ["Starts with [Animal Husbandry]", "[Military] units gain the [Barbarian] promotion <before discovering [Civil Service]>", "When defeating a [Barbarian] unit, earn [10] Gold and recruit it <with [50]% chance>"],
 		"cities": ["Etzelburg", "Szeged", "Esztergom", "Buda", "Pécs", "Eger", "Székesfehérvár", "Győr", "Kőszeg", "Diósgyőr", "Mohács", "Tata", "Kecskemét", "Szombathely", "Sárvár", "Sopron", "Hódmezővásárhely", "Sümeg"]
 	},
 	{

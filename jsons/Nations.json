@@ -599,7 +599,7 @@
 		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
 		"outerColor": [150,150,150],
 		"innerColor": [60,60,60],
-		"uniqueName": "Furor Teutonicus",
+		"uniqueName": "Iron and Blood",
 		"uniques": ["[+10]% Strength <for [Military] units> <when attacking>", "When defeating a [Barbarian] unit, earn [10] Gold and recruit it <with [75]% chance>"],
 		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Dusseldorf","Bremen",
 			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
@@ -980,7 +980,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holy See",
-		"uniques": ["[+100]% unhappiness from the number of cities", "Gain [50] [Faith] <upon constructing [Wonders] [in capital]>", "Allied City-States provide [Faith] equal to [100]% of what they produce for themselves", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Gold]"],
+		"uniques": ["[+50]% unhappiness from the number of cities", "Gain [50] [Faith] <upon constructing [Wonders] [in capital]>", "Allied City-States provide [Faith] equal to [100]% of what they produce for themselves", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Gold]"],
 		"cities": ["Rome", "Beneventum", "Ravenna", "Avignon", "Bologna", "Ferrara", "Ascoli", "Piacenza", "Rieti", "Assisi", "Orvieto", "Rimini", "Todi", "Viterbo"]
 	},
 	{
@@ -1035,7 +1035,7 @@
 		"innerColor": [80,11,14],
 		
 		"uniqueName": "Golden Liberty",
-		"uniques": ["May buy [Great Person] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <after discovering [Theology]>", "[+1 Faith, +1 Culture] [in all cities in which the majority religion is a major religion]"],
+		"uniques": ["May buy [Great Person] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <after discovering [Theology]>", "[+1 Faith, +1 Culture] [in all cities in which the majority religion is a major religion] <after discovering [Theology]>"],
 		"cities": ["Warsaw","Kraków","Łódź","Wroclaw","Poznań","Gdansk","Szczecin","Bydgoszcz","Lublin","Kaunas",
 			"Katowice","Białystok","Gdynia","Świdnica","Częstochowa","Radom","Toruń","Kielce","Gliwice","Klaipėda",
 			"Bytom","Olsztyn","Rzeszów","Ruda Śląska","Bielsko-Biala","Rybnik","Płock","Elbląg","Gorzów Wielkopolski","Opole",

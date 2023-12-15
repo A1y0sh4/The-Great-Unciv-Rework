@@ -363,7 +363,9 @@
 		"uniqueTo": "Holy Roman Empire",
 		"hurryCostModifier": 25,
 		"maintenance": 2,
-		"uniques": ["Remove extra unhappiness from annexed cities", "[+2 Science, +2 Culture] <during a Golden Age>", "[+10]% [Production] [in this city] <during We Love The King Day>", "[+10]% [Gold] [in this city] <during We Love The King Day>"],
+		"production": 2,
+		"culture": 1,
+		"uniques": ["Remove extra unhappiness from annexed cities"],
 		"requiredTech": "Mathematics"
 	},
 	{

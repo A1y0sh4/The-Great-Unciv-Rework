@@ -162,7 +162,7 @@
 		"outerColor": [234,0,0],
 		"innerColor": [255,255,255],
 		
-		"uniqueName": "Cultural Supremacy",
+		"uniqueName": "Cultural Finesse",
 		"uniques": ["[-10]% Culture cost of adopting new Policies", "[-33]% City-State Influence degradation"],
 		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
 			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",

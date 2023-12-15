@@ -669,6 +669,37 @@
 			"Patras","Lamia","Nafplion","Apolyton"]
 	},
 	{
+		"name": "Holy Roman Empire",
+		"leaderName": "Frederick Barbarossa",
+		"adjective": ["Holy Roman"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+		
+		"startIntroPart1": "Heroic Frederick, king of the Germans, your task is to forge the independent states that surround you into an empire. You are blessed to be a great military leader - use those skills to bring these cities under your sway so they may develop into commercial and industrial powerhouses. Surely then the bards will sing of mighty Frederick with the red beard, the great Holy Roman Emperor.",
+		"startIntroPart2": "Great Emperor, the Holy Roman people look up to you to lead them to greater days of glory. Their determination is strong, and now they turn to you, their beloved emperor, to guide them once more. Will you rule and conquer through blood and iron, or foster the Holy Roman arts and industry? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "You were well warned, but still you seek conflict. Now you will learn your lesson, as many other men have before you!",
+		"attacked": "I have defeated enemies ten times as powerful as you. You will be just one more for the historians.",
+		"defeated": "We were the august and glorious… but no, never mind that. You are victorious. May your reign be more peaceful than mine ever was.",
+		"introduction": "Greetings. I am the Holy Roman Emperor Frederick, King of Germany, Italy, Burgundy, and many others. I trust that you will rule your lands as I do: through might.",
+		"neutralHello": "What now?",
+		"hateHello": "So, out with it!",
+		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+		
+		"outerColor": [150,150,150],
+		"innerColor": [60,60,60],
+		
+		"uniqueName": "Iron and Blood",
+		"uniques": ["[+1 Science] from all [Production] buildings", "[-25]% maintenance costs <for [Military] units>", "[+10]% Strength <for [Military] units> <when attacking>"],
+		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Dusseldorf","Bremen",
+			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
+			"Munster","Rostok","Chemnitz","Braunschweig","Halle","Mצnchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
+			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrucken","Krefeld","Pirmasens","Potsdam","Solingen",
+			"Osnabruck","Ludwingshafen","Leverkusen","Oldenburg","Neuss","Mulheim","Darmstadt","Herne","Wurzburg",
+			"Recklinghausen","Gצttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"]
+	},
+	{
 		"name": "Inca",
 		"leaderName": "Pachacuti",
 		"adjective": ["Incan"],

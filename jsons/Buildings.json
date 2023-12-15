@@ -354,6 +354,15 @@
 		"uniqueTo": "Assyria",
 		"hurryCostModifier": 25,
 		"maintenance": 2,
+		"uniques": ["Remove extra unhappiness from annexed cities", "Can only be built [in annexed cities]", "[+2 Science, +2 Culture] <during a Golden Age>", "[+10]% [Production] [in this city] <during We Love The King Day>", "[+10]% [Gold] [in this city] <during We Love The King Day>"],
+		"requiredTech": "Mathematics"
+	},
+        {
+		"name": "Imperial Diet", 
+		"replaces": "Courthouse",
+		"uniqueTo": "Holy Roman Empire",
+		"hurryCostModifier": 25,
+		"maintenance": 2,
 		"uniques": ["Remove extra unhappiness from annexed cities", "[+2 Science, +2 Culture] <during a Golden Age>", "[+10]% [Production] [in this city] <during We Love The King Day>", "[+10]% [Gold] [in this city] <during We Love The King Day>"],
 		"requiredTech": "Mathematics"
 	},

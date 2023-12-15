@@ -846,7 +846,7 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Renaissance Flower",
-		"uniques": ["Empire enters a [24]-turn Golden Age <upon entering the [Renaissance era]>", "[+100]% Yield from every [World Wonder] <during a Golden Age>"],
+		"uniques": ["Empire enters a [24]-turn Golden Age <upon entering the [Renaissance era]>", "[+2 Gold, +1 Happiness] from every [World Wonder] <during a Golden Age>"],
 		"cities": ["Rome", "Naples", "Milan", "Turin", "Florence", "Venice", "Genoa", "Bologna", "Palermo", "Modena", "Verona", "Brescia", "Vicenza", "Prato", "Bari", "Catania", "Parma", "Livorno", "Cagliari", "Foggia",
 			"Salerno", "Forlì", "Pisa", "Asti", "Messina", "Trieste", "Padua", "Siracusa", "Ferrara", "Novara",
 			"Rimini", "Taranto", "Perugia", "Latina", "Bergamo", "Pescara", "Monza", "Sassari", "Terni", "Vittoria"]

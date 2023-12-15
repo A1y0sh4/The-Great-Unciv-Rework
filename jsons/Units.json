@@ -645,6 +645,21 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Landsknecht",
+		"unitType": "Sword",
+		"replaces": "Pikeman",
+		"uniqueTo": "Holy Roman Empire",
+		"movement": 2,
+		"strength": 16,
+		"cost": 85,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can move immediately once bought" ],
+		"promotions":["Mercenary"],
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Swiss Guard",
 		"unitType": "Sword",
 		"replaces": "Pikeman",

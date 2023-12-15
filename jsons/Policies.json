@@ -105,11 +105,11 @@
             {
                 "name": "Representation",
                 "uniques": [
-                    "Each city founded increases culture cost of policies [33]% less than normal"
+                    "Each city founded increases culture cost of policies [50]% less than normal"
                 ],
                 "requires": ["Republic"],
                 "row": 2,
-                "column": 3
+                "column": 5
             },
             {
                 "name": "Citizenship",
@@ -118,7 +118,7 @@
                 ],
                 "requires": ["Republic"],
                 "row": 2,
-                "column": 5
+                "column": 3
             },
             {
                 "name": "Liberty Complete",

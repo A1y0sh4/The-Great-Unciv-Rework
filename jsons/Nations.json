@@ -687,7 +687,7 @@
 		"hateHello": "So, out with it!",
 		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
 		
-		"outerColor": [224,180,0],
+		"outerColor": [224,180,5],
 		"innerColor": [36,36,36],
 		
 		"uniqueName": "Free Imperial Cities",

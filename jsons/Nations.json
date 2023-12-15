@@ -1011,7 +1011,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holy See",
-		"uniques": ["[+50]% unhappiness from the number of cities", "Gain [50] [Faith] <upon constructing [Wonders] [in capital]>", "Allied City-States provide [Faith] equal to [100]% of what they produce for themselves", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Gold]"],
+		"uniques": ["[+100]% unhappiness from the number of cities", "Gain [50] [Faith] <upon constructing [Wonders] [in capital]>", "Allied City-States provide [Faith] equal to [100]% of what they produce for themselves", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Gold]"],
 		"cities": ["Rome", "Beneventum", "Ravenna", "Avignon", "Bologna", "Ferrara", "Ascoli", "Piacenza", "Rieti", "Assisi", "Orvieto", "Rimini", "Todi", "Viterbo"]
 	},
 	{

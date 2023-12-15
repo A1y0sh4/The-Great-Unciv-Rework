@@ -688,12 +688,12 @@
 		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
 		
 		"outerColor": [224,180,0],
-		"innerColor": [26,26,26],
+		"innerColor": [36,36,36],
 		
 		"uniqueName": "Free Imperial Cities",
 		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns.", "May not annex cities"],
-		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Dusseldorf","Bremen",
-			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
+		"cities": ["Aachen","Frankfurt","Magdeburg","Cologne","Mainz","Strasbourg","Nuremberg","Ulm","Dortmund","Lübeck","Augsburg","Regensburg","Leipzig","Munich","Worms","Hannover","Stuttgart","Dusseldorf","Bremen",
+			"Duisburg","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
 			"Munster","Rostok","Chemnitz","Braunschweig","Halle","Mצnchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
 			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrucken","Krefeld","Pirmasens","Potsdam","Solingen",
 			"Osnabruck","Ludwingshafen","Leverkusen","Oldenburg","Neuss","Mulheim","Darmstadt","Herne","Wurzburg",

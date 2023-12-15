@@ -687,8 +687,8 @@
 		"hateHello": "So, out with it!",
 		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
 		
-		"outerColor": [216,181,37],
-		"innerColor": [7,7,6],
+		"outerColor": [224,180,0],
+		"innerColor": [7,7,7],
 		
 		"uniqueName": "Free Imperial Cities",
 		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns.", "May not annex cities"],

@@ -653,7 +653,7 @@
 		"strength": 16,
 		"cost": 85,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can move immediately once bought", "[+25]% Strength <vs cities>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can move immediately once bought", "[+25]% Strength <vs [City-State] units>"],
 		"promotions":["Mercenary"],
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
@@ -668,7 +668,7 @@
 		"strength": 16,
 		"cost": 85,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+25]% Strength <when fighting in [Friendly Land] tiles>", "[+25]% Strength <vs [City-State] units>", "Can move immediately once bought"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can move immediately once bought", "[+25]% Strength <when fighting in [Friendly Land] tiles>"],
 		"upgradesTo": "Musketman",
 		"attackSound": "metalhit"
 	},

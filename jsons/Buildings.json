@@ -362,7 +362,7 @@
 		"replaces": "Courthouse",
 		"uniqueTo": "Holy Roman Empire",
 		"hurryCostModifier": 25,
-		"maintenance": 2,"
+		"maintenance": 2,
 		"faith": 1,
 		"culture": 1,
 		"uniques": ["[-25]% Unhappiness from [Population] [in this city] <during We Love The King Day>"],

@@ -216,7 +216,7 @@
     {
         "name": "Swords into Ploughshares",
         "type": "Follower",
-        "uniques": ["[+15]% [Food] [in this city] <when not at war>"]
+        "uniques": ["[+10]% [Food] [in this city] <when not at war>"]
     },
     {
         "name": "Divine Spark",

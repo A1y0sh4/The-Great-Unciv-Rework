@@ -130,14 +130,14 @@
 		"replaces": "Archer",
 		"movement": 2,
 		"range": 1,
-		"strength": 5,
+		"strength": 4,
 		"rangedStrength": 7,
 		"cost": 35,
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"promotions": ["Slinger Withdraw"],
-		"uniques": ["Can pass through impassable tiles", "Ignores Zone of Control"],
+		"uniques": ["Ignores Zone of Control"],
 		"attackSound": "arrow"
 	},
 	{

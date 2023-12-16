@@ -694,7 +694,7 @@
 		
 		"uniqueName": "Free Imperial Cities",
 		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns.", "May not annex cities"],
-		"cities": ["Aachen","Frankfurt","Magdeburg","Regensburg","Strasbourg","Nuremberg","Mainz","Ulm","Dortmund","Lübeck","Augsburg","Leipzig","Munich","Worms","Hannover","Cologne","Stuttgart","Dusseldorf","Bremen",
+		"cities": ["Aachen","Frankfurt","Magdeburg","Regensburg","Strasbourg","Lübeck","Augsburg","Nuremberg","Munich","Worms","Ulm","Dortmund","Mainz","Leipzig","Hannover","Cologne","Stuttgart","Dusseldorf","Bremen",
 			"Duisburg","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
 			"Munster","Rostok","Chemnitz","Braunschweig","Halle","Mצnchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
 			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrucken","Krefeld","Pirmasens","Potsdam","Solingen",

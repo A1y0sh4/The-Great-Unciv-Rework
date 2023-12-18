@@ -1340,7 +1340,7 @@
 		"outerColor": [238,238,236],
 		"innerColor": [77,2,4],
 		"uniqueName": "Scourge of God",
-		"uniques": ["Starts with [Animal Husbandry]", "[Military] units gain the [Barbarian] promotion <before discovering [Civil Service]>", "When defeating a [Barbarian] unit, earn [10] Gold and recruit it <with [50]% chance>"],
+		"uniques": ["Starts with [Animal Husbandry]", "[Military] units gain the [Barbarian] promotion <before discovering [Civil Service]>", "When defeating a [Barbarian] unit, earn [10] Gold and recruit it <with [75]% chance>"],
 		"cities": ["Etzelburg", "Szeged", "Esztergom", "Buda", "Pécs", "Eger", "Székesfehérvár", "Győr", "Kőszeg", "Diósgyőr", "Mohács", "Tata", "Kecskemét", "Szombathely", "Sárvár", "Sopron", "Hódmezővásárhely", "Sümeg"]
 	},
 	{

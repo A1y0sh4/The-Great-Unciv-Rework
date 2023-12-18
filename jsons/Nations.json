@@ -872,7 +872,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [188,0,45],
 		"uniqueName": "Bushido",
-		"uniques": ["Damage is ignored when determining unit Strength <for [{Military} {Land}] units>", "[+1 Culture] from every [Fishing Boats]", "[+1 Culture] from every [Atoll]"],
+		"uniques": ["Damage is ignored when determining unit Strength <for [Military] units>", "[+1 Culture] from every [Fishing Boats]", "[+1 Culture] from every [Atoll]"],
 		"cities": ["Kyoto","Osaka","Tokyo","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
 			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
 			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",
@@ -1105,7 +1105,7 @@
 		"leaderName": "Maria I",
 		"adjective": ["Portuguese"],
 		"startBias": ["Coast"],
-//		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Blessings be upon you, most gracious Queen Maria, protector and sovereign of the Portuguese people. As the first ever Queen regnant of Portugal, it was your wise stewardship that protected the royal court from the incursions of Napoleon, establishing a safe haven in Brazil to preserve the integrity of Portuguese rule. Despite struggling with illness throughout your reign, your effort to ensure Portugal's close cooperation with Brazil are credited with helping that state gain its eventual independence - and for this you will always be admired and respected by the people of both nations.",
 		"startIntroPart2": "Oh noble and pious queen, will you once again guide the kingdom of Portugal in the spirit of cooperation and prosperity? Will you establish a new legacy, one that will surpass all those who come before you? Can you build a civilization that will stand the test of time?",
@@ -1457,7 +1457,7 @@
 		"innerColor": [218,37,29],
 		
 		"uniqueName": "Guerrilla Tactics",
-		"uniques": ["[Sword] units gain the [Guerrilla Tactics] promotion", "[Ranged] units gain the [Guerrilla Tactics] promotion", "[Gunpowder] units gain the [Guerrilla Tactics] promotion"],
+		"uniques": ["[Sword] units gain the [Guerrilla Tactics] promotion", "[Archery] units gain the [Guerrilla Tactics] promotion", "[Gunpowder] units gain the [Guerrilla Tactics] promotion"],
 		"cities": ["Thăng Long","Huế","Hoa Lư","Trà Kiệu","Đồng Hới","Quảng Trị","Sài Gòn","Hải Phòng","Cần Thơ","Đà Nẵng","Thái Nguyên","Hạ Long","Quy Nhơn","Đà Lạt","Biên Hòa","Nha Trang","Rạch Giá"
 		"Nam Định","Vinh","Buôn Ma Thuột","Việt Trì"]
 	},

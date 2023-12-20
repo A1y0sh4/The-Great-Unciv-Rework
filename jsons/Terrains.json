@@ -497,7 +497,6 @@
 	{
 		"name": "Chocolate Hills",
 		"type": "NaturalWonder",
-		"food": 1,
 		"culture": 2,
 		"science": 1,
 		"production": 1,

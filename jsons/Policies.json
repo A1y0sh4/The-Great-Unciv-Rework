@@ -334,7 +334,7 @@
             "Scientific": 40,
 	    "Religious": 30
         },
-        "uniques": ["[+25]% [Gold] [in capital]", "[+2 Production] [in all cities connected to capital]"],
+        "uniques": ["[+10]% [Gold] [in capital]", "[+2 Production] [in all cities connected to capital]"],
         "policies": [
             {
                 "name": "Mercantilism",

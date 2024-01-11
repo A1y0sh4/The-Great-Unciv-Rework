@@ -901,7 +901,7 @@
 		"name": "Bolshoi Theatre",
 		"culture": 1,
 		"isWonder": true,
-		"greatPersonPoints": {"Great Artist": 1},
+		"greatPersonPoints": {"Great Artist": 2},
 		"uniques": ["Gain a free [Opera House] [in this city]", "[+50]% Production when constructing [Culture] buildings [in all cities]"],
 		"requiredTech": "Acoustics",
 		"quote": "'Bolshoi Ballet is a universe of the imagination, a place of magic and enchantment, beauty and romance. Its many worlds vibrate with graceful dancers, glorious music, and sumptuous costumes.' - Trudy Garfunkel"
@@ -928,7 +928,7 @@
 		"name": "Forbidden Palace",
 		"culture": 3,
 		"isWonder": true,
-		"greatPersonPoints": {"Great Artist": 1},
+		"greatPersonPoints": {"Great Artist": 2},
 		"uniques": ["[-15]% Unhappiness from [Population] [in all cities]"],
 		"requiredBuilding": "Palace",
 		"requiredTech": "Banking",
@@ -946,7 +946,7 @@
 		"name": "Globe Theatre",
 		"culture": 2,
 		"isWonder": true,
-		"greatPersonPoints": {"Great Artist": 1},
+		"greatPersonPoints": {"Great Artist": 2},
 		"uniques": ["Must be next to [Fresh water]", "Gain a free [Theatre] [in this city]", "[+1 Gold] from all [Happiness] buildings"],
 		"requiredTech": "Printing Press",
 		"quote": "'Totus mundus agit histrionem.' - Inscription above main entrance to the Globe Theatre"
@@ -955,7 +955,7 @@
 		"name": "Leaning Tower of Pisa",
 		"culture": 1,
 		"isWonder": true,
-		"greatPersonPoints": {"Great Artist": 1},
+		"greatPersonPoints": {"Great Artist": 2},
 		"uniques": ["[+33]% Great Person generation [in all cities]", "Free Great Person"],
 		"requiredTech": "Printing Press",
 		"quote": "'Don't clap too hard - it's a very old building.' - John Osbourne"
@@ -1095,7 +1095,7 @@
 		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"requiredTech": "Archaeology",
-		"uniques": ["[+3 Culture, +2 Gold] from [City ruins] tiles [in this city]", "Destroyed when the city is captured"]
+		"uniques": ["[+5 Culture] from [City ruins] tiles [in this city]", "Destroyed when the city is captured"]
 	},
 	{
 		"name": "The Louvre",
@@ -1109,7 +1109,7 @@
 {
 		"name": "Neuschwanstein",
 		"happiness": 2,
-		"culture": 3,
+		"culture": 1,
 		"greatPersonPoints": {"Great Artist": 2},
 		"isWonder": true,
 		"uniques": ["[+1 Culture, +2 Gold] from every [Castle]",

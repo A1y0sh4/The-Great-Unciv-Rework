@@ -57,7 +57,7 @@
 		"requiredNearbyImprovedResources": ["Deer", "Ivory", "Truffles", "Furs"],
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
-		"uniques": ["[+1 Food] from [Camp] tiles [in this city]", "[+50]% XP gained from combat <for [Ranged] units>"],
+		"uniques": ["[+1 Food] from [Camp] tiles [in this city]"],
 		"requiredTech": "Archery",
 		"quote": "'It is not so much for its beauty that the forest makes a claim upon men's hearts, as for that subtle something, that quality of air, that emanation from old trees, that so wonderfully changes and renews a weary spirit.' - Robert Louis Stevenson"
 	},
@@ -75,6 +75,7 @@
 	{
 		"name": "Stonehenge",
 		"faith": 3,
+		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"requiredNearbyImprovedResources": ["Stone"],
@@ -371,8 +372,8 @@
 	{
 		"name": "Hanging Gardens",
 		"greatPersonPoints": {"Great Artist": 1},
-		"food": 2,
-		"culture": 2,
+		"food": 3,
+		"culture": 1,
 		"isWonder": true,
 		"requiredTech": "Mathematics",
 		"uniques": ["Must be next to [Fresh water]", "Gain a free [Garden] [in this city]", "[+15]% growth [in all cities]"],
@@ -459,7 +460,7 @@
 		"culture": 3,
 		"greatPersonPoints": {"Great Scientist": 1},
 		"isWonder": true,
-		"uniques": ["Free Great Person", "[+33]% Great Person generation [in this city]", "Must be next to [Mountain]"],
+		"uniques": ["Free Great Person", "[+15]% Great Person generation [in all cities]", "Must be next to [Mountain]"],
 		"requiredTech": "Philosophy",
 		"quote": "'The ancient Oracle said that I was the wisest of all the Greeks. It is because I alone, of all the Greeks, know that I know nothing' - Socrates"
 	},
@@ -487,7 +488,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 1},
-		"uniques": ["Must be on [Hill]", "Adopt [Diplomacy]", "Gain [500] [Gold]"],
+		"uniques": ["Must be on [Hill]", "Adopt [Diplomacy]", "Gain [250] [Gold]"],
 		"requiredTech": "Drama and Poetry",
 		"quote": "'Earth proudly wears the Parthenon as the best gem upon her zone.' - Ralph Waldo Emerson"
 	},
@@ -570,7 +571,7 @@
 	},
 	{
 		"name": "Great Wall",
-		"culture": 3,
+		"culture": 1,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
 		"uniques": ["Enemy [Mounted] units must spend [2] extra movement points when inside your territory", "Provides a [Walls] in your first [4] cities for free"],
@@ -591,7 +592,7 @@
 		"name": "Colossus",
 		"cost": 185,
 		"culture": 1,
-		"gold": 4,
+		"gold": 3,
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
 		"uniques": ["Must be next to [Water]", "[+1 Gold] from [Water] tiles [in this city]", "Gain a free [Harbor] [in this city]"],
@@ -615,7 +616,7 @@
 		"faith": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
-		"uniques": ["Free [Great Prophet] appears", "Hidden when religion is disabled", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Culture]"],
+		"uniques": ["When spreading religion to a city, gain [10] times the amount of followers of other religions as [Culture]", "Gain a free [Temple] [in this city]", "Hidden when religion is disabled"],
 		"requiredTech": "Theology",
 		"quote": "'For it soars to a height to match the sky, and as if surging up from among the other buildings it stands on high and looks down upon the remainder of the city, adorning it, because it is a part of it, but glorying in its own beauty' - Procopius, De Aedificis"
 	},
@@ -633,7 +634,7 @@
 		"name": "Grand Temple",
 		"cost": 100,
 		"culture": 1,
-		"faith": 5,
+		"faith": 3,
 		"uniques": ["Requires a [Temple] in all cities", "Cost increases by [25] per owned city",
 			"[+33]% Natural religion spread [in this city]", "All newly-trained [Missionary] units [in this city] receive the [Devout] promotion", "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion", "Hidden when religion is disabled", "Can only be built [in holy cities]"],
 		"requiredTech": "Theology",
@@ -679,7 +680,7 @@
 	{
 		"name": "Chichen Itza",
 		"culture": 1,
-		"happiness": 4,
+		"happiness": 3,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
 		"uniques": ["Must be next to [Jungle]", "[+50]% Golden Age length", "[+1 Culture] from [Jungle] tiles [in all cities]"],
@@ -689,7 +690,7 @@
 	{
 		"name": "Teotihuacan Pyramids",
 		"culture": 1,
-		"faith": 4,
+		"faith": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 1},
 		"uniques": ["Must be next to [Lake]", "[+10]% [Food] [in this city] <when at war>", "[+10]% [Production] [in this city] <when at war>"],

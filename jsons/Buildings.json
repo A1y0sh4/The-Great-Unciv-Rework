@@ -1273,7 +1273,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
-		"uniques": ["Must be next to [Water]", "[+1 Production] from every specialist [in all cities]", "[+33]% Great Person generation [in this city]"],
+		"uniques": ["Must be next to [Water]", "[+1 Production] from every specialist [in all cities]"],
 		"requiredTech": "Replaceable Parts",
 		"quote": "'Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore. Send these, the homeless, tempest-tossed to me, I lift my lamp beside the golden door!' - Emma Lazarus"
 	},
@@ -1311,7 +1311,6 @@
 	},
 	{
 		"name": "Manhattan Project",
-		"cost": 1250,
 		"isNationalWonder": true,
 		"culture": 1,
 		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion"],
@@ -1331,7 +1330,8 @@
 		"isWonder": true,
 		"culture": 1,
 		"greatPersonPoints": {"Great Scientist": 2},
-		"uniques": ["[2] free [Great Scientist] units appear", "[+3 Science] from every [Strategic resource]"],
+		"percentStatBonus": {"science": 50},
+		"uniques": ["Free Technology"],
 		"requiredTech": "Computers",
 		"quote": "'The good thing about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.' – Ted Nelson"
 	},
@@ -1347,9 +1347,10 @@
 	},
 	{
 		"name": "Recycling Center",
-		"maintenance": 3,
+		"cost": 360,
+		"maintenance": 1,
 		"requiredTech": "Ecology",
-		"uniques": ["Provides [2] [Aluminum]", "Limited to [5] per Civilization"]
+		"uniques": ["Provides [1] [Aluminum]", "Limited to [10] per Civilization"]
 	},
 	{
 		"name": "Sydney Opera House",
@@ -1385,7 +1386,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
-		"uniques": ["Reveals the entire map", "Free Technology", "[+25]% [Science] [in foreign cities]", "Triggers a global alert upon completion"],
+		"uniques": ["Reveals the entire map", "[+25]% [Science] [in all cities] <for [All]>", "Triggers a global alert upon completion"],
 		"requiredTech": "Rocketry"
 	},
 

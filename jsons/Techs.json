@@ -470,7 +470,7 @@
 		"era": "Modern era",
 		"techCost": 3050,
 		"buildingCost": 450,
-		"wonderCost": 1125,
+		"wonderCost": 1100,
 		"techs": [
 			{
 				"name": "Plastics",
@@ -496,7 +496,7 @@
 		"columnNumber": 13,
 		"era": "Atomic era",
 		"techCost": 3770,
-		"buildingCost": 500,
+		"buildingCost": 520,
 		"wonderCost": 1250,
 		"techs": [
 			{
@@ -529,8 +529,8 @@
 		"columnNumber": 14,
 		"era": "Atomic era",
 		"techCost": 4547,
-		"buildingCost": 500,
-		"wonderCost": 1250,
+		"buildingCost": 650,
+		"wonderCost": 1500,
 		"techs": [
 			{
 				"name": "Ecology",
@@ -609,8 +609,8 @@
 		"columnNumber": 16,
 		"era": "Information era",
 		"techCost": 6100,
-		"buildingCost": 750,
-		"wonderCost": 1875,
+		"buildingCost": 900,
+		"wonderCost": 2000,
 		"techs": [
 			{
 				"name": "Globalization",
@@ -648,8 +648,8 @@
 		"columnNumber": 17,
 		"era": "Future era",
 		"techCost": 9870,
-		"buildingCost": 750,
-		"wonderCost": 1875,
+		"buildingCost": 900,
+		"wonderCost": 2000,
 		"techs": [
 			{
 				"name": "Future Tech",

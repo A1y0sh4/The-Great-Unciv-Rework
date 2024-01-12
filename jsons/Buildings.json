@@ -1284,6 +1284,7 @@
 	// Column 12
 	{
 		"name": "Research Lab",
+		"science": 4,
 		"percentStatBonus": {"science": 50},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Public School",

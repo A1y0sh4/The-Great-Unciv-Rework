@@ -13,19 +13,6 @@
 		"uniques": ["Indicates the capital city", "[+15]% [Production] [in this city] <during We Love The King Day>", "[+15]% [Gold] [in this city] <during We Love The King Day>", "Limited to [1] per Civilization", "Cost increases by [25] per owned city", "Destroyed when the city is captured"]
 	},
 	{
-		"name": "Royal Palace", 
-		"replaces": "Palace",
-		"uniqueTo": "Assyria",
-		"production": 3,
-		"science": 3,
-		"gold": 3,
-		"culture": 1,
-		"cityStrength": 3,
-		"cost": 50,
-		"uniques": ["Indicates the capital city", "Empire enters golden age", "[+15]% [Production] [in this city] <during We Love The King Day>", "[+15]% [Gold] [in this city] <during We Love The King Day>", "Limited to [1] per Civilization", "Cost increases by [25] per owned city", "Destroyed when the city is captured"],
-		"requiredTech": "Mathematics"
-	},
-	{
 		"name": "Monument",
 		"culture": 1,
 		"cost": 40,
@@ -397,9 +384,19 @@
 		"happiness": 2,
 		"uniqueTo": "Kievan Rus'",
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Gold] per [2] social policies adopted"],
+		"uniques": ["[+1 Gold] per [2] social policies adopted", "Destroyed when the city is captured"],
 		"maintenance": 0,
 		"requiredTech": "Construction"
+	},
+        {
+		"name": "Royal Palace", 
+		"replaces": "Colosseum",
+		"uniqueTo": "Assyria",
+		"happiness": 2,
+		"culture": 2,
+		"cost": 75,
+		"uniques": ["[+10]% [Science] [in this city] <during We Love The King Day>", "Destroyed when the city is captured"],
+		"requiredTech": "Mathematics"
 	},
 	{
 		"name": "Terracotta Army",

@@ -1123,7 +1123,7 @@
 	},
 	{
 		"name": "Public School",
-		"science": 2,
+		"science": 4,
 		"specialistSlots": {"Scientist": 1},
 		"requiredBuilding": "University",
 		"maintenance": 3,

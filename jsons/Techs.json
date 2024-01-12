@@ -393,7 +393,7 @@
 	{
 		"columnNumber": 10,
 		"era": "Industrial era",
-		"techCost": 1885,
+		"techCost": 2330,
 		"buildingCost": 300,
 		"wonderCost": 750, // Note that this column doesn't actually have any wonders. This just continues the wonderCost = 2.5 * buildingCost pattern from the last few columns.
 		"techs": [
@@ -428,7 +428,7 @@
 	{
 		"columnNumber": 11,
 		"era": "Modern era",
-		"techCost": 2330,
+		"techCost": 3770,
 		"buildingCost": 360,
 		"wonderCost": 900,
 		"techs": [
@@ -468,7 +468,7 @@
 	{
 		"columnNumber": 12,
 		"era": "Modern era",
-		"techCost": 3050,
+		"techCost": 6100,
 		"buildingCost": 450,
 		"wonderCost": 1100,
 		"techs": [
@@ -495,7 +495,7 @@
 	{
 		"columnNumber": 13,
 		"era": "Atomic era",
-		"techCost": 3770,
+		"techCost": 9870,
 		"buildingCost": 520,
 		"wonderCost": 1250,
 		"techs": [
@@ -528,7 +528,7 @@
 	{
 		"columnNumber": 14,
 		"era": "Atomic era",
-		"techCost": 4547,
+		"techCost": 15970,
 		"buildingCost": 650,
 		"wonderCost": 1500,
 		"techs": [
@@ -562,7 +562,7 @@
 	{
 		"columnNumber": 15,
 		"era": "Information era",
-		"techCost": 5324,
+		"techCost": 25840,
 		"buildingCost": 750,
 		"wonderCost": 1875,
 		"techs": [
@@ -608,7 +608,7 @@
 	{
 		"columnNumber": 16,
 		"era": "Information era",
-		"techCost": 6100,
+		"techCost": 41810,
 		"buildingCost": 900,
 		"wonderCost": 2000,
 		"techs": [
@@ -647,7 +647,7 @@
 	{
 		"columnNumber": 17,
 		"era": "Future era",
-		"techCost": 9870,
+		"techCost": 67650,
 		"buildingCost": 900,
 		"wonderCost": 2000,
 		"techs": [

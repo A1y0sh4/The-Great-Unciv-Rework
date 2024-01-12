@@ -394,6 +394,7 @@
 		"uniqueTo": "Assyria",
 		"happiness": 2,
 		"culture": 2,
+		"maintenance": 1,
 		"cost": 75,
 		"uniques": ["[+10]% [Science] [in this city] <during We Love The King Day>", "Destroyed when the city is captured"],
 		"requiredTech": "Mathematics"

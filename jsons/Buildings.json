@@ -1475,12 +1475,12 @@
 		"uniques": ["[+25]% [Production] [in all cities]"],
 	},
         {
-		"name": "Idroponic Farm",
+		"name": "Automated Hydroponic Farm",
 		"requiredTech": "Advanced AI",
 		"food": 5,
 		"maintenance": 5,
 		"requiredResource": "Aluminum",
-		"uniques": ["[+25]% [Food] [in all cities]"]
+		"uniques": ["[+25]% [Food] [in this cities]"]
 	},
 	// All Eras
 

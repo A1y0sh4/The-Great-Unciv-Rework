@@ -453,7 +453,6 @@
 			{
 				"name": "Flight", 
 				"row": 6,
-				"uniques": ["[+3]% [Gold] from every [World Wonder]"],
 				"prerequisites": ["Steam Power"],
 				"quote": "'Aeronautics was neither an industry nor a science. It was a miracle.' - Igor Sikorsky"
 			},
@@ -569,7 +568,7 @@
 			{
 				"name": "Telecommunications",
 				"row": 2,
-				"prerequisites": ["Ecology"],
+				"prerequisites": ["Ecology", "Computers"],
 				"quote": "'The more we elaborate our means of communication, the less we communicate.' - J.B. Priestly"
 			},
 			{

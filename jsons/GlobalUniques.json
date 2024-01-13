@@ -44,6 +44,7 @@
         "[+75]% maintenance costs <for [Helicopter] units>",
         "[+125]% maintenance costs <for [Atomic Bomb] units>",
         "[+125]% maintenance costs <for [Nuclear Missile] units>",
+	"[+125]% maintenance costs <for [Thermonuclear Missile] units>",
         "[+200]% maintenance costs <for [Giant Death Robot] units>",
         "[Great General] is earned [-50]% faster <when not at war>",
         "Cities are razed [2] times as fast",

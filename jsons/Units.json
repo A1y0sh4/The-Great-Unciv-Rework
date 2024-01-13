@@ -1929,7 +1929,7 @@
 		"unitType": "Mech",
 		"movement": 4,
 		"strength": 150,
-		"cost": 750,
+		"cost": 1000,
 		"requiredTech": "Nuclear Fusion",
 		"requiredResource": "Uranium",
 		"uniques": ["Can move after attacking", "Destroys tile improvements when attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],

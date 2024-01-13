@@ -612,33 +612,21 @@
 		"wonderCost": 2000,
 		"techs": [
 			{
-				"name": "Globalization",
-				"row": 2,
-				"prerequisites": ["Telecommunications"],
-				"quote": "'The new electronic interdependence recreates the world in the image of a global village.' - Marshall McLuhan"
-			},
-			{
 				"name": "Particle Physics",
 				"row": 3,
 				"prerequisites": ["Telecommunications","Mobile Tactics","Advanced Ballistics"],
 				"quote": "'Every particle of matter is attracted by or gravitates to every other particle of matter with a force inversely proportional to the squares of their distances.' - Isaac Newton"
 			},
 			{
-				"name": "Nuclear Fusion",
-				"row": 6,
-				"prerequisites": ["Advanced Ballistics", "Satellites", "Robotics"],
-				"quote": "'The release of atomic energy has not created a new problem. It has readily made more urgent the necessity of solving an existing one.' - Albert Einstein"
-			},
-			{
 				"name": "Nanotechnology",
 				"row": 7,
-				"prerequisites": ["Robotics"],
+				"prerequisites": ["Robotics", "Satellites"],
 				"quote": "'The impact of nanotechnology is expected to exceed the impact that the electronics revolution has had on our lives.' - Richard Schwartz"
 			},
 			{
 				"name": "Stealth",
-				"row": 8,
-				"prerequisites": ["Robotics", "Lasers"],
+				"row": 5,
+				"prerequisites": ["Robotics", "Lasers", "Advanced Ballistics"],
 				"quote": "'Be extremely subtle, even to the point of formlessness, be extremely mysterious, even to the point of soundlessness. Thereby you can be the director of the opponent's fate.' - Sun Tzu"
 			}
 		]
@@ -648,12 +636,27 @@
 		"era": "Future era",
 		"techCost": 67650,
 		"buildingCost": 900,
-		"wonderCost": 2000,
+		"wonderCost": 2250,
+		"techs": [
+			{
+				"name": "Nuclear Fusion",
+				"row": 6,
+				"prerequisites": ["Particle Physics","Nanotechnology"],
+				"quote": "'The release of atomic energy has not created a new problem. It has readily made more urgent the necessity of solving an existing one.' - Albert Einstein"
+			},
+		]
+	},
+	{
+		"columnNumber": 18,
+		"era": "Future era",
+		"techCost": 109460,
+		"buildingCost": 1000,
+		"wonderCost": 2500,
 		"techs": [
 			{
 				"name": "Future Tech",
 				"row": 5,
-				"prerequisites": ["Globalization","Particle Physics","Nuclear Fusion","Nanotechnology","Stealth"],
+				"prerequisites": ["Nuclear Fusion"],
 				"uniques": ["Can be continually researched"],
 				"quote": "'I think we agree, the past is over.' - George W. Bush",
                 "civilopediaText": [{"text": "Who knows what the future holds?"}]

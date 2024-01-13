@@ -1312,10 +1312,9 @@
 	{
 		"name": "Medical Lab",
 		"requiredBuilding": "Hospital",
-		"percentStatBonus": {"food": 10},
+		"percentStatBonus": {"food": 10, "science": 10},
 		"maintenance": 3,
 		"requiredTech": "Pharmaceuticals",
-		"uniques": ["[25]% Food is carried over after population increases [in this city]"]
 	},
 	{
 		"name": "Manhattan Project",

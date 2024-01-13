@@ -1472,11 +1472,10 @@
 		"uniques": ["[+100]% [Production] [in this city]", "Consumes [2] [Uranium]"],
 	},
         {
-		"name": "Automated Hydroponic Farm",
+		"name": "Automated City Management",
 		"requiredTech": "Advanced AI",
-		"food": 5,
 		"maintenance": 5,
-		"uniques": ["[+25]% [Food] [in this city]", "Consumes [2] [Uranium]"]
+		"uniques": ["[+10]% Yield from every [Building] <in this city>", "Consumes [2] [Uranium]"]
 	},
 	// All Eras
 

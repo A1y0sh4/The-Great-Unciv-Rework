@@ -1444,7 +1444,6 @@
 		"cityStrength": 25,
 		"maintenance": 5,
 		"requiredResource": "Aluminum",
-		"requiredBuilding": "Bomb Shelter",
 		"requiredTech": "Stealth",
 		"uniques": ["Population loss from nuclear attacks [-25]% [in this city]"]
 	},
@@ -1454,11 +1453,11 @@
 		"science": 5,
 		"maintenance": 5,
 		"requiredResource": "Aluminum",
-		"uniques": ["[+25]% [Science] [in all cities]"],
+		"uniques": ["[+100]% [Science] [in this city]"],
 	},
         {
-		"name": "Neural Implant Lab",
-		"culture": 5,
+		"name": "Genetic Lab",
+		"food": 5,
 		"maintenance": 5,
 		"requiredTech": "Nanotechnology",
 		"requiredResource": "Aluminum",
@@ -1470,7 +1469,7 @@
 		"requiredTech": "Nuclear Fusion",
 		"production": 5,
 		"maintenance": 5,
-		"uniques": ["[+25]% [Production] [in all cities]", "Consumes [2] [Uranium]"],
+		"uniques": ["[+100]% [Production] [in this city]", "Consumes [2] [Uranium]"],
 	},
         {
 		"name": "Automated Hydroponic Farm",

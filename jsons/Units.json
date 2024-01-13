@@ -1802,6 +1802,7 @@
 		"cost": 200,
 		"requiredTech": "Advanced Ballistics",
 		"upgradesTo": "Intelligent Guided Missile",
+		"obsoleteTech": "Advanced AI",
 		"uniques": ["Destroys tile improvements when attacking", "[-100]% maintenance costs"],
 		"attackSound": "missile"
 	},

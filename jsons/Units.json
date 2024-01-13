@@ -1501,7 +1501,7 @@
 		"uniqueTo": "Canada",
 		"movement": 2,
 		"strength": 70,
-		"cost": 360,
+		"cost": 400,
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
@@ -1515,11 +1515,11 @@
 		"uniqueTo": "Brazil",
 		"movement": 2,
 		"strength": 70,
-		"cost": 360,
+		"cost": 400,
 		"requiredTech": "Plastics",
 		"uniques": ["[+50]% Strength <vs [Barbarian] units>"],
 		"promotions": ["Survivalism I", "Survivalism II"],
-		"upgradesTo": "Mechanized Infantry",
+		"upgradesTo": "Spec Ops",
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
 	},
@@ -1628,6 +1628,8 @@
 		"cost": 400,
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Amphibious"],
+		"upgradesTo": "Spec Ops",
+		"obsoleteTech": "Mobile Tactics",
 		"uniques": ["[+1] Sight <when [Embarked]>", "Defense bonus when embarked"],
 		"attackSound": "shot"
 	},
@@ -1701,6 +1703,8 @@
 		"strength": 60,
 		"cost": 400,
 		"requiredTech": "Radar",
+		"upgradesTo": "Spec Ops",
+		"obsoleteTech": "Mobile Tactics",
 		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
 	},
@@ -1865,6 +1869,18 @@
 		"uniques": ["Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
+	{
+		"name": "Spec Ops",
+		"unitType": "Scout",
+		"movement": 2,
+		"range": 1,
+		"strength": 60,
+		"rangedStrength": 70,
+		"cost": 500,
+		"requiredTech": "Mobile Tactics",
+		"promotions": ["Survivalism I", "Survivalism II"],
+		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
+		"attackSound": "shot"
 	{
 		"name": "Missile Cruiser",
 		"unitType": "Ranged Water",

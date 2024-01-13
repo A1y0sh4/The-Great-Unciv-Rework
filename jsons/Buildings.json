@@ -1455,6 +1455,14 @@
 		"maintenance": 5,
 		"uniques": ["[+15]% [Science] [in all cities]"],
 	},
+        {
+		"name": "Advanced Air Defense System",
+		"cityHealth": 100,
+		"cityStrength": 20,
+		"maintenance": 5,
+		"requiredTech": "Advanced AI",
+		"uniques": ["Population loss from nuclear attacks [-25]% [in this city]"]
+	},
 
 	// All Eras
 

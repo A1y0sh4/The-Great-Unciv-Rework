@@ -1007,6 +1007,7 @@
 	{
 		"name": "Hermitage",
 		"cost": 100,
+		"culture": 1,
 		"percentStatBonus": {"culture": 33},
 		"greatPersonPoints": {"Great Artist": 1},
 		"isNationalWonder": true,

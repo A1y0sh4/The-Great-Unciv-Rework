@@ -1448,6 +1448,13 @@
 		"maintenance": 5,
 		"uniques": ["[+15]% [Production] [in all cities]"],
 	},
+        {
+		"name": "Quantum Computer",
+		"requiredTech": "Advanced AI",
+		"Science": 5,
+		"maintenance": 5,
+		"uniques": ["[+15]% [Science] [in all cities]"],
+	},
 
 	// All Eras
 

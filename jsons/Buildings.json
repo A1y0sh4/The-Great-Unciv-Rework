@@ -1439,29 +1439,32 @@
 		"requiredTech": "Robotics"
 	},
 	// Column 16
-	
+	{
+		"name": "Air Defense System",
+		"cityHealth": 100,
+		"cityStrength": 20,
+		"maintenance": 5,
+		"requiredResource": "Aluminum",
+		"requiredBuilding": "Bomb Shelter",
+		"requiredTech": "Stealth",
+		"uniques": ["Population loss from nuclear attacks [-25]% [in this city]"]
+	},
+        {
+		"name": "Quantum Computer",
+		"requiredTech": "Particle Physics",
+		"science": 5,
+		"maintenance": 5,
+		"requiredResource": "Aluminum",
+		"uniques": ["[+15]% [Science] [in all cities]"],
+	},
         // Column 17
         {
 		"name": "Fusion Reactor",
 		"requiredTech": "Nuclear Fusion",
 		"production": 5,
 		"maintenance": 5,
+		"requiredResource": "Aluminum",
 		"uniques": ["[+15]% [Production] [in all cities]"],
-	},
-        {
-		"name": "Quantum Computer",
-		"requiredTech": "Advanced AI",
-		"science": 5,
-		"maintenance": 5,
-		"uniques": ["[+15]% [Science] [in all cities]"],
-	},
-        {
-		"name": "Advanced Air Defense System",
-		"cityHealth": 100,
-		"cityStrength": 20,
-		"maintenance": 5,
-		"requiredTech": "Advanced AI",
-		"uniques": ["Population loss from nuclear attacks [-25]% [in this city]"]
 	},
 
 	// All Eras

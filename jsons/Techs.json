@@ -641,8 +641,14 @@
 			{
 				"name": "Nuclear Fusion",
 				"row": 6,
-				"prerequisites": ["Particle Physics","Nanotechnology"],
+				"prerequisites": ["Particle Physics","Nanotechnology", "Stealth"],
 				"quote": "'The release of atomic energy has not created a new problem. It has readily made more urgent the necessity of solving an existing one.' - Albert Einstein"
+			},
+			{
+				"name": "Advanced AI",
+				"row": 4,
+				"prerequisites": ["Particle Physics","Nanotechnology", "Stealth"],
+				"quote": "'Will no entreaties cause thee to turn a favourable eye upon thy creature, who implores thy goodness and compassion?' - Mary Shelley"
 			},
 		]
 	},
@@ -656,7 +662,7 @@
 			{
 				"name": "Future Tech",
 				"row": 5,
-				"prerequisites": ["Nuclear Fusion"],
+				"prerequisites": ["Nuclear Fusion", "Advanced AI"],
 				"uniques": ["Can be continually researched"],
 				"quote": "'I think we agree, the past is over.' - George W. Bush",
                 "civilopediaText": [{"text": "Who knows what the future holds?"}]

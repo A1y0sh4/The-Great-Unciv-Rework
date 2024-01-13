@@ -1451,7 +1451,7 @@
         {
 		"name": "Quantum Computer",
 		"requiredTech": "Advanced AI",
-		"Science": 5,
+		"science": 5,
 		"maintenance": 5,
 		"uniques": ["[+15]% [Science] [in all cities]"],
 	},

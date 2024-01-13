@@ -495,7 +495,7 @@
 		"columnNumber": 13,
 		"era": "Atomic era",
 		"techCost": 9870,
-		"buildingCost": 520,
+		"buildingCost": 530,
 		"wonderCost": 1250,
 		"techs": [
 			{
@@ -562,7 +562,7 @@
 		"columnNumber": 15,
 		"era": "Information era",
 		"techCost": 25840,
-		"buildingCost": 750,
+		"buildingCost": 780,
 		"wonderCost": 1800,
 		"techs": [
 			{
@@ -635,7 +635,7 @@
 		"columnNumber": 17,
 		"era": "Future era",
 		"techCost": 67650,
-		"buildingCost": 900,
+		"buildingCost": 1000,
 		"wonderCost": 2000,
 		"techs": [
 			{

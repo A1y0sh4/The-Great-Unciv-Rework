@@ -1801,6 +1801,7 @@
 		"range": 8,
 		"cost": 200,
 		"requiredTech": "Advanced Ballistics",
+		"upgradesTo": "Intelligent Guided Missile",
 		"uniques": ["Destroys tile improvements when attacking", "[-100]% maintenance costs"],
 		"attackSound": "missile"
 	},
@@ -1948,6 +1949,18 @@
 		"requiredResource": "Aluminum",
 		"uniques": ["Damage taken from interception reduced by [90]%", "Destroys tile improvements when attacking", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
+	},
+	{
+		"name": "Intelligent Guided Missile",
+		"unitType": "Missile",
+		"movement": 1,
+		"strength": 80,
+		"rangedStrength": 80,
+		"range": 8,
+		"cost": 350,
+		"requiredTech": "Advanced AI",
+		"uniques": ["Damage taken from interception reduced by [90]%", "Destroys tile improvements when attacking", "[-100]% maintenance costs"],
+		"attackSound": "missile"
 	},
 
 	/* Great people */

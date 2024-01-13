@@ -1456,12 +1456,12 @@
 		"uniques": ["[+100]% [Science] [in this city]"],
 	},
         {
-		"name": "Genetic Lab",
+		"name": "Cloning Lab",
 		"food": 5,
 		"maintenance": 5,
 		"requiredTech": "Nanotechnology",
 		"requiredResource": "Aluminum",
-		"uniques": ["[-25]% Unhappiness from [Population] [in this city]"]
+		"uniques": ["[+100]% growth [in this city]"]
 	},
         // Column 17
         {

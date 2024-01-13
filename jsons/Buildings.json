@@ -1466,6 +1466,14 @@
 		"requiredResource": "Aluminum",
 		"uniques": ["[+25]% [Production] [in all cities]"],
 	},
+        {
+		"name": "Genetic Lab",
+		"requiredBuilding": "Medical Lab",
+		"percentStatBonus": {"food": 10},
+		"maintenance": 5,
+		"requiredTech": "Nanotechnology",
+		"uniques": ["[25]% Food is carried over after population increases [in this city]"]
+	},
 
 	// All Eras
 

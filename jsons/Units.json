@@ -1874,13 +1874,14 @@
 		"unitType": "Scout",
 		"movement": 2,
 		"range": 1,
-		"strength": 60,
+		"strength": 70,
 		"rangedStrength": 70,
 		"cost": 500,
 		"requiredTech": "Mobile Tactics",
 		"promotions": ["Survivalism I", "Survivalism II"],
 		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
+	},
 	{
 		"name": "Missile Cruiser",
 		"unitType": "Ranged Water",

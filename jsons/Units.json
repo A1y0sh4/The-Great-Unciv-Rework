@@ -1877,7 +1877,6 @@
 		"movement": 2,
 		"range": 1,
 		"strength": 70,
-		"rangedStrength": 70,
 		"cost": 500,
 		"requiredTech": "Mobile Tactics",
 		"promotions": ["Survivalism I", "Survivalism II"],

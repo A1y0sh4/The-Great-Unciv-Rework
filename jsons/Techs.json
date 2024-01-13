@@ -563,7 +563,7 @@
 		"era": "Information era",
 		"techCost": 25840,
 		"buildingCost": 750,
-		"wonderCost": 1875,
+		"wonderCost": 1800,
 		"techs": [
 			{
 				"name": "Telecommunications",
@@ -636,7 +636,7 @@
 		"era": "Future era",
 		"techCost": 67650,
 		"buildingCost": 900,
-		"wonderCost": 2250,
+		"wonderCost": 2000,
 		"techs": [
 			{
 				"name": "Nuclear Fusion",

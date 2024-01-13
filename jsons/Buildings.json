@@ -1458,9 +1458,8 @@
 		"uniques": ["[+25]% [Science] [in all cities]"],
 	},
         {
-		"name": "Genetic Lab",
-		"requiredBuilding": "Medical Lab",
-		"percentStatBonus": {"food": 10},
+		"name": "Neural Implant Lab",
+		"culture": 5,
 		"maintenance": 5,
 		"requiredTech": "Nanotechnology",
 		"requiredResource": "Aluminum",
@@ -1475,7 +1474,14 @@
 		"requiredResource": "Aluminum",
 		"uniques": ["[+25]% [Production] [in all cities]"],
 	},
-
+        {
+		"name": "Idroponic Farm",
+		"requiredTech": "Advanced AI",
+		"food": 5,
+		"maintenance": 5,
+		"requiredResource": "Aluminum",
+		"uniques": ["[+25]% [Food] [in all cities]"]
+	},
 	// All Eras
 
 	{

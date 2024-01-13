@@ -1480,7 +1480,7 @@
 		"food": 5,
 		"maintenance": 5,
 		"requiredResource": "Aluminum",
-		"uniques": ["[+25]% [Food] [in this cities]"]
+		"uniques": ["[+25]% [Food] [in this city]"]
 	},
 	// All Eras
 

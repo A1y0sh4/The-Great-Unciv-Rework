@@ -1457,6 +1457,15 @@
 		"requiredResource": "Aluminum",
 		"uniques": ["[+25]% [Science] [in all cities]"],
 	},
+        {
+		"name": "Genetic Lab",
+		"requiredBuilding": "Medical Lab",
+		"percentStatBonus": {"food": 10},
+		"maintenance": 5,
+		"requiredTech": "Nanotechnology",
+		"requiredResource": "Aluminum",
+		"uniques": ["[-25]% Unhappiness from [Population] [in this city]"]
+	},
         // Column 17
         {
 		"name": "Fusion Reactor",
@@ -1465,14 +1474,6 @@
 		"maintenance": 5,
 		"requiredResource": "Aluminum",
 		"uniques": ["[+25]% [Production] [in all cities]"],
-	},
-        {
-		"name": "Genetic Lab",
-		"requiredBuilding": "Medical Lab",
-		"percentStatBonus": {"food": 10},
-		"maintenance": 5,
-		"requiredTech": "Nanotechnology",
-		"uniques": ["[25]% Food is carried over after population increases [in this city]"]
 	},
 
 	// All Eras

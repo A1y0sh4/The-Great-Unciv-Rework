@@ -1270,6 +1270,11 @@
 		"requiredTech": "Replaceable Parts",
 		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured"]
 	},
+        {
+		"name": "Airport",
+		"requiredTech": "Flight",
+		"uniques": ["[+2 Culture, +2 Gold] <in cities with a [World Wonder]>", "New [Air] units start with [15] Experience [in this city]", "Destroyed when the city is captured"]
+	},
 	{
 		"name": "Statue of Liberty",
 		"culture": 1,

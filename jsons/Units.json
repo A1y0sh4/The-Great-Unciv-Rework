@@ -1608,7 +1608,7 @@
 		"name": "Destroyer",
 		"unitType": "Melee Water",
 		"movement": 6,
-		"strength": 66,
+		"strength": 70,
 		"interceptRange": 2,
 		"cost": 400,
 		"requiredResource": "Oil",
@@ -1759,7 +1759,7 @@
 		"requiredResource": "Uranium",
 		"promotions" : ["Evasion"],
 		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking",
-			"Blast radius [2]"],
+			"Blast radius [1]"],
 		"attackSound": "nuke"
 		// Plane rather than a missile - can be based in city or Carrier only.
 		// Can be intercepted, but must die for it not to take effect.
@@ -1796,13 +1796,11 @@
 		"name": "Guided Missile",
 		"unitType": "Missile",
 		"movement": 1,
-		"strength": 66,
-		"rangedStrength": 66,
+		"strength": 70,
+		"rangedStrength": 70,
 		"range": 8,
 		"cost": 200,
 		"requiredTech": "Advanced Ballistics",
-		"upgradesTo": "Intelligent Guided Missile",
-		"obsoleteTech": "Advanced AI",
 		"uniques": ["Destroys tile improvements when attacking", "[-100]% maintenance costs"],
 		"attackSound": "missile"
 	},
@@ -1931,7 +1929,7 @@
 		"movement": 4,
 		"strength": 150,
 		"cost": 1000,
-		"requiredTech": "Nuclear Fusion",
+		"requiredTech": "Advanced AI",
 		"requiredResource": "Uranium",
 		"uniques": ["Can move after attacking", "Destroys tile improvements when attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"promotions":["Water Mobility"],
@@ -1951,16 +1949,17 @@
 		"attackSound": "bombing"
 	},
 	{
-		"name": "Intelligent Guided Missile",
+		"name": "Thermonuclear Missile",
 		"unitType": "Missile",
 		"movement": 1,
-		"strength": 80,
-		"rangedStrength": 80,
-		"range": 8,
-		"cost": 350,
-		"requiredTech": "Advanced AI",
-		"uniques": ["Damage taken from interception reduced by [90]%", "Destroys tile improvements when attacking", "[-100]% maintenance costs"],
-		"attackSound": "missile"
+		"strength": 500,
+		"rangedStrength": 500,
+		"range": 12,
+		"cost": 1000,
+		"requiredTech": "Nuclear Fusion",
+		"uniques": ["Nuclear weapon of Strength [3]", "Only available <if [Manhattan Project] is constructed>",
+			"Blast radius [3]", "Consumes [3] [Uranium]"],
+		"attackSound": "nuke"
 	},
 
 	/* Great people */

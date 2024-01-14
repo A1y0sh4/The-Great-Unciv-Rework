@@ -786,7 +786,7 @@
 	},
 	{
 		"name": "Haka War Dance", // only for Maori Warrior and subsequent upgrades
-		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [Land] tiles", "[+15]% Strength <within [2] tiles of a [Moai]>"]
+		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"]
 	},
 	{
 		"name": "Rejuvenation", // only for Units that have been close to Natural Wonder Fountain of Youth

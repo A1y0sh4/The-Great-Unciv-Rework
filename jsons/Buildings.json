@@ -785,7 +785,6 @@
 	{
 		"name": "Angkor Wat",
 		"culture": 1,
-		"faith": 3,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
 		"uniques": ["Must be next to [Jungle]", "[+1 Faith] per [2] population [in this city]", "Gain a free [Wat] [in this city]"],

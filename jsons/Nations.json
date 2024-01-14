@@ -1231,10 +1231,12 @@
 		"hateHello": "Oh, it's you.",
 		"tradeRequest": "Can I interest you in this deal?",
 		"favoredReligion": "Islam",
+		
 		"outerColor": [214,145,19],
 		"innerColor": [90,0,10],
+		
 		"uniqueName": "Songs of the Jeli",
-		"uniques": ["[-1 Production, +2 Gold] from every [Mine]", "May buy [Gold] buildings with [Faith] for [2] times their normal Production cost"],
+		"uniques": ["[-1 Production, +1 Faith, +2 Gold] from every [Mine]", "May buy [Gold] buildings with [Faith] for [2] times their normal Production cost"],
 		"cities": ["Gao","Tombouctu","Jenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
 			"Kebbi","Boussa","Motpi","Bamako","Wa","Kayes","Awdaghost","Ouadane","Dakar","Tadmekket","Tekedda","Kano",
 			"Agadez","Niamey","Torodi","Ouatagouna","Dori","Bamba","Segou"]

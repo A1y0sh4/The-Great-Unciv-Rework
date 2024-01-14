@@ -421,7 +421,7 @@
 		"name": "Burial Tomb",
 		"replaces": "Temple",
 		"uniqueTo": "Egypt",
-		"maintenance": 0,
+		"maintenance": 1,
 		"uniques": ["Gain [5] [Culture] <upon constructing [Buildings] [in this city]>", "Gain [50] [Culture] <upon constructing [Wonders] [in this city]>", "Destroyed when the city is captured"],
 		"faith": 2,
 		"hurryCostModifier": 25,
@@ -431,7 +431,7 @@
 		"name": "Mud Pyramid Mosque",
 		"replaces": "Temple",
 		"uniqueTo": "Songhai",
-		"maintenance": 0,
+		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"faith": 2,
 		"uniques": ["[Gold] cost of purchasing items in cities [-5]%", "Destroyed when the city is captured"]
@@ -441,7 +441,7 @@
 		"name": "Basilica",
 		"replaces": "Temple",
 		"uniqueTo": "Papal States",
-		"maintenance": 0,
+		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"faith": 2,
 		"uniques": ["[Faith] cost of purchasing items in cities [-5]%", "Destroyed when the city is captured"]

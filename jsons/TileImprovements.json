@@ -260,12 +260,14 @@
 	},
 	//Civilization unique improvements
 	{
-		"name": "Moai",
+		"name": "Marae",
 		"type": "Improvement",
 		"uniqueTo": "Polynesia",
+		"faith": 1,
+		"culture": 1,
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland"],
 		"turnsToBuild": 6,
-		"uniques": ["Improvement", "[+1 Culture] <within [1] tiles of a [Coast]>", "[+1 Culture] for each adjacent [Moai]", "[+1 Food] for each adjacent [City center]", "[+1 Gold] <after discovering [Flight]>", "Obsolete with [Metal Casting]", "Pillaging this improvement yields approximately [+13 Gold]"],
+		"uniques": ["Improvement", "[+1 Food] <within [1] tiles of a [Coast]>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+13 Gold]"],
 		"techRequired": "Construction",
 		"shortcutKey": "M"
 	},

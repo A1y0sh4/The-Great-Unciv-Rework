@@ -330,7 +330,7 @@
 		"outerColor": [189,189,189],
 		"innerColor": [88,0,154],
 		"uniqueName": "Phoenician Heritage",
-		"uniques": ["[1] Movement point cost to disembark <for [Settler] units>", "Gain a free [Harbor] [in all coastal cities]"],
+		"uniques": ["[1] Movement point cost to disembark <for [Settler] units>", "Gain a free [Harbor] [in all coastal cities]", "Discover [Optics] <upon discovering [Sailing]>"],
 		"cities": ["Carthage","Utique","Hippo Regius","Gades","Saguntum","Carthago Nova","Panormus","Lilybaeum","Hadrumetum","Zama Regia",
 			"Karalis","Malaca","Leptis Magna","Hippo Diarrhytus","Motya","Sulci","Leptis Parva","Tharros","Soluntum","Lixus",
 			"Oea","Theveste","Ibossim","Thapsus","Aleria","Tingis","Abyla","Sabratha","Rusadir","Baecula",
@@ -1377,7 +1377,7 @@
 		"innerColor": [24,63,66], // color picker: 1f4a4d
 
 		"uniqueName": "The Long Count",
-		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Calendar]. Each bonus person can only be chosen once.",
+		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Philosophy]. Each bonus person can only be chosen once.",
 			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count."],
 		"cities": ["Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul",
 			"Edzna","Lamanai","Izapa","Uaxactun","Comalcalco","Piedras Negras","Cancuen","Yaxha","Quirigua",

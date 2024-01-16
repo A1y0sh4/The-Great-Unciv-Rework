@@ -28,7 +28,7 @@
 		"faith": 1,
 		"cost": 40,
 		"hurryCostModifier": 40,
-		"maintenance": 1,
+		"maintenance": 0,
 		"uniques": ["Destroyed when the city is captured"] //"Hidden when religion is disabled"
 	},
 	{
@@ -38,7 +38,7 @@
 		"culture": 1,
 		"science": 1,
 		"cost": 40,
-		"maintenance": 1,
+		"maintenance": 0,
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	// Column 1

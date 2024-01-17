@@ -780,6 +780,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 1},
 		"uniques": ["Gain a free [University] [in this city]", "Free Technology"],
+		"quote": "'The clever men at Oxford... Know all that there is to be knowed. But they none of them know one half as much... As intelligent Mr. Toad!' - Kenneth Grahame"
 		"requiredTech": "Education"
 	},
 	{

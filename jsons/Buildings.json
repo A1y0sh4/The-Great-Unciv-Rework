@@ -422,7 +422,7 @@
 		"replaces": "Temple",
 		"uniqueTo": "Egypt",
 		"maintenance": 1,
-		"uniques": ["Gain [5] [Culture] <upon constructing [Buildings] [in this city]>", "Gain [50] [Culture] <upon constructing [Wonders] [in this city]>", "Destroyed when the city is captured"],
+		"uniques": ["Gain [3] [Culture] <upon constructing [Buildings] [in this city]>", "Gain [15] [Culture] <upon constructing [Wonders] [in this city]>", "Destroyed when the city is captured"],
 		"faith": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy"

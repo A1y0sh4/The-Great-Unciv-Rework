@@ -95,7 +95,7 @@
 		"name": "Desert",
 		"type": "Land",
 		"movementCost": 1,
-		"RGB": [255, 226, 115],
+		"RGB": [255, 206, 115],
 		"uniques": ["Occurs at temperature between [-0.1] and [0.9] and humidity between [0] and [0.2]",
             "Occurs at temperature between [0.1] and [0.8] and humidity between [0.2] and [0.3]",
             "Occurs at temperature between [0.2] and [0.7] and humidity between [0.3] and [0.4]",

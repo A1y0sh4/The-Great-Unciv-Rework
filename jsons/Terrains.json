@@ -114,7 +114,7 @@
 		"impassable": true,
 		"overrideStats": true,
 		"defenceBonus": 0.25,
-		"RGB": [160, 160, 160],
+		"RGB": [154, 154, 154],
 		"uniques": ["Rough terrain",
             "Has an elevation of [2] for visibility calculations",
             "Occurs in chains at high elevations",

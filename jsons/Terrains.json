@@ -4,7 +4,7 @@
 		"name": "Ocean",
 		"type": "Water",
 		"movementCost": 1,
-		"RGB": [10,160,190],
+		"RGB": [0,160,190],
 		 "uniques": ["Becomes [Coast] when adjacent to [Desert]"]
 	},
 	{

@@ -597,7 +597,7 @@
             {
                 "name": "World Expo",
                 "uniques": [
-                    "Science gained from research agreements [+50]%"
+                    "Science gained from research agreements [+25]% <for [All]>"
                 ],
                 "row": 1,
                 "column": 1
@@ -608,21 +608,21 @@
                     "[+25]% maintenance costs <for [Military] units> <for [All]>",
                 ],
                 "row": 1,
-                "column": 3
+                "column": 5
             },
             {
                 "name": "Exchange Programs",
                 "uniques": [
-                    "Gain [50] [Culture] <upon declaring friendship>"
+                    "Gain [50] [Culture] <upon declaring friendship> <for [All]>"
                 ],
                 "row": 1,
-                "column": 5
+                "column": 3
             },
             {
                 "name": "Global Cooperation",
                 "requires": ["World Expo", "Demilitarization", "Exchange Programs"],
                 "uniques": [
-                   "[+10]% [Food] [in all cities]", "[+10]% [Production] [in all cities]"
+                   "[+5]% [Food] [in all cities] <for [All]>", "[+5]% [Production] [in all cities] <for [All]>"
                 ],
                 "row": 2,
                 "column": 3
@@ -631,7 +631,7 @@
                 "name": "International Harmony",
                 "requires": ["Global Cooperation"],
                 "uniques": [
-                    "[-10]% Unhappiness from [Population] [in all cities]"
+                    "[-5]% Unhappiness from [Population] [in all cities] <for [All]>"
                 ],
                 "row": 3,
                 "column": 3

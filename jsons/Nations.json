@@ -1404,7 +1404,7 @@
 		"outerColor": [229, 118, 0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Dutch East India Company",
-		"uniques": ["[50]% of excess happiness converted to [Gold]", "[+2 Happiness] from every [Harbor]", "[+2 Happiness] from every [Seaport]"],
+		"uniques": ["[50]% of excess happiness converted to [Gold]", "[+1 Happiness] from every [Harbor]", "[+1 Happiness] from every [Seaport]"],
 		"cities": ["Amsterdam","Rotterdam","Utrecht","Groningen","Breda","Nijimegen","Den Haag","Haarlem","Arnhem","Zutphen",
 			"Maastricht","Tilburg","Eindhoven","Dordrecht","Leiden","Hertogenbosch","Almere","Alkmaar","Brielle","Vlissingen",
 			"Apeldoorn","Nova Enschede","Sao Bernardo do Amersfoort","Zwolle","Venlo","Uden","Grave","Delft","Gouda","Nieuwstadt",

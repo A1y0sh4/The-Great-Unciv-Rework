@@ -82,7 +82,8 @@
 		"strength": 8,
 		"cost": 35,
 		"obsoleteTech": "Metal Casting",
-		"promotions": ["Haka War Dance", "[+1] Movement <in [Water] tiles>", "Transfer Movement to [Civilian]"],
+		"uniques" : ["[+1] Movement <in [Water] tiles>", "Transfer Movement to [Civilian]"],
+		"promotions": ["Haka War Dance"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},

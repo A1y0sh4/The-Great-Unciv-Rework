@@ -263,10 +263,9 @@
 		"name": "Marae",
 		"type": "Improvement",
 		"uniqueTo": "Polynesia",
-		"faith": 1,
 		"culture": 1,
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland"],
-		"turnsToBuild": 6,
+		"turnsToBuild": 5,
 		"uniques": ["Improvement", "[+1 Food] <within [1] tiles of a [Coast]>", "Gives a defensive bonus of [10]%", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+13 Gold]"],
 		"techRequired": "Construction",
 		"shortcutKey": "M"

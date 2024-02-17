@@ -327,9 +327,9 @@
 		"type": "Improvement",
 		"uniqueTo": "Sumeria",
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert"],
-		"faith": 1,
 		"turnsToBuild": 8,
 		"uniques": ["Improvement", "Cannot be built on [Resource] tiles",
+			"[+1 Food, +1 Faith] for each adjacent [City center]"
 			"[+2 Science] <after discovering [Philosophy]>",
 			"[+2 Culture] <after discovering [Archaeology]>",
 			"Pillaging this improvement yields approximately [+13 Gold]"],

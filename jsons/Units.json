@@ -259,7 +259,7 @@
 		"upgradesTo": "Horseman",
 		"obsoleteTech": "Horseback Riding",
 		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>"],
-		"attackSound": "arrow"
+		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Horde",
@@ -301,14 +301,12 @@
 		"uniqueTo": "Sumeria",
 		"replaces": "War Chariot",
 		"movement": 4,
-		"strength": 10,
-		"cost": 40,
-		"requiredTech": "Animal Husbandry",
-		"requiredResource": "Horses",
+		"strength": 11,
+		"cost": 50,
 		"upgradesTo": "Horseman",
 		"obsoleteTech": "Horseback Riding",
 		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "Ignores Zone of Control"],
-		"attackSound": "arrow"
+		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Horse Archer",

@@ -296,7 +296,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "War Cart",
+		"name": "Heavy Chariot",
 		"unitType": "Mounted",
 		"uniqueTo": "The Hittites",
 		"replaces": "War Chariot",

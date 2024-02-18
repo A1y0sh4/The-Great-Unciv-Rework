@@ -1568,7 +1568,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "So this is how it feels to die...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [	82, 70, 55],
+		"innerColor": [99, 88, 75],
 		"cities": ["Nok"]
 	},
 	{
@@ -1739,7 +1739,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [39,58,125],
+		"innerColor": [71,87,144],
 		"cities": ["Reykjavik"]
 	},
 	{
@@ -1996,7 +1996,7 @@
 	{
 		"name": "Akkad",
 		"adjective": ["Akkadian"],
-		"cityStateType": "Militarist",
+		"cityStateType": "Militaristic",
 		"startBias": ["Flood plains"],
 
 		"declaringWar": "I will enjoy hearing your last breath as you witness the destruction of your realm!",

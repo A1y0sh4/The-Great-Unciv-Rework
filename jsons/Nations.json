@@ -1275,8 +1275,8 @@
 		"startBias": ["Flood plains"],
 		"preferredVictoryType": "Diplomatic",
 
-		"startIntroPart1": " ",
-		"startIntroPart2": " ",
+		"startIntroPart1": "Blessings of the heaven be upon you, oh mighty Gilgamesh, the legendary god-king of the Sumer nation. The stories of your life amaze the world to this day. After your death, the gods welcomed you as one of their kind.",
+		"startIntroPart2": "O great Gilgamesh, builder of the Sumer might, your people seek your guidance! Will you descend from the heavens to astonish the world with your incredible deeds once again? Will you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "Prepare for war!",
 		"attacked": "You shall regret this!",

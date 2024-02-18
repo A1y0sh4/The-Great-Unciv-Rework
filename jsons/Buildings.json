@@ -770,7 +770,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredNearbyImprovedResources": ["Copper", "Iron", "Gold Ore", "Silver"],
-		"requiredTech": "Mining",
+		"requiredTech": "Bronze Working",
 		"uniques": ["[+25]% Production when constructing [Sword] units [in this city]",
 			    "[+1 Production] from [Copper] tiles [in this city]",
 		            "[+1 Production] from [Iron] tiles [in this city]",

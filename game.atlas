@@ -725,7 +725,7 @@ UnitIcons/Voi Chien
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/War Cart
+UnitIcons/Heavy Chariot
   rotate: false
   xy: 868, 472
   size: 100, 100

@@ -761,6 +761,22 @@
 		"requiredTech": "Metal Casting",
 		"uniques": ["[+25]% Production when constructing [Sword] units [in this city]",
 			"[+1 Production] from [Iron] tiles [in this city]"]
+		
+	},
+        {
+		"name": "Smithy",
+		"replaces": "Forge",
+		"uniqueTo": "The Hittites",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredNearbyImprovedResources": ["Copper", "Iron", "Gold Ore", "Silver"],
+		"requiredTech": "Mining",
+		"uniques": ["[+25]% Production when constructing [Sword] units [in this city]",
+			    "[+1 Production] from [Copper] tiles [in this city]",
+		            "[+1 Production] from [Iron] tiles [in this city]",
+		            "[+1 Production] from [Gold Ore] tiles [in this city]",
+		            "[+1 Production] from [Silver] tiles [in this city]"]
+		
 	},
 	// Column 6
 	{

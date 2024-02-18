@@ -1520,7 +1520,7 @@
 			"Mthatha","Maseru","Lobamba","Qunu"]
 	},
 
-	// City-States sorted by cityStateType, name
+	// City-States
 	{
 		"name": "Brussels",
 		"adjective": ["Bruxellois"],
@@ -2124,7 +2124,6 @@
 		"innerColor": [198,255,192],
 		"cities": ["Jerusalem"]
 	},
-	
 	{
 		"name": "Yerevan",
 		"adjective": ["Armenian"],

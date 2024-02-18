@@ -259,7 +259,7 @@
 		"upgradesTo": "Horseman",
 		"obsoleteTech": "Horseback Riding",
 		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>"],
-		"attackSound": "nonmetalhit"
+		"attackSound": "metalhit"
 	},
 	{
 		"name": "Horde",
@@ -298,15 +298,18 @@
 	{
 		"name": "War Cart",
 		"unitType": "Mounted",
-		"uniqueTo": "Sumeria",
+		"uniqueTo": "The Hittites",
 		"replaces": "War Chariot",
 		"movement": 4,
 		"strength": 11,
-		"cost": 50,
+		"cost": 60,
+		"requiredTech": "The Wheel",
+		"requiredResource": "Horses",
 		"upgradesTo": "Horseman",
 		"obsoleteTech": "Horseback Riding",
-		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "Ignores Zone of Control"],
-		"attackSound": "nonmetalhit"
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>"],
+		"promotions": ["Charge"],
+		"attackSound": "metalhit"
 	},
 	{
 		"name": "Horse Archer",
@@ -352,6 +355,20 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Aga-ush",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Sumeria",
+		"movement": 2,
+		"strength": 11,
+		"cost": 35,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+10]% Strength <when adjacent to a [Aga-ush] unit>"],
 		"attackSound": "metalhit"
 	},
 	{

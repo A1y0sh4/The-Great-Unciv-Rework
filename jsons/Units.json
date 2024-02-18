@@ -302,7 +302,7 @@
 		"replaces": "War Chariot",
 		"movement": 4,
 		"strength": 11,
-		"cost": 60,
+		"cost": 55,
 		"requiredTech": "The Wheel",
 		"requiredResource": "Horses",
 		"upgradesTo": "Horseman",

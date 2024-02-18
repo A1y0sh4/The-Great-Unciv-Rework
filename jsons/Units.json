@@ -648,7 +648,7 @@
 		"strength": 16,
 		"cost": 85,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can move immediately once bought", "[+25]% Strength <vs [City-State] units>", "-75% [Gold] purchase cost"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can move immediately once bought", "[+25]% Strength <vs [City-State] units>"],
 		"promotions":["Mercenary"],
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",

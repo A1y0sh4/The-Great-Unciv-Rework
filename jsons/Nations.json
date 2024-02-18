@@ -1623,6 +1623,32 @@
 		"innerColor": [211, 220, 103],
 		"cities": ["Kumasi"]
 	},
+	{
+		"name": "Prague",
+		"adjective": ["Czech"],
+		"cityStateType": "Cultured",
+                "startBias": ["Hill","Grassland"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [247, 0, 207],
+		"cities": ["Prague"]
+	},
+	{
+		"name": "Minsk",
+		"adjective": ["Belarusian"],
+		"cityStateType": "Cultured",
+		"startBias": ["Forest","Grassland"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [116,55,250],
+		"cities": ["Minsk"]
+	},
 	
 
 	{
@@ -1704,17 +1730,17 @@
 		"cities": ["Mogadishu"]
 	},
 	{
-		"name": "Akkad",
-		"adjective": ["Akkadian"],
+		"name": "Reykjavik",
+		"adjective": ["Icelandic"],
 		"cityStateType": "Maritime",
-		"startBias": ["Flood plains"],
+		"startBias": ["Tundra"],
 
-		"declaringWar": "I will enjoy hearing your last breath as you witness the destruction of your realm!",
-		"attacked": "Why do we fight? Because Inanna demands it. Now, witness the power of the Sumerians!",
-		"defeated": "What treachery has struck us? No, what evil?",
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [255,69,0],
-		"cities": ["Akkad"]
+		"innerColor": [39,58,125],
+		"cities": ["Reykjavik"]
 	},
 	{
 		"name": "Santiago de Chile",
@@ -1741,6 +1767,19 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [45,255,86],
 		"cities": ["Auckland"]
+	},
+	{
+		"name": "Vilnius",
+		"adjective": ["Lithuanian"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [120,150,250],
+		"cities": ["Vilnius"]
 	},
 
 	
@@ -1887,6 +1926,58 @@
 		"innerColor": [27,90,192],
 		"cities": ["Fez"]
 	},
+	{
+		"name": "Zurich",
+		"adjective": ["Swiss"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Lake","Mountain"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [80, 170, 200],
+		"cities": ["Zurich"]
+	},
+        {
+		"name": "Antananarivo",
+		"adjective": ["Antananarivian"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Jungle"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [217, 250, 70],
+		"cities": ["Antananarivo"]
+	},
+        {
+		"name": "Hong Kong",
+		"adjective": ["Hong Kong"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "They will write songs of this.... pray that they shall be in your favor.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [144, 173, 14],
+		"cities": ["Hong Kong"]
+	},
+	{
+		"name": "Malacca",
+		"adjective": ["Malacca"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [81, 140, 3],
+		"cities": ["Malacca"]
+	},
 
 	
 	{
@@ -1901,6 +1992,19 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [152,0,241],
 		"cities": ["Almaty"]
+	},
+	{
+		"name": "Akkad",
+		"adjective": ["Akkadian"],
+		"cityStateType": "Militarist",
+		"startBias": ["Flood plains"],
+
+		"declaringWar": "I will enjoy hearing your last breath as you witness the destruction of your realm!",
+		"attacked": "Why do we fight? Because Inanna demands it. Now, witness the power of the Sumerians!",
+		"defeated": "What treachery has struck us? No, what evil?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,69,0],
+		"cities": ["Akkad"]
 	},
 	{
 		"name": "Kabul",
@@ -1927,34 +2031,6 @@
 		"innerColor": [211,180,113],
 		"cities": ["Belgrade"]
 	},
-/*
-	{
-		"name": "Dublin",
-		"adjective": ["Dubliner"],
-		"cityStateType": "Militaristic",
-		"startBias": ["Coast"],
-
-		"declaringWar": "War lingers in our hearts. Why carry on with a false peace?",
-		"attacked": "You gormless radger! You'll dine on your own teeth before you set foot in Ireland!",
-		"defeated": "A lonely wind blows through the highlands today. A dirge for Ireland. Can you hear it?",
-		"outerColor": [0, 0, 0],
-		"innerColor": [211,180,113],
-		"cities": ["Dublin"]
-	},
-	{
-		"name": "Edinburgh",
-		"adjective": ["Edinburghensian"],
-		"cityStateType": "Militaristic",
-		"startBias": ["Hill"],
-
-		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen - we ride to war!",
-		"attacked": "Traitorous man! The Celtic peoples will not stand for such wanton abuse and slander - I shall have your head!",
-		"defeated": "Vile ruler, know that you 'won' this war in name only!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [0,102,102],
-		"cities": ["Edinburgh"]
-	},
-*/
 	{
 		"name": "M'Banza-Kongo",
 		"adjective": ["M'Banza-Kongo"],
@@ -1980,6 +2056,19 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,102,102],
 		"cities": ["Valletta"]
+	},
+	{
+		"name": "Kazan",
+		"adjective": ["Tatar"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [180,160,255],
+		"cities": ["Kazan"]
 	},
 
 	
@@ -2035,34 +2124,7 @@
 		"innerColor": [198,255,192],
 		"cities": ["Jerusalem"]
 	},
-	/*
-	{
-		"name": "Krakow",
-		"adjective": ["Polish"],
-		"cityStateType": "Militaristic",
-		"startBias": ["Forest","Grassland"],
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "How could we fall to the likes of you?!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [242, 92, 58],
-		"cities": ["Krakow"]
-	},
-	*/
-	{
-		"name": "Kazan",
-		"adjective": ["Tatar"],
-		"cityStateType": "Militaristic",
-		"startBias": ["Grassland"],
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "How could we fall to the likes of you?!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [180,160,255],
-		"cities": ["Kazan"]
-	},
+	
 	{
 		"name": "Yerevan",
 		"adjective": ["Armenian"],
@@ -2076,110 +2138,6 @@
 		"innerColor": [174, 194, 185],
 		"cities": ["Yerevan"]
 	},
-	{
-		"name": "Minsk",
-		"adjective": ["Belarusian"],
-		"cityStateType": "Cultured",
-		"startBias": ["Forest","Grassland"],
-		
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Unacceptable!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [116,55,250],
-		"cities": ["Minsk"]
-	},
-	{
-		"name": "Vilnius",
-		"adjective": ["Lithuanian"],
-		"cityStateType": "Maritime",
-		"startBias": ["Coast"],
-		
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Unacceptable!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [120,150,250],
-		"cities": ["Vilnius"]
-	},
-	{
-		"name": "Zurich",
-		"adjective": ["Swiss"],
-		"cityStateType": "Mercantile",
-		"startBias": ["Lake","Mountain"],
-		
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Unacceptable!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [80, 170, 200],
-		"cities": ["Zurich"]
-	},
-        {
-		"name": "Prague",
-		"adjective": ["Czech"],
-		"cityStateType": "Cultured",
-                "startBias": ["Hill","Grassland"],
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "How could we fall to the likes of you?!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [247, 0, 207],
-		"cities": ["Prague"]
-	},
-        {
-		"name": "Antananarivo",
-		"adjective": ["Antananarivian"],
-		"cityStateType": "Mercantile",
-		"startBias": ["Jungle"],
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [217, 250, 70],
-		"cities": ["Antananarivo"]
-	},
-        {
-		"name": "Hong Kong",
-		"adjective": ["Hong Kong"],
-		"cityStateType": "Mercantile",
-		"startBias": ["Coast"],
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "They will write songs of this.... pray that they shall be in your favor.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [144, 173, 14],
-		"cities": ["Hong Kong"]
-	},
-	{
-		"name": "Malacca",
-		"adjective": ["Malacca"],
-		"cityStateType": "Mercantile",
-		"startBias": ["Coast"],
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [81, 140, 3],
-		"cities": ["Malacca"]
-	},
-
-      //{
-      //	"name": "Vatican City",
-      //	"adjective": ["Vatican"],
-      //	"cityStateType": "Religious",
-      //
-      //	"declaringWar": "You leave us no choice. War it must be.",
-      //	"attacked": "Very well, this shall not be forgotten.",
-      //	"defeated": "We... defeated? No... we had so much work to do!",
-      //	"outerColor": [0, 0, 0],
-      //	"innerColor": [224, 222, 188],
-      //	"cities": ["Vatican City"]
-      //},
 
 	//Barbarian
 	{

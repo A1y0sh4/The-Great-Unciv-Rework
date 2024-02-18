@@ -1341,7 +1341,7 @@
 
 		"outerColor": [	172, 142, 97],
 		"innerColor": [	71, 6, 23],
-		"uniqueName": "Gifts From the Storm God",
+		"uniqueName": "Gifts From the Storm Gods",
 		"uniqueText": "Gain 2 amounts of the Strategic resources you have revealed\n+1 [Happiness], +2 [Gold] from each type of Strategic resource",
 		"uniques": ["Provides [2] [Horses] <after discovering [Animal Husbandry]>", "Provides [2] [Iron] <after discovering [Iron Working]>", "Provides [2] [Coal] <after discovering [Industrialization]>", "Provides [2] [Oil] <after discovering [Biology]>", "Provides [2] [Aluminum] <after discovering [Electricity]>", "Provides [2] [Uranium] <after discovering [Atomic Theory]>", "[+1 Happiness, +2 Gold] <with [Horses]>", "[+1 Happiness, +2 Gold] <with [Iron]>", "[+1 Happiness, +2 Gold] <with [Coal]>", "[+1 Happiness, +2 Gold] <with [Oil]>", "[+1 Happiness, +2 Gold] <with [Aluminum]>", "[+1 Happiness, +2 Gold] <with [Uranium]>"],
 		"cities": ["Hattusa","Nesa","Kussara","Samuha","Tarhuntassa","Kadesh","Lusna","Alalah","Halab","Tunip","Kadesh",

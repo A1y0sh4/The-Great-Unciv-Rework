@@ -706,5 +706,17 @@
 		"unbuildable": true,
 		"uniques": ["Fresh water", "Must be adjacent to [0] [Coast] tiles", "Tile provides yield without assigned population"],
 		"weight": 15
+	},
+	{
+		"name": "Lake Hiller",
+		"type": "NaturalWonder",
+		"food": 1,
+		"culture": 1,
+		"faith": 2,
+		"occursOn": ["Plains"],
+		"turnsInto": "Plains",
+		"unbuildable": true,
+		"uniques": ["Must be adjacent to [0] [Coast] tiles", "Tile provides yield without assigned population"],
+		"weight": 15
 	}
 ]

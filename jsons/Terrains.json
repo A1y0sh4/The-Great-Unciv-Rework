@@ -316,6 +316,20 @@
 		"weight": 10
 	},
 	{
+		"name": "Great Blue Hole",
+		"type": "NaturalWonder",
+		"production": 1,
+		"science": 2,
+		"culture": 1,
+		"occursOn": ["Coast"],
+		"uniques": ["Must be adjacent to [1] to [2] [Jungle] tiles",
+			    "Tile provides yield without assigned population"],
+		"turnsInto": "Coast",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
 		"name": "Lake Baikal",
 		"type": "NaturalWonder",
 		"food": 2,
@@ -555,7 +569,6 @@
 		"food": 2,
 		"occursOn": ["Tundra"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
-			"Must be adjacent to [0] [Tundra] tiles",
 			"Must be adjacent to [0] [Desert] tiles",
 			"Must be adjacent to [0] [Mountain] tiles",
 			"Must be adjacent to [0] [Marsh] tiles",

@@ -363,6 +363,23 @@
 		"weight": 10
 	},
 	{
+		"name": "Vinicunca",
+		"type": "NaturalWonder",
+		"food": 2,
+		"production": 2,
+		"culture": 1,
+		"occursOn": ["Grassland", "Mountain"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [1] to [3] [Mountain] tiles",
+			"Must be adjacent to [2] to [4] [Elevated] tiles",
+			"Must be adjacent to [1] to [3] [Jungle] tiles",
+			"Tile provides yield without assigned population"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
 		"name": "El Dorado",
 		"type": "NaturalWonder",
 		"culture": 5,

@@ -303,11 +303,21 @@
 		"name": "Coral Reef",
 		"type": "TerrainFeature",
 		"movementCost": 2,
-		"food": 1,
+		"production": 1,
 		"science": 1,
 		"defenceBonus": 0.1,
 		"occursOn": ["Coast"],
-		"uniques": ["Rare feature", "Occurs on latitudes from [10] to [70] percent of distance equator to pole",
+		"uniques": ["Rare feature", "Occurs on latitudes from [0] to [70] percent of distance equator to pole",
+			"Occurs in groups of [1] to [2] tiles"]
+	},
+	{
+		"name": "Kelp Forest",
+		"type": "TerrainFeature",
+		"movementCost": 1,
+		"food": 1,
+		"science": 1,
+		"occursOn": ["Coast"],
+		"uniques": ["Rare feature", "Occurs on latitudes from [60] to [90] percent of distance equator to pole",
 			"Occurs in groups of [1] to [2] tiles"]
 	},
 	// Natural Wonders

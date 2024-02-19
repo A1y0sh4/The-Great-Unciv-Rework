@@ -326,7 +326,7 @@
 		"name": "Ziggurat",
 		"type": "Improvement",
 		"uniqueTo": "Sumeria",
-		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert"],
+		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Flood plains"],
 		"turnsToBuild": 8,
 		"uniques": ["Improvement", "Cannot be built on [Resource] tiles",
 			"[+1 Food, +1 Faith] for each adjacent [City center]"

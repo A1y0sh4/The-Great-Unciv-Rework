@@ -1290,7 +1290,7 @@
 		"innerColor": [229,118,95],
 		
 		"uniqueName": "Adventures of Enkidu",
-		"uniques": ["Earn [100]% of killed [Barbarian] unit's [Strength] as [Culture]", "[+50]% XP gained from combat <for [Military] units> <when adjacent to a [City-State] unit>", "[+10]% Strength <for [Military] units> <when adjacent to a [City-State] unit>"],
+		"uniques": ["Earn [100]% of killed [Barbarian] unit's [Strength] as [Culture]", "[+50]% XP gained from combat <for [Military] units> <when adjacent to a [City-States] unit>", "[+10]% Strength <for [Military] units> <when adjacent to a [City-States] unit>"],
 		"cities": ["Uruk","Kish","Ur","Eridu","Umma","Lagash","Sippar","Akshak","Larak","Bad-Tibira","Larsa","Isin","Shruppak","Nibru","Hamazi","Girsu","Jemdet Nasr","Nina"]
 	},
 	{

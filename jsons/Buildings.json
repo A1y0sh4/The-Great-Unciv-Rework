@@ -1338,7 +1338,7 @@
 		"name": "Manhattan Project",
 		"isNationalWonder": true,
 		"culture": 1,
-		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion"],
+		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>"],
 		"requiredTech": "Atomic Theory"
 	},
 	{

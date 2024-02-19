@@ -296,7 +296,7 @@
 		"food": 1,
 		"production": 1,
 		"occursOn": ["Coast", "Ocean"],
-		"uniques": ["Rare feature", "Must be adjacent to [1] to [6] [Coast] tiles",],
+		"uniques": ["Rare feature", "Must be adjacent to [3] to [6] [Coast] tiles",],
 		"turnsInto": "Coast"
 	},
 	{

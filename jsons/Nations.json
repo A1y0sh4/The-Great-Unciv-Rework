@@ -27,7 +27,7 @@
 		"innerColor": [255, 255, 255],
 		
 		"uniqueName": "Manifest Destiny",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Science] <within [1] tiles of a [Friendly Land]>", "[-50]% Gold cost of acquiring tiles [in all cities]"],
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Science] <within [2] tiles of a [Friendly Land]>", "[-50]% Gold cost of acquiring tiles [in all cities]"],
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
 			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
@@ -192,7 +192,7 @@
 		"innerColor": [134,238,214],
 
 		"uniqueName": "Sacrificial Captives",
-		"uniques": ["[+1] Happiness from each type of luxury resource <when at war>", "Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
+		"uniques": ["[+1] Happiness from each type of luxury resource <when at war>", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
 		"cities": ["Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
 			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
 			"Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac",
@@ -452,7 +452,7 @@
 		"outerColor": [ 231, 213, 0],
 		"innerColor": [98,10,210],
 		"uniqueName": "Monument Builders",
-		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities] <before the [Medieval era]>", "[+2 Culture, +2 Gold] from every [World Wonder] <after discovering [Archaeology]>"],
+		"uniques": ["[+50]% Production when constructing [All] wonders [in all cities] <during the [Ancient era]>", "[+2 Culture, +2 Gold] from every [World Wonder] <after discovering [Archaeology]>"],
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
@@ -602,7 +602,7 @@
 		"outerColor": [150,150,150],
 		"innerColor": [60,60,60],
 		"uniqueName": "Iron and Blood",
-		"uniques": ["[+15]% [Science] [in all cities] <when at war>", "[-25]% maintenance costs <for [Military] units>", "[+10]% Strength <for [Military] units> <when attacking>"],
+		"uniques": ["[-25]% maintenance costs <for [Military] units>", "[+10]% Strength <for [Military] units> <when attacking>", "[+15]% [Science] [in all cities] <when at war>"],
 		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Dusseldorf","Bremen",
 			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
 			"Munster","Rostok","Chemnitz","Braunschweig","Halle","Mצnchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
@@ -789,7 +789,7 @@
 		"innerColor": [167,52,31],
 		
 		"uniqueName": "Great Nusantara",
-		"uniques": ["Earn [100]% of killed [{Military} {Water}] unit's [Strength] as [Faith]", "May buy [Water] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>", "[+1 Faith] from every [Fishing Boats]"],
+		"uniques": ["Earn [50]% of killed [{Military} {Water}] unit's [Strength] as [Faith]", "May buy [Water] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>", "[+1 Faith] from every [Fishing Boats]"],
 		"cities": ["Jakarta","Surabaya","Medan","Makassar","Batam","Denpasar","Samarinda","Mataram","Ambon","Bandung",
 			"Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung",
 			"Malang","Padang","Ternate","Banjarmasin","Pontianak","Cimahi","Balikpapan","Jambi","Komodo","Solo",
@@ -1513,7 +1513,7 @@
 		"innerColor": [116,55,25],
 		
 		"uniqueName": "Iklwa",
-		"uniques": ["[+5] HP when healing <for [{Military} {Land}] units>", "[+25]% XP gained from combat <for [Military] units>", "[-50]% maintenance costs <for [Sword] units>"],
+		"uniques": ["[+5] HP when healing <for [{Military} {Land}] units>", "[+25]% XP gained from combat <for [{Military} {Land}] units>", "[-50]% maintenance costs <for [Sword] units>"],
 		"cities": ["Ulundi","Umgungundlovu","Bulawayo","KwaDukuza","Nongoma","oNdini","Nodwengu","Ndonakusuka","Babanango","Khangela",
 			"KwaHlomendlini","Hlobane","eThekwini","Mlambongwenya","Eziqwaqweni","Isiphezi","Masotsheni","Mtunzini","Nyakamubi","Dumazulu",
 			"Hlatikulu","Mthonjaneni","Empangeni","Pongola","Tugela","Kwamashu","Ingwavuma","Hlulhluwe","Matubatuba","Mhlahlandlela",

@@ -1401,8 +1401,8 @@
 		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
 		"hateYes": ["Oh… Fine, okay."],
 		
-		"outerColor": [198,141,99], // color picker: cf9f75
-		"innerColor": [24,63,66], // color picker: 1f4a4d
+		"outerColor": [198,141,99],
+		"innerColor": [24,63,66],
 
 		"uniqueName": "The Long Count",
 		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Philosophy]. Each bonus person can only be chosen once.",

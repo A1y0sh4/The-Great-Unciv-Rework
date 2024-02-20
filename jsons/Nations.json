@@ -1899,6 +1899,19 @@
 		"cities": ["Auckland"]
 	},
 	{
+		"name": "Muscat",
+		"adjective": ["Omani"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [45,155,86],
+		"cities": ["Muscat"]
+	},
+	{
 		"name": "Vilnius",
 		"adjective": ["Lithuanian"],
 		"cityStateType": "Maritime",

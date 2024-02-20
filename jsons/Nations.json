@@ -1925,8 +1925,8 @@
 		"cities": ["Vilnius"]
 	},
 	{
-		"name": "Vilnius",
-		"adjective": ["Lithuanian"],
+		"name": "Phaistos",
+		"adjective": ["Minoan"],
 		"cityStateType": "Maritime",
 		"startBias": ["Coast"],
 		
@@ -1934,8 +1934,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [120,150,250],
-		"cities": ["Vilnius"]
+		"innerColor": [120,150,50],
+		"cities": ["Phaistos"]
 	},
 
 	

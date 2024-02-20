@@ -2241,6 +2241,19 @@
 		"innerColor": [174, 194, 185],
 		"cities": ["Yerevan"]
 	},
+	{
+		"name": "Cahuachi",
+		"adjective": ["Nazcan"],
+		"cityStateType": "Religious",
+		"startBias": ["Hill","Grassland"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [174, 154, 185],
+		"cities": ["Cahuachi"]
+	},
 
 	//Barbarian
 	{

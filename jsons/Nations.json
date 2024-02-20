@@ -2070,17 +2070,17 @@
 		"cities": ["Zanzibar"]
 	},
 	{
-		"name": "Fez",
-		"adjective": ["Moroccan"],
+		"name": "Bandar Brunei",
+		"adjective": ["Bruneian"],
 		"cityStateType": "Mercantile",
-		"startBias": ["Desert"],
+		"startBias": ["Coast"],
 
 		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
 		"attacked": "Very well, we will kick you back to the ancient era!",
 		"defeated": "This isn't how it is supposed to be!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [27,90,192],
-		"cities": ["Fez"]
+		"cities": ["Bandar Brunei"]
 	},
 	{
 		"name": "Zurich",
@@ -2368,6 +2368,19 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,255,255],
 		"cities": ["Bratislava"]
+	},
+	{
+		"name": "Fez",
+		"adjective": ["Moroccan"],
+		"cityStateType": "Religious",
+		"startBias": ["Desert"],
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [150,90,192],
+		"cities": ["Fez"]
 	},
 	{
 		"name": "Cahokia",

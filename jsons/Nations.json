@@ -2330,6 +2330,19 @@
 		"cities": ["Warxox"]
 	},
 	{
+		"name": "Oyo",
+		"adjective": ["Yoruba"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,0,102],
+		"cities": ["Oyo"]
+	},
+	{
 		"name": "Kazan",
 		"adjective": ["Tatar"],
 		"cityStateType": "Militaristic",

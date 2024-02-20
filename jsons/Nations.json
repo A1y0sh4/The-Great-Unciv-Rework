@@ -2187,6 +2187,19 @@
 		"cities": ["M'Banza-Kongo"]
 	},
 	{
+		"name": "Bibracte",
+		"adjective": ["Gallic"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Forest"],
+
+		"declaringWar": "I have bested many enemies in war before, and finally I shall match my strength against yours!",
+		"attacked": "Peace is stifling. Only in war can we see who is the greater chief.",
+		"defeated": "Such power! Perhaps I underestimated you before.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [55,128,0],
+		"cities": ["Bibracte"]
+	},
+	{
 		"name": "Valletta",
 		"adjective": ["maltese"],
 		"cityStateType": "Militaristic",

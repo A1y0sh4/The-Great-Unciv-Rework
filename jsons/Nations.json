@@ -2056,6 +2056,19 @@
 		"innerColor": [81, 140, 3],
 		"cities": ["Malacca"]
 	},
+	{
+		"name": "Ragusa",
+		"adjective": ["Croatian"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [181, 140, 3],
+		"cities": ["Ragusa"]
+	},
 
 	
 	{
@@ -2070,6 +2083,19 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [152,0,241],
 		"cities": ["Almaty"]
+	},
+	{
+		"name": "Nassau",
+		"adjective": ["Bahamian"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [52,0,241],
+		"cities": ["Nassau"]
 	},
 	{
 		"name": "Akkad",

@@ -1573,6 +1573,32 @@
 		"cities": ["Mohenjo-Daro"]
 	},
 	{
+		"name": "Monrovia",
+		"adjective": ["Liberian"],
+		"cityStateType": "Cultured",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [123,235,161],
+		"cities": ["Monrovia"]
+	},
+	{
+		"name": "Nuuk",
+		"adjective": ["Greenlandic"],
+		"cityStateType": "Cultured",
+		"startBias": ["Tundra"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [123,135,261],
+		"cities": ["Nuuk"]
+	},
+	{
 		"name": "Florence",
 		"adjective": ["Florentine"],
 		"cityStateType": "Cultured",

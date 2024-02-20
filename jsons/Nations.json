@@ -2111,6 +2111,19 @@
 		"cities": ["Nassau"]
 	},
 	{
+		"name": "Ngazargamu",
+		"adjective": ["Bornu"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Lakes"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [52,0,141],
+		"cities": ["Ngazargamu"]
+	},
+	{
 		"name": "Akkad",
 		"adjective": ["Akkadian"],
 		"cityStateType": "Militaristic",

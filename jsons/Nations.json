@@ -1834,6 +1834,19 @@
 		"cities": ["Mogadishu"]
 	},
 	{
+		"name": "Sofala",
+		"adjective": ["Mozambican"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Congratulations, conqueror. This tribe serves you now.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [24,224,224],
+		"cities": ["Sofala"]
+	},
+	{
 		"name": "Reykjavik",
 		"adjective": ["Icelandic"],
 		"cityStateType": "Maritime",

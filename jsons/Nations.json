@@ -1637,6 +1637,19 @@
 		"cities": ["Nok"]
 	},
 	{
+		"name": "Garama",
+		"adjective": ["Garamantes"],
+		"cityStateType": "Cultured",
+		"startBias": ["Desert"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "So this is how it feels to die...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [99, 188, 75],
+		"cities": ["Garama"]
+	},
+	{
 		"name": "Kuala Lumpur",
 		"adjective": ["KLite"],
 		"cityStateType": "Maritime",

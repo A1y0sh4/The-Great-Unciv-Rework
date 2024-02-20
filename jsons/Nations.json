@@ -2409,6 +2409,19 @@
 		"cities": ["Lhasa"]
 	},
 	 {
+		"name": "Rapa Nui",
+		"adjective": ["Rapa Nui"],
+		"cityStateType": "Religious",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps now we will find peace in death...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [204,102,255],
+		"cities": ["Rapa Nui"]
+	},
+	 {
 		"name": "Bagan",
 		"adjective": ["Bagan"],
 		"cityStateType": "Religious",

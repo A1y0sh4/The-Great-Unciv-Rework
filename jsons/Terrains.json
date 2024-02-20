@@ -324,8 +324,8 @@
 	{
 		"name": "Great Barrier Reef",
 		"type": "NaturalWonder",
-		"food": 1,
-		"science": 1,
+		"culture": 1,
+		"science": 2,
 		"occursOn": ["Ocean"],
 		"uniques": ["Must be adjacent to [1] to [6] [Coast] tiles",
 			"Must be adjacent to [6] [Water] tiles",
@@ -339,8 +339,7 @@
 	{
 		"name": "Great Blue Hole",
 		"type": "NaturalWonder",
-		"production": 1,
-		"science": 2,
+		"science": 3,
 		"culture": 1,
 		"occursOn": ["Coast"],
 		"uniques": ["Must be adjacent to [1] to [2] [Jungle] tiles",

@@ -2332,7 +2332,6 @@
 	},
         {
 		"name": "Lhasa",
-		"translatedName": "Lhasa",
 		"adjective": ["tibetano"],
 		"cityStateType": "Religious",
 		"startBias": ["Mountain"],
@@ -2343,6 +2342,19 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [204,102,0],
 		"cities": ["Lhasa"]
+	},
+	{
+		"name": "Baghdad",
+		"adjective": ["Iraqi"],
+		"cityStateType": "Religious",
+		"startBias": ["Mountain"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps now we will find peace in death...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [24,102,0],
+		"cities": ["Baghdad"]
 	},
 	{
 		"name": "Jerusalem",

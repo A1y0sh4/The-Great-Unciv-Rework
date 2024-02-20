@@ -1652,7 +1652,7 @@
 	{
 		"name": "Kuala Lumpur",
 		"adjective": ["KLite"],
-		"cityStateType": "Maritime",
+		"cityStateType": "Cultured",
 		"startBias": ["Coast"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1754,6 +1754,32 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,153,153],
 		"cities": ["Cape Town"]
+	},
+	{
+		"name": "Massalia",
+		"adjective": ["Massalian"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I have failed. May you, at least, know compassion towards our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [155,153,103],
+		"cities": ["Massalia"]
+	},
+	{
+		"name": "Tripoli",
+		"adjective": ["Libyan"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I have failed. May you, at least, know compassion towards our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [55,153,103],
+		"cities": ["Tripoli"]
 	},
 	{
 		"name": "Helsinki",

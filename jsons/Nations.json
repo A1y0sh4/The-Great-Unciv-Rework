@@ -1834,6 +1834,19 @@
 		"cities": ["Santiago de Chile"]
 	},
 	{
+		"name": "Ragusa",
+		"adjective": ["Croatian"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [181, 100, 3],
+		"cities": ["Ragusa"]
+	},
+	{
 		"name": "Auckland",
 		"adjective": ["New Zelandian"],
 		"cityStateType": "Maritime",
@@ -2057,17 +2070,17 @@
 		"cities": ["Malacca"]
 	},
 	{
-		"name": "Ragusa",
-		"adjective": ["Croatian"],
+		"name": "Samarkand",
+		"adjective": ["Timurid"],
 		"cityStateType": "Mercantile",
-		"startBias": ["Coast"],
+		"startBias": ["Desert"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
-		"innerColor": [181, 140, 3],
-		"cities": ["Ragusa"]
+		"innerColor": [201, 140, 3],
+		"cities": ["Samarkand"]
 	},
 
 	

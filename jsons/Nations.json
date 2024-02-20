@@ -2215,6 +2215,19 @@
 		"cities": ["Kabul"]
 	},
 	{
+		"name": "Rouen",
+		"adjective": ["Normans"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [168, 238, 102],
+		"cities": ["Rouen"]
+	},
+	{
 		"name": "Belgrade",
 		"adjective": ["Belgrade"],
 		"cityStateType": "Militaristic",

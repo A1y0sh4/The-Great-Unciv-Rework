@@ -2347,7 +2347,7 @@
 		"name": "Baghdad",
 		"adjective": ["Iraqi"],
 		"cityStateType": "Religious",
-		"startBias": ["Mountain"],
+		"startBias": ["Flood plains"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",

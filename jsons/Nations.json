@@ -2136,6 +2136,18 @@
 		"cities": ["Belgrade"]
 	},
 	{
+		"name": "Preslav",
+		"adjective": ["Bulgarian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [211,80,113],
+		"cities": ["Preslav"]
+	},
+	{
 		"name": "M'Banza-Kongo",
 		"adjective": ["M'Banza-Kongo"],
 		"cityStateType": "Militaristic",

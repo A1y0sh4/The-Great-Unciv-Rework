@@ -2201,6 +2201,19 @@
 		"innerColor": [203, 253, 232],
 		"cities": ["Cahokia"]
 	},
+	{
+		"name": "Kandy",
+		"adjective": ["Sri Lankan"],
+		"cityStateType": "Religious",
+		"startBias": ["Coast"],
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [203, 153, 232],
+		"cities": ["Kandy"]
+	},
         {
 		"name": "Lhasa",
 		"translatedName": "Lhasa",
@@ -2229,6 +2242,19 @@
 		"cities": ["Jerusalem"]
 	},
 	{
+		"name": "Chinguetti",
+		"adjective": ["Berber"],
+		"cityStateType": "Religious",
+		"startBias": ["Desert"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps now we will find peace in death...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [198,155,192],
+		"cities": ["Chinguetti"]
+	},
+	{
 		"name": "Yerevan",
 		"adjective": ["Armenian"],
 		"cityStateType": "Religious",
@@ -2245,7 +2271,7 @@
 		"name": "Cahuachi",
 		"adjective": ["Nazcan"],
 		"cityStateType": "Religious",
-		"startBias": ["Hill","Grassland"],
+		"startBias": ["Desert"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",

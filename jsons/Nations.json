@@ -2216,7 +2216,7 @@
 	},
 	{
 		"name": "Rouen",
-		"adjective": ["Normans"],
+		"adjective": ["Norman"],
 		"cityStateType": "Militaristic",
 		"startBias": ["Coast"],
 
@@ -2250,6 +2250,19 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [211,80,113],
 		"cities": ["Preslav"]
+	},
+	{
+		"name": "Mwibele",
+		"adjective": ["Luba"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [211,80,0],
+		"cities": ["Mwibele"]
 	},
 	{
 		"name": "M'Banza-Kongo",

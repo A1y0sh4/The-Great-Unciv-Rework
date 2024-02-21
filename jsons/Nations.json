@@ -2172,7 +2172,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [52,0,241],
+		"innerColor": [92,51,243],
 		"cities": ["Nassau"]
 	},
 	{
@@ -2185,7 +2185,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [52,0,141],
+		"innerColor": [112,76,175],
 		"cities": ["Ngazargamu"]
 	},
 	{
@@ -2261,7 +2261,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [181,0,20],
+		"innerColor": [184,12,31],
 		"cities": ["Tlaxcala"]
 	},
 	{
@@ -2326,7 +2326,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [0,102,12],
+		"innerColor": [12,109,24],
 		"cities": ["Warxox"]
 	},
 	{
@@ -2339,7 +2339,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [0,0,102],
+		"innerColor": [89,89,155],
 		"cities": ["Oyo"]
 	},
 	{
@@ -2483,7 +2483,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps now we will find peace in death...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [24,102,0],
+		"innerColor": [35,109,12],
 		"cities": ["Baghdad"]
 	},
 	{

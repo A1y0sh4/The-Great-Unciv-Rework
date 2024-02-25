@@ -1937,6 +1937,32 @@
 		"innerColor": [120,150,50],
 		"cities": ["Knossos"]
 	},
+	{
+		"name": "Cyrene",
+		"adjective": ["Cyrenaic"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [120,50,50],
+		"cities": ["Cyrene"]
+	},
+	{
+		"name": "Saguntum",
+		"adjective": ["Saguntian"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [20,50,150],
+		"cities": ["Saguntum"]
+	},
 
 	
 	{

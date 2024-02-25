@@ -2215,6 +2215,19 @@
 		"cities": ["Ngazargamu"]
 	},
 	{
+		"name": "Washukanni",
+		"adjective": ["Hurrian"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Flood plains"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [112,76,75],
+		"cities": ["Washukanni"]
+	},
+	{
 		"name": "Akkad",
 		"adjective": ["Akkadian"],
 		"cityStateType": "Militaristic",

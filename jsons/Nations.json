@@ -2002,6 +2002,19 @@
 		"innerColor": [20,150,50],
 		"cities": ["Cirta"]
 	},
+	{
+		"name": "Igloolik",
+		"adjective": ["Inuit"],
+		"cityStateType": "Maritime",
+		"startBias": ["Tundra"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [200,200,200],
+		"cities": ["Igloolik"]
+	},
 
 	
 	{

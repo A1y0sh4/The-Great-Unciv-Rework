@@ -2251,6 +2251,19 @@
 		"innerColor": [201, 140, 203],
 		"cities": ["Timbuktu"]
 	},
+	{
+		"name": "Königsberg",
+		"adjective": ["Prussian"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [210, 240, 203],
+		"cities": ["Königsberg"]
+	},
 
 	
 	{

@@ -1727,6 +1727,32 @@
 		"innerColor": [116,55,250],
 		"cities": ["Minsk"]
 	},
+	{
+		"name": "Granada",
+		"adjective": ["Moor"],
+		"cityStateType": "Cultured",
+		"startBias": ["Grassland"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,25,0],
+		"cities": ["Granada"]
+	},
+	{
+		"name": "Bordeaux",
+		"adjective": ["Aquitaine"],
+		"cityStateType": "Cultured",
+		"startBias": ["Grape"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [116,55,0],
+		"cities": ["Bordeaux"]
+	},
 	
 
 	{
@@ -2198,6 +2224,19 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [201, 140, 103],
 		"cities": ["Antioch"]
+	},
+	{
+		"name": "Timbuktu",
+		"adjective": ["Malian"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Desert"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [201, 140, 203],
+		"cities": ["Timbuktu"]
 	},
 
 	

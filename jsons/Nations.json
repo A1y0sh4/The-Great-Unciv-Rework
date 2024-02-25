@@ -2228,6 +2228,32 @@
 		"cities": ["Washukanni"]
 	},
 	{
+		"name": "Gergovia",
+		"adjective": ["Gallic"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Hill"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [12,76,75],
+		"cities": ["Gergovia"]
+	},
+	{
+		"name": "Kalkriese",
+		"adjective": ["Cherushi"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Forest"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [12,176,75],
+		"cities": ["Kalkriese"]
+	},
+	{
 		"name": "Akkad",
 		"adjective": ["Akkadian"],
 		"cityStateType": "Militaristic",

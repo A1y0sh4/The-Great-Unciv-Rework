@@ -2267,6 +2267,19 @@
 		"cities": ["Kalkriese"]
 	},
 	{
+		"name": "Kermenchik",
+		"adjective": ["Scythian"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Plains"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [112,176,75],
+		"cities": ["Kermenchik"]
+	},
+	{
 		"name": "Akkad",
 		"adjective": ["Akkadian"],
 		"cityStateType": "Militaristic",

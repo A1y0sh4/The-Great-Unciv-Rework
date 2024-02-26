@@ -2785,6 +2785,32 @@
 		"innerColor": [174, 154, 15],
 		"cities": ["Wittenberg"]
 	},
+	{
+		"name": "Mobridge",
+		"adjective": ["Lakota"],
+		"cityStateType": "Religious",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [74, 154, 15],
+		"cities": ["Mobridge"]
+	},
+	{
+		"name": "Moson Kahni",
+		"adjective": ["Shoshone"],
+		"cityStateType": "Religious",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [74, 54, 15],
+		"cities": ["Moson Kahni"]
+	},
 
 	//Barbarian
 	{

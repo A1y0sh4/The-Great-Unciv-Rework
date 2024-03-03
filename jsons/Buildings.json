@@ -58,7 +58,7 @@
 		"maintenance": 0,
 		"hurryCostModifier": 25,
 	        "percentStatBonus": {"food": 10},
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["[+1 Food] <within [1] tiles of a [Coast]>", "Destroyed when the city is captured"]
 		
 	},
 	{

@@ -1047,33 +1047,6 @@
 			"Paishiyauvada","Patigrbana","Phrada"]
 	},
 	{
-		"name": "Philipines",
-		"leaderName": "Emilio Aguinaldo",
-		"adjective": ["Philipino"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Cultural",
-		
-		"startIntroPart1": "Greetings, Emilio Aguinaldo, esteemed leader and first President of the Philippines. Your courage and determination ignited the flames of independence, leading your people in a revolutionary struggle against colonial powers. Under your command, the Philippine Republic was born, marking a new chapter in your nation’s storied history.",
-                "startIntroPart2": "As you rise to lead the Philippines once more, may your strategic acumen and unwavering resolve guide your people to prosperity. Will you harness the spirit of Katipunan to unite your country and assert its place on the world stage? Can you build a civilization that will stand the test of time?",
-		
-		"declaringWar": "For the good of The Philipines i must declare war!",
-		"attacked": "You are making a big mistake.",
-		"defeated": "Will this be my last goodbye to you?.",
-		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
-		
-		"neutralHello": "Greetings.",
-		"hateHello": "What do YOU want?!",
-		
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
-				
-		"outerColor": [79, 84, 66],
-		"innerColor": [165, 184, 118],
-		
-		"uniqueName": "Pear of the Orient Seas",
-		"uniques": ["[+1 Culture] from every [Coast] <during a Golden Age>", "[+1 Culture] from every [Coast] <during We Love The King Day>"],
-		"cities": ["Manila","Quezon City","Boracay","Cebú","Puerto Princesa","El Nido","Bohol","Davao","Baguio","Siargao","Corón","Tagaytay","Makati","Taguig","Dumaguete","Bacólod","Puerto Galera","Sagada","Laoag","Zamboanga"]
-	},
-	{
 		"name": "Poland",
 		"leaderName": "Sigismund III",
 		"adjective": ["Polish"],
@@ -1491,6 +1464,33 @@
 			"Marsin","Antalya","Zonguldak","Denizli","Ordu","Mugia","Eskishehir","Inebolu","Sinop","Adana","Artuin",
 			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarhisar",
 			"Bitlis","Yalova"]
+	},
+	{
+		"name": "The Philipines",
+		"leaderName": "Emilio Aguinaldo",
+		"adjective": ["Philipino"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Greetings, Emilio Aguinaldo, esteemed leader and first President of the Philippines. Your courage and determination ignited the flames of independence, leading your people in a revolutionary struggle against colonial powers. Under your command, the Philippine Republic was born, marking a new chapter in your nation’s storied history.",
+                "startIntroPart2": "As you rise to lead the Philippines once more, may your strategic acumen and unwavering resolve guide your people to prosperity. Will you harness the spirit of Katipunan to unite your country and assert its place on the world stage? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "For the good of The Philipines i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [79, 84, 66],
+		"innerColor": [165, 184, 118],
+		
+		"uniqueName": "Pearl of the Orient Seas",
+		"uniques": ["[+1 Culture] from every [Coast] <during a Golden Age>", "[+1 Culture] from every [Coast] <during We Love The King Day>"],
+		"cities": ["Manila","Quezon City","Boracay","Cebú","Puerto Princesa","El Nido","Bohol","Davao","Baguio","Siargao","Corón","Tagaytay","Makati","Taguig","Dumaguete","Bacólod","Puerto Galera","Sagada","Laoag","Zamboanga"]
 	},
 	{
 		"name": "Vietnam",

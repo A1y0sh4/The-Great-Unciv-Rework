@@ -1070,7 +1070,7 @@
 		"innerColor": [165, 184, 118],
 		
 		"uniqueName": "Pear of the Orient Seas",
-		"uniques": ["[+1 Culture] [in all coastal cities]","[+1 Food] from every [Ocean]","[+3 Faith] [in all cities] <with [3] to [4] neighboring [Coast] tiles>"],
+		"uniques": ["[+1 Culture] from every [Coast] <during a Golden Age>", "[+1 Culture] from every [Coast] <during We Love The King Day>"],
 		"cities": ["Manila","Quezon City","Boracay","Cebú","Puerto Princesa","El Nido","Bohol","Davao","Baguio","Siargao","Corón","Tagaytay","Makati","Taguig","Dumaguete","Bacólod","Puerto Galera","Sagada","Laoag","Zamboanga"]
 	},
 	{

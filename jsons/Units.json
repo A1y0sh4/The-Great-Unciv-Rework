@@ -1008,6 +1008,20 @@
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	},
+	 {
+		"name": "Katipunero",
+                "replaces": "Musketman",
+		"uniqueTo": "Philipines",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 24,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+                "uniques": ["[+15]% Strength <when fighting units from a Civilization with more Cities than you>", "May attack when embarked"],
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
 	{
 		"name": "Janissary",
 		"unitType": "Gunpowder",

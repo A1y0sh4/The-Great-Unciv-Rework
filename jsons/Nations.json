@@ -1777,7 +1777,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [116,55,0],
+		"innerColor": [136,85,38],
 		"cities": ["Bordeaux"]
 	},
 	{
@@ -1790,7 +1790,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [16,55,200],
+		"innerColor": [51,85,208],
 		"cities": ["Taos Pueblo"]
 	},
 	{
@@ -2026,7 +2026,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [120,50,50],
+		"innerColor": [140,80,80],
 		"cities": ["Cyrene"]
 	},
 	{
@@ -2039,7 +2039,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [20,50,150],
+		"innerColor": [67,91,171],
 		"cities": ["Saguntum"]
 	},
 	{
@@ -2381,7 +2381,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [112,76,75],
+		"innerColor": [119,84,84],
 		"cities": ["Washukanni"]
 	},
 	{
@@ -2394,7 +2394,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [12,76,75],
+		"innerColor": [48,102,102],
 		"cities": ["Gergovia"]
 	},
 	{
@@ -2835,11 +2835,11 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [74, 54, 15],
+		"innerColor": [110, 94, 63],
 		"cities": ["Moson Kahni"]
 	},
 	{
-		"name": "Mikisiw-Wacîhk",
+		"name": "Mikisiw-Wacihk",
 		"adjective": ["Cree"],
 		"cityStateType": "Religious",
 		"startBias": ["Forest"],
@@ -2848,8 +2848,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [74, 54, 115],
-		"cities": ["Mikisiw-Wacîhk"]
+		"innerColor": [101, 84, 135],
+		"cities": ["Mikisiw-Wacihk"]
 	},
 
 	//Barbarian

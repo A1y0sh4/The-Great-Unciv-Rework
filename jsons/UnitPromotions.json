@@ -690,7 +690,7 @@
 	{
 		"name": "Mobility",
 		"prerequisites": ["Shock II", "Drill II", "Targeting I",
-			"Bombardment I", "Boarding Party I", "Coastal Raider I", "Wolfpack I", "Ignore terrain cost"],
+			"Bombardment I", "Boarding Party I", "Coastal Raider I", "Wolfpack I"],
 		"uniques": ["[+1] Movement", "Ignores Zone of Control"],
 		"unitTypes": ["Sword", "Gunpowder", "Mounted","Melee Water","Ranged Water","Armored", "Submarine"],
         "column": 24,

@@ -18,7 +18,7 @@
 		"terrainsCanBeBuiltOn": ["Forest"],
 		"production": 1,
 		"turnsToBuild": 7,
-		"techRequired": "Construction",
+		"techRequired": "Archery",
 		"uniques": ["Improvement", "[+1 Production] <after discovering [Scientific Theory]>", "Pillaging this improvement yields approximately [+13 Gold]"],
 		"shortcutKey": "L"
 	},

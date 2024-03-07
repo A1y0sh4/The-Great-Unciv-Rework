@@ -25,7 +25,6 @@
 		"cost": 25,
 		"obsoleteTech": "Guilds",
 		"upgradesTo": "Skirmisher",
-		"promotions": ["Scouting I"],
 		"uniques": ["May upgrade to [Archer] through ruins-like effects"],
 		"attackSound": "nonmetalhit"
 	},
@@ -40,8 +39,6 @@
 		"requiredTech": "Guilds",
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Ranger",
-		"promotions": ["Scouting I"],
-		"uniques": [],
 		"attackSound": "arrow"
 	},
 	{
@@ -55,8 +52,6 @@
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Radar",
 		"upgradesTo": "Paratrooper",
-		"promotions": ["Scouting I"],
-		"uniques": [],
 		"attackSound": "shot"
 	},
 	{

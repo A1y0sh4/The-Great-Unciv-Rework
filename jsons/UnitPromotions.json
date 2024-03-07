@@ -206,7 +206,7 @@
 	// Scout
 	{
 		"name": "Scouting I",
-		"uniques": ["No movement cost to pillage", "[+1] Movement"],
+		"uniques": ["[+1] Movement", "No movement cost to pillage"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 1
@@ -222,16 +222,10 @@
 	{
 		"name": "Scouting III",
 		"prerequisites": ["Scouting II"],
-		"uniques": ["[-10]% Strength for enemy [All] units in adjacent [All] tiles", "[+50]% XP gained from combat"],
+		"uniques": ["Ignores terrain cost", "Ignores Zone of Control"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 3
-	},
-	{
-		"name": "Ignore terrain cost",
-		"prerequisites": ["Scouting I", "Survivalism I"],
-		"uniques": ["Ignores terrain cost"],
-		"unitTypes": ["Scout"]
 	},
 	{
 		"name": "Survivalism I",
@@ -698,7 +692,7 @@
 		"prerequisites": ["Shock II", "Drill II", "Targeting I",
 			"Bombardment I", "Boarding Party I", "Coastal Raider I", "Wolfpack I", "Ignore terrain cost"],
 		"uniques": ["[+1] Movement", "Ignores Zone of Control"],
-		"unitTypes": ["Sword", "Gunpowder", "Mounted","Melee Water","Ranged Water","Armored", "Submarine", "Scout"],
+		"unitTypes": ["Sword", "Gunpowder", "Mounted","Melee Water","Ranged Water","Armored", "Submarine"],
         "column": 24,
         "row": 3
 	},

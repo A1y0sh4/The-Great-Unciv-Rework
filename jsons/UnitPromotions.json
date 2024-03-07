@@ -222,7 +222,7 @@
 	{
 		"name": "Scouting III",
 		"prerequisites": ["Scouting II"],
-		"uniques": ["[-25]% Strength for enemy [All] units in adjacent [All] tiles", "[+50]% XP gained from combat"],
+		"uniques": ["[-10]% Strength for enemy [All] units in adjacent [All] tiles", "[+50]% XP gained from combat"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 3
@@ -235,7 +235,7 @@
 	},
 	{
 		"name": "Survivalism I",
-		"uniques": ["Unit will heal every turn, even if it performs an action", "[+5] HP when healing <in [Foreign Land] tiles>"],
+		"uniques": ["Unit will heal every turn, even if it performs an action", "[+5] HP when healing"],
 		"unitTypes": ["Scout"],
         "column": 9,
         "row": 1

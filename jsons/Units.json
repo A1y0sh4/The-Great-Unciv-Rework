@@ -132,7 +132,7 @@
 		"requiredTech": "Guilds",
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Ranger",
-		"promotions": ["Slinger Withdraw", "Scounting I"],
+		"promotions": ["Slinger Withdraw", "Scouting I"],
 		"attackSound": "arrow"
 	},
 	{

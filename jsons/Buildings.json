@@ -54,11 +54,11 @@
 		"name": "Bahay Kubo",
                 "replaces": "Granary",
 		"uniqueTo": "Philipines",
-		"cost": 35,
+		"cost": 30,
 		"maintenance": 0,
 		"hurryCostModifier": 25,
 	        "percentStatBonus": {"food": 10},
-		"uniques": ["[+1 Food] <within [1] tiles of a [Coast]>", "Destroyed when the city is captured"]
+		"uniques": ["[+1 Food] <within [1] tiles of a [Coast]>"]
 		
 	},
 	{
@@ -349,7 +349,7 @@
 		"cost": 100,
 		"culture": 1,
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Colosseum] in all cities", "[-33]% Unhappiness from [Population] [in this city]", "Cost increases by [25] per owned city"],
+		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "[-33]% Unhappiness from [Population] [in this city]", "Cost increases by [25] per owned city"],
 		"requiredTech": "Horseback Riding"
 	},
 	{
@@ -465,7 +465,7 @@
 		"greatPersonPoints": {"Great Scientist": 1},
 		"isNationalWonder": true,
 		"percentStatBonus": {"science": 33},
-		"uniques": ["Requires a [Library] in all cities", "Cost increases by [25] per owned city"],
+		"uniques": ["Only available <if [Library] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [25] per owned city"],
 		"requiredTech": "Philosophy"
 	},
 	{
@@ -493,7 +493,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Artist": 1},
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Monument] in all cities", "[+33]% Great Person generation [in this city]", "Cost increases by [25] per owned city"],
+		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+33]% Great Person generation [in this city]", "Cost increases by [25] per owned city"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{
@@ -597,7 +597,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great General": 1},
-		"uniques": ["Requires a [Barracks] in all cities", "All newly-trained [non-air] units [in this city] receive the [Morale] promotion",
+		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-air] units [in this city] receive the [Morale] promotion",
 			"Cost increases by [25] per owned city"],
 		"requiredTech": "Iron Working"
 	},
@@ -648,7 +648,7 @@
 		"cost": 100,
 		"culture": 1,
 		"faith": 3,
-		"uniques": ["Requires a [Temple] in all cities", "Cost increases by [25] per owned city",
+		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [25] per owned city",
 			"[+33]% Natural religion spread [in this city]", "All newly-trained [Missionary] units [in this city] receive the [Devout] promotion", "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion", "Hidden when religion is disabled", "Can only be built [in holy cities]"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
@@ -717,7 +717,7 @@
 		"percentStatBonus": {"gold": 33},
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Market] in all cities", "Cost increases by [25] per owned city"],
+		"uniques": ["Only available <if [Market] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [25] per owned city"],
 		"requiredTech": "Guilds"
 	},
 	{
@@ -880,7 +880,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Workshop] in all cities", "Cost increases by [30] per owned city"],
+		"uniques": ["Only available <if [Workshop] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
 		"requiredTech": "Machinery"
 	},
 	{
@@ -889,7 +889,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["[-25]% Unhappiness from [Population] [in this city]", "Gain a free [Cathedral] [in this city]"],
+		"uniques": ["[+1 Culture, +1 Happiness] from every [World Wonder]", "Gain a free [Cathedral] [in this city]"],
 		"requiredTech": "Physics",
 		"quote": "'Architecture has recorded the great ideas of the human race. Not only every religious symbol, but every human thought has its page in that vast book.' - Victor Hugo"
 	},
@@ -1038,7 +1038,7 @@
 		"percentStatBonus": {"culture": 33},
 		"greatPersonPoints": {"Great Artist": 1},
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Opera House] in all cities", "Cost increases by [25] per owned city"],
+		"uniques": ["Only available <if [Opera House] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [25] per owned city"],
 		"requiredTech": "Architecture"
 	},
 	{
@@ -1082,7 +1082,7 @@
 		"requiredTech": "Economics"
 	},
         {
-		"name": "Sugar shack",
+		"name": "Sugar Shack",
 		"replaces": "Windmill",
 		"uniqueTo": "Canada",
 		"cost": 200,
@@ -1125,7 +1125,7 @@
 		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"requiredTech": "Archaeology",
-		"uniques": ["[+5 Culture] from [City ruins] tiles [in this city]", "Destroyed when the city is captured"]
+		"uniques": ["[+4 Culture] from [City ruins] tiles [in this city]", "Destroyed when the city is captured"]
 	},
 	{
 		"name": "The Louvre",

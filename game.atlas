@@ -349,7 +349,7 @@ NationIcons/Sumeria
   index: -1
 NationIcons/The Hittites
   rotate: false
-  xy: 764, 40
+  xy: 784, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

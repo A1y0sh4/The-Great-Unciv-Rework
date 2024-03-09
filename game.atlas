@@ -347,6 +347,13 @@ NationIcons/Sumeria
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/The Hittites
+  rotate: false
+  xy: 764, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Vietnam
   rotate: false
   xy: 436, 40

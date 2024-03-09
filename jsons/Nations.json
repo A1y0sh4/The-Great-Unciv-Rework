@@ -1794,8 +1794,8 @@
 		"cities": ["Taos Pueblo"]
 	},
 	{
-		"name": "Bogota",
-		"adjective": ["Colombian"],
+		"name": "Shenyang",
+		"adjective": ["Manchurian"],
 		"cityStateType": "Cultured",
 		"startBias": ["Jungle"],
 		
@@ -1804,7 +1804,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [116,55,200],
-		"cities": ["Bogota"]
+		"cities": ["Shenyang"]
 	},
 	
 

@@ -53,7 +53,7 @@
 	{
 		"name": "Bahay Kubo",
                 "replaces": "Granary",
-		"uniqueTo": "Philipines",
+		"uniqueTo": "Philippines",
 		"cost": 30,
 		"maintenance": 0,
 		"hurryCostModifier": 25,

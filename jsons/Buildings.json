@@ -54,7 +54,7 @@
 		"name": "Bahay Kubo",
                 "replaces": "Granary",
 		"uniqueTo": "Philipines",
-		"cost": 40,
+		"cost": 30,
 		"maintenance": 0,
 		"hurryCostModifier": 25,
 	        "percentStatBonus": {"food": 10},

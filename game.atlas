@@ -249,13 +249,6 @@ NationIcons/Canada
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Egypt
-  rotate: false
-  xy: 4, 256
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 NationIcons/England
   rotate: false
   xy: 112, 364

@@ -249,6 +249,13 @@ NationIcons/Canada
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Carthage
+  rotate: false
+  xy: 984, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Egypt
   rotate: false
   xy: 4, 256

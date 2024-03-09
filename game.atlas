@@ -258,7 +258,7 @@ NationIcons/Carthage
   index: -1
 NationIcons/Egypt
   rotate: false
-  xy: 1115, 40
+  xy: 1106, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -279,7 +279,7 @@ NationIcons/Georgia
   index: -1
 NationIcons/Gran Colombia
   rotate: false
-  xy: 1180, 40
+  xy: 1220, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

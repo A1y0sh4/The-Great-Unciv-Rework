@@ -1485,8 +1485,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [233, 233, 233],
-		"innerColor": [250, 150, 0],
+		"outerColor": [240, 240, 240],
+		"innerColor": [187, 112, 0],
 		
 		"uniqueName": "Pearl of the Orient Seas",
 		"uniques": ["[+1 Culture] from every [Coast] <during a Golden Age>", "[+1 Culture] from every [Coast] <during We Love The King Day>"],

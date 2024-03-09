@@ -251,7 +251,7 @@ NationIcons/Canada
   index: -1
 NationIcons/Carthage
   rotate: false
-  xy: 1000, 140
+  xy: 800, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

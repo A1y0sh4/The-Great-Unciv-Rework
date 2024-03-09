@@ -1005,7 +1005,7 @@
 	 {
 		"name": "Katipunero",
                 "replaces": "Musketman",
-		"uniqueTo": "Philippines",
+		"uniqueTo": "The Philippines",
 		"unitType": "Gunpowder",
 		"movement": 3,
 		"strength": 24,

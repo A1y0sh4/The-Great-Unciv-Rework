@@ -132,7 +132,7 @@
 		"tradeRequest": "Will you accept this deal?",
 		
 		"outerColor": [0, 28, 82],
-		"innerColor": [230, 225, 215],
+		"innerColor": [245, 240, 230],
 		
 		"favoredReligion": "Christianity",
 		"uniqueName": "Terra Australis",

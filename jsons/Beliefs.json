@@ -85,7 +85,7 @@
     {
         "name": "One with Nature",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from [Resource] tiles [in this city]", "[-1 Faith] from [Improvement] tiles <in [Resource] tiles> [in this city]"]
+        "uniques": ["[+1 Faith] from [Resource] tiles [in this city]", "[-1 Faith] from [Improvement] tiles [in this city] <in [Resource] tiles>"]
     },
     {
         "name": "Oral Tradition",

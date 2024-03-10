@@ -23,7 +23,7 @@
 		"tradeRequest": "Is the following trade of interest to you?",
 		"favoredReligion": "Christianity",
 		
-		"outerColor": [ 0, 40, 104],
+		"outerColor": [ 0, 45, 125],
 		"innerColor": [255, 255, 255],
 		
 		"uniqueName": "Manifest Destiny",
@@ -132,7 +132,7 @@
 		"tradeRequest": "Will you accept this deal?",
 		
 		"outerColor": [1, 33, 105],
-		"innerColor": [225, 148, 26],
+		"innerColor": [228, 218, 203],
 		
 		"favoredReligion": "Christianity",
 		"uniqueName": "Terra Australis",

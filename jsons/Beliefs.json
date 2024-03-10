@@ -30,7 +30,7 @@
     {
         "name": "God of Craftsman",
         "type": "Pantheon",
-        "uniques": ["[+1 Production] from [Strategic resource] tiles [in this city]"]
+        "uniques": ["[+1 Production] from every [Strategic resource]"]
     },
     {
         "name": "God of the Open Sky",
@@ -85,7 +85,7 @@
     {
         "name": "One with Nature",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from [Resource] tiles [in this city]", "[-1 Faith] from every [Improvement] <in [Resource] tiles>"]
+        "uniques": ["[+1 Faith] from every [Resource]", "[-1 Faith] from every [Improvement] <in [Resource] tiles>"]
     },
     {
         "name": "Oral Tradition",
@@ -206,7 +206,7 @@
     {
         "name": "Religious Center",
         "type": "Follower",
-        "uniques": ["[+150]% Natural religion spread [in holy cities]"]
+        "uniques": ["[+100]% Natural religion spread [in holy cities]"]
     },
     {
         "name": "Religious Community",

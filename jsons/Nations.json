@@ -131,7 +131,7 @@
 		"hateHello": "?",
 		"tradeRequest": "Will you accept this deal?",
 		
-		"outerColor": [0, 91, 65],
+		"outerColor": [1, 33, 105],
 		"innerColor": [225, 148, 26],
 		
 		"favoredReligion": "Christianity",

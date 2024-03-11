@@ -137,21 +137,21 @@ BuildingIcons/Sugar Shack
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Pub
+BuildingIcons/Pub
   rotate: false
   xy: 1460, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Wine Cellar
+BuildingIcons/Wine Cellar
   rotate: false
   xy: 1580, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Brewery
+BuildingIcons/Brewery
   rotate: false
   xy: 1700, 40
   size: 100, 100
@@ -279,7 +279,7 @@ NationIcons/Carthage
   index: -1
 NationIcons/Egypt
   rotate: false
-  xy: 1075, 40
+  xy: 1130, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

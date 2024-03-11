@@ -137,6 +137,27 @@ BuildingIcons/Sugar Shack
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Pub
+  rotate: false
+  xy: 1460, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Wine Cellar
+  rotate: false
+  xy: 1580, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Brewery
+  rotate: false
+  xy: 1700, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Teotihuacan Pyramids
   rotate: false
   xy: 760, 472

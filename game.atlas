@@ -172,6 +172,13 @@ BuildingIcons/Industrial Facility
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Imperial Diet
+  rotate: false
+  xy: 1940, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Teotihuacan Pyramids
   rotate: false
   xy: 760, 472

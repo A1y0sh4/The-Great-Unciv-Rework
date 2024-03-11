@@ -165,6 +165,13 @@ BuildingIcons/Tsikhe
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Industrial Plant
+  rotate: false
+  xy: 1820, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Teotihuacan Pyramids
   rotate: false
   xy: 760, 472

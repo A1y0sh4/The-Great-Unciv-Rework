@@ -683,6 +683,13 @@ UnitIcons/Llanero
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Mamluk
+  rotate: false
+  xy: 1340, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Mona-spa
   rotate: false
   xy: 652, 688

@@ -158,6 +158,13 @@ BuildingIcons/Brewery
   orig: 100, 100
   offset: 0, 0
   index: -1
+ImprovementIcons/Marae
+  rotate: false
+  xy: 1702, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Tsikhe
   rotate: false
   xy: 1820, 40

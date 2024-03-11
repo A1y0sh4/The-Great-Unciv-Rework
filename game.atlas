@@ -165,9 +165,9 @@ BuildingIcons/Tsikhe
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Industrial Plant
+BuildingIcons/Industrial Facility
   rotate: false
-  xy: 1820, 40
+  xy: 1940, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

@@ -139,7 +139,7 @@ BuildingIcons/Sugar Shack
   index: -1
 BuildingIcons/Pub
   rotate: false
-  xy: 1450, 40
+  xy: 1465, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -153,7 +153,7 @@ BuildingIcons/Wine Cellar
   index: -1
 BuildingIcons/Brewery
   rotate: false
-  xy: 1695, 40
+  xy: 1705, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -279,7 +279,7 @@ NationIcons/Carthage
   index: -1
 NationIcons/Egypt
   rotate: false
-  xy: 1115, 40
+  xy: 1108, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

@@ -158,7 +158,7 @@ BuildingIcons/Brewery
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Tsike
+BuildingIcons/Tsikhe
   rotate: false
   xy: 1820, 40
   size: 100, 100

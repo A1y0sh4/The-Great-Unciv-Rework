@@ -146,7 +146,7 @@ BuildingIcons/Pub
   index: -1
 BuildingIcons/Wine Cellar
   rotate: false
-  xy: 1580, 40
+  xy: 1590, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

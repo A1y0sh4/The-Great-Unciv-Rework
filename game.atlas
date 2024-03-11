@@ -130,7 +130,7 @@ BuildingIcons/Street Carnival
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Sugar shack
+BuildingIcons/Sugar Shack
   rotate: false
   xy: 436, 148
   size: 100, 100
@@ -258,7 +258,7 @@ NationIcons/Carthage
   index: -1
 NationIcons/Egypt
   rotate: false
-  xy: 1095, 40
+  xy: 1075, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

@@ -137,6 +137,13 @@ BuildingIcons/Sugar Shack
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Oak Ridge Leadership Computing Facility
+  rotate: false
+  xy: 894, 280
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Airport
   rotate: false
   xy: 894, 160

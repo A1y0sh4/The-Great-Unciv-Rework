@@ -271,7 +271,7 @@
 		"name": "Ikanda", 
 		"replaces": "Barracks",
 		"uniqueTo": "Zulu",
-		"happiness": 1,
+		"food": 1,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["New [{Land} {Military}] units start with [15] Experience [in this city]", "All newly-trained [Sword] units [in this city] receive the [Buffalo Horns I] promotion", "Destroyed when the city is captured"],

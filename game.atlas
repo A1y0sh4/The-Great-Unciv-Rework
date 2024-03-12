@@ -137,6 +137,20 @@ BuildingIcons/Sugar Shack
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Katipunero
+  rotate: false
+  xy: 1220, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Bahay Kubo
+  rotate: false
+  xy: 1340, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Pub
   rotate: false
   xy: 1470, 40

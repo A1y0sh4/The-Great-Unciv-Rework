@@ -151,6 +151,13 @@ BuildingIcons/Wine Cellar
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Phalanx
+  rotate: false
+  xy: 1590, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Brewery
   rotate: false
   xy: 1702, 40

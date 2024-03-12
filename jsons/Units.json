@@ -352,7 +352,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Aga-ush",
+		"name": "Phalanx",
 		"unitType": "Sword",
 		"replaces": "Spearman",
 		"uniqueTo": "Sumeria",
@@ -362,7 +362,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+10]% Strength bonus for [Aga-ush] units within [1] tiles"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+10]% Strength bonus for [Phalanx] units within [1] tiles"],
 		"attackSound": "metalhit"
 	},
 	{

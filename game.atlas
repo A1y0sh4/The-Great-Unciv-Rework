@@ -263,6 +263,13 @@ ImprovementIcons/Marae
   orig: 100, 100
   offset: 0, 0
   index: -1
+TechIcons/Advanced AI
+  rotate: false
+  xy: 1702, 280
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Tsikhe
   rotate: false
   xy: 1820, 40
@@ -273,6 +280,13 @@ BuildingIcons/Tsikhe
 BuildingIcons/Artists Workshop
   rotate: false
   xy: 1820, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/AI Singularity
+  rotate: false
+  xy: 1820, 280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

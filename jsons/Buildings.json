@@ -1501,10 +1501,20 @@
 		"uniques": ["[+50]% [Production] [in this city]", "Consumes [2] [Uranium]"],
 	},
         {
-		"name": "Automated City Management",
+		"name": "AI Singularity",
 		"requiredTech": "Advanced AI",
 		"maintenance": 5,
-		"uniques": ["[+10]% Yield from every [Building] <in this city>", "Consumes [2] [Uranium]"]
+		"culture": 1,
+		"greatPersonPoints": {"Great Engineer": 3},
+		"isWonder": true,
+		"uniques": ["[+300]% [Food] [in this city]",
+			    "[+300]% [Production] [in this city]",
+			    "[+300]% [Gold] [in this city]",
+			    "[+300]% [Science] [in this city]",
+			    "[+300]% [Culture] [in this city]",
+			    "[+300]% [Faith] [in this city]", 
+			    "[+50]% Unhappiness from [Population] [in this city]", "Consumes [2] [Uranium]"],
+		"quote": "'It ascends from the earth to the heaven, and it again descends to the earth and receives the force of things superior and inferior.' - Hermes Trismegistus"
 	},
 	// All Eras
 

@@ -158,6 +158,13 @@ BuildingIcons/Sputnik Program
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Spec Ops
+  rotate: false
+  xy: 1000, 280
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Red Fort
   rotate: false
   xy: 1108, 160

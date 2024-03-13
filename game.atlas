@@ -242,6 +242,13 @@ UnitIcons/Phalanx
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Fusion Reactor
+  rotate: false
+  xy: 1590, 280
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Brewery
   rotate: false
   xy: 1702, 40

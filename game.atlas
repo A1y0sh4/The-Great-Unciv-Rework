@@ -186,7 +186,7 @@ UnitIcons/Katipunero
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Air Defence System
+BuildingIcons/Air Defense System
   rotate: false
   xy: 1220, 280
   size: 100, 100

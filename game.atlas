@@ -221,6 +221,13 @@ BuildingIcons/Smithy
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Thermonuclear Missile
+  rotate: false
+  xy: 1470, 280
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Wine Cellar
   rotate: false
   xy: 1590, 40

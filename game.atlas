@@ -340,6 +340,13 @@ BuildingIcons/AI Singularity
   orig: 100, 100
   offset: 0, 0
   index: -1
+PolicyIcons/Religious Orders
+  rotate: false
+  xy: 1820, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Industrial Facility
   rotate: false
   xy: 1940, 40
@@ -358,6 +365,14 @@ PolicyBranchIcons/Expansion
   rotate: false
   rotate: false
   xy: 1940, 280
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Inquisition
+  rotate: false
+  rotate: false
+  xy: 1940, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

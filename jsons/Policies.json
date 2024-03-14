@@ -222,7 +222,7 @@
             },
             {
                 "name": "Monasticism",
-                "uniques": ["[+1 Faith, +1 Science]"],
+                "uniques": ["[+1 Faith, +2 Science] <in cities with at least [1] [Specialists]>"],
                 "row": 1,
                 "column": 5
             },

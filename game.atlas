@@ -305,7 +305,7 @@ BuildingIcons/Imperial Diet
   orig: 100, 100
   offset: 0, 0
   index: -1
-PolicyBranchIcons/Expansionism
+PolicyBranchIcons/Expansion
   rotate: false
   rotate: false
   xy: 1940, 280

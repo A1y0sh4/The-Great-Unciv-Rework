@@ -221,8 +221,8 @@
                 "column": 2
             },
             {
-                "name": "Holy War",
-                "uniques": ["Gain [50] [Faith] <upon declaring war with a major Civilization>"],
+                "name": "Monasticism",
+                "uniques": ["[+1 Faith, +1 Science]"],
                 "row": 1,
                 "column": 5
             },

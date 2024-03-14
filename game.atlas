@@ -207,6 +207,13 @@ BuildingIcons/Air Defense System
   orig: 100, 100
   offset: 0, 0
   index: -1
+PolicyBranchIcons/Nationalism
+  rotate: false
+  xy: 1220, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Bahay Kubo
   rotate: false
   xy: 1340, 160
@@ -217,6 +224,13 @@ BuildingIcons/Bahay Kubo
 BuildingIcons/Cloning Lab
   rotate: false
   xy: 1340, 280
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Cosmopolitanism
+  rotate: false
+  xy: 1340, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

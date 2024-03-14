@@ -284,6 +284,13 @@ BuildingIcons/Fusion Reactor
   orig: 100, 100
   offset: 0, 0
   index: -1
+PolicyIcons/City Militia
+  rotate: false
+  xy: 1590, 280
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Brewery
   rotate: false
   xy: 1702, 40
@@ -301,6 +308,13 @@ ImprovementIcons/Marae
 TechIcons/Advanced AI
   rotate: false
   xy: 1702, 280
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/State Logistic
+  rotate: false
+  xy: 1702, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

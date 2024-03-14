@@ -252,8 +252,8 @@
             {
                 "name": "Piety Complete",
                 "uniques": [
-                    "[+15]% [Gold] [in all cities] <within [3] tiles of a [Holy site]>",
-		    "[+15]% [Culture] [in all cities] <within [3] tiles of a [Holy site]>"]
+                    "[+20]% [Gold] [in all cities] <within [3] tiles of a [Holy site]>",
+		    "[+20]% [Culture] [in all cities] <within [3] tiles of a [Holy site]>"]
             }
         ]
     },

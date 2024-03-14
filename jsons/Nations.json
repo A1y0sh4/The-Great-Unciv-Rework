@@ -1182,7 +1182,39 @@
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
 			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"]
-	},
+	}, \\\ New civilization project by me
+	{
+		"name": "Scythia",
+		"leaderName": "Tomyris",
+		"adjective": ["Scythian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType":"Domination",
+
+		"startIntroPart1": "We fall down before you, proud and fearless Tomyris, warrior queen of Scythia - the fatherland of horsemen! The Scythians were an ancient Iranic people of horse-riding, nomadic pastoralists who, throughout classical antiquity, dominated the Pontic-Caspian steppe. Around 676 BCE, the Scythians, in alliance with the Mannaens, attacked Assyria. In 512 BCE, when King Darius the Great of Persia attacked the Scythians, he allegedly penetrated into their land after crossing the Danube. Your Scythian warriors succeeded in frustrating the designs of the Persian army by letting it march through the entire country without an engagement. Your descendant Ateas used this great legacy behind him to better unite the Scythian tribes, creating an entity powerful enough to threaten the Greek-Macedonian overlords of the Balkans.",
+		"startIntroPart2": "Oh fair queen, the world is new once again, and there is so much more glory to be won than the paltry, ambitionless raids your people once carried out! Will you reunite all horsemen under one flag? Will you lead the raids deep into the lands of your many opponents? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "The Empress calls for your head. You will be drowned in your own blood!",
+		"attacked": "You have betrayed the trust of Tomyris. Now you will pay!",
+		"defeated": "The Empress falls, but I will be remembered. Will you?",
+		"introduction": "Let it be known between us: we Scythians repay treachery with blood. But, if you are a true friend, we will have peace.",
+		"neutralHello": "State your business.",
+		"hateHello": "Get away from me, scoundrel!",
+		"tradeRequest": "From friend to friend, our people looks forward to this deal, exchanging tribute to each other.",
+		"favoredReligion": "Tengriism",
+		
+		"outerColor": [153, 153, 0],
+		"innerColor": [255, 0, 0],
+		
+		"favoredReligion": "Tengriism",
+		"uniqueName": "People of the Steppe",
+		"uniques": ["Building a cavalry unit or Saka Horse Archer grants a second copy of that unit", "[+1 Faith] per [4] population [in all cities]"],
+		"cities": ["Pokrovka","Issyk","Kul Oba","Gelonus","Pazyryk","Chertomlyk","Neapolis","Kostromskaya",
+			"Myriv","Solokha","Maikop","Kamianka-Dniprovska","Tolstaya","Seven Brothers","Olbia","Kelermes",
+			"Ulski","Arzhan","Elizavetovskaya","Melgunov","Panticapaeum","Tsarskaya","Ogüz","Tanais","Alexandropol","Kurdzhips",
+			"Tsymbalka","Theodosia","Kozel"]
+		# Unique unit: Saka Horse Archer (replaces no unit, requires Horseback Riding, 4 Movement, 20 Melee Attack, 25 Ranged Attack, -17 Strenght against naval units, 1 Range, 2 Sight, 100 Production, 400 Gold, 2 Maintenance, Ignores enemy zone of control, obsoleted by Ballistics)
+		# Unique improvement: Kurgan (+1 Faith, +3 Gold, +1 Faith for each adjacent Pasture, buildable on Desert, Grassland, Plains, Snow and Tundra)
+	},\\\
 	{
 		"name": "Siam",
 		"leaderName": "Ramkhamhaeng",

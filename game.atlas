@@ -165,6 +165,13 @@ UnitIcons/Spec Ops
   orig: 100, 100
   offset: 0, 0
   index: -1
+PolicyBranchIcons/Diplomacy
+  rotate: false
+  xy: 1000, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Red Fort
   rotate: false
   xy: 1108, 160

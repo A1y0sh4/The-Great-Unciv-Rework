@@ -186,6 +186,13 @@ BuildingIcons/Quantum Computer
   orig: 100, 100
   offset: 0, 0
   index: -1
+PolicyBranchIcons/Individualism
+  rotate: false
+  xy: 1108, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Katipunero
   rotate: false
   xy: 1220, 160

@@ -11,7 +11,7 @@ BuildingIcons/Baray
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Oasis
+TileSets/HexaRealm/Tiles/Lake
   rotate: false
   xy: 2000, 970
   size: 64, 56

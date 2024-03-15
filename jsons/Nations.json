@@ -27,7 +27,7 @@
 		"innerColor": [255, 255, 255],
 		
 		"uniqueName": "Manifest Destiny",
-		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Science] <within [2] tiles of a [Friendly Land]>", "[-50]% Gold cost of acquiring tiles [in all cities]"],
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Science] <within [3] tiles of a [Friendly Land]>", "[-50]% Gold cost of acquiring tiles [in all cities]"],
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
 			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
@@ -423,7 +423,7 @@
         "innerColor": [245, 48, 44],
 
 		"uniqueName": "Slave States",
-		"uniques": ["[+1 Gold, +1 Production] from every [Plantation]", "[+1 Faith] from every [Mine]"], 
+		"uniques": ["[+1 Gold, +1 Production] from every [Plantation]", "[+10]% Unhappiness from [Population] [in all cities] <within [3] tiles of a [Plantation]>"], 
 		"cities": ["Richmond","Atlanta","New Orleans","Charleston","Austin","Nashville","Mobile","Memphis","Savannah","Montgomery",
 			"Vicksburg","Chattanooga","Wilmington","Columbus","Jackson","Tallahassee","Petersburg","Galveston","Knoxville",
 			"Meridian","Shreveport","Alexandria","Macon","Selma","Little Rock","Greensboro","Augusta","Murfreesboro"]

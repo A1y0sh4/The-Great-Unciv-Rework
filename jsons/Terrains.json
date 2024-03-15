@@ -175,7 +175,7 @@
 		"movementCost": 2,
 		"unbuildable": true,
 		"defenceBonus": 0.25,
-		"occursOn": ["Tundra","Plains","Grassland","Hill"],
+		"occursOn": ["Tundra","Plains","Grassland","Hill","Lake"],
 		"uniques": ["Rough terrain", "Vegetation",
 			    "Occurs at temperature between [-0.9] and [0.8] and humidity between [-0.9] and [0.9]",
 					"Provides a one-time Production bonus to the closest city when cut down",

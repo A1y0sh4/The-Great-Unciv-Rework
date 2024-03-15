@@ -402,33 +402,6 @@
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
 			"Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"]
 	},
-	 {
-		"name": "Confederate States",
-		"leaderName": "Jefferson Davis",
-		"adjective": ["Confederate"],
-		 "startBias": ["Grassland"],
-		"preferredVictoryType": "Scientific",
-
-        "startIntroPart1": "",
-        "startIntroPart2": "",
-
-        "declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
-		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
-		"defeated": "The day...is yours. I hope you will be merciful in your triumph.",
-		"introduction": "The people of the Confederate States of America welcome you.",
-		"neutralHello": "Good day.",
-		"hateHello": "Well?",
-		"tradeRequest": "Is the following trade of interest to you?",
-
-        "outerColor": [1, 55, 145],
-        "innerColor": [245, 48, 44],
-
-		"uniqueName": "Slave States",
-		"uniques": ["[+1 Faith, +1 Gold] from every [Plantation]", "[+10]% Unhappiness from [Population] [in all cities] <within [3] tiles of a [Plantation]>"], 
-		"cities": ["Richmond","Atlanta","New Orleans","Charleston","Austin","Nashville","Mobile","Memphis","Savannah","Montgomery",
-			"Vicksburg","Chattanooga","Wilmington","Columbus","Jackson","Tallahassee","Petersburg","Galveston","Knoxville",
-			"Meridian","Shreveport","Alexandria","Macon","Selma","Little Rock","Greensboro","Augusta","Murfreesboro"]
-	},
 	{
 		"name": "Denmark",
 		"leaderName": "Harald Bluetooth",
@@ -1351,6 +1324,33 @@
 			"Vantaa","Visby","Strängnäs","Tampere","Skara","Lödöse","Oulu","Växjö","Jyväskylä","Gothenburg",
 			"Örebro","Lahti","Helsingborg","Jönköping","Kuopio","Norrköping","Sundsvall","Kouvola","Karlstad","Umeå",
 			"Pori","Ystad","Paviken","Vaasa"]
+	},
+	{
+		"name": "The Confederate States",
+		"leaderName": "Jefferson Davis",
+		"adjective": ["Confederate"],
+		 "startBias": ["Grassland"],
+		"preferredVictoryType": "Scientific",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
+		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
+		"defeated": "The day...is yours. I hope you will be merciful in your triumph.",
+		"introduction": "The people of the Confederate States of America welcome you.",
+		"neutralHello": "Good day.",
+		"hateHello": "Well?",
+		"tradeRequest": "Is the following trade of interest to you?",
+
+        "outerColor": [1, 55, 145],
+        "innerColor": [245, 48, 44],
+
+		"uniqueName": "Slave States",
+		"uniques": ["[+1 Faith, +1 Gold] from every [Plantation]", "[+10]% Unhappiness from [Population] [in all cities] <within [3] tiles of a [Plantation]>"], 
+		"cities": ["Richmond","Atlanta","New Orleans","Charleston","Austin","Nashville","Mobile","Memphis","Savannah","Montgomery",
+			"Vicksburg","Chattanooga","Wilmington","Columbus","Jackson","Tallahassee","Petersburg","Galveston","Knoxville",
+			"Meridian","Shreveport","Alexandria","Macon","Selma","Little Rock","Greensboro","Augusta","Murfreesboro"]
 	},
 	{
 		"name": "The Hittites",

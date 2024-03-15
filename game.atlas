@@ -319,6 +319,13 @@ PolicyIcons/City Militia
   orig: 100, 100
   offset: 0, 0
   index: -1
+PolicyIcons/Free Trade
+  rotate: false
+  xy: 1590, 520
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Brewery
   rotate: false
   xy: 1702, 40
@@ -341,6 +348,13 @@ TechIcons/Advanced AI
   offset: 0, 0
   index: -1
 PolicyIcons/State Logistics
+  rotate: false
+  xy: 1702, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Free Market
   rotate: false
   xy: 1702, 400
   size: 100, 100
@@ -371,6 +385,13 @@ BuildingIcons/AI Singularity
 PolicyIcons/Religious Orders
   rotate: false
   xy: 1820, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Market Economy
+  rotate: false
+  xy: 1820, 520
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

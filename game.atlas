@@ -20,14 +20,14 @@ TileSets/HexaRealm/Tiles/Lake
   index: -1
 TileSets/HexaRealm/Tiles/Kelp Forest
   rotate: false
-  xy: 1950, 970
+  xy: 1945, 970
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Coral Reef
   rotate: false
-  xy: 1900, 970
+  xy: 1895, 970
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

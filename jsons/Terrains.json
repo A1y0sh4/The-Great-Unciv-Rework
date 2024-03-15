@@ -169,27 +169,13 @@
 					"Every [22] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
 	{
-		"name": "Lake",
-		"type": "TerrainFeature",
-		"food": 1,
-		"movementCost": 1,
-		"unbuildable": true,
-		"defenceBonus": -0.1,
-		"occursOn": ["Grassland", "Plains", "Tundra"],
-		"uniques": ["Fresh water", "Rare feature",
-			    "Always Fertility [4] for Map Generation",
-			    "Only [All Road] improvements may be built on this tile",
-			    "Considered [Food] when determining start locations",
-			    "Considered [Desirable] when determining start locations"]
-	},
-	{
 		"name": "Forest",
 		"type": "TerrainFeature",
 		"production": 1,
 		"movementCost": 2,
 		"unbuildable": true,
 		"defenceBonus": 0.25,
-		"occursOn": ["Tundra","Plains","Grassland","Hill","Lake"],
+		"occursOn": ["Tundra","Plains","Grassland","Hill"],
 		"uniques": ["Rough terrain", "Vegetation",
 			    "Occurs at temperature between [-0.9] and [0.8] and humidity between [-0.9] and [0.9]",
 					"Provides a one-time Production bonus to the closest city when cut down",
@@ -244,6 +230,20 @@
 			                "A Region is formed with at least [64]% [Marsh] tiles and [Forest] tiles, with priority [2]",
 			                "A Region can not contain more [Marsh] tiles than [Forest] tiles",],
 		"civilopediaText": [{"text":"Only Polders can be built here", "link":"Improvement/Polder"}]
+	},
+	{
+		"name": "Lake",
+		"type": "TerrainFeature",
+		"food": 1,
+		"movementCost": 1,
+		"unbuildable": true,
+		"defenceBonus": -0.1,
+		"occursOn": ["Grassland", "Plains", "Tundra"],
+		"uniques": ["Fresh water", "Rare feature",
+			    "Always Fertility [4] for Map Generation",
+			    "Only [All Road] improvements may be built on this tile",
+			    "Considered [Food] when determining start locations",
+			    "Considered [Desirable] when determining start locations"]
 	},
 	{
 		"name": "Fallout",

@@ -55,6 +55,22 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Sharpshooter",
+		"unitType": "Scout",
+		"uniqueTo": "Confederate States",
+		"replaces": "Ranger",
+		"movement": 2,
+		"strength": 21,
+		"rangedStrength": 30,
+		"range": 2,
+		"cost": 175,
+		"uniques": ["[+50]% Strength <vs [Siege] units>"],
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Radar",
+		"upgradesTo": "Paratrooper",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Warrior",
 		"unitType": "Sword",
 		"movement": 2,

@@ -57,7 +57,7 @@
 	{
 		"name": "Sharpshooter",
 		"unitType": "Scout",
-		"uniqueTo": "Confederate States",
+		"uniqueTo": "The Confederate States",
 		"replaces": "Ranger",
 		"movement": 2,
 		"strength": 21,

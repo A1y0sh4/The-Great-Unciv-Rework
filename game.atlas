@@ -11,6 +11,13 @@ BuildingIcons/Baray
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Oasis
+  rotate: false
+  xy: 2000, 970
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 BuildingIcons/Barbican
   rotate: false
   xy: 220, 904

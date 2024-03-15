@@ -326,6 +326,13 @@ PolicyIcons/Exchange Programs
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Confederate States
+  rotate: false
+  xy: 1470, 760
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Wine Cellar
   rotate: false
   xy: 1590, 40

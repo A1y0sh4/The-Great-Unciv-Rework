@@ -1099,7 +1099,7 @@
 		"replaces": "Windmill",
 		"uniqueTo": "Confederate States",
 		"food": 2,
-		"requiredNearbyImprovedResources": ["Citrus", "Cocoa", "Coffee", "Cotton", "Grape", "Incense", "Silk", "Sugar", "Tobacco"],
+		"requiredNearbyImprovedResources": ["Bananas", "Citrus", "Cocoa", "Coffee", "Cotton", "Grape", "Incense", "Silk", "Sugar", "Tobacco"],
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"maintenance": 0,

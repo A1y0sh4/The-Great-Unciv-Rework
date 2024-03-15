@@ -406,6 +406,7 @@
 		"name": "Confederate States",
 		"leaderName": "Jefferson Davis",
 		"adjective": ["Confederate"],
+		 "startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 
         "startIntroPart1": "",

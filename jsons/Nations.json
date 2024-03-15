@@ -406,7 +406,7 @@
 		"name": "Confederate States",
 		"leaderName": "Jefferson Davis",
 		"adjective": ["Confederate"],
-		"preferredVictoryType": "Supremacy",
+		"preferredVictoryType": "Scientific",
 
         "startIntroPart1": "",
         "startIntroPart2": "",

@@ -375,6 +375,13 @@ PolicyIcons/Demilitarization
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Sharpshooter
+  rotate: false
+  xy: 1590, 760
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Brewery
   rotate: false
   xy: 1702, 40
@@ -413,6 +420,13 @@ PolicyIcons/Free Market
 PolicyIcons/Global Cooperation
   rotate: false
   xy: 1702, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Plantation Estate
+  rotate: false
+  xy: 1702, 760
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

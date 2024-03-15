@@ -1097,7 +1097,7 @@
         {
 		"name": "Plantation Estate",
 		"replaces": "Windmill",
-		"uniqueTo": "Confederate States",
+		"uniqueTo": "The Confederate States",
 		"food": 2,
 		"requiredNearbyImprovedResources": ["Bananas", "Citrus", "Cocoa", "Coffee", "Cotton", "Grape", "Incense", "Silk", "Sugar", "Tobacco"],
 		"specialistSlots": {"Engineer": 1},

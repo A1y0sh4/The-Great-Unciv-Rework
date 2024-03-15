@@ -221,6 +221,13 @@ PolicyBranchIcons/Nationalism
   orig: 100, 100
   offset: 0, 0
   index: -1
+PolicyIcons/Political Science
+  rotate: false
+  xy: 1220, 520
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Bahay Kubo
   rotate: false
   xy: 1340, 160
@@ -238,6 +245,13 @@ BuildingIcons/Cloning Lab
 PolicyBranchIcons/Cosmopolitanism
   rotate: false
   xy: 1340, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Consulates
+  rotate: false
+  xy: 1340, 520
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -266,6 +280,13 @@ UnitIcons/Thermonuclear Missile
 PolicyIcons/Monumentalism
   rotate: false
   xy: 1470, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Merchant Confederation
+  rotate: false
+  xy: 1470, 520
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

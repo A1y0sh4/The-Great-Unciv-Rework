@@ -256,6 +256,13 @@ PolicyIcons/Consulates
   orig: 100, 100
   offset: 0, 0
   index: -1
+PolicyIcons/World Expo
+  rotate: false
+  xy: 1340, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Pub
   rotate: false
   xy: 1470, 40
@@ -287,6 +294,13 @@ PolicyIcons/Monumentalism
 PolicyIcons/Merchant Confederacy
   rotate: false
   xy: 1470, 520
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Exchange Programs
+  rotate: false
+  xy: 1470, 640
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -326,6 +340,13 @@ PolicyIcons/Free Trade
   orig: 100, 100
   offset: 0, 0
   index: -1
+PolicyIcons/Demilitarization
+  rotate: false
+  xy: 1590, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Brewery
   rotate: false
   xy: 1702, 40
@@ -357,6 +378,13 @@ PolicyIcons/State Logistics
 PolicyIcons/Free Market
   rotate: false
   xy: 1702, 520
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Global Cooperation
+  rotate: false
+  xy: 1702, 640
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -396,6 +424,13 @@ PolicyIcons/Market Economy
   orig: 100, 100
   offset: 0, 0
   index: -1
+PolicyIcons/Global Harmony
+  rotate: false
+  xy: 1820, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Industrial Facility
   rotate: false
   xy: 1940, 40
@@ -422,6 +457,14 @@ PolicyIcons/Inquisition
   rotate: false
   rotate: false
   xy: 1940, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/National Party
+  rotate: false
+  rotate: false
+  xy: 1940, 520
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

@@ -1,5 +1,5 @@
 [
- {
+  {
     "name": "Route",
     "description": "Build a road to connect your capital to our city.",
     "influence": 50,
@@ -177,4 +177,12 @@
       "weightForCityStateType": {
           "Religious": 3
       }
+  }
+  /* BNW */
+  /*
+  {
+    "name": "Trade Route",
+    "description": ""
+  }
+  */
 ]

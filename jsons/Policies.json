@@ -138,7 +138,7 @@
 	    "Religious": 20
         },
         "uniques": [
-                "[+33]% Strength <vs [Barbarian] units>",
+                "Receive triple Gold from Barbarian encampments and pillaging Cities",
                 "Notified of new Barbarian encampments"
         ],
         "policies": [

@@ -1347,7 +1347,7 @@
         "innerColor": [245, 48, 44],
 
 		"uniqueName": "Slave States",
-		"uniques": ["[+1 Food, +1 Gold] from every [Plantation]", "[+10]% Unhappiness from [Population] [in all cities] <within [3] tiles of a [Plantation]>", "[-50]% unhappiness from the number of cities"], 
+		"uniques": ["[-50]% unhappiness from the number of cities", "[+1 Food, +1 Gold] from every [Plantation]", "[+10]% Unhappiness from [Population] [in all cities] <within [3] tiles of a [Plantation]>"], 
 		"cities": ["Richmond","Atlanta","New Orleans","Charleston","Austin","Nashville","Mobile","Memphis","Savannah","Montgomery",
 			"Vicksburg","Chattanooga","Wilmington","Columbus","Jackson","Tallahassee","Petersburg","Galveston","Knoxville",
 			"Meridian","Shreveport","Alexandria","Macon","Selma","Little Rock","Greensboro","Augusta","Murfreesboro"]

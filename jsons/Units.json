@@ -374,7 +374,7 @@
 		"uniqueTo": "Sumeria",
 		"movement": 2,
 		"strength": 11,
-		"cost": 35,
+		"cost": 40,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",

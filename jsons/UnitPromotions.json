@@ -883,7 +883,7 @@
 	},
 	{
 		"name": "Buffalo Loins III",
-		"uniques": ["[+1] Movement", "Can move after attacking"],
+		"uniques": ["[+1] Movement", "Ignores Zone of Control"],
 		"prerequisites": ["Buffalo Chest II"],
 		"unitTypes": ["Sword"]
 	},

@@ -695,20 +695,6 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Impi", 
-		"replaces": "Pikeman",
-		"uniqueTo": "Zulu",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 16,
-		"cost": 70,
-		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+33]% Strength <vs [Gunpowder] units>", "Heals [15] damage if it kills a unit"],
-		"upgradesTo": "Musketman",
-		"obsoleteTech": "Gunpowder",
-		"attackSound": "metalhit"
-	},
-	{
 		"name": "Druzhina", 
 		"replaces": "Pikeman",
 		"uniqueTo": "Kievan Rus'",
@@ -1017,6 +1003,20 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
+	},
+	{
+		"name": "Impi", 
+		"replaces": "Musketman",
+		"uniqueTo": "Zulu",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Gunpowder",
+		"uniques": ["[+33]% Strength <vs [Gunpowder] units>", "Heals [15] damage if it kills a unit"],
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "metalhit"
 	},
 	 {
 		"name": "Katipunero",

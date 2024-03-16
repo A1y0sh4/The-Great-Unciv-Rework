@@ -27,7 +27,7 @@
 		"innerColor": [255, 255, 255],
 		
 		"uniqueName": "Manifest Destiny",
-		"uniques": ["Gain [25] [Gold] <upon founding a city>", "[-50]% Gold cost of acquiring tiles [in all cities]"],
+		"uniques": ["Gain [25] [Gold] <upon founding a city>", "[-50]% Gold cost of acquiring tiles [in all cities]", "Earn [50]% of killed [Military] unit's [Strength] as [Culture] <in [Friendly Land] tiles>"],
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
 			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",

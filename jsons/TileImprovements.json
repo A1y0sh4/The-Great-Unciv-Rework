@@ -326,10 +326,11 @@
 		"name": "Ziggurat",
 		"type": "Improvement",
 		"uniqueTo": "Sumeria",
+		"faith": 1,
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Flood plains"],
 		"turnsToBuild": 8,
 		"uniques": ["Improvement", "Cannot be built on [Resource] tiles",
-			"[+1 Food, +1 Faith] for each adjacent [City center]"
+			"[+1 Food] <in [Fresh water] tiles>"
 			"[+2 Science] <after discovering [Philosophy]>",
 			"[+2 Culture] <after discovering [Archaeology]>",
 			"Pillaging this improvement yields approximately [+13 Gold]"],

@@ -388,7 +388,7 @@
 		"uniqueTo": "Greece",
 		"movement": 2,
 		"strength": 11,
-		"cost": 45,
+		"cost": 50,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
@@ -407,7 +407,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Ignores Zone of Control", "No defensive terrain bonus"],
+		"uniques": ["[+33]% to Flank Attack bonuses", "Ignores Zone of Control", "No defensive terrain bonus"],
 		"attackSound": "metalhit"
 	},
 	{

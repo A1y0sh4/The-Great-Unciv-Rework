@@ -473,6 +473,13 @@ PolicyIcons/International Harmony
   orig: 100, 100
   offset: 0, 0
   index: -1
+ReligionIcons/Orthodoxy
+  rotate: false
+  xy: 1820, 760
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Industrial Facility
   rotate: false
   xy: 1940, 40
@@ -507,6 +514,22 @@ PolicyIcons/National Party
   rotate: false
   rotate: false
   xy: 1940, 520
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Catholicism
+  rotate: false
+  rotate: false
+  xy: 1940, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Protestantism
+  rotate: false
+  rotate: false
+  xy: 1940, 760
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

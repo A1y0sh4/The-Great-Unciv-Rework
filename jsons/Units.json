@@ -396,7 +396,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Sarissa",
+		"name": "Hypaspist",
 		"unitType": "Sword",
 		"replaces": "Spearman",
 		"uniqueTo": "Macedon",

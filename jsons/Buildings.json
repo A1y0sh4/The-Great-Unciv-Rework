@@ -357,7 +357,7 @@
 		"maintenance": 4,
 		"hurryCostModifier": 50,
 		"uniques": ["Remove extra unhappiness from annexed cities",
-			"Can only be built [in annexed cities]"],
+			"Can only be built <in [Annexed] cities>"],
 		"requiredTech": "Mathematics"
 	},
         {
@@ -663,7 +663,7 @@
 		"culture": 1,
 		"faith": 3,
 		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [25] per owned city",
-			"[+33]% Natural religion spread [in this city]", "All newly-trained [Missionary] units [in this city] receive the [Devout] promotion", "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion", "Hidden when religion is disabled", "Can only be built [in holy cities]"],
+			"[+33]% Natural religion spread [in this city]", "All newly-trained [Missionary] units [in this city] receive the [Devout] promotion", "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion", "Hidden when religion is disabled", "Can only be built <in [Holy] cities>"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	},
@@ -954,7 +954,7 @@
 		"culture": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
-		"uniques": ["[+1 Faith] per [1] social policies adopted", "Can only be built [in holy cities]"],
+		"uniques": ["[+1 Faith] per [1] social policies adopted", "Can only be built <in [Holy] cities>"],
 		"requiredTech": "Acoustics",
 		"quote": "'I live and love in God's peculiar light.' - Michelangelo Buonarroti"
 	},

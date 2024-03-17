@@ -207,7 +207,7 @@
         },
         "uniques": [
             "[+15]% [Production] [in holy cities]",
-	    "Only available <after founding a religion>",
+	    "Only available <after founding a Pantheon>",
             "Only available <before adopting [Rationalism]>"
         ],
         "policies": [

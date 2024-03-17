@@ -487,6 +487,20 @@
 		"uniques": ["Destroyed when the city is captured"],
 		"requiredTech": "Drama and Poetry"
 	},
+        {
+		"name": "Acropolis",
+		"replaces": "Amphitheater",
+		"uniqueTo": "Greece",
+		"culture": 2,
+		"cityStrength": 2,
+		"cityHealth": 15,
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Monument",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Culture, +1 Science] <in [Hill] tiles>", "Destroyed when the city is captured"],
+		"requiredTech": "Drama and Poetry"
+	},
 	{
 		"name": "National Epic",
 		"cost": 100,

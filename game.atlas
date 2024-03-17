@@ -709,6 +709,13 @@ NationIcons/Holy Roman Empire
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Gurdwara
+  rotate: false
+  xy: 544, 796
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/India
   rotate: false
   xy: 652, 796

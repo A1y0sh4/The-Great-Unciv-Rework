@@ -492,13 +492,13 @@
 		"replaces": "Amphitheater",
 		"uniqueTo": "Greece",
 		"culture": 2,
-		"cityStrength": 2,
+		"cityStrength": 3,
 		"cityHealth": 15,
 		"specialistSlots": {"Artist": 1},
 		"requiredBuilding": "Monument",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["Resting point for Influence with City-States is increased by [5]", "Destroyed when the city is captured"],
+		"uniques": ["Resting point for Influence with City-States is increased by [3]", "Destroyed when the city is captured"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{

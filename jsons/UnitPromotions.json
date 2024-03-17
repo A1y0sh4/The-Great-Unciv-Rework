@@ -840,10 +840,6 @@
 			"Double movement in [Hill]"]
 	},
 	{
-		"name": "[Hakkapeliitta] ability",
-		"uniques": ["Transfer Movement to [Great General]", "[+15]% Strength when stacked with [Great General]"]
-	},
-	{
 		"name": "[Zero] ability",
 		"uniques": ["[+33]% Strength <vs [Fighter] units>"]
 	},

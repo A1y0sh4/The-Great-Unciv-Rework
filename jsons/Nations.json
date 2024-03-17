@@ -668,8 +668,8 @@
 		"preferredVictoryType":"Cultural",
 		"favoredReligion": "Orthodoxy",
 		
-		"startIntroPart1": "May the blessings of the gods be upon you, oh great King Alexander! You are the ruler of the mighty Greek nation. Your people lived for so many years in isolated city-states - legendary cities such as Athens, Sparta, Thebes - where they gave the world many great things, such as democracy, philosophy, tragedy, art and architecture, the very foundation of Western Civilization. Although few in number and often hostile to each other, in the 5th century BC they were able to defeat their much larger neighbor, Persia, on land and sea.",
-		"startIntroPart2": "Alexander, your people stand ready to march to war, to spread the great Greek culture to millions and to bring you everlasting glory. Are you ready to accept your destiny, King Alexander? Will you lead your people to triumph and greatness? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Greetings, oh great Pericles, famed orator and general! You are the leader of the mighty Hellenic league. Your people lived for so many years in isolated city-states - legendary cities such as Athens, Sparta, Thebes - where they gave the world many great things, such as democracy, philosophy, tragedy, art and architecture, the very foundation of Western Civilization. Although few in number and often hostile to each other, in the 5th century BC they were able to defeat their much larger neighbor, Persia, on land and sea.",
+		"startIntroPart2": "Pericles, your people stand ready by your side, to unite the Greek city-states under your lead and to surround you with everlasting glory. Are you ready to accept your destiny, oh great Pericles? Will you lead your people to triumph and greatness? Can you build a civilization that will stand the test of time?",
 
 		"declaringWar": "This is for the greater good. You will understand... in time",
 		"attacked": "Soldiers are not like trees. When they are destroyed, they are not so easily replaced.",
@@ -682,8 +682,8 @@
 		"tradeRequest": "My friend, does this seem reasonable to you?",		
 		"outerColor": [255, 255, 255],
 		"innerColor": [65, 141, 254],
-		"uniqueName": "Classical Philosophy",
-		"uniques": ["[+20]% [Science] <in cities with at least [1] [Specialists]>", "[+20]% [Culture] <in cities with at least [1] [Specialists]>"],
+		"uniqueName": "Hellenic League",
+		"uniques": ["Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[-50]% City-State Influence degradation <when at war>", "Allied City-States provide [Science] equal to [50]% of what they produce for themselves"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
 			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon",

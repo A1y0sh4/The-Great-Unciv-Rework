@@ -498,7 +498,7 @@
 		"requiredBuilding": "Monument",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["Resting point for Influence with City-States is increased by [3]", "Destroyed when the city is captured"],
+		"uniques": ["Resting point for Influence with City-States is increased by [5] <when not at war>", "Destroyed when the city is captured"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{

@@ -403,11 +403,11 @@
 		"uniqueTo": "Macedonia",
 		"movement": 2,
 		"strength": 13,
-		"cost": 55,
+		"cost": 50,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+33]% to Flank Attack bonuses", "Ignores Zone of Control", "No defensive terrain bonus"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Ignores Zone of Control", "No defensive terrain bonus"],
 		"attackSound": "metalhit"
 	},
 	{

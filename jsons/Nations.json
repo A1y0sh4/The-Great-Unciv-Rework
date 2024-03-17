@@ -1418,8 +1418,8 @@
 		"tradeRequest": "Is the following trade of interest to you?",
 		"favoredReligion": "Catholicism",
 
-        "outerColor": [1, 55, 145],
-        "innerColor": [245, 48, 44],
+        "outerColor": [0, 49, 130],
+        "innerColor": [246, 68, 65],
 
 		"uniqueName": "Slave States",
 		"uniques": ["[-50]% unhappiness from the number of cities", "[+1 Food, +1 Gold] from every [Plantation]", "[+10]% Unhappiness from [Population] [in all cities] <within [3] tiles of a [Plantation]>"], 

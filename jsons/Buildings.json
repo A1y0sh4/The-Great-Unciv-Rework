@@ -491,7 +491,6 @@
 		"name": "Acropolis",
 		"replaces": "Amphitheater",
 		"uniqueTo": "Greece",
-		"cost": 75,
 		"culture": 2,
 		"cityStrength": 2,
 		"cityHealth": 15,

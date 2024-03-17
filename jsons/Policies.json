@@ -206,7 +206,7 @@
 	    "Religious": 40
         },
         "uniques": [
-            "[+15]% [Production] [in holy cities]",
+            "Gain enough Faith for [50]% of a Great Prophet",
 	    "Only available <after founding a Pantheon>",
             "Only available <before adopting [Rationalism]>"
         ],

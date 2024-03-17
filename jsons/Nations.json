@@ -715,9 +715,9 @@
 		
 		"uniqueName": "Hellenistic Fusion",
 		"uniques": ["Upon capturing a city, receive [10] times its [Science] production as [Science] immediately", "Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately"],
-		"cities": ["Pella","Aigai","Dion","Pydna","Argos","Pharsalos","Ephesus","Halicarnassus","Rhodes",
-			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
-			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon",
+		"cities": ["Pella","Aigai","Thessalonike","Dion","Pydna","Amphipolis","Alexandropouli","Alexandria Troas","Alexandria","Alexandria Ariana",
+			"Alexandria Arachosia","Alexandria Eschate","Alexandria in Parapamisdai","Alexandria in Margiana","Alexandria Bucephala","Alexandria Rhambakia","Alexandria in Susiana","Stagira","Apollonia","Philippolis",
+			"Alexandretta","Methone","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon",
 			"Larissa","Apollonia","Messene","Orchomenos","Ambracia","Kos","Knidos","Amphipolis",
 			"Patras","Lamia","Nafplion","Apolyton"]
 	},

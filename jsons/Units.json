@@ -472,7 +472,7 @@
 	{
 		"name": "Companion Cavalry",
 		"unitType": "Mounted",
-		"uniqueTo": "Greece",
+		"uniqueTo": "Macedonia",
 		"replaces": "Horseman",
 		"movement": 4,
 		"strength": 12,

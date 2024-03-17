@@ -298,7 +298,7 @@
             {
                 "name": "Cultural Diplomacy",
                 "uniques": [
-                    "Allied City-States provide [Culture] equal to [100]% of what they produce for themselves"
+                    "Allied City-States provide [Culture] equal to [50]% of what they produce for themselves"
                 ],
                 "requires": ["Consulates"],
                 "row": 3,

@@ -980,7 +980,7 @@
 		"tradeRequest": "My friend, does this seem reasonable to you?",		
 		
 		"outerColor": [255, 255, 255],
-		"innerColor": [65, 141, 254],
+		"innerColor": [254, 218, 54],
 		
 		"uniqueName": "Hellenistic Fusion",
 		"uniques": ["Upon capturing a city, receive [10] times its [Science] production as [Science] immediately", "Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately"],

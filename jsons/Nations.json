@@ -979,7 +979,7 @@
 		"hateHello": "What?",
 		"tradeRequest": "My friend, does this seem reasonable to you?",		
 		
-		"outerColor": [255, 255, 255],
+		"outerColor": [0, 51, 102],
 		"innerColor": [254, 218, 54],
 		
 		"uniqueName": "Hellenistic Fusion",

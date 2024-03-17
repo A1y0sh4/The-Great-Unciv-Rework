@@ -90,7 +90,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"requiredNearbyImprovedResources": ["Stone"],
-		 "uniques": ["Gain enough Faith for [50]% of a Great Prophet", "Gain [50] [Science] <upon founding a Pantheon>", "Gain [50] [Science] <upon founding a Religion>", "Gain [50] [Science] <upon enhancing a Religion>", "Hidden when religion is disabled"],
+		 "uniques": ["Gain enough Faith for [33]% of a Great Prophet", "Gain [33] [Science] <upon founding a Pantheon>", "Gain [33] [Science] <upon founding a Religion>", "Gain [33] [Science] <upon enhancing a Religion>", "Hidden when religion is disabled"],
 		"requiredTech": "Calendar",
 		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
 	},

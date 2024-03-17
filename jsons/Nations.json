@@ -683,7 +683,7 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [65, 141, 254],
 		"uniqueName": "Classical Philosophy",
-		"uniques": ["[+15]% [Science] <in cities with at least [1] [Specialists]>", "[+15]% [Culture] <in cities with at least [1] [Specialists]>"],
+		"uniques": ["[+20]% [Science] <in cities with at least [1] [Specialists]>", "[+20]% [Culture] <in cities with at least [1] [Specialists]>"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
 			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon",

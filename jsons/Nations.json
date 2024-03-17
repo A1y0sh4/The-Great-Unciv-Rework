@@ -21,7 +21,7 @@
 		"neutralHello": "Good day.",
 		"hateHello": "Well?",
 		"tradeRequest": "Is the following trade of interest to you?",
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Protestantism",
 		
 		"outerColor": [ 0, 45, 125],
 		"innerColor": [255, 255, 255],
@@ -80,7 +80,7 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "Better hurry, I may change my mind.",
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Catholicism",
 		
 		"outerColor": [81, 120, 156],
 		"innerColor": [248, 202, 86],
@@ -105,8 +105,11 @@
 		"neutralHello": "?",
 		"hateHello": "?",
 		"tradeRequest": "Will you consider a trade?",
+		"favoredReligion": "Zoroastrianism",
+		
 		"outerColor": [252,255,218],
 		"innerColor": [191,132,6],
+		
 		"uniqueName": "Organized Warfare",
 		"uniques": ["[{Military} {Land}] units gain the [Mobility] promotion", "[+50]% maintenance costs <for [{Military} {Land}] units>"],
 		"cities": ["Aššur","Nineveh","Nimrud","Kar-Tukulti-Ninurta","Dur-Šharrukin","Halab","Carchemish","Kanesh","Harran","Imgur-Enlil",
@@ -134,7 +137,7 @@
 		"outerColor": [0, 28, 82],
 		"innerColor": [245, 240, 230],
 		
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Catholicism",
 		"uniqueName": "Terra Australis",
 		"uniques": ["[+1 Food, +1 Production] [in all coastal cities]", "[+1 Happiness, +1 Culture] [in all cities] <within [3] tiles of a [Natural Wonder]>"],
 		"cities": ["Canberra", "Sydney", "Perth", "Melbourne", "Brisbane", "Adelaide", "Darwin", "Hobart", "Wollongong", "Mackay", "Townsville", "Cairns", "Dampier", "Alice Springs", "Bathurst", "Queanbeyan", "Bundaberg", "Coffs Harbor", "Fremantle", "Gladstone", "Goulburn", "Hervey Bay", "Kalgoorlie"]
@@ -157,7 +160,7 @@
 		"neutralHello": "Hello!",
 		"hateHello": "Oh, it's ye!",
 		"tradeRequest": "I see you admire my new damask. Nobody should say that I am an unjust woman. Let's reach an agreement!",
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Catholicism",
 		
 		"outerColor": [234,0,0],
 		"innerColor": [255,255,255],
@@ -187,6 +190,7 @@
 		"neutralHello": "Welcome, friend.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "Accept this agreement or suffer the consequences.",
+		"favoredReligion": "Catholicism",
 
 		"outerColor": [139,32,23],
 		"innerColor": [134,238,214],
@@ -218,9 +222,12 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"favoredReligion": "Islam",
+		
 		"outerColor": [27,53,63],
 		"innerColor": [213,249,255],
+		
 		"uniqueName": "Ingenuity",
 		"uniques": ["Gain [10] [Science] <upon constructing [Buildings] [in capital]>", "Gain [50] [Science] <upon constructing [Wonders] [in capital]>"],
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
@@ -245,6 +252,7 @@
 		"neutralHello": "Hello.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "Should we prosper through commerce?",
+		"favoredReligion": "Catholicism",
 		
 		"outerColor": [107,208,6],
 		"innerColor": [63,106,64],
@@ -272,7 +280,7 @@
 		"introduction": "My, isn't this a pleasant surprise - what may I call you, oh mysterious stranger? I am Theodora, beloved of Byzantium.",
 		"neutralHello": "Hello again.",
 		"tradeRequest": "I have heard that you adept at certain kinds of ... interactions. Show me.",
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Orthodoxy",
 		
 		"outerColor": [128, 0, 128],
 		"innerColor": [255, 191, 0],
@@ -305,7 +313,7 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [255, 0, 0],
 		
-                "favoredReligion": "Christianity",
+                "favoredReligion": "Catholicism",
 		"uniqueName": "Canadian Expeditionary Force",
 		"uniques": ["Resting point for Influence with City-States is increased by [20] <when not at war>", "Gain [20] Influence with a [Peacekeeper] gift to a City-State"],
 		"cities": ["Ottawa", "Toronto", "Montreal", "Vancouver", "Winnipeg", "Quebec City", "Hamilton", "Halifax", "Victoria", "Windsor", "Kingston", "Brantford", "Regina", "St. John's", "Calgary", "Saskatoon", "Sault Sainte Marie", "Saint-Lin", "Whitehorse", "Thunder Bay"]
@@ -327,8 +335,11 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "What is it now?",
 		"tradeRequest": "I just had the marvelous idea, and I think you'll appreciate it too.",
+		"favoredReligion": "Islam",
+		
 		"outerColor": [189,189,189],
 		"innerColor": [88,0,154],
+		
 		"uniqueName": "Phoenician Heritage",
 		"uniques": ["[1] Movement point cost to disembark <for [Settler] units>", "Gain a free [Harbor] [in all coastal cities]", "Enables embarkation for land units <after discovering [Sailing]>"],
 		"cities": ["Carthage","Utique","Hippo Regius","Gades","Saguntum","Carthago Nova","Panormus","Lilybaeum","Hadrumetum","Zama Regia",
@@ -362,6 +373,7 @@
 		"hateLetsHearIt": ["Forward! Before I change my mind!","And?","Speak!"],
 		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
 		"hateYes": ["Eugh! Fine then…","Disgusting! Okay then…","But if I have to…"],
+		"favoredReligion": "Catholicism",
 		
 		"outerColor": [22, 101, 63],
 		"innerColor": [148, 170, 255],
@@ -419,8 +431,11 @@
 		"neutralHello": "Hail to you.",
 		"hateHello": "Oh, it's you.",
 		"tradeRequest": "This is a fine deal! Even a drunk beggar would agree!",
+		"favoredReligion": "Protestantism",
+		
 		"outerColor": [51,25,0],
 		"innerColor": [255,255,102],
+		
 		"uniqueName": "Viking Fury",
 		"uniques": ["No movement cost to pillage <for [Military] units>", "[1] Movement point cost to embark <for [All] units>", "[1] Movement point cost to disembark <for [All] units>", "Enables [All] units to enter ocean tiles <upon entering the [Medieval era]>"], 
 		"cities": ["Copenhagen","Aarhus","Kaupang","Ribe","Viborg","Tunsbers","Roskilde","Hedeby","Jelling","Truso",
@@ -448,6 +463,7 @@
 		"hateHello": "Oh, it's you.",
 
 		"tradeRequest": "Generous Egypt makes you this offer.",
+		"favoredReligion": "Islam",
 
 		"outerColor": [ 231, 213, 0],
 		"innerColor": [98,10,210],
@@ -477,6 +493,7 @@
 		"neutralHello": "Hello, again.",
 		"hateHello": "Oh, it's you!",
 		"tradeRequest": "Would you be interested in a trade agreement with England?",
+		"favoredReligion": "Protestantism",
 		
 		"outerColor": [ 114, 0, 0],
 		"innerColor": [255,255,255],
@@ -503,7 +520,7 @@
 		"defeated": "God and history will remember your actions this day. I hope you are ready for your impending judgment.",
 		"introduction": "A thousand welcomes to our fair nation. I am Selassie, the Ras Tafari Makonnen and Emperor of Ethiopia, your humble servant.",
 		"tradeRequest": "I request that you consider this offer between our two peoples. I believe it will do us both good.",
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Orthodoxy",
 		"afterPeace": "Today is the day on which we defeated our enemy. However, we shall only rejoice in our hearts, and in the spirit of heaven.",
 
 		"neutralHello": "Welcome.",
@@ -543,7 +560,7 @@
 		"neutralHello": "Hello.",
 		"hateHello": "It's you.",
 		"tradeRequest": "France offers you this exceptional proposition.",
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Catholicism",
 		
 		"outerColor": [ 38, 98, 255],
 		"innerColor": [239, 236, 148],
@@ -561,7 +578,7 @@
 		"adjective": ["Georgian"],
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Religious",
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Orthodoxy",
 	
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -590,7 +607,7 @@
 		"adjective": ["German"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Protestantism",
 		
 		"startIntroPart1": "Hail mighty Bismarck, first chancellor of Germany and her empire! Germany is an upstart nation, fashioned from the ruins of the Holy Roman Empire and finally unified in 1871, a little more than a century ago. The German people have proven themselves to be creative, industrious and ferocious warriors. Despite enduring great catastrophes in the first half of the 20th century, Germany remains a worldwide economic, artistic and technological leader.",
 		"startIntroPart2": "Great Prince Bismarck, the German people look up to you to lead them to greater days of glory. Their determination is strong, and now they turn to you, their beloved iron chancellor, to guide them once more. Will you rule and conquer through blood and iron, or foster the Germanic arts and industry? Can you build a civilization that will stand the test of time?",
@@ -619,7 +636,7 @@
 		"adjective": ["Gran Colombian"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Domination",
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Catholicism",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -649,7 +666,7 @@
 		"adjective": ["Greek"],
 		"startBias": ["Hill"],
 		"preferredVictoryType":"Domination",
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Orthodoxy",
 		
 		"startIntroPart1": "May the blessings of the gods be upon you, oh great King Alexander! You are the ruler of the mighty Greek nation. Your people lived for so many years in isolated city-states - legendary cities such as Athens, Sparta, Thebes - where they gave the world many great things, such as democracy, philosophy, tragedy, art and architecture, the very foundation of Western Civilization. Although few in number and often hostile to each other, in the 5th century BC they were able to defeat their much larger neighbor, Persia, on land and sea.",
 		"startIntroPart2": "Alexander, your people stand ready to march to war, to spread the great Greek culture to millions and to bring you everlasting glory. Are you ready to accept your destiny, King Alexander? Will you lead your people to triumph and greatness? Can you build a civilization that will stand the test of time?",
@@ -679,7 +696,7 @@
 		"adjective": ["Holy Roman"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Diplomatic",
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Protestantism",
 		
 		"startIntroPart1": "Heroic Frederick, king of the Germans, your task is to forge the independent states that surround you into an empire. You are blessed to be a great military leader - use those skills to bring these cities under your sway so they may develop into commercial and industrial powerhouses. Surely then the bards will sing of mighty Frederick with the red beard, the great Holy Roman Emperor.",
 		"startIntroPart2": "Great Emperor, the Holy Roman people look up to you to lead them to greater days of glory. Their determination is strong, and now they turn to you, their beloved emperor, to guide them once more. Will you rule and conquer through blood and iron, or foster the Holy Roman arts and industry? Can you build a civilization that will stand the test of time?",
@@ -710,7 +727,7 @@
 		"adjective": ["Incan"],
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Cultural",
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Catholicism",
 
 		"startIntroPart1": "Oh ye who remakes the world, your loyal subjects greet you, King Pachacuti Sapa Inca, ruler of Tawantinsuyu and the Inca people! From the beginnings in the small state of Cusco, the Incans displayed their potential for greatness, marching to war against their many enemies, crushing their armies into dust and carving for themselves a mighty empire stretching from Ecuador to Chile. Indeed, they built the greatest empire ever seen in pre-Columbian America. More than mere soldiers, your people were great builders and artists as well, and the remnants of their works still awe and inspire the world today.",
 		"startIntroPart2": "Oh King Pachacuti, truly are you called 'Earth Shaker'! Will you once again call upon the ground itself to a fight at your side? Your armies await your signal. Will you restore the glory of your empire? Can you build a civilization that will stand the test of time?",
@@ -787,6 +804,7 @@
 		"neutralHello": "Greetings!",
 		"hateHello": "And here the ill tide rolls in.",
 		"tradeRequest": "What if we make a deal, you and me?",
+		"favoredReligion": "Hinduism",
 		
 		"outerColor": [101,211,220],
 		"innerColor": [167,52,31],
@@ -816,6 +834,7 @@
 		"neutralHello": "Good day.",
 		"hateHello": "Oh, it's you.",
 		"tradeRequest": "Does this trade work for you, my friend?",
+		"favoredReligion": "Protestantism",
 		
 		"outerColor": [54,72,72],
 		"innerColor": [246,205,137],
@@ -844,6 +863,7 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "Italy offers you this generous deal.",
+		"favoredReligion": "Catholicism",
 		
 		"outerColor": [75,97,209],
 		"innerColor": [255,255,255],
@@ -872,8 +892,10 @@
 		"hateHello": "Oh, it's you...",
 		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
 		"favoredReligion": "Taoism",
+		
 		"outerColor": [255,255,255],
 		"innerColor": [188,0,45],
+		
 		"uniqueName": "Bushido",
 		"uniques": ["Damage is ignored when determining unit Strength <for [Military] units>", "[+1 Culture] from every [Fishing Boats]", "[+1 Culture] from every [Atoll]"],
 		"cities": ["Kyoto","Osaka","Tokyo","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
@@ -898,7 +920,7 @@
 		"neutralHello": "Hello!",
 		"hateHello": "What do you need?!",
 		"tradeRequest": "Progress and prosperity come hand in hand with trade and commerce. This deal benefits us both.",
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Orthodoxy",
 		
 		"outerColor": [21,34,78],
 		"innerColor": [255,233,142],
@@ -926,8 +948,11 @@
 		"neutralHello": "Hello.",
 		"hateHello": "Oh, it's you",
 		"tradeRequest": "We have many things to discuss and have much to benefit from each other.",
+		"favoredReligion": "Confucianism",
+		
 		"outerColor": [26,32,96],
 		"innerColor": [255,0,0],
+		
 		"uniqueName": "Scholars of the Jade Hall",
 		"uniques": ["Receive a tech boost when scientific buildings/wonders are built in capital", "[50]% of excess happiness converted to [Science]"],
 		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
@@ -950,9 +975,12 @@
 		"introduction": "I am Temuujin, conqueror of cities and countries. Before me lie future Mongolian lands. Behind me is the only cavalry that matters.",
 		"neutralHello": "Hello.",
 		"hateHello": "So what now?",
-		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
+		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.", 
+		"favoredReligion": "Tengriinism",
+		
 		"outerColor": [81,0,9],
 		"innerColor": [255,120,0],
+		
 		"uniqueName": "Mongol Terror",
 		"uniques": ["Starts with [Animal Husbandry]", "[+1] Movement <for [Mounted] units>", "[Mounted] units gain the [Blitz] promotion"],
 		"cities": ["Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan",
@@ -977,6 +1005,7 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "Better hurry, I may change my mind.",
+		"favoredReligion": "Islam",
 		
 		"outerColor": [184,179,112],
 		"innerColor": [105,73,45],
@@ -1014,7 +1043,7 @@
 		"outerColor": [188, 46, 46],
 		"innerColor": [255, 219, 67],
 
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Catholicism",
 		"uniqueName": "Holy See",
 		"uniques": ["[+100]% unhappiness from the number of cities", "Gain [50] [Faith] <upon constructing [Wonders] [in capital]>", "Allied City-States provide [Faith] equal to [100]% of what they produce for themselves", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Gold]"],
 		"cities": ["Rome", "Beneventum", "Ravenna", "Avignon", "Bologna", "Ferrara", "Ascoli", "Piacenza", "Rieti", "Assisi", "Orvieto", "Rimini", "Todi", "Viterbo"]
@@ -1037,8 +1066,10 @@
 		"hateHello": "Ahh... you...",
 		"tradeRequest": "In my endless magnanimity, I am making you this offer. You agree, of course?",
 		"favoredReligion": "Sikhism",
+		
 		"outerColor": [153,5,3],
 		"innerColor": [244,232,54],
+		
 		"uniqueName": "Achaemenid Legacy",
 		"uniques": ["[+1] Movement <for [All] units> <during a Golden Age>", "[+10]% Strength <for [All] units> <during a Golden Age>", "[+50]% Golden Age length"],
 		"cities": ["Persepolis","Parsagadae","Susa","Ecbatana","Tarsus","Gordium","Bactra","Sardis","Ergili","Dariushkabir",
@@ -1066,6 +1097,7 @@
 		"neutralHello": "I salute you.",
 		"hateHello": "What are you looking for here?",
 		"tradeRequest": "How do you like my offer?",
+		"favoredReligion": "Catholicism",
 		
 		"outerColor": [241,3,0],
 		"innerColor": [80,11,14],
@@ -1094,8 +1126,11 @@
 		"neutralHello": "Welcome, friend!",
 		"hateHello": "Oh, it's you.",
 		"tradeRequest": "Come, let our people feast together!",
+		"favoredReligion": "Catholicism",
+		
 		"outerColor": [225,105,0],
 		"innerColor": [255,255,78],
+		
 		"uniqueName": "Wayfinding",
 		"uniques": ["Enables embarkation for land units", "Enables [All] units to enter ocean tiles", "[+1] Sight <for [Embarked] units>", "[+1] Movement <for [Embarked] units>"],
 		"cities": ["Honolulu","Samoa","Tonga","Nuku Hiva","Raiatea","Aotearoa","Tahiti","Hilo","Te Wai Pounamu","Rapa Nui",
@@ -1120,6 +1155,7 @@
 		"neutralHello": "Good morning.",
 		"hateHello": "Why did you come?",
 		"tradeRequest": "Will you consider this offer?",
+		"favoredReligion": "Catholicism",
 		
 		"outerColor": [206,206,205],
 		"innerColor": [8,25,115],
@@ -1148,8 +1184,11 @@
 		"neutralHello": "Hail.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "I offer this, for your consideration.",
+		"favoredReligion": "Catholicism",
+		
 		"outerColor": [ 53,0,87],
 		"innerColor": [238,201,9],
+		
 		"uniqueName": "The Glory of Rome",
 		"uniques": ["[+10]% Production when constructing [All] buildings [in all cities connected to capital]", "[-25]% construction time for [All] improvements"],
 		"cities": ["Rome","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
@@ -1174,7 +1213,7 @@
 		"neutralHello": "Hello!",
 		"hateHello": "What do you need?!",
 		"tradeRequest": "How would you like it if I propose this kind of exchange?",
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Orthodoxy",
 		
 		"outerColor": [250, 200, 25],
 		"innerColor": [0,0,0],
@@ -1261,9 +1300,11 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "Well?",
 		"tradeRequest": "I hope this deal will receive your blessing.",
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Catholicism",
+		
 		"outerColor": [102,0,0],
 		"innerColor": [255,102,102],
+		
 		"uniqueName": "Seven Cities of Gold",
 		"uniques": ["Gain [250] [Gold] <upon discovering a Natural Wonder>", "[+1 Happiness, +2 Faith] for every known Natural Wonder", "[+5 Gold] [in all cities] <on foreign continents>"],
 		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
@@ -1288,6 +1329,7 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "Better hurry, I may change my mind.",
+		"favoredReligion": "Islam",
 		
 		"outerColor": [15,70,109],
 		"innerColor": [229,118,95],
@@ -1314,6 +1356,7 @@
 		"neutralHello": "Oh, welcome!",
 		"hateHello": "Oh, it is you.",
 		"tradeRequest": "My friend, it is my belief that this settlement can benefit both our peoples.",
+		"favoredReligion": "Protestantism",
 		
 		"outerColor": [0, 90, 178],
 		"innerColor": [254, 204, 0],
@@ -1342,6 +1385,7 @@
 		"neutralHello": "Good day.",
 		"hateHello": "Well?",
 		"tradeRequest": "Is the following trade of interest to you?",
+		"favoredReligion": "Catholicism",
 
         "outerColor": [1, 55, 145],
         "innerColor": [245, 48, 44],
@@ -1368,9 +1412,11 @@
 		"introduction":  "I am the mighty Mursilis. Don't get in my way and we shall live in peace.",
 		"neutralHello": "Hail.",
 		"tradeRequest": "What about this?",
+		"favoredReligion": "Islam",
 
 		"outerColor": [	172, 142, 97],
 		"innerColor": [	71, 6, 23],
+		
 		"uniqueName": "Gifts From the Storm Gods",
 		"uniqueText": "Gain 2 amounts of the Strategic resources you have revealed\n+1 [Happiness], +2 [Gold] from each type of Strategic resource",
 		"uniques": ["Provides [2] [Horses] <after discovering [Animal Husbandry]>", "Provides [2] [Iron] <after discovering [Iron Working]>", "Provides [2] [Coal] <after discovering [Industrialization]>", "Provides [2] [Oil] <after discovering [Biology]>", "Provides [2] [Aluminum] <after discovering [Electricity]>", "Provides [2] [Uranium] <after discovering [Atomic Theory]>", "[+1 Happiness, +2 Gold] <with [Horses]>", "[+1 Happiness, +2 Gold] <with [Iron]>", "[+1 Happiness, +2 Gold] <with [Coal]>", "[+1 Happiness, +2 Gold] <with [Oil]>", "[+1 Happiness, +2 Gold] <with [Aluminum]>", "[+1 Happiness, +2 Gold] <with [Uranium]>"],
@@ -1395,6 +1441,7 @@
 		"neutralHello": "Good day to you.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "This is better than you deserve, but let it not be said that I am an unfair man.",
+		"favoredReligion": "Tengriinism",
 		
 		"outerColor": [238,238,236],
 		"innerColor": [77,2,4],
@@ -1430,6 +1477,7 @@
 		"hateLetsHearIt": ["Talk.","So?","Speak!"],
 		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
 		"hateYes": ["Oh… Fine, okay."],
+		"favoredReligion": "Catholicism",
 		
 		"outerColor": [198,141,99],
 		"innerColor": [24,63,66],
@@ -1459,8 +1507,11 @@
 		"neutralHello": "Once again, greetings.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "I believe I have something that may be of some importance to you.",
+		"favoredReligion": "Protestantism",
+		
 		"outerColor": [229, 118, 0],
 		"innerColor": [255,255,255],
+		
 		"uniqueName": "Dutch East India Company",
 		"uniques": ["[50]% of excess happiness converted to [Gold]", "[+1 Happiness] from every [Harbor]", "[+1 Happiness] from every [Seaport]"],
 		"cities": ["Amsterdam","Rotterdam","Utrecht","Groningen","Breda","Nijimegen","Den Haag","Haarlem","Arnhem","Zutphen",
@@ -1486,8 +1537,10 @@
 		"hateHello": "What do you want?",
 		"tradeRequest": "Let us do business! Would you be interested?",
 		"favoredReligion": "Islam",
+		
 		"outerColor": [245,248,185],
 		"innerColor": [18,84,30],
+		
 		"uniqueName": "The Great Turkish Bombard",
 		"uniques": ["[+50]% Production when constructing [Siege] units [in all cities]", "[+50]% Strength <for [Siege] units> <vs cities>", "[+1 Faith] [in all cities with a garrison]"],
 		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyabakir","Izmir","Kayseri","Malatya",
@@ -1514,6 +1567,7 @@
 		"hateHello": "What do YOU want?!",
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"favoredReligion": "Catholicism",
 				
 		"outerColor": [240, 240, 240],
 		"innerColor": [219, 82, 21],
@@ -1538,7 +1592,8 @@
 		"introduction": "I am Lady Trieu, the general who wears the golden robe. Welcome to Vietnam.",
 		"neutralHello": "Xin chao.",
 		"hateHello": "What do you want?",
-		"tradeRequest": "Better hurry, I may change my mind.",
+		"tradeRequest": "Better hurry, I may change my mind.", 
+		"favoredReligion": "Buddhism",
 		
 		"outerColor": [255,255,0],
 		"innerColor": [218,37,29],
@@ -1565,6 +1620,7 @@
 		"neutralHello": "Hail your Majesty!",
 		"hateHello": "You say? What are you doing here?",
 		"tradeRequest": "Approve the closure sell.",
+		"favoredReligion": "Protestantism",
 		
 		"outerColor": [255,247,241],
 		"innerColor": [116,55,25],

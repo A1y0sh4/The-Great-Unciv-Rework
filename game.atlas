@@ -67,7 +67,7 @@ BuildingIcons/Cognac Distillery
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Bizanthium
+NationIcons/Bizantium
   rotate: false
   xy: 544, 904
   size: 100, 100

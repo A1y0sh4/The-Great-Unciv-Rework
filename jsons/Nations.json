@@ -691,37 +691,6 @@
 			"Patras","Lamia","Nafplion","Apolyton"]
 	},
 	{
-		"name": "Macedonia",
-		"leaderName": "Alexander",
-		"adjective": ["Macedonian"],
-		"startBias": ["Hill"],
-		"preferredVictoryType":"Domination",
-		"favoredReligion": "Orthodoxy",
-		
-		"startIntroPart1": "May the blessings of the gods be upon you, oh great King Alexander! You are the ruler of the mighty Greek nation. Your people lived for so many years in isolated city-states - legendary cities such as Athens, Sparta, Thebes - where they gave the world many great things, such as democracy, philosophy, tragedy, art and architecture, the very foundation of Western Civilization. Although few in number and often hostile to each other, in the 5th century BC they were able to defeat their much larger neighbor, Persia, on land and sea.",
-		"startIntroPart2": "Alexander, your people stand ready to march to war, to spread the great Greek culture to millions and to bring you everlasting glory. Are you ready to accept your destiny, King Alexander? Will you lead your people to triumph and greatness? Can you build a civilization that will stand the test of time?",
-
-		"declaringWar": "You are in my way, you must be destroyed.",
-		"attacked": "The armies of Greece await you with open arms!",
-		"defeated": "You have somehow become my undoing! What kind of beast are you?",
-		"introduction": "Greetings! I am Alexander of Macedon, the King and the Pharaoh, the undefeated General of Greece!",
-
-		"neutralHello": "Greetings!",
-		"hateHello": "What?",
-		"tradeRequest": "My friend, does this seem reasonable to you?",		
-		
-		"outerColor": [255, 255, 255],
-		"innerColor": [65, 141, 254],
-		
-		"uniqueName": "Hellenistic Fusion",
-		"uniques": ["Upon capturing a city, receive [10] times its [Science] production as [Science] immediately", "Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately"],
-		"cities": ["Pella","Aigai","Thessalonike","Dion","Pydna","Amphipolis","Alexandropouli","Alexandria Troas","Alexandria","Alexandria Ariana",
-			"Alexandria Arachosia","Alexandria Eschate","Alexandria in Parapamisdai","Alexandria in Margiana","Alexandria Bucephala","Alexandria Rhambakia","Alexandria in Susiana","Stagira","Apollonia","Philippolis",
-			"Alexandretta","Methone","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon",
-			"Larissa","Apollonia","Messene","Orchomenos","Ambracia","Kos","Knidos","Amphipolis",
-			"Patras","Lamia","Nafplion","Apolyton"]
-	},
-	{
 		"name": "Holy Roman Empire",
 		"leaderName": "Frederick Barbarossa",
 		"adjective": ["Holy Roman"],
@@ -989,6 +958,37 @@
 		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
 			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"]
+	},
+	{
+		"name": "Macedonia",
+		"leaderName": "Alexander",
+		"adjective": ["Macedonian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType":"Domination",
+		"favoredReligion": "Orthodoxy",
+		
+		"startIntroPart1": "May the blessings of the gods be upon you, oh great King Alexander! You are the ruler of the mighty Greek nation. Your people lived for so many years in isolated city-states - legendary cities such as Athens, Sparta, Thebes - where they gave the world many great things, such as democracy, philosophy, tragedy, art and architecture, the very foundation of Western Civilization. Although few in number and often hostile to each other, in the 5th century BC they were able to defeat their much larger neighbor, Persia, on land and sea.",
+		"startIntroPart2": "Alexander, your people stand ready to march to war, to spread the great Greek culture to millions and to bring you everlasting glory. Are you ready to accept your destiny, King Alexander? Will you lead your people to triumph and greatness? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "The armies of Greece await you with open arms!",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Greetings! I am Alexander of Macedon, the King and the Pharaoh, the undefeated General of Greece!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+		"tradeRequest": "My friend, does this seem reasonable to you?",		
+		
+		"outerColor": [255, 255, 255],
+		"innerColor": [65, 141, 254],
+		
+		"uniqueName": "Hellenistic Fusion",
+		"uniques": ["Upon capturing a city, receive [10] times its [Science] production as [Science] immediately", "Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately"],
+		"cities": ["Pella","Aigai","Thessaloniki","Dion","Pydna","Amphipolis","Alexandropouli","Alexandria Troas","Alexandria","Alexandria Ariana",
+			"Alexandria Arachosia","Alexandria Eschate","Alexandria in Parapamisdai","Alexandria in Margiana","Alexandria Bucephala","Alexandria Rhambakia","Alexandria in Susiana","Stagira","Apollonia","Philippolis",
+			"Alexandretta","Methone","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon",
+			"Larissa","Apollonia","Messene","Orchomenos","Ambracia","Kos","Knidos","Amphipolis",
+			"Patras","Lamia","Nafplion","Apolyton"]
 	},
 	{
 		"name": "Mongolia",

@@ -675,12 +675,12 @@
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 14,
-		"cost": 70,
+		"cost": 60,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"hurryCostModifier": 20,
-		"promotions": ["[Mohawk Warrior] ability"],
+		"promotions": ["[Asafo] ability"],
 		"attackSound": "metalhit"
 	},
 	// Medieval Era

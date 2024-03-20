@@ -112,7 +112,7 @@
 		"innerColor": [242, 43, 53],
 		
 		"uniqueName": "Golden Stool",
-		"uniques": ["[+2 Culture, +3 Happiness] from every [Palace]", "[+50]% [Gold] [in capital]"],
+		"uniques": ["[+2 Culture, +3 Happiness] from every [Palace]", "[+1 Gold] from every [Barracks]", "[+1 Gold] from every [Armory]", "[+1 Gold] from every [Military Academy]"],
 		"cities": ["Kumasi","Bantama","Mampong","Edweso","Bekwai","Kumawu","Obuasi","Adanse","Asante-Akim Agogo","Juaben",
 			"Ejisu","Fomena","Agona-Ashanti","Dunkwa-on-Offin","Techiman","Afram Plains","Konongo","Akwatia","Obogu","Nkawie","Asokore Mampong",
 			"Obuasi-Bekwai","Krofrom","Bomaa","Kwabre","Adumasa","Sekyere-Hemang","Aboabo","Adansi","Besease",

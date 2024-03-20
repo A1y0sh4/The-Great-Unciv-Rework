@@ -53,12 +53,24 @@
 	{
 		"name": "Bahay Kubo",
                 "replaces": "Granary",
-		"uniqueTo": "The Philippines",
+		"uniqueTo": "The Philippines", 
 		"cost": 30,
 		"maintenance": 0,
 		"hurryCostModifier": 25,
 	        "percentStatBonus": {"food": 10},
 		"uniques": ["[+1 Food] <within [1] tiles of a [Coast]>"]
+		
+	},
+	{
+		"name": "Shrine",
+                "replaces": "Granary",
+		"uniqueTo": "Ashanti",
+		"cost": 40,
+		"faith": 1,
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+	        "percentStatBonus": {"food": 10, "culture": 10},
+		"requiredTech": "Pottery"
 		
 	},
 	{

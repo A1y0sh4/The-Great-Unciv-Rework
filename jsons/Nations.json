@@ -111,7 +111,7 @@
 		"outerColor": [ 253, 220, 0],
 		"innerColor": [242, 43, 53],
 		
-		"uniqueName": "Manifest Destiny",
+		"uniqueName": "Golden Stool",
 		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]", "Earn [100]% of killed [Military] unit's [Strength] as [Culture] <in [Friendly Land] tiles>"],
 		"cities": ["Kumasi","Bantama","Mampong","Edweso","Bekwai","Kumawu","Obuasi","Adanse","Asante-Akim Agogo","Juaben",
 			"Ejisu","Fomena","Agona-Ashanti","Dunkwa-on-Offin","Techiman","Afram Plains","Konongo","Akwatia","Obogu","Nkawie","Asokore Mampong",

@@ -823,6 +823,10 @@
 		"uniques": ["No movement cost to pillage", "Ignores Zone of Control"]
 	},
 	{
+		"name": "[Asafo] ability",
+		"uniques": ["[+15]% Strength <when defending>", "[-50]% maintenance costs"]
+	},
+	{
 		"name": "[Cossack] ability",
 		"uniques": ["[+50]% Strength <vs [Wounded] units>"]
 	},

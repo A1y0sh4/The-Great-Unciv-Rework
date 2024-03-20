@@ -109,7 +109,7 @@
 		"favoredReligion": "Protestantism",
 		
 		"outerColor": [ 0, 45, 125],
-		"innerColor": [255, 255, 255],
+		"innerColor": [253, 220, 0],
 		
 		"uniqueName": "Manifest Destiny",
 		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]", "Earn [100]% of killed [Military] unit's [Strength] as [Culture] <in [Friendly Land] tiles>"],

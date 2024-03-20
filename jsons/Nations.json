@@ -112,7 +112,7 @@
 		"innerColor": [242, 43, 53],
 		
 		"uniqueName": "Golden Stool",
-		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]", "Earn [100]% of killed [Military] unit's [Strength] as [Culture] <in [Friendly Land] tiles>"],
+		"uniques": ["[+2 Culture] from every [Palace]", "[+50]% [Gold] [in capital]"],
 		"cities": ["Kumasi","Bantama","Mampong","Edweso","Bekwai","Kumawu","Obuasi","Adanse","Asante-Akim Agogo","Juaben",
 			"Ejisu","Fomena","Agona-Ashanti","Dunkwa-on-Offin","Techiman","Afram Plains","Konongo","Akwatia","Obogu","Nkawie","Asokore Mampong",
 			"Obuasi-Bekwai","Krofrom","Bomaa","Kwabre","Adumasa","Sekyere-Hemang","Aboabo","Adansi","Besease",

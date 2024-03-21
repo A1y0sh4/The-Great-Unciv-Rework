@@ -1784,17 +1784,17 @@
 		"cities": ["Florence"]
 	},
 	{
-		"name": "Hanoi",
-		"adjective": ["Hanoi"],
+		"name": "Izatys",
+		"adjective": ["Sioux"],
 		"cityStateType": "Cultured",
-		"startBias": ["Jungle"],
+		"startBias": ["Plains"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "So this is how it feels to die...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [51, 51, 255],
-		"cities": ["Hanoi"]
+		"cities": ["Izatys"]
 	},
 	{
 		"name": "Nok",

@@ -249,6 +249,13 @@ PolicyIcons/Political Science
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Ashanti
+  rotate: false
+  xy: 1220, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Bahay Kubo
   rotate: false
   xy: 1340, 160

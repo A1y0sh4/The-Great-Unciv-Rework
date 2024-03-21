@@ -1862,17 +1862,17 @@
 		"cities": ["Havana"]
 	},
 	{
-		"name": "Kumasi",
-		"adjective": ["Ghanaian"],
+		"name": "Asunción",
+		"adjective": ["Paraguayan"],
 		"cityStateType": "Cultured",
-		"startBias": ["Flood plains"],
+		"startBias": ["Jungle"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "You fiend! History shall remember this!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [211, 220, 103],
-		"cities": ["Kumasi"]
+		"cities": ["Asunción"]
 	},
 	{
 		"name": "Prague",

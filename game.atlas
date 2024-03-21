@@ -251,7 +251,7 @@ PolicyIcons/Political Science
   index: -1
 NationIcons/Ashanti
   rotate: false
-  xy: 1220, 640
+  xy: 1220, 630
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

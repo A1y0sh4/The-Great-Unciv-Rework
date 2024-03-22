@@ -793,6 +793,13 @@ NationIcons/The Hittites
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Asafo
+  rotate: false
+  xy: 784, 150
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/The Philippines
   rotate: false
   xy: 894, 40

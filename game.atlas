@@ -625,7 +625,7 @@ ImprovementIcons/Rice paddy
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Rumah adat
+ImprovementIcons/Umah
   rotate: false
   xy: 868, 688
   size: 100, 100
@@ -730,7 +730,7 @@ NationIcons/India
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Indonesia
+NationIcons/Majapahit
   rotate: false
   xy: 760, 904
   size: 100, 100

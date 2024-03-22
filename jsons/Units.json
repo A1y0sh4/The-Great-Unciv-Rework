@@ -755,7 +755,7 @@
 		"name": "Djong",
 		"unitType": "Ranged Water",
 		"replaces": "Galleass",
-		"uniqueTo": "Indonesia",
+		"uniqueTo": "Majapahit",
 		"movement": 3,
 		"strength": 18,
 		"rangedStrength": 22,

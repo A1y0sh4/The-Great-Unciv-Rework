@@ -818,9 +818,9 @@
 			"Bodhgaya","Kushinagar","Amaravati","Gaur","Gwalior","Jaipur","Karachi"]
 	},
 	{
-		"name": "Indonesia",
+		"name": "Majapahit",
 		"leaderName": "Gitarja",
-		"adjective": ["Indonesian"],
+		"adjective": ["Majapahit"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 

@@ -367,8 +367,8 @@
 		"shortcutKey": "H"
 	},
 	{
-		"name": "Rumah adat",
-		"uniqueTo": "Indonesia",
+		"name": "Umah",
+		"uniqueTo": "Majapahit",
 		"production": 1,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 5,

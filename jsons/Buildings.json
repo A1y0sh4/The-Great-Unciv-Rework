@@ -121,7 +121,8 @@
 		"uniqueTo": "Celts",
 		"cost": 60,
 		"culture": 2,
-		"maintenance": 0,
+		"maintenance": 1,
+		"requiredNearbyImprovedResources": ["Wheat"],
 		 "uniques": ["Provides [1] [Beer]"],
 		"requiredTech": "Calendar"
 	},
@@ -141,8 +142,9 @@
 		"cost": 60,
 		"culture": 1,
 		"faith": 1,
-		"maintenance": 0,
-		 "uniques": ["Provides [1] [Wine]"],
+		"maintenance": 1,
+		"requiredNearbyImprovedResources": ["Grape"],
+		 "uniques": ["Provides [1] [Wine]", "[+1 Food] from [Fresh Water] tiles [in this city]"],
 		"requiredTech": "Calendar"
 	},
 	{

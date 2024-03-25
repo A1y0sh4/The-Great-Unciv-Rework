@@ -595,7 +595,7 @@
 		"innerColor": [239, 236, 148],
 		
 		"uniqueName": "Ancient Regime",
-		"uniques": ["[+50]% Great Person generation [in all cities] <during We Love The King Day>", "[+25]% [Culture] [in all cities] <during We Love The King Day>", "[+10]% Strength <for [Military] units> <when defending>"],
+		"uniques": ["[+50]% Great Person generation [in all cities] <during We Love The King Day>", "[+25]% [Culture] [in all cities] <during We Love The King Day>", "[+1 Culture, +1 Happiness] from every [Wonder] <during We Love The King Day>"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",

@@ -1125,7 +1125,7 @@
 		"replaces": "Privateer",
 		"uniqueTo": "The Netherlands",
 		"movement": 5,
-		"strength": 30,
+		"strength": 28,
 		"cost": 175,
 		"requiredTech": "Navigation",
 		"obsoleteTech": "Steam Power",

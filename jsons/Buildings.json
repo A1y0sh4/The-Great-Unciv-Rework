@@ -915,7 +915,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["[+1 Culture, +1 Happiness] from every [World Wonder]", "Gain a free [Cathedral] [in this city]"],
+		"uniques": ["[+15]% Production when constructing [All] wonders [in all cities]", "Gain a free [Cathedral] [in this city]"],
 		"requiredTech": "Physics",
 		"quote": "'Architecture has recorded the great ideas of the human race. Not only every religious symbol, but every human thought has its page in that vast book.' - Victor Hugo"
 	},

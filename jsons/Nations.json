@@ -818,35 +818,6 @@
 			"Bodhgaya","Kushinagar","Amaravati","Gaur","Gwalior","Jaipur","Karachi"]
 	},
 	{
-		"name": "Majapahit",
-		"leaderName": "Gitarja",
-		"adjective": ["Majapahit"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Cultural",
-
-		"startIntroPart1": "",
-		"startIntroPart2": "",
-		"declaringWar": "Before this war ends, you will know the fury of a thousand ships.",
-		"attacked": "Are you serious? Didn't you know my vengeance puts monsoons to shame? Soon you will.",
-		"defeated": "The dream of Nusantara is lost to the turning tide.",
-		"introduction": "I am Gitarja, Nusantara's queen and protector. Those who thought us weak litter the ocean floor.",
-		"neutralHello": "Greetings!",
-		"hateHello": "And here the ill tide rolls in.",
-		"tradeRequest": "What if we make a deal, you and me?",
-		"favoredReligion": "Hinduism",
-		
-		"outerColor": [101,211,220],
-		"innerColor": [167,52,31],
-		
-		"uniqueName": "Great Nusantara",
-		"uniques": ["Earn [50]% of killed [{Military} {Water}] unit's [Strength] as [Faith]", "May buy [Water] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>", "[+1 Faith] from every [Fishing Boats]"],
-		"cities": ["Trowulan","Daha","Kahuripan","Lumajang","Lasem","Pajang","Tuban","Madura","Tumasik","Palembang",
-			"Jambi","Lwa Gajah","Lombok Mirah","Gurun","Saksak","Tanjung Kute","Banjar","Katingan","Sampit","Darmmacraya",
-			"Panai","Barus","Sukadan","Lamuri","Keda","Samudra","Lengkasuka","Kalanten","Pahang","Karitang",
-			"Minangkabwa","Kapuhas","Bima","Sapi","Dompo","Sragen","Garut","Gresik","Nias","Madiun",
-			"Yogyakarta","Bima","Sorong"]
-	},
-	{
 		"name": "Iroquois",
 		"leaderName": "Hiawatha",
 		"adjective": ["Irochese"],
@@ -1018,6 +989,35 @@
 			"Alexandretta","Methone","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon",
 			"Larissa","Apollonia","Messene","Orchomenos","Ambracia","Kos","Knidos","Amphipolis",
 			"Patras","Lamia","Nafplion","Apolyton"]
+	},
+	{
+		"name": "Majapahit",
+		"leaderName": "Gitarja",
+		"adjective": ["Majapahit"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		"declaringWar": "Before this war ends, you will know the fury of a thousand ships.",
+		"attacked": "Are you serious? Didn't you know my vengeance puts monsoons to shame? Soon you will.",
+		"defeated": "The dream of Nusantara is lost to the turning tide.",
+		"introduction": "I am Gitarja, Nusantara's queen and protector. Those who thought us weak litter the ocean floor.",
+		"neutralHello": "Greetings!",
+		"hateHello": "And here the ill tide rolls in.",
+		"tradeRequest": "What if we make a deal, you and me?",
+		"favoredReligion": "Hinduism",
+		
+		"outerColor": [101,211,220],
+		"innerColor": [167,52,31],
+		
+		"uniqueName": "Great Nusantara",
+		"uniques": ["Earn [50]% of killed [{Military} {Water}] unit's [Strength] as [Faith]", "May buy [Water] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>", "[+1 Faith] from every [Fishing Boats]"],
+		"cities": ["Trowulan","Daha","Kahuripan","Lumajang","Lasem","Pajang","Tuban","Madura","Tumasik","Palembang",
+			"Jambi","Lwa Gajah","Lombok Mirah","Gurun","Saksak","Tanjung Kute","Banjar","Katingan","Sampit","Darmmacraya",
+			"Panai","Barus","Sukadan","Lamuri","Keda","Samudra","Lengkasuka","Kalanten","Pahang","Karitang",
+			"Minangkabwa","Kapuhas","Bima","Sapi","Dompo","Sragen","Garut","Gresik","Nias","Madiun",
+			"Yogyakarta","Bima","Sorong"]
 	},
 	{
 		"name": "Mongolia",

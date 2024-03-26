@@ -840,10 +840,10 @@
 		
 		"uniqueName": "Great Nusantara",
 		"uniques": ["Earn [50]% of killed [{Military} {Water}] unit's [Strength] as [Faith]", "May buy [Water] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>", "[+1 Faith] from every [Fishing Boats]"],
-		"cities": ["Jakarta","Surabaya","Medan","Makassar","Batam","Denpasar","Samarinda","Mataram","Ambon","Bandung",
-			"Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung",
-			"Malang","Padang","Ternate","Banjarmasin","Pontianak","Cimahi","Balikpapan","Jambi","Komodo","Solo",
-			"Biak","Djawa","Kudus","Lombok","Samosir","Sragen","Garut","Gresik","Nias","Madiun",
+		"cities": ["Trowulan","Daha","Kahuripan","Lumajang","Lasem","Pajang","Tuban","Madura","Tumasik","Palembang",
+			"Jambi","Lwa Gajah","Lombok Mirah","Gurun","Saksak","Tanjung Kute","Banjar","Katingan","Sampit","Darmmacraya",
+			"Panai","Barus","Sukadan","Lamuri","Keda","Samudra","Lengkasuka","Kalanten","Pahang","Karitang",
+			"Minangkabwa","Kapuhas","Bima","Sapi","Dompo","Sragen","Garut","Gresik","Nias","Madiun",
 			"Yogyakarta","Bima","Sorong"]
 	},
 	{

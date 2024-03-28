@@ -149,7 +149,7 @@
 	{
 		"name": "Formation I",
 		"prerequisites": ["Shock II", "Drill II", "Accuracy II", "Barrage II"],
-		"uniques": ["[+15]% Strength <when adjacent to a [Melee] unit>"],
+		"uniques": ["[+10]% Strength <when adjacent to a [{Military} {Land}] unit>"],
 		"unitTypes": ["Sword", "Gunpowder", "Mounted", "Siege","Archery","Ranged Gunpowder"],
         "column": 7,
         "row": 2
@@ -157,7 +157,7 @@
 	{
 		"name": "Formation II",
 		"prerequisites": ["Formation I"],
-		"uniques": ["[+15]% Strength <when adjacent to a [Melee] unit>"],
+		"uniques": ["[+10]% Strength <when adjacent to a [{Military} {Land}] unit>"],
 		"unitTypes": ["Sword", "Gunpowder", "Mounted", "Siege","Archery","Ranged Gunpowder"],
         "column": 7,
         "row": 3

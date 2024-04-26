@@ -496,12 +496,9 @@
 		
 		"uniqueName": "Toqui",
 		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]", "Earn [100]% of killed [Military] unit's [Strength] as [Culture] <in [Friendly Land] tiles>"],
-		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
-			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
-			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
-			"Oakland","Tampa Bay","Orlando","Tacoma","Santa Fe","Olympia","Hunt Valley","Springfield","Palo Alto","Centralia",
-			"Spokane","Jacksonville","Svannah","Charleston","San Antonio","Birmingham","Anchorage","Sacramento","Reno",
-			"Salt Lake City","Boise","Milwaukee","Santa Cruz","Little Rock"]
+		"cities": ["Ngulu Mapu","Puel Mapu","Pikun Mapu","Nag Mapu","Willi Mapu","Pewen Mapu","Wente Mapu","Huilli Mapu","Lafken Mapu","Ina Pire Mapu",
+			"Mamüll Mapu","Rangkül Mapu","Chadi Mapu","Pehuen Mapu","Puel Willi Mapu","Bafkeh Mapu","Peñi Mapu","Boroa Mapu","Lelfün Mapu","Kallfü Mapu","Chol Chol Mapu",
+			"Makewe Mapu","Forowe Mapu","Warria Mapu","Tehuel Mapu","Kunko Mapu","Molu Mapu","Rañi Mapu","Xuf Xuf Mapu","Fudi Mapu"]
 	},
 	{
 		"name": "Morocco",

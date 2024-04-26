@@ -495,11 +495,10 @@
 		"innerColor": [125, 236, 227],
 		
 		"uniqueName": "Toqui",
-		//"uniqueText": "Gain +1% Strength for Military units for every value of [Happiness] you have up to +20%\n-10% Unhappiness from Population in all cities when at war",
-		"uniques": ["[+1]% Strength <when between [+1] and [+1] Happiness>","[+1]% Strength <when between [+2] and [+2] Happiness>","[+1]% Strength <when between [+3] and [+3] Happiness>","[+1]% Strength <when between [+4] and [+4] Happiness>","[+1]% Strength <when between [+5] and [+5] Happiness>",
-			    "[+1]% Strength <when above [+6] Happiness>","[+1]% Strength <when above [+7] Happiness>","[+1]% Strength <when above [+8] Happiness>","[+1]% Strength <when above [+9] Happiness>","[+1]% Strength <when above [+10] Happiness>",
-			    "[+1]% Strength <for [Military] units> <when above [11] [Happiness]>","[+1]% Strength <for [Military] units> <when above [12] [Happiness]>","[+1]% Strength <for [Military] units> <when above [13] [Happiness]>","[+1]% Strength <for [Military] units> <when above [14] [Happiness]>","[+1]% Strength <for [Military] units> <when above [15] [Happiness]>",
-			    "[+1]% Strength <for [Military] units> <when above [16] [Happiness]>","[+1]% Strength <for [Military] units> <when above [17] [Happiness]>","[+1]% Strength <for [Military] units> <when above [18] [Happiness]>","[+1]% Strength <for [Military] units> <when above [19] [Happiness]>","[+1]% Strength <for [Military] units> <when above [20] [Happiness]>", "[-10]% Unhappiness from [Population] [in all cities] <when at war>"],
+		"uniqueText": "+1% Strength for Military units for every Happiness (up to +15%)\n-10% Unhappiness from Population in all cities when at war",
+		"uniques": ["[+1]% Strength <when between [+1] and [+1] Happiness>","[+2]% Strength <when between [+2] and [+2] Happiness>","[+3]% Strength <when between [+3] and [+3] Happiness>","[+4]% Strength <when between [+4] and [+4] Happiness>","[+5]% Strength <when between [+5] and [+5] Happiness>",
+			    "[+6]% Strength <when between [+6] and [+6] Happiness>","[+7]% Strength <when between [+7] and [+7] Happiness>","[+8]% Strength <when between [+8] and [+8] Happiness>","[+9]% Strength <when between [+9] and [+9] Happiness>","[+10]% Strength <when between [+10] and [+10] Happiness>",
+			    "[+11]% Strength <when between [+11] and [+11] Happiness>","[+12]% Strength <when between [+12] and [+12] Happiness>","[+13]% Strength <when between [+13] and [+13] Happiness>","[+14]% Strength <when between [+14] and [+14] Happiness>","[+15]% Strength <when above [20] [Happiness]>", "[-10]% Unhappiness from [Population] [in all cities] <when at war>"],
 		"cities": ["Ngulu Mapu","Puel Mapu","Pikun Mapu","Nag Mapu","Willi Mapu","Pewen Mapu","Wente Mapu","Huilli Mapu","Lafken Mapu","Ina Pire Mapu",
 			"Mamüll Mapu","Rangkül Mapu","Chadi Mapu","Pehuen Mapu","Puel Willi Mapu","Bafkeh Mapu","Peñi Mapu","Boroa Mapu","Lelfün Mapu","Kallfü Mapu","Chol Chol Mapu",
 			"Makewe Mapu","Forowe Mapu","Warria Mapu","Tehuel Mapu","Kunko Mapu","Molu Mapu","Rañi Mapu","Xuf Xuf Mapu","Fudi Mapu"]

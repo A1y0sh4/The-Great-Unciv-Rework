@@ -496,7 +496,7 @@
 		
 		"uniqueName": "Toqui",
 		//"uniqueText": "Gain +1% Strength for Military units for every value of [Happiness] you have up to +20%\n-10% Unhappiness from Population in all cities when at war",
-		"uniques": ["[+1]% Strength <when above [+1] Happiness>","[+1]% Strength <when above [+2] Happiness>","[+1]% Strength <when above [+3] Happiness>","[+1]% Strength <when above [+4] Happiness>","[+1]% Strength <when above [+5] Happiness>",
+		"uniques": ["[+1]% Strength <when between [+1] and [+1] Happiness>","[+1]% Strength <when between [+2] and [+2] Happiness>","[+1]% Strength <when between [+3] and [+3] Happiness>","[+1]% Strength <when between [+4] and [+4] Happiness>","[+1]% Strength <when between [+5] and [+5] Happiness>",
 			    "[+1]% Strength <when above [+6] Happiness>","[+1]% Strength <when above [+7] Happiness>","[+1]% Strength <when above [+8] Happiness>","[+1]% Strength <when above [+9] Happiness>","[+1]% Strength <when above [+10] Happiness>",
 			    "[+1]% Strength <for [Military] units> <when above [11] [Happiness]>","[+1]% Strength <for [Military] units> <when above [12] [Happiness]>","[+1]% Strength <for [Military] units> <when above [13] [Happiness]>","[+1]% Strength <for [Military] units> <when above [14] [Happiness]>","[+1]% Strength <for [Military] units> <when above [15] [Happiness]>",
 			    "[+1]% Strength <for [Military] units> <when above [16] [Happiness]>","[+1]% Strength <for [Military] units> <when above [17] [Happiness]>","[+1]% Strength <for [Military] units> <when above [18] [Happiness]>","[+1]% Strength <for [Military] units> <when above [19] [Happiness]>","[+1]% Strength <for [Military] units> <when above [20] [Happiness]>", "[-10]% Unhappiness from [Population] [in all cities] <when at war>"],

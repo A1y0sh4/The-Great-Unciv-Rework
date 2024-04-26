@@ -473,66 +473,6 @@
 			"Whapmagoostui"]
 	},
 	{
-		"name": "Mapuche",
-		"leaderName": "Lautaro",
-		"adjective": ["Mapuche"],
-		"startBias": ["Mountain"],
-		"preferredVictoryType": "Domination",
-		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
-		
-		"declaringWar": "It comes to war. Mapuche shall use your own weapons against you!",
-		"attacked": "I knew you could not be trusted! We have long prepared for this war. Have you?",
-		"defeated": "We resisted to the last, but it was too late… too late.",
-		"introduction": "I am Lautaro, the Swift Hawk. Mapuche honor me with respect. Will I see the same from you?",
-		"neutralHello": "Good day.",
-		"hateHello": "Well?",
-		"tradeRequest": "Is the following trade of interest to you?",
-		"favoredReligion": "Catholicism",
-		
-		"outerColor": [ 0, 79, 206],
-		"innerColor": [125, 236, 227],
-		
-		"uniqueName": "Toqui",
-		"uniqueText": "+1% Strength for Military units for every Happiness (up to +15%)\n-10% Unhappiness from Population in all cities when at war",
-		"uniques": ["[+1]% Strength <when between [+1] and [+1] Happiness>","[+2]% Strength <when between [+2] and [+2] Happiness>","[+3]% Strength <when between [+3] and [+3] Happiness>","[+4]% Strength <when between [+4] and [+4] Happiness>","[+5]% Strength <when between [+5] and [+5] Happiness>",
-			    "[+6]% Strength <when between [+6] and [+6] Happiness>","[+7]% Strength <when between [+7] and [+7] Happiness>","[+8]% Strength <when between [+8] and [+8] Happiness>","[+9]% Strength <when between [+9] and [+9] Happiness>","[+10]% Strength <when between [+10] and [+10] Happiness>",
-			    "[+11]% Strength <when between [+11] and [+11] Happiness>","[+12]% Strength <when between [+12] and [+12] Happiness>","[+13]% Strength <when between [+13] and [+13] Happiness>","[+14]% Strength <when between [+14] and [+14] Happiness>","[+15]% Strength <when above [20] [Happiness]>", "[-10]% Unhappiness from [Population] [in all cities] <when at war>"],
-		"cities": ["Ngulu Mapu","Puel Mapu","Pikun Mapu","Nag Mapu","Willi Mapu","Pewen Mapu","Wente Mapu","Huilli Mapu","Lafken Mapu","Ina Pire Mapu",
-			"Mamüll Mapu","Rangkül Mapu","Chadi Mapu","Pehuen Mapu","Puel Willi Mapu","Bafkeh Mapu","Peñi Mapu","Boroa Mapu","Lelfün Mapu","Kallfü Mapu","Chol Chol Mapu",
-			"Makewe Mapu","Forowe Mapu","Warria Mapu","Tehuel Mapu","Kunko Mapu","Molu Mapu","Rañi Mapu","Xuf Xuf Mapu","Fudi Mapu"]
-	},
-	{
-		"name": "Morocco",
-		"leaderName": "Ahmad al-Mansur",
-		"adjective": ["Moroccan"],
-		"startBias": ["Desert"],
-		"preferredVictoryType": "Cultural",
-		
-		"startIntroPart1": "The people of Morocco await your guidance, great Sultan Ahmad al-Mansur of the Saadi Dynasty. Well known for your skill as both a negotiator and a diplomat, your careful words allowed the forging of new alliances, securing the sovereignty of your nation and its people for decades. And still, when words failed, you found equal success in conquest, leading the Moroccan armies to victory on the battlefield while greatly expanding the grasp of your empire.",
-		"startIntroPart2": "President Washington, can you lead the American people to greatness? Can you build a civilization that will stand the test of time?",
-		
-		"declaringWar": "The gain from the war, what will you get out of it?",
-		"attacked": "Shame on you, using violence which doesn't solve anything.",
-		"defeated": "The gain is having a clean system from corruption.",
-		"introduction": "I am the Sultan of Marrakesh al-Mansur, in the name of my people I welcome you!",
-		"neutralHello": "Greetings.",
-		"hateHello": "What are you doing here??",
-		"tradeRequest": "I came hopeful that we can reach an agreement",
-		"favoredReligion": "Islam",
-		
-		"outerColor": [ 122, 2, 0],
-		"innerColor": [40, 179, 79],
-		
-		"uniqueName": "Gateway to Africa",
-		"uniques": ["[+2 Gold] [in all cities connected to capital]", "[+1 Culture] from every [Desert]"],
-		"cities": ["Marrakech","Rabat","Fes","Casablanca","Tangier","Salé","Ouarzazate","Meknes","Agadir","Oujda",
-			"Kenitra","Tetouan","Essaouira","Safi","Taroudannt","Mohammedia","El Aaiun","Beni Mellal","El Jadida","Ksar el Kebir","Taza",
-			"Fquih ben Salah","Khouribga","Nador","Settat","Berrechid","Larache","Khemisset","Guelmim","Dakhla",
-			"Chefchaouen","Ben Guerir","El Kelaa des Sraghna","Erfoud"]
-	},
-	{
 		"name": "Denmark",
 		"leaderName": "Harald Bluetooth",
 		"adjective": ["Danish"],
@@ -1109,6 +1049,37 @@
 			"Yogyakarta","Bima","Sorong"]
 	},
 	{
+		"name": "Mapuche",
+		"leaderName": "Lautaro",
+		"adjective": ["Mapuche"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "It comes to war. Mapuche shall use your own weapons against you!",
+		"attacked": "I knew you could not be trusted! We have long prepared for this war. Have you?",
+		"defeated": "We resisted to the last, but it was too late… too late.",
+		"introduction": "I am Lautaro, the Swift Hawk. Mapuche honor me with respect. Will I see the same from you?",
+		"neutralHello": "Good day.",
+		"hateHello": "Well?",
+		"tradeRequest": "Is the following trade of interest to you?",
+		"favoredReligion": "Catholicism",
+		
+		"outerColor": [ 0, 79, 206],
+		"innerColor": [125, 236, 227],
+		
+		"uniqueName": "Toqui",
+		"uniqueText": "+1% Strength for Military units for every Happiness (up to +15%)\n-10% Unhappiness from Population in all cities when at war",
+		"uniques": ["[+1]% Strength <when between [+1] and [+1] Happiness>","[+2]% Strength <when between [+2] and [+2] Happiness>","[+3]% Strength <when between [+3] and [+3] Happiness>","[+4]% Strength <when between [+4] and [+4] Happiness>","[+5]% Strength <when between [+5] and [+5] Happiness>",
+			    "[+6]% Strength <when between [+6] and [+6] Happiness>","[+7]% Strength <when between [+7] and [+7] Happiness>","[+8]% Strength <when between [+8] and [+8] Happiness>","[+9]% Strength <when between [+9] and [+9] Happiness>","[+10]% Strength <when between [+10] and [+10] Happiness>",
+			    "[+11]% Strength <when between [+11] and [+11] Happiness>","[+12]% Strength <when between [+12] and [+12] Happiness>","[+13]% Strength <when between [+13] and [+13] Happiness>","[+14]% Strength <when between [+14] and [+14] Happiness>","[+15]% Strength <when above [+15] Happiness>", "[-10]% Unhappiness from [Population] [in all cities] <when at war>"],
+		"cities": ["Ngulu Mapu","Puel Mapu","Pikun Mapu","Nag Mapu","Willi Mapu","Pewen Mapu","Wente Mapu","Huilli Mapu","Lafken Mapu","Ina Pire Mapu",
+			"Mamüll Mapu","Rangkül Mapu","Chadi Mapu","Pehuen Mapu","Puel Willi Mapu","Bafkeh Mapu","Peñi Mapu","Boroa Mapu","Lelfün Mapu","Kallfü Mapu","Chol Chol Mapu",
+			"Makewe Mapu","Forowe Mapu","Warria Mapu","Tehuel Mapu","Kunko Mapu","Molu Mapu","Rañi Mapu","Xuf Xuf Mapu","Fudi Mapu"]
+	},
+	{
 		"name": "Mongolia",
 		"leaderName": "Genghis Khan",
 		"adjective": ["Mongolian"],
@@ -1136,6 +1107,35 @@
 			"Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg",
 			"Baruun-Urt","Ereen","Batshireet","Choyr","Ulaangom","Tosontsengel","Altay","Uliastay","Bayanhongor",
 			"Har-Ayrag","Nalayh","Tes"]
+	},
+	{
+		"name": "Morocco",
+		"leaderName": "Ahmad al-Mansur",
+		"adjective": ["Moroccan"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "The people of Morocco await your guidance, great Sultan Ahmad al-Mansur of the Saadi Dynasty. Well known for your skill as both a negotiator and a diplomat, your careful words allowed the forging of new alliances, securing the sovereignty of your nation and its people for decades. And still, when words failed, you found equal success in conquest, leading the Moroccan armies to victory on the battlefield while greatly expanding the grasp of your empire.",
+		"startIntroPart2": "President Washington, can you lead the American people to greatness? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "The gain from the war, what will you get out of it?",
+		"attacked": "Shame on you, using violence which doesn't solve anything.",
+		"defeated": "The gain is having a clean system from corruption.",
+		"introduction": "I am the Sultan of Marrakesh al-Mansur, in the name of my people I welcome you!",
+		"neutralHello": "Greetings.",
+		"hateHello": "What are you doing here??",
+		"tradeRequest": "I came hopeful that we can reach an agreement",
+		"favoredReligion": "Islam",
+		
+		"outerColor": [ 122, 2, 0],
+		"innerColor": [40, 179, 79],
+		
+		"uniqueName": "Gateway to Africa",
+		"uniques": ["[+1 Gold] [in all cities connected to capital]", "[+1 Culture] from every [Desert]"],
+		"cities": ["Marrakech","Rabat","Fes","Casablanca","Tangier","Salé","Ouarzazate","Meknes","Agadir","Oujda",
+			"Kenitra","Tetouan","Essaouira","Safi","Taroudannt","Mohammedia","El Aaiun","Beni Mellal","El Jadida","Ksar el Kebir","Taza",
+			"Fquih ben Salah","Khouribga","Nador","Settat","Berrechid","Larache","Khemisset","Guelmim","Dakhla",
+			"Chefchaouen","Ben Guerir","El Kelaa des Sraghna","Erfoud"]
 	},
 	{
 		"name": "Nubia",

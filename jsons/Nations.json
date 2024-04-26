@@ -467,12 +467,10 @@
 		
 		"uniqueName": "Nîhithaw",
 		"uniques": ["[+1 Food] from every [Camp]", "[+1 Food] from every [Pasture]"],
-		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
-			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
-			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
-			"Oakland","Tampa Bay","Orlando","Tacoma","Santa Fe","Olympia","Hunt Valley","Springfield","Palo Alto","Centralia",
-			"Spokane","Jacksonville","Svannah","Charleston","San Antonio","Birmingham","Anchorage","Sacramento","Reno",
-			"Salt Lake City","Boise","Milwaukee","Santa Cruz","Little Rock"]
+		"cities": ["Mikisiw-Wacîhk","Pihtokahanapiwiyin","Mistahi-Sipihk","Paskwaw-Askhik","Piyesiw-Awasis","Mistawasis","Makwa-Sakahikan","Ka-Peyakwaskonam","Ahtahkakoop","Wihkasko-Kiseyin",
+			"Chemawawin","Ka-kiwistahaw","Ka-ohpawakastahk","Kawacatoose","Kawawachikamach","Kinosew-Sakahikan","Maskotew","Missanabie","Moosomin","Natashquan","Nekaneet",
+			"Ochapowace","Okanese","Papewe","Peepeekisis","Posakanacihk","Tataskweyak","Wapi-maskwa","Waskahikanihk",
+			"Whapmagoostui"]
 	},
 	{
 		"name": "Mapuche",

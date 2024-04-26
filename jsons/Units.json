@@ -37,7 +37,7 @@
 		"strength": 6,
 		"cost": 35,
 		"obsoleteTech": "Guilds",
-		"uniques" : ["[+1] Movement <in [Water] tiles>", "Transfer Movement to [Civilian]"],
+		"promotions": ["Quick Study"], 
 		"upgradesTo": "Skirmisher",
 		"attackSound": "nonmetalhit"
 	},

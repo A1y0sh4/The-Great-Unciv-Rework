@@ -64,13 +64,14 @@
 	{
 		"name": "Mekewap",
                 "replaces": "Granary",
-		"uniqueTo": "Cree", 
+		"uniqueTo": "Cree",
+		"requiredTech": "Pottery"
 		"cost": 40,
 		"production": 1,
+		"food": 1,
 		"maintenance": 0,
 		"hurryCostModifier": 25,
-	        "percentStatBonus": {"food": 10},
-		"uniques": ["[+1 Food] <after discovering [Civil Service]>"]
+	        "percentStatBonus": {"food": 10}
 	},
 	{
 		"name": "Shrine",

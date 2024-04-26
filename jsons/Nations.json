@@ -444,49 +444,19 @@
 			"Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"]
 	},
 	{
-		"name": "Denmark",
-		"leaderName": "Harald Bluetooth",
-		"adjective": ["Danish"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Domination",
-		
-		"startIntroPart1": "Honor and glory be yours, Harald Bluetooth Gormsson, mighty heir of King Gorm of the Old and Thyra Dannebod. Not only were you victorious on the battlefield against the armies of Norway, you also completed massive construction project across the land - numerous Ring Fortresses to protect the populace from invasion and internal strife. You successfully drove off waves of German settlers in 983 AD and sheltered your kingdom from unwanted foreign influence.",
-		"startIntroPart2": "Stalwart Viking, the time for greatness is upon you once more. You are called to rise up and lead your people to renewed power and triumph! Will you make the world shudder once more at the very thought of your great armies of Northsmen? Will you let the Viking battle cry ring out across the crashing waves? Will you build a civilization to stand the test of time?",
-		
-		"declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the skalds will sing of your valor... or mine!",
-		"attacked": "Ahahah! You seem to show some skills of a true Viking! Too bad that I'll probably kill you!",
-		"defeated": "Loki must have stood by you, for a common man alone could not have defeated me... Oh well! I will join the einherjar in Valhalla and feast, while you toil away here.",
-		"introduction": "Harald Bluetooth bids you welcome to his lands, a Viking unlike any the seas and lands have ever known! Hah, are you afraid?",
-		"neutralHello": "Hail to you.",
-		"hateHello": "Oh, it's you.",
-		"tradeRequest": "This is a fine deal! Even a drunk beggar would agree!",
-		"favoredReligion": "Protestantism",
-		
-		"outerColor": [51,25,0],
-		"innerColor": [255,255,102],
-		
-		"uniqueName": "Viking Fury",
-		"uniques": ["No movement cost to pillage <for [Military] units>", "[1] Movement point cost to embark <for [All] units>", "[1] Movement point cost to disembark <for [All] units>", "Enables [All] units to enter ocean tiles <upon entering the [Medieval era]>"], 
-		"cities": ["Copenhagen","Aarhus","Kaupang","Ribe","Viborg","Tunsbers","Roskilde","Hedeby","Jelling","Truso",
-			"Faeroerne","Reykjavik","Trondheim","Godthab","Helluland","Lillehammer","Markland","Elsinore",
-			"Sarpsborg","Odense","Aalborg","Stavanger","Vorbasse","Schleswig","Kristiansand","Halogaland","Randers",
-			"Fredrikstad","Kolding","Horsens","Tromsoe","Vejle","Koge","Sandnes","Holstebro","Slagelse","Drammen",
-			"Hillerod","Sonderborg","Skien","Svendborg","Holbaek","Hjorring","Fladstrand","Haderslev","Ringsted","Skrive"]
-	},
-	{
 		"name": "Cree",
 		"leaderName": "Poundmaker",
-		"adjective": ["American"],
-		"startBias": ["Coast"],
+		"adjective": ["Cree"],
+		"startBias": ["Tundra"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "Welcome President Washington! You lead the industrious American civilization! Formed in the conflagration of revolution in the 18th century, within a hundred years, the young nation became embroiled in a terrible civil war that nearly tore the country apart, but it was just a few short years later in the 20th century that the United States reached the height of its power, emerging triumphant and mighty from the two terrible wars that destroyed so many other great nations. The United States is a nation of immigrants, filled with optimism and determination. They lack only a leader to help them fulfill their promise.",
-		"startIntroPart2": "President Washington, can you lead the American people to greatness? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
 		
-		"declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
-		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
-		"defeated": "The day...is yours. I hope you will be merciful in your triumph.",
-		"introduction": "The people of the United States of America welcome you.",
+		"declaringWar": "I do not care to inflict the terrors of war upon you, but justice requires it.",
+		"attacked": "You could have found another way. Now, your regrets will be measured in blood.",
+		"defeated": "Had I wanted war, I would not be here now. You did not catch me. I gave myself up.",
+		"introduction": "I am Poundmaker, and I represent the Cree. May there always be peace between us.",
 		"neutralHello": "Good day.",
 		"hateHello": "Well?",
 		"tradeRequest": "Is the following trade of interest to you?",
@@ -496,7 +466,7 @@
 		"innerColor": [255, 255, 255],
 		
 		"uniqueName": "Nîhithaw",
-		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]", "Earn [100]% of killed [Military] unit's [Strength] as [Culture] <in [Friendly Land] tiles>"],
+		"uniques": ["[+1 Food] from every [Camp]", "[+1 Food] from every [Pasture]"],
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
 			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
@@ -507,21 +477,21 @@
 	{
 		"name": "Mapuche",
 		"leaderName": "Lautaro",
-		"adjective": ["American"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Diplomatic",
+		"adjective": ["Mapuche"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Welcome President Washington! You lead the industrious American civilization! Formed in the conflagration of revolution in the 18th century, within a hundred years, the young nation became embroiled in a terrible civil war that nearly tore the country apart, but it was just a few short years later in the 20th century that the United States reached the height of its power, emerging triumphant and mighty from the two terrible wars that destroyed so many other great nations. The United States is a nation of immigrants, filled with optimism and determination. They lack only a leader to help them fulfill their promise.",
-		"startIntroPart2": "President Washington, can you lead the American people to greatness? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
 		
-		"declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
-		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
-		"defeated": "The day...is yours. I hope you will be merciful in your triumph.",
-		"introduction": "The people of the United States of America welcome you.",
+		"declaringWar": "It comes to war. Mapuche shall use your own weapons against you!",
+		"attacked": "I knew you could not be trusted! We have long prepared for this war. Have you?",
+		"defeated": "We resisted to the last, but it was too late… too late.",
+		"introduction": "I am Lautaro, the Swift Hawk. Mapuche honor me with respect. Will I see the same from you?",
 		"neutralHello": "Good day.",
 		"hateHello": "Well?",
 		"tradeRequest": "Is the following trade of interest to you?",
-		"favoredReligion": "Protestantism",
+		"favoredReligion": "Catholicism",
 		
 		"outerColor": [ 0, 45, 125],
 		"innerColor": [255, 255, 255],
@@ -565,6 +535,36 @@
 			"Oakland","Tampa Bay","Orlando","Tacoma","Santa Fe","Olympia","Hunt Valley","Springfield","Palo Alto","Centralia",
 			"Spokane","Jacksonville","Svannah","Charleston","San Antonio","Birmingham","Anchorage","Sacramento","Reno",
 			"Salt Lake City","Boise","Milwaukee","Santa Cruz","Little Rock"]
+	},
+	{
+		"name": "Denmark",
+		"leaderName": "Harald Bluetooth",
+		"adjective": ["Danish"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Honor and glory be yours, Harald Bluetooth Gormsson, mighty heir of King Gorm of the Old and Thyra Dannebod. Not only were you victorious on the battlefield against the armies of Norway, you also completed massive construction project across the land - numerous Ring Fortresses to protect the populace from invasion and internal strife. You successfully drove off waves of German settlers in 983 AD and sheltered your kingdom from unwanted foreign influence.",
+		"startIntroPart2": "Stalwart Viking, the time for greatness is upon you once more. You are called to rise up and lead your people to renewed power and triumph! Will you make the world shudder once more at the very thought of your great armies of Northsmen? Will you let the Viking battle cry ring out across the crashing waves? Will you build a civilization to stand the test of time?",
+		
+		"declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the skalds will sing of your valor... or mine!",
+		"attacked": "Ahahah! You seem to show some skills of a true Viking! Too bad that I'll probably kill you!",
+		"defeated": "Loki must have stood by you, for a common man alone could not have defeated me... Oh well! I will join the einherjar in Valhalla and feast, while you toil away here.",
+		"introduction": "Harald Bluetooth bids you welcome to his lands, a Viking unlike any the seas and lands have ever known! Hah, are you afraid?",
+		"neutralHello": "Hail to you.",
+		"hateHello": "Oh, it's you.",
+		"tradeRequest": "This is a fine deal! Even a drunk beggar would agree!",
+		"favoredReligion": "Protestantism",
+		
+		"outerColor": [51,25,0],
+		"innerColor": [255,255,102],
+		
+		"uniqueName": "Viking Fury",
+		"uniques": ["No movement cost to pillage <for [Military] units>", "[1] Movement point cost to embark <for [All] units>", "[1] Movement point cost to disembark <for [All] units>", "Enables [All] units to enter ocean tiles <upon entering the [Medieval era]>"], 
+		"cities": ["Copenhagen","Aarhus","Kaupang","Ribe","Viborg","Tunsbers","Roskilde","Hedeby","Jelling","Truso",
+			"Faeroerne","Reykjavik","Trondheim","Godthab","Helluland","Lillehammer","Markland","Elsinore",
+			"Sarpsborg","Odense","Aalborg","Stavanger","Vorbasse","Schleswig","Kristiansand","Halogaland","Randers",
+			"Fredrikstad","Kolding","Horsens","Tromsoe","Vejle","Koge","Sandnes","Holstebro","Slagelse","Drammen",
+			"Hillerod","Sonderborg","Skien","Svendborg","Holbaek","Hjorring","Fladstrand","Haderslev","Ringsted","Skrive"]
 	},
 	{
 		"name": "Egypt",

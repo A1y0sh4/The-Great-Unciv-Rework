@@ -62,6 +62,17 @@
 		
 	},
 	{
+		"name": "Mekewap",
+                "replaces": "Granary",
+		"uniqueTo": "Cree", 
+		"cost": 40,
+		"production": 1,
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+	        "percentStatBonus": {"food": 10},
+		"uniques": ["[+1 Food] <after discovering [Civil Service]>"]
+	},
+	{
 		"name": "Shrine",
                 "replaces": "Granary",
 		"uniqueTo": "Ashanti",

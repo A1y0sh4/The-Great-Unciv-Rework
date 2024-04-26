@@ -29,6 +29,19 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
+		"name": "Okihtcitaw",
+		"unitType": "Scout",
+		"uniqueTo": "Cree",
+		"replaces": "Scout",
+		"movement": 2,
+		"strength": 6,
+		"cost": 35,
+		"obsoleteTech": "Guilds",
+		"uniques" : ["[+1] Movement <in [Water] tiles>", "Transfer Movement to [Civilian]"],
+		"upgradesTo": "Skirmisher",
+		"attackSound": "nonmetalhit"
+	},
+	{
 		"name": "Skirmisher",
 		"unitType": "Scout",
 		"movement": 2,

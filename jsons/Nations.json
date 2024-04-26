@@ -462,8 +462,8 @@
 		"tradeRequest": "Is the following trade of interest to you?",
 		"favoredReligion": "Protestantism",
 		
-		"outerColor": [ 0, 45, 125],
-		"innerColor": [255, 255, 255],
+		"outerColor": [ 1, 42, 108],
+		"innerColor": [97, 191, 34],
 		
 		"uniqueName": "Nîhithaw",
 		"uniques": ["[+1 Food] from every [Camp]", "[+1 Food] from every [Pasture]"],
@@ -493,8 +493,8 @@
 		"tradeRequest": "Is the following trade of interest to you?",
 		"favoredReligion": "Catholicism",
 		
-		"outerColor": [ 0, 45, 125],
-		"innerColor": [255, 255, 255],
+		"outerColor": [ 0, 79, 206],
+		"innerColor": [125, 236, 227],
 		
 		"uniqueName": "Toqui",
 		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]", "Earn [100]% of killed [Military] unit's [Strength] as [Culture] <in [Friendly Land] tiles>"],
@@ -524,8 +524,8 @@
 		"tradeRequest": "I came hopeful that we can reach an agreement",
 		"favoredReligion": "Islam",
 		
-		"outerColor": [ 0, 45, 125],
-		"innerColor": [255, 255, 255],
+		"outerColor": [ 122, 2, 0],
+		"innerColor": [40, 179, 79],
 		
 		"uniqueName": "Gateway to Africa",
 		"uniques": ["[+2 Gold] [in all cities connected to capital]", "[+1 Culture] from every [Desert]"],

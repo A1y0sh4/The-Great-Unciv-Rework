@@ -892,6 +892,19 @@
 		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured", "Obsolete with [Rifling]", "[+2 Culture] <after discovering [Archaeology]>", "[+2 Culture, +2 Gold] <after discovering [Flight]>"],
 		"requiredTech": "Chivalry"
 	},
+        {
+		"name": "Kasbah",
+		"cost": 120,
+		"replaces": "Castle",
+		"uniqueTo": "Morocco",
+		"gold": 2,
+		"cityStrength": 5,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "[+1 Food] from [Desert] tiles [in this city]", "Destroyed when the city is captured", "Obsolete with [Rifling]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>"],
+		"requiredTech": "Chivalry"
+	},
 {
 		"name": "Barbican",
 		"cost": 145,

@@ -1266,7 +1266,7 @@
 		"cost": 155,
 		"requiredTech": "Gunpowder",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", ],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "No movement cost to pillage"],
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
 		"attackSound": "horse"

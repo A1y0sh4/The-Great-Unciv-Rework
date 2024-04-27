@@ -1451,8 +1451,8 @@
 		"tradeRequest": "How would you like it if I propose this kind of exchange?",
 		"favoredReligion": "Orthodoxy",
 		
-		"outerColor": [250, 200, 25],
-		"innerColor": [0,0,0],
+		"outerColor": [204, 0, 1],
+		"innerColor": [248,215,12],
 		
 		"uniqueName": "Workers Revolution",
 		"uniques": ["[+1 Food] from every [Farm] <during a Golden Age>", "[+1 Food] from every [Plantation] <during a Golden Age>", "[+1 Production] from every [Mine] <during a Golden Age>", "[+1 Production] from every [Quarry] <during a Golden Age>"],

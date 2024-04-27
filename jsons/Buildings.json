@@ -1036,6 +1036,17 @@
 		"requiredBuilding": "Colosseum",
 		"requiredTech": "Printing Press"
 	},
+        {
+		"name": "Soviet",
+		"replaces": "Theatre",
+		"uniqueTo": "Soviet Union",
+		"happiness": 2,
+		"hurryCostModifier": 10,
+		"maintenance": 3,
+		"requiredBuilding": "Colosseum",
+		"uniques": ["[+1 Happiness, +1 Culture] per [4] population [in this city]"],
+		"requiredTech": "Printing Press"
+	},
 	{
 		"name": "Globe Theatre",
 		"culture": 1,

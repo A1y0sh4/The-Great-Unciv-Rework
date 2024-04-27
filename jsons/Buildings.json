@@ -1040,9 +1040,9 @@
 		"name": "Soviet",
 		"replaces": "Theatre",
 		"uniqueTo": "Soviet Union",
-		"happiness": 1,
+		"happiness": 0,
 		"hurryCostModifier": 10,
-		"maintenance": 2,
+		"maintenance": 1,
 		"requiredBuilding": "Colosseum",
 		"uniques": ["[+1 Happiness, +1 Culture] per [4] population [in this city]"],
 		"requiredTech": "Printing Press"

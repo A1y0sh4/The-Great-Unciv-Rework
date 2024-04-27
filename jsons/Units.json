@@ -1551,7 +1551,7 @@
 		"replaces": "Great War Infantry",
 		"uniqueTo": "Soviet Union",
 		"movement": 2,
-		"strength": 45,
+		"strength": 50,
 		"cost": 250,
 		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Infantry",

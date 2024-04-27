@@ -1441,7 +1441,7 @@
 		"obsoleteTech": "Combustion",
 		"upgradesTo": "Landship",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+25]% Strength <when fighting in [Friendly Land] tiles>", "[+25]% Strength <when fighting in [Desert] tiles>"],
 		"attackSound": "horse"
 	},
 	{

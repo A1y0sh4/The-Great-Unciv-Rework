@@ -1545,7 +1545,20 @@
 		"promotions": ["Amphibious", "[Digger] ability"],
 		"attackSound": "shot"
 	},
-	
+	{
+		"name": "Red Guard",
+		"unitType": "Gunpowder",
+		"replaces": "Great War Infantry",
+		"uniqueTo": "Soviet Union",
+		"movement": 2,
+		"strength": 45,
+		"cost": 250,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"promotions": ["Formation I", "Pride"],
+		"attackSound": "shot"
+	},
 	{
 		"name": "Foreign Legion",
 		"unitType": "Gunpowder",

@@ -484,6 +484,18 @@
 		"uniques": ["[Faith] cost of purchasing items in cities [-5]%", "Destroyed when the city is captured"]
 		"requiredTech": "Philosophy"
 	},
+        {
+		"name": "Chemamull",
+		"replaces": "Temple",
+		"uniqueTo": "Mapuche",
+		"cost": 75,
+		"maintenance": 0,
+		"uniques": ["[+1 Production] <when at war>", "Destroyed when the city is captured"],
+		"faith": 1,
+		"culture": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy"
+	},
 	{
 		"name": "National College",
 		"cost": 100,

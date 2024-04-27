@@ -69,7 +69,7 @@
 		"cost": 40,
 		"production": 1,
 		"food": 1,
-		"maintenance": 0,
+		"maintenance": 1,
 		"hurryCostModifier": 25,
 	        "percentStatBonus": {"food": 10}
 	},

@@ -1433,6 +1433,35 @@
 			"Agadez","Niamey","Torodi","Ouatagouna","Dori","Bamba","Segou"]
 	},
 	{
+		"name": "Soviet Union",
+		"leaderName": "Lenin",
+		"adjective": ["Soviet"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Scientific",
+	
+	        "startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "You've behaved yourself very badly, you know it. Now it's payback time.",
+		"attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
+		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
+		"introduction": "I greet you, stranger! If you are as intelligent and tactful as you are attractive, we'll get along just fine.",
+		"neutralHello": "Hello!",
+		"hateHello": "What do you need?!",
+		"tradeRequest": "How would you like it if I propose this kind of exchange?",
+		"favoredReligion": "Orthodoxy",
+		
+		"outerColor": [250, 200, 25],
+		"innerColor": [0,0,0],
+		
+		"uniqueName": "Workers Revolution",
+		"uniques": ["[+1 Gold] from every [Strategic resource]", "[+1 Production] from every [Tundra]"],
+		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
+			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
+			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
+			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"]
+	},
+	{
 		"name": "Spain",
 		"leaderName": "Isabella",
 		"adjective": ["Spanish"],

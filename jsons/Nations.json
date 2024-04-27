@@ -2892,17 +2892,17 @@
 		"cities": ["Lhasa"]
 	},
 	{
-		"name": "San Lorenzo",
-		"adjective": ["Olmec"],
+		"name": "Hunkpapa",
+		"adjective": ["Oyate"],
 		"cityStateType": "Religious",
-		"startBias": ["Jungle"],
+		"startBias": ["Plains"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps now we will find peace in death...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [204,102,100],
-		"cities": ["San Lorenzo"]
+		"cities": ["Hunkpapa"]
 	},
 	 {
 		"name": "Rapa Nui",
@@ -3074,17 +3074,17 @@
 		"cities": ["Moson Kahni"]
 	},
 	{
-		"name": "Mikisiw-Wacihk",
-		"adjective": ["Cree"],
+		"name": "Tiiis Tseba",
+		"adjective": ["Apache"],
 		"cityStateType": "Religious",
-		"startBias": ["Forest"],
+		"startBias": ["Plains"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [101, 84, 135],
-		"cities": ["Mikisiw-Wacihk"]
+		"cities": ["Tiiis Tseba"]
 	},
 
 	//Barbarian

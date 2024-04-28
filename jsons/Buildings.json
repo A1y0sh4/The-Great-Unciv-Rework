@@ -488,7 +488,7 @@
 		"name": "Chemamull",
 		"replaces": "Temple",
 		"uniqueTo": "Mapuche",
-		"cost": 75,
+		"cost": 60,
 		"maintenance": 0,
 		"uniques": ["[+1 Production] <when at war>", "Destroyed when the city is captured"],
 		"faith": 1,

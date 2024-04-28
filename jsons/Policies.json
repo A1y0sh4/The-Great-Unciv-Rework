@@ -162,7 +162,7 @@
             {
                 "name": "City Militia",
                 "uniques": [
-                    "[-50]% maintenance costs <for [Military] units> <in [City center] tiles>", "[+1 Happiness] [in all cities with a garrison]"
+                    "[-50]% maintenance costs <for [Military] units> <in [City center] tiles>", "[+1 Happiness, +1 Production] [in all cities with a garrison]"
                 ],
                 "requires": ["Warrior Code"],
                 "row": 2,

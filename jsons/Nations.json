@@ -1012,7 +1012,7 @@
 		"innerColor": [254, 218, 54],
 		
 		"uniqueName": "Hellenistic Fusion",
-		"uniques": ["Upon capturing a city, receive [5] times its [Science] production as [Science] immediately", "Upon capturing a city, receive [5] times its [Culture] production as [Culture] immediately", "[-70]% unhappiness from the number of cities <when at war>"],
+		"uniques": ["Upon capturing a city, receive [5] times its [Science] production as [Science] immediately", "Upon capturing a city, receive [5] times its [Culture] production as [Culture] immediately", "[-75]% unhappiness from the number of cities <when at war>"],
 		"cities": ["Pella","Aigai","Thessaloniki","Dion","Pydna","Amphipolis","Alexandropouli","Alexandria Troas","Alexandria","Alexandria Ariana",
 			"Alexandria Arachosia","Alexandria Eschate","Alexandria in Parapamisdai","Alexandria in Margiana","Alexandria Bucephala","Alexandria Rhambakia","Alexandria in Susiana","Stagira","Apollonia","Philippolis",
 			"Alexandretta","Methone","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon",

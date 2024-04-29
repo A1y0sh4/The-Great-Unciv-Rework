@@ -983,7 +983,7 @@
 		"innerColor": [255,0,0],
 		
 		"uniqueName": "Scholars of the Jade Hall",
-		"uniques": ["Receive a tech boost when scientific buildings/wonders are built in capital", "[50]% of excess happiness converted to [Science]", "[-50]% Unhappiness from [Specialists] [in capital]"],
+		"uniques": ["Receive a tech boost when scientific buildings/wonders are built in capital", "[-50]% Unhappiness from [Specialists] [in capital]", "[50]% of excess happiness converted to [Science]"],
 		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
 			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"]

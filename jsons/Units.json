@@ -68,22 +68,6 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Sharpshooter",
-		"unitType": "Scout",
-		"uniqueTo": "The Confederate States",
-		"replaces": "Ranger",
-		"movement": 2,
-		"strength": 21,
-		"rangedStrength": 30,
-		"range": 2,
-		"cost": 175,
-		"uniques": ["[+50]% Strength <vs [Siege] units>"],
-		"requiredTech": "Rifling",
-		"obsoleteTech": "Radar",
-		"upgradesTo": "Paratrooper",
-		"attackSound": "shot"
-	},
-	{
 		"name": "Warrior",
 		"unitType": "Sword",
 		"movement": 2,
@@ -1061,20 +1045,6 @@
 		"obsoleteTech": "Rifling",
 		"attackSound": "metalhit"
 	},
-	 {
-		"name": "Katipunero",
-                "replaces": "Musketman",
-		"uniqueTo": "The Philippines",
-		"unitType": "Gunpowder",
-		"movement": 3,
-		"strength": 24,
-		"cost": 150,
-		"requiredTech": "Gunpowder",
-		"upgradesTo": "Rifleman",
-                "uniques": ["[+15]% Strength <when fighting units from a Civilization with more Cities than you>", "May attack when embarked"],
-		"obsoleteTech": "Rifling",
-		"attackSound": "shot"
-	},
 	{
 		"name": "Janissary",
 		"unitType": "Gunpowder",
@@ -1543,20 +1513,6 @@
 		"obsoleteTech": "Pharmaceuticals",
 		"uniques": ["[+1] Sight <when [Embarked]>"],
 		"promotions": ["Amphibious", "[Digger] ability"],
-		"attackSound": "shot"
-	},
-	{
-		"name": "Red Guard",
-		"unitType": "Gunpowder",
-		"replaces": "Great War Infantry",
-		"uniqueTo": "Soviet Union",
-		"movement": 2,
-		"strength": 50,
-		"cost": 250,
-		"requiredTech": "Replaceable Parts",
-		"upgradesTo": "Infantry",
-		"obsoleteTech": "Plastics",
-		"promotions": ["Formation I", "Pride"],
 		"attackSound": "shot"
 	},
 	{

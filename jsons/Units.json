@@ -251,7 +251,7 @@
 		"strength": 12,
 		"cost": 40,
 		"uniques": ["Cannot enter ocean tiles"],
-		"upgradesTo": "Caravel",
+		"upgradesTo": "Galleass",
 		"obsoleteTech": "Compass",
 		"attackSound": "nonmetalhit"
 	},
@@ -745,7 +745,7 @@
 		"requiredTech": "Compass",
 		"obsoleteTech": "Navigation",
 		"upgradesTo": "Frigate",
-		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
+		"uniques": ["Cannot enter ocean tiles"],
 		"attackSound": "arrow"
 	},
 	{

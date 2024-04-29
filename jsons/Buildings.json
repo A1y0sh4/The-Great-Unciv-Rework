@@ -51,17 +51,6 @@
 		"requiredTech": "Pottery"
 	},
 	{
-		"name": "Bahay Kubo",
-                "replaces": "Granary",
-		"uniqueTo": "The Philippines", 
-		"cost": 30,
-		"maintenance": 0,
-		"hurryCostModifier": 25,
-	        "percentStatBonus": {"food": 10},
-		"uniques": ["[+1 Food] <within [1] tiles of a [Coast]>"]
-		
-	},
-	{
 		"name": "Mekewap",
                 "replaces": "Granary",
 		"uniqueTo": "Cree",
@@ -1036,17 +1025,6 @@
 		"requiredBuilding": "Colosseum",
 		"requiredTech": "Printing Press"
 	},
-        {
-		"name": "Soviet",
-		"replaces": "Theatre",
-		"uniqueTo": "Soviet Union",
-		"happiness": 0,
-		"hurryCostModifier": 10,
-		"maintenance": 1,
-		"requiredBuilding": "Colosseum",
-		"uniques": ["[+1 Happiness, +1 Culture] per [4] population [in this city]"],
-		"requiredTech": "Printing Press"
-	},
 	{
 		"name": "Globe Theatre",
 		"culture": 1,
@@ -1168,18 +1146,6 @@
 		"hurryCostModifier": 25,
 		"maintenance": 0,
 		"uniques": ["[+1 Food, +1 Gold] from [Forest] tiles [in this city]"],
-		"requiredTech": "Economics"
-	},
-        {
-		"name": "Plantation Estate",
-		"replaces": "Windmill",
-		"uniqueTo": "The Confederate States",
-		"food": 2,
-		"requiredNearbyImprovedResources": ["Bananas", "Citrus", "Cocoa", "Coffee", "Cotton", "Grape", "Incense", "Silk", "Sugar", "Tobacco"],
-		"specialistSlots": {"Engineer": 1},
-		"hurryCostModifier": 25,
-		"maintenance": 0,
-		"uniques": ["Must not be on [Hill]", "[+1 Production, +1 Gold] from [Plantation] tiles [in this city]"],
 		"requiredTech": "Economics"
 	},
 	{

@@ -221,7 +221,7 @@ PolicyIcons/Monasticism
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Katipunero
+UnitIcons/Okihtcitaw
   rotate: false
   xy: 1220, 160
   size: 100, 100
@@ -256,7 +256,7 @@ NationIcons/Ashanti
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Bahay Kubo
+BuildingIcons/Mekewap
   rotate: false
   xy: 1340, 160
   size: 100, 100
@@ -800,7 +800,7 @@ UnitIcons/Asafo
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/The Philippines
+NationIcons/Cree
   rotate: false
   xy: 894, 40
   size: 100, 100

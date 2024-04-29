@@ -468,7 +468,7 @@ UnitIcons/Hypaspist
   index: -1
 UnitIcons/Berber Cavalry
   rotate: false
-  xy: 1815, 880
+  xy: 1800, 880
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -767,7 +767,7 @@ NationIcons/Kievan Rus'
   index: -1
 NationIcons/Morocco
   rotate: false
-  xy: 4, 256
+  xy: 2, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

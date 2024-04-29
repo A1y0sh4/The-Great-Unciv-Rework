@@ -263,6 +263,13 @@ BuildingIcons/Mekewap
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Kasbah
+  rotate: false
+  xy: 1340, 740
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Cloning Lab
   rotate: false
   xy: 1340, 280

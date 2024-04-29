@@ -466,6 +466,13 @@ UnitIcons/Hypaspist
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Berber Cavalry
+  rotate: false
+  xy: 1815, 880
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Tsikhe
   rotate: false
   xy: 1820, 40

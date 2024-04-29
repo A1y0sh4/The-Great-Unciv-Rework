@@ -1433,35 +1433,6 @@
 			"Agadez","Niamey","Torodi","Ouatagouna","Dori","Bamba","Segou"]
 	},
 	{
-		"name": "Soviet Union",
-		"leaderName": "Lenin",
-		"adjective": ["Soviet"],
-		"startBias": ["Tundra"],
-		"preferredVictoryType": "Scientific",
-	
-	        "startIntroPart1": "",
-		"startIntroPart2": "",
-		
-		"declaringWar": "You've behaved yourself very badly, you know it. Now it's payback time.",
-		"attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
-		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
-		"introduction": "I greet you, stranger! If you are as intelligent and tactful as you are attractive, we'll get along just fine.",
-		"neutralHello": "Hello!",
-		"hateHello": "What do you need?!",
-		"tradeRequest": "How would you like it if I propose this kind of exchange?",
-		"favoredReligion": "Orthodoxy",
-		
-		"outerColor": [204, 0, 1],
-		"innerColor": [248,215,12],
-		
-		"uniqueName": "Workers Revolution",
-		"uniques": ["[+1 Food] from every [Farm] <during a Golden Age>", "[+1 Food] from every [Plantation] <during a Golden Age>", "[+1 Production] from every [Mine] <during a Golden Age>", "[+1 Production] from every [Quarry] <during a Golden Age>"],
-		"cities": ["Moscow","Leningrad","Stalingrad","Kiev","Kharkov","Minsk","Novosibirsk","Sverdlovsk","Nizhny Novgorod","Tbilisi",
-			"Rostov","Odessa","Vladivostok","Sevastopol","Magnitogorsk","Tashkent","Baku","Dnipropetrovsk","Chita","Samara",
-			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
-			"Voronezh","Pskov","Starayarussa","Kostoma","Suzdal","Magnitogorsk"]
-	},
-	{
 		"name": "Spain",
 		"leaderName": "Isabella",
 		"adjective": ["Spanish"],
@@ -1545,34 +1516,6 @@
 			"Vantaa","Visby","Strängnäs","Tampere","Skara","Lödöse","Oulu","Växjö","Jyväskylä","Gothenburg",
 			"Örebro","Lahti","Helsingborg","Jönköping","Kuopio","Norrköping","Sundsvall","Kouvola","Karlstad","Umeå",
 			"Pori","Ystad","Paviken","Vaasa"]
-	},
-	{
-		"name": "The Confederate States",
-		"leaderName": "Jefferson Davis",
-		"adjective": ["Confederate"],
-		 "startBias": ["Grassland"],
-		"preferredVictoryType": "Scientific",
-
-        "startIntroPart1": "",
-        "startIntroPart2": "",
-
-        "declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
-		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
-		"defeated": "The day...is yours. I hope you will be merciful in your triumph.",
-		"introduction": "The people of the Confederate States of America welcome you.",
-		"neutralHello": "Good day.",
-		"hateHello": "Well?",
-		"tradeRequest": "Is the following trade of interest to you?",
-		"favoredReligion": "Catholicism",
-
-        "outerColor": [0, 49, 130],
-        "innerColor": [246, 68, 65],
-
-		"uniqueName": "Slave States",
-		"uniques": ["[-33]% unhappiness from the number of cities", "[+1 Food, +1 Gold] from every [Plantation]", "[+10]% Unhappiness from [Population] [in all cities] <within [3] tiles of a [Plantation]>"], 
-		"cities": ["Richmond","Atlanta","New Orleans","Charleston","Austin","Nashville","Mobile","Memphis","Savannah","Montgomery",
-			"Vicksburg","Chattanooga","Wilmington","Columbus","Jackson","Tallahassee","Petersburg","Galveston","Knoxville",
-			"Meridian","Shreveport","Alexandria","Macon","Selma","Little Rock","Greensboro","Augusta","Murfreesboro"]
 	},
 	{
 		"name": "The Hittites",
@@ -1725,34 +1668,6 @@
 			"Marsin","Antalya","Zonguldak","Denizli","Ordu","Mugia","Eskishehir","Inebolu","Sinop","Adana","Artuin",
 			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarhisar",
 			"Bitlis","Yalova"]
-	},
-	{
-		"name": "The Philippines",
-		"leaderName": "Emilio Aguinaldo",
-		"adjective": ["Philipino"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Cultural",
-		
-		"startIntroPart1": "Greetings, Emilio Aguinaldo, esteemed leader and first President of the Philippines. Your courage and determination ignited the flames of independence, leading your people in a revolutionary struggle against colonial powers. Under your command, the Philippine Republic was born, marking a new chapter in your nation’s storied history.",
-                "startIntroPart2": "As you rise to lead the Philippines once more, may your strategic acumen and unwavering resolve guide your people to prosperity. Will you harness the spirit of Katipunan to unite your country and assert its place on the world stage? Can you build a civilization that will stand the test of time?",
-		
-		"declaringWar": "For the good of The Philipines i must declare war!",
-		"attacked": "You are making a big mistake.",
-		"defeated": "Will this be my last goodbye to you?.",
-		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
-		
-		"neutralHello": "Greetings.",
-		"hateHello": "What do YOU want?!",
-		
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
-		"favoredReligion": "Catholicism",
-				
-		"outerColor": [240, 240, 240],
-		"innerColor": [219, 82, 21],
-		
-		"uniqueName": "Pearl of the Orient Seas",
-		"uniques": ["[+1 Culture] from every [Coast] <during a Golden Age>", "[+1 Culture] from every [Coast] <during We Love The King Day>"],
-		"cities": ["Manila","Quezon City","Boracay","Cebú","Puerto Princesa","El Nido","Bohol","Davao","Baguio","Siargao","Corón","Tagaytay","Makati","Taguig","Dumaguete","Bacólod","Puerto Galera","Sagada","Laoag","Zamboanga"]
 	},
 	{
 		"name": "Vietnam",

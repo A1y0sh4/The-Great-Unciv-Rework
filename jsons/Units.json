@@ -1117,21 +1117,6 @@
 		"uniques": ["May capture killed [Water] units", "Can move after attacking"],
 		"attackSound": "cannon"
 	},
-        {
-		"name": "Galleon",
-		"unitType": "Melee Water",
-		"replaces": "Privateer",
-		"uniqueTo": "Barbarians",
-		"movement": 5,
-		"strength": 28,
-		"cost": 100,
-		"requiredTech": "Compass",
-		"obsoleteTech": "Steam Power",
-		"upgradesTo": "Motorboat",
-		"promotions": ["Boarding Party I"],
-		"uniques": ["May capture killed [Water] units", "Can move after attacking"],
-		"attackSound": "cannon"
-	},
 	{
 		"name": "Frigate",
 		"unitType": "Ranged Water",
@@ -1140,7 +1125,7 @@
 		"rangedStrength": 32,
 		"cost": 200,
 		"requiredResource": "Iron",
-		"uniques": ["Destroys tile improvements when attacking"],
+		"uniques": ["Destroys tile improvements when attacking", "Never appears as a Barbarian unit"],
 		"requiredTech": "Navigation",
 		"obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
@@ -1266,7 +1251,8 @@
 		"strength": 30,
 		"rangedStrength": 30,
 		"cost": 200,
-		"requiredTech": "Industrialization",
+		"requiredTech": "Industrialization", 
+		"uniques": ["Never appears as a Barbarian unit"],
 		"upgradesTo": "Machine Gun",
 		"obsoleteTech": "Ballistics",
 		"attackSound": "machinegun"
@@ -1439,23 +1425,7 @@
 		"requiredResource": "Coal",
 		"upgradesTo": "Destroyer",
 		"obsoleteTech": "Combustion",
-		"uniques": ["[+33]% Strength <vs cities>", "Double movement in [Coast]"],
-		"attackSound": "shipguns"
-	},
-        {
-		"name": "Motorboat",
-		"unitType": "Melee Water",
-		"replaces": "Ironclad",
-		"uniqueTo": "Barbarians",
-		"movement": 4,
-		"strength": 40,
-		"cost": 150,
-		"requiredTech": "Steam Power",
-		"requiredResource": "Coal",
-		"upgradesTo": "Destroyer",
-		"promotions": ["Boarding Party I", "Boarding Party II"],
-		"obsoleteTech": "Combustion",
-		"uniques": ["Double movement in [Coast]", "Can move after attacking", "May capture killed [Water] units", "Free [Motorboat] appears <upon defeating a [Military] unit>"],
+		"uniques": ["[+33]% Strength <vs cities>", "Double movement in [Coast]", "Never appears as a Barbarian unit"],
 		"attackSound": "shipguns"
 	},
 	{
@@ -1663,24 +1633,8 @@
 		"requiredResource": "Oil",
 		"upgradesTo": "Tank",
 		"obsoleteTech": "Combined Arms",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
-	},
-        {
-		"name": "Jeep",
-		"unitType": "Gunpowder",
-		"replaces": "Landship",
-		"uniqueTo": "Barbarians",
-		"movement": 4,
-		"strength": 45,
-		"cost": 300,
-		"requiredTech": "Combustion",
-		"requiredResource": "Oil",
-		"upgradesTo": "Mechanized Infantry",
-		"promotions": ["Shock I"],
-		"obsoleteTech": "Mobile Tactics",
-		"uniques": ["Can move after attacking"],
-		"attackSound": "machinegun"
 	},
 	{
 		"name": "Destroyer",
@@ -1956,7 +1910,7 @@
 		"cost": 750,
 		"requiredTech": "Mobile Tactics",
 		"promotions": ["Survivalism I", "Survivalism II"],
-		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
+		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory"],
 		"attackSound": "shot"
 	},
 	{

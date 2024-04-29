@@ -251,7 +251,7 @@
 		"strength": 12,
 		"cost": 40,
 		"uniques": ["Cannot enter ocean tiles"],
-		"upgradesTo": "Galleon",
+		"upgradesTo": "Caravel",
 		"obsoleteTech": "Compass",
 		"attackSound": "nonmetalhit"
 	},

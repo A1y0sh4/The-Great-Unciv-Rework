@@ -463,16 +463,6 @@
 		"uniques": ["[Gold] cost of purchasing items in cities [-5]%", "Destroyed when the city is captured"]
 		"requiredTech": "Philosophy"
 	},
-	{
-		"name": "Basilica",
-		"replaces": "Temple",
-		"uniqueTo": "Papal States",
-		"maintenance": 1,
-		"hurryCostModifier": 25,
-		"faith": 2,
-		"uniques": ["[Faith] cost of purchasing items in cities [-5]%", "Destroyed when the city is captured"]
-		"requiredTech": "Philosophy"
-	},
         {
 		"name": "Chemamull",
 		"replaces": "Temple",

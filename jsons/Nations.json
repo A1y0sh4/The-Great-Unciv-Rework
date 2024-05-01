@@ -1163,40 +1163,6 @@
 		"uniques": ["[+33]% Production when constructing [Archery] units [in all cities]", "[+50]% XP gained from combat <for [Archery] units>", "[Archery] units gain the [Accuracy I] promotion"],
 		"cities": ["Meroë","Napata","Kerma","Miam","El-Kurru","Abu Simbel","Pachoras","Buhen","Nuri","Kawa","Soleb","Wad ban Naqa","Debba","Sadeinga","Iken","Buhen","Faras","Pademe","Shaat","Heh","Dengeil","Bugdumbush","Amara","Pedeme"]
 	},
-	 {
-		"name": "Papal States",
-		"leaderName": "Julius II",
-		"adjective": ["Papal"],
-		"startBias": ["Hill"],
-		"preferredVictoryType": "Religious",
-		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
-		
-		"declaringWar": "War, war, WAR!",
-		"attacked": "I will do everything possible to ensure that the noble patrimony of the Church is not sold or alienated in any way.",
-		"defeated": "I don't worry about my life, but about my fame.",
-		"introduction": "Greetings, I am Julius II, the disciple of Christ and apostolic succesor to Saint Peter.",
-		
-		"neutralHello": "Greetings.",
-		"neutralLetsHearIt": ["Yes.","Speak."],
-		"neutralNo": ["No.","Unacceptable."],
-		"neutralYes": ["I can't refuse.","Let it be."],
-		"hateHello": "Don't waste my time!",
-		"hateLetsHearIt": ["What's your offer?"],
-		"hateNo": ["..."],
-		"hateYes": ["I must accept."],
-		"afterPeace": "If you don't want to help the Church, at least don't bother her.",
-		"tradeRequest": "If the Church is the body of Christ, then the Pope is his voice. Listen to what he has to say.",
-
-		"outerColor": [188, 46, 46],
-		"innerColor": [255, 219, 67],
-
-		"favoredReligion": "Catholicism",
-		"uniqueName": "Holy See",
-		"uniques": ["[+100]% unhappiness from the number of cities", "Gain [50] [Faith] <upon constructing [Wonders] [in capital]>", "Allied City-States provide [Faith] equal to [100]% of what they produce for themselves", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Gold]"],
-		"cities": ["Rome", "Beneventum", "Ravenna", "Avignon", "Bologna", "Ferrara", "Ascoli", "Piacenza", "Rieti", "Assisi", "Orvieto", "Rimini", "Todi", "Viterbo"]
-	},
 	{
 		"name": "Persia",
 		"leaderName": "Darius I",

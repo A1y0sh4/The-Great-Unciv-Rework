@@ -39,13 +39,6 @@ BuildingIcons/Barbican
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Basilica
-  rotate: false
-  xy: 4, 580
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 BuildingIcons/Beer Distillery
   rotate: false
   xy: 220, 796
@@ -779,13 +772,6 @@ NationIcons/Nubia
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Papal States
-  rotate: false
-  xy: 544, 472
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 NationIcons/Poland
   rotate: false
   xy: 976, 904
@@ -1195,13 +1181,6 @@ UnitIcons/Siege Tower
 UnitIcons/Skirmisher
   rotate: false
   xy: 1084, 904
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Swiss Guard
-  rotate: false
-  xy: 652, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

@@ -1476,7 +1476,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
-		"uniques": ["Reveals the entire map", "[+25]% [Science] [in all cities] <for [All]>", "Triggers a global alert upon completion"],
+		"uniques": ["Reveals the entire map", "[+33]% [Science] [in all cities] <for [All]>", "Triggers a global alert upon completion"],
 		"requiredTech": "Rocketry"
 	},
 

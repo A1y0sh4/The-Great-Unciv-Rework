@@ -99,13 +99,13 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		
-		"declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
+		"declaringWar": "Your puny existance is a threat to our people's prosperity!",
 		"attacked": "You shall regret committing such a vile action against us!",
 		"defeated": "How could we ever fall?",
 		"introduction": "Greetings, I am Osei Tutu, leader of the Ashanti",
 		"neutralHello": "Good day.",
 		"hateHello": "Well?",
-		"tradeRequest": "Is the following trade of interest to you?",
+		"tradeRequest": "Here's a fair offer",
 		"favoredReligion": "Protestantism",
 		
 		"outerColor": [ 253, 221, 12],

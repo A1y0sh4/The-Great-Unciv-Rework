@@ -161,8 +161,8 @@
 		"uniqueTo": "China",
 		"hurryCostModifier": 25,
 		"maintenance": 0,
-		"gold": 2,
-		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Mathematics]>"],
+		"culture": 1,
+		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Mathematics]>", "[+1 Production, +1 Gold] [in this city] <in [River] tiles>"],
 		"requiredTech": "Writing"
 	},
 	{

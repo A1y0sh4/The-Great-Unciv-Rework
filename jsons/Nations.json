@@ -811,7 +811,7 @@
 		"outerColor": [255,184,33],
 		"innerColor": [3,115,86],
 		"uniqueName": "Great Andean Road",
-		"uniques": ["[Land] units gain the [Climber] promotion",
+		"uniques": ["[Sword] units gain the [Climber] promotion", "[Archer] units gain the [Climber] promotion", "[Scout] units gain the [Climber] promotion",
 			    "[+1 Food] from every [Mountain]"],
 		"cities": ["Cuzco","Tiwanaku","Machu","Ollantaytambo","Corihuayrachina","Huamanga","Rumicucho","Vilcabamba","Vitcos",
 			"Andahuaylas","Ica","Arequipa","Nasca","Atico","Juli","Chuito","Chuquiapo","Huanuco Pampa","Tamboccocha",

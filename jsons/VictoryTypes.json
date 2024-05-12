@@ -1,9 +1,9 @@
 [
     {
         "name": "Scientific",
-        "victoryScreenHeader": "Complete all the spaceship parts\nto win!",
+        "victoryScreenHeader": "Complete all the spaceship parts\nto win!", 
         "milestones": [
-            "Build [Apollo Program]", "Add all [spaceship parts] in capital"
+            "Build [Sputnik Program]", "Build [Apollo Program]", "Build [Apollo Program]"
         ],
         "requiredSpaceshipParts": [
             "SS Engine", "SS Stasis Chamber", "SS Cockpit", "SS Booster", "SS Booster", "SS Booster"

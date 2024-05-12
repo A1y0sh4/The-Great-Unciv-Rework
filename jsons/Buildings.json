@@ -1537,6 +1537,16 @@
 		"uniques": ["[+50]% [Science] [in this city]"],
 	},
         {
+		"name": "CERN",
+		"isWonder": true,
+		"culture": 1,
+	        "science": 20,
+		"greatPersonPoints": {"Great Scientist": 2},
+		"uniques": ["[1] free [Great Scientist] units appear", "Gain a free [Quantum Computer] [in this city]"],
+		"requiredTech": "Particle Physics",
+		"quote": "'Most likely anything that you think of that is possible isn’t true. In fact that’s a general principle in physics theories: no matter what a guy thinks of, it’s almost always false.' – Richard Feynman"
+	},
+        {
 		"name": "Cloning Lab",
 		"food": 5,
 		"maintenance": 5,

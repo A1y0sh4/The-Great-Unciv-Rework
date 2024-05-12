@@ -1504,7 +1504,7 @@
 		"culture": 1,
 		"science": 5,
 		"greatPersonPoints": {"Great Scientist": 2},
-		"uniques": ["[+50]% Production when constructing [Spaceship part] units [in this city]",
+		"uniques": ["[+50]% Production when constructing [Cosmos] buildings [in this city]",
 			    "[+5 Science] from every [Observatory]"],
 		"requiredTech": "Satellites",
 		"quote": "'The wonder is, not that the field of stars is so vast, but that man has measured it.' - Anatole France"

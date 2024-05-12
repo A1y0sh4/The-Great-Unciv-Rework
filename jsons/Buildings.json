@@ -1495,7 +1495,7 @@
 		"cost": 360,
 		"cityHealth": 25,
 		"maintenance": 1,
-		"requiredTech": "Telecommunications",
+		"requiredTech": "Nuclear Fission",
 		"uniques": ["Population loss from nuclear attacks [-30]% [in this city]"]
 	},
 	{

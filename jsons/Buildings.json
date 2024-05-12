@@ -26,7 +26,7 @@
 		"uniqueTo": "Ethiopia",
 		"culture": 1,
 		"faith": 1,
-		"cost": 40,
+		"cost": 30,
 		"hurryCostModifier": 40,
 		"maintenance": 0,
 		"uniques": ["Destroyed when the city is captured"] //"Hidden when religion is disabled"

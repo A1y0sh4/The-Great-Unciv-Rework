@@ -569,6 +569,7 @@
 				"name": "Telecommunications",
 				"row": 2,
 				"prerequisites": ["Ecology", "Computers"],
+				"uniques": ["[+2 Science, +2 Happiness] from every [Broadcast Tower]"],
 				"quote": "'The more we elaborate our means of communication, the less we communicate.' - J.B. Priestly"
 			},
 			{

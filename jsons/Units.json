@@ -1147,7 +1147,7 @@
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"promotions": [],
 		"upgradesTo": "Cavalry",
-		"obsoleteTech": "Combined Arms",
+		"obsoleteTech": "Military Science",
 		"attackSound": "horse"
 	},
 	{

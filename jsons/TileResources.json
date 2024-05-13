@@ -110,7 +110,7 @@
 					"Generated with weight [15] <in [{Featureless} {Desert}] tiles>",
 					"Generated with weight [30] <in [Hill] tiles>",
 					"Minor deposits generated with weight [10] <in [Marsh] tiles>",
-					"Minor deposits generated with weight [10] <in [Jungle] [Hill] tiles>",
+					"Minor deposits generated with weight [10] <in [{Jungle} {Hill}] tiles>",
 					"Minor deposits generated with weight [20] <in [Forest] tiles>",
 					"Minor deposits generated with weight [20] <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
 					"Minor deposits generated with weight [30] <in [{Featureless} {Grassland}] tiles> <in tiles without [Fresh Water]>",
@@ -269,9 +269,9 @@
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>",
 					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hill]>",
-					"Doesn't generate naturally <in [Tundra] [Hill] tiles>",
-					"Doesn't generate naturally <in [Grassland] [Fresh Water] tiles>",
-					"Doesn't generate naturally <in [Grassland] [Hill] tiles>"
+					"Doesn't generate naturally <in [{Tundra} {Hill}] tiles>",
+					"Doesn't generate naturally <in [{Grassland} {Fresh Water}] tiles>",
+					"Doesn't generate naturally <in [{Grassland} {Hill}] tiles>"
 		]
 	},
 	{

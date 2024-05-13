@@ -968,6 +968,13 @@ TileSets/FantasyHex/Tiles/Great Blue Hole
   orig: 32, 36
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Lake Hiller
+  rotate: false
+  xy: 842, 256
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Lake Baikal
   rotate: false
   xy: 724, 212

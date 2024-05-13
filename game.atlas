@@ -961,7 +961,7 @@ TileSets/FantasyHex/Tiles/Ha Long Bay
   orig: 32, 36
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Great Blue Hole
+TileSets/FantasyHex/Tiles/the Great Blue Hole
   rotate: false
   xy: 801, 256
   size: 32, 36

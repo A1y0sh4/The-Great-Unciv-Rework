@@ -1033,7 +1033,7 @@ TileSets/FantasyHex/Tiles/Kawah Ijen
   index: -1
 TileSets/FantasyHex/Tiles/Vinicunca
   rotate: false
-  xy: 1155, 644
+  xy: 1165, 644
   size: 32, 36
   orig: 32, 36
   offset: 0, 0

@@ -242,10 +242,10 @@
             {"yearsPerTurn":    10,     "untilTurn":  514},
             {"yearsPerTurn":    7,     "untilTurn":  733},
             {"yearsPerTurn":    0.19,     "untilTurn":  991},
-            {"yearsPerTurn":  0.8,     "untilTurn":  1157},
-            {"yearsPerTurn": 0.05,     "untilTurn": 1389},
-            {"yearsPerTurn": 0.083333, "untilTurn": 1728},
-            {"yearsPerTurn": 0.041111, "untilTurn": 2500}
+            {"yearsPerTurn":  0.5,     "untilTurn":  1157},
+            {"yearsPerTurn": 0.03,     "untilTurn": 1389},
+            {"yearsPerTurn": 0.008, "untilTurn": 1728},
+            {"yearsPerTurn": 0.0004, "untilTurn": 2500}
         ]
     },
 ]

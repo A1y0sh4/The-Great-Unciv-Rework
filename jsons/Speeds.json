@@ -243,8 +243,8 @@
             {"yearsPerTurn":    7,     "untilTurn":  733},
             {"yearsPerTurn":    0.05,     "untilTurn":  991},
             {"yearsPerTurn":  0.26,     "untilTurn":  1157},
-            {"yearsPerTurn": 0.16,     "untilTurn": 1389},
-            {"yearsPerTurn": 0.008, "untilTurn": 1728},
+            {"yearsPerTurn": 0.18,     "untilTurn": 1389},
+            {"yearsPerTurn": 0.1, "untilTurn": 1728},
             {"yearsPerTurn": 0.0004, "untilTurn": 2500}
         ]
     },

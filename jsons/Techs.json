@@ -496,7 +496,7 @@
 		"era": "Atomic era",
 		"techCost": 9870,
 		"buildingCost": 530,
-		"wonderCost": 1250,
+		"wonderCost": 1300,
 		"techs": [
 			{
 				"name": "Pharmaceuticals",
@@ -529,7 +529,7 @@
 		"era": "Atomic era",
 		"techCost": 15970,
 		"buildingCost": 650,
-		"wonderCost": 1500,
+		"wonderCost": 1550,
 		"techs": [
 			{
 				"name": "Ecology",
@@ -563,7 +563,7 @@
 		"era": "Information era",
 		"techCost": 25840,
 		"buildingCost": 780,
-		"wonderCost": 1800,
+		"wonderCost": 1850,
 		"techs": [
 			{
 				"name": "Telecommunications",
@@ -610,7 +610,7 @@
 		"era": "Information era",
 		"techCost": 41810,
 		"buildingCost": 900,
-		"wonderCost": 2000,
+		"wonderCost": 2100,
 		"techs": [
 			{
 				"name": "Particle Physics",
@@ -637,7 +637,7 @@
 		"era": "Future era",
 		"techCost": 67650,
 		"buildingCost": 1000,
-		"wonderCost": 2000,
+		"wonderCost": 2200,
 		"techs": [
 			{
 				"name": "Nuclear Fusion",
@@ -658,7 +658,7 @@
 		"era": "Future era",
 		"techCost": 109460,
 		"buildingCost": 1000,
-		"wonderCost": 2500,
+		"wonderCost": 2200,
 		"techs": [
 			{
 				"name": "Future Tech",

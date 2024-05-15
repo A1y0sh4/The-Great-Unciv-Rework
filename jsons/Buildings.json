@@ -480,7 +480,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Scientist": 1},
 		"isNationalWonder": true,
-		"percentStatBonus": {"science": 33},
+		"percentStatBonus": {"science": 50},
 		"uniques": ["Only available <if [Library] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [25] per owned city"],
 		"requiredTech": "Philosophy"
 	},
@@ -523,7 +523,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Artist": 1},
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+33]% Great Person generation [in this city]", "Cost increases by [25] per owned city"],
+		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+50]% Great Person generation [in this city]", "Cost increases by [25] per owned city"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{
@@ -679,7 +679,7 @@
 		"culture": 1,
 		"faith": 3,
 		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [25] per owned city",
-			"[+33]% Natural religion spread [in this city]", "All newly-trained [Missionary] units [in this city] receive the [Devout] promotion", "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion", "Hidden when religion is disabled", "Can only be built <in [Holy] cities>"],
+			"[+50]% Natural religion spread [in this city]", "All newly-trained [Missionary] units [in this city] receive the [Devout] promotion", "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion", "Hidden when religion is disabled", "Can only be built <in [Holy] cities>"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	},
@@ -744,7 +744,7 @@
 		"name": "National Treasury",
 		"cost": 100,
 		"culture": 1,
-		"percentStatBonus": {"gold": 33},
+		"percentStatBonus": {"gold": 50},
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Market] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [25] per owned city"],
@@ -919,7 +919,7 @@
 	{
 		"name": "Ironworks",
 		"cost": 125,
-		"percentStatBonus": {"production": 33},
+		"percentStatBonus": {"production": 50},
 		"culture": 1,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isNationalWonder": true,
@@ -1078,7 +1078,7 @@
 		"name": "Hermitage",
 		"cost": 100,
 		"culture": 1,
-		"percentStatBonus": {"culture": 33},
+		"percentStatBonus": {"culture": 50},
 		"greatPersonPoints": {"Great Artist": 1},
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Opera House] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [25] per owned city"],

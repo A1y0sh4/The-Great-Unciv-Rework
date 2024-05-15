@@ -238,7 +238,7 @@
         "dealDuration": 150,
         "startYear": -4000,
         "turns": [
-            {"yearsPerTurn":   5,     "untilTurn":  128},
+            {"yearsPerTurn":   3,     "untilTurn":  128},
             {"yearsPerTurn":    13,     "untilTurn":  514},
             {"yearsPerTurn":    1.9,     "untilTurn":  733},
             {"yearsPerTurn":    0.7,     "untilTurn":  991},

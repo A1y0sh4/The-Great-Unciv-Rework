@@ -1537,7 +1537,7 @@
 		"uniques": ["[+50]% [Science] [in this city]"],
 	},
         {
-		"name": "CERN",
+		"name": "Fermilab",
 		"isWonder": true,
 		"culture": 1,
 	        "science": 20,

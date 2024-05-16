@@ -1457,7 +1457,7 @@
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["Cosmos", "Triggers a global alert upon completion", 
-			"Hidden when [Scientific] Victory is disabled"],
+			"Hidden when [Scientific] Victory is disabled", "Cannot be hurried"],
 		"requiredTech": "Satellites"
 	},
         {
@@ -1466,7 +1466,7 @@
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["Cosmos", "Triggers a global alert upon build start", 
-			"Hidden when [Scientific] Victory is disabled"],
+			"Hidden when [Scientific] Victory is disabled", "Cannot be hurried"],
 		"requiredTech": "Nanotechnology"
 	},
 	{
@@ -1474,7 +1474,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
-		"uniques": ["Cosmos", "Reveals the entire map", "[+33]% [Science] [in all cities] <for [All]>", "Triggers a global alert upon completion"],
+		"uniques": ["Cosmos", "Reveals the entire map", "[+33]% [Science] [in all cities] <for [All]>", "Triggers a global alert upon completion", "Cannot be hurried"],
 		"requiredTech": "Rocketry"
 	},
 

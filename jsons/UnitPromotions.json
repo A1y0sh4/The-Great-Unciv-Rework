@@ -624,7 +624,7 @@
 	},
 	{
 		"name": "Drone Support I",
-		"uniques": ["[+1] Sight", "Can see over obstacles"],
+		"uniques": ["[+2] Sight", "Can see over obstacles"],
 		"unitTypes": ["Mech"],
         "column": 31,
         "row": 1

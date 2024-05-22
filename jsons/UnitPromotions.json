@@ -739,7 +739,7 @@
 	// Water ranged and air units
 	{
 		"name": "Bombardment I",
-		"uniques": ["[+33]% Strength <vs [Military] units> <in [Land] tiles>"],
+		"uniques": ["[+33]% Strength <vs [Military] units> <in [Land] tiles> <when attacking>"],
 		"unitTypes": ["Ranged Water","Fighter","Bomber","Siege"],
         "column": 26,
         "row": 1
@@ -747,7 +747,7 @@
 	{
 		"name": "Bombardment II",
 		"prerequisites": ["Bombardment I"],
-		"uniques": ["[+33]% Strength <vs [Military] units> <in [Land] tiles>"],
+		"uniques": ["[+33]% Strength <vs [Military] units> <in [Land] tiles> <when attacking>"],
 		"unitTypes": ["Ranged Water","Fighter","Bomber","Siege"],
         "column": 26,
         "row": 2
@@ -755,7 +755,7 @@
 	{
 		"name": "Bombardment III",
 		"prerequisites": ["Bombardment II"],
-		"uniques": ["[+34]% Strength <vs [Military] units> <in [Land] tiles>"],
+		"uniques": ["[+34]% Strength <vs [Military] units> <in [Land] tiles> <when attacking>"],
 		"unitTypes": ["Ranged Water","Fighter","Bomber","Siege"],
         "column": 26,
         "row": 3

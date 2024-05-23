@@ -1724,7 +1724,7 @@
 		"requiredTech": "Radar",
 		"upgradesTo": "Spec Ops",
 		"obsoleteTech": "Mobile Tactics",
-		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
+		"uniques": ["May Paradrop up to [6] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
 	},
 	{
@@ -1880,7 +1880,7 @@
 	{
 		"name": "Mechanized Infantry",
 		"unitType": "Gunpowder",
-		"movement": 3,
+		"movement": 4,
 		"strength": 90,
 		"cost": 750,
 		"requiredResource": "Oil",

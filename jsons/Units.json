@@ -1897,7 +1897,7 @@
 		"cost": 750,
 		"requiredTech": "Mobile Tactics",
 		"promotions": ["Survivalism I", "Survivalism II"],
-		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory"],
+		"uniques": ["May Paradrop up to [6] tiles from inside friendly territory"],
 		"attackSound": "shot"
 	},
 	{

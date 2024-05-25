@@ -1276,7 +1276,7 @@
 		"innerColor": [8,25,115],
 		
 		"uniqueName": "Discovery Age",
-		"uniques": ["Empire enters a [16]-turn Golden Age <upon discovering a Natural Wonder>", "Free [Great Navigator] appears <upon entering the [Renaissance era]>"],
+		"uniques": ["Empire enters a [8]-turn Golden Age <upon discovering a Natural Wonder>", "Free [Great Navigator] appears <upon entering the [Renaissance era]>"],
 		"cities": ["Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Luanda",
 			"Evora","Faro","Castelo Branco","Bissau","Guarda","Viseu","Praia","Braganza","Beja","Tomar",
 			"Maputo","Tavira","Figueira da Foz","Viana do Castelo","São Tomé and Príncipe","Silves","Sintra","Dili","Lamego",

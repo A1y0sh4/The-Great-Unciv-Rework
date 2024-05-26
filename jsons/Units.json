@@ -399,12 +399,12 @@
 		"replaces": "Spearman",
 		"uniqueTo": "Macedonia",
 		"movement": 2,
-		"strength": 13,
+		"strength": 12,
 		"cost": 50,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+33]% to Flank Attack bonuses", "Ignores Zone of Control", "No defensive terrain bonus"],
+		"uniques": ["[+33]% to Flank Attack bonuses", "Ignores Zone of Control", "No defensive terrain bonus", "Heals [10] damage if it kills a unit"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -494,7 +494,7 @@
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
 		"promotions": ["Great Generals I"],
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Transfer Movement to [Great General]", "[+33]% Strength when stacked with [Great General]"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Transfer Movement to [Great General]", "[+33]% Strength when stacked with [Great General]", "Heals [10] damage if it kills a unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},

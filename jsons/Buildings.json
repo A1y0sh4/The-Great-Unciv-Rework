@@ -557,11 +557,11 @@
 		"name": "Satrap's Court",
 		"replaces": "Market",
 		"uniqueTo": "Persia",
+		"cost": 75,
 		"specialistSlots": {"Merchant": 1},
 		"happiness": 2,
 		"uniques": ["[+1 Gold] from [Resource] tiles [in this city]"],
 		"hurryCostModifier": 25,
-		"greatPersonPoints": {"Great General": 1},
 		"requiredTech": "Currency"
 	},
 	{

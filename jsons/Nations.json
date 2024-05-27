@@ -2751,7 +2751,7 @@
 		"cities": ["Bratislava"]
 	},
 	{
-		"name": "Fez",
+		"name": "Fes",
 		"adjective": ["Moroccan"],
 		"cityStateType": "Religious",
 		"startBias": ["Desert"],
@@ -2761,7 +2761,7 @@
 		"defeated": "This isn't how it is supposed to be!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [150,90,192],
-		"cities": ["Fez"]
+		"cities": ["Fes"]
 	},
 	{
 		"name": "Cahokia",

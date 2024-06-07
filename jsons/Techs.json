@@ -259,7 +259,8 @@
 			{
 				"name": "Steel",
 				"row": 10,
-				"prerequisites": ["Metal Casting"],
+				"uniques": ["[+10]% Production when constructing [Military] units [in all cities]"],
+				"prerequisites": ["Metal Casting"], 
 				"quote": "'John Henry said to his Captain, / 'A man ain't nothin' but a man, / And before I'll let your steam drill beat me down, / I'll die with the hammer in my hand.'' - Anonymous: The Ballad of John Henry, the Steel-Drivin' Man"
 			}
 		]

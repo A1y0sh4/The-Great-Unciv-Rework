@@ -339,7 +339,7 @@
 		"maintenance": 1,
 		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
-		"uniques": ["[+25]% Production when constructing [Mounted] units [in this city]",
+		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
 			"[+1 Production] from [Cattle] tiles [in this city]",
 			"[+1 Production] from [Horses] tiles [in this city]",
 			"[+1 Production] from [Sheep] tiles [in this city]"],
@@ -352,7 +352,7 @@
 		"maintenance": 0,
 		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
-		"uniques": ["[+25]% Production when constructing [Mounted] units [in this city]",
+		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
 			"[+1 Production, +1 Gold] from [Cattle] tiles [in this city]",
 			"[+1 Production, +1 Gold] from [Horses] tiles [in this city]",
 			"[+1 Production, +1 Gold] from [Sheep] tiles [in this city]"],
@@ -803,7 +803,7 @@
 		"hurryCostModifier": 25,
 		"requiredNearbyImprovedResources": ["Iron"],
 		"requiredTech": "Metal Casting",
-		"uniques": ["[+25]% Production when constructing [Sword] units [in this city]",
+		"uniques": ["[+15]% Production when constructing [Sword] units [in this city]",
 			"[+1 Production] from [Iron] tiles [in this city]"]
 		
 	},

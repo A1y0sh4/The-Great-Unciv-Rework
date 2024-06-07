@@ -253,13 +253,14 @@
 			{
 				"name": "Physics",
 				"row": 9,
+				"uniques": ["[+10]% Production when constructing [All] wonders [in all cities]"],
 				"prerequisites": ["Metal Casting"],
 				"quote": "'Measure what is measurable, and make measurable what is not so.' - Galileo Galilei"
 			},
 			{
 				"name": "Steel",
 				"row": 10,
-				"uniques": ["[+10]% Production when constructing [Military] units [in all cities]"],
+				"uniques": ["[+10]% Production when constructing [Military] units [in all cities]"], 
 				"prerequisites": ["Metal Casting"], 
 				"quote": "'John Henry said to his Captain, / 'A man ain't nothin' but a man, / And before I'll let your steam drill beat me down, / I'll die with the hammer in my hand.'' - Anonymous: The Ballad of John Henry, the Steel-Drivin' Man"
 			}

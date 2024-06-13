@@ -314,8 +314,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Horseman",
 		"obsoleteTech": "Horseback Riding",
-		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>"],
-		"promotions": ["Charge"],
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "[+20]% Strength <when attacking>"],
 		"attackSound": "metalhit"
 	},
 	{

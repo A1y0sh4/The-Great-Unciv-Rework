@@ -551,7 +551,7 @@
 		"innerColor": [98,10,210],
 		
 		"uniqueName": "Monument Builders",
-		"uniqueText": "Gain 30% of the cost of a World Wonder as [Culture] (modified by game speed)",
+		"uniqueText": "Gain 30% of the cost of a World Wonder as [Culture] (modified by game speed)\n+1 [Production] in cities on River tiles",
 		"uniques": ["Gain [10] [Culture] <upon constructing [World Wonder] [in all cities]> <during the [Ancient era]> <on [Blitz] game speed>",
 		            "Gain [18] [Culture] <upon constructing [World Wonder] [in all cities]> <during the [Classical era]> <on [Blitz] game speed>",
 		            "Gain [27] [Culture] <upon constructing [World Wonder] [in all cities]> <during the [Medieval era]> <on [Blitz] game speed>",
@@ -614,7 +614,7 @@
 		            "Gain [1012] [Culture] <upon constructing [World Wonder] [in all cities]> <during the [Modern era]> <on [Endless] game speed>",
 		            "Gain [1215] [Culture] <upon constructing [World Wonder] [in all cities]> <during the [Atomic era]> <on [Endless] game speed>",
 		            "Gain [1755] [Culture] <upon constructing [World Wonder] [in all cities]> <during the [Information era]> <on [Endless] game speed>",
-		            "Gain [2970] [Culture] <upon constructing [World Wonder] [in all cities]> <during the [Future era]> <on [Endless] game speed>"],
+		            "Gain [2970] [Culture] <upon constructing [World Wonder] [in all cities]> <during the [Future era]> <on [Endless] game speed>", "[+1 Production] in cities on [River] tiles"],
 		"cities": ["Thebes","Memphis","Heliopolis","Pi-Ramesses","Alexandria","Giza","Elephantine","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",

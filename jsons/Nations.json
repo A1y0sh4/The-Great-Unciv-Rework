@@ -942,7 +942,8 @@
 		"innerColor": [188,0,45],
 		
 		"uniqueName": "Bushido",
-		"uniques": ["[+15]% Strength <for [Military] units> <when below [50] HP>", "[+1 Culture] from every [Fishing Boats]", "[+1 Culture] from every [Atoll]"],
+		"uniqueText": "Gain +5% Strength for Military units for every 25 HP lost\nEarn 50% of killed Military unit's Strength as [Culture]\n+1 [Culture] from every Fishing Boats and Atoll",
+		"uniques": ["[+5]% Strength <for [Military] units> <when below [100] HP> <when above [75] HP>", "[+10]% Strength <for [Military] units> <when below [76] HP> <when above [50] HP>", "[+15]% Strength <for [Military] units> <when below [51] HP> <when above [25] HP>", "[+20]% Strength <for [Military] units> <when below [26] HP>", "[+1 Culture] from every [Fishing Boats]", "[+1 Culture] from every [Atoll]", "Earn [50]% of killed [Military] unit's [Strength] as [Culture]"],
 		"cities": ["Kyoto","Osaka","Tokyo","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
 			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
 			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",

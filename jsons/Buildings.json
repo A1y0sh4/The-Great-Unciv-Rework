@@ -447,7 +447,7 @@
 		"name": "Burial Tomb",
 		"replaces": "Temple",
 		"uniqueTo": "Egypt",
-		"maintenance": 1,
+		"maintenance": 2,
 		"uniques": ["[+10]% Production when constructing [All] wonders [in this city]", "Destroyed when the city is captured"],
 		"faith": 2,
 		"culture": 1,

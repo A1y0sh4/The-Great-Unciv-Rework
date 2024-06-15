@@ -514,7 +514,8 @@
 			{
 				"name": "Pharmaceuticals",
 				"row": 2,
-				"prerequisites": ["Plastics","Refrigeration"],
+				"prerequisites": ["Plastics","Refrigeration"], 
+				"uniques": ["[+1 Science] per [4] population [in all cities]"],
 				"quote": "'In nothing do men more nearly approach the gods than in giving health to men.' - Cicero"
 			},
 			{

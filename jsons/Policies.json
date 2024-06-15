@@ -398,7 +398,9 @@
             {
                 "name": "Secularism",
                 "uniques": [
-                "[-33]% Natural religion spread [in all cities] <for [All]>"
+                "Enemy [Great Prophet] units must spend [1] extra movement points when inside your territory",
+		"Enemy [Inquisitor] units must spend [2] extra movement points when inside your territory",
+		"Enemy [Missionary] units must spend [3] extra movement points when inside your territory",
                 ],
                 "row": 1,
                 "column": 2

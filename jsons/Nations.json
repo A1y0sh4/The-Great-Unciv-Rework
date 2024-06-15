@@ -210,7 +210,7 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Cultural Finesse",
-		"uniques": ["[-10]% Culture cost of adopting new Policies", "[-33]% City-State Influence degradation"],
+		"uniques": ["[-10]% Culture cost of adopting new Policies", "[-25]% enemy spy effectiveness [in all cities with a garrison]"],
 		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
 			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
 			"Amstetten", "Bad Ischl", "Wolfsberg", "Kufstein", "Leoben", "Klosterneuburg", "Leonding",

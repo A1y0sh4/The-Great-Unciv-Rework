@@ -287,9 +287,10 @@
 				"quote": "'Their rising all at once was as the sound of thunder heard remote' - Milton"
 			},
 			{
-				"name": "Banking",
+				"name": "Banking", 
 				"row": 6,
 				"prerequisites": ["Chivalry", "Education"],
+				"uniques": ["[Gold] cost of purchasing items in cities [-10]%"],
 				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
 			},
 			{

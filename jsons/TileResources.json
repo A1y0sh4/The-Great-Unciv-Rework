@@ -148,7 +148,6 @@
 		"resourceType": "Strategic",
 		"revealedBy": "Biology",
 		"terrainsCanBeFoundOn": ["Desert","Coast","Tundra","Snow","Marsh","Jungle"],
-		"production": 1,
 		"improvedBy": ["Oil well", "Offshore Platform"],
 		"improvementStats": {"production": 1},
 		"uniques": ["Resource", "Deposits in [Coast] tiles always provide [4] resources",

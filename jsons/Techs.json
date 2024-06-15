@@ -524,6 +524,13 @@
 				"prerequisites": ["Ballistics","Electronics"],
 				"quote": "'Vision is the art of seeing things invisible.' - Jonathan Swift"
 			},
+			{
+				"name": "Advanced Espionage",
+				"row": 8,
+				"prerequisites": ["Combustion"],
+				"uniques": ["[+3 Culture] from every [Natural Wonder]"],
+				"quote": "'The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest.' - Ludwig von Mises"
+			}
 			
 		]
 	},
@@ -556,7 +563,7 @@
 			{
 				"name": "Computers",
 				"row": 8,
-				"prerequisites": ["Combined Arms","Radar"],
+				"prerequisites": ["Advanced Espionage","Radar"],
 				"quote": "'Computers are like Old Testament gods: lots of rules and no mercy.' - Joseph Campbell"
 			}
 		]

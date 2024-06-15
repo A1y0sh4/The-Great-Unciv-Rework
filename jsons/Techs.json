@@ -464,7 +464,7 @@
 				"name": "Combustion",
 				"row": 8,
 				"prerequisites": ["Biology", "Steam Power","Dynamite"],
-				"uniques": ["[+4 Gold] from every [Oil]"],
+				"uniques": ["[+3 Gold] from every [Oil]"],
 				"quote": "'Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves.' - Albert Einstein"
 			}
 		]
@@ -486,6 +486,7 @@
 				"name": "Electronics",
 				"row": 5,
 				"prerequisites": ["Replaceable Parts", "Flight"],
+				"uniques": ["[+1 Science, +1 Gold] from every [Strategic resource]"],
 				"quote": "'There's a basic principle about consumer electronics: it gets more powerful all the time and it gets cheaper all the time.' - Trip Hawkins"
 			},
 			{

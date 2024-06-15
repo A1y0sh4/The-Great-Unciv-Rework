@@ -492,7 +492,8 @@
 			{
 				"name": "Ballistics",
 				"row": 6,
-				"prerequisites": ["Flight"],
+				"prerequisites": ["Flight"], 
+				"uniques": ["Earn [100]% of killed [Military] unit's [Cost] as [Science]"],
 				"quote": "'Men, like bullets, go farthest when they are smoothest.' - Jean Paul"
 			},
 			{

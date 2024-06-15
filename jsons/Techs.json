@@ -451,6 +451,7 @@
 				"name": "Replaceable Parts",
 				"row": 4,
 				"prerequisites": ["Electricity","Steam Power"],
+				"uniques": ["[+2 Production] [in all cities]"],
 				"quote": "'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford"
 			},
 			{

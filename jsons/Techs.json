@@ -445,6 +445,7 @@
 				"name": "Radio",
 				"row": 3,
 				"prerequisites": ["Electricity"],
+				"uniques": ["[+25]% spy effectiveness [in all cities]"],
 				"quote": "'The whole country was tied together by radio. We all experienced the same heroes and comedians and singers. They were giants.' - Woody Allen"
 			},
 			{

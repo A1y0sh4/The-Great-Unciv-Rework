@@ -527,8 +527,8 @@
 			{
 				"name": "Advanced Espionage",
 				"row": 8,
-				"prerequisites": ["Combustion"],
-				"uniques": ["[+3 Culture] from every [Natural Wonder]"],
+				"prerequisites": ["Combined Arms", "Ballistics", "Electronics"],
+				"uniques": ["Gain an extra spy", "Promotes all spies [1] time(s)"],
 				"quote": "'The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest.' - Ludwig von Mises"
 			}
 			

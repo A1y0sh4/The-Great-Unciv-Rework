@@ -463,6 +463,7 @@
 				"name": "Combustion",
 				"row": 8,
 				"prerequisites": ["Biology", "Steam Power","Dynamite"],
+				"uniques": ["[+4 Gold] from every [Oil]"],
 				"quote": "'Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves.' - Albert Einstein"
 			}
 		]

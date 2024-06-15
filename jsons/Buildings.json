@@ -1461,7 +1461,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
-		"uniques": ["Triggers a global alert upon completion", 
+		"uniques": ["Triggers a global alert upon completion", "[+33]% [Science] [in all cities] <for [All]>", 
 			"Hidden when [Scientific] Victory is disabled", "Cannot be hurried"],
 		"requiredTech": "Satellites"
 	},
@@ -1470,7 +1470,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
-		"uniques": ["Triggers a global alert upon build start", 
+		"uniques": ["Triggers a global alert upon build start", "[+34]% [Science] [in all cities] <for [All]>", 
 			"Hidden when [Scientific] Victory is disabled", "Cannot be hurried"],
 		"requiredTech": "Nanotechnology"
 	},

@@ -520,7 +520,8 @@
 			{
 				"name": "Atomic Theory",
 				"row": 4,
-				"prerequisites": ["Plastics","Electronics"],
+				"prerequisites": ["Plastics","Electronics"], 
+				"uniques": ["Influence of all other civilizations with all city-states degrades [50]% faster <if no other Civilization has researched this>"],
 				"quote": "'The unleashed power of the atom has changed everything save our modes of thinking, and we thus drift toward unparalleled catastrophes.' - Albert Einstein"
 			},
 			{
@@ -584,7 +585,6 @@
 				"name": "Telecommunications",
 				"row": 2,
 				"prerequisites": ["Ecology", "Computers"],
-				"uniques": ["[+2 Science, +2 Happiness] from every [Broadcast Tower]"],
 				"quote": "'The more we elaborate our means of communication, the less we communicate.' - J.B. Priestly"
 			},
 			{

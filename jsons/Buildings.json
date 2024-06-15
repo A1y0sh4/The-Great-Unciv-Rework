@@ -448,7 +448,7 @@
 		"replaces": "Temple",
 		"uniqueTo": "Egypt",
 		"maintenance": 2,
-		"uniques": ["[+10]% Production when constructing [All] wonders [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["[+15]% Production when constructing [All] wonders [in this city]", "Destroyed when the city is captured"],
 		"faith": 2,
 		"culture": 1,
 		"hurryCostModifier": 25,

@@ -1358,7 +1358,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"uniques": ["Must be next to [Water]", "[+1 Production] from every specialist [in all cities]"],
-		"requiredTech": "Replaceable Parts",
+		"requiredTech": "Scientific Theory",
 		"quote": "'Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore. Send these, the homeless, tempest-tossed to me, I lift my lamp beside the golden door!' - Emma Lazarus"
 	},
 	// Column 12

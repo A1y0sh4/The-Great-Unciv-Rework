@@ -299,7 +299,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Horseman",
 		"obsoleteTech": "Horseback Riding",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[+15]% Strength <when attacking> <while the empire is happy>", "[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "arrow"
 	},
 	{

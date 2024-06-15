@@ -221,7 +221,7 @@
 	{
 		"name": "Walls of Babylon",
 		"replaces": "Walls",
-		"cost": 40,
+		"cost": 45,
 		"uniqueTo": "Babylon",
 		"culture": 1,
 		"cityStrength": 5,

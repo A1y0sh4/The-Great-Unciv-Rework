@@ -1149,7 +1149,7 @@
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredTech": "Metallurgy",
-		"uniques": ["[+1 Production] from [Fort] tiles [in this city]", "[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured"]
+		"uniques": ["[+1 Production] from [Fort] tiles [in this city]", "[+1 Production] from [Citadel] tiles [in this city]", "[-25]% enemy spy effectiveness [in this city]", "Destroyed when the city is captured"]
 	},
 	{
 		"name": "Venetian Arsenal",
@@ -1344,7 +1344,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Arsenal",
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured"]
+		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "[-25]% enemy spy effectiveness [in this city]", "Destroyed when the city is captured"]
 	},
         {
 		"name": "Airport",
@@ -1405,7 +1405,7 @@
 		"isWonder": true,
 		"culture": 1,
 		"greatPersonPoints": {"Great General": 2},
-		"uniques": ["[-33]% Gold cost of upgrading <for [Military] units>", "All newly-trained [relevant] units [in this city] receive the [Sentry] promotion", "All newly-trained [relevant] units [in this city] receive the [Logistics] promotion"],
+		"uniques": ["[-33]% Gold cost of upgrading <for [Military] units>", "Promotes all spies [1] time(s)", "[-25]% enemy spy effectiveness [in all cities]"],
 		"requiredTech": "Combined Arms",
 		"quote": "'In preparing for battle I have always found that plans are useless, but planning is indispensable.' - Dwight D. Eisenhower"
 	},

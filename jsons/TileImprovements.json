@@ -56,7 +56,7 @@
 	{
 		"name": "Oil well",
 		"type": "Improvement",
-		"production": 2,
+		"production": 1,
 		"turnsToBuild": 9,
 		"techRequired": "Biology",
 		"uniques": ["Improvement", "Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+13 Gold]"],

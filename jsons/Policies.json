@@ -555,7 +555,7 @@
                 "name": "Police State",
                 "uniques": [
                     "[+3 Happiness] from every [Courthouse]",
-                    "[+100]% Production when constructing [Courthouse] buildings [in all cities]"
+                    "[+100]% Production when constructing [Courthouse] buildings [in all cities]", "[-25]% enemy spy effectiveness [in all cities]"
                 ],
                 "requires": ["Militarism"],
                 "row": 2,

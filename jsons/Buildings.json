@@ -534,7 +534,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 1},
-		"uniques": ["Must be on [Hill]", "Adopt [Diplomacy]", "Gain [250] [Gold]", "Gain a free [Amphitheater] [in this city]"],
+		"uniques": ["Must be on [Hill]", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory", "Resting point for Influence with City-States is increased by [10]", "Gain a free [Amphitheater] [in this city]"],
 		"requiredTech": "Drama and Poetry",
 		"quote": "'Earth proudly wears the Parthenon as the best gem upon her zone.' - Ralph Waldo Emerson"
 	},

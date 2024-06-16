@@ -562,7 +562,7 @@
 		"cost": 75,
 		"specialistSlots": {"Merchant": 1},
 		"happiness": 2,
-		"uniques": ["[+1 Gold] from [Resource] tiles [in this city]"],
+		"uniques": ["[+1 Gold] from [Resource] tiles [in this city]", "[+10]% Golden Age length"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Currency"
 	},

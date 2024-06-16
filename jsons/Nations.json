@@ -1849,7 +1849,7 @@
 		"innerColor": [116,55,25],
 		
 		"uniqueName": "Iklwa",
-		"uniques": ["[+50]% XP gained from combat <for [Sword] units>", "[-50]% maintenance costs <for [Sword] units>"],
+		"uniques": ["[+50]% XP gained from combat <for [Sword] units>", "[-50]% maintenance costs <for [Sword] units>", "[+5] HP when healing <for [Sword] units>"],
 		"cities": ["Ulundi","Umgungundlovu","Bulawayo","KwaDukuza","Nongoma","oNdini","Nodwengu","Ndonakusuka","Babanango","Khangela",
 			"KwaHlomendlini","Hlobane","eThekwini","Mlambongwenya","Eziqwaqweni","Isiphezi","Masotsheni","Mtunzini","Nyakamubi","Dumazulu",
 			"Hlatikulu","Mthonjaneni","Empangeni","Pongola","Tugela","Kwamashu","Ingwavuma","Hlulhluwe","Matubatuba","Mhlahlandlela",

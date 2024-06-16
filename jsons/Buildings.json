@@ -929,7 +929,7 @@
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Workshop] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
-		"requiredTech": "Machinery"
+		"requiredTech": "Steel"
 	},
 	{
 		"name": "Notre Dame",
@@ -948,7 +948,7 @@
 		"requiredBuilding": "Barracks",
 		"greatPersonPoints": {"Great General": 1},
 		"uniques": ["New [{Land} {Military}] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Steel"
+		"requiredTech": "Metal Casting"
 	},
 
 	// Renaissance Era

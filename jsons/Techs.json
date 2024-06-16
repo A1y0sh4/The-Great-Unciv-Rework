@@ -89,7 +89,7 @@
 			{
 				"name": "Masonry",
 				"row": 9,
-				"prerequisites": ["Mining"],
+				"prerequisites": ["Mining", "Archery"],
 				"quote": "'How happy are those whose walls already rise!' - Virgil"
 			},
 			{

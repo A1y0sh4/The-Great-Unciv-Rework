@@ -238,7 +238,7 @@
     {
         "name": "Initiation Rites",
         "type": "Founder",
-        "uniques": ["[+30 Faith] when a city adopts this religion for the first time (modified by game speed)"]
+        "uniques": ["[+30 Faith] when a city adopts this religion for the first time <(modified by game speed)>"]
     },
     {
         "name": "Interfaith Dialogue",
@@ -317,7 +317,7 @@
     {
         "name": "Reliquary",
         "type": "Enhancer",
-        "uniques": ["[+50 Faith] whenever a Great Person is expended"]
+        "uniques": ["Gain [+100] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"]
     },
     {
         "name": "Religious Settlements",
@@ -327,7 +327,7 @@
      {
         "name": "Holy Alliance",
         "type": "Enhancer",
-        "uniques": ["Gain [50] [Gold] <upon declaring friendship>", "Gain [50] [Gold] <upon declaring a defensive pact>"]
+        "uniques": ["Gain [100] [Gold] <upon declaring friendship> <(modified by game speed)>", "Gain [100] [Gold] <upon declaring a defensive pact> <(modified by game speed)>"]
     }
 ]
 

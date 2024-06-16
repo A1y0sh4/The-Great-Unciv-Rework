@@ -849,7 +849,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["Must be next to [Jungle]", "[+1 Faith] per [2] population [in this city]", "Gain a free [Wat] [in this city]"],
+		"uniques": ["Must be next to [Jungle]", "[+1] population [in all cities]", "[+1 Faith, +1 Science] [in all cities]", "Gain a free [Wat] [in this city]"],
 		"requiredTech": "Machinery",
 		"quote": "'The temple is like no other building in the world. It has towers and decoration and all the refinements which the human genius can conceive of.' - Antonio da Magdalena"
 	},
@@ -1491,7 +1491,7 @@
 		"isWonder": true,
 		"culture": 1,
 		"greatPersonPoints": {"Great Merchant": 2},
-		"uniques": ["[+1] population [in all cities]", "[+1 Happiness, +1 Culture] [in all cities]", "Gain a free [Broadcast Tower] [in all cities]"],
+		"uniques": ["[+5 Happiness, +2 Culture] from every [Broadcast Tower]","Gain a free [Broadcast Tower] [in all cities]"],
 		"requiredTech": "Telecommunications",
 		"quote": "'Nothing travels faster than light with the possible exception of bad news, which obeys its own special rules.' - Douglas Adams"
 	},

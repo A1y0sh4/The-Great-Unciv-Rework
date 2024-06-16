@@ -95,7 +95,7 @@
 			{
 				"name": "Bronze Working",
 				"row": 10,
-				"prerequisites": ["Mining"],
+				"prerequisites": ["Mining", "Archery"],
 				"quote": "'Here Hector entered, with a spear eleven cubits long in his hand; the bronze point gleamed in front of him, and was fastened to the shaft of the spear by a ring of gold.' - Homer"
 			}
 		]

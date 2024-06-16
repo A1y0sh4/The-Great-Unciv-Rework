@@ -1601,7 +1601,7 @@
 		"cost": 2000,
 		"culture": 3,
 		"greatPersonPoints": {"Great Merchant": 3},
-		"uniques": ["Triggers voting for the Diplomatic Victory", "Hidden when [Diplomatic] Victory is disabled", "Triggers a global alert upon build start", "Triggers a global alert upon completion", "Only available <after adopting [Cosmopolitanism Complete]>", "Cannot be hurried"],
+		"uniques": ["Triggers voting for the Diplomatic Victory", "Hidden when [Diplomatic] Victory is disabled", "Triggers a global alert upon build start", "Triggers a global alert upon completion", "Only available <after adopting [Internationalism Complete]>", "Cannot be hurried"],
 		"quote": "'There is nothing like a dream to create the future.' - Victor Hugo"
 	},
 	

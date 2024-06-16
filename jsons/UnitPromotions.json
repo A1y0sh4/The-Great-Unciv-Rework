@@ -731,7 +731,7 @@
 	{
 		"name": "Pride",
 		"prerequisites": ["Accuracy II","Barrage II","Shock III","Drill III","Scouting III","Survivalism III"],
-		"uniques": ["Heal this unit by [33] HP <upon being promoted>"],
+		"uniques": ["Heal this unit by [33] HP", "Heal this unit by [33] HP <upon being promoted>"],
 		"unitTypes": ["Sword", "Gunpowder","Archery", "Ranged Gunpowder", "Mounted", "Scout"],
         "column": 9,
         "row": 4

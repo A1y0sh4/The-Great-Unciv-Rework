@@ -191,7 +191,7 @@
 			{
 				"name": "Civil Service",
 				"row": 5,
-				"prerequisites": ["Currency","Horseback Riding","Drama and Poetry"],
+				"prerequisites": ["Currency", "Horseback Riding", "Drama and Poetry"],
 				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
 			},
@@ -205,7 +205,7 @@
 			{
 				"name": "Metal Casting",
 				"row": 9,
-				"prerequisites": ["Engineering","Iron Working"],
+				"prerequisites": ["Engineering", "Iron Working"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			}
 		]

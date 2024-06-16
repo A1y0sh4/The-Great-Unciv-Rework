@@ -191,7 +191,7 @@
 			{
 				"name": "Civil Service",
 				"row": 5,
-				"prerequisites": ["Currency", "Horseback Riding", "Drama and Poetry"],
+				"prerequisites": ["Currency","Horseback Riding","Drama and Poetry"],
 				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
 			},
@@ -205,7 +205,7 @@
 			{
 				"name": "Metal Casting",
 				"row": 9,
-				"prerequisites": ["Engineering", "Iron Working"],
+				"prerequisites": ["Engineering","Iron Working"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			}
 		]
@@ -235,7 +235,7 @@
 			{
 				"name": "Distillation",
 				"row": 4,
-				"prerequisites": ["Theology", "Guilds"],
+				"prerequisites": ["Theology","Guilds"],
 				"quote": "'Whoever drinks beer, he is quick to sleep; whoever sleeps long, does not sin; whoever does not sin, enters Heaven! Thus, let us drink beer!' - Martin Luther"
 			},
 			{
@@ -248,7 +248,7 @@
 				"name": "Machinery",
 				"row": 8,
 				"prerequisites": ["Guilds","Engineering"],
-				"uniques": ["Improves movement speed on roads", "[+1 Production] [in all cities]"],
+				"uniques": ["Improves movement speed on roads"],
 				"quote": "'The press is the best instrument for enlightening the mind of man, and improving him as a rational, moral and social being.' - Thomas Jefferson"
 			},
 			{

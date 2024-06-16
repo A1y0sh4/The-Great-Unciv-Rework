@@ -267,12 +267,12 @@
 	    "Religious": 30
         },
         "uniques": [,
-                    "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory"],
+                    "Empire enters golden age <with [33]% chance> <upon declaring friendship>"],
         "policies": [
             {
-                "name": "Philantropy",
+                "name": "Forced Enlisting",
                 "uniques": [
-                    "Gifts of Gold to City-States generate [20]% more Influence"
+                    "When defeating a [Military] unit, earn [10] Gold and recruit it <with [15]% chance>"
                 ],
                 "row": 1,
                 "column": 4
@@ -286,9 +286,9 @@
                 "column": 2
             },
             {
-                "name": "Consulates",
+                "name": "Machiavellism",
                 "uniques": [
-                    "Resting point for Influence with City-States is increased by [20]",
+                    "Gain an extra spy", "[+25]% spy effectiveness [in all cities]"
                 ],
                 "requires": ["Political Science"],
                 "row": 2,
@@ -299,16 +299,15 @@
                 "uniques": [
                     "Allied City-States provide [Culture] equal to [100]% of what they produce for themselves"
                 ],
-                "requires": ["Consulates"],
+                "requires": ["Machiavellism"],
                 "row": 3,
                 "column": 2
             },
             {
-                "name": "Merchant Confederacy",
-                "requires": ["Consulates", "Philantropy"],
+                "name": "Military Intelligence",
+                "requires": ["Machiavellism", "Forced Enlisting"],
                 "uniques": [
-		    "[+100]% resources gifted by City-States",
-                    "[+50]% Happiness from luxury resources gifted by City-States"
+		    "[+10]% Strength <for [Wounded] units>"
                 ],
                 "row": 3,
                 "column": 4

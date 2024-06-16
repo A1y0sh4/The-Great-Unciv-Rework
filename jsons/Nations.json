@@ -273,7 +273,7 @@
 		"innerColor": [213,249,255],
 		
 		"uniqueName": "Ingenuity",
-		"uniqueText": "Gain 2 free random Technology upon entering a new era\nGain for free in your Capital the cheapest avaible building for every Stat\nGain -33% [Science] per turn",
+		"uniqueText": "Gain 2 free random Technology upon entering a new era\nGain for free in your 4 first cities the cheapest avaible building for every Stat\nGain -33% [Science] per turn",
 		"uniques": ["[2] free random researchable Tech(s) from the [Ancient era] <upon entering the [Ancient era]>",
 		            "[2] free random researchable Tech(s) from the [Classical era] <upon entering the [Classical era]>",
 		            "[2] free random researchable Tech(s) from the [Medieval era] <upon entering the [Medieval era]>",
@@ -283,7 +283,7 @@
 		            "[2] free random researchable Tech(s) from the [Modern era] <upon entering the [Atomic era]>",
 		            "[2] free random researchable Tech(s) from the [Modern era] <upon entering the [Information era]>",
 		            "[2] free random researchable Tech(s) from the [Modern era] <upon entering the [Future era]>",
-		            "Provides the cheapest [Food] building in your first [1] cities for free", "Provides the cheapest [Production] building in your first [1] cities for free", "Provides the cheapest [Culture] building in your first [1] cities for free", "Provides the cheapest [Science] building in your first [1] cities for free", "Provides the cheapest [Gold] building in your first [1] cities for free", "Provides the cheapest [Faith] building in your first [1] cities for free", "Provides the cheapest [Happiness] building in your first [1] cities for free", "[-33]% [Science] [in all cities]"],
+		            "Provides the cheapest [Food] building in your first [4] cities for free", "Provides the cheapest [Production] building in your first [4] cities for free", "Provides the cheapest [Culture] building in your first [4] cities for free", "Provides the cheapest [Science] building in your first [4] cities for free", "Provides the cheapest [Gold] building in your first [4] cities for free", "Provides the cheapest [Faith] building in your first [4] cities for free", "Provides the cheapest [Happiness] building in your first [4] cities for free", "[-33]% [Science] [in all cities]"],
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",

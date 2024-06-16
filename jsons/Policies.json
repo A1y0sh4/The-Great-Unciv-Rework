@@ -578,7 +578,7 @@
         ]
     },
     {
-        "name": "Cosmopolitanism",
+        "name": "Internationalism",
         "era": "Industrial era",
         "priorities": {
             "Neutral": 50,
@@ -597,23 +597,23 @@
             {
                 "name": "World Expo",
                 "uniques": [
-                    "Science gained from research agreements [+25]% <for [All]>"
+                    "Science gained from research agreements [+50]%", "Allied City-States will occasionally gift Great People"
                 ],
                 "row": 1,
                 "column": 1
             },
             {
-                "name": "Demilitarization",
+                "name": "Pacifism",
                 "uniques": [
-                    "[+25]% maintenance costs <for [Military] units> <for [All]>",
+                    "[+15]% maintenance costs <for [Military] units>", "Resting point for Influence with City-States is increased by [20]"
                 ],
                 "row": 1,
                 "column": 5
             },
             {
-                "name": "Exchange Programs",
+                "name": "Cultural Diplomacy",
                 "uniques": [
-                    "Gain [50] [Culture] <upon declaring friendship> <for [All]>"
+                    "Allied City-States provide [Culture] equal to [100]% of what they produce for themselves", "Influence of all other civilizations with all city-states degrades [33]% faster", "Triggers the following global alert: [Our influence with City-States has started dropping faster!]"
                 ],
                 "row": 1,
                 "column": 3
@@ -622,7 +622,8 @@
                 "name": "Global Cooperation",
                 "requires": ["World Expo", "Demilitarization", "Exchange Programs"],
                 "uniques": [
-                   "[+5]% [Food] [in all cities] <for [All]>", "[+5]% [Production] [in all cities] <for [All]>"
+                   "[+100]% resources gifted by City-States",
+                    "[+50]% Happiness from luxury resources gifted by City-States"
                 ],
                 "row": 2,
                 "column": 3

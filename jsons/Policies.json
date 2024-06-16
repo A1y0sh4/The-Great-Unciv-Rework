@@ -304,7 +304,7 @@
                 "column": 2
             },
             {
-                "name": "Ostruzionism",
+                "name": "Rabblerousing",
                 "requires": ["Machiavellism", "Mercenary Opportunism"],
                 "uniques": [
 		    "Influence of all other civilizations with all city-states degrades [33]% faster", "Triggers the following global alert: [Our influence with City-States has started dropping faster!]"

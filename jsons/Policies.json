@@ -619,7 +619,7 @@
             },
             {
                 "name": "Global Cooperation",
-                "requires": ["World Expo", "Demilitarization", "Exchange Programs"],
+                "requires": ["World Expo", "Pacifism", "Cultural Diplomacy"],
                 "uniques": [
                    "[+100]% resources gifted by City-States",
                     "[+50]% Happiness from luxury resources gifted by City-States"

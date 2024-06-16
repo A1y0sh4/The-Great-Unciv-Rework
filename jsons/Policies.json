@@ -299,13 +299,13 @@
                 "uniques": [
                     "[-25]% enemy spy effectiveness [in all cities]", "[-25]% enemy spy effectiveness [in all cities with a garrison]"
                 ],
-                "requires": ["Machiavellism"],
+                "requires": ["Machiavellianism"],
                 "row": 3,
                 "column": 2
             },
             {
                 "name": "Rabblerousing",
-                "requires": ["Machiavellism", "Mercenary Opportunism"],
+                "requires": ["Machiavellianism", "Mercenary Opportunism"],
                 "uniques": [
 		    "Influence of all other civilizations with all city-states degrades [33]% faster", "Triggers the following global alert: [Our influence with City-States has started dropping faster!]"
                 ],

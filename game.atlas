@@ -270,7 +270,7 @@ BuildingIcons/Cloning Lab
   orig: 100, 100
   offset: 0, 0
   index: -1
-PolicyBranchIcons/Cosmopolitanism
+PolicyBranchIcons/Internazionalism
   rotate: false
   xy: 1340, 400
   size: 100, 100
@@ -382,7 +382,7 @@ PolicyIcons/Free Trade
   orig: 100, 100
   offset: 0, 0
   index: -1
-PolicyIcons/Demilitarization
+PolicyIcons/Pacifism
   rotate: false
   xy: 1590, 640
   size: 100, 100

@@ -850,7 +850,7 @@
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
 		"uniques": ["Must be next to [Jungle]", "[+1 Faith] per [2] population [in this city]", "Gain a free [Wat] [in this city]"],
-		"requiredTech": "Education",
+		"requiredTech": "Machinery",
 		"quote": "'The temple is like no other building in the world. It has towers and decoration and all the refinements which the human genius can conceive of.' - Antonio da Magdalena"
 	},
 	{

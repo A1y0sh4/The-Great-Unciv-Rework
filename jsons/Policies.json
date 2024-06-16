@@ -632,7 +632,7 @@
                 "name": "International Harmony",
                 "requires": ["Global Cooperation"],
                 "uniques": [
-                    "[-50]% enemy spy effectiveness [in all cities]"
+                    "[-50]% enemy spy effectiveness [in City-State cities]"
                 ],
                 "row": 3,
                 "column": 3

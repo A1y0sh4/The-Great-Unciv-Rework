@@ -206,6 +206,7 @@
 				"name": "Metal Casting",
 				"row": 9,
 				"prerequisites": ["Engineering","Iron Working"],
+				"uniques": ["[+1 Production] [in all cities]"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			}
 		]

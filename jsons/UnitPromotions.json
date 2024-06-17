@@ -889,10 +889,14 @@
 	},
 	{
 		"name": "River Mobility",
-		"uniques": ["Ignores terrain cost <in [River] tiles>"],
+		"uniques": ["Ignores terrain cost <in [River] tiles>"], 
 	},
 	 {
         "name": "Devout",
         "uniques": ["Can Spread Religion <[1] additional time(s)>"]
-    }
+    },
+	{
+        "name": "Secularism",
+        "uniques": ["Prevents spreading of religion to the city it is next to"]
+    },
 ]

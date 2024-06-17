@@ -639,7 +639,7 @@
 			{
 				"name": "Nanotechnology",
 				"row": 7,
-				"prerequisites": ["Robotics", "Satellites"],
+				"prerequisites": ["Robotics", "Satellites", "Lasers"],
 				"quote": "'The impact of nanotechnology is expected to exceed the impact that the electronics revolution has had on our lives.' - Richard Schwartz"
 			},
 			{

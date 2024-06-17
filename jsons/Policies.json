@@ -645,6 +645,7 @@
     },
 	{
         "name": "Revolution",
+	"era": "Ancient era",
         "priorities": {
             "Neutral": 30,
             "Cultural": 30,

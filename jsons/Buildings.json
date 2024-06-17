@@ -1509,7 +1509,7 @@
 		"culture": 1,
 		"science": 5,
 		"greatPersonPoints": {"Great Scientist": 2},
-		"uniques": ["[+50]% Production when constructing [Sputnik Program] buildings [in this city]", "[+50]% Production when constructing [Apollo Program] buildings [in this city]", "[+50]% Production when constructing [Mars Colonization Program] buildings [in this city]",
+		"uniques": ["[+50]% Production when constructing [National Wonder] buildings [in this city]",
 			    "[+5 Science] from every [Observatory]"],
 		"requiredTech": "Satellites",
 		"quote": "'The wonder is, not that the field of stars is so vast, but that man has measured it.' - Anatole France"
@@ -1520,7 +1520,7 @@
 		"requiredResource": "Aluminum",
 		"requiredBuilding": "Factory",
 		"maintenance": 3,
-		"uniques": ["[+50]% Production when constructing [Sputnik Program] buildings [in this city]", "[+50]% Production when constructing [Apollo Program] buildings [in this city]", "[+50]% Production when constructing [Mars Colonization Program] buildings [in this city]"],
+		"uniques": ["[+50]% Production when constructing [National Wonder] buildings [in this city]"],
 		"requiredTech": "Robotics"
 	},
 	// Column 16

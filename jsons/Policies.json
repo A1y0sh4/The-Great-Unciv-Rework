@@ -413,7 +413,7 @@
             {
                 "name": "Free Thought",
                 "uniques": [
-                    "[+33]% Great Person generation [in all cities]", "[+3 Culture, +3 Science] from every [National Wonder]", 
+                    "[+33]% Great Person generation [in all cities]", "[+2 Culture, +2 Science] from every [National Wonder]", 
                 ],
                 "requires": ["Secularism"],
                 "row": 2,

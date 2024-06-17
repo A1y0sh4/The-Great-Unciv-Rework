@@ -658,11 +658,60 @@
             "Only available <when below [-10] Happiness>", "Sell [Palace] buildings [in all cities]", "Empire enters golden age"
         ],
 	"policies": [
+		{
+                "name": "Revolution I",
+                "uniques": [
+                    "Remove [Tradition] and refund [75]% of its cost",
+		    "Remove [Revolution] and refund [75]% of its cost"
+                ],
+			"row": 1,
+                "column": 1
+            },
+		{
+                "name": "Revolution II",
+			"requires": ["Revolution I"],
+                "uniques": [
+                    "Remove [Tradition] and refund [75]% of its cost",
+		    "Remove [Revolution] and refund [75]% of its cost"
+                ],
+			"row": 1,
+                "column": 3
+            },
+		{
+                "name": "Revolution III",
+			"requires": ["Revolution II"],
+                "uniques": [
+                    "Remove [Tradition] and refund [75]% of its cost",
+		    "Remove [Revolution] and refund [75]% of its cost"
+                ],
+			"row": 1,
+                "column": 5
+            },
+		{
+                "name": "Revolution IV",
+			"requires": ["Revolution III"],
+                "uniques": [
+                    "Remove [Tradition] and refund [75]% of its cost",
+		    "Remove [Revolution] and refund [75]% of its cost"
+                ],
+			"row": 2,
+                "column": 2
+            },
+		{
+                "name": "Revolution V",
+			"requires": ["Revolution IV"],
+                "uniques": [
+                    "Remove [Tradition] and refund [75]% of its cost",
+		    "Remove [Revolution] and refund [75]% of its cost"
+                ],
+			"row": 2,
+                "column": 4
+            },
             {
                 "name": "Revolution Complete",
                 "uniques": [
                     "Remove [Tradition] and refund [75]% of its cost",
-		    "Remove [Revolution] and refund [75]% of its cost", "Remove [Revolution Complete] and refund [75]% of its cost",
+		    "Remove [Revolution] and refund [75]% of its cost"
                 ],
             },
         ],

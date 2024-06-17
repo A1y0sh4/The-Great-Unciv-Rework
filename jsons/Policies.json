@@ -642,5 +642,19 @@
                 ]
             }
         ]
-    }
+    },
+	{
+        "name": "Revolution",
+        "priorities": {
+            "Neutral": 30,
+            "Cultural": 30,
+            "Diplomatic": 30,
+            "Domination": 30,
+            "Scientific": 30,
+	    "Religious": 30
+        },
+        "uniques": [
+            "Only available <when below [-10] Happiness>", "Sell [Palace] buildings [in all cities]", "Remove [All] and refund [85]% of its cost"
+        ],
+    },
 ]

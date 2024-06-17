@@ -248,7 +248,12 @@
     {
         "name": "Papal Primacy",
         "type": "Founder",
-        "uniques": ["Resting point for Influence with City-States following this religion [+20]"]
+        "uniques": ["Resting point for Influence with City-States following this religion [+15]"]
+    },
+    {
+        "name": "Holy Patronage",
+        "type": "Founder",
+        "uniques": ["Gifts of Gold to City-States generate [33]% more Influence"]
     },
     {
         "name": "Peace Loving",
@@ -308,6 +313,11 @@
         "name": "Religious Texts",
         "type": "Enhancer",
         "uniques": ["[+25]% Natural religion spread [in all cities]", "[+25]% Natural religion spread [in all cities] <after discovering [Printing Press]>"]
+    },
+    {
+        "name": "Doctrinal Esoterism",
+        "type": "Enhancer",
+        "uniques": ["[-25]% enemy spy effectiveness [in all cities]", "[-25]% enemy spy effectiveness [in holy cities]"]
     },
     {
         "name": "Religious Unity",

@@ -655,7 +655,7 @@
 	    "Religious": 30
         },
         "uniques": [
-            "Only available <when below [-10] Happiness>", "Sell [Palace] buildings [in all cities]", "[+5 Happiness] from every [Palace]",
+            "Only available <when below [-10] Happiness>", "Sell [Palace] buildings [in all cities]", "[+10 Happiness] from every [Palace] <for [15] turns>",
                     "Remove [Tradition] and refund [75]% of its cost", "Remove [Discipline] and refund [75]% of its cost", "Remove [Monarchy] and refund [75]% of its cost", "Remove [Monumentalism] and refund [75]% of its cost", "Remove [Landed Elite] and refund [75]% of its cost", "Remove [Legalism] and refund [75]% of its cost", "Remove [Tradition Complete] and refund [75]% of its cost",
 		    "Remove [Liberty] and refund [75]% of its cost", "Remove [Collective Rule] and refund [75]% of its cost", "Remove [Meritocracy] and refund [75]% of its cost", "Remove [Republic] and refund [75]% of its cost", "Remove [Citizenship] and refund [75]% of its cost", "Remove [Representation] and refund [75]% of its cost", "Remove [Liberty Complete] and refund [75]% of its cost",
 		    "Remove [Expansion] and refund [75]% of its cost", "Remove [Warrior Code] and refund [75]% of its cost", "Remove [City Militia] and refund [75]% of its cost", "Remove [Military Tradition] and refund [75]% of its cost", "Remove [Professional Army] and refund [75]% of its cost", "Remove [State Logistics] and refund [75]% of its cost", "Remove [Expansion Complete] and refund [75]% of its cost",
@@ -671,7 +671,7 @@
 		{
                 "name": "Revolution I",
                 "uniques": [
-		"Only available <when below [-10] Happiness>", "Sell [Palace] buildings [in all cities]", "[+5 Happiness] from every [Palace]",
+		"Only available <when below [-10] Happiness>", "Sell [Palace] buildings [in all cities]", "[+10 Happiness] from every [Palace] <for [15] turns>",
                     "Remove [Tradition] and refund [75]% of its cost", "Remove [Discipline] and refund [75]% of its cost", "Remove [Monarchy] and refund [75]% of its cost", "Remove [Monumentalism] and refund [75]% of its cost", "Remove [Landed Elite] and refund [75]% of its cost", "Remove [Legalism] and refund [75]% of its cost", "Remove [Tradition Complete] and refund [75]% of its cost",
 		    "Remove [Liberty] and refund [75]% of its cost", "Remove [Collective Rule] and refund [75]% of its cost", "Remove [Meritocracy] and refund [75]% of its cost", "Remove [Republic] and refund [75]% of its cost", "Remove [Citizenship] and refund [75]% of its cost", "Remove [Representation] and refund [75]% of its cost", "Remove [Liberty Complete] and refund [75]% of its cost",
 		    "Remove [Expansion] and refund [75]% of its cost", "Remove [Warrior Code] and refund [75]% of its cost", "Remove [City Militia] and refund [75]% of its cost", "Remove [Military Tradition] and refund [75]% of its cost", "Remove [Professional Army] and refund [75]% of its cost", "Remove [State Logistics] and refund [75]% of its cost", "Remove [Expansion Complete] and refund [75]% of its cost",
@@ -690,7 +690,7 @@
                 "name": "Revolution II",
 			"requires": ["Revolution I"],
                 "uniques": [
-                    "Only available <when below [-10] Happiness>", "Sell [Palace] buildings [in all cities]", "[+5 Happiness] from every [Palace]",
+                    "Only available <when below [-10] Happiness>", "Sell [Palace] buildings [in all cities]", "[+10 Happiness] from every [Palace] <for [15] turns>",
                     "Remove [Tradition] and refund [75]% of its cost", "Remove [Discipline] and refund [75]% of its cost", "Remove [Monarchy] and refund [75]% of its cost", "Remove [Monumentalism] and refund [75]% of its cost", "Remove [Landed Elite] and refund [75]% of its cost", "Remove [Legalism] and refund [75]% of its cost", "Remove [Tradition Complete] and refund [75]% of its cost",
 		    "Remove [Liberty] and refund [75]% of its cost", "Remove [Collective Rule] and refund [75]% of its cost", "Remove [Meritocracy] and refund [75]% of its cost", "Remove [Republic] and refund [75]% of its cost", "Remove [Citizenship] and refund [75]% of its cost", "Remove [Representation] and refund [75]% of its cost", "Remove [Liberty Complete] and refund [75]% of its cost",
 		    "Remove [Expansion] and refund [75]% of its cost", "Remove [Warrior Code] and refund [75]% of its cost", "Remove [City Militia] and refund [75]% of its cost", "Remove [Military Tradition] and refund [75]% of its cost", "Remove [Professional Army] and refund [75]% of its cost", "Remove [State Logistics] and refund [75]% of its cost", "Remove [Expansion Complete] and refund [75]% of its cost",
@@ -709,7 +709,7 @@
                 "name": "Revolution III",
 			"requires": ["Revolution II"],
                 "uniques": [
-                    "Only available <when below [-10] Happiness>", "Sell [Palace] buildings [in all cities]", "[+5 Happiness] from every [Palace]",
+                    "Only available <when below [-10] Happiness>", "Sell [Palace] buildings [in all cities]", "[+10 Happiness] from every [Palace] <for [15] turns>",
                     "Remove [Tradition] and refund [75]% of its cost", "Remove [Discipline] and refund [75]% of its cost", "Remove [Monarchy] and refund [75]% of its cost", "Remove [Monumentalism] and refund [75]% of its cost", "Remove [Landed Elite] and refund [75]% of its cost", "Remove [Legalism] and refund [75]% of its cost", "Remove [Tradition Complete] and refund [75]% of its cost",
 		    "Remove [Liberty] and refund [75]% of its cost", "Remove [Collective Rule] and refund [75]% of its cost", "Remove [Meritocracy] and refund [75]% of its cost", "Remove [Republic] and refund [75]% of its cost", "Remove [Citizenship] and refund [75]% of its cost", "Remove [Representation] and refund [75]% of its cost", "Remove [Liberty Complete] and refund [75]% of its cost",
 		    "Remove [Expansion] and refund [75]% of its cost", "Remove [Warrior Code] and refund [75]% of its cost", "Remove [City Militia] and refund [75]% of its cost", "Remove [Military Tradition] and refund [75]% of its cost", "Remove [Professional Army] and refund [75]% of its cost", "Remove [State Logistics] and refund [75]% of its cost", "Remove [Expansion Complete] and refund [75]% of its cost",
@@ -727,7 +727,7 @@
             {
                 "name": "Revolution Complete",
                 "uniques": [
-                    "Only available <when below [-10] Happiness>", "Sell [Palace] buildings [in all cities]", "[+5 Happiness] from every [Palace]",
+                    "Only available <when below [-10] Happiness>", "Sell [Palace] buildings [in all cities]", "[+10 Happiness] from every [Palace] <for [15] turns>",
                     "Remove [Tradition] and refund [75]% of its cost", "Remove [Discipline] and refund [75]% of its cost", "Remove [Monarchy] and refund [75]% of its cost", "Remove [Monumentalism] and refund [75]% of its cost", "Remove [Landed Elite] and refund [75]% of its cost", "Remove [Legalism] and refund [75]% of its cost", "Remove [Tradition Complete] and refund [75]% of its cost",
 		    "Remove [Liberty] and refund [75]% of its cost", "Remove [Collective Rule] and refund [75]% of its cost", "Remove [Meritocracy] and refund [75]% of its cost", "Remove [Republic] and refund [75]% of its cost", "Remove [Citizenship] and refund [75]% of its cost", "Remove [Representation] and refund [75]% of its cost", "Remove [Liberty Complete] and refund [75]% of its cost",
 		    "Remove [Expansion] and refund [75]% of its cost", "Remove [Warrior Code] and refund [75]% of its cost", "Remove [City Militia] and refund [75]% of its cost", "Remove [Military Tradition] and refund [75]% of its cost", "Remove [Professional Army] and refund [75]% of its cost", "Remove [State Logistics] and refund [75]% of its cost", "Remove [Expansion Complete] and refund [75]% of its cost",

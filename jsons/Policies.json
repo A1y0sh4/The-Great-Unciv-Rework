@@ -397,7 +397,7 @@
             {
                 "name": "Secularism",
                 "uniques": [
-                "Sell [Faith] buildings [in all cities]", "[+1 Culture, +1 Science] from every [National Wonder]", "[Military] units gain the [Secularism] promotion"
+                "Sell [Faith] buildings [in all cities]", "[Military] units gain the [Secularism] promotion"
                 ],
                 "row": 1,
                 "column": 2
@@ -413,7 +413,7 @@
             {
                 "name": "Free Thought",
                 "uniques": [
-                    "[+33]% Great Person generation [in all cities]"
+                    "[+33]% Great Person generation [in all cities]", "[+3 Culture, +3 Science] from every [National Wonder]", 
                 ],
                 "requires": ["Secularism"],
                 "row": 2,

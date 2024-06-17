@@ -1585,7 +1585,7 @@
 		"innerColor": [255,102,102],
 		
 		"uniqueName": "Seven Cities of Gold",
-		"uniques": ["Gain [100] [Gold] <upon discovering a Natural Wonder>", "[+1 Happiness, +2 Faith] for every known Natural Wonder", "[+3 Gold] [in all cities] <on foreign continents>"],
+		"uniques": ["Gain [100] [Gold] <upon discovering a Natural Wonder> <(modified by game speed)>", "[+1 Happiness, +2 Faith] for every known Natural Wonder", "[+3 Gold] [in all cities] <on foreign continents>"],
 		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
 			"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
 			"Lugo","Alicante","Càdiz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La Coruña","Guadalquivir","Bilbao",

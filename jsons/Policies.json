@@ -661,8 +661,8 @@
             {
                 "name": "Revolution Complete",
                 "uniques": [
-                    "Remove [[Tradition] branch] and refund [85]% of its cost",
-		    "Remove [[Liberty] branch] and refund [85]% of its cost"
+                    "Remove [Tradition] and refund [85]% of its cost",
+		    "Remove [Liberty] and refund [85]% of its cost"
                 ],
             },
         ],

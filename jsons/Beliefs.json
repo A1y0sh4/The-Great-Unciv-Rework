@@ -327,7 +327,7 @@
      {
         "name": "Holy Alliance",
         "type": "Enhancer",
-        "uniques": ["Gain [100] [Gold] <upon declaring friendship> <(modified by game speed)>", "Gain [100] [Gold] <upon declaring a defensive pact> <(modified by game speed)>"]
+        "uniques": ["Gain [150] [Gold] <upon declaring friendship> <(modified by game speed)>", "Gain [150] [Gold] <upon declaring a defensive pact> <(modified by game speed)>"]
     }
 ]
 

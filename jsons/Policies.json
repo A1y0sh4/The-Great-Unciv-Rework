@@ -397,9 +397,7 @@
             {
                 "name": "Secularism",
                 "uniques": [
-                "Enemy [Great Prophet] units must spend [1] extra movement points when inside your territory",
-		"Enemy [Inquisitor] units must spend [2] extra movement points when inside your territory",
-		"Enemy [Missionary] units must spend [3] extra movement points when inside your territory",
+                "Sell [Faith] buildings [in all cities]", "[+1 Culture, +1 Science] from every [National Wonder]", "[Military] units gain the [Secularism] promotion"
                 ],
                 "row": 1,
                 "column": 2

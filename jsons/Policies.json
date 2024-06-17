@@ -659,7 +659,7 @@
         ],
 	"policies": [
 		{
-                "name": "Remove [Tradition]",
+                "name": "[Tradition]",
                 "uniques": [
 		"Only available <when below [-10] Happiness>", "Sell [Palace] buildings [in all cities]", "Empire enters golden age",
                     "Remove [Tradition] and refund [75]% of its cost",

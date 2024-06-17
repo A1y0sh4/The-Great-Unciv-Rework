@@ -662,7 +662,6 @@
                 "name": "Revolution Complete",
                 "uniques": [
                     "Remove [Tradition] and refund [75]% of its cost",
-		    "Remove [Liberty] and refund [75]% of its cost",
 		    "Remove [Revolution] and refund [75]% of its cost", "Remove [Revolution Complete] and refund [75]% of its cost",
                 ],
             },

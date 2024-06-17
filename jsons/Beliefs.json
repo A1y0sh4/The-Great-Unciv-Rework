@@ -325,6 +325,11 @@
         "uniques": ["[+100]% Natural religion spread [in City-State cities]"]
     },
     {
+        "name": "Inquisition Tribunals",
+        "type": "Enhancer",
+        "uniques": ["Adopt [Inquisition]", "Free [Inquisitor] appears <upon constructing [Courthouse]>", "[+2 Faith] from every [Courthouse]"]
+    },
+    {
         "name": "Reliquary",
         "type": "Enhancer",
         "uniques": ["Gain [+100] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"]

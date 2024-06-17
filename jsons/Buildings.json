@@ -630,7 +630,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great General": 1},
-		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-air] units [in this city] receive the [Morale] promotion", "New [Military] units start with [10] Experience [in this city]",
+		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [{non-air} {Military}] units [in this city] receive the [Morale] promotion", "New [Military] units start with [10] Experience [in this city]",
 			"Cost increases by [25] per owned city"],
 		"requiredTech": "Iron Working"
 	},

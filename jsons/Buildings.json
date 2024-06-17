@@ -10,7 +10,7 @@
 		"culture": 1,
 		"cityStrength": 3,
 		"cost": 50,
-		"uniques": ["Indicates the capital city", "[+15]% [Production] [in this city] <during We Love The King Day>", "[+15]% [Gold] [in this city] <during We Love The King Day>", "Limited to [1] per Civilization", "Cost increases by [25] per owned city", "Destroyed when the city is captured"]
+		"uniques": ["Indicates the capital city", "[+15]% [Production] [in this city] <during We Love The King Day>", "[+15]% [Gold] [in this city] <during We Love The King Day>", "National Wonder", "Limited to [1] per Civilization", "Cost increases by [25] per owned city", "Destroyed when the city is captured"]
 	},
 	{
 		"name": "Monument",

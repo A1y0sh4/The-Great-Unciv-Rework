@@ -655,7 +655,15 @@
 	    "Religious": 30
         },
         "uniques": [
-            "Only available <when below [-10] Happiness>", "Sell [Palace] buildings [in all cities]", "Remove [All] and refund [85]% of its cost"
+            "Only available <when below [-10] Happiness>", "Sell [Palace] buildings [in all cities]", "Empire enters golden age"
+        ],
+	"policies": [
+            {
+                "name": "Rationalism Complete",
+                "uniques": [
+                    "Remove [All] and refund [85]% of its cost"
+                ],
+            },
         ],
     },
 ]

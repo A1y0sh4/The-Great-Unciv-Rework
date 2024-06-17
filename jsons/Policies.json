@@ -659,22 +659,31 @@
         ],
 	"policies": [
 		{
-                "name": "Revolution I",
+                "name": "Remove [Tradition]",
                 "uniques": [
+		"Only available <when below [-10] Happiness>", "Sell [Palace] buildings [in all cities]", "Empire enters golden age",
                     "Remove [Tradition] and refund [75]% of its cost",
-		    "Remove [Revolution] and refund [75]% of its cost"
+		    "Remove [Liberty] and refund [75]% of its cost",
+		    "Remove [Expansion] and refund [75]% of its cost",
+		    "Remove [Revolution] and refund [75]% of its cost",
+	    	    "Remove [Revolution] and refund [75]% of its cost",
+		    "Remove [Revolution] and refund [75]% of its cost",
+		    "Remove [Revolution] and refund [75]% of its cost",
+		    "Remove [Revolution] and refund [75]% of its cost",
+		    "Remove [Revolution] and refund [75]% of its cost",
+		    "Remove [Revolution] and refund [75]% of its cost",
                 ],
 			"row": 1,
-                "column": 1
+                "column": 3
             },
 		{
-                "name": "Revolution II",
+                "name": "Remove [Liberty]",
 			"requires": ["Revolution I"],
                 "uniques": [
                     "Remove [Tradition] and refund [75]% of its cost",
 		    "Remove [Revolution] and refund [75]% of its cost"
                 ],
-			"row": 1,
+			"row": 2,
                 "column": 3
             },
 		{
@@ -684,28 +693,8 @@
                     "Remove [Tradition] and refund [75]% of its cost",
 		    "Remove [Revolution] and refund [75]% of its cost"
                 ],
-			"row": 1,
-                "column": 5
-            },
-		{
-                "name": "Revolution IV",
-			"requires": ["Revolution III"],
-                "uniques": [
-                    "Remove [Tradition] and refund [75]% of its cost",
-		    "Remove [Revolution] and refund [75]% of its cost"
-                ],
-			"row": 2,
-                "column": 2
-            },
-		{
-                "name": "Revolution V",
-			"requires": ["Revolution IV"],
-                "uniques": [
-                    "Remove [Tradition] and refund [75]% of its cost",
-		    "Remove [Revolution] and refund [75]% of its cost"
-                ],
-			"row": 2,
-                "column": 4
+			"row": 3,
+                "column": 3
             },
             {
                 "name": "Revolution Complete",

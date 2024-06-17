@@ -659,25 +659,25 @@
         ],
 	"policies": [
 		{
-                "name": "[Tradition]",
+                "name": "Revolution I",
                 "uniques": [
 		"Only available <when below [-10] Happiness>", "Sell [Palace] buildings [in all cities]", "Empire enters golden age",
-                    "Remove [Tradition] and refund [75]% of its cost",
-		    "Remove [Liberty] and refund [75]% of its cost",
-		    "Remove [Expansion] and refund [75]% of its cost",
-		    "Remove [Revolution] and refund [75]% of its cost",
-	    	    "Remove [Revolution] and refund [75]% of its cost",
-		    "Remove [Revolution] and refund [75]% of its cost",
-		    "Remove [Revolution] and refund [75]% of its cost",
-		    "Remove [Revolution] and refund [75]% of its cost",
-		    "Remove [Revolution] and refund [75]% of its cost",
-		    "Remove [Revolution] and refund [75]% of its cost",
+                    "Remove [Tradition] and refund [75]% of its cost", "Remove [Discipline] and refund [75]% of its cost", "Remove [Monarchy] and refund [75]% of its cost", "Remove [Monumentalism] and refund [75]% of its cost", "Remove [Landed Elite] and refund [75]% of its cost", "Remove [Legalism] and refund [75]% of its cost", "Remove [Tradition Complete] and refund [75]% of its cost",
+		    "Remove [Liberty] and refund [75]% of its cost", "Remove [Discipline] and refund [75]% of its cost", "Remove [Monarchy] and refund [75]% of its cost", "Remove [Monumentalism] and refund [75]% of its cost", "Remove [Landed Elite] and refund [75]% of its cost", "Remove [Legalism] and refund [75]% of its cost", "Remove [Tradition Complete] and refund [75]% of its cost",
+		    "Remove [Expansion] and refund [75]% of its cost", "Remove [Discipline] and refund [75]% of its cost", "Remove [Monarchy] and refund [75]% of its cost", "Remove [Monumentalism] and refund [75]% of its cost", "Remove [Landed Elite] and refund [75]% of its cost", "Remove [Legalism] and refund [75]% of its cost", "Remove [Tradition Complete] and refund [75]% of its cost",
+		    "Remove [Piety] and refund [75]% of its cost", "Remove [Discipline] and refund [75]% of its cost", "Remove [Monarchy] and refund [75]% of its cost", "Remove [Monumentalism] and refund [75]% of its cost", "Remove [Landed Elite] and refund [75]% of its cost", "Remove [Legalism] and refund [75]% of its cost", "Remove [Tradition Complete] and refund [75]% of its cost",
+	    	    "Remove [Diplomacy] and refund [75]% of its cost", "Remove [Discipline] and refund [75]% of its cost", "Remove [Monarchy] and refund [75]% of its cost", "Remove [Monumentalism] and refund [75]% of its cost", "Remove [Landed Elite] and refund [75]% of its cost", "Remove [Legalism] and refund [75]% of its cost", "Remove [Tradition Complete] and refund [75]% of its cost",
+		    "Remove [Commerce] and refund [75]% of its cost", "Remove [Discipline] and refund [75]% of its cost", "Remove [Monarchy] and refund [75]% of its cost", "Remove [Monumentalism] and refund [75]% of its cost", "Remove [Landed Elite] and refund [75]% of its cost", "Remove [Legalism] and refund [75]% of its cost", "Remove [Tradition Complete] and refund [75]% of its cost",
+		    "Remove [Rationalism] and refund [75]% of its cost", "Remove [Discipline] and refund [75]% of its cost", "Remove [Monarchy] and refund [75]% of its cost", "Remove [Monumentalism] and refund [75]% of its cost", "Remove [Landed Elite] and refund [75]% of its cost", "Remove [Legalism] and refund [75]% of its cost", "Remove [Tradition Complete] and refund [75]% of its cost",
+		    "Remove [Individualism] and refund [75]% of its cost", "Remove [Discipline] and refund [75]% of its cost", "Remove [Monarchy] and refund [75]% of its cost", "Remove [Monumentalism] and refund [75]% of its cost", "Remove [Landed Elite] and refund [75]% of its cost", "Remove [Legalism] and refund [75]% of its cost", "Remove [Tradition Complete] and refund [75]% of its cost",
+		    "Remove [Nationalism] and refund [75]% of its cost", "Remove [Discipline] and refund [75]% of its cost", "Remove [Monarchy] and refund [75]% of its cost", "Remove [Monumentalism] and refund [75]% of its cost", "Remove [Landed Elite] and refund [75]% of its cost", "Remove [Legalism] and refund [75]% of its cost", "Remove [Tradition Complete] and refund [75]% of its cost",
+		    "Remove [Internationalism] and refund [75]% of its cost", "Remove [Discipline] and refund [75]% of its cost", "Remove [Monarchy] and refund [75]% of its cost", "Remove [Monumentalism] and refund [75]% of its cost", "Remove [Landed Elite] and refund [75]% of its cost", "Remove [Legalism] and refund [75]% of its cost", "Remove [Tradition Complete] and refund [75]% of its cost",
                 ],
 			"row": 1,
                 "column": 3
             },
 		{
-                "name": "Remove [Liberty]",
+                "name": "Revolution II",
 			"requires": ["Revolution I"],
                 "uniques": [
                     "Remove [Tradition] and refund [75]% of its cost",

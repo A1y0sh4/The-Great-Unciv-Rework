@@ -9,7 +9,7 @@
 		"gold": 3,
 		"culture": 1,
 		"cityStrength": 3,
-		"cost": 50,
+		"cost": 100,
 		"uniques": ["Indicates the capital city", "[+15]% [Production] [in this city] <during We Love The King Day>", "[+15]% [Gold] [in this city] <during We Love The King Day>", "Limited to [1] per Civilization", "Cost increases by [25] per owned city", "Destroyed when the city is captured"]
 	},
 	{
@@ -360,7 +360,7 @@
 	},
 	{
 		"name": "Circus Maximus",
-		"cost": 50,
+		"cost": 100,
 		"culture": 1,
 		"happiness": 1,
 		"isNationalWonder": true,
@@ -478,7 +478,7 @@
 	},
 	{
 		"name": "National College",
-		"cost": 50,
+		"cost": 100,
 		"culture": 1,
 		"greatPersonPoints": {"Great Scientist": 1},
 		"isNationalWonder": true,
@@ -522,7 +522,7 @@
 	},
 	{
 		"name": "National Epic",
-		"cost": 50,
+		"cost": 100,
 		"culture": 1,
 		"greatPersonPoints": {"Great Artist": 2},
 		"isNationalWonder": true,
@@ -626,7 +626,7 @@
 	},
 	{
 		"name": "Heroic Epic",
-		"cost": 50,
+		"cost": 100,
 		"culture": 1,
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great General": 1},
@@ -678,7 +678,7 @@
 	},
 	{
 		"name": "Grand Temple",
-		"cost": 50,
+		"cost": 100,
 		"culture": 1,
 		"faith": 2,
 		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [25] per owned city",
@@ -745,7 +745,7 @@
 	},
 	{
 		"name": "National Treasury",
-		"cost": 50,
+		"cost": 100,
 		"culture": 1,
 		"gold": 2,
 		"percentStatBonus": {"gold": 50},
@@ -922,7 +922,7 @@
 	},
 	{
 		"name": "Ironworks",
-		"cost": 50,
+		"cost": 100,
 		"percentStatBonus": {"production": 50},
 		"culture": 1,
 		"production": 2,
@@ -1081,7 +1081,7 @@
 	},
 	{
 		"name": "Hermitage",
-		"cost": 50,
+		"cost": 100,
 		"culture": 3,
 		"percentStatBonus": {"culture": 50},
 		"greatPersonPoints": {"Great Artist": 1},

@@ -165,7 +165,7 @@
 	{
 		"name": "Pitati",
 		"unitType": "Archery",
-		"movement": 3,
+		"movement": 2,
 		"strength": 5,
 		"rangedStrength": 7,
 		"cost": 50,
@@ -175,7 +175,7 @@
 		"uniqueTo": "Nubia",
 		"upgradesTo": "Composite Bowman",
 		"uniques" : ["Earn [15]% of the damage done to [All] units as [Gold]"],
-		"promotions":["Mercenary"],
+		"promotions":["Mercenary", "Mobility"],
 		"attackSound": "arrow"
 	},
 	{

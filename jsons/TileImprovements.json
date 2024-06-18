@@ -277,7 +277,7 @@
 		"terrainsCanBeBuiltOn": ["Desert", "Flood plains"],
 		"faith": 1,
 		"turnsToBuild": 6,
-		"uniques": ["Improvement", "[+1 Production, +1 Gold] for each adjacent [Mine]", "[+1 Food] for each adjacent [City center]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+13 Gold]"],
+		"uniques": ["Improvement", "[+1 Food] <in [Fresh water] tiles>", "[+1 Food] for each adjacent [Bonus resource]", "[+1 Production] for each adjacent [Strategic resource]", "[+1 Gold] for each adjacent [Luxury resource]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+13 Gold]"],
 		"techRequired": "Construction",
 		"shortcutKey": "P"
 	},

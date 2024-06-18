@@ -175,7 +175,7 @@
 		"uniqueTo": "Nubia",
 		"upgradesTo": "Composite Bowman",
 		"promotions":["Mercenary", "Mobility"],
-		"attackSound": "arrow"
+		"attackSound": "arrow",
 	},
 	{
 		"name": "Outlaw",

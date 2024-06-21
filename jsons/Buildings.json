@@ -589,7 +589,7 @@
 		"name": "Great Zimbabwe",
 		"culture": 1,
 		"isWonder": true,
-		"requiredNearbyImprovedResources": ["Gold Ore","Ivory"],
+		"requiredNearbyImprovedResources": ["Gold Ore","Silver","Gems","Ivory"],
 		"greatPersonPoints": {"Great Merchant": 1},
 		"uniques": ["Must be on [Hill]", "[+1 Gold] from [Resource] tiles [in this city]"],
 		"requiredTech": "Currency",
@@ -849,7 +849,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["Must be next to [Jungle]", "[+1] population [in all cities]", "[+1 Faith, +1 Science] [in all cities]", "Gain a free [Wat] [in this city]"],
+		"uniques": ["Must be next to [Jungle]", "[+1] population [in all cities]", "[+1 Faith, +2 Science] [in all cities]", "Gain a free [Wat] [in this city]"],
 		"requiredTech": "Machinery",
 		"quote": "'The temple is like no other building in the world. It has towers and decoration and all the refinements which the human genius can conceive of.' - Antonio da Magdalena"
 	},

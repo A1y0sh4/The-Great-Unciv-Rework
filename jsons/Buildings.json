@@ -1609,7 +1609,7 @@
 	
 	{
 		"name": "Cathedral",
-		"cost": 0,
+		"cost": 110,
 		"faith": 2,
 		"culture": 3,
 		"happiness": 1,
@@ -1618,7 +1618,7 @@
 	},
 	{
 		"name": "Mosque",
-		"cost": 0,
+		"cost": 110,
 		"culture": 2,
 		"faith": 3,
 		"happiness": 1,
@@ -1627,7 +1627,7 @@
 	},
 	{
 		"name": "Pagoda",
-		"cost": 0,
+		"cost": 110,
 		"culture": 2,
 		"faith": 2,
 		"happiness": 2,
@@ -1636,7 +1636,7 @@
 	},
 	{
 		"name": "Gurdwara",
-		"cost": 0,
+		"cost": 110,
 		"food": 3,
 		"faith": 2,
 		"culture": 1,
@@ -1645,7 +1645,7 @@
 	},
 	{
 		"name": "Wat",
-		"cost": 0,
+		"cost": 110,
 		"science": 3,
 		"faith": 2,
 		"culture": 1,

@@ -1083,8 +1083,8 @@
 		"requiredTech": "Navigation",
 		"obsoleteTech": "Steam Power",
 		"upgradesTo": "Ironclad",
-		"promotions": ["Coastal Raider I"],
-		"uniques": ["May capture killed [Water] units", "Can move after attacking"],
+		"promotions": ["Coastal Raider I", "[Privateer] ability"],
+		"uniques": ["Can move after attacking"],
 		"attackSound": "cannon"
 	},
 	{
@@ -1098,8 +1098,8 @@
 		"requiredTech": "Navigation",
 		"obsoleteTech": "Steam Power",
 		"upgradesTo": "Ironclad",
-		"promotions": ["Coastal Raider I", "Coastal Raider II", "Supply"],
-		"uniques": ["May capture killed [Water] units", "Can move after attacking"],
+		"promotions": ["Coastal Raider I", "Coastal Raider II", "Supply", "[Privateer] ability"],
+		"uniques": ["Can move after attacking"],
 		"attackSound": "cannon"
 	},
 	{

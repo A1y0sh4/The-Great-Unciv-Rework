@@ -167,7 +167,8 @@
 		"uniques": ["[{Military} {Land}] units gain the [Mobility] promotion", "[+50]% maintenance costs <for [{Military} {Land}] units>"],
 		"cities": ["Aššur","Nineveh","Nimrud","Kar-Tukulti-Ninurta","Dur-Šharrukin","Halab","Carchemish","Kanesh","Harran","Imgur-Enlil",
 			"Shubat-Enlil","Qatna","Sareisa","Sam al","Qarqar","Til Barsip","Sultantepe","Erbil","Hamath","Guzana",
-			"Turuspa","Nasibina","Arpad","Kelashin","Urartu","Sabata","Hit"]
+			"Turuspa","Nasibina","Arpad","Kelashin","Urartu","Sabata","Hit"],
+		"spyNames": ["Adapa", "Kubaba", "Nabu", "Nergal", "Ninlil", "Ninurta", "Nisroch", "Shamash", "Pazuzu", "Qingu"]
 	},
 	{				
 		"name": "Australia",
@@ -194,7 +195,8 @@
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Terra Australis",
 		"uniques": ["[+1 Food, +1 Production] [in all coastal cities]", "[+1 Happiness, +1 Culture] [in all cities] <within [3] tiles of a [Natural Wonder]>"],
-		"cities": ["Canberra", "Sydney", "Perth", "Melbourne", "Brisbane", "Adelaide", "Darwin", "Hobart", "Wollongong", "Mackay", "Townsville", "Cairns", "Dampier", "Alice Springs", "Bathurst", "Queanbeyan", "Bundaberg", "Coffs Harbor", "Fremantle", "Gladstone", "Goulburn", "Hervey Bay", "Kalgoorlie"]
+		"cities": ["Canberra", "Sydney", "Perth", "Melbourne", "Brisbane", "Adelaide", "Darwin", "Hobart", "Wollongong", "Mackay", "Townsville", "Cairns", "Dampier", "Alice Springs", "Bathurst", "Queanbeyan", "Bundaberg", "Coffs Harbor", "Fremantle", "Gladstone", "Goulburn", "Hervey Bay", "Kalgoorlie"],
+		"spyNames": ["Nicole", "James", "Olivia", "Luke", "Zoe", "Jackson", "Holly", "Cody", "Paige", "Mitch"]
 	},
 	{
 		"name": "Austria",
@@ -225,7 +227,8 @@
 		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
 			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
 			"Amstetten", "Bad Ischl", "Wolfsberg", "Kufstein", "Leoben", "Klosterneuburg", "Leonding",
-			"Kapfenberg", "Hallein", "Bischofshofen", "Waidhofen", "Saalbach", "Lienz", "Steyr"]
+			"Kapfenberg", "Hallein", "Bischofshofen", "Waidhofen", "Saalbach", "Lienz", "Steyr"],
+		"spyNames": ["Ferdinand", "Johanna", "Franz-Josef", "Astrid", "Anna", "Hubert", "Alois", "Natter", "Georg", "Arnold"]
 	},
 	{
 		"name": "Aztecs",
@@ -257,7 +260,8 @@
 			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
 			"Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac",
 			"Jilotzingo","Tlapanaloya","Tultitan","Ecatepec","Coatepec","Chalchiuites","Chiauhita","Chapultepec",
-			"Itzapalapa","Ayotzinco","Iztapam"]
+			"Itzapalapa","Ayotzinco","Iztapam"],
+		"spyNames": ["Metztli", "Xitllali", "Chimalli", "Quauhtli", "Teyacapan", "Yaotl", "Coatl", "Huitzilin", "Itzli", "Tepin"]
 	},
 	{
 		
@@ -300,7 +304,8 @@
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
-			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"]
+			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
+		"spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
 	},
 	{
 		"name": "Brazil",
@@ -330,7 +335,8 @@
 		"cities": ["Rio de Janeiro", "Sao Paulo", "Salvador", "Brasilia", "Fortaleza", "Belo Horizonte", "Manaus", "Curitiba", "Recife", "Porto Alegre",
 			"Belém", "Goiânia", "Guarulhos", "Campinas", "São Luis", "Maceió", "Duque de Caxias", "Natal", "Campo Grande", "Teresina",
 			"Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju",
-			"Feira de Santana","Juiz de Fora","Joinville","Jundiaí"]			
+			"Feira de Santana","Juiz de Fora","Joinville","Jundiaí"],
+		"spyNames": ["Antônio", "Bartolomeu", "Domingos", "Estêvão", "Fernão", "Francisco", "Pascoal", "Salvador", "Tomé", "Bianca"]
 	},
 	{
 		"name": "Byzantium",
@@ -359,7 +365,8 @@
 		"cities": ["Constantinople","Adrianople","Nicaea","Antioch","Varna","Ohrid","Nicomedia","Trebizond","Cherson","Sardica",
 			"Ani","Dyrrachium","Edessa","Chalcedon","Naissus","Bari","Iconium","Prilep","Samosata","Kars",
 			"Nicopolis","Theodosiopolis","Tyana","Gaza","Kerkyra","Phoenice","Selymbria","Sillyon","Chrysopolis","Vodena",
-			"Caesarea Maritima","Traianoupoli","Constantia","Korinthos","Patra"]
+			"Caesarea Maritima","Traianoupoli","Constantia","Korinthos","Patra"],
+		"spyNames": ["Basil", "Nikophoros", "Demetrios", "Philippos", "Theophylaktos", "Simonis", "Zoe", "Ioanno", "Xene", "Euphrosyne"]
 	},
 	{
 		"name": "Canada",
@@ -386,7 +393,8 @@
                 "favoredReligion": "Catholicism",
 		"uniqueName": "Canadian Expeditionary Force",
 		"uniques": ["Gain [10] Influence with a [Military] gift to a City-State", "Gain [10] Influence with a [Peacekeeper] gift to a City-State"],
-		"cities": ["Ottawa", "Toronto", "Montreal", "Vancouver", "Winnipeg", "Quebec City", "Hamilton", "Halifax", "Victoria", "Windsor", "Kingston", "Brantford", "Regina", "St. John's", "Calgary", "Saskatoon", "Sault Sainte Marie", "Saint-Lin", "Whitehorse", "Thunder Bay"]
+		"cities": ["Ottawa", "Toronto", "Montreal", "Vancouver", "Winnipeg", "Quebec City", "Hamilton", "Halifax", "Victoria", "Windsor", "Kingston", "Brantford", "Regina", "St. John's", "Calgary", "Saskatoon", "Sault Sainte Marie", "Saint-Lin", "Whitehorse", "Thunder Bay"],
+		"spyNames": ["Aurelie", "Adam", "Ariana", "Adrian", "Beatrice", "Antoine", "Chloe", "Benoit", "Charlotte", "Cedric"]
 	},
 	{
 		"name": "Carthage",

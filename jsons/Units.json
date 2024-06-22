@@ -373,7 +373,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+10]% Strength bonus for [Phalanx] units within [1] tiles"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+15]% Strength <when defending>"],
 		"attackSound": "metalhit"
 	},
 	{

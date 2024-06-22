@@ -1279,7 +1279,8 @@
 			"Jambi","Lwa Gajah","Lombok Mirah","Gurun","Saksak","Tanjung Kute","Banjar","Katingan","Sampit","Darmmacraya",
 			"Panai","Barus","Sukadan","Lamuri","Keda","Samudra","Lengkasuka","Kalanten","Pahang","Karitang",
 			"Minangkabwa","Kapuhas","Bima","Sapi","Dompo","Sragen","Garut","Gresik","Nias","Madiun",
-			"Yogyakarta","Bima","Sorong"]
+			"Yogyakarta","Bima","Sorong"],
+		"spyNames": ["Adityawarman", "Airlangga", "Citra", "Halayudha", "Jayakatwang", "Lingga", "Mahendradatta", "Prapana", "Raden", "Devi"]
 	},
 	{
 		"name": "Mapuche",
@@ -1311,7 +1312,8 @@
 			    "[+11]% Strength <when between [+11] and [+11] Happiness>","[+12]% Strength <when between [+12] and [+12] Happiness>","[+13]% Strength <when between [+13] and [+13] Happiness>","[+14]% Strength <when between [+14] and [+14] Happiness>","[+15]% Strength <when above [+15] Happiness>", "[-10]% Unhappiness from [Population] [in all cities] <when at war>"],
 		"cities": ["Ngulu Mapu","Puel Mapu","Pikun Mapu","Nag Mapu","Willi Mapu","Pewen Mapu","Wente Mapu","Huilli Mapu","Lafken Mapu","Ina Pire Mapu",
 			"Mamüll Mapu","Rangkül Mapu","Chadi Mapu","Pehuen Mapu","Puel Willi Mapu","Bafkeh Mapu","Peñi Mapu","Boroa Mapu","Lelfün Mapu","Kallfü Mapu","Chol Chol Mapu",
-			"Makewe Mapu","Forowe Mapu","Warria Mapu","Tehuel Mapu","Kunko Mapu","Molu Mapu","Rañi Mapu","Xuf Xuf Mapu","Fudi Mapu"]
+			"Makewe Mapu","Forowe Mapu","Warria Mapu","Tehuel Mapu","Kunko Mapu","Molu Mapu","Rañi Mapu","Xuf Xuf Mapu","Fudi Mapu"],
+		"spyNames": ["Amaru", "Akllaasisa", "Asto", "Huch’uykilla", "Inti", "Izhi", "Manko", "Qhawa", "Sumaq", "Yachay"]
 	},
 	{
 		"name": "Mongolia",
@@ -1341,7 +1343,8 @@
 		"cities": ["Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan",
 			"Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg",
 			"Baruun-Urt","Ereen","Batshireet","Choyr","Ulaangom","Tosontsengel","Altay","Uliastay","Bayanhongor",
-			"Har-Ayrag","Nalayh","Tes"]
+			"Har-Ayrag","Nalayh","Tes"],
+		"spyNames": ["Asashōryū", "Tömöriin", "Zevegiin", "Jigjidiin", "Enkhbat", "Mönkhbayar", "Gündegmaa", "Ssima", "Batachikhan", "Chulunny"]
 	},
 	{
 		"name": "Morocco",
@@ -1371,7 +1374,8 @@
 		"cities": ["Marrakech","Rabat","Fes","Casablanca","Tangier","Salé","Ouarzazate","Meknes","Agadir","Oujda",
 			"Kenitra","Tetouan","Essaouira","Safi","Taroudannt","Mohammedia","El Aaiun","Beni Mellal","El Jadida","Ksar el Kebir","Taza",
 			"Fquih ben Salah","Khouribga","Nador","Settat","Berrechid","Larache","Khemisset","Guelmim","Dakhla",
-			"Chefchaouen","Ben Guerir","El Kelaa des Sraghna","Erfoud"]
+			"Chefchaouen","Ben Guerir","El Kelaa des Sraghna","Erfoud"],
+		"spyNames": ["el-Krim", "ibn-Battuta", "al-Jazzar", "al-Kahina", "Hayyuj", "Kusayla", "al-Idrisi", "Salih", "Tariq", "Dihya"]
 	},
 	{
 		"name": "Nubia",
@@ -1398,7 +1402,8 @@
 		
 		"uniqueName": "Ta-Seti",
 		"uniques": ["[+33]% Production when constructing [Archery] units [in all cities]", "[+50]% XP gained from combat <for [Archery] units>", "[Archery] units gain the [Accuracy I] promotion"],
-		"cities": ["Meroë","Napata","Kerma","Miam","El-Kurru","Abu Simbel","Pachoras","Buhen","Nuri","Kawa","Soleb","Wad ban Naqa","Debba","Sadeinga","Iken","Buhen","Faras","Pademe","Shaat","Heh","Dengeil","Bugdumbush","Amara","Pedeme"]
+		"cities": ["Meroë","Napata","Kerma","Miam","El-Kurru","Abu Simbel","Pachoras","Buhen","Nuri","Kawa","Soleb","Wad ban Naqa","Debba","Sadeinga","Iken","Buhen","Faras","Pademe","Shaat","Heh","Dengeil","Bugdumbush","Amara","Pedeme"],
+		"spyNames": ["Alara", "Amanirenas", "Apedemak", "Amenirdis", "Arqamani", "Kadimalo", "Mandulis", "Nasala", "Piye", "Tabiry"]
 	},
 	{
 		"name": "Persia",
@@ -1431,7 +1436,8 @@
 			"Dura Europos","Aleppo","Qatna","Kabul","Capisa","Kyreskhata","Marakanda","Peshawar","Van","Pteira","Arshada",
 			"Artakaona","Aspabota","Autiyara","Bagastana","Baxtri","Darmasa","Daphnai","Drapsaka","Eion","Gandutava",
 			"Gaugamela","Harmozeia","Ekatompylos","Izata","Kampada","Kapisa","Karmana","Kounaxa","Kuganaka","Nautaka",
-			"Paishiyauvada","Patigrbana","Phrada"]
+			"Paishiyauvada","Patigrbana","Phrada"],
+		"spyNames": ["Azi", "Dabir", "Firuz", "Gaspar", "Shahzad", "Aga", "Marjane", "Peri", "Sartaj", "Yasmin"]
 	},
 	{
 		"name": "Poland",
@@ -1461,7 +1467,8 @@
 		"cities": ["Warsaw","Kraków","Łódź","Wroclaw","Poznań","Gdansk","Szczecin","Bydgoszcz","Lublin","Kaunas",
 			"Katowice","Białystok","Gdynia","Świdnica","Częstochowa","Radom","Toruń","Kielce","Gliwice","Klaipėda",
 			"Bytom","Olsztyn","Rzeszów","Ruda Śląska","Bielsko-Biala","Rybnik","Płock","Elbląg","Gorzów Wielkopolski","Opole",
-			"Šiauliai","Wałbrzych","Zielona Góra","Włocławek"]
+			"Šiauliai","Wałbrzych","Zielona Góra","Włocławek"],
+		"spyNames": ["Wincenty", "Roman", "Benita", "Jan", "Kazimierz", "Josef", "Krystyna Skarbek", "Tarnowski", "Marian", "Alenka"]
 	},
 	{
 		"name": "Polynesia",
@@ -1491,7 +1498,8 @@
 		"cities": ["Honolulu","Samoa","Tonga","Nuku Hiva","Raiatea","Aotearoa","Tahiti","Hilo","Te Wai Pounamu","Rapa Nui",
 			"Tuamotu","Rarotonga","Tuvalu","Tubuai","Mangareva","Oahu","Kiritimati","Ontong Java","Niue","Rekohu",
 			"Rakahanga","Bora Bora","Kailua","Uvea","Futuna","Rotuma","Tokelau","Lahaina","Bellona","Mungava","Tikopia",
-			"Emae","Kapingamarangi","Takuu","Nukuoro","Sikaiana","Anuta","Nuguria","Pileni","Nukumanu"]
+			"Emae","Kapingamarangi","Takuu","Nukuoro","Sikaiana","Anuta","Nuguria","Pileni","Nukumanu"],
+		"spyNames": ["Tiki", "Hotu Matua", "Rongo-ma-tane", "Kupe", "Haloti", "Degei", "Babamik", "Kulu Lau", "Nangananga", "Turua"]
 	},
 	{
 		"name": "Portugal",
@@ -1521,7 +1529,8 @@
 		"cities": ["Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Luanda",
 			"Evora","Faro","Castelo Branco","Bissau","Guarda","Viseu","Praia","Braganza","Beja","Tomar",
 			"Maputo","Tavira","Figueira da Foz","Viana do Castelo","São Tomé and Príncipe","Silves","Sintra","Dili","Lamego",
-			"Ponta Delgada"]			
+			"Ponta Delgada"],
+		"spyNames": ["Francisco", "Gaspar", "Alvaro", "Bento", "Roberto", "Afonso", "Galeote", "Diogo", "Eliana", "Oriana"]
 	},
 	{
 		"name": "Rome",
@@ -1551,7 +1560,8 @@
 		"cities": ["Rome","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
 			"Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
 			"Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",
-			  "Agrippina","Verona","Corfinium","Treverii","Sirmium","Augustadorum","Curia","Interrama","Adria"]
+			  "Agrippina","Verona","Corfinium","Treverii","Sirmium","Augustadorum","Curia","Interrama","Adria"],
+		"spyNames": ["Flavius", "Regula", "Servius", "Lucia", "Cornelius", "Licina", "Canus", "Serpens", "Agrippa", "Brutus"]
 	},
 	{
 		"name": "Russia",
@@ -1581,7 +1591,8 @@
 		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
-			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"]
+			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"],
+		"spyNames": ["Aleksej", "Lena", "Dmitry", "Anastasia", "Ksenia", "Boris", "Doktor Seriy", "Mikhail", "Natasha", "Zmeya"]
 	},
 	{
 		"name": "Siam",
@@ -1612,7 +1623,8 @@
 		"cities": ["Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Phitsanulok","Kamphaeng Pet","Nakhom Chum","Vientiane",
 			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
 			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",
-			"Ban Phai","Loci","Khon Kaen","Surin"]
+			"Ban Phai","Loci","Khon Kaen","Surin"],
+		"spyNames": ["Aran", "Chanarong", "Kiet", "Niran", "Virote", "Kulap", "Mayuree", "Phueng", "Ratana", "Tola"]
 	},
 	{
 		"name": "Songhai",
@@ -1641,7 +1653,8 @@
 		"uniques": ["[-1 Production, +1 Faith, +2 Gold] from every [Mine]", "May buy [Gold] buildings with [Faith] for [2] times their normal Production cost"],
 		"cities": ["Gao","Tombouctu","Jenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
 			"Kebbi","Boussa","Motpi","Bamako","Wa","Kayes","Awdaghost","Ouadane","Dakar","Tadmekket","Tekedda","Kano",
-			"Agadez","Niamey","Torodi","Ouatagouna","Dori","Bamba","Segou"]
+			"Agadez","Niamey","Torodi","Ouatagouna","Dori","Bamba","Segou"],
+		"spyNames": ["Ahmadou", "Ayub", "Badru", "Bokhari", "Guedado", "Adhiambo", "Chinaka", "Laila", "Mariama", "Oni"]
 	},
 	{
 		"name": "Spain",
@@ -1671,7 +1684,8 @@
 		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
 			"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
 			"Lugo","Alicante","Càdiz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La Coruña","Guadalquivir","Bilbao",
-			"San Sebastian","Granada","Mérida","Huelva","Ibiza","Las Palmas","Tenerife"]
+			"San Sebastian","Granada","Mérida","Huelva","Ibiza","Las Palmas","Tenerife"],
+		"spyNames": ["Rodrigo", "Esmeralda", "Leon", "Mathilda", "Ramona", "Señor X", "Topolino", "Serpiente", "Garcia", "El Lobo"]
 	},
 	{
 		"name": "Sumeria",
@@ -1698,7 +1712,8 @@
 		
 		"uniqueName": "Epic Quest",
 		"uniques": ["Earn [50]% of killed [Barbarian] unit's [Strength] as [Culture]", "Earn [50]% of killed [Barbarian] unit's [Strength] as [Science]"],
-		"cities": ["Uruk","Kish","Ur","Eridu","Umma","Lagash","Sippar","Akshak","Larak","Bad-Tibira","Larsa","Isin","Shruppak","Nibru","Hamazi","Girsu","Jemdet Nasr","Nina"]
+		"cities": ["Uruk","Kish","Ur","Eridu","Umma","Lagash","Sippar","Akshak","Larak","Bad-Tibira","Larsa","Isin","Shruppak","Nibru","Hamazi","Girsu","Jemdet Nasr","Nina"],
+		"spyNames": ["Alad", "Anusan", "Izila", "Bauninsheg", "Ludari", "Gemekala", "Meania", "Ninna", "Sisig", "Sherzi"]
 	},
 	{
 		"name": "Sweden",
@@ -1729,7 +1744,8 @@
 		"cities": ["Stockholm","Sigtuna","Helsinki","Birka","Uppsala","Turku","Linköping","Lund","Espoo","Malmö",
 			"Vantaa","Visby","Strängnäs","Tampere","Skara","Lödöse","Oulu","Växjö","Jyväskylä","Gothenburg",
 			"Örebro","Lahti","Helsingborg","Jönköping","Kuopio","Norrköping","Sundsvall","Kouvola","Karlstad","Umeå",
-			"Pori","Ystad","Paviken","Vaasa"]
+			"Pori","Ystad","Paviken","Vaasa"],
+		"spyNames": ["Leif", "Ingegard", "Sören", "Ragnhild", "Lars", "Lina", "Herr Grå", "Magnus", "Vilma", "Kusin"]
 	},
 	{
 		"name": "The Hittites",
@@ -1758,7 +1774,8 @@
 		"uniques": ["Provides [2] [Horses] <after discovering [Animal Husbandry]>", "Provides [2] [Iron] <after discovering [Iron Working]>", "Provides [2] [Coal] <after discovering [Industrialization]>", "Provides [2] [Oil] <after discovering [Biology]>", "Provides [2] [Aluminum] <after discovering [Electricity]>", "Provides [2] [Uranium] <after discovering [Atomic Theory]>", "[+1 Happiness, +2 Gold] <with [Horses]>", "[+1 Happiness, +2 Gold] <with [Iron]>", "[+1 Happiness, +2 Gold] <with [Coal]>", "[+1 Happiness, +2 Gold] <with [Oil]>", "[+1 Happiness, +2 Gold] <with [Aluminum]>", "[+1 Happiness, +2 Gold] <with [Uranium]>"],
 		"cities": ["Hattuša","Neša","Kuššara","Samuha","Tarhuntašša","Kadesh","Lusna","Alalah","Halab","Tunip",
 			"Zalpa","Hakpish","Nerik","Shallapsa","Arinna","Adaniya","Apasha","Waliwanda","Tapikka","Tuwanuwa",
-			"Ura","Milid","Urshu","Arwada","Sanahuitta","Dimashku","Millawanda","Gaziura","Ugarit"]
+			"Ura","Milid","Urshu","Arwada","Sanahuitta","Dimashku","Millawanda","Gaziura","Ugarit"],
+		"spyNames": ["Marassalli", "Kuzi", "Hastali", "Manniya", "Kuzari", "Atuwe", "Darhasiat", "Samnahsusar", "Lurma", "Tantana"]
 	},
 	{
 		"name": "The Huns",
@@ -1785,7 +1802,8 @@
 		
 		"uniqueName": "Scourge of God",
 		"uniques": ["Starts with [Animal Husbandry]", "[Military] units gain the [Barbarian] promotion <before discovering [Civil Service]>", "When defeating a [Barbarian] unit, earn [10] Gold and recruit it <with [75]% chance>"],
-		"cities": ["Etzelburg", "Szeged", "Esztergom", "Buda", "Pécs", "Eger", "Székesfehérvár", "Győr", "Kőszeg", "Diósgyőr", "Mohács", "Tata", "Kecskemét", "Szombathely", "Sárvár", "Sopron", "Hódmezővásárhely", "Sümeg"]
+		"cities": ["Etzelburg", "Szeged", "Esztergom", "Buda", "Pécs", "Eger", "Székesfehérvár", "Győr", "Kőszeg", "Diósgyőr", "Mohács", "Tata", "Kecskemét", "Szombathely", "Sárvár", "Sopron", "Hódmezővásárhely", "Sümeg"],
+		"spyNames": ["Balamber", "Uldin", "Donatus", "Charato", "Octar", "Bleda", "Ellac", "Dengizik", "Hildico", "Gudrun"]
 	},
 	{
 		"name": "The Maya",
@@ -1826,7 +1844,8 @@
 		"cities": ["Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul",
 			"Edzna","Lamanai","Izapa","Uaxactun","Comalcalco","Piedras Negras","Cancuen","Yaxha","Quirigua",
 			"Q'umarkaj","Nakbe","Cerros","Xunantunich","Takalik Abaj","Cival","San Bartolo","Altar de Sacrificios","Seibal",
-			"Caracol","Naranjo","Dos Pilas","Mayapan","Ixinche","Zaculeu","Kabah"]
+			"Caracol","Naranjo","Dos Pilas","Mayapan","Ixinche","Zaculeu","Kabah"],
+		"spyNames": ["Camazotz", "Coyopa", "Gukumatz", "Hunahpu", "Huracan", "Ixchel", "Ixtab", "Kukulkán", "Xbalanque", "Zipacna"]
 	},
 	{
 		"name": "The Netherlands",
@@ -1856,7 +1875,8 @@
 		"cities": ["Amsterdam","Rotterdam","Utrecht","Groningen","Breda","Nijimegen","Den Haag","Haarlem","Arnhem","Zutphen",
 			"Maastricht","Tilburg","Eindhoven","Dordrecht","Leiden","Hertogenbosch","Almere","Alkmaar","Brielle","Vlissingen",
 			"Apeldoorn","Nova Enschede","Sao Bernardo do Amersfoort","Zwolle","Venlo","Uden","Grave","Delft","Gouda","Nieuwstadt",
-			"Weesp","Coevorden","Kerkrade"]			
+			"Weesp","Coevorden","Kerkrade"],
+		"spyNames": ["Joost", "Hendrika", "Marten", "Anke", "Guus", "Mr. X", "Dr Grijs", "Willem", "Thijs", "Neef"]
 	},
 	{
 		"name": "The Ottomans",
@@ -1886,7 +1906,8 @@
 		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyabakir","Izmir","Kayseri","Malatya",
 			"Marsin","Antalya","Zonguldak","Denizli","Ordu","Mugia","Eskishehir","Inebolu","Sinop","Adana","Artuin",
 			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarhisar",
-			"Bitlis","Yalova"]
+			"Bitlis","Yalova"],
+		"spyNames": ["Ibrahim", "Bayezid", "Sokollu", "Mahmut", "Uveys", "Roxelana", "Safiye", "Hafsa", "Kosem", "Nurbanu"]
 	},
 	{
 		"name": "Vietnam",
@@ -1914,7 +1935,8 @@
 		"uniqueName": "Guerrilla Tactics",
 		"uniques": ["[Sword] units gain the [Guerrilla Tactics] promotion", "[Archery] units gain the [Guerrilla Tactics] promotion", "[Gunpowder] units gain the [Guerrilla Tactics] promotion"],
 		"cities": ["Thăng Long","Huế","Hoa Lư","Trà Kiệu","Đồng Hới","Quảng Trị","Sài Gòn","Hải Phòng","Cần Thơ","Đà Nẵng","Thái Nguyên","Hạ Long","Quy Nhơn","Đà Lạt","Biên Hòa","Nha Trang","Rạch Giá"
-		"Nam Định","Vinh","Buôn Ma Thuột","Việt Trì"]
+		"Nam Định","Vinh","Buôn Ma Thuột","Việt Trì"],
+		"spyNames": ["Ibrahim", "Bayezid", "Sokollu", "Mahmut", "Uveys", "Roxelana", "Safiye", "Hafsa", "Kosem", "Nurbanu"]
 	},
 	{
 		"name": "Zulu",

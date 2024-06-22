@@ -899,4 +899,8 @@
         "name": "Secularism",
         "uniques": ["Prevents spreading of religion to the city it is next to"]
     },
+	{
+		"name": "[Privateer] ability",
+		"uniques": ["May capture killed [Water] units"]
+	},
 ]

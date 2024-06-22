@@ -901,6 +901,6 @@
     },
 	{
 		"name": "[Privateer] ability",
-		"uniques": ["May capture killed [Water] units"]
+		"uniques": ["May capture killed [Water] units <with [75]% chance>"]
 	},
 ]

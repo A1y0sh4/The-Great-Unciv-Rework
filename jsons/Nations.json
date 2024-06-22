@@ -1711,7 +1711,7 @@
 		"innerColor": [229,118,95],
 		
 		"uniqueName": "Epic Quest",
-		"uniques": ["Earn [50]% of killed [Barbarian] unit's [Strength] as [Culture]", "Earn [50]% of killed [Barbarian] unit's [Strength] as [Science]", "Reveal up to [All] [Barbarian encampment] within a [8] tile radius", "Reveal up to [All] [Ancient ruins] within a [8] tile radius"],
+		"uniques": ["Earn [50]% of killed [Barbarian] unit's [Strength] as [Culture]", "Earn [50]% of killed [Barbarian] unit's [Strength] as [Science]", "Reveal up to [All] [Barbarian encampment] within a [8] tile radius <for [5] turns>", "Reveal up to [All] [Ancient ruins] within a [8] tile radius <for [5] turns>"],
 		"cities": ["Uruk","Kish","Ur","Eridu","Umma","Lagash","Sippar","Akshak","Larak","Bad-Tibira","Larsa","Isin","Shruppak","Nibru","Hamazi","Girsu","Jemdet Nasr","Nina"],
 		"spyNames": ["Alad", "Anusan", "Izila", "Bauninsheg", "Ludari", "Gemekala", "Meania", "Ninna", "Sisig", "Sherzi"]
 	},

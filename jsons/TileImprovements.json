@@ -332,7 +332,7 @@
 		"uniques": ["Improvement", "Cannot be built on [Resource] tiles",
 			"[+1 Food] from [Fresh water] tiles",
 			"[+1 Food] from [Fresh water] tiles <after discovering [Fertilizer]>",
-			"[+1 Science] <after discovering [Writing]>",
+			"[+1 Science] <after discovering [Philosophy]>",
 			"[+1 Culture] <after discovering [Archaeology]>",
 			"Pillaging this improvement yields approximately [+18 Gold]"],
 		"techRequired": "Calendar",

@@ -10,6 +10,7 @@
 		"adjective": ["American"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
+              //"personality": "George Washington",
 		
 		"startIntroPart1": "Welcome President Washington! You lead the industrious American civilization! Formed in the conflagration of revolution in the 18th century, within a hundred years, the young nation became embroiled in a terrible civil war that nearly tore the country apart, but it was just a few short years later in the 20th century that the United States reached the height of its power, emerging triumphant and mighty from the two terrible wars that destroyed so many other great nations. The United States is a nation of immigrants, filled with optimism and determination. They lack only a leader to help them fulfill their promise.",
 		"startIntroPart2": "President Washington, can you lead the American people to greatness? Can you build a civilization that will stand the test of time?",
@@ -56,6 +57,7 @@
 		"adjective": ["Arabian"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Religious",
+		//"personality": "Harun al-Rashid",
 
 		"startIntroPart1": "Blessings of God be upon you oh great caliph Harun al-Rashid, leader of the pious Arabian people! The Muslim empire, the Caliphate was born in the turbulent years after the death of the prophet Muhammad in 632 AD, as his followers sought to extend the rule of God to all of the people of the earth. The caliphate grew mighty indeed at the height of its power, ruling Spain, North Africa, the Middle East, Anatolia, the Balkans and Persia. An empire as great as or even greater than that of Rome. The arts and sciences flourished in Arabia during the Middle Ages, even as the countries of Europe descended into ignorance and chaos. The Caliphate survived for six hundred years, until finally succumbing to attack from the Mongols, those destroyers of Empires.",
 		"startIntroPart2": "Great Caliph Harun al Rashid, your people look to you to return them to greatness! To make Arabia once again an enlightened land of arts and knowledge, a powerful nation who needs fear no enemy! Oh Caliph, will you take up the challenge? Can you build a civilization that will stand the test of time?",
@@ -84,6 +86,7 @@
 		"adjective": ["Argentinan"],
   		"startBias": ["Grassland"],
 		"preferredVictoryType": "Diplomatic",
+		//"personality": "Julio Roca",
 
 		"startIntroPart1": " ",
 		"startIntroPart2": " ",
@@ -110,6 +113,7 @@
 		"adjective": ["Ashanti"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Domination",
+		//"personality": "Osei Tutu",
 		
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -139,6 +143,7 @@
 		"adjective": ["Assyrian"],
 		"startBias": ["Flood plains"],
 		"preferredVictoryType": "Domination",
+		//"personality": "Ashurbanipal",
 
 		"startIntroPart1": "The people bow to your esteemed will, o wise and illustrious King Ashurbanipal of Assyria. Across the world, you are known as both a scholar and a warrior, and yet the legends represent merely a glimmer of your true ambition. Although your enemies cowered at the thought of your ferocity in conquest, you were most proud of your intellectual pursuits. Your thirst for knowledge led to your establishment of the royal library at Nineveh, which came to represent one of the greatest collections of ancient texts and tablets found anywhere in the world - securing your legacy as one of Assyria's greatest kings.",
 		"startIntroPart2": "Wise and fearsome king, the time has come for you to return the kingdom of Assyria to its greatest heights. Will you once again strive to acquire the knowledge and histories of all the world's peoples? Can you build a civilization that will stand the test of time?",
@@ -166,6 +171,7 @@
 		"adjective": ["Australian"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
+		//"personality": "John Curtin",
 
 		"startIntroPart1": "We owe you much, Right and Honourable John Curtin, Prime Minister of Australia! Before you were thrust into office, your country had suffered years upon years of crippling economic depression and governmental instability, and was faced with the outbreak of war in Europe and rising tensions in the Pacific. When Japanese aggression brought warfare to the nation's borders for the first time in its history, Australia was truly at its darkest hour. But under your leadership, Australia and her allies pushed their would-be invaders back from your shores! Thanks to your ingenious diplomatic and internal policies, Australia emerged from the war more united, more prosperous, and more assertive than ever. Though you tragically would not live to see it, your actions transformed the country into an independent and self.sufficient nation that thrives to this day.",
 		"startIntroPart2": "Prime Minister Curtin, dark clouds brew over Australia once more. The people clamour for your guiding hand to lead them through another time of great turmoil. Will you lead your island home onwards to peace and prosperity? Can you build a civilization that will stand the test of time?",
@@ -192,6 +198,7 @@
 		"adjective": ["Austrian"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Diplomatic",
+		//"personality": "Maria Theresa",
 
 		"startIntroPart1": "Noble and virtuous Queen Maria Theresa, Holy Roman Empress and sovereign of Austria, the people bow to your gracious will. Following the death of your father King Charles VI, you ascended the thone of Austria during a time of great instability, but the empty coffers and diminished military did litle to dissuade your ambitions. Faced with war almost immediately upon your succession to the thron, you managed to fend off your foes, and in naming your husband Francis Stephen co-ruler, assured your place as Empress of the Holy Roman Empire. During your reigh, you guided Austria on a new path of reform - strengthening the military, replenishing the treasury, and improving the educational system of the kingdom.",
 		"startIntroPart2": "Oh great queen, bold and dignified, the time has come for you to rise and guide the kingdom once again. Can you return your people to the height of prosperity and splendor? Will you build a civilization that stands the test of time?",

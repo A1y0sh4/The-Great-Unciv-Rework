@@ -1902,7 +1902,7 @@
 		"innerColor": [18,84,30],
 		
 		"uniqueName": "The Great Turkish Bombard",
-		"uniques": ["[+50]% Production when constructing [Siege] units [in all cities]", "[+50]% Strength <for [Siege] units> <vs cities>", "Upon capturing a city, receive [5] times its [Culture] production as [Faith] immediately"],
+		"uniques": ["[+50]% Production when constructing [Siege] units [in all cities]", "[+50]% Strength <for [Siege] units> <vs cities>", "[+50]% XP gained from combat <for [Siege] units>"],
 		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyabakir","Izmir","Kayseri","Malatya",
 			"Marsin","Antalya","Zonguldak","Denizli","Ordu","Mugia","Eskishehir","Inebolu","Sinop","Adana","Artuin",
 			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarhisar",

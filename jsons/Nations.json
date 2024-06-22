@@ -1936,7 +1936,7 @@
 		"uniques": ["[Sword] units gain the [Guerrilla Tactics] promotion", "[Archery] units gain the [Guerrilla Tactics] promotion", "[Gunpowder] units gain the [Guerrilla Tactics] promotion"],
 		"cities": ["Thăng Long","Huế","Hoa Lư","Trà Kiệu","Đồng Hới","Quảng Trị","Sài Gòn","Hải Phòng","Cần Thơ","Đà Nẵng","Thái Nguyên","Hạ Long","Quy Nhơn","Đà Lạt","Biên Hòa","Nha Trang","Rạch Giá"
 		"Nam Định","Vinh","Buôn Ma Thuột","Việt Trì"],
-		"spyNames": ["Ibrahim", "Bayezid", "Sokollu", "Mahmut", "Uveys", "Roxelana", "Safiye", "Hafsa", "Kosem", "Nurbanu"]
+		"spyNames": ["Nam", "Chiêu", "Dũng", "Khoa", "Hồ", "Từ", "Hiến", "Kim", "Túc", "Nhị"]
 	},
 	{
 		"name": "Zulu",

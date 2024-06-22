@@ -49,7 +49,8 @@
 			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
 			"Oakland","Tampa Bay","Orlando","Tacoma","Santa Fe","Olympia","Hunt Valley","Springfield","Palo Alto","Centralia",
 			"Spokane","Jacksonville","Svannah","Charleston","San Antonio","Birmingham","Anchorage","Sacramento","Reno",
-			"Salt Lake City","Boise","Milwaukee","Santa Cruz","Little Rock"]
+			"Salt Lake City","Boise","Milwaukee","Santa Cruz","Little Rock"],
+		"spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 	},
 	{
 		"name": "Arabia",
@@ -78,7 +79,8 @@
 		"uniques": ["[+25]% Natural religion spread [in all cities connected to capital]", "[+1 Faith] [in all cities connected to capital]"],
 		"cities": ["Mecca","Medina","Damascus","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat",
 			"Aden","Yamama","Muscat","Mansura","Bukhara","Shiraz","Merw","Balkh","Mosul",
-			"Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr","Tripoli","Tunis","Kairouan","Algiers","Oran"]
+			"Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr","Tripoli","Tunis","Kairouan","Algiers","Oran"],
+		"spyNames": ["Solhofaat", "Khenzeer", "Zarafah", "Temsaah", "Abyadh", "Mostafa", "Yusuf", "Waddah", "Sameera", "Gamal"]
 	},
 	{
 		"name": "Argentina",
@@ -105,7 +107,8 @@
 		
 		"uniqueName": "Foreign Immigration",
 		"uniques": ["[+1] population in a random city <upon declaring friendship>", "[+1] population in a random city <upon entering a Golden Age>"],
-		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Catamarca","Formosa","San Juan","San Luis","Posadas","Parana","Salta","Neeuquen","Jujuy","La Rioja","Santa Fe","Río Gallegos","Ushuaia"]
+		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Catamarca","Formosa","San Juan","San Luis","Posadas","Parana","Salta","Neeuquen","Jujuy","La Rioja","Santa Fe","Río Gallegos","Ushuaia"],
+		"spyNames": ["Maria", "Jose", "Jorge", "Miguel", "Hector", "Silvia", "Claudia", "Ricardo", "Juan", "Rosa"]
 	},
 	{
 		"name": "Ashanti",
@@ -135,7 +138,8 @@
 		"cities": ["Kumasi","Bantama","Mampong","Edweso","Bekwai","Kumawu","Obuasi","Adanse","Asante-Akim Agogo","Juaben",
 			"Ejisu","Fomena","Agona-Ashanti","Dunkwa-on-Offin","Techiman","Afram Plains","Konongo","Akwatia","Obogu","Nkawie","Asokore Mampong",
 			"Obuasi-Bekwai","Krofrom","Bomaa","Kwabre","Adumasa","Sekyere-Hemang","Aboabo","Adansi","Besease",
-			"Amoafo","Kwahu Tafo","Kokofu","Bompata","Atwima"]
+			"Amoafo","Kwahu Tafo","Kokofu","Bompata","Atwima"],
+		"spyNames": ["Kwesi", "Akosua", "Kojo", "Adwoa", "Kwabena", "Abena", "Kweku", "Akua", "Yaw", "Afua"]
 	},
 	{
 		"name": "Assyria",

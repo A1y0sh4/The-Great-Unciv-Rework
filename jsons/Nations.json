@@ -894,7 +894,8 @@
 			"Munster","Rostok","Chemnitz","Braunschweig","Halle","Mצnchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
 			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrucken","Krefeld","Pirmasens","Potsdam","Solingen",
 			"Osnabruck","Ludwingshafen","Leverkusen","Oldenburg","Neuss","Mulheim","Darmstadt","Herne","Wurzburg",
-			"Recklinghausen","Gצttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"]
+			"Recklinghausen","Gצttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"],
+		"spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
 	},
 	{
 		"name": "Gran Colombia",
@@ -905,8 +906,8 @@
 		"favoredReligion": "Catholicism",
 		//"personality": "Simón Bolívar",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Greetings, Simón Bolívar. You are the liberator of Gran Colombia from the Spanish oppression and thanks to your military genius and to your efforts your nation became a centralized regional power in South America. Unfortunately for you, internal discontent made your plans go to ruin as Gran Colombia ony lasted from 1819 to 1831.",
+		"startIntroPart2": "El Libertador, your people call you to bring back the glorious past of Gran Colombia. Will you be victorious once again on the battlefield? Can you build a civilization that will stand the test of time?",
 
 		
 		"declaringWar": "Your tyranny, if unchecked, dooms the world to darkness, and for this reason I must declare war on you.",
@@ -925,7 +926,8 @@
 		"cities": ["Bogotá","Caracas","Quito","Valencia De Carabobo","Cali","Medellín","Maracaibo","Cumaná","Guayaquil","Panamá",
 			"Cartagena de Indias","Popayán","Cuenca","Barinas","Santa Marta","Loja","Angostura","Pasto","Nueva Barcelona","Neiva",
 			"Mérida","Portoviejo","Riobamba","Ibarra","Riohacha","Quibdó","Nueva Pamplona","Santiago de Veraguas","La Asunción","Achaguas",
-			"Honda","Socorro","Mompós","Trujillo","Santa Fe de Antioquia","Pore","Cúcuta","Mariquita","San Fernando de Apure","Barquisimeto"]
+			"Honda","Socorro","Mompós","Trujillo","Santa Fe de Antioquia","Pore","Cúcuta","Mariquita","San Fernando de Apure","Barquisimeto"],
+		"spyNames": ["Diego", "Carmen", "Luis", "Juana", "Tomás", "Ana", "Narciso", "Rosa", "Rafael", "Antonia"]
 	},
 	{
 		"name": "Greece",
@@ -956,7 +958,8 @@
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
 			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon",
 			"Larissa","Apollonia","Messene","Orchomenos","Ambracia","Kos","Knidos","Amphipolis",
-			"Patras","Lamia","Nafplion","Apolyton"]
+			"Patras","Lamia","Nafplion","Apolyton"],
+		"spyNames": ["Jason", "Helena", "Alexa", "Cletus", "Kassandra", "Andres", "Desdemona", "Anthea", "Aeneas", "Leander"]
 	},
 	{
 		"name": "Holy Roman Empire",
@@ -988,7 +991,8 @@
 			"Munster","Rostok","Chemnitz","Braunschweig","Halle","Mצnchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
 			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrucken","Krefeld","Pirmasens","Potsdam","Solingen",
 			"Osnabruck","Ludwingshafen","Leverkusen","Oldenburg","Neuss","Mulheim","Darmstadt","Herne","Wurzburg",
-			"Recklinghausen","Gצttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"]
+			"Recklinghausen","Gצttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"],
+		"spyNames": ["Frederick", "Louis", "Arnulf", "Conrad", "Arnulf", "Heinrich", "Otto", "Rudolf", "Lothair", "Philip"]
 	},
 	{
 		"name": "Inca",
@@ -1028,7 +1032,8 @@
 		"cities": ["Cuzco","Tiwanaku","Machu","Ollantaytambo","Corihuayrachina","Huamanga","Rumicucho","Vilcabamba","Vitcos",
 			"Andahuaylas","Ica","Arequipa","Nasca","Atico","Juli","Chuito","Chuquiapo","Huanuco Pampa","Tamboccocha",
 			"Huaras","Riobamba","Caxamalca","Sausa","Tambo Colorado","Huaca","Tumbes","Chan Chan","Sipan","Pachacamac",
-			"Llactapata","Pisac","Kuelap","Pajaten","Chucuito","Choquequirao"]
+			"Llactapata","Pisac","Kuelap","Pajaten","Chucuito","Choquequirao"],
+		"spyNames": ["Amaru", "Apichu", "Pariapichiu", "Puma", "Quenti", "Suyuntu", "Uturuncu", "Puma", "Purutu", "Ozcollo"]
 	},
 	{
 		"name": "India",
@@ -1057,7 +1062,8 @@
 		"uniques": ["[15]% [Food] [in all cities]", "[+1 Faith] from every [Cattle]"],
 		"cities": ["Delhi","Mumbai","Vijayanagara","Pataliputra","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
 			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur",
-			"Bodhgaya","Kushinagar","Amaravati","Gaur","Gwalior","Jaipur","Karachi"]
+			"Bodhgaya","Kushinagar","Amaravati","Gaur","Gwalior","Jaipur","Karachi"],
+		"spyNames": ["Ashok", "Shanx", "Hormis", "Sanjeev", "Ananda", "Rani", "Parvati", "Mukta", "Karishma", "Jyotsna"]
 	},
 	{
 		"name": "Iroquois",
@@ -1087,7 +1093,8 @@
 		"cities": ["Onoondaga","Osininka","Grand River","Akwesasme","Buffalo Creek","Brantford","Montreal","Genesse River",
 			"Canandaigua Lake","Lake Simcoe","Salamanca","Gowanda","Cuba","Akron","Kanesatake","Ganienkeh","Cayuga Castle",
 			"Chondote","Canajoharie","Nedrow","Oneida Lake","Kanonwalohale","Green Bay","Southwold","Mohawk Valley",
-			"Schoharie","Bay of Quinte","Kanawale","Kanatsiokareke","Tyendinaga","Hahta"]
+			"Schoharie","Bay of Quinte","Kanawale","Kanatsiokareke","Tyendinaga","Hahta"],
+		"spyNames": ["Onatah", "Oneida", "Oshadagea", "Otetiani", "Genesee", "Dadgayadoh", "Otwtiani", "Kateri", "Onondakai", "Honanyawus"]
 	},
 	{
 		"name": "Italy",
@@ -1116,7 +1123,8 @@
 		"uniques": ["Empire enters a [5]-turn Golden Age <upon constructing [Wonder] [in all cities]>", "[+50]% Great Person generation [in all cities] <during the [Renaissance era]>"],
 		"cities": ["Rome", "Naples", "Milan", "Turin", "Florence", "Venice", "Genoa", "Bologna", "Palermo", "Modena", "Verona", "Brescia", "Vicenza", "Prato", "Bari", "Catania", "Parma", "Livorno", "Cagliari", "Foggia",
 			"Salerno", "Forlì", "Pisa", "Asti", "Messina", "Trieste", "Padua", "Siracusa", "Ferrara", "Novara",
-			"Rimini", "Taranto", "Perugia", "Latina", "Bergamo", "Pescara", "Monza", "Sassari", "Terni", "Vittoria"]
+			"Rimini", "Taranto", "Perugia", "Latina", "Bergamo", "Pescara", "Monza", "Sassari", "Terni", "Vittoria"],
+		"spyNames": ["Marco", "Alessandra", "Giovanni", "Marta", "Giacomo", "Alice", "Alessio", "Sara", "Leonardo", "Margherita"]
 	},
 	{
 		"name": "Japan",
@@ -1147,7 +1155,8 @@
 		"cities": ["Kyoto","Tokyo","Osaka","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
 			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
 			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",
-			"Kamakura","Kochi","Naha","Sendai","Gifu","Yamaguchi","Ota","Tottori"]
+			"Kamakura","Kochi","Naha","Sendai","Gifu","Yamaguchi","Ota","Tottori"],
+		"spyNames": ["Akaishi", "Oki", "Hattori", "Morozumi", "Momochi", "Kawashima", "Orin", "Sakanishi", "Kaede", "Mochizuki"]
 	},
 	{
 		"name": "Kievan Rus'",
@@ -1175,7 +1184,8 @@
 		"uniqueName": "Greco-Varangian Way",
 		"uniques": ["[All] units gain the [River Mobility] promotion", "[+1 Gold] from every [River]"],
 		"cities": ["Kiev","Polotsk","Novgorod","Pskov","Ryazan","Tver","Vladimir","Smolensk","Chernigov","Pereyaslavl","Kaniv","Horchevsk",
-			"Hubyn","Iskorosten","Volodymyr","Dorogochyn","Lublin","Halych","Rodka","Kiliya","Bilyar"]
+			"Hubyn","Iskorosten","Volodymyr","Dorogochyn","Lublin","Halych","Rodka","Kiliya","Bilyar"],
+		"spyNames": ["Andriy", "Anastasiya", "Bohdan", "Daryna", "Ivan", "Iryna", "Mykhailo", "Kateryna", "Oleksandr", "Maria"]
 	},
 	{
 		"name": "Korea",
@@ -1205,7 +1215,8 @@
 		"uniques": ["Receive a tech boost when scientific buildings/wonders are built in capital", "[-50]% Unhappiness from [Specialists] [in capital]", "[50]% of excess happiness converted to [Science]"],
 		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
-			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"]
+			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"],
+		"spyNames": ["Kim", "Park", "Han", "Na", "Kong", "Yu", "Ahn", "Seok", "Da", "Eun"]
 	},
 	{
 		"name": "Macedonia",
@@ -1237,7 +1248,8 @@
 			"Alexandria Arachosia","Alexandria Eschate","Alexandria in Parapamisdai","Alexandria in Margiana","Alexandria Bucephala","Alexandria Rhambakia","Alexandria in Susiana","Stagira","Apollonia","Philippolis",
 			"Alexandretta","Methone","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon",
 			"Larissa","Apollonia","Messene","Orchomenos","Ambracia","Kos","Knidos","Amphipolis",
-			"Patras","Lamia","Nafplion","Apolyton"]
+			"Patras","Lamia","Nafplion","Apolyton"],
+		"spyNames": ["Aeropus", "Adea", "Balacrus", "Berenice", "Caranus", "Cynane", "Koinos", "Europa", "Lysimachus", "Nicaea"]
 	},
 	{
 		"name": "Majapahit",

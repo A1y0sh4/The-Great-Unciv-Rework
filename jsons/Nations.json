@@ -1966,7 +1966,8 @@
 		"cities": ["Ulundi","Umgungundlovu","Bulawayo","KwaDukuza","Nongoma","oNdini","Nodwengu","Ndonakusuka","Babanango","Khangela",
 			"KwaHlomendlini","Hlobane","eThekwini","Mlambongwenya","Eziqwaqweni","Isiphezi","Masotsheni","Mtunzini","Nyakamubi","Dumazulu",
 			"Hlatikulu","Mthonjaneni","Empangeni","Pongola","Tugela","Kwamashu","Ingwavuma","Hlulhluwe","Matubatuba","Mhlahlandlela",
-			"Mthatha","Maseru","Lobamba","Qunu"]
+			"Mthatha","Maseru","Lobamba","Qunu"],
+		"spyNames": ["Gumede", "Jama", "Mageba", "Malanda", "Mnguni", "Ndaba", "Phunga", "Senzangakhona", "Balungile", "Samkelisiwe"]
 	},
 
 	// City-States

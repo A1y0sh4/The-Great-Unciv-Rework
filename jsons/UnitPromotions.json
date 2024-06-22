@@ -897,10 +897,14 @@
     },
 	{
         "name": "Secularism",
-        "uniques": ["Prevents spreading of religion to the city it is next to"]
+        "uniques": ["Prevents spreading of religion to the city it is next to"] 
     },
 	{
 		"name": "[Privateer] ability",
 		"uniques": ["May capture killed [Water] units <with [75]% chance>"]
+	},
+	{
+		"name": "Epic Quest",
+		"uniques": ["This Unit gains [5] XP <upon defeating a [Barbarian] unit>"]
 	},
 ]

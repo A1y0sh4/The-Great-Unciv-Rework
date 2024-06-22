@@ -1711,7 +1711,7 @@
 		"innerColor": [229,118,95],
 		
 		"uniqueName": "Epic Quest",
-		"uniques": ["Earn [50]% of killed [Barbarian] unit's [Cost] as [Culture]", "Earn [50]% of killed [Barbarian] unit's [Cost] as [Science]", "[Military] units gain the [Epic Quest] promotion"],
+		"uniques": ["Earn [33]% of killed [Barbarian] unit's [Cost] as [Culture]", "Earn [33]% of killed [Barbarian] unit's [Cost] as [Science]", "[Military] units gain the [Epic Quest] promotion"],
 		"cities": ["Uruk","Kish","Ur","Eridu","Umma","Lagash","Sippar","Akshak","Larak","Bad-Tibira","Larsa","Isin","Shruppak","Nibru","Hamazi","Girsu","Jemdet Nasr","Nina"],
 		"spyNames": ["Alad", "Anusan", "Izila", "Bauninsheg", "Ludari", "Gemekala", "Meania", "Ninna", "Sisig", "Sherzi"]
 	},

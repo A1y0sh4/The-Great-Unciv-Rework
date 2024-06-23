@@ -147,7 +147,7 @@
 		"adjective": ["Assyrian"],
 		"startBias": ["Flood plains"],
 		"preferredVictoryType": "Domination",
-		//"personality": "Ashurbanipal",
+		"personality": "Ashurbanipal",
 
 		"startIntroPart1": "The people bow to your esteemed will, o wise and illustrious King Ashurbanipal of Assyria. Across the world, you are known as both a scholar and a warrior, and yet the legends represent merely a glimmer of your true ambition. Although your enemies cowered at the thought of your ferocity in conquest, you were most proud of your intellectual pursuits. Your thirst for knowledge led to your establishment of the royal library at Nineveh, which came to represent one of the greatest collections of ancient texts and tablets found anywhere in the world - securing your legacy as one of Assyria's greatest kings.",
 		"startIntroPart2": "Wise and fearsome king, the time has come for you to return the kingdom of Assyria to its greatest heights. Will you once again strive to acquire the knowledge and histories of all the world's peoples? Can you build a civilization that will stand the test of time?",
@@ -204,7 +204,7 @@
 		"adjective": ["Austrian"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Diplomatic",
-		//"personality": "Maria Theresa",
+		"personality": "Maria Theresa",
 
 		"startIntroPart1": "Noble and virtuous Queen Maria Theresa, Holy Roman Empress and sovereign of Austria, the people bow to your gracious will. Following the death of your father King Charles VI, you ascended the thone of Austria during a time of great instability, but the empty coffers and diminished military did litle to dissuade your ambitions. Faced with war almost immediately upon your succession to the thron, you managed to fend off your foes, and in naming your husband Francis Stephen co-ruler, assured your place as Empress of the Holy Roman Empire. During your reigh, you guided Austria on a new path of reform - strengthening the military, replenishing the treasury, and improving the educational system of the kingdom.",
 		"startIntroPart2": "Oh great queen, bold and dignified, the time has come for you to rise and guide the kingdom once again. Can you return your people to the height of prosperity and splendor? Will you build a civilization that stands the test of time?",
@@ -236,7 +236,7 @@
 		"adjective": ["Aztec"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Domination",
-		//"personality": "Montezuma I",
+		"personality": "Montezuma I",
 
 		"startIntroPart1": "Welcome, O divine Montezuma! We grovel in awe at your magnificence! May the heaven shower all manner of good things upon you all the days of your life! You are the leader of the mighty Aztec people, wandering nomads from a lost home in the north who in the 12th century came to live in the mesa central in the heart of what would come to be called Mexico. Surrounded by many tribes fighting to control the rich land surrounding the sacred lakes of Texcoco, Xaltocan and Zampango, through cunning alliances and martial prowess, within a mere two hundred years, the Aztecs came to dominate the Central American basin, ruling a mighty empire stretching from sea to sea. But the empire fell at last under the assault of foreign devils - the accursed Spaniards! - wielding fiendish weapons the likes of which your faithful warriors had never seen.",
 		"startIntroPart2": "O great king Montezuma, your people call upon you once more, to rise up and lead them to glory, bring them wealth and power, and give them dominion over their foes and rivals. Will you answer their call, glorious leader? Will you build a civilization that stands the test of time?",
@@ -270,7 +270,7 @@
 		"adjective": ["Babylonian"],
 		"startBias": ["Flood plains"],
 		"preferredVictoryType": "Cultural",
-		//"personality": "Nebuchadnezzar II",
+		"personality": "Nebuchadnezzar II",
 		
 		"startIntroPart1": "May the blessings of heaven be upon you, O great Nebuchadnezzar, father of mighty and ancient Babylon! Young was the world when Sargon built Babylon some five thousand years ago, long did it grow and prosper, gaining its first empire the eighteenth century BC, under godlike Hammurabi, the giver of law. Although conquered by the Kassites and then by the Assyrians, Babylon endured, emerging phoenix-like from its ashes of destruction and regaining its independence despite its many enemies. Truly was Babylon the center of arts and learning in the ancient world. O Nebuchadnezzar, your empire endured but a short time after your death, falling to the mighty Persians, and then to the Greeks, until the great city was destroyed by 141 BC.",
 		"startIntroPart2": "But is Babylon indeed gone forever, great Nebuchadnezzar? Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
@@ -313,7 +313,7 @@
 		"adjective": ["Brazilian"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Cultural",
-		//"personality": "Pedro II",
+		"personality": "Pedro II",
 
 		"startIntroPart1": "All Hail his most respected and magnanimous Emperor, Pedro II of Brazil. It was with great insight and unshakeable dignity that you ruled the Brazilian empire for over 50 years, ushering in a time of lasting peace and prosperity. Your reputation as a stern, but fair leader was never blemished by controversy, as your unwavering dedication to the people of Brazil provided hope and established the kingdom's position in South America. Your scholarly pursuits and staunch defense of freedom of speech led to the creation of several institutions of higher learning, strengthening Brazil's sense of national identity.",
 		"startIntroPart2": "Revered Emperor Pedro, your people long for a return to the peaceful days when you walked among them, hearing their stories and reassuring them of a bright future. Will you once again lead your kingdom to prosperity? Can you build a civilization that stands the test of time?",
@@ -344,7 +344,7 @@
 		"adjective": ["Byzantine"],
                 "startBias": ["Coast"],
 		"preferredVictoryType": "Religious",
-		//"personality": "Theodora",
+		"personality": "Theodora",
 
 		"startIntroPart1": "All hail the most magnificent and magnanimous Empress Theodora, beloved of Byzantium and of Rome! From the lowly ranks of actress and courtesan you became the most powerful woman in the Roman Empire, consort to Justinian I. Starting in the late 520's AD, you joined your husband in a series of important spiritual and legal reforms, creating many laws which elevated the status of and promoted equal treatment of women in the empire. You also aided in the restoration and construction of many aqueducts, bridges, and churches across Constantinople, culminating in the creation of the Hagia Sophia, one of the most splendid architectural wonders of the world.",
 		"startIntroPart2": "Beautiful Empress, Byzantium is in need of your wisdom and strength - her people are lost without your light to lead them. The Byzantine Empire may have fallen once, but its spirit is still intact waiting to be reborn anew. Can you return Byzantium to the heights of glory it once enjoyed? Can you create a civilization to stand the test of time?",
@@ -402,7 +402,7 @@
 		"adjective": ["Carthaginian"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
-		//"personality": "Dido",
+		"personality": "Dido",
 
 		"startIntroPart1": "Blessings and salutations to you, revered Queen Dido, founder of the legendary kingdom of Carthage. Chronicled by the words of the great poet Virgil, your husband Acerbas was murdered at the hands of your own brother, King Pygmalion of Tyre, who subsequently claimed the treasures of Acerbas that were now rightfully yours. Fearing the lengths from which your brother would pursue this vast wealth, you and your compatriots sailed for new lands. Arriving on the shores of North Africa, you tricked the local king with the simple manipulation of an ox hide, laying out a vast expanse of territory for your new home, the future kingdom of Carthage.",
 		"startIntroPart2": "Clever and inquisitive Dido, the world longs for a leader who can provide a shelter from the coming storm, guided by brilliant intuition and cunning. Can you lead the people in the creation of a new kingdom to rival that of once mighty Carthage? Can you build a civilization that will stand the test of time?",
@@ -433,7 +433,7 @@
 		"adjective": ["Celtic"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Religious",
-		//"personality": "Boudicca",
+		"personality": "Boudicca",
 
 		"startIntroPart1": "Eternal glory and praise for you, fierce and vengeful Warrior Queen! In a time dominated by men, you not only secured your throne and sovereign rule, but also successfully defied the power of the Roman Empire. After suffering terrible punishment and humiliation at the hand of the Roman invaders, you rallied your people in a bloody and terrifying revolt. Legions fell under your chariot wheels and the city of London burned. While in the end the Romans retained ownership of the isles, you alone made Nero consider withdrawing all troops and leaving Britain forever.",
 		"startIntroPart2": "Oh sleeping lioness, your people desire that you rise and lead them again in the calling that is your namesake. Will you meet their challenge on the open field and lead the Celts to everlasting victory? Will you restore your lands and build an empire to stand the test of time?",
@@ -473,7 +473,7 @@
 		"adjective": ["Chinese"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
-		//"personality": "Wu Zetian",
+		"personality": "Wu Zetian",
 		
 		"startIntroPart1": "The Blessings of Heaven be upon you. Empress Wu Zetian, most beautiful and haughty ruler of China! Oh great Empress, whose shadow causes the flowers to blossom and the rivers to flow! You are the leader of the Chinese, the oldest and the greatest civilization that humanity has ever produced. China's history stretches back into the mists of time, its people achieving many great things long before the other upstart civilizations were even conceived. China's contributions to the arts and sciences are too many and too wondrous to do justice to - the printing press, gunpowder, the works of Confucius - these are but a few of the gifts China has given to an undeserving world!",
 		"startIntroPart2": "You, great Queen, who, with cunning and beauty, rose from the position of lowly concubine to that of Divine Empress - your people call out to you to lead them! Great China is once again beset on all sides by barbarians. Can you defeat all your many foes and return your country to greatness? Can you build a civilization to stand the test of time?",
@@ -535,7 +535,7 @@
 		"adjective": ["Danish"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
-		//"personality": "Harald Bluetooth",
+		"personality": "Harald Bluetooth",
 		
 		"startIntroPart1": "Honor and glory be yours, Harald Bluetooth Gormsson, mighty heir of King Gorm of the Old and Thyra Dannebod. Not only were you victorious on the battlefield against the armies of Norway, you also completed massive construction project across the land - numerous Ring Fortresses to protect the populace from invasion and internal strife. You successfully drove off waves of German settlers in 983 AD and sheltered your kingdom from unwanted foreign influence.",
 		"startIntroPart2": "Stalwart Viking, the time for greatness is upon you once more. You are called to rise up and lead your people to renewed power and triumph! Will you make the world shudder once more at the very thought of your great armies of Northsmen? Will you let the Viking battle cry ring out across the crashing waves? Will you build a civilization to stand the test of time?",
@@ -567,7 +567,7 @@
 		"adjective": ["Egyptian"],
 		"startBias": ["Flood plains"],
 		"preferredVictoryType": "Cultural",
-		//"personality": "Ramesses II",
+		"personality": "Ramesses II",
 
 		"startIntroPart1": "We greet thee, oh great Ramesses, Pharaoh of Egypt, who causes the sun to rise and the Nile to flow, and who blesses his fortunate people with all the good things of life! Oh great lord, from time immemorial your people lived on the banks of the Nile river, where they brought writing to the world, and advanced mathematics, sculpture, and architecture. Thousands of years ago they created the great monuments which still stand tall and proud.",
 		"startIntroPart2": "Oh, Ramesses, for uncounted years your people endured, as other petty nations around them have risen and then fallen into dust. They look to you to lead them once more into greatness. Can you honor the gods and bring Egypt back to her rightful place at the very center of the world? Can you build a civilization that will stand the test of time?",
@@ -728,7 +728,7 @@
 		"adjective": ["English"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
-		//"personality": "Elizabeth",
+		"personality": "Elizabeth",
 	
 		"startIntroPart1": "Praises upon her serene highness, Queen Elizabeth Gloriana. You lead and protect the celebrated maritime nation of England. England is an ancient land, settled as early as 35,000 years ago. The island has seen countless waves of invaders, each in turn becoming a part of the fabric of the people. Although England is a small island, for many years your people dominated the world stage. Their matchless navy, brilliant artists and shrewd merchants, giving them power and influence far in excess of their mere numbers.",
 		"startIntroPart2": "Queen Elizabeth, will you bring about a new golden age for the English people? They look to you once more to return peace and prosperity to the nation. Will you take up the mantle of greatness? Can you build a civilization that will stand the test of time?",
@@ -759,7 +759,7 @@
 		"adjective": ["ethiopian"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Religious",
-		//"personality": "Haile Selassie",
+		"personality": "Haile Selassie",
 
 		"startIntroPart1": "Blessings be upon you, honorable and righteous Emperor of Ethiopia, Haile Selassie. Your legacy as one of Ethiopia's greatest rulers, and as the spiritual leader to the Rastafarian movement, is outshone only by the influence you had on diplomacy and political cooperation throughout the world. In introducing Ethiopia's first written constitution, you planted the seeds of democracy that would take root over the coming years, and your infinitely wise grasp of global affairs secured Ethiopia's place as a charter member of the United Nations. Spearheading efforts to reform and modernize the nation during your reign, you changed the course of Ethiopian history forever",
 		"startIntroPart2": "Revered king, your composed demeanor once protected the people from the many conflicts that plague the nations of men, and the kingdom looks to you to assure peace once again. Will you lead the people with courage and authority, moving forward into a new age? Will you build a civilization that stands the test of time?",
@@ -809,7 +809,7 @@
 		"adjective": ["French"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
-		//"personality": "Napoleon",
+		"personality": "Napoleon",
 		
 		"startIntroPart1": "Long life and triumph to you, First Consul and Emperor of France, Napoleon I, ruler of the French people. France lies at the heart of Europe. Long has Paris been the world center of culture, arts and letters. Although surrounded by competitors - and often enemies - France has endured as a great nation. Its armies have marched triumphantly into battle from one end of the world to the other, its soldiers and generals among the best in history.",
 		"startIntroPart2": "Napoleon Bonaparte, France yearns for you to rebuild your empire, to lead her once more to glory and greatness, to make France once more the epicenter of culture and refinement. Emperor, will you ride once more against your foes? Can you build a civilization that will stand the test of time?",
@@ -872,7 +872,7 @@
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Protestantism",
-		//"personality": "Otto von Bismarck",
+		"personality": "Otto von Bismarck",
 		
 		"startIntroPart1": "Hail mighty Bismarck, first chancellor of Germany and her empire! Germany is an upstart nation, fashioned from the ruins of the Holy Roman Empire and finally unified in 1871, a little more than a century ago. The German people have proven themselves to be creative, industrious and ferocious warriors. Despite enduring great catastrophes in the first half of the 20th century, Germany remains a worldwide economic, artistic and technological leader.",
 		"startIntroPart2": "Great Prince Bismarck, the German people look up to you to lead them to greater days of glory. Their determination is strong, and now they turn to you, their beloved iron chancellor, to guide them once more. Will you rule and conquer through blood and iron, or foster the Germanic arts and industry? Can you build a civilization that will stand the test of time?",

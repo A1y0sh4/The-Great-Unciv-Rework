@@ -1055,7 +1055,7 @@
                 "cityHealth": 25,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 2},
-		"uniques": ["[+33]% City Strength from defensive buildings"],
+		"uniques": ["[+25]% City Strength from defensive buildings"],
 		"requiredBuilding": "Palace",
 		"requiredTech": "Gunpowder",
 		"quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed"

@@ -776,7 +776,7 @@
     "culture": 5,
     "happiness": 6,
     "faith": 5,
-    "military": 4,
+    "military": 6,
     "aggressive": 5,
     "declareWar": 5,
     "commerce": 8,
@@ -788,12 +788,12 @@
       "Liberty": 7,
       "Expansion": 4,
       "Commerce": 8,
-      "Diplomacy": 7,
+      "Diplomacy": 10,
       "Piety": 5,
       "Rationalism": 9,
       "Individualism": 6,
       "Nationalism": 4,
-      "Internationalism": 5
+      "Internationalism": 8
     }
   },
   {

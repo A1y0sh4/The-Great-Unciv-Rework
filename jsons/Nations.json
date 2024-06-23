@@ -936,7 +936,7 @@
 		"startBias": ["Hill"],
 		"preferredVictoryType":"Cultural",
 		"favoredReligion": "Orthodoxy",
-		//"personality": "Pericles",
+		"personality": "Pericles",
 		
 		"startIntroPart1": "Greetings, oh great Pericles, famed orator and general! You are the leader of the mighty Hellenic league. Your people lived for so many years in isolated city-states - legendary cities such as Athens, Sparta, Thebes - where they gave the world many great things, such as democracy, philosophy, tragedy, art and architecture, the very foundation of Western Civilization. Although few in number and often hostile to each other, in the 5th century BC they were able to defeat their much larger neighbor, Persia, on land and sea.",
 		"startIntroPart2": "Pericles, your people stand ready by your side, to unite the Greek city-states under your lead and to surround you with everlasting glory. Are you ready to accept your destiny, oh great Pericles? Will you lead your people to triumph and greatness? Can you build a civilization that will stand the test of time?",
@@ -968,7 +968,7 @@
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Diplomatic",
 		"favoredReligion": "Protestantism",
-		//"personality": "Frederick Barbarossa",
+		"personality": "Frederick Barbarossa",
 		
 		"startIntroPart1": "Heroic Frederick, king of the Germans, your task is to forge the independent states that surround you into an empire. You are blessed to be a great military leader - use those skills to bring these cities under your sway so they may develop into commercial and industrial powerhouses. Surely then the bards will sing of mighty Frederick with the red beard, the great Holy Roman Emperor.",
 		"startIntroPart2": "Great Emperor, the Holy Roman people look up to you to lead them to greater days of glory. Their determination is strong, and now they turn to you, their beloved emperor, to guide them once more. Will you rule and conquer through blood and iron, or foster the Holy Roman arts and industry? Can you build a civilization that will stand the test of time?",
@@ -1102,7 +1102,7 @@
 		"adjective": ["Italian"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
-		//"personality": "Victor Emmanuel II",
+		"personality": "Victor Emmanuel II",
 	
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -1164,7 +1164,7 @@
 		"adjective": ["Rusian"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
-		//"personality": "Vladimir I",
+		"personality": "Vladimir I",
 		
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -1288,7 +1288,7 @@
 		"adjective": ["Mapuche"],
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Domination",
-		//"personality": "Lautaro",
+		"personality": "Lautaro",
 		
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -1383,7 +1383,7 @@
 		"adjective": ["Nubian"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Cultural",
-		//"personality": "Amanitore",
+		"personality": "Amanitore",
 
 		"startIntroPart1": " ",
 		"startIntroPart2": " ",
@@ -1693,7 +1693,7 @@
 		"adjective": ["Sumer"],
 		"startBias": ["Flood plains"],
 		"preferredVictoryType": "Diplomatic",
-		//"personality": "Gilgamesh",
+		"personality": "Gilgamesh",
 
 		"startIntroPart1": "Blessings of the heaven be upon you, oh mighty Gilgamesh, the legendary god-king of the Sumer nation. The stories of your life amaze the world to this day. After your death, the gods welcomed you as one of their kind.",
 		"startIntroPart2": "O great Gilgamesh, builder of the Sumer might, your people seek your guidance! Will you descend from the heavens to astonish the world with your incredible deeds once again? Will you build a civilization that will stand the test of time?",
@@ -1753,7 +1753,7 @@
 		"adjective": ["Hittite"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
-		//"personality": "Mursilis II",
+		"personality": "Mursilis II",
 		
 		"startIntroPart1": "We bow before thee, King Mursili II, son of Suppiluliuma I, one of the most powerful rulers of the Hittite Empire! You had prove to be more than a match for your successful father, in your military deeds and diplomacy. Compared to the other great kingdoms of the Middle East, little is known of Hatti, yet its empire was one of the great powers of Mesopotamia, rivaling Babylon and Egypt in military strenght and influence. The first Hittites probably came from somewhere in the Caucasus or modern Russia, but settled in central Turkey and later in Syria, areas whose plentiful natural resources, particularly metals, would prove crucial to the power of Hatti. Early Hittite kings focused on consolidating their power in the region, but soon became more and more ambitious, opting to strike out and execute audacious raids against even mighty Babylon: it ended with great success, and the Hittites were able to undermine and destroy the ruling Amorite dynasty in Babylon.",
 		"startIntroPart2": "Great Mursili II, the time has come to prepare your sword and spirit. Great opportunities, challenges and dangers are waiting for you. The new world valus not only bravery, but also wisdome. Will you show that you lack none? Will you crush your enemies under the chariot and submit your rivals under the treaty? Can you build a civilization that will stand the test of time?",
@@ -1915,7 +1915,7 @@
 		"adjective": ["Vietnamese"],
 		"startBias": ["Marsh"],
 		"preferredVictoryType": "Cultural",
-		//"personality": "Bà Triệu",
+		"personality": "Bà Triệu",
 
 		"startIntroPart1": " ",
 		"startIntroPart2": " ",

@@ -749,7 +749,7 @@
     "faith": 6,
     "military": 5,
     "aggressive": 4,
-    "declareWar": 4,
+    "declareWar": 3,
     "commerce": 8,
     "diplomacy": 5,
     "loyal": 6,

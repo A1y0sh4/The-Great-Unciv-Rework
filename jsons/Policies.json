@@ -610,7 +610,7 @@
             {
                 "name": "Cultural Diplomacy",
                 "uniques": [
-                    "Allied City-States provide [Culture] equal to [100]% of what they produce for themselves", "[-33]% City-State Influence degradation"
+                    "Allied City-States provide [Culture] equal to [50]% of what they produce for themselves", "[-33]% City-State Influence degradation"
                 ],
                 "row": 1,
                 "column": 3

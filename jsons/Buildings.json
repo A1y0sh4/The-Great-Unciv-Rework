@@ -236,11 +236,11 @@
 		"cost": 60,
 		"uniqueTo": "Georgia",
 		"faith": 1,
-		"cityStrength": 8,
+		"cityStrength": 6,
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
-		"uniques": ["[+25]% [Faith] [in this city] <during We Love The King Day>", "Destroyed when the city is captured", "Obsolete with [Rifling]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>"]
+		"uniques": ["Destroyed when the city is captured", "[+1 Faith, +1 Culture] <in [Hill] tiles>", "Obsolete with [Rifling]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>"]
 	},
 	{
 		"name": "The Pyramids",

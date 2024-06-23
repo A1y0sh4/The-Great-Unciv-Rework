@@ -60,14 +60,14 @@
     "priorities": {
       "Tradition": 7,
       "Liberty": 5,
-      "Honor": 4,
+      "Expansion": 4,
       "Commerce": 5,
-      "Patronage": 5,
+      "Diplomacy": 5,
       "Piety": 6,
       "Rationalism": 5,
-      "Freedom": 5,
-      "Autocracy": 4,
-      "Order": 7
+      "Individualism": 5,
+      "Nationalism": 4,
+      "Internationalism": 7
     }
   },
   {
@@ -89,14 +89,14 @@
     "priorities": {
       "Tradition": 7,
       "Liberty": 8,
-      "Honor": 8,
+      "Expansion": 8,
       "Commerce": 4,
-      "Patronage": 3,
+      "Diplomacy": 3,
       "Piety": 6,
       "Rationalism": 7,
-      "Freedom": 5,
-      "Autocracy": 8,
-      "Order": 5
+      "Individualism": 5,
+      "Nationalism": 8,
+      "Internationalism": 5
     },
     "civilopediaText": [
       {
@@ -123,14 +123,14 @@
     "priorities": {
       "Tradition": 5,
       "Liberty": 6,
-      "Honor": 7,
+      "Expansion": 7,
       "Commerce": 4,
-      "Patronage": 3,
+      "Diplomacy": 3,
       "Piety": 5,
       "Rationalism": 8,
-      "Freedom": 5,
-      "Autocracy": 7,
-      "Order": 3
+      "Individualism": 5,
+      "Nationalism": 7,
+      "Internationalism": 3
     }
   },
   {
@@ -152,14 +152,14 @@
     "priorities": {
       "Tradition": 5,
       "Liberty": 5,
-      "Honor": 8,
+      "Expansion": 8,
       "Commerce": 8,
-      "Patronage": 4,
+      "Diplomacy": 4,
       "Piety": 8,
       "Rationalism": 5,
-      "Freedom": 4,
-      "Autocracy": 7,
-      "Order": 4
+      "Individualism": 4,
+      "Nationalism": 7,
+      "Internationalism": 4
     },
     "civilopediaText": [
       {
@@ -168,7 +168,7 @@
     ]
   },
   {
-    "name": "Atilla",
+    "name": "Attila",
     "production": 6,
     "food": 4,
     "gold": 7,
@@ -186,14 +186,14 @@
     "priorities": {
       "Tradition": 5,
       "Liberty": 7,
-      "Honor": 9,
+      "Expansion": 9,
       "Commerce": 7,
-      "Patronage": 3,
+      "Diplomacy": 3,
       "Piety": 5,
       "Rationalism": 3,
-      "Freedom": 5,
-      "Autocracy": 8,
-      "Order": 4
+      "Individualism": 5,
+      "Nationalism": 8,
+      "Internationalism": 4
     },
     "civilopediaText": [
       {
@@ -218,16 +218,16 @@
     "loyal": 4,
     "expansion": 8,
     "priorities": {
-      "Tradition": 5,
-      "Liberty": 9,
-      "Honor": 6,
+      "Tradition": 7,
+      "Liberty": 7,
+      "Expansion": 8,
       "Commerce": 6,
-      "Patronage": 7,
+      "Diplomacy": 5,
       "Piety": 4,
       "Rationalism": 6,
-      "Freedom": 6,
-      "Autocracy": 5,
-      "Order": 8
+      "Individualism": 6,
+      "Nationalism": 8,
+      "Internationalism": 8
     },
     "civilopediaText": [
       {
@@ -254,14 +254,14 @@
     "priorities": {
       "Tradition": 5,
       "Liberty": 7,
-      "Honor": 4,
+      "Expansion": 4,
       "Commerce": 5,
-      "Patronage": 7,
+      "Diplomacy": 7,
       "Piety": 4,
       "Rationalism": 8,
-      "Freedom": 5,
-      "Autocracy": 5,
-      "Order": 7
+      "Individualism": 5,
+      "Nationalism": 7,
+      "Internationalism": 7
     },
     "civilopediaText": [
       {
@@ -288,14 +288,14 @@
     "priorities": {
       "Tradition": 7,
       "Liberty": 5,
-      "Honor": 6,
+      "Expansion": 6,
       "Commerce": 6,
-      "Patronage": 5,
+      "Diplomacy": 5,
       "Piety": 8,
       "Rationalism": 7,
-      "Freedom": 8,
-      "Autocracy": 6,
-      "Order": 6
+      "Individualism": 8,
+      "Nationalism": 6,
+      "Internationalism": 6
     },
     "civilopediaText": [
       {
@@ -322,14 +322,14 @@
     "priorities": {
       "Tradition": 6,
       "Liberty": 7,
-      "Honor": 6,
+      "Expansion": 6,
       "Commerce": 7,
-      "Patronage": 6,
+      "Diplomacy": 6,
       "Piety": 7,
       "Rationalism": 4,
-      "Freedom": 6,
-      "Autocracy": 7,
-      "Order": 5
+      "Individualism": 6,
+      "Nationalism": 7,
+      "Internationalism": 5
     }
   },
   {
@@ -341,24 +341,24 @@
     "culture": 6,
     "happiness": 3,
     "faith": 6,
-    "military": 5,
-    "aggressive": 4,
-    "declareWar": 4,
+    "military": 6,
+    "aggressive": 5,
+    "declareWar": 5,
     "commerce": 7,
     "diplomacy": 7,
     "loyal": 6,
-    "expansion": 8,
+    "expansion": 9,
     "priorities": {
       "Tradition": 6,
-      "Liberty": 8,
-      "Honor": 3,
+      "Liberty": 7,
+      "Expansion": 8,
       "Commerce": 6,
-      "Patronage": 7,
-      "Piety": 8,
+      "Diplomacy": 8,
+      "Piety": 7,
       "Rationalism": 10,
-      "Freedom": 2,
-      "Autocracy": 3,
-      "Order": 6
+      "Individualism": 2,
+      "Nationalism": 8,
+      "Internationalism": 7
     }
   },
   {
@@ -380,14 +380,14 @@
     "priorities": {
       "Tradition": 5,
       "Liberty": 6,
-      "Honor": 3,
+      "Expansion": 3,
       "Commerce": 7,
-      "Patronage": 4,
+      "Diplomacy": 4,
       "Piety": 7,
       "Rationalism": 6,
-      "Freedom": 8,
-      "Autocracy": 3,
-      "Order": 7
+      "Individualism": 8,
+      "Nationalism": 7,
+      "Internationalism": 3
     }
   },
   {
@@ -409,14 +409,14 @@
     "priorities": {
       "Tradition": 3,
       "Liberty": 7,
-      "Honor": 7,
+      "Expansion": 7,
       "Commerce": 8,
-      "Patronage": 5,
+      "Diplomacy": 5,
       "Piety": 5,
       "Rationalism": 5,
-      "Freedom": 5,
-      "Autocracy": 6,
-      "Order": 5
+      "Individualism": 5,
+      "Nationalism": 6,
+      "Internationalism": 5
     }
   },
   {
@@ -438,47 +438,18 @@
     "priorities": {
       "Tradition": 6,
       "Liberty": 6,
-      "Honor": 4,
+      "Expansion": 4,
       "Commerce": 8,
-      "Patronage": 8,
+      "Diplomacy": 8,
       "Piety": 5,
       "Rationalism": 6,
-      "Freedom": 5,
-      "Autocracy": 4,
-      "Order": 6
+      "Individualism": 5,
+      "Nationalism": 4,
+      "Internationalism": 6
     }
   },
   {
-    "name": "Enrico Dandolo",
-    "production": 5,
-    "food": 6,
-    "gold": 8,
-    "science": 5,
-    "culture": 5,
-    "happiness": 5,
-    "faith": 7,
-    "military": 5,
-    "aggressive": 5,
-    "declareWar": 3,
-    "commerce": 8,
-    "diplomacy": 6,
-    "loyal": 3,
-    "expansion": 3,
-    "priorities": {
-      "Tradition": 5,
-      "Liberty": 3,
-      "Honor": 2,
-      "Commerce": 9,
-      "Patronage": 8,
-      "Piety": 7,
-      "Rationalism": 5,
-      "Freedom": 5,
-      "Autocracy": 3,
-      "Order": 5
-    }
-  },
-  {
-    "name": "Gajah Mada",
+    "name": "Gitarja",
     "production": 5,
     "food": 5,
     "gold": 6,
@@ -496,14 +467,14 @@
     "priorities": {
       "Tradition": 6,
       "Liberty": 8,
-      "Honor": 6,
+      "Expansion": 6,
       "Commerce": 6,
-      "Patronage": 5,
+      "Diplomacy": 5,
       "Piety": 7,
       "Rationalism": 4,
-      "Freedom": 6,
-      "Autocracy": 6,
-      "Order": 6
+      "Individualism": 6,
+      "Nationalism": 6,
+      "Internationalism": 6
     }
   },
   {
@@ -523,16 +494,16 @@
     "loyal": 7,
     "expansion": 3,
     "priorities": {
-      "Tradition": 8,
-      "Liberty": 3,
-      "Honor": 1,
+      "Tradition": 3,
+      "Liberty": 8,
+      "Expansion": 1,
       "Commerce": 4,
-      "Patronage": 4,
+      "Diplomacy": 4,
       "Piety": 9,
       "Rationalism": 7,
-      "Freedom": 10,
-      "Autocracy": 1,
-      "Order": 5
+      "Individualism": 10,
+      "Nationalism": 1,
+      "Internationalism": 5
     }
   },
   {
@@ -544,24 +515,24 @@
     "culture": 5,
     "happiness": 5,
     "faith": 3,
-    "military": 6,
-    "aggressive": 8,
-    "declareWar": 7,
+    "military": 7,
+    "aggressive": 9,
+    "declareWar": 8,
     "commerce": 5,
     "diplomacy": 4,
     "loyal": 6,
     "expansion": 8,
     "priorities": {
-      "Tradition": 4,
-      "Liberty": 8,
-      "Honor": 9,
+      "Tradition": 8,
+      "Liberty": 4,
+      "Expansion": 9,
       "Commerce": 6,
-      "Patronage": 2,
+      "Diplomacy": 2,
       "Piety": 3,
       "Rationalism": 4,
-      "Freedom": 5,
-      "Autocracy": 8,
-      "Order": 3
+      "Individualism": 5,
+      "Nationalism": 8,
+      "Internationalism": 3
     }
   },
   {
@@ -583,14 +554,14 @@
     "priorities": {
       "Tradition": 5,
       "Liberty": 4,
-      "Honor": 6,
+      "Expansion": 6,
       "Commerce": 6,
-      "Patronage": 6,
+      "Diplomacy": 6,
       "Piety": 4,
       "Rationalism": 7,
-      "Freedom": 5,
-      "Autocracy": 6,
-      "Order": 6
+      "Individualism": 5,
+      "Nationalism": 6,
+      "Internationalism": 6
     }
   },
   {
@@ -612,14 +583,14 @@
     "priorities": {
       "Tradition": 7,
       "Liberty": 4,
-      "Honor": 3,
+      "Expansion": 3,
       "Commerce": 6,
-      "Patronage": 4,
-      "Piety": 7,
+      "Diplomacy": 4,
+      "Piety": 8,
       "Rationalism": 4,
-      "Freedom": 8,
-      "Autocracy": 4,
-      "Order": 8
+      "Individualism": 8,
+      "Nationalism": 4,
+      "Internationalism": 8
     }
   },
   {
@@ -641,14 +612,14 @@
     "priorities": {
       "Tradition": 4,
       "Liberty": 6,
-      "Honor": 7,
+      "Expansion": 7,
       "Commerce": 7,
-      "Patronage": 5,
+      "Diplomacy": 5,
       "Piety": 5,
       "Rationalism": 5,
-      "Freedom": 5,
-      "Autocracy": 7,
-      "Order": 4
+      "Individualism": 5,
+      "Nationalism": 7,
+      "Internationalism": 4
     }
   },
   {
@@ -670,14 +641,14 @@
     "priorities": {
       "Tradition": 6,
       "Liberty": 5,
-      "Honor": 2,
+      "Expansion": 2,
       "Commerce": 8,
-      "Patronage": 4,
-      "Piety": 9,
+      "Diplomacy": 4,
+      "Piety": 10,
       "Rationalism": 8,
-      "Freedom": 7,
-      "Autocracy": 3,
-      "Order": 6
+      "Individualism": 7,
+      "Nationalism": 3,
+      "Internationalism": 6
     }
   },
   {
@@ -699,14 +670,14 @@
     "priorities": {
       "Tradition": 5,
       "Liberty": 9,
-      "Honor": 2,
+      "Expansion": 2,
       "Commerce": 5,
-      "Patronage": 4,
+      "Diplomacy": 4,
       "Piety": 8,
       "Rationalism": 5,
-      "Freedom": 6,
-      "Autocracy": 2,
-      "Order": 7
+      "Individualism": 6,
+      "Nationalism": 2,
+      "Internationalism": 7
     }
   },
   {
@@ -726,16 +697,16 @@
     "loyal": 5,
     "expansion": 7,
     "priorities": {
-      "Tradition": 5,
-      "Liberty": 7,
-      "Honor": 5,
+      "Tradition": 7,
+      "Liberty": 5,
+      "Expansion": 5,
       "Commerce": 7,
-      "Patronage": 3,
+      "Diplomacy": 3,
       "Piety": 8,
       "Rationalism": 3,
-      "Freedom": 5,
-      "Autocracy": 5,
-      "Order": 4
+      "Individualism": 5,
+      "Nationalism": 6,
+      "Internationalism": 4
     }
   },
   {
@@ -757,14 +728,14 @@
     "priorities": {
       "Tradition": 5,
       "Liberty": 8,
-      "Honor": 5,
+      "Expansion": 5,
       "Commerce": 5,
-      "Patronage": 6,
+      "Diplomacy": 6,
       "Piety": 5,
       "Rationalism": 4,
-      "Freedom": 7,
-      "Autocracy": 5,
-      "Order": 7
+      "Individualism": 7,
+      "Nationalism": 5,
+      "Internationalism": 7
     }
   },
   {
@@ -786,14 +757,14 @@
     "priorities": {
       "Tradition": 7,
       "Liberty": 5,
-      "Honor": 4,
+      "Expansion": 4,
       "Commerce": 9,
-      "Patronage": 9,
+      "Diplomacy": 7,
       "Piety": 6,
       "Rationalism": 5,
-      "Freedom": 6,
-      "Autocracy": 4,
-      "Order": 6
+      "Individualism": 6,
+      "Nationalism": 4,
+      "Internationalism": 6
     }
   },
   {
@@ -815,14 +786,14 @@
     "priorities": {
       "Tradition": 5,
       "Liberty": 7,
-      "Honor": 4,
+      "Expansion": 4,
       "Commerce": 8,
-      "Patronage": 7,
+      "Diplomacy": 7,
       "Piety": 5,
-      "Rationalism": 5,
-      "Freedom": 6,
-      "Autocracy": 4,
-      "Order": 5
+      "Rationalism": 9,
+      "Individualism": 6,
+      "Nationalism": 4,
+      "Internationalism": 5
     }
   },
   {
@@ -844,14 +815,14 @@
     "priorities": {
       "Tradition": 6,
       "Liberty": 8,
-      "Honor": 10,
+      "Expansion": 10,
       "Commerce": 5,
-      "Patronage": 4,
+      "Diplomacy": 4,
       "Piety": 8,
       "Rationalism": 5,
-      "Freedom": 6,
-      "Autocracy": 9,
-      "Order": 3
+      "Individualism": 6,
+      "Nationalism": 9,
+      "Internationalism": 3
     }
   },
   {
@@ -873,14 +844,14 @@
     "priorities": {
       "Tradition": 8,
       "Liberty": 8,
-      "Honor": 10,
+      "Expansion": 10,
       "Commerce": 4,
-      "Patronage": 7,
+      "Diplomacy": 7,
       "Piety": 3,
       "Rationalism": 7,
-      "Freedom": 4,
+      "Individualism": 7,
       "Autocracy": 9,
-      "Order": 3
+      "Internationalism": 8
     }
   },
   {
@@ -902,14 +873,14 @@
     "priorities": {
       "Tradition": 6,
       "Liberty": 5,
-      "Honor": 5,
+      "Expansion": 5,
       "Commerce": 5,
-      "Patronage": 5,
+      "Diplomacy": 5,
       "Piety": 5,
       "Rationalism": 8,
-      "Freedom": 5,
-      "Autocracy": 5,
-      "Order": 6
+      "Individualism": 5,
+      "Nationalism": 5,
+      "Internationalism": 6
     }
   },
   {
@@ -929,16 +900,16 @@
     "loyal": 3,
     "expansion": 8,
     "priorities": {
-      "Tradition": 6,
-      "Liberty": 8,
-      "Honor": 9,
+      "Tradition": 8,
+      "Liberty": 5,
+      "Expansion": 9,
       "Commerce": 5,
-      "Patronage": 6,
+      "Diplomacy": 6,
       "Piety": 5,
       "Rationalism": 5,
-      "Freedom": 5,
-      "Autocracy": 9,
-      "Order": 5
+      "Individualism": 5,
+      "Nationalism": 9,
+      "Internationalism": 5
     }
   },
   {
@@ -960,14 +931,14 @@
     "priorities": {
       "Tradition": 7,
       "Liberty": 4,
-      "Honor": 3,
+      "Expansion": 3,
       "Commerce": 4,
-      "Patronage": 4,
-      "Piety": 8,
+      "Diplomacy": 4,
+      "Piety": 7,
       "Rationalism": 8,
-      "Freedom": 6,
-      "Autocracy": 3,
-      "Order": 7
+      "Individualism": 6,
+      "Nationalism": 3,
+      "Internationalism": 7
     }
   },
   {
@@ -989,14 +960,14 @@
     "priorities": {
       "Tradition": 7,
       "Liberty": 6,
-      "Honor": 4,
+      "Expansion": 4,
       "Commerce": 9,
-      "Patronage": 3,
+      "Diplomacy": 3,
       "Piety": 6,
       "Rationalism": 5,
-      "Freedom": 4,
-      "Autocracy": 4,
-      "Order": 5
+      "Individualism": 4,
+      "Nationalism": 4,
+      "Internationalism": 5
     }
   },
   {
@@ -1018,18 +989,18 @@
     "priorities": {
       "Tradition": 7,
       "Liberty": 6,
-      "Honor": 4,
+      "Expansion": 4,
       "Commerce": 6,
-      "Patronage": 5,
+      "Diplomacy": 5,
       "Piety": 5,
-      "Rationalism": 5,
-      "Freedom": 9,
-      "Autocracy": 3,
-      "Order": 6
+      "Rationalism": 7,
+      "Individualism": 9,
+      "Nationalism": 3,
+      "Internationalism": 6
     }
   },
   {
-    "name": "Pocatello",
+    "name": "Poundmaker",
     "production": 5,
     "food": 8,
     "gold": 5,
@@ -1037,7 +1008,7 @@
     "culture": 5,
     "happiness": 5,
     "faith": 5,
-    "military": 5,
+    "military": 4,
     "aggressive": 2,
     "declareWar": 5,
     "commerce": 5,
@@ -1047,14 +1018,14 @@
     "priorities": {
       "Tradition": 5,
       "Liberty": 8,
-      "Honor": 5,
+      "Expansion": 5,
       "Commerce": 5,
-      "Patronage": 5,
+      "Diplomacy": 5,
       "Piety": 5,
       "Rationalism": 5,
-      "Freedom": 6,
-      "Autocracy": 5,
-      "Order": 8
+      "Individualism": 6,
+      "Nationalism": 5,
+      "Internationalism": 8
     }
   },
   {
@@ -1076,14 +1047,14 @@
     "priorities": {
       "Tradition": 9,
       "Liberty": 6,
-      "Honor": 4,
+      "Expansion": 4,
       "Commerce": 6,
-      "Patronage": 5,
+      "Diplomacy": 5,
       "Piety": 8,
       "Rationalism": 6,
-      "Freedom": 6,
-      "Autocracy": 4,
-      "Order": 7
+      "Individualism": 6,
+      "Nationalism": 4,
+      "Internationalism": 7
     }
   },
   {
@@ -1105,14 +1076,14 @@
     "priorities": {
       "Tradition": 8,
       "Liberty": 6,
-      "Honor": 5,
+      "Expansion": 5,
       "Commerce": 5,
-      "Patronage": 5,
+      "Diplomacy": 5,
       "Piety": 7,
       "Rationalism": 6,
-      "Freedom": 6,
-      "Autocracy": 5,
-      "Order": 8
+      "Individualism": 6,
+      "Nationalism": 5,
+      "Internationalism": 8
     }
   },
   {
@@ -1134,14 +1105,14 @@
     "priorities": {
       "Tradition": 5,
       "Liberty": 5,
-      "Honor": 4,
+      "Expansion": 4,
       "Commerce": 5,
-      "Patronage": 4,
+      "Diplomacy": 4,
       "Piety": 6,
       "Rationalism": 9,
-      "Freedom": 5,
-      "Autocracy": 4,
-      "Order": 7
+      "Individualism": 7,
+      "Nationalism": 4,
+      "Internationalism": 5
     }
   },
   {
@@ -1163,14 +1134,14 @@
     "priorities": {
       "Tradition": 2,
       "Liberty": 11,
-      "Honor": 9,
+      "Expansion": 9,
       "Commerce": 6,
-      "Patronage": 5,
+      "Diplomacy": 5,
       "Piety": 2,
       "Rationalism": 2,
-      "Freedom": 6,
-      "Autocracy": 9,
-      "Order": 5
+      "Individualism": 6,
+      "Nationalism": 9,
+      "Internationalism": 5
     }
   },
   {
@@ -1192,14 +1163,14 @@
     "priorities": {
       "Tradition": 6,
       "Liberty": 8,
-      "Honor": 8,
+      "Expansion": 8,
       "Commerce": 5,
-      "Patronage": 6,
+      "Diplomacy": 6,
       "Piety": 6,
       "Rationalism": 7,
-      "Freedom": 4,
-      "Autocracy": 8,
-      "Order": 4
+      "Individualism": 4,
+      "Nationalism": 8,
+      "Internationalism": 4
     }
   },
   {
@@ -1221,14 +1192,14 @@
     "priorities": {
       "Tradition": 7,
       "Liberty": 4,
-      "Honor": 4,
+      "Expansion": 4,
       "Commerce": 6,
-      "Patronage": 6,
+      "Diplomacy": 6,
       "Piety": 7,
       "Rationalism": 6,
-      "Freedom": 6,
-      "Autocracy": 4,
-      "Order": 8
+      "Individualism": 6,
+      "Nationalism": 4,
+      "Internationalism": 8
     }
   },
   {
@@ -1248,16 +1219,16 @@
     "loyal": 7,
     "expansion": 7,
     "priorities": {
-      "Tradition": 6,
-      "Liberty": 7,
-      "Honor": 7,
-      "Commerce": 6,
-      "Patronage": 6,
+      "Tradition": 5,
+      "Liberty": 6,
+      "Expansion": 6,
+      "Commerce": 7,
+      "Diplomacy": 7,
       "Piety": 5,
       "Rationalism": 7,
-      "Freedom": 6,
-      "Autocracy": 7,
-      "Order": 8
+      "Individualism": 6,
+      "Nationalism": 5,
+      "Internationalism": 8
     }
   },
   {
@@ -1279,14 +1250,14 @@
     "priorities": {
       "Tradition": 6,
       "Liberty": 7,
-      "Honor": 4,
+      "Expansion": 4,
       "Commerce": 7,
-      "Patronage": 7,
+      "Diplomacy": 6,
       "Piety": 5,
       "Rationalism": 5,
-      "Freedom": 7,
-      "Autocracy": 4,
-      "Order": 5
+      "Individualism": 7,
+      "Nationalism": 4,
+      "Internationalism": 5
     }
   },
   {
@@ -1298,9 +1269,9 @@
     "culture": 6,
     "happiness": 6,
     "faith": 5,
-    "military": 4,
-    "aggressive": 3,
-    "declareWar": 4,
+    "military": 5,
+    "aggressive": 4,
+    "declareWar": 5,
     "commerce": 6,
     "diplomacy": 7,
     "loyal": 4,
@@ -1308,14 +1279,14 @@
     "priorities": {
       "Tradition": 6,
       "Liberty": 6,
-      "Honor": 7,
+      "Expansion": 7,
       "Commerce": 5,
-      "Patronage": 7,
+      "Diplomacy": 10,
       "Piety": 6,
       "Rationalism": 9,
-      "Freedom": 7,
-      "Autocracy": 7,
-      "Order": 7
+      "Individualism": 7,
+      "Nationalism": 7,
+      "Internationalism": 7
     }
   }
 ]

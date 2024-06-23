@@ -953,7 +953,7 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [65, 141, 254],
 		"uniqueName": "Hellenic League",
-		"uniques": ["Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[-50]% City-State Influence degradation <when at war>", "Allied City-States provide [Science] equal to [100]% of what they produce for themselves"],
+		"uniques": ["Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[-50]% City-State Influence degradation <when at war>", "Allied City-States provide [Science] equal to [50]% of what they produce for themselves"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
 			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon",

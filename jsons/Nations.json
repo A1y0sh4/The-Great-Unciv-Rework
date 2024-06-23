@@ -3171,17 +3171,17 @@
 		"cities": ["Jerusalem"]
 	},
 	{
-		"name": "Armagh",
-		"adjective": ["Armagh"],
+		"name": "Dublin",
+		"adjective": ["Irish"],
 		"cityStateType": "Religious",
 		"startBias": ["Marsh"],
 
-		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
-		"attacked": "May god have mercy on your evil soul.",
-		"defeated": "I for one welcome our new conquer overlord!",
+		"declaringWar": "War lingers in our hearts. Why carry on with a false peace?",
+		"attacked": "You gormless radger! You'll dine on your own teeth before you set foot in Ireland!",
+		"defeated": "A lonely wind blows through the highlands today. A dirge for Ireland. Can you hear it?",
 		"outerColor": [0, 0, 0],
-		"innerColor": [198,0,192],
-		"cities": ["Armagh"]
+		"innerColor": [211,180,113],
+		"cities": ["Dublin"]
 	},
 	{
 		"name": "Chinguetti",

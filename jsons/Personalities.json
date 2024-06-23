@@ -1480,8 +1480,8 @@
     "loyal": 8,
     "expansion": 6,
     "priorities": {
-      "Tradition": 3,
-      "Liberty": 9,
+      "Tradition": 1,
+      "Liberty": 10,
       "Expansion": 7,
       "Commerce": 6,
       "Diplomacy": 6,

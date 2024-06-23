@@ -1188,7 +1188,7 @@
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 24,
-		"cost": 180,
+		"cost": 170,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+33]% Strength <when attacking>"],

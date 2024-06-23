@@ -1650,8 +1650,8 @@
     "aggressive": 6,
     "declareWar": 5,
     "commerce": 7,
-    "diplomacy": 9,
-    "loyal": 10,
+    "diplomacy": 8,
+    "loyal": 8,
     "expansion": 3,
     "priorities": {
       "Tradition": 8,
@@ -1663,7 +1663,7 @@
       "Rationalism": 7,
       "Individualism": 7,
       "Nationalism": 5,
-      "Internationalism": 9
+      "Internationalism": 8
     }
   },
   {

@@ -374,7 +374,7 @@
 		"uniques": ["Must be adjacent to [2] to [5] [Desert] tiles",
 			    "Must be adjacent to [1] to [3] [Water] tiles",
 			    "Must be adjacent to [0] to [1] [Hill] tiles", 
-			    "Tile provides yield without assigned population", "Grants [+33 Gold] to the first civilization to discover it <on [Blitz] game speed>", "Grants [+50 Gold] to the first civilization to discover it <on [Online] game speed>", "Grants [+67 Gold] to the first civilization to discover it <on [Quick] game speed>", "Grants [+100 Gold] to the first civilization to discover it <on [Standard] game speed>", "Grants [+150 Gold] to the first civilization to discover it <on [Epic] game speed>", "Grants [+300 Gold] to the first civilization to discover it <on [Marathon] game speed>", "Grants [+450 Gold] to the first civilization to discover it <on [Endless] game speed>"],
+			    "Tile provides yield without assigned population", "Grants [Medic] ([Can heal faster in Foreign Land]) to adjacent [{Military} {Land}] units for the rest of the game", "Grants [+33 Gold] to the first civilization to discover it <on [Blitz] game speed>", "Grants [+50 Gold] to the first civilization to discover it <on [Online] game speed>", "Grants [+67 Gold] to the first civilization to discover it <on [Quick] game speed>", "Grants [+100 Gold] to the first civilization to discover it <on [Standard] game speed>", "Grants [+150 Gold] to the first civilization to discover it <on [Epic] game speed>", "Grants [+300 Gold] to the first civilization to discover it <on [Marathon] game speed>", "Grants [+450 Gold] to the first civilization to discover it <on [Endless] game speed>"],
 		"turnsInto": "Desert",
 		"impassable": false,
 		"unbuildable": true,

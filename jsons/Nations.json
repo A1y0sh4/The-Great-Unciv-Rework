@@ -2101,7 +2101,7 @@
 	},
 	{
 		"name": "Kuala Lumpur",
-		"adjective": ["KLite"],
+		"adjective": ["Malesian"],
 		"cityStateType": "Cultured",
 		"startBias": ["Coast"],
 
@@ -2507,8 +2507,8 @@
 		"cities": ["Venice"]
 	},
 	{
-		"name": "Antwerp",
-		"adjective": ["Antwerp"],
+		"name": "Algiers",
+		"adjective": ["Algierian"],
 		"cityStateType": "Mercantile",
 		"startBias": ["Coast"],
 
@@ -2517,7 +2517,7 @@
 		"defeated": "They will write songs of this.... pray that they shall be in your favor.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [194,97,255],
-		"cities": ["Antwerp"]
+		"cities": ["Algiers"]
 	},
 	{
 		"name": "Genoa",

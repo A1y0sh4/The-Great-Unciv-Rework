@@ -332,7 +332,7 @@
 		"uniques": ["Must be adjacent to [1] to [6] [Coast] tiles",
 			"Must be adjacent to [6] [Water] tiles",
 			"Occurs on latitudes from [10] to [70] percent of distance equator to pole",
-			"Occurs in groups of [2] to [2] tiles", "Tile provides yield without assigned population", "Grants [+33 Gold] to the first civilization to discover it <on [Blitz] game speed>", "Grants [+50 Gold] to the first civilization to discover it <on [Online] game speed>", "Grants [+67 Gold] to the first civilization to discover it <on [Quick] game speed>", "Grants [+100 Gold] to the first civilization to discover it <on [Standard] game speed>", "Grants [+150 Gold] to the first civilization to discover it <on [Epic] game speed>", "Grants [+300 Gold] to the first civilization to discover it <on [Marathon] game speed>", "Grants [+450 Gold] to the first civilization to discover it <on [Endless] game speed>"],
+			"Occurs in groups of [2] to [2] tiles", "Tile provides yield without assigned population", "Grants [Mobility] ([+1 Movement]) to adjacent [{Military} {Water}] units for the rest of the game", "Grants [+33 Gold] to the first civilization to discover it <on [Blitz] game speed>", "Grants [+50 Gold] to the first civilization to discover it <on [Online] game speed>", "Grants [+67 Gold] to the first civilization to discover it <on [Quick] game speed>", "Grants [+100 Gold] to the first civilization to discover it <on [Standard] game speed>", "Grants [+150 Gold] to the first civilization to discover it <on [Epic] game speed>", "Grants [+300 Gold] to the first civilization to discover it <on [Marathon] game speed>", "Grants [+450 Gold] to the first civilization to discover it <on [Endless] game speed>"],
 		"turnsInto": "Coast",
 		"unbuildable": true,
 		"weight": 10
@@ -510,7 +510,7 @@
 		"occursOn": ["Grassland"],
 		"uniques": ["Must be adjacent to [1] to [3] [Coast] tiles",
 			"Must be adjacent to [1] to [4] [Hill] tiles",
-			"Must be adjacent to [0] [Mountain] tiles", "Tile provides yield without assigned population", "Grants [+33 Gold] to the first civilization to discover it <on [Blitz] game speed>", "Grants [+50 Gold] to the first civilization to discover it <on [Online] game speed>", "Grants [+67 Gold] to the first civilization to discover it <on [Quick] game speed>", "Grants [+100 Gold] to the first civilization to discover it <on [Standard] game speed>", "Grants [+150 Gold] to the first civilization to discover it <on [Epic] game speed>", "Grants [+300 Gold] to the first civilization to discover it <on [Marathon] game speed>", "Grants [+450 Gold] to the first civilization to discover it <on [Endless] game speed>"],
+			"Must be adjacent to [0] [Mountain] tiles", "Tile provides yield without assigned population", "Grants [Quick Study] ([+50% XP gained from combat]) to adjacent [Sword] units for the rest of the game", "Grants [+33 Gold] to the first civilization to discover it <on [Blitz] game speed>", "Grants [+50 Gold] to the first civilization to discover it <on [Online] game speed>", "Grants [+67 Gold] to the first civilization to discover it <on [Quick] game speed>", "Grants [+100 Gold] to the first civilization to discover it <on [Standard] game speed>", "Grants [+150 Gold] to the first civilization to discover it <on [Epic] game speed>", "Grants [+300 Gold] to the first civilization to discover it <on [Marathon] game speed>", "Grants [+450 Gold] to the first civilization to discover it <on [Endless] game speed>"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,

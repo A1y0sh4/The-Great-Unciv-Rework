@@ -540,7 +540,7 @@
 		"occursOn": ["Grassland"],
 		"uniques": ["Fresh water", "Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] to [2] [Hill] tiles",
-			"Must be adjacent to [0] [Mountain] tiles", "Tile provides yield without assigned population", "Grants [+33 Gold] to the first civilization to discover it <on [Blitz] game speed>", "Grants [+50 Gold] to the first civilization to discover it <on [Online] game speed>", "Grants [+67 Gold] to the first civilization to discover it <on [Quick] game speed>", "Grants [+100 Gold] to the first civilization to discover it <on [Standard] game speed>", "Grants [+150 Gold] to the first civilization to discover it <on [Epic] game speed>", "Grants [+300 Gold] to the first civilization to discover it <on [Marathon] game speed>", "Grants [+450 Gold] to the first civilization to discover it <on [Endless] game speed>"],
+			"Must be adjacent to [0] [Mountain] tiles", "Tile provides yield without assigned population", "Grants [+33 Gold, +2 Happiness] to the first civilization to discover it <on [Blitz] game speed>", "Grants [+50 Gold, +2 Happiness] to the first civilization to discover it <on [Online] game speed>", "Grants [+67 Gold, +2 Happiness] to the first civilization to discover it <on [Quick] game speed>", "Grants [+100 Gold, +2 Happiness] to the first civilization to discover it <on [Standard] game speed>", "Grants [+150 Gold, +2 Happiness] to the first civilization to discover it <on [Epic] game speed>", "Grants [+300 Gold, +2 Happiness] to the first civilization to discover it <on [Marathon] game speed>", "Grants [+450 Gold, +2 Happiness] to the first civilization to discover it <on [Endless] game speed>"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,

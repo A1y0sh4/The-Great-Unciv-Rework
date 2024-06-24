@@ -642,7 +642,7 @@
 		"turnsInto": "Coast",
 		"impassable": false,
 		"unbuildable": true,
-		"defenceBonus": 0.25,
+		"defenceBonus": 0.33,
 		"weight": 10
 	},
 	{

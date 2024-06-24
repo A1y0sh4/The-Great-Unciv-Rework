@@ -2336,8 +2336,8 @@
 		"cities": ["Mogadishu"]
 	},
 	{
-		"name": "Sofala",
-		"adjective": ["Mozambican"],
+		"name": "Baku",
+		"adjective": ["Azerbaijani"],
 		"cityStateType": "Maritime",
 		"startBias": ["Coast"],
 
@@ -2346,7 +2346,7 @@
 		"defeated": "Congratulations, conqueror. This tribe serves you now.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [24,224,224],
-		"cities": ["Sofala"]
+		"cities": ["Baku"]
 	},
 	{
 		"name": "Reykjavik",

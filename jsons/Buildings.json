@@ -609,6 +609,7 @@
 		"replaces": "Aqueduct",
 		"uniqueTo": "Siam",
 		"food": 1,
+		"happiness": 1,
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"requiredBuilding": "Granary",

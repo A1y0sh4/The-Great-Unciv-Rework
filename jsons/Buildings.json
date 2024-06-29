@@ -770,7 +770,7 @@
 		"happiness": 2,
 		"culture": 3,
 		"specialistSlots": {"Governor": 1,"Artist":1},
-		"uniques": ["Political Building","Educational Building","Only available <after adopting [Collective Rule]>","New [Military] units start with [5] Experience [in this city]"],
+		"uniques": ["Political Building","Educational Building","Only available <after adopting [Meritocracy]>","New [Military] units start with [5] Experience [in this city]"],
 		"requiredTech": "Civil Service"
 	},
 	{

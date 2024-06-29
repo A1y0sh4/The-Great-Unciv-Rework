@@ -445,6 +445,15 @@
 		"requiredTech": "Construction"
 	},
         {
+		"name": "Furniture Workshop",
+		"maintenance": 2,
+		"specialistSlots": {"Engineer": 1,"Artist": 1},
+		"uniques": ["Light Industry",
+			"[+1 Gold] from [Lumber Improvement] tiles [in this city]","[+1 Gold] from [Forest] tiles [in this city]","[+1 Production] <in cities with a [Guild Complex]>"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Construction"
+	},
+{
 		"name": "Veche",
 		"replaces": "Colosseum",
 		"cost": 75,

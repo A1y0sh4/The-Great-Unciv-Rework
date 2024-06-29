@@ -758,6 +758,15 @@
 		"requiredTech": "Guilds"
 	},
 	{
+		"name": "Guild Complex",
+		"maintenance": 2,
+		"specialistSlots": {"Engineer": 1,"Scientist": 1,"Merchant": 1,"Artist": 1},
+		"percentStatBonus": {"production": 10},
+		"uniques": ["Light Industry"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Guilds"
+	},
+{
 		"name": "Machu Picchu",
 		"greatPersonPoints": {"Great Merchant": 1},
 		"culture": 1,

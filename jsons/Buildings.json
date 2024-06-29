@@ -136,6 +136,22 @@
 		"requiredTech": "Calendar"
 	},
 	{
+		"name": "Shaman's Hut",
+		"culture": 2,
+		"happiness":1,
+		"maintenance": 1,
+		"hurryCostModifier": -50,
+		"uniques": ["Practice Ground","Unbuildable","Hidden when religion is disabled","Destroyed when the city is captured"],
+		"requiredTech":"Calendar"
+	},
+	{
+		"name": "Chaple",
+		"faith": 3,
+		"maintenance": 1,
+		"uniques": ["Worship Place","Only available <after adopting [Monasticism]>","Hidden when religion is disabled","Destroyed when the city is captured"],
+		"requiredTech":"Calendar"
+	},
+	{
 		"name": "Brewery",
 		"cost": 60,
 		"culture": 1,

@@ -135,15 +135,6 @@
 		 "uniques": ["Provides [1] [Wine]"],
 		"requiredTech": "Calendar"
 	},
-	{
-		"name": "Tarvern",
-		"maintenance": 1,
-		"happiness": 3,
-		"requiredBuilding": "Town Square",
-		"hurryCostModifier": 25,
-		"uniques": ["Entertainment Building","Consumes [2] [Beer]","Consumes [1] [Wine]","Destroyed when the city is captured"],
-		"requiredTech": "Currency"
-	},
 {
 		"name": "Monastery",
 		"replaces": "Wine Cellar",
@@ -547,7 +538,16 @@
 		"requiredTech": "Drama and Poetry",
 		"quote": "'Earth proudly wears the Parthenon as the best gem upon her zone.' - Ralph Waldo Emerson"
 	},
-	{
+{
+		"name": "Tarvern",
+		"maintenance": 1,
+		"happiness": 3,
+		"requiredBuilding": "Town Square",
+		"hurryCostModifier": 25,
+		"uniques": ["Entertainment Building","Consumes [1] [Beer]","Consumes [1] [Wine]","Destroyed when the city is captured"],
+		"requiredTech": "Currency"
+	},
+{
 		"name": "Market",
 		"specialistSlots": {"Merchant": 1}, 
 		"hurryCostModifier": 25,

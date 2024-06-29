@@ -168,6 +168,17 @@
 		"requiredTech": "Writing"
 	},
 	{
+		"name": "The First University",
+		"science": 2,
+		"culture": 2,
+		"happiness": 1,
+		"greatPersonPoints": {"Great Scientist": 1,"Great Artist": 1},
+		"isWonder": true,
+		"requiredTech": "Writing",
+		"uniques": ["Free [Great Scientist] appears"],
+		"quote": "'Libraries are as the shrine where all the relics of the ancient saints, full of true virtue, and all that without delusion or imposture are preserved and reposed.' - Sir Francis Bacon"
+	},
+	{
 		"name": "Paper Maker",
 		"replaces": "Library",
 		"cost": 60,
@@ -760,6 +771,17 @@
 		"quote": "'The katun is established at Chichen Itza. The settlement of the Itza shall take place there. The quetzal shall come, the green bird shall come. Ah Kantenal shall come. It is the word of God. The Itza shall come.' - The Books of Chilam Balam"
 	},
 	{
+		"name": "The City of Well",
+		"science": 2,
+		"culture": 2,
+		"happiness": 5,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"isWonder": true,
+		"uniques": ["[+50]% Golden Age length"],
+		"requiredTech": "Civil Service",
+		"quote": "'The katun is established at Chichen Itza. The settlement of the Itza shall take place there. The quetzal shall come, the green bird shall come. Ah Kantenal shall come. It is the word of God. The Itza shall come.' - The Books of Chilam Balam"
+	},
+{
 		"name": "City Hall",
 		"maintenance": 3,
 		"happiness": 2,

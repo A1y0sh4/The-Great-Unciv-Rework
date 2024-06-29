@@ -96,7 +96,7 @@
 		"requiredTech": "Calendar"
 	},
 	{
-			"name": "First Temple of the One True God",
+		"name": "First Temple of the One True God",
 		"faith": 5,
 		"happiness": 1,
 		"isWonder": true,
@@ -124,6 +124,7 @@
 		"requiredTech": "Calendar",
 		"quote": "'You must be absolutely honest and true in the depicting of a totem for meaning is attached to every line. You must be most particular about detail and proportion.' - Emily Carr"
 	},
+{
 		"name": "Stonehenge",
 		"faith": 3,
 		"culture": 1,

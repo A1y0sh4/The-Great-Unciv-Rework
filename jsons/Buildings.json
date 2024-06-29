@@ -96,6 +96,34 @@
 		"requiredTech": "Calendar"
 	},
 	{
+			"name": "First Temple of the One True God",
+		"faith": 5,
+		"happiness": 1,
+		"isWonder": true,
+		"uniques": ["Only available <after adopting [Theocracy]>","[+20]% [Faith] [in all cities]", "May choose [1] additional [Follower] beliefs when [founding] a religion"],
+		"requiredTech": "Calendar",
+		"quote": "'1. Belief in the existence of the Creator, who is perfect in every manner of existence and is the Primary Cause of all that exists.2. The belief in God's absolute and unparalleled unity.3. The belief in God's non-corporeality, nor that He will be affected by any physical occurrences, such as movement, or rest, or dwelling.' - Rabbi Moshe ben Maimon"
+	},
+	{
+		"name": "Ancestral Temple",
+		"culture": 1,
+		"happiness": 2,
+		"isWonder": true,
+		"greatPersonPoints": {"Great General": 1},
+		"uniques": ["Only available <after adopting [Religious Orders]>","[+1 Culture] [in all cities]","[+1 Food] [in all cities]", "[+25]% Production when constructing [Settler] units [in all cities]"],
+		"requiredTech": "Calendar",
+		"quote": "'When one drinks water, one must not forget where it comes from' - Chinese proverb"
+	},
+	{
+		"name": "Complex of Totems",
+		"culture": 2,
+		"happiness": 1,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Artist": 1},
+        "uniques": ["Only available <after adopting [Piety]>","[+1 Faith] per [3] population [in all cities]","[+15]% Production when constructing [Levy Army] units [in all cities]"],
+		"requiredTech": "Calendar",
+		"quote": "'You must be absolutely honest and true in the depicting of a totem for meaning is attached to every line. You must be most particular about detail and proportion.' - Emily Carr"
+	},
 		"name": "Stonehenge",
 		"faith": 3,
 		"culture": 1,

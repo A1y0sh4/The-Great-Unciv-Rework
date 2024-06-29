@@ -737,6 +737,58 @@
 		"quote": "'The katun is established at Chichen Itza. The settlement of the Itza shall take place there. The quetzal shall come, the green bird shall come. Ah Kantenal shall come. It is the word of God. The Itza shall come.' - The Books of Chilam Balam"
 	},
 	{
+			"name": "Town Hall",
+		"maintenance": 2,
+		"happiness": 1,
+		"culture": 2,
+		"cityStrength": 2,
+		"specialistSlots": {"Governor": 1},
+		"uniques": ["Political Building",
+					"[-5]% Unhappiness from [Specialists] [in this city]",
+					"Destroyed when the city is captured"],
+		"hurryCostModifier": 40,
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "City Hall",
+		"maintenance": 3,
+		"happiness": 2,
+		"culture": 2,
+		"cityStrength": 2,
+		"specialistSlots": {"Governor": 1},
+		"uniques": ["Political Building",
+					"[-5]% Unhappiness from [Specialists] [in this city]",
+					"Destroyed when the city is captured"],
+		"hurryCostModifier": 40,
+		"requiredBuilding": "Town Hall",
+		"requiredTech": "Civil Service"
+	},
+	{
+		"name": "Examination Hall",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"happiness": 2,
+		"culture": 3,
+		"specialistSlots": {"Governor": 1,"Artist":1},
+		"uniques": ["Political Building","Educational Building","Only available <after adopting [Collective Rule]>","New [Military] units start with [5] Experience [in this city]"],
+		"requiredTech": "Civil Service"
+	},
+	{
+		"name": "Department of Administration",
+		"maintenance": 5,
+		"specialistSlots": {"Governor": 1},
+		"isNationalWonder": true,
+		"uniques": ["Political Building","Only available <if [Town Hall] is constructed in all [non-[Puppeted]] cities>",
+					"Cost increases by [50] per owned city",
+					"[-5]% Unhappiness from [Specialists] [in all cities connected to capital]",
+					"[-25]% Gold cost of acquiring tiles [in all cities connected to capital]",
+					"[+10]% Production when constructing [All] units [in all cities connected to capital]",
+					"[+10]% Production when constructing [All] buildings [in all cities connected to capital]",
+					"Destroyed when the city is captured"],
+		"hurryCostModifier": 40,
+		"requiredTech":"Civil Service"
+	},
+{
 		"name": "Teotihuacan Pyramids",
 		"culture": 1,
 		"faith": 3,

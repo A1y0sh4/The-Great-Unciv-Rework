@@ -86,16 +86,6 @@
 	},
 	// Column 2
 	{
-		"name": "Stone Works",
-		"requiredNearbyImprovedResources": ["Marble", "Stone"],
-		"maintenance": 1,
-		"hurryCostModifier": 0,
-		"uniques": ["[+5]% Production when constructing [All] buildings [in all cities]",
-			    "[+1 Production] from [Stone] tiles [in this city]",
-                            "[+1 Production] from [Marble] tiles [in this city]"],
-		"requiredTech": "Calendar"
-	},
-	{
 		"name": "First Temple of the One True God",
 		"faith": 5,
 		"happiness": 1,
@@ -134,6 +124,16 @@
 		 "uniques": ["Gain enough Faith for [33]% of a Great Prophet", "Gain [33] [Science] <upon founding a Pantheon>", "Gain [33] [Science] <upon founding a Religion>", "Gain [33] [Science] <upon enhancing a Religion>", "Hidden when religion is disabled"],
 		"requiredTech": "Calendar",
 		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
+	},
+	{
+		"name": "Stone Works",
+		"requiredNearbyImprovedResources": ["Marble", "Stone"],
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": ["[+5]% Production when constructing [All] buildings [in all cities]",
+			    "[+1 Production] from [Stone] tiles [in this city]",
+                            "[+1 Production] from [Marble] tiles [in this city]"],
+		"requiredTech": "Calendar"
 	},
 	{
 		"name": "Brewery",

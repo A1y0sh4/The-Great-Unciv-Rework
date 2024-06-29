@@ -73,14 +73,13 @@
 		"requiredTech": "Pottery"
 	},
 	{
-		{
 		"name": "Pottery Workshop",
 		"maintenance": 1,
 		"production": 1,
 		"happiness": 1,
 		"hurryCostModifier": 5,
 		"uniques": ["Light Industry",
-			"[+2 Production] from [Clay] tiles [in this city]",
+			"[+2 Production] from [Stone] tiles [in this city]",
 			"[+1 Production] <in cities with a [Guild Complex]>"
 			],
 		"requiredTech": "Pottery"
@@ -93,14 +92,13 @@
 		"gold": 1,
 		"hurryCostModifier": 5,
 		"uniques": ["Light Industry",
-			"[+1 Production] from [Bovine] tiles [in this city]",
-			"[+1 Production] from [Caprinae] tiles [in this city]",
+			"[+1 Production] from [Cattle] tiles [in this city]",
 			"[+1 Production] from [Cotton] tiles [in this city]",
 			"[+1 Gold] from [Furs] tiles [in this city]",
 			"[+1 Gold] from [Silk] tiles [in this city]",
 			"[+1 Production] <in cities with a [Guild Complex]>"
 			],
-		"requiredNearbyImprovedResources": ["Bovine","Caprinae","Furs","Cotton","Silk"],
+		"requiredNearbyImprovedResources": ["Cattle","Furs","Cotton","Silk"],
 		"requiredTech": "Animal Husbandry"
 	},
 	{

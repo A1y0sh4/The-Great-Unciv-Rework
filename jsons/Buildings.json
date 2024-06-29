@@ -189,6 +189,16 @@
 		"quote": "'Libraries are as the shrine where all the relics of the ancient saints, full of true virtue, and all that without delusion or imposture are preserved and reposed.' - Sir Francis Bacon"
 	},
 	{
+		"name": "Temple of the Hunting God",
+		"culture": 2,
+		"happiness": 1,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Artist": 1},
+        "uniques": ["Only available <after adopting [Tradition]>","[+10]% [Food] [in all cities]", "[+15]% Production when constructing [Skirmish] units [in all cities]"],
+		"requiredTech": "Trapping",
+		"quote": "'It is not so much for its beauty that the forest makes a claim upon men's hearts, as for that subtle something, that quality of air, that emanation from old trees, that so wonderfully changes and renews a weary spirit.' - Robert Louis Stevenson"
+	},
+{
 		"name": "Circus",
 		"requiredNearbyImprovedResources": ["Ivory","Horses"],
 		"happiness": 2,

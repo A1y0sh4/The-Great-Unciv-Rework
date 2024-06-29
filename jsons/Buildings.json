@@ -496,6 +496,17 @@
 		"quote": "'The ancient Oracle said that I was the wisest of all the Greeks. It is because I alone, of all the Greeks, know that I know nothing' - Socrates"
 	},
 	{
+		"name": "Town Square",
+		"maintenance": 2,
+		"culture": 1,
+		"gold": 1,
+		"happiness": 1,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"uniques": ["Cultural Building","[-10]% Culture cost of natural border growth [in this city]","Destroyed when the city is captured"],
+		"requiredTech": "Drama and Poetry"
+	},
+{
 		"name": "Amphitheater",
 		"culture": 2,
 		"specialistSlots": {"Artist": 1},

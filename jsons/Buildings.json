@@ -148,6 +148,19 @@
 		"requiredTech": "Calendar"
 	},
 	{
+		"name": "Town Hall",
+		"maintenance": 2,
+		"happiness": 1,
+		"culture": 2,
+		"cityStrength": 2,
+		"specialistSlots": {"Governor": 1},
+		"uniques": ["Political Building",
+					"[-5]% Unhappiness from [Specialists] [in this city]",
+					"Destroyed when the city is captured"],
+		"hurryCostModifier": 40,
+		"requiredTech": "Writing"
+	},
+{
 		"name": "Library",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
@@ -735,19 +748,6 @@
 		"uniques": ["Must be next to [Jungle]", "[+50]% Golden Age length", "[+1 Culture] from [Jungle] tiles [in all cities]"],
 		"requiredTech": "Civil Service",
 		"quote": "'The katun is established at Chichen Itza. The settlement of the Itza shall take place there. The quetzal shall come, the green bird shall come. Ah Kantenal shall come. It is the word of God. The Itza shall come.' - The Books of Chilam Balam"
-	},
-	{
-			"name": "Town Hall",
-		"maintenance": 2,
-		"happiness": 1,
-		"culture": 2,
-		"cityStrength": 2,
-		"specialistSlots": {"Governor": 1},
-		"uniques": ["Political Building",
-					"[-5]% Unhappiness from [Specialists] [in this city]",
-					"Destroyed when the city is captured"],
-		"hurryCostModifier": 40,
-		"requiredTech": "Writing"
 	},
 	{
 		"name": "City Hall",

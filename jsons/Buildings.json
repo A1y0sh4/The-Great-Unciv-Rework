@@ -71,7 +71,37 @@
 		"hurryCostModifier": 25,
 	        "percentStatBonus": {"food": 10, "culture": 10},
 		"requiredTech": "Pottery"
-		
+	},
+	{
+		{
+		"name": "Pottery Workshop",
+		"maintenance": 1,
+		"production": 1,
+		"happiness": 1,
+		"hurryCostModifier": 5,
+		"uniques": ["Light Industry",
+			"[+2 Production] from [Clay] tiles [in this city]",
+			"[+1 Production] <in cities with a [Guild Complex]>"
+			],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Textile workshop",
+		"maintenance": 1,
+		"production": 1,
+		"happiness": 1,
+		"gold": 1,
+		"hurryCostModifier": 5,
+		"uniques": ["Light Industry",
+			"[+1 Production] from [Bovine] tiles [in this city]",
+			"[+1 Production] from [Caprinae] tiles [in this city]",
+			"[+1 Production] from [Cotton] tiles [in this city]",
+			"[+1 Gold] from [Furs] tiles [in this city]",
+			"[+1 Gold] from [Silk] tiles [in this city]",
+			"[+1 Production] <in cities with a [Guild Complex]>"
+			],
+		"requiredNearbyImprovedResources": ["Bovine","Caprinae","Furs","Cotton","Silk"],
+		"requiredTech": "Animal Husbandry"
 	},
 	{
 		"name": "Temple of Artemis",
@@ -262,6 +292,19 @@
 		"quote": "'The whole earth is the tomb of heroic men and their story is not given only on stone over their clay but abides everywhere without visible symbol woven into the stuff of other men's lives.' - Pericles"
 	},
 	{
+		"name": "Civilian Blacksmith",
+		"maintenance": 2,
+		"happiness": 1,
+		"percentStatBonus": {
+			"food": 5,
+			"production": 5},
+		"hurryCostModifier": 10,
+		"uniques": ["Light Industry",
+			"[+1 Production] from [Lumber Improvement] tiles [in this city] <after discovering [Construction]>",
+			"[+1 Food] from [Fishing Boats Improvement] tiles [in this city] <after discovering [Animal Husbandry]>","[+1 Production] <in cities with a [Guild Complex]>"],
+		"requiredTech": "Bronze Working"
+	},
+{
 		"name": "Barracks",
 		"hurryCostModifier": 25,
 		"maintenance": 1,

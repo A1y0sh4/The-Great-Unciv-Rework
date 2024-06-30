@@ -525,7 +525,7 @@
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
-		"uniques": ["[-33]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "Can be purchased with [Faith] [in all cities]", "Can remove other religions from cities <in [All] tiles> <once>", "Religious Unit"],
+		"uniques": ["[-33]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "Can be purchased with [Faith] [in all cities]", "Can remove other religions from cities <in [Friendly] tiles> <once>", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "Religious Unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},

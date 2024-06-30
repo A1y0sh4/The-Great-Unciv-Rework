@@ -665,7 +665,7 @@
 		"faith": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
-		"uniques": ["When spreading religion to a city, gain [10] times the amount of followers of other religions as [Culture]", "Gain a free [Temple] [in this city]", "Hidden when religion is disabled"],
+		"uniques": ["When spreading religion to a city, gain [5] times the amount of followers of other religions as [Culture]", "Gain a free [Temple] [in this city]", "Hidden when religion is disabled"],
 		"requiredTech": "Theology",
 		"quote": "'For it soars to a height to match the sky, and as if surging up from among the other buildings it stands on high and looks down upon the remainder of the city, adorning it, because it is a part of it, but glorying in its own beauty' - Procopius, De Aedificis"
 	},

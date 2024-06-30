@@ -361,7 +361,7 @@
 		"innerColor": [255, 191, 0],
 		
 		"uniqueName": "Patriarchate of Constantinople",
-		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion", "[+1 Faith] from every [Farm]"],
+		"uniques": ["Gain a free [Founder] belief <upon founding a Religion>", "[+1 Faith] from every [Farm]"],
 		"cities": ["Constantinople","Adrianople","Nicaea","Antioch","Varna","Ohrid","Nicomedia","Trebizond","Cherson","Sardica",
 			"Ani","Dyrrachium","Edessa","Chalcedon","Naissus","Bari","Iconium","Prilep","Samosata","Kars",
 			"Nicopolis","Theodosiopolis","Tyana","Gaza","Kerkyra","Phoenice","Selymbria","Sillyon","Chrysopolis","Vodena",

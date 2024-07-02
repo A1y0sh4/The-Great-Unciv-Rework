@@ -314,6 +314,7 @@
 		"upgradesTo": "Horseman",
 		"obsoleteTech": "Horseback Riding",
 		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "Ignores Zone of Control", "[-33]% Strength <vs cities> <when attacking>", "[+15]% Strength <when attacking>"],
+		"promotions": ["[Heavy Chariot] ability"],
 		"attackSound": "metalhit"
 	},
 	{

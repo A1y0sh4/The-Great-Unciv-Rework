@@ -829,7 +829,7 @@
     "name": "Napoleon",
     "production": 5,
     "food": 5,
-    "gold": 4,
+    "gold": 7,
     "science": 7,
     "culture": 8,
     "happiness": 4,
@@ -843,7 +843,7 @@
     "expansion": 6,
     "priorities": {
       "Tradition": 8,
-      "Liberty": 8,
+      "Liberty": 7,
       "Expansion": 10,
       "Commerce": 4,
       "Diplomacy": 7,

@@ -3,11 +3,11 @@
         "name": "Tradition",
         "era": "Ancient era",
         "priorities": {
-            "Neutral": 30,
-            "Cultural": 30,
-            "Diplomatic": 10,
-            "Domination": 30,
-            "Scientific": 30,
+            "Neutral": 0,
+            "Cultural": 10,
+            "Diplomatic": 0,
+            "Domination": 20,
+            "Scientific": 10,
 	    "Religious": 20
         },
         "uniques": [
@@ -68,12 +68,12 @@
         "name": "Liberty",
         "era": "Ancient era",
         "priorities": {
-            "Neutral": 30,
+            "Neutral": 10,
             "Cultural": 0,
-            "Diplomatic": 30,
-            "Domination": 20,
-            "Scientific": 30,
-	    "Religious": 10
+            "Diplomatic": 10,
+            "Domination": 0,
+            "Scientific": 10,
+	    "Religious": 0
         },
         "uniques": ["[+1 Culture] [in all cities]"],
         "policies": [
@@ -132,10 +132,10 @@
         "priorities": {
             "Neutral": 0,
             "Cultural": 0,
-            "Diplomatic": 20,
-            "Domination": 40,
-            "Scientific": 40,
-	    "Religious": 20
+            "Diplomatic": 0,
+            "Domination": 20,
+            "Scientific": 10,
+	    "Religious": 0
         },
         "uniques": [
                 "Notified of new Barbarian encampments", "Receive triple Gold from Barbarian encampments and pillaging Cities"
@@ -199,11 +199,11 @@
         "era": "Ancient era",
         "priorities": {
             "Neutral": 0,
-            "Cultural": 20,
-            "Diplomatic": 20,
-            "Domination": 20,
+            "Cultural": 0,
+            "Diplomatic": 0,
+            "Domination": 0,
             "Scientific": 0,
-	    "Religious": 40
+	    "Religious": 20
         },
         "uniques": [
             "Gain enough Faith for [50]% of a Great Prophet",
@@ -260,11 +260,11 @@
         "era": "Medieval era",
         "priorities": {
             "Neutral": 0,
-            "Cultural": 30,
-            "Diplomatic": 40,
+            "Cultural": 10,
+            "Diplomatic": 20,
             "Domination": 0,
-            "Scientific": 30,
-	    "Religious": 30
+            "Scientific": 10,
+	    "Religious": 0
         },
         "uniques": [,
                     "Empire enters golden age <with [33]% chance> <upon declaring friendship>"],
@@ -325,11 +325,11 @@
         "era": "Renaissance era",
         "priorities": {
             "Neutral": 0,
-            "Cultural": 30,
-            "Diplomatic": 40,
-            "Domination": 40,
-            "Scientific": 40,
-	    "Religious": 30
+            "Cultural": 10,
+            "Diplomatic": 20,
+            "Domination": 20,
+            "Scientific": 20,
+	    "Religious": 10
         },
         "uniques": ["[+10]% [Gold] [in capital]", "[+1 Production] [in all cities connected to capital]", "[+1 Production] [in all cities] <on foreign continents>"],
         "policies": [
@@ -384,10 +384,10 @@
         "era": "Renaissance era",
         "priorities": {
             "Neutral": 0,
-            "Cultural": 30,
-            "Diplomatic": 30,
-            "Domination": 20,
-            "Scientific": 50,
+            "Cultural": 20,
+            "Diplomatic": 20,
+            "Domination": 10,
+            "Scientific": 30,
 	    "Religious": 0
         },
         "uniques": [
@@ -446,12 +446,12 @@
         "name": "Individualism",
         "era": "Industrial era",
         "priorities": {
-            "Neutral": 50,
-            "Cultural": 50,
-            "Diplomatic": 30,
-            "Domination": 30,
-            "Scientific": 40,
-	    "Religious": 30
+            "Neutral": 30,
+            "Cultural": 30,
+            "Diplomatic": 20,
+            "Domination": 20,
+            "Scientific": 30,
+	    "Religious": 20
         },
         "uniques": [
             "[-15]% Culture cost of adopting new Policies",
@@ -510,11 +510,11 @@
         "era": "Industrial era",
         "priorities": {
             "Neutral": 50,
-            "Cultural": 30,
-            "Diplomatic": 30,
-            "Domination": 50,
-            "Scientific": 30,
-	    "Religious": 40
+            "Cultural": 0,
+            "Diplomatic": 10,
+            "Domination": 30,
+            "Scientific": 20,
+	    "Religious": 20
         },
         "uniques": [
             "[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
@@ -579,11 +579,11 @@
         "era": "Industrial era",
         "priorities": {
             "Neutral": 50,
-            "Cultural": 30,
-            "Diplomatic": 50,
-            "Domination": 30,
-            "Scientific": 40,
-	    "Religious": 30
+            "Cultural": 20,
+            "Diplomatic": 30,
+            "Domination": 20,
+            "Scientific": 30,
+	    "Religious": 20
         },
         "uniques": [
             "Influence of all other civilizations with all city-states degrades [15]% faster", "Triggers the following global alert: [Our influence with City-States has started dropping faster!]",

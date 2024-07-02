@@ -307,13 +307,13 @@
 		"uniqueTo": "The Hittites",
 		"replaces": "War Chariot",
 		"movement": 3,
-		"strength": 11,
+		"strength": 12,
 		"cost": 50,
 		"requiredTech": "The Wheel",
 		"requiredResource": "Horses",
 		"upgradesTo": "Horseman",
 		"obsoleteTech": "Horseback Riding",
-		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "[+20]% Strength <when attacking>"],
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "Ignores Zone of Control", "[-33]% Strength <vs cities> <when attacking>", "[+15]% Strength <when attacking>"],
 		"attackSound": "metalhit"
 	},
 	{

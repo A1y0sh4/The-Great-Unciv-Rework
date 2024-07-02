@@ -905,6 +905,10 @@
 	},
 	{
 		"name": "Epic Quest",
-		"uniques": ["This Unit gains [5] XP <upon defeating a [Barbarian] unit>"]
+		"uniques": ["This Unit gains [5] XP <upon defeating a [Barbarian] unit>"] 
+	},
+	{
+		"name": "[Heavy Chariot] ability",
+		"uniques": ["May capture killed [Water] units <with [75]% chance>"]
 	},
 ]

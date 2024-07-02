@@ -116,7 +116,7 @@
         "May buy [Swiss Guard] units with [Faith] for [2] times their normal Production cost",
 	"[Gold] cost of purchasing [Landsknecht] units [-75]%",
         "[-10]% Unhappiness from [Population] [in all cities] <during a Golden Age>",
-        "[-1] Sight <for [Embarked] units>", "[+10]% Culture cost of adopting new Policies", "Gifts of Gold to City-States generate [16]% more Influence", "[+100]% Production when constructing [Palace] buildings [in all cities]", "[2] free [Heavy Chariot] units appear <for [The Hittites]> <for [AI player]> <upon discovering [The Wheel] technology>"]
+        "[-1] Sight <for [Embarked] units>", "[+10]% Culture cost of adopting new Policies", "Gifts of Gold to City-States generate [16]% more Influence", "[+100]% Production when constructing [Palace] buildings [in all cities]", "[1] free [Heavy Chariot] units appear <for [The Hittites]> <for [AI player]> <upon discovering [The Wheel] technology>", "[1] free [Heavy Chariot] units appear <for [The Hittites]> <for [AI player]> <upon discovering [Horseback Riding] technology>"]
     
         // TODO: Implement the uniques below
         // "[+20]% [Culture] [in all cities] <during a golden age>",

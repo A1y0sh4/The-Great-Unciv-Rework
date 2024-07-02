@@ -909,6 +909,6 @@
 	},
 	{
 		"name": "[Heavy Chariot] ability",
-		"uniques": ["May capture killed [Water] units <with [75]% chance>"]
+		"uniques": ["[+15]% Strength <when attacking>"]
 	},
 ]

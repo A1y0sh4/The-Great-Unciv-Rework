@@ -296,7 +296,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 1},
-		"uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>", "[1] free [Spearman] units appear"],
+		"uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>", "Gain a free [Barracks] [in this city]", "[1] free [Spearman] units appear", "[+10]% Production when constructing [Military] units [in this city]"],
 		"requiredTech": "Bronze Working",
 		"quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad"
 		// "Requires [Honor]" in BNW

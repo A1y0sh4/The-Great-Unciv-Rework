@@ -76,7 +76,7 @@
 	{
 		"name": "Temple of Artemis",
 		"culture": 1,
-		"happiness": 2,
+		"happiness": 3,
 		"requiredNearbyImprovedResources": ["Deer", "Ivory", "Truffles", "Furs"],
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},

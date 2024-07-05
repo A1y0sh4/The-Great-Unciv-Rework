@@ -274,6 +274,7 @@
 		"replaces": "Barracks",
 		"uniqueTo": "Russia",
 		"hurryCostModifier": 25,
+		"cost": 45,
 		"maintenance": 1,
 		"cityStrength": 3,
 		"greatPersonPoints": {"Great General": 1},

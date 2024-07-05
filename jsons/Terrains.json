@@ -503,7 +503,7 @@
 		"occursOn": ["Tundra"],
 		"uniques": ["Must be adjacent to [2] to [6] [Tundra] tiles",
 			"Must be adjacent to [1] to [4] [Hill] tiles",
-			"Must be adjacent to [1] to [3] [Mountain] tiles", "Tile provides yield without assigned population", "Grants [Blessing of the Idols] ([Gain Faith upon killing a unit or upon being killed]) to adjacent [{Military} {Land}] units for the rest of the game"],
+			"Must be adjacent to [1] to [3] [Mountain] tiles", "Tile provides yield without assigned population", "Grants [Blessing of the Idols] ([Gain Faith and Health upon killing a unit]) to adjacent [{Military} {Land}] units for the rest of the game"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,

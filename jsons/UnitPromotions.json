@@ -237,7 +237,7 @@
 	{
 		"name": "Survivalism II",
 		"prerequisites": ["Survivalism I"],
-		"uniques": ["[+25]% Strength <when fighting in [Rough terrain] tiles>", "May withdraw before melee ([25]%)"],
+		"uniques": ["[+25]% Strength <when fighting in [Rough terrain] tiles>", "Withdraws before melee combat <with [25]% chance>"],
 		"unitTypes": ["Scout"],
         "column": 9,
         "row": 2
@@ -640,7 +640,7 @@
 	{
 		"name": "Improved Agility",
 		"prerequisites": ["Drone Support II", "Integrated Laser Cannon II", "Enhanced Mobility II"],
-		"uniques": ["[1] additional attacks per turn", "May withdraw before melee ([25]%)"],
+		"uniques": ["[1] additional attacks per turn", "Withdraws before melee combat <with [25]% chance>"],
 		"unitTypes": ["Mech"],
         "column": 30,
         "row": 3
@@ -788,7 +788,7 @@
 	},
 	{
 		"name": "Slinger Withdraw", // only for Slinger and subsequent upgrades
-		"uniques": ["May withdraw before melee ([50]%)", "Can move after attacking"]
+		"uniques": ["Withdraws before melee combat <with [50]% chance>", "Can move after attacking"]
 	},
 	{
 		"name": "Pictish Courage", // only for Pictish Warrior and subsequent upgrades

@@ -503,7 +503,7 @@
 		"occursOn": ["Tundra"],
 		"uniques": ["Must be adjacent to [2] to [6] [Tundra] tiles",
 			"Must be adjacent to [1] to [4] [Hill] tiles",
-			"Must be adjacent to [1] to [3] [Mountain] tiles", "Tile provides yield without assigned population", "Grants [+33 Gold] to the first civilization to discover it <on [Blitz] game speed>", "Grants [+50 Gold] to the first civilization to discover it <on [Online] game speed>", "Grants [+67 Gold] to the first civilization to discover it <on [Quick] game speed>", "Grants [+100 Gold] to the first civilization to discover it <on [Standard] game speed>", "Grants [+150 Gold] to the first civilization to discover it <on [Epic] game speed>", "Grants [+300 Gold] to the first civilization to discover it <on [Marathon] game speed>", "Grants [+450 Gold] to the first civilization to discover it <on [Endless] game speed>"],
+			"Must be adjacent to [1] to [3] [Mountain] tiles", "Tile provides yield without assigned population", "Grants [Blessing of the Idols] ([Gain Faith upon killing a unit or upon being killed]) to adjacent [{Military} {Land}] units for the rest of the game"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,

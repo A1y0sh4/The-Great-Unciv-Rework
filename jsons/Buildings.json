@@ -407,11 +407,12 @@
 		"name": "Veche",
 		"replaces": "Colosseum",
 		"cost": 75,
+		"greatPersonPoints": {"Great Merchant": 1},
 		"happiness": 2,
+		"culture": 2,
 		"uniqueTo": "Kievan Rus'",
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Gold] per [2] social policies adopted", "Destroyed when the city is captured"],
-		"maintenance": 0,
+		"maintenance": 2,
 		"requiredTech": "Construction"
 	},
         {

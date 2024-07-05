@@ -792,7 +792,7 @@
 	},
 	{
 		"name": "Pictish Courage", // only for Pictish Warrior and subsequent upgrades
-		"uniques": ["Damage is ignored when determining unit Strength", "No movement cost to pillage"]
+		"uniques": ["No damage penalty for wounded units", "No movement cost to pillage"]
 	},
 	{
 		"name": "Home Sweet Home", // only for Mehal Sefari and subsequent upgrades

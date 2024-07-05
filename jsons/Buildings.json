@@ -296,7 +296,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 1},
-		"uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>", "Gain a free [Barracks] [in this city]", "[1] free [Spearman] units appear", "[+10]% Production when constructing [Military] units [in this city]"],
+		"uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>", "Gain a free [Barracks] [in this city]", "[1] free [Spearman] units appear", "[+15]% Production when constructing [Military] units [in this city]"],
 		"requiredTech": "Bronze Working",
 		"quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad"
 		// "Requires [Honor]" in BNW
@@ -891,18 +891,6 @@
 		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "[+1 Food, +1 Production] from [Desert] tiles [in this city]", "Destroyed when the city is captured", "Obsolete with [Rifling]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>"],
 		"requiredTech": "Chivalry"
 	},
-{
-		"name": "Barbican",
-		"cost": 145,
-		"replaces": "Castle",
-		"uniqueTo": "Poland",
-		"cityStrength": 8,
-		"cityHealth": 50,
-		"hurryCostModifier": 25,
-		"requiredBuilding": "Walls",
-		"uniques": ["All newly-trained [relevant] units [in this city] receive the [Cover I] promotion", "[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured", "Obsolete with [Rifling]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>"],
-		"requiredTech": "Chivalry"
-	},
 	{
 		"name": "Alhambra",
 		"culture": 1,
@@ -953,6 +941,20 @@
 		"greatPersonPoints": {"Great General": 1},
 		"uniques": ["New [{Land} {Military}] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Metal Casting"
+	},
+        {
+		"name": "Barbican",
+		"replaces": "Armory",
+		"uniqueTo": "Poland",
+		"cityStrength": 3,
+		"cityHealth": 25,
+		"culture": 1,
+		"production": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Barracks",
+		"uniques": ["New [{Land} {Military}] units start with [15] Experience [in this city]", "[+10]% Production when constructing [{Land} {Military}] units [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Chivalry"
 	},
 
 	// Renaissance Era

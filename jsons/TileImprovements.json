@@ -381,7 +381,7 @@
 	{
 		"name": "City ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["[-2 Food] <in [Grassland] tiles> <in tiles without [Hill]>", "[-1 Food, -1 Production] <in [Plains] tiles> <in tiles without [Hill]>", "[-2 Production] <in [Hill] tiles>", "Gives a defensive bonus of [15]%", "Unpillagable", "Unbuildable"],
+		"uniques": ["[-2 Food] <in [Grassland] tiles> <in tiles without [Hill]>", "[-1 Food, -1 Production] <in [Plains] tiles> <in tiles without [Hill]>", "[-2 Production] <in [Hill] tiles>", "Gives a defensive bonus of [15]%", "Unpillagable", "Unbuildable", "Tile provides yield without assigned population"],
         "civilopediaText": [{"text":"A bleak reminder of the destruction wreaked by War"}]
 	},
 	{

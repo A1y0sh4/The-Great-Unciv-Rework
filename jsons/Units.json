@@ -1189,10 +1189,10 @@
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 24,
-		"cost": 175,
+		"cost": 185,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+33]% Strength <when attacking>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+50]% Strength <when attacking>"],
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
 		"attackSound": "horse"

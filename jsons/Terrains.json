@@ -432,7 +432,7 @@
 		"unbuildable": true,
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [4] to [6] [Jungle] tiles",
-			"Only [All Road] improvements may be built on this tile", "Tile provides yield without assigned population", "Grants [+66 Gold] to the first civilization to discover it <on [Blitz] game speed>", "Grants [+100 Gold] to the first civilization to discover it <on [Online] game speed>", "Grants [+133 Gold] to the first civilization to discover it <on [Quick] game speed>", "Grants [+200 Gold] to the first civilization to discover it <on [Standard] game speed>", "Grants [+300 Gold] to the first civilization to discover it <on [Epic] game speed>", "Grants [+600 Gold] to the first civilization to discover it <on [Marathon] game speed>", "Grants [+900 Gold] to the first civilization to discover it <on [Endless] game speed>"],
+			"Only [All Road] improvements may be built on this tile", "Tile provides yield without assigned population", "Grants [+100 Gold] to the first civilization to discover it"],
 		"weight": 10
 	},
 	{
@@ -623,7 +623,7 @@
 		"name": "Rock of Gibraltar",
 		"type": "NaturalWonder",
 		"gold": 3,
-		"production": 1,
+		"production": 2,
 		"culture": 1,
 		"food": -2,
 		"occursOn": ["Grassland"],

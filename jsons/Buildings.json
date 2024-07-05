@@ -946,6 +946,7 @@
 		"name": "Barbican",
 		"replaces": "Armory",
 		"uniqueTo": "Poland",
+		"cost": 110,
 		"cityStrength": 3,
 		"cityHealth": 25,
 		"culture": 1,

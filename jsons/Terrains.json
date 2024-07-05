@@ -302,7 +302,7 @@
 		"movementCost": 1,
 		"food": 1,
 		"production": 1,
-		"defenceBonus": 0.1,
+		"defenceBonus": 0.15,
 		"occursOn": ["Coast"],
 		"uniques": ["Rare feature"]
 	},
@@ -312,7 +312,7 @@
 		"movementCost": 2,
 		"production": 1,
 		"science": 1,
-		"defenceBonus": 0.1,
+		"defenceBonus": 0.15,
 		"occursOn": ["Coast"],
 		"uniques": ["Rare feature", "Occurs on latitudes from [0] to [70] percent of distance equator to pole",
 			"Occurs in groups of [1] to [2] tiles"]
@@ -629,7 +629,7 @@
 		"occursOn": ["Grassland"],
 		"uniques": ["[+5] Strength for cities built on this terrain", "Must be adjacent to [1] to [5] [Coast] tiles",
 			"Must be adjacent to [1] [Mountain] tiles",
-			"Neighboring tiles except [Mountain] will convert to [Coast]", "Tile provides yield without assigned population", "Grants [+33 Gold] to the first civilization to discover it <on [Blitz] game speed>", "Grants [+50 Gold] to the first civilization to discover it <on [Online] game speed>", "Grants [+67 Gold] to the first civilization to discover it <on [Quick] game speed>", "Grants [+100 Gold] to the first civilization to discover it <on [Standard] game speed>", "Grants [+150 Gold] to the first civilization to discover it <on [Epic] game speed>", "Grants [+300 Gold] to the first civilization to discover it <on [Marathon] game speed>", "Grants [+450 Gold] to the first civilization to discover it <on [Endless] game speed>", "Occurs on latitudes from [10] to [25] percent of distance equator to pole"],
+			"Neighboring tiles except [Mountain] will convert to [Coast]", "Tile provides yield without assigned population", "Occurs on latitudes from [10] to [25] percent of distance equator to pole"],
 		"turnsInto": "Grassland",
 		"defenceBonus": 0.25,
 		"impassable": false,

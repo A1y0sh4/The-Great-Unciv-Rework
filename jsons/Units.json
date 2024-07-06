@@ -769,13 +769,13 @@
 		"replaces": "Knight",
 		"uniqueTo": "Arabia",
 		"movement": 4,
-		"strength": 21,
+		"strength": 20,
 		"cost": 110,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Unit will heal every turn, even if it performs an action"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Unit will heal every turn, even if it performs an action"],
 		"attackSound": "arrow"
 	},
 	{

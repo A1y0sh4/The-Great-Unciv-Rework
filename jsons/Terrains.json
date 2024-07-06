@@ -453,7 +453,7 @@
 	{
 		"name": "Perito Moreno",
 		"type": "NaturalWonder",
-		"science": 2,
+		"science": 3,
 		"culture": 1,
 		"gold": 2,
 		"occursOn": ["Snow"],
@@ -461,7 +461,7 @@
 		"impassable": true,
 		"unbuildable": true,
 		"uniques": ["Fresh water", "Must be adjacent to [1] to [3] [Mountain] tiles", "Must be adjacent to [1] to [3] [Coast] tiles",
-			"Tile provides yield without assigned population"],
+			"Tile provides yield without assigned population", "Grants [+1 Happiness] to the first civilization to discover it"],
 		"weight": 10
 	},
 	{
@@ -488,7 +488,7 @@
 		"occursOn": ["Desert"],
 		"uniques": ["Must be adjacent to [6] [Desert] tiles",
 			"Must be adjacent to [1] to [4] [Hill] tiles",
-			"Must be adjacent to [0] to [2] [Mountain] tiles", "Tile provides yield without assigned population"],
+			"Must be adjacent to [0] to [2] [Mountain] tiles", "Tile provides yield without assigned population", "Grants [Mobility] ([+1 Movement]) to adjacent [Civilian] units for the rest of the game"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
@@ -593,14 +593,14 @@
 		"type": "NaturalWonder",
 		"culture": 2,
 		"faith": 1,
-		"food": 2,
+		"food": 3,
 		"occursOn": ["Tundra"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] [Desert] tiles",
 			"Must be adjacent to [0] [Mountain] tiles",
 			"Must be adjacent to [0] [Marsh] tiles",
 			"Must be adjacent to [0] to [2] [Hill] tiles",
-			"Must not be on [1] largest landmasses", "Tile provides yield without assigned population"],
+			"Must not be on [1] largest landmasses", "Tile provides yield without assigned population", "Grants [+10 Culture] to the first civilization to discover it"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
@@ -798,7 +798,7 @@
 		"turnsInto": "Plains",
 		"impassable": true,
 		"unbuildable": true,
-		"uniques": ["Fresh water", "Must be adjacent to [0] [Coast] tiles", "Tile provides yield without assigned population"],
+		"uniques": ["Fresh water", "Must be adjacent to [0] [Coast] tiles", "Tile provides yield without assigned population", "Grants [Civilized] ([Stronger against Barbarians]) to adjacent [{Military} {Land}] units for the rest of the game"],
 		"weight": 10
 	},
 	{

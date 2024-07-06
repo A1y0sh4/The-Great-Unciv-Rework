@@ -640,7 +640,7 @@
 		"name": "Ha Long Bay",
 		"type": "NaturalWonder",
 		"production": 1,
-		"food": 1,
+		"food": 2,
 		"culture": 2,
 		"occursOn": ["Coast"],
 		"uniques": ["Must be adjacent to [2] to [4] [Water] tiles",

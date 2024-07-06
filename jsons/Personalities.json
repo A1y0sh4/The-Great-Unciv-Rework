@@ -639,16 +639,16 @@
     "loyal": 5,
     "expansion": 7,
     "priorities": {
-      "Tradition": 6,
-      "Liberty": 5,
+      "Tradition": 5,
+      "Liberty": 7,
       "Expansion": 6,
       "Commerce": 9,
       "Diplomacy": 4,
       "Piety": 10,
       "Rationalism": 8,
-      "Individualism": 6,
+      "Individualism": 5,
       "Nationalism": 3,
-      "Internationalism": 5
+      "Internationalism": 4
     }
   },
   {

@@ -624,9 +624,9 @@
   },
   {
     "name": "Harun al-Rashid",
-    "production": 5,
+    "production": 7,
     "food": 5,
-    "gold": 8,
+    "gold": 9,
     "science": 7,
     "culture": 6,
     "happiness": 6,
@@ -646,9 +646,9 @@
       "Diplomacy": 4,
       "Piety": 10,
       "Rationalism": 8,
-      "Individualism": 7,
+      "Individualism": 6,
       "Nationalism": 3,
-      "Internationalism": 6
+      "Internationalism": 5
     }
   },
   {

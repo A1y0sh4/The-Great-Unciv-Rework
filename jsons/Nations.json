@@ -76,7 +76,7 @@
 		"innerColor": [146,221,9],
 		
 		"uniqueName": "Trade Caravans",
-		"uniques": ["[+25]% Natural religion spread [in all cities connected to capital]", "[+1 Faith, +1 Science] [in all cities connected to capital]", "[+1 Food] from [Fresh Water] tiles [in all cities] <in [Desert] tiles>"],
+		"uniques": ["[+25]% Natural religion spread [in all cities connected to capital]", "[+1 Faith, +2 Science] [in all cities connected to capital]", "[+1 Food] from [Fresh Water] tiles [in all cities] <in [Desert] tiles>"],
 		"cities": ["Medina","Mecca","Damascus","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat",
 			"Aden","Yamama","Muscat","Mansura","Bukhara","Shiraz","Merw","Balkh","Mosul",
 			"Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr","Tripoli","Tunis","Kairouan","Algiers","Oran"],

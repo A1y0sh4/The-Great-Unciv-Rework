@@ -913,6 +913,10 @@
 	},
 	{
 		"name": "Blessing of the Idols",
-		"uniques": ["Gain [15] [Faith] <upon defeating a [Military] unit>", "Heals [15] damage if it kills a unit"]
+		"uniques": ["Gain [15] [Faith] <upon defeating a [Military] unit>", "Heals [15] damage if it kills a unit"] 
+	},
+	{
+		"name": "Civilized",
+		"uniques": ["[+20]% Strength <vs [Barbarian] units>"]
 	},
 ]

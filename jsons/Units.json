@@ -775,7 +775,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Unit will heal every turn, even if it performs an action", "Free [Mamluk] appears <upon conquering a city> <with [50]% chance>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing <in [Oasis] tiles>", "Free [Mamluk] appears <upon conquering a city> <with [67]% chance>"],
 		"attackSound": "arrow"
 	},
 	{

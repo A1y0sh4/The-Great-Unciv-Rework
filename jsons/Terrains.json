@@ -674,7 +674,7 @@
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] [Grassland] tiles",
 			"Must be adjacent to [0] to [1] [Mountain] tiles",
-			"Must be adjacent to [2] to [4] [Elevated] tiles", "Tile provides yield without assigned population"],
+			"Must be adjacent to [2] to [4] [Elevated] tiles", "Tile provides yield without assigned population", "Grants [+30 Gold, +20 Science] to the first civilization to discover it"],
 		"turnsInto": "Desert",
 		"impassable": true,
 		"unbuildable": true,

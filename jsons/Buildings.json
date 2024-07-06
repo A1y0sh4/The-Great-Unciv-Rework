@@ -554,7 +554,7 @@
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
-			"[+1 Gold] from [Resource] tiles [in this city]", "[+1 Gold, +2 Food] from [Oasis] tiles [in this city]"],
+			"[+1 Gold] from [Resource] tiles [in this city]", "[+5]% [Gold] from Trade Routes"],
 		"requiredTech": "Currency"
 	},
 	{

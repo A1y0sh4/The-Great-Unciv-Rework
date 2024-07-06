@@ -592,9 +592,8 @@
 		"name": "Great Zimbabwe",
 		"culture": 1,
 		"isWonder": true,
-		"requiredNearbyImprovedResources": ["Gold Ore","Silver","Gems","Ivory"],
 		"greatPersonPoints": {"Great Merchant": 1},
-		"uniques": ["Must be on [Hill]", "[+1 Gold] from [Resource] tiles [in this city]"],
+		"uniques": ["Must be on [Hill]", "[+1 Gold] from [Resource] tiles [in this city]", "Gain a free [Market] [in this city]"],
 		"requiredTech": "Currency",
 		"quote": "'Among the gold mines of the inland plains between the Limpopo and Zambezi rivers there is a fortress built of stones of marvelous size, and there appears to be no mortar joining them ... This edifice is almost surrounded by hills, upon which are others resembling it in the fashioning of stone and the absence of mortar, and one of them is a tower more than 12 fathoms high.\nThe natives of the country call these edifices Symbaoe, which according to their language signifies court.' - Vicente Pegado"
 	},

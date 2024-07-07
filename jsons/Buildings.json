@@ -418,14 +418,11 @@
 	},
         {
 		"name": "Royal Palace", 
-		"replaces": "Colosseum",
+		"replaces": "Garden",
 		"uniqueTo": "Assyria",
-		"happiness": 2,
-		"culture": 1,
-		"science": 1,
 		"cost": 75,
-		"uniques": ["Destroyed when the city is captured"],
-		"requiredTech": "Mathematics"
+		"uniques": ["[+33]% Great Person generation [in this city]", "[+2 Science, +2 Culture] [in this city] <during We Love The King Day>", "[+2 Science, +2 Culture] [in this city] <during a Golden Age>"],
+		"requiredTech": "Construction"
 	},
 	{
 		"name": "Terracotta Army",

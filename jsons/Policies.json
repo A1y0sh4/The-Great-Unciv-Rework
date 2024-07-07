@@ -297,7 +297,7 @@
             {
                 "name": "Counter Intelligence",
                 "uniques": [
-                    "[-25]% enemy spy effectiveness [in all cities]", "[-25]% enemy spy effectiveness [in all cities with a garrison]"
+                    "[-15]% enemy spy effectiveness [in all cities]", "[-15]% enemy spy effectiveness [in all cities with a garrison]"
                 ],
                 "requires": ["Machiavellianism"],
                 "row": 3,
@@ -552,7 +552,7 @@
                 "name": "Police State",
                 "uniques": [
                     "[+3 Happiness] from every [Courthouse]",
-                    "[+100]% Production when constructing [Courthouse] buildings [in all cities]", "[-25]% enemy spy effectiveness [in all cities]"
+                    "[+100]% Production when constructing [Courthouse] buildings [in all cities]"
                 ],
                 "requires": ["Militarism"],
                 "row": 2,

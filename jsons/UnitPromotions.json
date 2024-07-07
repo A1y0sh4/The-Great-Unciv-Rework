@@ -921,6 +921,6 @@
 	},
 	{
 		"name": "Organized Warfare",
-		"uniques": ["Can move after attacking", "Ignores Zone of Control", "[+25]% to Flank Attack bonuses"],
+		"uniques": ["Can move after attacking", "Ignores Zone of Control"],
 	},
 ]

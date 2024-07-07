@@ -421,8 +421,10 @@
 		"replaces": "Garden",
 		"uniqueTo": "Assyria",
 		"cost": 75,
+		"science": 1,
+		"culture": 1,
 		"maintenance": 1,
-		"uniques": ["[+33]% Great Person generation [in this city]", "[+2 Science, +1 Culture] [in all cities with a world wonder]"],
+		"uniques": ["[+33]% Great Person generation [in this city]"],
 		"requiredTech": "Construction"
 	},
 	{

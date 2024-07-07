@@ -421,7 +421,8 @@
 		"replaces": "Garden",
 		"uniqueTo": "Assyria",
 		"cost": 75,
-		"uniques": ["[+33]% Great Person generation [in this city]", "[+2 Science, +2 Culture] [in this city] <during We Love The King Day>", "[+2 Science, +2 Culture] [in this city] <during a Golden Age>"],
+		"maintenance": 1,
+		"uniques": ["[+33]% Great Person generation [in this city]", "[+2 Science, +1 Culture] [in this city] <when at war>"],
 		"requiredTech": "Construction"
 	},
 	{

@@ -447,7 +447,7 @@
 		"impassable": true,
 		"unbuildable": true,
 		"uniques": ["Fresh water", "Must be adjacent to [0] [Coast] tiles",
-			"Must be adjacent to [4] to [6] [Jungle] tiles",
+			"Must be adjacent to [3] to [6] [Jungle] tiles",
 			"Tile provides yield without assigned population", "Grants [+30 Science, +20 Faith] to the first civilization to discover it"],
 		"weight": 10
 	},

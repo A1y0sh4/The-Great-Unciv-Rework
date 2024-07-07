@@ -869,7 +869,7 @@
 	},
 	{
 		"name": "Guerrilla Tactics",
-		"uniques": ["Ignores terrain cost <in [Friendly Land] tiles>", "Ignores Zone of Control <in [Friendly Land] tiles>", "Can move after attacking"]
+		"uniques": ["Ignores terrain cost <in [Friendly Land] tiles>", "Ignores Zone of Control <in [Friendly Land] tiles>", "Can move after attacking", "[+10]% Strength <in [Friendly Land] tiles>"]
 	},
 	{
 		"name": "Buffalo Horns I", // only for Ikanda
@@ -917,6 +917,10 @@
 	},
 	{
 		"name": "Civilized",
-		"uniques": ["[+20]% Strength <vs [Barbarian] units>"]
+		"uniques": ["[+20]% Strength <vs [Barbarian] units>"] 
+	},
+	{
+		"name": "Organized Warfare",
+		"uniques": ["Can move after attacking", "Ignores Zone of Control", "[+25]% to Flank Attack bonuses"],
 	},
 ]

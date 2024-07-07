@@ -422,7 +422,7 @@
 		"uniqueTo": "Assyria",
 		"cost": 75,
 		"maintenance": 1,
-		"uniques": ["[+33]% Great Person generation [in this city]", "[+2 Science, +1 Culture] [in this city] <when at war>"],
+		"uniques": ["[+33]% Great Person generation [in this city]", "[+3 Science, +1 Culture] [in this city] <when at war>"],
 		"requiredTech": "Construction"
 	},
 	{

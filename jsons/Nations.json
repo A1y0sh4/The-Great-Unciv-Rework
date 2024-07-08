@@ -2414,8 +2414,8 @@
 		"cities": ["Muscat"]
 	},
 	{
-		"name": "Vilnius",
-		"adjective": ["Lithuanian"],
+		"name": "Riga",
+		"adjective": ["Latvian"],
 		"cityStateType": "Maritime",
 		"startBias": ["Coast"],
 		
@@ -2424,7 +2424,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [120,150,250],
-		"cities": ["Vilnius"]
+		"cities": ["Riga"]
 	},
 	{
 		"name": "Knossos",
@@ -3093,17 +3093,17 @@
 		"cities": ["Hunkpapa"]
 	},
 	 {
-		"name": "Rapa Nui",
-		"adjective": ["Rapa Nui"],
+		"name": "Cherdyn",
+		"adjective": ["Permian"],
 		"cityStateType": "Religious",
-		"startBias": ["Coast"],
+		"startBias": ["Tundra"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps now we will find peace in death...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [204,102,255],
-		"cities": ["Rapa Nui"]
+		"cities": ["Cherdyn"]
 	},
 	 {
 		"name": "Bagan",

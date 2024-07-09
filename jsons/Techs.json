@@ -390,6 +390,7 @@
 				"name": "Fertilizer",
 				"row": 10,
 				"prerequisites": ["Chemistry"],
+				"uniques": ["[+1 Food] from every [Lake]"],
 				"quote": "'The nation that destroys its soil destroys itself.' - Franklin Delano Roosevelt"
 			}
 		]

@@ -1101,10 +1101,10 @@
     "commerce": 4,
     "diplomacy": 6,
     "loyal": 8,
-    "expansion": 5,
+    "expansion": 3,
     "priorities": {
-      "Tradition": 5,
-      "Liberty": 5,
+      "Tradition": 7,
+      "Liberty": 3,
       "Expansion": 4,
       "Commerce": 5,
       "Diplomacy": 4,

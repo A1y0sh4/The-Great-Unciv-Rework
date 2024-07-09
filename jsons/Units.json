@@ -790,11 +790,9 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city <on foreign continents>", "[+2] Sight"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Founds a new city <on foreign continents> <once> <for [1] movement>", "[+1] Sight"],
 		"promotions": ["[Conquistador] ability"],
 		"attackSound": "horse"
-		//Conquistador should have no penalty attacking cities
-		//Ability to found new cities can only be used on a foreign continent that does not contain the Spanish capital.
 	},
 	{
 		"name": "Naresuan's Elephant",

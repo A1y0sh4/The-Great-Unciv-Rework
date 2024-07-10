@@ -267,7 +267,7 @@
 	    "Religious": 0
         },
         "uniques": [,
-                    "Empire enters golden age <with [33]% chance> <upon declaring friendship>"],
+                    "Empire enters golden age <with [33]% chance> <upon declaring friendship>", "Empire enters golden age <with [33]% chance> <upon declaring a defensive pact>"],
         "policies": [
             {
                 "name": "Mercenary Opportunism",

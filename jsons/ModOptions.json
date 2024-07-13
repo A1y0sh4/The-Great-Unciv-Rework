@@ -12,5 +12,6 @@
     "riverCountMultiplier": 0.02,
     "cityStrengthFromGarrison": 0.25,
     "maxSpyRank": 5,
+    "spyRankSkillPercentBonus": 25,
   }
 }

@@ -1532,6 +1532,19 @@
 		"uniques": ["[+50]% Production when constructing [National Wonder] buildings [in this city]"],
 		"requiredTech": "Robotics"
 	},
+        {
+        "name": "National Intelligence Agency",
+        "cost": 100,
+        "culture": 1,
+        "isNationalWonder": true,
+        "uniques": ["Hidden when espionage is disabled",
+            "New spies start with [1] level(s)",
+            "Promotes all spies [1] time(s)",
+            "Gain an extra spy",
+			"Only available <if [Military Base] is constructed in all [non-[Puppeted]] cities>",
+			"Cost increases by [25] per owned city"],
+        "requiredTech": "Advanced Espionage"
+    },
 	// Column 16
 	{
 		"name": "Air Defense System",

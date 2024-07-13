@@ -16,6 +16,6 @@
     "minimumWarDuration": 6,
     "ancientRuinCountMultiplier": 0.033,
     "minRiverLength": 3,
-    "maxRiverLength": 12,
+    "maxRiverLength": 21,
   }
 }

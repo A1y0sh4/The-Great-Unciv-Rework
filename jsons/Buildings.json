@@ -1414,7 +1414,7 @@
 		"isWonder": true,
 		"culture": 1,
 		"greatPersonPoints": {"Great General": 2},
-		"uniques": ["[-33]% Gold cost of upgrading <for [Military] units>", "Promotes all spies [1] time(s)", "[-15]% enemy spy effectiveness [in all cities]"],
+		"uniques": ["[-33]% Gold cost of upgrading <for [Military] units>","Promotes all spies [1] time(s)", "New spies start with [1] level(s)"],
 		"requiredTech": "Combined Arms",
 		"quote": "'In preparing for battle I have always found that plans are useless, but planning is indispensable.' - Dwight D. Eisenhower"
 	},

@@ -1536,6 +1536,7 @@
         "name": "National Intelligence Agency",
         "cost": 100,
         "culture": 1,
+	"greatPersonPoints": {"Great Scientist": 1},
         "isNationalWonder": true,
         "uniques": ["Hidden when espionage is disabled",
             "New spies start with [1] level(s)",

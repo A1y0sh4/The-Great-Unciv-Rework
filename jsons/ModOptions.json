@@ -11,7 +11,7 @@
     "naturalWonderCountAddedConstant": 3,
     "riverCountMultiplier": 0.033,
     "cityStrengthFromGarrison": 0.33,
-    "maxSpyRank": 5,
+    "maxSpyRank": 6,
     "spyRankSkillPercentBonus": 25,
     "minimumWarDuration": 6,
     "ancientRuinCountMultiplier": 0.033,

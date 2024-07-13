@@ -297,7 +297,7 @@
             {
                 "name": "Counter Intelligence",
                 "uniques": [
-                    "[-15]% enemy spy effectiveness [in all cities]", "[-15]% enemy spy effectiveness [in all cities with a garrison]"
+                    "[-25]% enemy spy effectiveness [in all cities]"
                 ],
                 "requires": ["Machiavellianism"],
                 "row": 3,

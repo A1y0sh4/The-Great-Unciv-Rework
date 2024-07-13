@@ -9,12 +9,12 @@
   "constants":
   {
     "naturalWonderCountAddedConstant": 3,
-    "riverCountMultiplier": 0.033,
-    "cityStrengthFromGarrison": 0.33,
+    "riverCountMultiplier": 0.0334,
+    "cityStrengthFromGarrison": 0.334,
     "maxSpyRank": 6,
     "spyRankSkillPercentBonus": 25,
     "minimumWarDuration": 6,
-    "ancientRuinCountMultiplier": 0.033,
+    "ancientRuinCountMultiplier": 0.0334,
     "minRiverLength": 3,
     "maxRiverLength": 21,
   }

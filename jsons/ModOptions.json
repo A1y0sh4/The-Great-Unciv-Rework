@@ -14,5 +14,6 @@
     "maxSpyRank": 5,
     "spyRankSkillPercentBonus": 25,
     "minimumWarDuration": 6,
+    "ancientRuinCountMultiplier": 0.033
   }
 }

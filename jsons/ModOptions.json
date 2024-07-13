@@ -13,5 +13,6 @@
     "cityStrengthFromGarrison": 0.25,
     "maxSpyRank": 5,
     "spyRankSkillPercentBonus": 25,
+    "minimumWarDuration": 6,
   }
 }

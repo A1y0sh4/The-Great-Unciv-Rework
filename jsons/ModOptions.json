@@ -8,7 +8,8 @@
   
   "constants":
   {
-    "naturalWonderCountAddedConstant":3,
-    "riverCountMultiplier": 0.02
+    "naturalWonderCountAddedConstant": 3,
+    "riverCountMultiplier": 0.02,
+    "cityStrengthFromGarrison": 0.025,
   }
 }

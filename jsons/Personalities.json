@@ -1277,16 +1277,16 @@
     "loyal": 4,
     "expansion": 6,
     "priorities": {
-      "Tradition": 6,
-      "Liberty": 6,
-      "Expansion": 7,
+      "Tradition": 3,
+      "Liberty": 3,
+      "Expansion": 6,
       "Commerce": 5,
       "Diplomacy": 10,
-      "Piety": 6,
-      "Rationalism": 9,
-      "Individualism": 7,
-      "Nationalism": 7,
-      "Internationalism": 7
+      "Piety": 2,
+      "Rationalism": 7,
+      "Individualism": 3,
+      "Nationalism": 5,
+      "Internationalism": 3
     }
   },
    {

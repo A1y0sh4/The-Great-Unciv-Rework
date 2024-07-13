@@ -1059,7 +1059,7 @@
 		"culture": 3,
 		"faith": 4,
                 "cityHealth": 25,
-		"cityStrength": 8,
+		"cityStrength": 10,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 2},
 		"uniques": ["[+25]% City Strength from defensive buildings"],

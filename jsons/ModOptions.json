@@ -10,6 +10,7 @@
   {
     "naturalWonderCountAddedConstant": 3,
     "riverCountMultiplier": 0.02,
-    "cityStrengthFromGarrison": 0.025,
+    "cityStrengthFromGarrison": 0.25,
+    "maxSpyRank": 5,
   }
 }

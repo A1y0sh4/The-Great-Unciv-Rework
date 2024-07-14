@@ -392,8 +392,8 @@
 		
                 "favoredReligion": "Catholicism",
 		"uniqueName": "Canadian Expeditionary Force",
-		"uniqueText": "Gain double the Influence of Military unit gifts to City-States (triple when gifting a [Peacekeeper])",
-		"uniques": ["Gain [10] Influence with a [Military] gift to a City-State", "Gain [10] Influence with a [Peacekeeper] gift to a City-State"],
+		"uniqueText": "Gain double the Influence of Military unit gifts to City-States (triple when gifting a [Peacekeeper])\n+1 [Food] from every [Farm] in [Tundra] tiles\n-20% Strength for Military units when attacking cities",
+		"uniques": ["Gain [10] Influence with a [Military] gift to a City-State", "Gain [10] Influence with a [Peacekeeper] gift to a City-State", "[+1 Food] from every [Farm] <in [Tundra] tiles>"],
 		"cities": ["Ottawa", "Toronto", "Montreal", "Vancouver", "Winnipeg", "Quebec City", "Hamilton", "Halifax", "Victoria", "Windsor", "Kingston", "Brantford", "Regina", "St. John's", "Calgary", "Saskatoon", "Sault Sainte Marie", "Saint-Lin", "Whitehorse", "Thunder Bay"],
 		"spyNames": ["Aurelie", "Adam", "Ariana", "Adrian", "Beatrice", "Antoine", "Chloe", "Benoit", "Charlotte", "Cedric"]
 	},
@@ -554,7 +554,7 @@
 		"innerColor": [255,255,102],
 		
 		"uniqueName": "Viking Fury",
-		"uniques": ["No movement cost to pillage <for [Military] units>", "[0] Movement point cost to embark <for [All] units>", "[0] Movement point cost to disembark <for [All] units>", "Enables [All] units to enter ocean tiles <upon entering the [Medieval era]>"], 
+		"uniques": ["No movement cost to pillage <for [Military] units>", "[1] Movement point cost to embark <for [All] units>", "[1] Movement point cost to disembark <for [All] units>", "Enables [All] units to enter ocean tiles <upon entering the [Medieval era]>"], 
 		"cities": ["Copenhagen","Aarhus","Kaupang","Ribe","Viborg","Tunsbers","Roskilde","Hedeby","Jelling","Truso",
 			"Faeroerne","Reykjavik","Trondheim","Godthab","Helluland","Lillehammer","Markland","Elsinore",
 			"Sarpsborg","Odense","Aalborg","Stavanger","Vorbasse","Schleswig","Kristiansand","Halogaland","Randers",

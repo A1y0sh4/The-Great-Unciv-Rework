@@ -600,9 +600,9 @@
                 "column": 1
             },
             {
-                "name": "Pacifism",
+                "name": "Military Aid",
                 "uniques": [
-                    "[-20]% Strength <for [Military] units> <vs cities> <when attacking>", "Resting point for Influence with City-States is increased by [20]"
+                    "Gain [10] Influence with a [Military] gift to a City-State", "Gain [20] [Gold] <upon expending a [Military] unit>"
                 ],
                 "row": 1,
                 "column": 5
@@ -616,11 +616,10 @@
                 "column": 3
             },
             {
-                "name": "Global Cooperation",
+                "name": "Diplomatic Cohesion",
                 "requires": ["World Expo", "Pacifism", "Cultural Diplomacy"],
                 "uniques": [
-                   "[+100]% resources gifted by City-States",
-                    "[+50]% Happiness from luxury resources gifted by City-States"
+                    "Resting point for Influence with City-States is increased by [20]", "[-25]% enemy spy effectiveness [in City-State cities]"
                 ],
                 "row": 2,
                 "column": 3

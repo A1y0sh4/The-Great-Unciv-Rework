@@ -301,16 +301,17 @@
 		    "Influence of all other civilizations with all city-states degrades [33]% faster", "Triggers the following global alert: [Our influence with City-States has started dropping faster!]"
                 ],
                 "row": 3,
-                "column": 4
+                "column": 2
             },
 		{
-                "name": "Containment",
-                "requires": ["Counter Intelligence"],
+                "name": "Resource Contracts",
+                "requires": ["Machiavellianism", "Mercenary Opportunism"],
                 "uniques": [
-		    "Resting point for Influence with City-States is increased by [20]"
+		    "[+100]% resources gifted by City-States",
+                    "[+50]% Happiness from luxury resources gifted by City-States"
                 ],
-                "row": 3,
-                "column": 2
+                "row": 2,
+                "column": 4
             },
             {
                 "name": "Diplomacy Complete",

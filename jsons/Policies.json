@@ -602,7 +602,7 @@
             {
                 "name": "Military Aid",
                 "uniques": [
-                    "Gain [10] Influence with a [Military] gift to a City-State", "Gain [20] [Gold] <upon expending a [Military] unit>"
+                    "Gain [15] Influence with a [Military] gift to a City-State", "Gifts of Gold to City-States generate [25]% more Influence"
                 ],
                 "row": 1,
                 "column": 5

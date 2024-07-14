@@ -525,7 +525,7 @@
 				"name": "Atomic Theory",
 				"row": 4,
 				"prerequisites": ["Plastics","Electronics"], 
-				"uniques": ["Influence of all other civilizations with all city-states degrades [50]% faster <if [Manhattan Project] is constructed>"],
+				"uniques": ["Influence of all other civilizations with all city-states degrades [20]% faster <if [Manhattan Project] is constructed>"],
 				"quote": "'The unleashed power of the atom has changed everything save our modes of thinking, and we thus drift toward unparalleled catastrophes.' - Albert Einstein"
 			},
 			{

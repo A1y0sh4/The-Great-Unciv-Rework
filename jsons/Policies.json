@@ -278,20 +278,11 @@
                 "column": 4
             },
             {
-                "name": "Political Science",
-                "uniques": [
-                    "[+1 Science] per [1] social policies adopted"
-                ],
-                "row": 1,
-                "column": 2
-            },
-            {
                 "name": "Machiavellianism",
                 "uniques": [
                     "Gain an extra spy", "[+25]% spy effectiveness [in all cities]"
                 ],
-                "requires": ["Political Science"],
-                "row": 2,
+                "row": 1,
                 "column": 2
             },
             {
@@ -300,7 +291,7 @@
                     "[-25]% enemy spy effectiveness [in all cities]"
                 ],
                 "requires": ["Machiavellianism"],
-                "row": 3,
+                "row": 2,
                 "column": 2
             },
             {

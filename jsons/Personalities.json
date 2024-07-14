@@ -844,9 +844,9 @@
     "priorities": {
       "Tradition": 5,
       "Liberty": 8,
-      "Expansion": 7,
-      "Commerce": 8,
-      "Diplomacy": 9,
+      "Expansion": 8,
+      "Commerce": 7,
+      "Diplomacy": 8,
       "Piety": 3,
       "Rationalism": 9,
       "Individualism": 9,

@@ -70,7 +70,9 @@
     "description": "Send your best explorers on a quest to discover Natural Wonders. Nobody knows the location of [naturalWonder] yet.",
       "weightForCityStateType": {
           "Hostile": 0.3,
-          "Militaristic": 0.5
+          "Militaristic": 0.5,
+          "Maritime": 0.2,
+          "Cultured": 0.2,
       }
   },
   /* G&K */
@@ -125,7 +127,7 @@
           "Maritime": 0.5,
           "Mercantile": 0.5,
           "Militaristic": 0.5,
-          "Religious": 2
+          "Religious": 3
       }
   },
   {
@@ -135,7 +137,8 @@
     "duration": 30,
     "minimumCivs": 3,
       "weightForCityStateType": {
-          "Religious": 0.5
+          "Religious": 0.5,
+          "Maritime": 0.3,
       }
   },
   {
@@ -146,7 +149,10 @@
     "duration": 30,
     "minimumCivs": 2,
       "weightForCityStateType": {
-          "Mercantile": 1.5
+          "Mercantile": 2,
+          "Cultured": 0.5,
+          "Maritime": 0.5,
+          "Religious": 0.5
       }
   },
   {
@@ -156,7 +162,8 @@
       "weightForCityStateType": {
           "Hostile": 2,
           "Irrational": 1.5,
-          "Friendly": 0.3
+          "Friendly": 0.3,
+        "Militaristic": 1,
       }
   },
   {

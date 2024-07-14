@@ -842,16 +842,16 @@
     "loyal": 3,
     "expansion": 6,
     "priorities": {
-      "Tradition": 8,
-      "Liberty": 7,
-      "Expansion": 10,
-      "Commerce": 4,
-      "Diplomacy": 7,
+      "Tradition": 5,
+      "Liberty": 8,
+      "Expansion": 7,
+      "Commerce": 8,
+      "Diplomacy": 9,
       "Piety": 3,
-      "Rationalism": 7,
-      "Individualism": 7,
-      "Nationalism": 9,
-      "Internationalism": 8
+      "Rationalism": 9,
+      "Individualism": 9,
+      "Nationalism": 10,
+      "Internationalism": 9
     }
   },
   {

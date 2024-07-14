@@ -551,7 +551,9 @@
             {
                 "name": "Police State",
                 "uniques": [
-                    "[+3 Happiness] from every [Courthouse]",
+                    "[+1 Happiness] from every [Arsenal]",
+		    "[+1 Happiness] from every [Military Base]",
+		    "[+1 Happiness] from every [Courthouse]",
                     "[+100]% Production when constructing [Courthouse] buildings [in all cities]"
                 ],
                 "requires": ["Militarism"],

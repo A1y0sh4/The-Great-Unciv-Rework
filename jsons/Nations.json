@@ -392,7 +392,7 @@
 		
                 "favoredReligion": "Catholicism",
 		"uniqueName": "Canadian Expeditionary Force",
-		"uniqueText": "Gain double the Influence of Military unit gifts to City-States (triple when gifting a [Peacemaker])",
+		"uniqueText": "Gain double the Influence of Military unit gifts to City-States (triple when gifting a [Peacekeeper])",
 		"uniques": ["Gain [10] Influence with a [Military] gift to a City-State", "Gain [10] Influence with a [Peacekeeper] gift to a City-State"],
 		"cities": ["Ottawa", "Toronto", "Montreal", "Vancouver", "Winnipeg", "Quebec City", "Hamilton", "Halifax", "Victoria", "Windsor", "Kingston", "Brantford", "Regina", "St. John's", "Calgary", "Saskatoon", "Sault Sainte Marie", "Saint-Lin", "Whitehorse", "Thunder Bay"],
 		"spyNames": ["Aurelie", "Adam", "Ariana", "Adrian", "Beatrice", "Antoine", "Chloe", "Benoit", "Charlotte", "Cedric"]

@@ -1389,8 +1389,8 @@
     "aggressive": 2,
     "declareWar": 1,
     "commerce": 5,
-    "diplomacy": 8,
-    "loyal": 7,
+    "diplomacy": 9,
+    "loyal": 8,
     "expansion": 6,
     "priorities": {
       "Tradition": 1,
@@ -1510,7 +1510,7 @@
     "expansion": 4,
     "priorities": {
       "Tradition": 9,
-      "Liberty": 5,
+      "Liberty": 2,
       "Expansion": 7,
       "Commerce": 6,
       "Diplomacy": 6,

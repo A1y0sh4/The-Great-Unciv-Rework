@@ -452,7 +452,7 @@
 			},
 			{
 				"name": "Replaceable Parts",
-				"row": 4,
+				"row": 5,
 				"prerequisites": ["Electricity","Steam Power"],
 				"uniques": ["[+2 Production] [in all cities]"],
 				"quote": "'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford"
@@ -599,7 +599,7 @@
 			},
 			{
 				"name": "Advanced Ballistics",
-				"row": 5,
+				"row": 4,
 				"prerequisites": ["Nuclear Fission","Rocketry"],
 				"quote": "'Our scientific power has outrun our spiritual power, we have guided missiles and misguided men.' – Martin Luther King Jr."
 			},

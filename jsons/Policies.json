@@ -541,11 +541,7 @@
             },
             {
                 "name": "Police State",
-		    "uniqueText": "+1 [Happiness] from every [Arsenal], [Military Base],[Courthouse]\n+100% [Production] when constructing [Arsenal], [Military Base], [Courthouse] in all cities",
                 "uniques": [
-                    "[+100]% Production when constructing [Arsenal] buildings [in all cities]",
-		    "[+100]% Production when constructing [Military Base] buildings [in all cities]",
-                    "[+100]% Production when constructing [Courthouse] buildings [in all cities]",
 		    "[+1 Happiness] from every [Arsenal]", "[+1 Happiness] from every [Military Base]", "[+1 Happiness] from every [Courthouse]"
                 ],
                 "requires": ["Militarism"],

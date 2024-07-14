@@ -905,7 +905,7 @@
 	},
 	{
 		"name": "Epic Quest",
-		"uniques": ["This Unit gains [5] XP <upon defeating a [Barbarian] unit>"] 
+		"uniques": ["This Unit gains [5] XP <upon defeating a [Barbarian] unit>", "[+25]% Strength <when fighting in [Barbarian encampment] tiles> <when attacking>"] 
 	},
 	{
 		"name": "[Heavy Chariot] ability",

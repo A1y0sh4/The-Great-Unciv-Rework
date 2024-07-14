@@ -253,7 +253,7 @@
     {
         "name": "Holy Patronage",
         "type": "Founder",
-        "uniques": ["Gifts of Gold to City-States generate [33]% more Influence"]
+        "uniques": ["Gifts of Gold to City-States generate [25]% more Influence"]
     },
     {
         "name": "Peace Loving",

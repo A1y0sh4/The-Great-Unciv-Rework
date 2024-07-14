@@ -18,6 +18,7 @@
     "minRiverLength": 3,
     "maxRiverLength": 21,
     "cityStrengthPerPop": 0.5,
-    "cityStrengthFromTechsFullMultiplier": 1.1
+    "cityStrengthFromTechsMultiplier": 6.2,
+    "cityStrengthFromTechsExponent": 2.67
   }
 }

@@ -586,7 +586,7 @@
 	    "Religious": 20
         },
         "uniques": [
-            "Influence of all other civilizations with all city-states degrades [15]% faster", "Triggers the following global alert: [Our influence with City-States has started dropping faster!]",
+            "[+15]% Production towards any buildings that already exist in the Capital",
             "Only available <before adopting [Nationalism]>",
             "Only available <before adopting [Individualism]>"
         ],

@@ -616,21 +616,21 @@
                 "column": 3
             },
             {
-                "name": "Diplomatic Cohesion",
-                "requires": ["World Expo", "Military Aid", "Cultural Diplomacy"],
+                "name": "United Front",
+                "requires": ["Diplomatic Missions"],
                 "uniques": [
                     "Resting point for Influence with City-States is increased by [20]", "[-25]% enemy spy effectiveness [in City-State cities]"
                 ],
-                "row": 2,
+                "row": 3,
                 "column": 3
             },
             {
-                "name": "International Harmony",
-                "requires": ["Diplomatic Cohesion"],
+                "name": "Diplomatic Missions",
+                "requires": ["World Expo", "Military Aid", "Cultural Diplomacy"],
                 "uniques": [
-                    "[-50]% enemy spy effectiveness [in City-State cities]", "[-15]% Unhappiness from [Population] [in all cities]"
+                    "<upon entering a new era>"
                 ],
-                "row": 3,
+                "row": 2,
                 "column": 3
             },
             {

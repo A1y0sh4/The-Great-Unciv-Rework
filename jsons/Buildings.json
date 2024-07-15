@@ -964,7 +964,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Barracks",
-		"uniques": ["New [{Land} {Military}] units start with [15] Experience [in this city]", "[+10]% Production when constructing [{Land} {Military}] units [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["New [{Land} {Military}] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Chivalry"
 	},
 

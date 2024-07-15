@@ -137,7 +137,7 @@
     "name": "Askia",
     "production": 5,
     "food": 6,
-    "gold": 8,
+    "gold": 10,
     "science": 4,
     "culture": 6,
     "happiness": 4,
@@ -554,7 +554,7 @@
     "priorities": {
       "Tradition": 5,
       "Liberty": 4,
-      "Expansion": 6,
+      "Expansion": 5,
       "Commerce": 6,
       "Diplomacy": 6,
       "Piety": 4,
@@ -695,7 +695,7 @@
     "commerce": 9,
     "diplomacy": 3,
     "loyal": 5,
-    "expansion": 7,
+    "expansion": 8,
     "priorities": {
       "Tradition": 7,
       "Liberty": 5,

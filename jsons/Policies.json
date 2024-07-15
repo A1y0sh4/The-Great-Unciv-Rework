@@ -586,7 +586,7 @@
 	    "Religious": 20
         },
         "uniques": [
-            "[+15]% Production towards any buildings that already exist in the Capital",
+            "When declaring friendship, both parties gain a [15]% boost to great person generation",
             "Only available <before adopting [Nationalism]>",
             "Only available <before adopting [Individualism]>"
         ],

@@ -1599,7 +1599,7 @@
 			    "[+50]% [Science] [in all cities]",
 			    "[+50]% [Culture] [in all cities]",
 			    "[+50]% [Faith] [in all cities]", 
-			    "[+15]% Unhappiness from [Population] [in all cities]", "Consumes [2] [Uranium]"],
+			    "[+50]% Unhappiness from [Population] [in all cities]", "Consumes [2] [Uranium]"],
 		"quote": "'It ascends from the earth to the heaven, and it again descends to the earth and receives the force of things superior and inferior.' - Hermes Trismegistus"
 	},
 	// All Eras

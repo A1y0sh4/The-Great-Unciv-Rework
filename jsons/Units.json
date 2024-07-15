@@ -1064,13 +1064,27 @@
 		"replaces": "Musketman",
 		"uniqueTo": "Spain",
 		"movement": 2,
-		"strength": 25,
+		"strength": 24,
 		"cost": 165,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"promotions": ["Formation I", "Formation II"],
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Carolean",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Sweden",
+		"movement": 2,
+		"strength": 24,
+		"cost": 165,
+		"requiredTech": "Gunpowder",
+		"uniques": ["[+33]% Strength <when attacking>"],
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Rifleman",
 		"attackSound": "shot"
 	},
 	{
@@ -1264,20 +1278,6 @@
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"promotions": ["[Norwegian Ski Infantry] ability"],
-		"attackSound": "shot"
-	},
-	{
-		"name": "Carolean",
-		"unitType": "Gunpowder",
-		"replaces": "Rifleman",
-		"uniqueTo": "Sweden",
-		"movement": 2,
-		"strength": 34,
-		"cost": 200,
-		"requiredTech": "Rifling",
-		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles", "[+20]% Strength <when attacking>"],
-		"obsoleteTech": "Replaceable Parts",
-		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
 	},
 	{

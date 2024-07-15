@@ -6,6 +6,13 @@
   "modSize":2243,
   "topics":["mod","unciv","unciv-mod","unciv-mod-fun","unciv-mod-rulesets"],
   
+  "uniques": [
+        "Can convert gold to science with sliders",
+        "Allow City States to spawn with additional units",
+        "Can trade civilization introductions for [100] Gold",
+      //"Suppress warning [Horseman is supposed to automatically upgrade at tech Rifling, and therefore Redomestication for its upgrade Hussar may not yet be researched!]",
+        ],
+    
   "constants":
   {
     "naturalWonderCountAddedConstant": 3,

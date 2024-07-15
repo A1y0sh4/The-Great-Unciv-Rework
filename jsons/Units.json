@@ -1083,7 +1083,7 @@
 		"strength": 24,
 		"cost": 165,
 		"requiredTech": "Gunpowder",
-		"uniques": ["[+33]% Strength <when attacking>"],
+		"promotions": ["[Carolean] ability"],
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Rifleman",
 		"attackSound": "shot"

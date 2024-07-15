@@ -26,6 +26,6 @@
     "cityStrengthPerPop": 0.5,
     "cityStrengthFromTechsMultiplier": 6.2,
     "cityStrengthFromTechsExponent": 2.67,
-    "unitUpgradeCost":{"base":20,"perProduction":1,"eraMultiplier":0.334,"exponent":1,"roundTo":5}
+    "unitUpgradeCost":{"base":20,"perProduction":3,"eraMultiplier":0.334,"exponent":1,"roundTo":5}
   }
 }

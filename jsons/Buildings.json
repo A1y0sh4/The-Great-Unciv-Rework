@@ -192,6 +192,16 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Trapping"
 	},
+{
+		"name": "Sugar Shack",
+		"replaces": "Circus",
+		"uniqueTo": "Canada",
+	        "food": 1,
+		"happiness": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food, +1 Gold] from [Forest] tiles [in this city]"],
+		"requiredTech": "Trapping"
+	},
 	{
 		"name": "Water Mill",
 		"maintenance": 2,
@@ -1136,19 +1146,6 @@
 		"hurryCostModifier": 25,
 		"maintenance": 0,
 		"uniques": ["[+33]% Great Person generation [in this city]"],
-		"requiredTech": "Economics"
-	},
-        {
-		"name": "Sugar Shack",
-		"replaces": "Windmill",
-		"uniqueTo": "Canada",
-		"cost": 200,
-		"production": 2,
-		"percentStatBonus": {"production": 10},
-		"specialistSlots": {"Engineer": 1},
-		"hurryCostModifier": 25,
-		"maintenance": 0,
-		"uniques": ["[+1 Food, +1 Gold] from [Forest] tiles [in this city]"],
 		"requiredTech": "Economics"
 	},
 	{

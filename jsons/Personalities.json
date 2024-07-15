@@ -88,8 +88,8 @@
     "expansion": 5,
     "priorities": {
       "Tradition": 7,
-      "Liberty": 6,
-      "Expansion": 3,
+      "Liberty": 5,
+      "Expansion": 10,
       "Commerce": 4,
       "Diplomacy": 3,
       "Piety": 6,

@@ -572,7 +572,7 @@ ReligionIcons/Protestantism
 UnitIcons/Diplomat
   rotate: false
   rotate: false
-  xy: 1940, 855
+  xy: 1940, 865
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

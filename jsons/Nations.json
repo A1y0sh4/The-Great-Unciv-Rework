@@ -1742,8 +1742,8 @@
 		"innerColor": [254, 204, 0],
 		
 		"uniqueName": "Royal Academy of Science",
-		"uniqueText": "Great People are earned 25% faster\nGain [Science] upon expending a Great Person (scales through eras)\n+1 [Food] from every [Camp] in [Tundra] tiles",
-		"uniques": ["[Great General] is earned [25]% faster", "[Great Merchant] is earned [25]% faster", "[Great Scientist] is earned [25]% faster", "[Great Engineer] is earned [25]% faster", "[Great Prophet] is earned [25]% faster", "[Great Artist] is earned [25]% faster",
+		"uniqueText": "Great People are earned 15% faster\nGain [Science] upon expending a Great Person (scales through eras)\n+1 [Food] from every [Camp] in [Tundra] tiles",
+		"uniques": ["[Great General] is earned [15]% faster", "[Great Merchant] is earned [15]% faster", "[Great Scientist] is earned [15]% faster", "[Great Engineer] is earned [15]% faster", "[Great Prophet] is earned [15]% faster", "[Great Artist] is earned [15]% faster",
 			"Gain [+12] [Science] <upon expending a [Great Person] unit> <during the [Ancient era]>", 
 			"Gain [+32] [Science] <upon expending a [Great Person] unit> <during the [Classical era]>", 
 			"Gain [+84] [Science] <upon expending a [Great Person] unit> <during the [Medieval era]>", 

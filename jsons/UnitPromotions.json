@@ -923,4 +923,8 @@
 		"name": "Organized Warfare",
 		"uniques": ["Can move after attacking", "Ignores Zone of Control"],
 	},
+	{
+		"name": "[Carolean] ability",
+		"uniques": ["[+33]% Strength <when attacking>"] 
+	},
 ]

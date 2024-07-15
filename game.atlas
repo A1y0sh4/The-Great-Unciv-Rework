@@ -235,7 +235,7 @@ PolicyBranchIcons/Nationalism
   orig: 100, 100
   offset: 0, 0
   index: -1
-PolicyIcons/Political Science
+PolicyIcons/Machiavellianism
   rotate: false
   xy: 1220, 520
   size: 100, 100
@@ -277,7 +277,7 @@ PolicyBranchIcons/Internationalism
   orig: 100, 100
   offset: 0, 0
   index: -1
-PolicyIcons/Consulates
+PolicyIcons/Mercenary Opportunism
   rotate: false
   xy: 1340, 520
   size: 100, 100
@@ -319,7 +319,7 @@ PolicyIcons/Monumentalism
   orig: 100, 100
   offset: 0, 0
   index: -1
-PolicyIcons/Merchant Confederacy
+PolicyIcons/Counter Intelligence
   rotate: false
   xy: 1470, 520
   size: 100, 100

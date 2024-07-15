@@ -1742,7 +1742,7 @@
 		"innerColor": [254, 204, 0],
 		
 		"uniqueName": "Nobel Prize",
-		"uniques": ["Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [15]% boost to great person generation"],
+		"uniques": ["Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [15]% boost to great person generation", "[+1 Food] from every [Forest] <in [Tundra] tiles>"],
 		"cities": ["Stockholm","Sigtuna","Helsinki","Birka","Uppsala","Turku","Linköping","Lund","Espoo","Malmö",
 			"Vantaa","Visby","Strängnäs","Tampere","Skara","Lödöse","Oulu","Växjö","Jyväskylä","Gothenburg",
 			"Örebro","Lahti","Helsingborg","Jönköping","Kuopio","Norrköping","Sundsvall","Kouvola","Karlstad","Umeå",

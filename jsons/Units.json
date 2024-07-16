@@ -997,11 +997,12 @@
 		"uniqueTo": "Denmark",
 		"movement": 4,
 		"strength": 20,
-		"cost": 100,
+		"cost": 110,
 		"requiredTech": "Compass",
 		"obsoleteTech": "Navigation",
 		"upgradesTo": "Privateer",
-		"uniques": ["Can move after attacking"],
+		"promotions": ["Coastal Raider I"],
+		"uniques": ["Can move after attacking", "Earn [33]% of the damage done to [City] units as [Science]", "Earn [33]% of the damage done to [City] units as [Culture]"],
 		"attackSound": "shot"
 	},
 	{

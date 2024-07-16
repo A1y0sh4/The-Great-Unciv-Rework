@@ -991,6 +991,20 @@
 		"attackSound": "cannon"
 	},
 	{
+		"name": "Longship",
+		"unitType": "Melee Water",
+		"replaces": "Caravel",
+		"uniqueTo": "Denmark",
+		"movement": 4,
+		"strength": 20,
+		"cost": 100,
+		"requiredTech": "Compass",
+		"obsoleteTech": "Navigation",
+		"upgradesTo": "Privateer",
+		"uniques": ["Can move after attacking"],
+		"attackSound": "shot"
+	},
+	{
 		"name": "Turtle Ship",
 		"unitType": "Melee Water",
 		"replaces": "Caravel",
@@ -1265,20 +1279,6 @@
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
-		"attackSound": "shot"
-	},
-	{
-		"name": "Norwegian Ski Infantry",
-		"unitType": "Gunpowder",
-		"replaces": "Rifleman",
-		"uniqueTo": "Denmark",
-		"movement": 2,
-		"strength": 34,
-		"cost": 200,
-		"requiredTech": "Rifling",
-		"obsoleteTech": "Replaceable Parts",
-		"upgradesTo": "Great War Infantry",
-		"promotions": ["[Norwegian Ski Infantry] ability"],
 		"attackSound": "shot"
 	},
 	{

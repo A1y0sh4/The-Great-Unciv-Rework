@@ -226,8 +226,8 @@
 		"techs": [
 			{
 				"name": "Education",
-				"row": 3,
-				"prerequisites": ["Theology","Civil Service"],
+				"row": 2,
+				"prerequisites": ["Compass","Theology","Civil Service"],
 				"uniques": ["Enables conversion of city production to [Science]","Enables Research agreements"],
 				"quote": "'Education is the best provision for old age.' - Aristotle"
 			},
@@ -277,7 +277,7 @@
 				"name": "Astronomy",
 				"row": 2,
 				"uniques": ["[+1] Movement <for [All] units> <in [Water] tiles>", "Enables [Embarked] units to enter ocean tiles"],
-				"prerequisites": ["Compass","Education"],
+				"prerequisites": ["Education"],
 				"quote": "'Joyfully to the breeze royal Odysseus spread his sail, and with his rudder skillfully he steered.' - Homer"
 			},
 			{
@@ -335,7 +335,7 @@
 			},
 			{
 				"name": "Metallurgy",
-				"row": 9,
+				"row": 8,
 				"prerequisites": ["Printing Press","Gunpowder"],
 				"quote": "'There never was a good knife made of bad steel.' - Benjamin Franklin"
 			},

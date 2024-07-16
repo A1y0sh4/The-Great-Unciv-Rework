@@ -183,8 +183,15 @@
 		"wonderCost": 275,
 		"techs": [
 			{
+				"name": "Compass",
+				"row": 1,
+				"uniques": ["[+1] Sight <for [All] units> <in [Water] tiles>"],
+				"prerequisites": ["Optics"],
+				"quote": "'I find the great thing in this world is not so much where we stand, as in what direction we are moving.' - Oliver Wendell Holmes"
+			},
+			{
 				"name": "Theology",
-				"row": 2,
+				"row": 3,
 				"prerequisites": ["Philosophy", "Drama and Poetry"],
 				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
 			},
@@ -217,14 +224,6 @@
 		"buildingCost": 135,
 		"wonderCost": 340,
 		"techs": [
-			{
-				"name": "Compass",
-				"cost": 340,
-				"row": 1,
-				"uniques": ["[+1] Sight <for [All] units> <in [Water] tiles>"],
-				"prerequisites": ["Optics","Theology"],
-				"quote": "'I find the great thing in this world is not so much where we stand, as in what direction we are moving.' - Oliver Wendell Holmes"
-			},
 			{
 				"name": "Education",
 				"row": 3,

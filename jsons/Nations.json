@@ -554,7 +554,8 @@
 		"innerColor": [255,255,102],
 		
 		"uniqueName": "Viking Fury",
-		"uniques": ["No movement cost to pillage <for [Military] units>", "[1] Movement point cost to embark <for [All] units>", "[1] Movement point cost to disembark <for [All] units>", "Enables [All] units to enter ocean tiles <upon entering the [Medieval era]>", "Earn [15]% of the damage done to [City] units as [Gold] <for [Melee] units>"], 
+		"uniqueText": "Units don't use movement points to pillage and it costs them only 1 to embark or disembark\nAll units can enter Ocean tiles upon entering the Medieval era\nMelee units plunder additional [Gold] when attacking cities",
+		"uniques": ["No movement cost to pillage <for [Military] units>", "[1] Movement point cost to embark <for [All] units>", "[1] Movement point cost to disembark <for [All] units>", "Enables [All] units to enter ocean tiles <upon entering the [Renaissance era]>", "Earn [33]% of the damage done to [City] units as [Gold] <for [Melee] units>"], 
 		"cities": ["Copenhagen","Aarhus","Kaupang","Ribe","Viborg","Tunsbers","Roskilde","Hedeby","Jelling","Truso",
 			"Faeroerne","Reykjavik","Trondheim","Godthab","Helluland","Lillehammer","Markland","Elsinore",
 			"Sarpsborg","Odense","Aalborg","Stavanger","Vorbasse","Schleswig","Kristiansand","Halogaland","Randers",

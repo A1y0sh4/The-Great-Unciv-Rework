@@ -800,7 +800,7 @@
 		"turnsInto": "Coast",
 		"impassable": false,
 		"unbuildable": true,
-		"uniques": ["Fresh water", "Neighboring tiles except [Plains] will convert to [Plains]", "Occurs in groups of [1] to [3] tiles", "Tile provides yield without assigned population", "Grants [Civilized] ([Stronger against Barbarians]) to adjacent [{Military} {Land}] units for the rest of the game"],
+		"uniques": ["Fresh water", "Neighboring tiles except [Lake Victoria] will convert to [Plains]", "Occurs in groups of [1] to [3] tiles", "Tile provides yield without assigned population", "Grants [Civilized] ([Stronger against Barbarians]) to adjacent [{Military} {Land}] units for the rest of the game"],
 		"weight": 10
 	},
 	{

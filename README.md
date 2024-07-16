@@ -35,7 +35,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 -Buildings and Roads Upkeep raise by +5% each time you get into the next era (up to +35%)
 
--The maintainance of ALL military units is raised by +65%, but some UnitsTypes receive an additional raise
+-The maintainance of ALL military units is raised by +4% per era, but some UnitsTypes receive an additional raise
 
 (Mounted: +25%,
  Water: +50%,
@@ -43,7 +43,8 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
  Armored: +75%,
  Helicopter: +75%,
  Nuclear Weapons: +300%)
- 
+
+ -Enemy spies act with a malus in garrisoned cities (-25%)
  
 # Main War-related changes
   

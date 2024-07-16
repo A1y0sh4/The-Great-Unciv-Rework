@@ -1392,7 +1392,7 @@
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 34,
-		"cost": 165,
+		"cost": 175,
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",
 		"upgradesTo": "Landship",

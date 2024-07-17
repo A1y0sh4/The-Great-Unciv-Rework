@@ -158,7 +158,7 @@
 				"name": "Shipbuilding",
 				"row": 1,
 				"prerequisites": ["Optics"],
-				"quote": "XXX"
+				"quote": "'There is nothing but a plank between a sailor and eternity.' - Thomas Gibbons"
 			},
 			{
 				"name": "Drama and Poetry",
@@ -176,7 +176,7 @@
 				"name": "Games and Recreation",
 				"row": 5,
 				"prerequisites": ["Horseback Riding","Fermentation","Construction"],
-				"quote": "XXX"
+				"quote": "'The People who once upon a time handed out military command, high civil office, legions — everything, now restrains itself and anxiously hopes for just two things: bread and circuses.' - Juvenal"
 			},
 			{
 				"name": "Currency",

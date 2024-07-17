@@ -119,13 +119,13 @@
 				"name": "Fermentation",
 				"row": 3
 				"prerequisites": ["Calendar"],
-				"quote": "XXX"
+				"quote": "'There in wine is found the great generalization: all life is fermentation.' - Richard Feynman"
 			},
 			{
 				"name": "Spirituality",
 				"row": 2,
 				"prerequisites": ["Calendar", "Writing"],
-				"quote": "XXX"
+				"quote": "'The most beautiful experience we can have is the mysterious – the fundamental - emotion which stands at the cradle of true art and true science' - Albert Einstein"
 			},
 			{
 				"name": "Horseback Riding",

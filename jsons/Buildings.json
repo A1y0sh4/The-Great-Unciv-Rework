@@ -342,7 +342,7 @@
 		"greatPersonPoints": {"Great Merchant": 1},
 		"uniques": ["[+1 Production] from [Fishing Boats] tiles [in this city]", "[+1 Production] from [Atoll] tiles [in this city]",
 			"Connects trade routes over water", "Must be next to [Water]", "New [{Water} {Military}] units start with [15] Experience [in this city]"],
-		"requiredTech": "Optics"
+		"requiredTech": "Shipbuilding"
 	},
 	{
 		"name": "Stable",
@@ -656,7 +656,7 @@
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
 		"uniques": ["Must be next to [Water]", "[+1 Gold] from [Water] tiles [in this city]", "Gain a free [Harbor] [in this city]"],
-		"requiredTech": "Iron Working",
+		"requiredTech": "Shipbuilding",
 		"quote": "'Why man, he doth bestride the narrow world like a colossus, and we petty men walk under his huge legs, and peep about to find ourselves dishonorable graves.' - William Shakespeare, Julius Caesar"
 	},
 

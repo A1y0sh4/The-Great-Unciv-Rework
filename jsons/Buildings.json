@@ -369,15 +369,6 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Circus Maximus",
-		"cost": 100,
-		"culture": 1,
-		"happiness": 1,
-		"isNationalWonder": true,
-		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "[-33]% Unhappiness from [Population] [in this city]", "Cost increases by [25] per owned city"],
-		"requiredTech": "Games and Recreation"
-	},
-	{
 		"name": "Courthouse",
 		"maintenance": 4,
 		"hurryCostModifier": 50,
@@ -425,7 +416,16 @@
 		"maintenance": 2,
 		"requiredTech": "Games and Recreation"
 	},
-{
+        {
+		"name": "Circus Maximus",
+		"cost": 100,
+		"culture": 1,
+		"happiness": 1,
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "[-50]% Unhappiness from [Population] [in this city]", "Cost increases by [25] per owned city"],
+		"requiredTech": "Games and Recreation"
+	},
+        {
 		"name": "Garden",
 		"uniques": ["[+33]% Great Person generation [in this city]", "[-33]% Food consumption by specialists [in this city]", "Must be next to [Fresh water]"],
 		"hurryCostModifier": 25,

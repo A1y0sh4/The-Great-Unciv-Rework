@@ -1263,3 +1263,9 @@ BuildingIcons/CERN
   orig: 100, 100
   offset: 0, 0
   index: -1
+
+game2.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none

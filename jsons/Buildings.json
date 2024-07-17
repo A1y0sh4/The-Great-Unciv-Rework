@@ -425,16 +425,22 @@
 		"maintenance": 2,
 		"requiredTech": "Construction"
 	},
+{
+		"name": "Garden",
+		"uniques": ["[+33]% Great Person generation [in this city]", "[-33]% Food consumption by specialists [in this city]", "Must be next to [Fresh water]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Philosophy"
+	},
         {
 		"name": "Royal Palace", 
 		"replaces": "Garden",
 		"uniqueTo": "Assyria",
-		"cost": 75,
 		"happiness": 1,
 		"science": 1,
 		"culture": 1,
 		"maintenance": 1,
-		"uniques": ["[+33]% Great Person generation [in this city]"],
+		"uniques": ["[+33]% Great Person generation [in this city]", "[-33]% Food consumption by specialists [in this city]"],
 		"requiredTech": "Philosophy"
 	},
 	{
@@ -682,13 +688,6 @@
 	// Medieval Era
 
 	// Column 5
-	{
-		"name": "Garden",
-		"uniques": ["[+33]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"requiredTech": "Philosophy"
-	},
 	{
 		"name": "Hagia Sophia",
 		"culture": 1,

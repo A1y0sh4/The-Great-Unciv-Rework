@@ -475,7 +475,7 @@
 		"faith": 2,
 		"culture": 1,
 		"hurryCostModifier": 25,
-		"requiredTech": "Philosophy"
+		"requiredTech": "Spirituality"
 	},
 	{
 		"name": "Mud Pyramid Mosque",
@@ -485,7 +485,7 @@
 		"hurryCostModifier": 25,
 		"faith": 2,
 		"uniques": ["[Gold] cost of purchasing items in cities [-5]%", "Destroyed when the city is captured"]
-		"requiredTech": "Philosophy"
+		"requiredTech": "Spirituality"
 	},
         {
 		"name": "Chemamull",
@@ -497,7 +497,27 @@
 		"faith": 1,
 		"culture": 1,
 		"hurryCostModifier": 25,
-		"requiredTech": "Philosophy"
+		"requiredTech": "Spirituality"
+	},
+{
+		"name": "Chichen Itza",
+		"culture": 1,
+		"happiness": 3,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"isWonder": true,
+		"uniques": ["Must be next to [Jungle]", "[+50]% Golden Age length", "[+1 Culture] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Spirituality",
+		"quote": "'The katun is established at Chichen Itza. The settlement of the Itza shall take place there. The quetzal shall come, the green bird shall come. Ah Kantenal shall come. It is the word of God. The Itza shall come.' - The Books of Chilam Balam"
+	},
+	{
+		"name": "Teotihuacan Pyramids",
+		"culture": 1,
+		"faith": 3,
+		"isWonder": true,
+		"greatPersonPoints": {"Great General": 1},
+		"uniques": ["Must be next to [Lake]", "[+10]% [Food] [in this city] <when at war>", "[+10]% [Production] [in this city] <when at war>"],
+		"requiredTech": "Spirituality",
+		"quote": "'But the wrath of Huitzilopochtli was great, and as the sacrifice passed each of the four rooms dedicated to the sun god, the sun disappeared or reappeared in the sky.' - Fray Diego Durán"
 	},
 	{
 		"name": "National College",
@@ -736,26 +756,6 @@
 		"requiredNearbyImprovedResources": ["Grape"],
 		 "uniques": ["Only available <in cities without a [Rum Distillery]>", "Only available <in cities without a [Whisky Distillery]>", "Only available <in cities without a [Vodka Distillery]>", "Provides [1] [Cognac]"],
 		"requiredTech": "Distillation"
-	},
-	{
-		"name": "Chichen Itza",
-		"culture": 1,
-		"happiness": 3,
-		"greatPersonPoints": {"Great Engineer": 1},
-		"isWonder": true,
-		"uniques": ["Must be next to [Jungle]", "[+50]% Golden Age length", "[+1 Culture] from [Jungle] tiles [in all cities]"],
-		"requiredTech": "Civil Service",
-		"quote": "'The katun is established at Chichen Itza. The settlement of the Itza shall take place there. The quetzal shall come, the green bird shall come. Ah Kantenal shall come. It is the word of God. The Itza shall come.' - The Books of Chilam Balam"
-	},
-	{
-		"name": "Teotihuacan Pyramids",
-		"culture": 1,
-		"faith": 3,
-		"isWonder": true,
-		"greatPersonPoints": {"Great General": 1},
-		"uniques": ["Must be next to [Lake]", "[+10]% [Food] [in this city] <when at war>", "[+10]% [Production] [in this city] <when at war>"],
-		"requiredTech": "Civil Service",
-		"quote": "'But the wrath of Huitzilopochtli was great, and as the sacrifice passed each of the four rooms dedicated to the sun god, the sun disappeared or reappeared in the sky.' - Fray Diego Durán"
 	},
 	{
 		"name": "National Treasury",

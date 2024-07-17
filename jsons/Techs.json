@@ -118,7 +118,7 @@
 			{
 				"name": "Fermentation",
 				"row": 2,
-				"prerequisites": ["Writing","Calendar"],
+				"prerequisites": ["Calendar"],
 				"quote": "XXX"
 			},
 			{

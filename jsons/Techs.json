@@ -155,6 +155,12 @@
 		"wonderCost": 225,
 		"techs": [
 			{
+				"name": "Shipbuilding",
+				"row": 1,
+				"prerequisites": ["Optics"],
+				"quote": "XXX"
+			},
+			{
 				"name": "Currency",
 				"row": 7,
 				"prerequisites": ["Mathematics"],

@@ -840,10 +840,10 @@
 		"name": "University",
 		"maintenance": 2,
 		"hurryCostModifier": 15,
-		"percentStatBonus": {"science": 50},
+		"percentStatBonus": {"science": 25},
 		"specialistSlots": {"Scientist": 1},
 		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[+50]% [Science] <after discovering [Printing Press]>"],
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[+25]% [Science] <after discovering [Printing Press]>"],
 		"requiredTech": "Education"
 	},
 	{

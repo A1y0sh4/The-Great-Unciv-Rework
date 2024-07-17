@@ -972,7 +972,7 @@
 		"hurryCostModifier": 15,
 		"greatPersonPoints": {"Great Scientist": 1},
 		"percentStatBonus": {"science": 50},
-		"science": 5,
+		"science": 4,
 		"requiredBuilding": "University",
 		"uniques": ["Must be next to [Mountain]"],
 		"requiredTech": "Astronomy"
@@ -1365,10 +1365,10 @@
 	{
 		"name": "Research Lab",
 		"science": 4,
-		"percentStatBonus": {"science": 100},
+		"percentStatBonus": {"science": 50},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Public School",
-		"uniques": ["[+100]% [Science] <after discovering [Atomic Theory]>"],
+		"uniques": ["[+50]% [Science] <after discovering [Atomic Theory]>"],
 		"maintenance": 3,
 		"requiredTech": "Plastics"
 	},
@@ -1510,7 +1510,7 @@
 		"science": 5,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["[+50]% Production when constructing [National Wonder] buildings [in this city]",
-			    "[+10 Science] from every [Observatory]"],
+			    "[+6 Science] from every [Observatory]"],
 		"requiredTech": "Satellites",
 		"quote": "'The wonder is, not that the field of stars is so vast, but that man has measured it.' - Anatole France"
 	},

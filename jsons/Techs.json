@@ -192,7 +192,7 @@
 				"name": "Compass",
 				"row": 1,
 				"uniques": ["[+1] Sight <for [All] units> <in [Water] tiles>"],
-				"prerequisites": ["Optics"],
+				"prerequisites": ["Shipbuilding"],
 				"quote": "'I find the great thing in this world is not so much where we stand, as in what direction we are moving.' - Oliver Wendell Holmes"
 			},
 			{

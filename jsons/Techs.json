@@ -116,16 +116,10 @@
 				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
 			},
 			{
-				"name": "Philosophy",
+				"name": "Fermentation",
 				"row": 2,
 				"prerequisites": ["Writing","Calendar"],
-				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
-			},
-			{
-				"name": "Drama and Poetry",
-				"row": 3,
-				"prerequisites": ["Writing"],
-				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
+				"quote": "XXX"
 			},
 			{
 				"name": "Horseback Riding",
@@ -159,6 +153,18 @@
 				"row": 1,
 				"prerequisites": ["Optics"],
 				"quote": "XXX"
+			},
+			{
+				"name": "Philosophy",
+				"row": 2,
+				"prerequisites": ["Writing","Fermentation"],
+				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
+			},
+			{
+				"name": "Drama and Poetry",
+				"row": 3,
+				"prerequisites": ["Writing"],
+				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
 			},
 			{
 				"name": "Currency",

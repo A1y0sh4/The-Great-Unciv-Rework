@@ -1269,3 +1269,46 @@ size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+TechIcons/Spirituality
+  rotate: false
+  xy: 1702, 280
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Fermentation
+  rotate: false
+  xy: 1820, 280
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Imperial Games
+  rotate: false
+  rotate: false
+  xy: 1940, 280
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Shipbuilding
+  rotate: false
+  xy: 1702, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Advanced Espionage
+  rotate: false
+  xy: 1820, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Longship
+  rotate: false
+  xy: 1590, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

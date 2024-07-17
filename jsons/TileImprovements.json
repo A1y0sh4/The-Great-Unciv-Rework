@@ -169,16 +169,9 @@
 		"shortcutKey": "X"
 	},
 	{
-		"name": "Remove Fort",
-		"turnsToBuild": 5,
-		// Has no tech requirements as it can always be built
-		"uniques": ["Can be built outside your borders"],
-		"shortcutKey": "X"
-	},
-	{
 		"name": "Remove Marsh",
 		"turnsToBuild": 5,
-		"techRequired": "Calendar",
+		"techRequired": "Fermentation",
 		"uniques": ["Can be built outside your borders"],
 		"shortcutKey": "X"
 	},

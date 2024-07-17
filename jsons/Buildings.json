@@ -1501,7 +1501,7 @@
 		"cityHealth": 25,
 		"maintenance": 1,
 		"requiredTech": "Nuclear Fission",
-		"uniques": ["Population loss from nuclear attacks [-30]% [in this city]"]
+		"uniques": ["Population loss from nuclear attacks [-33]% [in this city]"]
 	},
 	{
 		"name": "Hubble Space Telescope",
@@ -1553,7 +1553,7 @@
 		"science": 5,
 		"maintenance": 5,
 		"requiredResource": "Aluminum",
-		"uniques": ["[+50]% [Science] [in this city]"],
+		"uniques": ["[+100]% [Science] [in this city]"],
 	},
         {
 		"name": "CERN",
@@ -1571,7 +1571,7 @@
 		"maintenance": 5,
 		"requiredTech": "Nanotechnology",
 		"requiredResource": "Aluminum",
-		"uniques": ["[+50]% growth [in this city]"]
+		"uniques": ["[+100]% growth [in this city]"]
 	},
         // Column 17
         {
@@ -1579,7 +1579,7 @@
 		"requiredTech": "Nuclear Fusion",
 		"production": 5,
 		"maintenance": 5,
-		"uniques": ["[+50]% [Production] [in this city]", "Consumes [2] [Uranium]"],
+		"uniques": ["[+100]% [Production] [in this city]", "Consumes [2] [Uranium]"],
 	},
         {
 		"name": "AI Singularity",
@@ -1588,12 +1588,12 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Engineer": 3},
 		"isWonder": true,
-		"uniques": ["[+50]% [Food] [in all cities]",
-			    "[+50]% [Production] [in all cities]",
-			    "[+50]% [Gold] [in all cities]",
-			    "[+50]% [Science] [in all cities]",
-			    "[+50]% [Culture] [in all cities]",
-			    "[+50]% [Faith] [in all cities]", 
+		"uniques": ["[+100]% [Food] [in all cities]",
+			    "[+100]% [Production] [in all cities]",
+			    "[+100]% [Gold] [in all cities]",
+			    "[+100]% [Science] [in all cities]",
+			    "[+100]% [Culture] [in all cities]",
+			    "[+100]% [Faith] [in all cities]", 
 			    "[+50]% Unhappiness from [Population] [in all cities]", "Consumes [2] [Uranium]"],
 		"quote": "'It ascends from the earth to the heaven, and it again descends to the earth and receives the force of things superior and inferior.' - Hermes Trismegistus"
 	},

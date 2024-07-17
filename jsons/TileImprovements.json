@@ -178,7 +178,7 @@
 	{
 		"name": "Remove Marsh",
 		"turnsToBuild": 5,
-		"techRequired": "Masonry",
+		"techRequired": "Calendar",
 		"uniques": ["Can be built outside your borders"],
 		"shortcutKey": "X"
 	},

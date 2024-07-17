@@ -14,6 +14,7 @@
 	},
 	{
 		"name": "Monument",
+		"requiredTech": "Agriculture"
 		"culture": 1,
 		"cost": 40,
 		"hurryCostModifier": 40,
@@ -24,6 +25,7 @@
 		"name": "Stele",
 		"replaces": "Monument",
 		"uniqueTo": "Ethiopia",
+		"requiredTech": "Agriculture"
 		"culture": 1,
 		"faith": 1,
 		"cost": 30,
@@ -35,6 +37,7 @@
 		"name": "Pyramid",
 		"replaces": "Monument",
 		"uniqueTo": "The Maya",
+		"requiredTech": "Agriculture"
 		"culture": 1,
 		"science": 1,
 		"cost": 30,

@@ -221,7 +221,7 @@
             },
             {
                 "name": "Monasticism",
-                "uniques": ["[+1 Faith, +1 Science, +1 Culture] <in cities with at least [1] [Specialists]>"],
+                "uniques": ["Gain a free [Garden] [in all cities]", "[+1 Faith] from every [Garden]"],
                 "row": 1,
                 "column": 5
             },

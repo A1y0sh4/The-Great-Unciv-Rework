@@ -161,16 +161,22 @@
 				"quote": "XXX"
 			},
 			{
+				"name": "Drama and Poetry",
+				"row": 3,
+				"prerequisites": ["Fermentation"],
+				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
+			},
+			{
 				"name": "Philosophy",
 				"row": 2,
 				"prerequisites": ["Spirituality","Fermentation"],
 				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
 			},
 			{
-				"name": "Drama and Poetry",
-				"row": 3,
-				"prerequisites": ["Fermentation"],
-				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
+				"name": "Games and Recreation",
+				"row": 5,
+				"prerequisites": ["Horseback Riding","Fermentation","Construction"],
+				"quote": "XXX"
 			},
 			{
 				"name": "Currency",
@@ -216,7 +222,7 @@
 			{
 				"name": "Civil Service",
 				"row": 5,
-				"prerequisites": ["Currency","Horseback Riding","Drama and Poetry"],
+				"prerequisites": ["Currency","Games and Recreation","Drama and Poetry","Philosophy"],
 				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
 			},

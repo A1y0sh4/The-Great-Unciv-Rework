@@ -446,7 +446,7 @@
 		"culture": 1,
 		"maintenance": 1,
 		"uniques": ["[+33]% Great Person generation [in this city]"],
-		"requiredTech": "Construction"
+		"requiredTech": "Philosophy"
 	},
 	{
 		"name": "Terracotta Army",
@@ -463,7 +463,7 @@
 		"faith": 2,
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"requiredTech": "Philosophy",
+		"requiredTech": "Spirituality",
 		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
 	},
 	{
@@ -668,7 +668,7 @@
 		"uniques": ["[+33]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"requiredTech": "Theology"
+		"requiredTech": "Philosophy"
 	},
 	{
 		"name": "Hagia Sophia",

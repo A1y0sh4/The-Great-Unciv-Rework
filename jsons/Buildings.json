@@ -113,7 +113,7 @@
 		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Wheat"],
 		 "uniques": ["Provides [1] [Beer]"],
-		"requiredTech": "Calendar"
+		"requiredTech": "Fermentation"
 	},
 	{
 		"name": "Pub",
@@ -124,7 +124,7 @@
 		"happiness": 1,
 		"maintenance": 1,
 		 "uniques": ["Provides [1] [Beer]"],
-		"requiredTech": "Calendar"
+		"requiredTech": "Fermentation"
 	},
 	{
 		"name": "Wine Cellar",
@@ -133,7 +133,7 @@
 		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Grape"],
 		 "uniques": ["Provides [1] [Wine]"],
-		"requiredTech": "Calendar"
+		"requiredTech": "Fermentation"
 	},
 	{
 		"name": "Monastery",
@@ -145,7 +145,7 @@
 		"maintenance": 0,
 		"requiredNearbyImprovedResources": ["Grape"],
 		 "uniques": ["Provides [1] [Wine]", "[+1 Gold, +1 Culture] from [Grape] tiles [in this city]"],
-		"requiredTech": "Calendar"
+		"requiredTech": "Fermentation"
 	},
 	{
 		"name": "Library",

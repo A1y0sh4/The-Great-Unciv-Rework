@@ -174,7 +174,7 @@
 			},
 			{
 				"name": "Currency",
-				"row": 7,
+				"row": 6,
 				"prerequisites": ["Mathematics"],
 				"quote": "'Better is bread with a happy heart than wealth with vexation.' - Amenemope"
 			},

@@ -156,13 +156,13 @@
 			},
 			{
 				"name": "Philosophy",
-				"row": 2,
+				"row": 3,
 				"prerequisites": ["Writing","Fermentation"],
 				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
 			},
 			{
 				"name": "Drama and Poetry",
-				"row": 3,
+				"row": 2,
 				"prerequisites": ["Writing"],
 				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
 			},

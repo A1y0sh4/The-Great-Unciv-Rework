@@ -375,7 +375,7 @@
 		"happiness": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "[-33]% Unhappiness from [Population] [in this city]", "Cost increases by [25] per owned city"],
-		"requiredTech": "Horseback Riding"
+		"requiredTech": "Games and Recreation"
 	},
 	{
 		"name": "Courthouse",
@@ -411,7 +411,7 @@
 		"maintenance": 1,
 		"happiness": 2,
 		"hurryCostModifier": 25,
-		"requiredTech": "Construction"
+		"requiredTech": "Games and Recreation"
 	},
         {
 		"name": "Veche",
@@ -423,7 +423,7 @@
 		"uniqueTo": "Kievan Rus'",
 		"hurryCostModifier": 25,
 		"maintenance": 2,
-		"requiredTech": "Construction"
+		"requiredTech": "Games and Recreation"
 	},
 {
 		"name": "Garden",

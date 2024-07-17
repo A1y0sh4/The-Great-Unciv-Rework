@@ -122,6 +122,12 @@
 				"quote": "XXX"
 			},
 			{
+				"name": "Spirituality",
+				"row": 3,
+				"prerequisites": ["Calendar", "Writing"],
+				"quote": "XXX"
+			},
+			{
 				"name": "Horseback Riding",
 				"row": 5,
 				"prerequisites": ["Trapping","The Wheel"],

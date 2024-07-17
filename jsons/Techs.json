@@ -63,13 +63,13 @@
 			},
 			{
 				"name": "Calendar",
-				"row": 2,
+				"row": 3,
 				"prerequisites": ["Pottery"],
 				"quote": "'So teach us to number our days, so that we may apply our hearts unto wisdom.' - Bible Psalms 90:12"
 			},
 			{
 				"name": "Writing",
-				"row": 3,
+				"row": 2,
 				"prerequisites": ["Pottery"], 
 				"uniques": ["[-10]% Culture cost of adopting new Policies"],
 				"quote": "'He who destroys a good book kills reason itself.' - John Milton"
@@ -117,13 +117,13 @@
 			},
 			{
 				"name": "Fermentation",
-				"row": 2,
+				"row": 3
 				"prerequisites": ["Calendar"],
 				"quote": "XXX"
 			},
 			{
 				"name": "Spirituality",
-				"row": 3,
+				"row": 2,
 				"prerequisites": ["Calendar", "Writing"],
 				"quote": "XXX"
 			},
@@ -162,13 +162,13 @@
 			},
 			{
 				"name": "Philosophy",
-				"row": 3,
+				"row": 2,
 				"prerequisites": ["Spirituality","Fermentation"],
 				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
 			},
 			{
 				"name": "Drama and Poetry",
-				"row": 2,
+				"row": 3,
 				"prerequisites": ["Fermentation"],
 				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
 			},

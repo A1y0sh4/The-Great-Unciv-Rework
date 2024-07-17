@@ -258,7 +258,7 @@
 			{
 				"name": "Distillation",
 				"row": 4,
-				"prerequisites": ["Theology","Guilds"],
+				"prerequisites": ["Theology","Guilds","Civil Service"],
 				"quote": "'Whoever drinks beer, he is quick to sleep; whoever sleeps long, does not sin; whoever does not sin, enters Heaven! Thus, let us drink beer!' - Martin Luther"
 			},
 			{
@@ -313,7 +313,7 @@
 			{
 				"name": "Banking", 
 				"row": 6,
-				"prerequisites": ["Chivalry", "Education"],
+				"prerequisites": ["Chivalry", "Education","Distillation"],
 				"uniques": ["[Gold] cost of purchasing items in cities [-10]%"],
 				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
 			},
@@ -327,7 +327,7 @@
 			{
 				"name": "Gunpowder",
 				"row": 10,
-				"prerequisites": ["Physics","Steel","Distillation"],
+				"prerequisites": ["Physics","Steel","Machinery"],
 				"quote": "'The day when two army corps can annihilate each other in one second, all civilized nations, it is to be hoped, will recoil from war and discharge their troops.' - Alfred Nobel"
 			}
 		]
@@ -434,7 +434,7 @@
 			{
 				"name": "Electricity",
 				"row": 3,
-				"prerequisites": ["Scientific Theory"],
+				"prerequisites": ["Scientific Theory","Industrialization"],
 				"quote": "'Is it a fact - or have I dreamt it - that, by means of electricity, the world of matter has become a great nerve, vibrating thousands of miles in a breathless point of time?' - Nathaniel Hawthorne"
 			},
 			{

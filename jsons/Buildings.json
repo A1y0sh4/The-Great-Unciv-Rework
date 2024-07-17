@@ -401,7 +401,7 @@
 		"maintenance": 1,
 		"happiness": 2,
 		"hurryCostModifier": 25,
-		"requiredTech": "Games and Recreation"
+		"requiredTech": "Imperial Games"
 	},
         {
 		"name": "Veche",
@@ -413,7 +413,7 @@
 		"uniqueTo": "Kievan Rus'",
 		"hurryCostModifier": 25,
 		"maintenance": 2,
-		"requiredTech": "Games and Recreation"
+		"requiredTech": "Imperial Games"
 	},
         {
 		"name": "Circus Maximus",
@@ -422,7 +422,7 @@
 		"happiness": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "[-50]% Unhappiness from [Population] [in this city]", "Cost increases by [25] per owned city"],
-		"requiredTech": "Games and Recreation"
+		"requiredTech": "Imperial Games"
 	},
         {
 		"name": "Garden",

@@ -173,7 +173,7 @@
 				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
 			},
 			{
-				"name": "Games and Recreation",
+				"name": "Imperial Games",
 				"row": 5,
 				"prerequisites": ["Horseback Riding","Fermentation","Construction","Mathematics"],
 				"quote": "'The People who once upon a time handed out military command, high civil office, legions — everything, now restrains itself and anxiously hopes for just two things: bread and circuses.' - Juvenal"
@@ -222,7 +222,7 @@
 			{
 				"name": "Civil Service",
 				"row": 5,
-				"prerequisites": ["Currency","Games and Recreation","Drama and Poetry","Philosophy"],
+				"prerequisites": ["Currency","Imperial Games","Drama and Poetry","Philosophy"],
 				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
 			},

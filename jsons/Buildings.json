@@ -309,7 +309,6 @@
 		"uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>", "Gain a free [Barracks] [in this city]", "[1] free [Spearman] units appear", "[+15]% Production when constructing [Military] units [in this city]"],
 		"requiredTech": "Bronze Working",
 		"quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad"
-		// "Requires [Honor]" in BNW
 	},
 
 	// Classical Era
@@ -663,6 +662,17 @@
 		"uniques": ["[+10]% [Food] [in this city]", "[+2 Food] <in tiles without [Fresh Water]>"],
 		"requiredTech": "Engineering"
 	},
+        {
+		"name": "Machu Picchu",
+		"greatPersonPoints": {"Great Merchant": 1},
+		"culture": 1,
+		"isWonder": true,
+		"cityStrength": 3,
+		"cityHealth": 15,
+		"uniques": ["[+25]% [Gold] from Trade Routes", "[+10]% Strength <for [Military] units> <vs cities> <when attacking>", "Must be next to [Mountain]"],
+		"requiredTech": "Engineering",
+		"quote": "'Few romances can ever surpass that of the granite citadel on top of the beetling precipices of Machu Picchu, the crown of Inca Land.' - Hiram Bingham"
+	},
 	{
 		"name": "Heroic Epic",
 		"cost": 100,
@@ -765,15 +775,6 @@
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Market] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [25] per owned city"],
 		"requiredTech": "Guilds"
-	},
-	{
-		"name": "Machu Picchu",
-		"greatPersonPoints": {"Great Merchant": 1},
-		"culture": 1,
-		"isWonder": true,
-		"uniques": ["[+25]% [Gold] from Trade Routes", "[+15]% Strength <for [Military] units> <within [1] tiles of a [Mountain]>", "Must be next to [Mountain]"],
-		"requiredTech": "Guilds",
-		"quote": "'Few romances can ever surpass that of the granite citadel on top of the beetling precipices of Machu Picchu, the crown of Inca Land.' - Hiram Bingham"
 	},
 	{
 		"name": "Workshop",

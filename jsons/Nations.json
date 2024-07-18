@@ -1378,7 +1378,7 @@
 		"innerColor": [255,120,0],
 		
 		"uniqueName": "Mongol Terror",
-		"uniqueText": "Start with Animal Husbandry, Mounted units gain +1 Movement and the Shock I promotion",
+		"uniqueText": "Start with Animal Husbandry\nMounted units gain +1 Movement and the Shock I promotion",
 		"uniques": ["Starts with [Animal Husbandry]", "[+1] Movement <for [Mounted] units>", "[Mounted] units gain the [Shock I] promotion"],
 		"cities": ["Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan",
 			"Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg",
@@ -1410,7 +1410,7 @@
 		"innerColor": [40, 179, 79],
 		
 		"uniqueName": "Gateway to Africa",
-		"uniqueText": "Gain an additional +1 [Gold] and +1 [Culture] in all cities connected to capital, trade routes are 25% cheaper to maintain",
+		"uniqueText": "Gain an additional +1 [Gold] and +1 [Culture] in all cities connected to capital\nTrade routes are 25% cheaper to maintain",
 		"uniques": ["[+1 Gold, +1 Culture] [in all cities connected to capital]", "[-25]% maintenance on road & railroads"],
 		"cities": ["Marrakech","Rabat","Fes","Casablanca","Tangier","Salé","Ouarzazate","Meknes","Agadir","Oujda",
 			"Kenitra","Tetouan","Essaouira","Safi","Taroudannt","Mohammedia","El Aaiun","Beni Mellal","El Jadida","Ksar el Kebir","Taza",
@@ -1471,7 +1471,7 @@
 		"innerColor": [244,232,54],
 		
 		"uniqueName": "Achaemenid Legacy",
-		"uniqueText": "All units gain +1 Movement point and +10% Strength during a Golden Age, all Golden Ages last 50% longer",
+		"uniqueText": "All units gain +1 Movement point and +10% Strength during a Golden Age\nGolden Ages last 50% longer",
 		"uniques": ["[+1] Movement <for [All] units> <during a Golden Age>", "[+10]% Strength <for [All] units> <during a Golden Age>", "[+50]% Golden Age length"],
 		"cities": ["Persepolis","Parsagadae","Susa","Ecbatana","Tarsus","Gordium","Bactra","Sardis","Ergili","Dariushkabir",
 			"Ghulaman","Zohak","Istakhr","Jinjan","Borazjan","Herat","Dakyanus","Bampur","Turengtepe","Rey","Shiraz",
@@ -1538,7 +1538,7 @@
 		"innerColor": [255,255,78],
 		
 		"uniqueName": "Wayfinding",
-		"uniqueText": "All units can embark and enter Ocean tiles without the technological requirements and Embraked units gain +1 additional Movement and Sight",
+		"uniqueText": "All units can embark and enter Ocean tiles without the technological requirements\nEmbraked units gain +1 additional Movement and Sight",
 		"uniques": ["Enables embarkation for land units", "Enables [All] units to enter ocean tiles", "[+1] Sight <for [Embarked] units>", "[+1] Movement <for [Embarked] units>"],
 		"cities": ["Honolulu","Samoa","Tonga","Nuku Hiva","Raiatea","Aotearoa","Tahiti","Hilo","Te Wai Pounamu","Rapa Nui",
 			"Tuamotu","Rarotonga","Tuvalu","Tubuai","Mangareva","Oahu","Kiritimati","Ontong Java","Niue","Rekohu",
@@ -1570,7 +1570,7 @@
 		"innerColor": [8,25,115],
 		
 		"uniqueName": "Discovery Age",
-		"uniqueText": "The empire enters a Golden Age upon discovering a Natural Wonder, gain a free Great Navigator upon entering the Renaissance era",
+		"uniqueText": "The empire enters a Golden Age upon discovering a Natural Wonder\nGain a free Great Navigator upon entering the Renaissance era",
 		"uniques": ["Empire enters golden age <upon discovering a Natural Wonder>", "Free [Great Navigator] appears <upon entering the [Renaissance era]>"],
 		"cities": ["Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Luanda",
 			"Evora","Faro","Castelo Branco","Bissau","Guarda","Viseu","Praia","Braganza","Beja","Tomar",
@@ -1602,7 +1602,7 @@
 		"innerColor": [238,201,9],
 		
 		"uniqueName": "The Glory of Rome",
-		"uniqueText": "All buildings are 10% faster to build in cities connected to capital and All improvements are 25% faster to build",
+		"uniqueText": "All buildings are 10% faster to build in cities connected to capital\nAll improvements are 25% faster to build",
 		"uniques": ["[+10]% Production when constructing [All] buildings [in all cities connected to capital]", "[-25]% construction time for [All] improvements"],
 		"cities": ["Rome","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
 			"Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
@@ -1667,7 +1667,7 @@
 		
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Father Governs Children",
-		"uniqueText": "Gain +1 [Faith] for every 4 people you have in your cities, may buy [Food] buildings with [Faith]",
+		"uniqueText": "Gain +1 [Faith] for every 4 people you have in your cities\nMay buy [Food] buildings with [Faith]",
 		"uniques": ["[+1 Faith] per [4] population [in all cities]", "May buy [Granary] buildings with [Faith] for [2] times their normal Production cost", "May buy [Baray] buildings with [Faith] for [2] times their normal Production cost", "May buy [Hospital] buildings with [Faith] for [2] times their normal Production cost"],
 		"cities": ["Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Phitsanulok","Kamphaeng Pet","Nakhom Chum","Vientiane",
 			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
@@ -1699,7 +1699,7 @@
 		"innerColor": [90,0,10],
 		
 		"uniqueName": "Songs of the Jeli",
-		"uniqueText": "Mines yield +2 [Gold] +1 [Faith] instead of the initial +1 [Production], may buy [Gold] buildings with [Faith]",
+		"uniqueText": "Mines yield +2 [Gold] +1 [Faith] instead of the initial +1 [Production]\nMay buy [Gold] buildings with [Faith]",
 		"uniques": ["[-1 Production, +1 Faith, +2 Gold] from every [Mine]", "May buy [Gold] buildings with [Faith] for [2] times their normal Production cost"],
 		"cities": ["Gao","Timbuktu","Jenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
 			"Kebbi","Boussa","Motpi","Bamako","Wa","Kayes","Awdaghost","Ouadane","Dakar","Tadmekket","Tekedda","Kano",
@@ -1730,7 +1730,7 @@
 		"innerColor": [255,102,102],
 		
 		"uniqueName": "Seven Cities of Gold",
-		"uniqueText": "Gain +150 [Gold] upon discovering a Natural Wonder (value fixated to game speed) with an additional +1 [Happiness] and +2 [Faith] for every Natural Wonder you have revealed\nCities on foreign continents yield an additional +1 [Production], +3 [Gold]",
+		"uniqueText": "Gain +150 [Gold] upon discovering a Natural Wonder (value fixated to game speed)\nGain a total of +2 [Happiness] and +2 [Faith] for every Natural Wonder you have revealed\nCities on foreign continents yield an additional +1 [Production], +3 [Gold]",
 		"uniques": ["Gain [150] [Gold] <upon discovering a Natural Wonder> <(modified by game speed)>", "[+1 Happiness, +2 Faith] for every known Natural Wonder", "[+3 Gold, +1 Production] [in all cities] <on foreign continents>"],
 		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
 			"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
@@ -1833,7 +1833,7 @@
 		"innerColor": [	71, 6, 23],
 		
 		"uniqueName": "Gifts From the Storm Gods",
-		"uniqueText": "Gain 2 amounts of the Strategic resources you have revealed plus an addition of +1 [Happiness], +2 [Gold] for each type of Strategic resources you own",
+		"uniqueText": "Gain 2 amounts of the Strategic resources you have revealed plus\n+1 [Happiness] and +2 [Gold] for each type of Strategic resources you own",
 		"uniques": ["Provides [2] [Horses] <after discovering [Animal Husbandry]>", "Provides [2] [Iron] <after discovering [Iron Working]>", "Provides [2] [Coal] <after discovering [Industrialization]>", "Provides [2] [Oil] <after discovering [Biology]>", "Provides [2] [Aluminum] <after discovering [Electricity]>", "Provides [2] [Uranium] <after discovering [Atomic Theory]>", "[+1 Happiness, +2 Gold] <with [Horses]>", "[+1 Happiness, +2 Gold] <with [Iron]>", "[+1 Happiness, +2 Gold] <with [Coal]>", "[+1 Happiness, +2 Gold] <with [Oil]>", "[+1 Happiness, +2 Gold] <with [Aluminum]>", "[+1 Happiness, +2 Gold] <with [Uranium]>"],
 		"cities": ["Hattuša","Neša","Kuššara","Samuha","Tarhuntašša","Kadesh","Lusna","Alalah","Halab","Tunip",
 			"Zalpa","Hakpish","Nerik","Shallapsa","Arinna","Adaniya","Apasha","Waliwanda","Tapikka","Tuwanuwa",
@@ -1864,7 +1864,7 @@
 		"innerColor": [77,2,4],
 		
 		"uniqueName": "Scourge of God",
-		"uniqueText": "Start with Animal Husbandry, Military units heal 33 HP upon killing units but can only heal pillaging (before discovering Civil Service), upon killing a Barbarian you may recruit it (with 75% chance) and earn 10 additional [Gold]",
+		"uniqueText": "Start with Animal Husbandry\nMilitary units heal 33 HP upon killing units but can only heal pillaging (before discovering Civil Service)\nUpon killing a Barbarian you may recruit it (with 75% chance) and earn 10 additional [Gold]",
 		"uniques": ["Starts with [Animal Husbandry]", "[Military] units gain the [Barbarian] promotion <before discovering [Civil Service]>", "When defeating a [Barbarian] unit, earn [10] Gold and recruit it <with [75]% chance>"],
 		"cities": ["Etzelburg", "Szeged", "Esztergom", "Buda", "Pécs", "Eger", "Székesfehérvár", "Győr", "Kőszeg", "Diósgyőr", "Mohács", "Tata", "Kecskemét", "Szombathely", "Sárvár", "Sopron", "Hódmezővásárhely", "Sümeg"],
 		"spyNames": ["Balamber", "Uldin", "Donatus", "Charato", "Octar", "Bleda", "Ellac", "Dengizik", "Hildico", "Gudrun"]
@@ -1936,7 +1936,7 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Dutch East India Company",
-		"uniqueText": "Gain 50% of your [Happiness] value as [Gold] and gain an additional +1 [Happiness] from every Lighthouse, Harbor and Seaport",
+		"uniqueText": "Gain 50% of your [Happiness] value as [Gold]\nGain +1 [Happiness] from every Lighthouse, Harbor and Seaport",
 		"uniques": ["[50]% of excess happiness converted to [Gold]", "[+1 Happiness] from every [Lighthouse]", "[+1 Happiness] from every [Harbor]", "[+1 Happiness] from every [Seaport]"],
 		"cities": ["Amsterdam","Rotterdam","Utrecht","Groningen","Breda","Nijimegen","Den Haag","Haarlem","Arnhem","Zutphen",
 			"Maastricht","Tilburg","Eindhoven","Dordrecht","Leiden","Hertogenbosch","Almere","Alkmaar","Brielle","Vlissingen",
@@ -2030,7 +2030,7 @@
 		"innerColor": [116,55,25],
 		
 		"uniqueName": "Iklwa",
-		"uniqueText": "Your Sword units gain 50% more XP, they cost 50% less maintenance and heal an additional +5 HP when healing",
+		"uniqueText": "Your Sword units gain 50% more XP, cost 50% less maintenance and heal an additional +5 HP when healing",
 		"uniques": ["[+50]% XP gained from combat <for [Sword] units>", "[-50]% maintenance costs <for [Sword] units>", "[+5] HP when healing <for [Sword] units>"],
 		"cities": ["Ulundi","Umgungundlovu","Bulawayo","KwaDukuza","Nongoma","oNdini","Nodwengu","Ndonakusuka","Babanango","Khangela",
 			"KwaHlomendlini","Hlobane","eThekwini","Mlambongwenya","Eziqwaqweni","Isiphezi","Masotsheni","Mtunzini","Nyakamubi","Dumazulu",

@@ -131,6 +131,7 @@
 				"name": "Horseback Riding",
 				"row": 5,
 				"prerequisites": ["Trapping","The Wheel"],
+				"uniques": ["[+10]% [Gold] from Trade Routes"],
 				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
 			},
 			{

@@ -1378,8 +1378,8 @@
 		"innerColor": [255,120,0],
 		
 		"uniqueName": "Mongol Terror",
-		"uniqueText": "Start with Animal Husbandry\nMounted units gain +1 Movement and the Shock I promotion",
-		"uniques": ["Starts with [Animal Husbandry]", "[+1] Movement <for [Mounted] units>", "[Mounted] units gain the [Shock I] promotion"],
+		"uniqueText": "Start with Animal Husbandry\nMounted units do not suffer Strength penalty when attacking cities",
+		"uniques": ["Starts with [Animal Husbandry]", "[+1] Movement <for [Mounted] units>", "[+33]% Strength <vs cities> <when attacking> <for [Mounted] units>"],
 		"cities": ["Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan",
 			"Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg",
 			"Baruun-Urt","Ereen","Batshireet","Choyr","Ulaangom","Tosontsengel","Altay","Uliastay","Bayanhongor",

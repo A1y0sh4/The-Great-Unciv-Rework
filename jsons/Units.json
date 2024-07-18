@@ -1429,7 +1429,7 @@
 		"requiredResource": "Oil",
 		"requiredTech": "Refrigeration",
 		"upgradesTo": "Nuclear Submarine",
-		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles", "Never appears as a Barbarian unit"],
+		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles", "Destroys tile improvements when attacking", "Never appears as a Barbarian unit"],
 		"attackSound": "torpedo"
 	},
 	{
@@ -1501,7 +1501,7 @@
 		"requiredResource": "Oil",
 		"upgradesTo": "Fighter",
 		"obsoleteTech": "Radar",
-		"uniques": ["[50]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"uniques": ["[50]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>", "Destroys tile improvements when attacking"],
 		"attackSound": "machinegun"
 	},
 	{
@@ -1602,6 +1602,7 @@
 		"movement": 2,
 		"interceptRange": 2,
 		"strength": 50,
+		"rangedStrength": 50,
 		"cost": 312,
 		"requiredResource": "Iron",
 		"requiredTech": "Ballistics",
@@ -1620,7 +1621,7 @@
 		"requiredResource": "Oil",
 		"upgradesTo": "Tank",
 		"obsoleteTech": "Combined Arms",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit", "Destroys tile improvements when attacking"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -1628,12 +1629,12 @@
 		"unitType": "Melee Water",
 		"movement": 6,
 		"strength": 70,
-		"interceptRange": 2,
+		"interceptRange": 3,
 		"cost": 312,
 		"requiredResource": "Oil",
 		"requiredTech": "Combustion",
-		"uniques": ["Can see invisible [Submarine] units", "[33]% chance to intercept air attacks",
-			"May withdraw before melee ([67]%)", "[+100]% Strength <vs [Submarine] units>", "Never appears as a Barbarian unit"],
+		"uniques": ["Can see invisible [Submarine] units", "[50]% chance to intercept air attacks",
+			"May withdraw before melee ([67]%)", "[+100]% Strength <vs [Submarine] units>", "Never appears as a Barbarian unit", "Destroys tile improvements when attacking"],
 		"attackSound": "shipguns"
 	},
 
@@ -1664,7 +1665,7 @@
 		"requiredTech": "Radar",
 		"requiredResource": "Oil",
 		"upgradesTo": "Jet Fighter",
-		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>", "Destroys tile improvements when attacking"],
 		"attackSound": "machinegun"
 	},
 	{
@@ -1680,7 +1681,7 @@
 		"cost": 350,
 		"requiredTech": "Radar",
 		"upgradesTo": "Jet Fighter",
-		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>", "Destroys tile improvements when attacking"],
 		"promotions": ["[Zero] ability"],
 		"attackSound": "machinegun"
 	},
@@ -1764,7 +1765,7 @@
 		"requiredResource": "Iron",
 		"requiredTech": "Combined Arms",
 		"upgradesTo": "Helicopter Gunship",
-		"uniques": ["[+100]% Strength <vs [Armored] units>", "Never appears as a Barbarian unit"],
+		"uniques": ["[+100]% Strength <vs [Armored] units>", "Destroys tile improvements when attacking", "Never appears as a Barbarian unit"],
 		"attackSound": "machinegun"
 	},
 	{
@@ -1801,13 +1802,14 @@
 		"name": "Mobile SAM",
 		"unitType": "Gunpowder",
 		"movement": 3,
-		"interceptRange": 2,
+		"interceptRange": 3,
 		"strength": 60,
+		"rangedStrength": 60,
 		"cost": 450,
 		"requiredResource": "Aluminum",
 		"requiredTech": "Rocketry",
 		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Air] units>",
-			"[+150]% Strength <vs [Helicopter] units>", "Can see invisible [Helicopter] units", "Never appears as a Barbarian unit"],
+			"[+150]% Strength <vs [Helicopter] units>", "Can see invisible [Helicopter] units", "Never appears as a Barbarian unit", "Destroys tile improvements when attacking"],
 		"attackSound": "missile"
 	},
 	{
@@ -1851,9 +1853,9 @@
 		"name": "UAV",
 		"unitType": "Helicopter",
 		"range": 1,
-		"movement": 4,
+		"movement": 5,
 		"strength": 45,
-		"rangedStrength": 70,
+		"rangedStrength": 60,
 		"cost": 450,
 		"requiredTech": "Computers",
 		"requiredResource": "Aluminum",

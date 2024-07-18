@@ -99,7 +99,7 @@
 		"introduction": "Welcome to Argentina, mighty leader. I do hope our peoples will live in peace.",
 		"neutralHello": "Greetings.",
 		"hateHello": "What do you want?",
-		"tradeRequest": "Better hurry, I may change my mind.",
+		"tradeRequest": "Better hurry, for I may change my mind.",
 		"favoredReligion": "Catholicism",
 		
 		"outerColor": [81, 120, 156],
@@ -118,13 +118,13 @@
 		"preferredVictoryType": "Domination",
 		"personality": "Osei Tutu",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Mekeya wo, noble Osei Tutu, Asantehene of the Ashanti people! The Akan states of southern Ghana were renowed centers for trade and gold. Yet, they remained divided, lost to petty rivalries and ancient conflicts. Great King, together with your advisor Okomfo Anokye, you rose to forge a union whose sophistication and military prowess was nearly unmatched in sub-Saharan Africa. By uniting the warring Ashanti chiefs, you overthrew the Denkyera and laid the foundation for a divine kingship. Yet, as your people expanded to today Ivory Coast, conflict with the European powers would prove inevitable. Though your kingdom resisted longer than most, even Ashantiland would ultimately fall to the march of imperialism.",
+		"startIntroPart2": "Kumasihene, foreign crowns have ravaged your lands. Your people pray to their ancestors and look to the spirit of the Ashanti nation for guidance. It is time to return, to finally cross the River Pra and free your people. Will you heed the call to once more sit upon the Golden Stool? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "Your puny existance is a threat to our people's prosperity!",
 		"attacked": "You shall regret committing such a vile action against us!",
-		"defeated": "How could we ever fall?",
-		"introduction": "Greetings, I am Osei Tutu, leader of the Ashanti",
+		"defeated": "Many have tried to vanquish us, but only you have succeeded. I will my seat as the divine will intends it.",
+		"introduction": "Greetings from the king atop the golden stool, and welcome to the court of Akanland. Our kingdom of Ashanti is one of the fiercest and finest to grace this world.",
 		"neutralHello": "Good day.",
 		"hateHello": "Well?",
 		"tradeRequest": "Here's a fair offer",
@@ -1302,8 +1302,8 @@
 		"preferredVictoryType": "Domination",
 		"personality": "Lautaro",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "May the Gods shower you with every kind of blessing, oh Toqui of Toquis, Lautaro, leader of the Wallmapu, the Mapuche people, by the wise election of the Lonkos. The Mapuche are the union of Picunches, Huilliches, Moluche and Nguluche from Araucanía. Despite their lack of state organization, your people successfully repelled many invasions from the Inca, led by the Sapa Inca Yupac Yupanqui. They won the bloody three-day confrontation known as the Battle of the Maule, stopping them at the Maule River, and behind the Rapel and Cachapoal rivers they established a fortified border. Your people also repelled the Spanish in the late 16th century so effectively that there were areas to which Europeans did not return until late in the 19th century. One of the main geographical boundaries was the  Bío-Bío river, which they used as a natural barrier to Spanish and Chilean incursion.",
+		"startIntroPart2": "Oh great Toqui, you did not just liberate the Mapuche - you inspired them to free themselves. But now your people still fight for their right to their lands. Will you stand with the Mapuche, axe-bearer, and cast a singular shadow against all who would dare to threaten them? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "It comes to war. Mapuche shall use your own weapons against you!",
 		"attacked": "I knew you could not be trusted! We have long prepared for this war. Have you?",
@@ -1459,8 +1459,8 @@
 		"preferredVictoryType": "Scientific",
 		"personality": "Sigismund III",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "All hail elected King Sigismund III, protector and sovereign of the Kingdom of Poland, he who defied heresy and gave Poland a strong and stable government. Toward this end, you oversaw the arrival of the Jesuits who established new schools throughout Poland and became chaplains and confessors to many families. The Catholic Church in Poland rebounded strongly during the early years of the reign. Their preaching was very well received by the public and along with their staunch defense of the faith they also reminded Poles of their crucial role as the first line of defense for Catholic Christendom against the Orthodox Russians and the Ottoman Turks.",
+		"startIntroPart2": "Honored king Sigismund, the people have chosen you as their leader. Can you keep the kingdom and your subjects in the golden age of prosperity? Will you conquer weakened enemies or tolerate their faith and existence? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "I have decided to end you!",
 		"attacked": "My armies will grind you to dust!",
@@ -1710,10 +1710,10 @@
 		"startIntroPart1": "Blessings of the heaven be upon you, oh mighty Gilgamesh, the legendary god-king of the Sumer nation. The stories of your life amaze the world to this day. After your death, the gods welcomed you as one of their kind.",
 		"startIntroPart2": "O great Gilgamesh, builder of the Sumer might, your people seek your guidance! Will you descend from the heavens to astonish the world with your incredible deeds once again? Will you build a civilization that will stand the test of time?",
 		
-		"declaringWar": "Prepare for war!",
-		"attacked": "You shall regret this!",
-		"defeated": "The victory is yours.",
-		"introduction": "Welcome, mighty leader.",
+		"declaringWar": "Do you know why do I fight? Because I can... because Inanna demands it. Now you will know the power of Sumer!",
+		"attacked": "Destruction is not a form of creation, and only through creation can mortals achieve divinity.",
+		"defeated": "The time has come. Mere mortals challenged the Gods and overthrew them, destroying the old world and proudly awaiting the new one.",
+		"introduction": "Why are you trembling in fear? Haven't you ever met a Demigod before? I am Gilgamesh, who single-handely built the city walls of Uruk and met the Utnapishtim.",
 		"neutralHello": "Greetings.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "Better hurry, I may change my mind.",

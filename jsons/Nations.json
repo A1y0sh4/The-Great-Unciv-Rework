@@ -1312,7 +1312,7 @@
 		"innerColor": [167,52,31],
 		
 		"uniqueName": "Great Nusantara",
-		"uniqueText": "Earn 50% of killed Military Water unit's Strength as [Faith], enables to buy Military Water units with [Faith] before the Industrial era, gain an additional +1 [Faith] from every Fishing Boats",
+		"uniqueText": "Earn 50% of killed Military Water unit's Strength as [Faith]\nEnables to buy Military Water units with [Faith] before the Industrial era\nGain an additional +1 [Faith] from every Fishing Boats",
 		"uniques": ["Earn [50]% of killed [{Military} {Water}] unit's [Strength] as [Faith]", "May buy [Water] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>", "[+1 Faith] from every [Fishing Boats]"],
 		"cities": ["Trowulan","Daha","Kahuripan","Lumajang","Lasem","Pajang","Tuban","Madura","Tumasik","Palembang",
 			"Jambi","Lwa Gajah","Lombok Mirah","Gurun","Saksak","Tanjung Kute","Banjar","Katingan","Sampit","Darmmacraya",

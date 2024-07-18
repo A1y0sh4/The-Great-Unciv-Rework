@@ -56,7 +56,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 -Great General points are offered by buildings (Barracks, Armories, Military Academies) and Wonders (Statue of Zeus, Alhambra, Himeji Castle, Kremlin, Brandenburg Gate, Pentagon)
 
--Great Generals are gained 4x slower when at peace
+-Great Generals are gained 2x slower when at peace
 
 -Barracks and Armories give XP on contruction for Land units, while the Harbor and Seaport for the Water ones (Military Academies gives XPs to both of them)
 

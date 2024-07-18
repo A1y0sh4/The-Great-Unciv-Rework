@@ -430,7 +430,7 @@
 		"innerColor": [88,0,154],
 		
 		"uniqueName": "Phoenician Heritage",
-		"uniqueText": "Gain a free Harbor in all of your costal cities, your units can embark upon discovering [Sailing] and Civilian units only pay 1 Movement point when embarking or disembarking",
+		"uniqueText": "Gain a free Harbor in all of your costal cities, your units can embark upon discovering Sailing and Civilian units only pay 1 Movement point when embarking or disembarking",
 		"uniques": ["[1] Movement point cost to embark <for [Civilian] units>", "[1] Movement point cost to disembark <for [Civilian] units>", "Gain a free [Harbor] [in all coastal cities]", "Enables embarkation for land units <after discovering [Sailing]>"],
 		"cities": ["Carthage","Utique","Hippo Regius","Gades","Saguntum","Carthago Nova","Panormus","Lilybaeum","Hadrumetum","Zama Regia",
 			"Karalis","Malaca","Leptis Magna","Hippo Diarrhytus","Motya","Sulci","Leptis Parva","Tharros","Soluntum","Lixus",

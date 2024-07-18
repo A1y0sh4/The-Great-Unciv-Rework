@@ -64,6 +64,7 @@
             "[+4] to Fertility for Map Generation",
 	    "Starts in regions of this type receive an extra [Wheat]",
 	    "Starts in regions of this type receive an extra [Horses]",
+	    "Starts in regions of this type receive an extra [Horses]",
             "A Region is formed with at least [33]% [Plains] tiles, with priority [6]",
             "A Region can not contain more [Grassland] tiles than [Plains] tiles",
             "Considered [Desirable] when determining start locations",

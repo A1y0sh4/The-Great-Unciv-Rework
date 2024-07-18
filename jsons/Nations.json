@@ -1378,8 +1378,8 @@
 		"innerColor": [255,120,0],
 		
 		"uniqueName": "Mongol Terror",
-		"uniqueText": "Start with Animal Husbandry\nMounted units do not suffer Strength penalty when attacking cities",
-		"uniques": ["Starts with [Animal Husbandry]", "[+1] Movement <for [Mounted] units>", "[+33]% Strength <vs cities> <when attacking> <for [Mounted] units>"],
+		"uniqueText": "Mounted units gain +1 Movement and do not suffer Strength penalty when attacking cities",
+		"uniques": ["[+1] Movement <for [Mounted] units>", "[+33]% Strength <vs cities> <when attacking> <for [Mounted] units>"],
 		"cities": ["Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan",
 			"Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg",
 			"Baruun-Urt","Ereen","Batshireet","Choyr","Ulaangom","Tosontsengel","Altay","Uliastay","Bayanhongor",
@@ -1864,8 +1864,8 @@
 		"innerColor": [77,2,4],
 		
 		"uniqueName": "Scourge of God",
-		"uniqueText": "Start with Animal Husbandry\nMilitary units heal 33 HP upon killing units but can only heal pillaging (before discovering Civil Service)\nUpon killing a Barbarian you may recruit it (with 75% chance) and earn 10 additional [Gold]",
-		"uniques": ["Starts with [Animal Husbandry]", "[Military] units gain the [Barbarian] promotion <before discovering [Civil Service]>", "When defeating a [Barbarian] unit, earn [10] Gold and recruit it <with [75]% chance>"],
+		"uniqueText": "Military units heal 33 HP upon killing units but can only heal pillaging (before discovering Civil Service)\nUpon killing a Barbarian you may recruit it (with 75% chance) and earn 10 additional [Gold]",
+		"uniques": ["[Military] units gain the [Barbarian] promotion <before discovering [Civil Service]>", "When defeating a [Barbarian] unit, earn [10] Gold and recruit it <with [75]% chance>"],
 		"cities": ["Etzelburg", "Szeged", "Esztergom", "Buda", "Pécs", "Eger", "Székesfehérvár", "Győr", "Kőszeg", "Diósgyőr", "Mohács", "Tata", "Kecskemét", "Szombathely", "Sárvár", "Sopron", "Hódmezővásárhely", "Sümeg"],
 		"spyNames": ["Balamber", "Uldin", "Donatus", "Charato", "Octar", "Bleda", "Ellac", "Dengizik", "Hildico", "Gudrun"]
 	},

@@ -885,6 +885,7 @@
 		"innerColor": [204,122,40],
 		
 		"uniqueName": "Narikala Fortress",
+		"uniqueText": "May buy Walls and Castles with Faith, gain +1 [Faith] from every Mountain",
 		"uniques": ["May buy [Walls] buildings for [75] [Faith] [in all cities]", "May buy [Castle] buildings for [150] [Faith] [in all cities]", "[+1 Faith] from every [Mountain]"],
 		"cities": ["Tbilisi", "Kaspi", "Rustavi", "Tskhumi", "Akhalkalaki", "Kutaisi", "Zugdidi", "Batumi", "Gori",
 		"Mtskheta", "Poti", "Telavi", "Akhali Atoni", "Akhaltsikhe", "Bichvinta", "Borjomi", "Dedoplistsqaro", "Dmanisi",
@@ -949,6 +950,7 @@
 		"innerColor": [255,221,0],
 		
 		"uniqueName": "Ejército Patriota",
+		"uniqueText": "Military units heal 33 HP upon being promoted and gain double XP during a Golden Age",
 		"uniques": ["[Military] units gain the [Pride] promotion", "[+100]% XP gained from combat <for [Military] units> <during a Golden Age>"],
 		"cities": ["Bogotá","Caracas","Quito","Valencia De Carabobo","Cali","Medellín","Maracaibo","Cumaná","Guayaquil","Panamá",
 			"Cartagena de Indias","Popayán","Cuenca","Barinas","Santa Marta","Loja","Angostura","Pasto","Nueva Barcelona","Neiva",
@@ -980,7 +982,8 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [65, 141, 254],
 		"uniqueName": "Hellenic League",
-		"uniques": ["Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[-50]% City-State Influence degradation <when at war>", "Allied City-States provide [Science] equal to [50]% of what they produce for themselves"],
+		"uniqueText": "Gain Military units twice as fast from allied City-States\nCity-States influence degrade half as fast when at was\nGain 1/3 of the [Science] your allied City-States generate",
+		"uniques": ["Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[-50]% City-State Influence degradation <when at war>", "Allied City-States provide [Science] equal to [33]% of what they produce for themselves"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
 			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos","Sicyon",
@@ -1012,6 +1015,7 @@
 		"innerColor": [45,45,45],
 		
 		"uniqueName": "Free Imperial Cities",
+		"uniqueText": "Can spend Gold to annex or puppet a City-State that has been your ally for 5 turns\nMay not annex cities, but may buy items in puppet cities\nPuppeted cities give an additional +3 [Happiness] and +5 [Gold]",
 		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns.", "May not annex cities", "May buy items in puppet cities", "[+3 Happiness, +5 Gold] [in puppeted cities]"],
 		"cities": ["Aachen","Frankfurt","Magdeburg","Regensburg","Strasbourg","Lübeck","Augsburg","Nuremberg","Munich","Worms","Ulm","Dortmund","Mainz","Leipzig","Hannover","Cologne","Stuttgart","Dusseldorf","Bremen",
 			"Duisburg","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
@@ -1054,6 +1058,7 @@
 		"outerColor": [255,184,33],
 		"innerColor": [3,115,86],
 		"uniqueName": "Great Andean Road",
+		"uniqueText": "Your light units can move through Mountains and Hills without Movement point penalties",
 		"uniques": ["[Sword] units gain the [Climber] promotion", "[Archer] units gain the [Climber] promotion", "[Scout] units gain the [Climber] promotion",
 			    "[+1 Food] from every [Mountain]"],
 		"cities": ["Cuzco","Tiwanaku","Machu","Ollantaytambo","Corihuayrachina","Huamanga","Rumicucho","Vilcabamba","Vitcos",
@@ -1086,6 +1091,7 @@
 		"innerColor": [255, 168, 81],
 		
 		"uniqueName": "Population Growth",
+		"uniqueText": "Gain +15 [Food] in all cities and +1 [Faith] from every Cattle",
 		"uniques": ["[15]% [Food] [in all cities]", "[+1 Faith] from every [Cattle]"],
 		"cities": ["Delhi","Mumbai","Vijayanagara","Pataliputra","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
 			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur",
@@ -1116,6 +1122,7 @@
 		"innerColor": [246,205,137],
 		
 		"uniqueName": "The Great Warpath",
+		"uniqueText": "All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.\nYour Sword are invisible to non-adjacent units when in Rough terrain",
 		"uniques": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.", "[Sword] units gain the [Ambush I] promotion"],
 		"cities": ["Onoondaga","Osininka","Grand River","Akwesasme","Buffalo Creek","Brantford","Montreal","Genesse River",
 			"Canandaigua Lake","Lake Simcoe","Salamanca","Gowanda","Cuba","Akron","Kanesatake","Ganienkeh","Cayuga Castle",
@@ -1147,6 +1154,7 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Renaissance Flower",
+		"uniqueText": "Empire enters a Golden Age upon constructing a World Wonder but the Golden Age [Production] bonus doesn't apply when building Wonders",
 		"uniques": ["Empire enters golden age <upon constructing [World Wonder]>", "[-20]% Production when constructing [All] wonders [in all cities] <during a Golden Age>"],
 		"cities": ["Rome", "Naples", "Milan", "Turin", "Florence", "Venice", "Genoa", "Bologna", "Palermo", "Modena", "Verona", "Brescia", "Vicenza", "Prato", "Bari", "Catania", "Parma", "Livorno", "Cagliari", "Foggia",
 			"Salerno", "Forlì", "Pisa", "Asti", "Messina", "Trieste", "Padua", "Siracusa", "Ferrara", "Novara",
@@ -1209,6 +1217,7 @@
 		"innerColor": [255,233,142],
 		
 		"uniqueName": "Greco-Varangian Way",
+		"uniqueText": "Units move through Rivers without penalty and Fresh Water tiles yield +1 additional [Gold]",
 		"uniques": ["[All] units gain the [River Mobility] promotion", "[+1 Gold] from [Fresh Water] tiles [in all cities]"],
 		"cities": ["Kiev","Polotsk","Novgorod","Pskov","Ryazan","Tver","Vladimir","Smolensk","Chernigov","Pereyaslavl","Kaniv","Horchevsk",
 			"Hubyn","Iskorosten","Volodymyr","Dorogochyn","Lublin","Halych","Rodka","Kiliya","Bilyar"],
@@ -1270,6 +1279,7 @@
 		"innerColor": [254, 218, 54],
 		
 		"uniqueName": "Hellenistic Fusion",
+		"uniqueText": "Upon capturing a city, receive immediatly 5 times its respective [Science] and [Culture] production as [Science] and [Culture]",
 		"uniques": ["Upon capturing a city, receive [5] times its [Science] production as [Science] immediately", "Upon capturing a city, receive [5] times its [Culture] production as [Culture] immediately", "[-100]% Unhappiness from [Population] [in puppeted cities]"],
 		"cities": ["Pella","Aigai","Thessaloniki","Dion","Pydna","Amphipolis","Alexandropouli","Alexandria Troas","Alexandria","Alexandria Ariana",
 			"Alexandria Arachosia","Alexandria Eschate","Alexandria in Parapamisdai","Alexandria in Margiana","Alexandria Bucephala","Alexandria Rhambakia","Alexandria in Susiana","Stagira","Apollonia","Philippolis",
@@ -1301,6 +1311,7 @@
 		"innerColor": [167,52,31],
 		
 		"uniqueName": "Great Nusantara",
+		"uniqueText": "Earn 50% of killed Military Water unit's Strength as [Faith], enables to buy Military Water units with [Faith] before the Industrial era, gain an additional +1 [Faith] from every Fishing Boats",
 		"uniques": ["Earn [50]% of killed [{Military} {Water}] unit's [Strength] as [Faith]", "May buy [Water] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>", "[+1 Faith] from every [Fishing Boats]"],
 		"cities": ["Trowulan","Daha","Kahuripan","Lumajang","Lasem","Pajang","Tuban","Madura","Tumasik","Palembang",
 			"Jambi","Lwa Gajah","Lombok Mirah","Gurun","Saksak","Tanjung Kute","Banjar","Katingan","Sampit","Darmmacraya",
@@ -1366,7 +1377,8 @@
 		"innerColor": [255,120,0],
 		
 		"uniqueName": "Mongol Terror",
-		"uniques": ["Starts with [Animal Husbandry]", "[+1] Movement <for [Mounted] units>", "[Mounted] units gain the [Blitz] promotion"],
+		"uniqueText": "Start with Animal Husbandry, Mounted units gain +1 Movement and the Shock I promotion",
+		"uniques": ["Starts with [Animal Husbandry]", "[+1] Movement <for [Mounted] units>", "[Mounted] units gain the [Shock I] promotion"],
 		"cities": ["Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan",
 			"Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg",
 			"Baruun-Urt","Ereen","Batshireet","Choyr","Ulaangom","Tosontsengel","Altay","Uliastay","Bayanhongor",
@@ -1397,6 +1409,7 @@
 		"innerColor": [40, 179, 79],
 		
 		"uniqueName": "Gateway to Africa",
+		"uniqueText": "Gain an additional +1 [Gold] and +1 [Culture] in all cities connected to capital, trade routes are 25% cheaper to maintain",
 		"uniques": ["[+1 Gold, +1 Culture] [in all cities connected to capital]", "[-25]% maintenance on road & railroads"],
 		"cities": ["Marrakech","Rabat","Fes","Casablanca","Tangier","Salé","Ouarzazate","Meknes","Agadir","Oujda",
 			"Kenitra","Tetouan","Essaouira","Safi","Taroudannt","Mohammedia","El Aaiun","Beni Mellal","El Jadida","Ksar el Kebir","Taza",
@@ -1428,6 +1441,7 @@
 		"innerColor": [105,73,45],
 		
 		"uniqueName": "Ta-Seti",
+		"uniqueText": "Archery units are 33% faster to build and they gain +50% XP and the Accuracy I promotion",
 		"uniques": ["[+33]% Production when constructing [Archery] units [in all cities]", "[+50]% XP gained from combat <for [Archery] units>", "[Archery] units gain the [Accuracy I] promotion"],
 		"cities": ["Meroë","Napata","Kerma","Miam","El-Kurru","Abu Simbel","Pachoras","Buhen","Nuri","Kawa","Soleb","Wad ban Naqa","Debba","Sadeinga","Iken","Buhen","Faras","Pademe","Shaat","Heh","Dengeil","Bugdumbush","Amara","Pedeme"],
 		"spyNames": ["Alara", "Amanirenas", "Apedemak", "Amenirdis", "Arqamani", "Kadimalo", "Mandulis", "Nasala", "Piye", "Tabiry"]
@@ -1456,6 +1470,7 @@
 		"innerColor": [244,232,54],
 		
 		"uniqueName": "Achaemenid Legacy",
+		"uniqueText": "All units gain +1 Movement point and +10% Strength during a Golden Age, all Golden Ages last 50% more",
 		"uniques": ["[+1] Movement <for [All] units> <during a Golden Age>", "[+10]% Strength <for [All] units> <during a Golden Age>", "[+50]% Golden Age length"],
 		"cities": ["Persepolis","Parsagadae","Susa","Ecbatana","Tarsus","Gordium","Bactra","Sardis","Ergili","Dariushkabir",
 			"Ghulaman","Zohak","Istakhr","Jinjan","Borazjan","Herat","Dakyanus","Bampur","Turengtepe","Rey","Shiraz",

@@ -50,12 +50,12 @@
     {
         "name": "Goddess of Festivals",
         "type": "Pantheon",
-        "uniques": ["[+3]% [Culture] [in this city] <with [Beer]>",
-                    "[+3]% [Culture] [in this city] <with [Wine]>",
-                    "[+3]% [Culture] [in this city] <with [Rum]>",
-                    "[+3]% [Culture] [in this city] <with [Whisky]>",
-                    "[+3]% [Culture] [in this city] <with [Vodka]>",
-                    "[+3]% [Culture] [in this city] <with [Cognac]>"]
+        "uniques": ["[+4]% [Culture] [in this city] <with [Beer]>",
+                    "[+4]% [Culture] [in this city] <with [Wine]>",
+                    "[+4]% [Culture] [in this city] <with [Rum]>",
+                    "[+4]% [Culture] [in this city] <with [Whisky]>",
+                    "[+4]% [Culture] [in this city] <with [Vodka]>",
+                    "[+4]% [Culture] [in this city] <with [Cognac]>"]
     },
     {
         "name": "Goddess of Love",
@@ -121,12 +121,12 @@
      {
         "name": "Religious Teetotality",
         "type": "Follower",
-        "uniques": ["[+3]% [Faith] [in this city] <without [Beer]>",
-                    "[+3]% [Faith] [in this city] <without [Wine]>",
-                    "[+3]% [Faith] [in this city] <without [Rum]>",
-                    "[+3]% [Faith] [in this city] <without [Whisky]>",
-                    "[+3]% [Faith] [in this city] <without [Vodka]>",
-                    "[+3]% [Faith] [in this city] <without [Cognac]>"]
+        "uniques": ["[+4]% [Faith] [in this city] <without [Beer]>",
+                    "[+4]% [Faith] [in this city] <without [Wine]>",
+                    "[+4]% [Faith] [in this city] <without [Rum]>",
+                    "[+4]% [Faith] [in this city] <without [Whisky]>",
+                    "[+4]% [Faith] [in this city] <without [Vodka]>",
+                    "[+4]% [Faith] [in this city] <without [Cognac]>"]
     },
     {
         "name": "Cathedrals",
@@ -206,7 +206,7 @@
     {
         "name": "Religious Center",
         "type": "Follower",
-        "uniques": ["[+100]% Natural religion spread [in holy cities]"]
+        "uniques": ["[+1 Faith] from all [Faith] buildings <in cities with at least [6] [Followers of this Religion]>"]
     },
     {
         "name": "Religious Community",

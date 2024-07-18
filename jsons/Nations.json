@@ -1248,7 +1248,7 @@
 		"innerColor": [255,0,0],
 		
 		"uniqueName": "Scholars of the Jade Hall",
-		"uniqueText": "Receive a tech boost when scientific buildings/wonders are built in capital, Gain 50% of your [Happiness] value as [Science] and All specialists in your cities give -33% Unhappiness",
+		"uniqueText": "Receive a tech boost when scientific buildings/wonders are built in capital\nGain 50% of your [Happiness] value as [Science]\nAll specialists in your cities give -33% Unhappiness",
 		"uniques": ["Receive a tech boost when scientific buildings/wonders are built in capital", "[-33]% Unhappiness from [Specialists] [in all cities]", "[50]% of excess happiness converted to [Science]"],
 		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",

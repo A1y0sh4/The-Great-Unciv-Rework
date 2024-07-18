@@ -1040,9 +1040,9 @@
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 24,
-		"cost": 105,
+		"cost": 115,
 		"requiredTech": "Gunpowder",
-		"uniques": ["[+15]% Strength <vs [Gunpowder] units>"],
+		"uniques": ["[+33]% Strength <vs [Gunpowder] units>"],
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "metalhit"

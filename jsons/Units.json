@@ -1039,10 +1039,10 @@
 		"uniqueTo": "Zulu",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 21,
+		"strength": 24,
 		"cost": 105,
 		"requiredTech": "Gunpowder",
-		"uniques": ["[+33]% Strength <vs [Gunpowder] units>", "Heals [15] damage if it kills a unit"],
+		"uniques": ["[+15]% Strength <vs [Gunpowder] units>"],
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "metalhit"

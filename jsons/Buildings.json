@@ -952,15 +952,15 @@
 		"name": "Barbican",
 		"replaces": "Armory",
 		"uniqueTo": "Poland",
-		"cityStrength": 3,
-		"cityHealth": 25,
+		"cityStrength": 2,
+		"cityHealth": 15,
 		"culture": 1,
 		"production": 1,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Barracks",
 		"uniques": ["New [{Land} {Military}] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Chivalry"
+		"requiredTech": "Metal Casting"
 	},
 
 	// Renaissance Era

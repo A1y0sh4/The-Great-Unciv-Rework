@@ -136,8 +136,8 @@
 		"innerColor": [230, 40, 50],
 		
 		"uniqueName": "Golden Stool",
-		"uniqueText": "Your Palace yields an additional +1 value for every stat\nBuild Courthouses 50% faster",
-		"uniques": ["[+1 Food, +1 Production, +1 Gold, +1 Science, +1 Happiness, +1 Faith] from every [Palace]", "[+50]% Production when constructing [Courthouse] buildings [in all cities]"],
+		"uniqueText": "Your Palace yields an additional +1 value for every stat\nCourthouses are built 50% faster",
+		"uniques": ["[+1 Food, +1 Production, +1 Gold, +1 Culture, +1 Science, +1 Happiness, +1 Faith] from every [Palace]", "[+50]% Production when constructing [Courthouse] buildings [in all cities]"],
 		"cities": ["Kumasi","Bantama","Mampong","Edweso","Bekwai","Kumawu","Obuasi","Adanse","Asante-Akim Agogo","Juaben",
 			"Ejisu","Fomena","Agona-Ashanti","Dunkwa-on-Offin","Techiman","Afram Plains","Konongo","Akwatia","Obogu","Nkawie","Asokore Mampong",
 			"Obuasi-Bekwai","Krofrom","Bomaa","Kwabre","Adumasa","Sekyere-Hemang","Aboabo","Adansi","Besease",

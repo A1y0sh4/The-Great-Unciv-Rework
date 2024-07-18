@@ -800,7 +800,7 @@
 		"turnsInto": "Coast",
 		"impassable": false,
 		"unbuildable": true,
-		"uniques": ["Fresh water", "Must be adjacent to [0] [Coast] tiles", "Occurs in groups of [1] to [3] tiles", "Tile provides yield without assigned population", "Grants [Civilized] ([Stronger against Barbarians]) to adjacent [{Military} {Land}] units for the rest of the game"],
+		"uniques": ["Fresh water", "Must be adjacent to [0] [Coast] tiles", "Occurs in groups of [2] to [3] tiles", "Tile provides yield without assigned population", "Grants [Civilized] ([Stronger against Barbarians]) to adjacent [{Military} {Land}] units for the rest of the game"],
 		"weight": 10
 	},
 	{

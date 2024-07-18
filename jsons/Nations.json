@@ -1903,6 +1903,7 @@
 		"innerColor": [24,63,66],
 
 		"uniqueName": "The Long Count",
+		"uniqueText": "Receive a free Great Person at the end of every Maya Long Count calendar cycle (every 394 years), after researching [Theology] (each bonus person can only be chosen once).\nOnce The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
 		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
 			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count."],
 		"cities": ["Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul",
@@ -1935,6 +1936,7 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Dutch East India Company",
+		"uniqueText": "Gain 50% of your [Happiness] value as [Gold] and gain an additional +1 [Happiness] from every Lighthouse, Harbor and Seaport",
 		"uniques": ["[50]% of excess happiness converted to [Gold]", "[+1 Happiness] from every [Lighthouse]", "[+1 Happiness] from every [Harbor]", "[+1 Happiness] from every [Seaport]"],
 		"cities": ["Amsterdam","Rotterdam","Utrecht","Groningen","Breda","Nijimegen","Den Haag","Haarlem","Arnhem","Zutphen",
 			"Maastricht","Tilburg","Eindhoven","Dordrecht","Leiden","Hertogenbosch","Almere","Alkmaar","Brielle","Vlissingen",
@@ -1966,6 +1968,7 @@
 		"innerColor": [18,84,30],
 		
 		"uniqueName": "The Great Turkish Bombard",
+		"uniqueText": "Siege units are built in half the time, they are 50% stronger against Cities and they gain XP 50% faster",
 		"uniques": ["[+50]% Production when constructing [Siege] units [in all cities]", "[+50]% Strength <for [Siege] units> <vs cities>", "[+50]% XP gained from combat <for [Siege] units>"],
 		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyabakir","Izmir","Kayseri","Malatya",
 			"Marsin","Antalya","Zonguldak","Denizli","Ordu","Mugia","Eskishehir","Inebolu","Sinop","Adana","Artuin",
@@ -1997,6 +2000,7 @@
 		"innerColor": [218,37,29],
 		
 		"uniqueName": "Guerrilla Tactics",
+		"uniqueText": "Light and Gunpowder units are 10% stronger, can ignore Zones of Control and can move after attacking while in Friendly Tiles",
 		"uniques": ["[Sword] units gain the [Guerrilla Tactics] promotion", "[Archery] units gain the [Guerrilla Tactics] promotion", "[Gunpowder] units gain the [Guerrilla Tactics] promotion"],
 		"cities": ["Thăng Long","Huế","Hoa Lư","Trà Kiệu","Đồng Hới","Quảng Trị","Sài Gòn","Hải Phòng","Cần Thơ","Đà Nẵng","Thái Nguyên","Hạ Long","Quy Nhơn","Đà Lạt","Biên Hòa","Nha Trang","Rạch Giá"
 		"Nam Định","Vinh","Buôn Ma Thuột","Việt Trì"],
@@ -2026,6 +2030,7 @@
 		"innerColor": [116,55,25],
 		
 		"uniqueName": "Iklwa",
+		"uniqueText": "Your Sword units gain 50% more XP, they cost 50% less maintenance and heal an additional +5 HP when healing",
 		"uniques": ["[+50]% XP gained from combat <for [Sword] units>", "[-50]% maintenance costs <for [Sword] units>", "[+5] HP when healing <for [Sword] units>"],
 		"cities": ["Ulundi","Umgungundlovu","Bulawayo","KwaDukuza","Nongoma","oNdini","Nodwengu","Ndonakusuka","Babanango","Khangela",
 			"KwaHlomendlini","Hlobane","eThekwini","Mlambongwenya","Eziqwaqweni","Isiphezi","Masotsheni","Mtunzini","Nyakamubi","Dumazulu",

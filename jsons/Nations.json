@@ -136,8 +136,8 @@
 		"innerColor": [230, 40, 50],
 		
 		"uniqueName": "Golden Stool",
-		"uniqueText": "Your Palace yields an additional +1 [Culture] and +2 [Happiness]\nGain +1 [Gold] from every Military building",
-		"uniques": ["[+1 Culture, +2 Happiness] from every [Palace]", "[+1 Gold] from every [Barracks]", "[+1 Gold] from every [Armory]", "[+1 Gold] from every [Military Academy]"],
+		"uniqueText": "Your Palace yields an additional +1 value for every stat\nBuild Courthouses 50% faster",
+		"uniques": ["[+1 Food, +1 Production, +1 Gold, +1 Science, +1 Happiness, +1 Faith] from every [Palace]", "[+50]% Production when constructing [Courthouse] buildings [in all cities]"],
 		"cities": ["Kumasi","Bantama","Mampong","Edweso","Bekwai","Kumawu","Obuasi","Adanse","Asante-Akim Agogo","Juaben",
 			"Ejisu","Fomena","Agona-Ashanti","Dunkwa-on-Offin","Techiman","Afram Plains","Konongo","Akwatia","Obogu","Nkawie","Asokore Mampong",
 			"Obuasi-Bekwai","Krofrom","Bomaa","Kwabre","Adumasa","Sekyere-Hemang","Aboabo","Adansi","Besease",

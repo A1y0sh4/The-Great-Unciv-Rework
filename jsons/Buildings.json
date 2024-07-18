@@ -69,10 +69,11 @@
                 "replaces": "Granary",
 		"uniqueTo": "Ashanti",
 		"cost": 40,
+		"food": 1,
 		"faith": 1,
-		"maintenance": 2,
+		"maintenance": 1,
 		"hurryCostModifier": 25,
-	        "percentStatBonus": {"food": 10, "culture": 10},
+	        "percentStatBonus": {"food": 10},
 		"requiredTech": "Pottery"
 		
 	},

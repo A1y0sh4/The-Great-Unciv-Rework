@@ -331,13 +331,12 @@
 		"revealedBy": "Pottery",
 		"terrainsCanBeFoundOn": ["Coast","Forest"],
 		"culture": 1,
-		"improvement": "Plantation",
+		"improvement": "Mine",
 		"improvement": "Fishing Boats",
-		"uniques": ["Resource", "Generated with weight [25] <in [Jungle] Regions>",
-			                "Generated with weight [20] <in [Desert] Regions>",
+		"uniques": ["Resource", "Generated with weight [25] <in [Forest] Regions>",
+			                "Generated with weight [20] <in [Coast] Regions>",
 					"Generated with weight [5] <in [Hybrid] Regions>",
-		                        "Doesn't generate naturally <in [Tundra] tiles>", "Doesn't generate naturally <in [Plains] tiles>", "Doesn't generate naturally <in [Hill] tiles>", "Doesn't generate naturally <in [Desert] tiles>",
-		                        "Doesn't generate naturally <in [Tundra] Regions>", "Doesn't generate naturally <in [Desert] Regions>"]
+		                        "Doesn't generate naturally <in [Desert] Regions>"]
 	},
 	{
 		"name": "Poppy",

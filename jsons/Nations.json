@@ -1379,7 +1379,7 @@
 		
 		"uniqueName": "Mongol Terror",
 		"uniqueText": "Mounted units gain +1 Movement and do not suffer Strength penalty when attacking cities",
-		"uniques": ["[+1] Movement <for [Mounted] units>", "[+33]% Strength <vs cities> <when attacking> <for [Mounted] units>"],
+		"uniques": ["[+1] Movement <for [Mounted] units>", "Gain a free [Stable] [in all cities]", "[+1 Happiness] from every [Stable]"],
 		"cities": ["Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan",
 			"Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg",
 			"Baruun-Urt","Ereen","Batshireet","Choyr","Ulaangom","Tosontsengel","Altay","Uliastay","Bayanhongor",

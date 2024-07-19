@@ -320,7 +320,7 @@
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Hill"],
 		"food": 1,
 		"improvement": "Plantation",
-		"uniques": ["Resource", "Generated near City States with weight [25]",
+		"uniques": ["Resource", "Generated near City States with weight [15]",
 			                "Generated with weight [25] <in [Costal] tiles>",
 					"Generated with weight [5] <in [Hybrid] Regions>",
 		                        "Doesn't generate naturally <in [Tundra] tiles>", "Doesn't generate naturally <in [Desert] tiles>",
@@ -334,7 +334,7 @@
 		"improvement": "Mine",
 		"improvement": "Fishing Boats",
 		"uniques": ["Resource", "Generated with weight [25] <in [Forest] Regions>",
-			                "Generated with weight [15] <in [Costal] tiles>",
+			                "Generated with weight [25] <in [Costal] tiles>",
 			                "Generated near City States with weight [25]",
 					"Generated with weight [5] <in [Hybrid] Regions>",
 		                        "Doesn't generate naturally <in [Desert] Regions>"]

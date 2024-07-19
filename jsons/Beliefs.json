@@ -33,6 +33,11 @@
         "uniques": ["[+1 Production] from every [Strategic resource]"]
     },
     {
+        "name": "Earth Mother",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith] from every [Copper]", "[+1 Faith] from every [Iron]", "[+1 Faith] from every [Salt]"]
+    },
+    {
         "name": "God of the Open Sky",
         "type": "Pantheon",
         "uniques": ["[+1 Culture] from every [Pasture]"]

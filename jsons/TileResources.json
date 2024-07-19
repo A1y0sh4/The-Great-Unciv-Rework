@@ -336,7 +336,7 @@
 		"uniques": ["Resource", "Generated with weight [25] <in [Forest] Regions>",
 			                "Generated with weight [25] <in [Costal] tiles>",
 			                "Generated near City States with weight [25]",
-					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated with weight [10] <in [Hybrid] Regions>",
 		                        "Doesn't generate naturally <in [Desert] Regions>"]
 	},
 	{

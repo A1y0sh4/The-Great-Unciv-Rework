@@ -305,7 +305,7 @@
 		"terrainsCanBeFoundOn": ["Grassland","Forest"],
 		"food": 1,
 		"improvement": "Plantation",
-		"uniques": ["Resource", "Generated with weight [50] <in [Grassland] Regions> <in [Friendly Land] tiles>",
+		"uniques": ["Resource", "Generated with weight [50] <in [Grassland] Regions> <in [Fresh Water] tiles>",
 					"Generated with weight [5] <in [Hybrid] Regions>",
                                         "Doesn't generate naturally <in [Hill] tiles>",
 			                "Doesn't generate naturally <in [Tundra] tiles>",

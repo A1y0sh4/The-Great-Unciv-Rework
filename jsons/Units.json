@@ -144,7 +144,7 @@
 		"movement": 2,
 		"range": 1,
 		"strength": 8,
-		"rangedStrength": 16,
+		"rangedStrength": 15,
 		"requiredTech": "Guilds",
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Ranger",
@@ -2078,7 +2078,7 @@
 	{
 		"name": "Diplomat",
 		"unitType": "Civilian",
-		"uniques": ["May enter foreign tiles without open borders", "May Paradrop up to [16] tiles from inside friendly territory", "Unbuildable", "Uncapturable"
+		"uniques": ["May enter foreign tiles without open borders", "May Paradrop up to [16] tiles from inside friendly territory", "Can undertake a trade mission with City-State, giving a large sum of gold and [90] Influence", "Unbuildable", "Uncapturable"
 		],
 		"movement": 2
 	}

@@ -91,12 +91,13 @@
 	// Column 2
 	{
 		"name": "Stone Works",
-		"requiredNearbyImprovedResources": ["Marble", "Stone"],
+		"requiredNearbyImprovedResources": ["Obsidian", "Marble", "Stone"],
 		"maintenance": 1,
 		"hurryCostModifier": 0,
-		"uniques": ["[+5]% Production when constructing [All] buildings [in all cities]",
+		"uniques": ["[+15]% Production when constructing [All] buildings [in this city]",
 			    "[+1 Production] from [Stone] tiles [in this city]",
-                            "[+1 Production] from [Marble] tiles [in this city]"],
+                            "[+1 Production] from [Marble] tiles [in this city]",
+                            "[+1 Production] from [Obsidian] tiles [in this city]"],
 		"requiredTech": "Masonry"
 	},
 	{

@@ -286,7 +286,7 @@
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
 			"[+1 Food] <after discovering [Fertilizer]>",
             "Pillaging this improvement yields approximately [+13 Gold]"],
-		"techRequired": "Construction",
+		"techRequired": "Calendar",
 		"shortcutKey": "F"
 	},
 	{

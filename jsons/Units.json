@@ -2075,7 +2075,7 @@
 	{
 		"name": "Diplomat",
 		"unitType": "Civilian",
-		"uniques": ["May enter foreign tiles without open borders", "May Paradrop up to [16] tiles from inside friendly territory", "Unbuildable"
+		"uniques": ["May enter foreign tiles without open borders", "May Paradrop up to [16] tiles from inside friendly territory", "Unbuildable", "Uncapturable"
 		],
 		"movement": 2
 	}

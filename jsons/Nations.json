@@ -338,8 +338,8 @@
 		"innerColor": [63,106,64],
 		
 		"uniqueName": "Amazon",
-		"uniqueText": "Improved Jungles yield an additional +1 [Culture] and +1 [Gold]\nGreat Improvements adjacent to Jungle yield +3 more of their stats",
-		"uniques": ["[+1 Culture, +1 Gold] from every [Improvement] <in [Jungle] tiles>", "[+60]% Yield from every [Great Improvement] <within [1] tiles of a [Jungle]>"],
+		"uniqueText": "Improved Jungles yield an additional +1 [Culture] and +1 [Gold]\nGreat Improvements adjacent to Jungle yield 50% more of their stats",
+		"uniques": ["[+1 Culture, +1 Gold] from every [Improvement] <in [Jungle] tiles>", "[+50]% Yield from every [Great Improvement] <within [1] tiles of a [Jungle]>"],
 		"cities": ["Rio de Janeiro", "Sao Paulo", "Salvador", "Brasilia", "Fortaleza", "Belo Horizonte", "Manaus", "Curitiba", "Recife", "Porto Alegre",
 			"Belém", "Goiânia", "Guarulhos", "Campinas", "São Luis", "Maceió", "Duque de Caxias", "Natal", "Campo Grande", "Teresina",
 			"Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju",
@@ -1248,8 +1248,8 @@
 		"innerColor": [255,0,0],
 		
 		"uniqueName": "Scholars of the Jade Hall",
-		"uniqueText": "Receive a tech boost when scientific buildings/wonders are built in capital\nSpecialists in the capital do not cause unhappiness and they yield an additional +2 [Science] each\nGain 1/3 of your [Happiness] value as [Science]",
-		"uniques": ["Receive a tech boost when scientific buildings/wonders are built in capital", "[-100]% Unhappiness from [Specialists] [in capital]", "[+2 Science] from every specialist [in capital]", "[33]% of excess happiness converted to [Science]"],
+		"uniqueText": "Receive a tech boost when scientific buildings/wonders are built in capital\nSpecialists in the capital do not cause unhappiness and they yield an additional +2 [Science] each\nGain 50% of your [Happiness] value as [Science]",
+		"uniques": ["Receive a tech boost when scientific buildings/wonders are built in capital", "[-100]% Unhappiness from [Specialists] [in capital]", "[+2 Science] from every specialist [in capital]", "[50]% of excess happiness converted to [Science]"],
 		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
 			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"],

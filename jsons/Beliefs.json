@@ -40,7 +40,12 @@
     {
         "name": "Ritual Drinks",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Tea]", "[+1 Culture, +1 Faith] from every [Coffee]", "[+1 Faith] from every [Cocoa]"]
+        "uniques": ["[+1 Culture] from every [Tea]", "[+1 Culture] from every [Coffee]"]
+    },
+    {
+        "name": "Eleusinian Mysteries",
+        "type": "Pantheon",
+        "uniques": ["[+1 Food] from every [Wheat]", "[+1 Food] from every [Grape]"]
     },
     {
         "name": "God of the Open Sky",

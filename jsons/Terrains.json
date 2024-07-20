@@ -214,6 +214,7 @@
 			"Blocks line-of-sight from tiles at same elevation",
 			"[25]% Chance to be destroyed by nukes",
 			"[+2] to Fertility for Map Generation",
+			"Starts in regions of this type receive an extra [Maize]",
 			"A Region is formed with at least [67]% [Jungle] tiles, with priority [3]",
 			"A Region is formed with at least [75]% [Jungle] tiles and [Forest] tiles, with priority [3]",
 			"A Region can not contain more [Forest] tiles than [Jungle] tiles",

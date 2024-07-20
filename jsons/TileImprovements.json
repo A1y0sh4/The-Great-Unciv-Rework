@@ -260,7 +260,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 5,
 		"uniques": ["Improvement", "Can only be built on [Coastal] tiles", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+13 Gold]", "Cannot be built on [Resource] tiles", "Tile provides yield without assigned population"],
-		"techRequired": "Construction",
+		"techRequired": "Sailing",
 		"shortcutKey": "M"
 	},
 	{

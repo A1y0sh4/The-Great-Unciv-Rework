@@ -988,7 +988,7 @@
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Privateer",
 		"obsoleteTech": "Navigation",
-		"uniques": ["May withdraw before melee ([80]%)", "Never appears as a Barbarian unit"],
+		"uniques": ["Withdraws before melee combat <with [80]% chance>", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
 	},
@@ -1355,7 +1355,7 @@
 		"obsoleteTech": "Combustion",
 		"upgradesTo": "Landship",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Ignores Zone of Control", "May withdraw before melee ([50]%)"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Ignores Zone of Control", "Withdraws before melee combat <with [50]% chance>"],
 		"attackSound": "horse"
 	},
 	{
@@ -1634,7 +1634,7 @@
 		"requiredResource": "Oil",
 		"requiredTech": "Combustion",
 		"uniques": ["Can see invisible [Submarine] units", "[50]% chance to intercept air attacks",
-			"May withdraw before melee ([67]%)", "[+100]% Strength <vs [Submarine] units>", "Never appears as a Barbarian unit", "Destroys tile improvements when attacking"],
+			"Withdraws before melee combat <with [67]% chance>", "[+100]% Strength <vs [Submarine] units>", "Never appears as a Barbarian unit", "Destroys tile improvements when attacking"],
 		"attackSound": "shipguns"
 	},
 

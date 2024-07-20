@@ -17,7 +17,7 @@
 		"requiredTech": "Agriculture"
 		"culture": 1,
 		"cost": 40,
-		"hurryCostModifier": 40,
+		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
 	},
@@ -29,20 +29,20 @@
 		"culture": 1,
 		"faith": 1,
 		"cost": 30,
-		"hurryCostModifier": 40,
+		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"] //"Hidden when religion is disabled"
 	},
 	{
 		"name": "Pyramid",
-		"replaces": "Monument",
+		"replaces": "Temple",
 		"uniqueTo": "The Maya",
 		"requiredTech": "Calendar"
-		"culture": 2,
-		"science": 2,
-		"faith": 1,
-		"cost": 40,
-		"maintenance": 1,
+		"science": 3,
+		"faith": 2,
+		"cost": 58,
+		"hurryCostModifier": 25,
+		"maintenance": 2,
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	// Column 1

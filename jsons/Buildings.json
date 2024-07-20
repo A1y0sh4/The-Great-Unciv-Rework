@@ -412,7 +412,7 @@
 		"name": "Veche",
 		"replaces": "Colosseum",
 		"cost": 83,
-		"greatPersonPoints": {"Great General": 1},
+		"greatPersonPoints": {"Great General": 2},
 		"happiness": 2,
 		"uniqueTo": "Kievan Rus'",
 		"uniques": ["[+10]% [Production] [in this city] <during We Love The King Day>", "[+10]% [Gold] [in this city] <during We Love The King Day>"],

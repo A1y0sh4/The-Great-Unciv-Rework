@@ -37,10 +37,11 @@
 		"name": "Pyramid",
 		"replaces": "Monument",
 		"uniqueTo": "The Maya",
-		"requiredTech": "Agriculture"
-		"culture": 1,
-		"science": 1,
-		"cost": 30,
+		"requiredTech": "Calendar"
+		"culture": 2,
+		"science": 2,
+		"faith": 1,
+		"cost": 40,
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
 	},

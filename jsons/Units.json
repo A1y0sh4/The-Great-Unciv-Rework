@@ -152,20 +152,6 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Atlatlist",
-		"unitType": "Scout",
-		"cost": 35,
-		"movement": 2,
-		"strength": 6,
-		"rangedStrength": 8,
-		"requiredTech": "Agriculture",
-		"obsoleteTech": "Industrialization",
-		"replaces": "Archer",
-		"uniqueTo": "The Maya",
-		"upgradesTo": "Composite Bowman",
-		"attackSound": "arrow"
-	},
-	{
 		"name": "Pitati",
 		"unitType": "Archery",
 		"cost": 60,
@@ -179,6 +165,22 @@
 		"upgradesTo": "Crossbowman",
 		"promotions":["Mercenary", "Mobility"],
 		"attackSound": "arrow",
+	},
+	{
+		"name": "Atlatlist",
+		"unitType": "Scout",
+		"cost": 60,
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 11,
+		"uniques": ["[+33]% Strength <when attacking>"],
+		"promotions": ["Scouting I"],
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"replaces": "Composite Bowman",
+		"uniqueTo": "The Maya",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
 	},
 	{
 		"name": "Outlaw",

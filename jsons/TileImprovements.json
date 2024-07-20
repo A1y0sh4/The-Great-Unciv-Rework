@@ -300,7 +300,7 @@
 		"uniques": ["Improvement", "Improves [Rice] resource in this tile", "Cannot be built on [Strategic resource] tiles", "Cannot be built on [Luxury resource] tiles", "Cannot be built on [Stone] tiles", "Cannot be built on [Cattle] tiles", "Cannot be built on [Maize] tiles", "Cannot be built on [Wheat] tiles",
 			    "[+1 Food] from [Fresh water] tiles",
 			    "Does not need removal of [Marsh]",
-			    "[+1 Food, +1 Culture] <in [Marsh] tiles>",
+			    "[+1 Food] <in [Marsh] tiles>", "[+1 Culture] <in [Rice] tiles>",
                             "Pillaging this improvement yields approximately [+18 Gold]"],
 	         "shortcutKey": "F"
 	},

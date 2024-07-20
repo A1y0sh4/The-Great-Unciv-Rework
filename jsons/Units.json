@@ -924,7 +924,7 @@
 		"movement": 2,
 		"strength": 10,
 		"rangedStrength": 14,
-		"cost": 95,
+		"cost": 105,
 		"requiredTech": "Physics",
 		"obsoleteTech": "Chemistry",
 		"upgradesTo": "Cannon",

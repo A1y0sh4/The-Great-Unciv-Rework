@@ -2037,7 +2037,7 @@
 		"name": "Great General",
 		"unitType": "Civilian",
 		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>", "[+15]% Strength bonus for [Military] units within [2] tiles", "Can instantly construct a [Citadel] improvement <by consuming this unit>",
-			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+			"Great Person - [War]", "Unbuildable", "Uncapturable", "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence <for [Kievan Rus]>"],
 		"movement": 2
 	},
 	{

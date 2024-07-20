@@ -209,35 +209,35 @@
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"science": 5,
-		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Science]", "Will not be replaced by automated units"]
+		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Science]", "Will not be replaced by automated units", "Tile provides yield without assigned population"]
 	},
 	{
 		"name": "Landmark",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"culture": 5,
-		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Culture]", "Will not be replaced by automated units"]
+		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Culture]", "Will not be replaced by automated units", "Tile provides yield without assigned population"]
 	},
 	{
 		"name": "Manufactory",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 5,
-		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Gold]", "Will not be replaced by automated units"]
+		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Gold]", "Will not be replaced by automated units", "Tile provides yield without assigned population"]
 	},
 	{
 		"name": "Customs house",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"gold": 5,
-		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Gold]", "Will not be replaced by automated units"]
+		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Gold]", "Will not be replaced by automated units", "Tile provides yield without assigned population"]
 	},
 	{
 		"name": "Holy site",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"faith": 5,
-		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Faith]", "Will not be replaced by automated units"]
+		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Faith]", "Will not be replaced by automated units", "Tile provides yield without assigned population"]
 	},
 	{
 		"name": "Citadel",
@@ -248,7 +248,7 @@
 			"Adjacent enemy units ending their turn take [33] damage",
 			"Can be built just outside your borders", "Unpillagable",
         	"Constructing it will take over the tiles around it and assign them to your closest city",
-			"Removes removable features when built", "Will not be replaced by automated units"
+			"Removes removable features when built", "Will not be replaced by automated units", "Tile provides yield without assigned population"
 		]
 	},
 	//Civilization unique improvements
@@ -257,9 +257,9 @@
 		"type": "Improvement",
 		"uniqueTo": "Polynesia",
 		"culture": 1,
-		"terrainsCanBeBuiltOn": ["Plains", "Grassland"],
+		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 5,
-		"uniques": ["Improvement", "[+1 Food] <within [1] tiles of a [Coast]>", "Gives a defensive bonus of [10]%", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+13 Gold]", "Cannot be built on [Resource] tiles"],
+		"uniques": ["Improvement", "Can only be built on [Coastal] tiles", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+13 Gold]", "Cannot be built on [Resource] tiles", "Tile provides yield without assigned population"],
 		"techRequired": "Construction",
 		"shortcutKey": "M"
 	},

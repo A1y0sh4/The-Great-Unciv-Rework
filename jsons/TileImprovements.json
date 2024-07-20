@@ -259,7 +259,7 @@
 		"culture": 1,
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland"],
 		"turnsToBuild": 5,
-		"uniques": ["Improvement", "[+1 Food] <within [1] tiles of a [Coast]>", "Gives a defensive bonus of [10]%", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+18 Gold]"],
+		"uniques": ["Improvement", "[+1 Food] <within [1] tiles of a [Coast]>", "Gives a defensive bonus of [10]%", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+18 Gold]", "Cannot be built on [Resource] tiles"],
 		"techRequired": "Construction",
 		"shortcutKey": "M"
 	},
@@ -312,7 +312,7 @@
 		"production": 1,
 		"terrainsCanBeBuiltOn": ["Grassland", "Plains", "Marsh"],
 		"turnsToBuild": 7,
-		"uniques": ["Improvement", "Can only be built on [Coastal] tiles", "[+2 Food] <in [Marsh] tiles>", "[+1 Production, +1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+18 Gold]"],
+		"uniques": ["Improvement", "Cannot be built on [Resource] tiles", "Can only be built on [Coastal] tiles", "[+2 Food] <in [Marsh] tiles>", "[+1 Production, +1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+18 Gold]"],
 		"techRequired": "Guilds",
 		"shortcutKey": "P"
 	},

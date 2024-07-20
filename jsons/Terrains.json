@@ -463,7 +463,7 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"uniques": ["Fresh water", "Must be adjacent to [1] to [3] [Mountain] tiles", "Must be adjacent to [1] to [3] [Coast] tiles",
+		"uniques": ["Fresh water", "Must be adjacent to [1] to [3] [Mountain] tiles", "Must be adjacent to [0] to [3] [Coast] tiles",
 			"Tile provides yield without assigned population", "Grants [+1 Happiness] to the first civilization to discover it"],
 		"weight": 10
 	},

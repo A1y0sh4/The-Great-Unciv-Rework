@@ -1217,8 +1217,8 @@
 		"innerColor": [255,233,142],
 		
 		"uniqueName": "Greco-Varangian Way",
-		"uniqueText": "Units move through Rivers without any penalty and Fresh Water tiles yield an additional +1 [Gold]",
-		"uniques": ["[All] units gain the [River Mobility] promotion", "[+1 Gold] from [Fresh Water] tiles [in all cities]"],
+		"uniqueText": "Units move through Rivers without any penalty and River tiles yield an additional +1 [Gold]",
+		"uniques": ["[All] units gain the [River Mobility] promotion", "[+1 Gold] from [River] tiles [in all cities]"],
 		"cities": ["Kiev","Polotsk","Novgorod","Pskov","Ryazan","Tver","Vladimir","Smolensk","Chernigov","Pereyaslavl","Kaniv","Horchevsk",
 			"Hubyn","Iskorosten","Volodymyr","Dorogochyn","Lublin","Halych","Rodka","Kiliya","Bilyar"],
 		"spyNames": ["Andriy", "Anastasiya", "Bohdan", "Daryna", "Ivan", "Iryna", "Mykhailo", "Kateryna", "Oleksandr", "Maria"]

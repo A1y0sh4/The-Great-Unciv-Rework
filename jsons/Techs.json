@@ -485,7 +485,7 @@
 			{
 				"name": "Flight", 
 				"row": 6,
-				"prerequisites": ["Biology", "Steam Power"],
+				"prerequisites": ["Biology", "Steam Power", "Electricity", "Dynamite"],
 				"quote": "'Aeronautics was neither an industry nor a science. It was a miracle.' - Igor Sikorsky"
 			},
 			{

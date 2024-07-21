@@ -66,10 +66,9 @@
 		"terrainsCanBeFoundOn": ["Grassland","Marsh", "Flood plains"],
 		"food": 1,
 		"improvement": "Farm",
-		"uniques": ["Resource", "Generated on every [25] tiles <in [Fresh Water] tiles>",
-					"Generated on every [30] tiles <in [{Grassland} {Fresh Water}] tiles> <in tiles without [Hill]>",
-			                "Generated on every [40] tiles <in [{Desert} {Fresh Water}] tiles> <in tiles without [Hill]>",
-					"Generated on every [35] tiles <in [{Featureless} {Plains}] tiles> <in tiles without [Hill]> <in [Hill] Regions>"]
+		"uniques": ["Resource","Generated on every [25] tiles <in [{Grassland} {Fresh Water}] tiles> <in tiles without [Hill]>",
+			                "Generated on every [30] tiles <in [{Desert} {Fresh Water}] tiles> <in tiles without [Hill]>",
+					"Generated on every [20] tiles <in [Marsh] tiles> <in tiles without [Hill]> <in [Hill] Regions>"]
 	},
 	{
 		"name": "Stone",

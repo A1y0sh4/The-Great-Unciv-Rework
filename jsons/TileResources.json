@@ -521,19 +521,19 @@
 	{
 		"name": "Jewelry",
 		"resourceType": "Luxury",
-		"gold": 2,
+		"gold": 3,
 		"uniques": ["Can only be created by Mercantile City-States"]
 	},
 	{
 		"name": "Porcelain",
 		"resourceType": "Luxury",
-		"gold": 2,
+		"gold": 3,
 		"uniques": ["Can only be created by Mercantile City-States"]
 	},
 	{
 		"name": "Dyes",
 		"resourceType": "Luxury",
-		"gold": 2,
+		"gold": 3,
 		"uniques": ["Can only be created by Mercantile City-States"]
 	},
 	{

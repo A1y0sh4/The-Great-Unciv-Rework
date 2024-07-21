@@ -489,11 +489,11 @@
 		"terrainsCanBeFoundOn": ["Jungle","Desert","Hill","Grassland"],
 		"production": 1,
 		"improvement": "Quarry",
-		"uniques": ["Resource", "Generated with weight [20] <in [Jungle] Regions>",
-			                "Generated with weight [15] <in [Grassland] Regions>",
+		"uniques": ["Resource", "Generated with weight [25] <in [Jungle] Regions>",
+			                "Generated with weight [20] <in [Grassland] Regions>",
 			                "Generated with weight [15] <in [Desert] Regions>",
 					"Generated with weight [10] <in [Hybrid] Regions>",
-					"Generated near City States with weight [10]"]
+					"Generated near City States with weight [30]"]
 	},
 	{
 		"name": "Whales",

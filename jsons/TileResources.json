@@ -96,8 +96,9 @@
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Hill"],
 		"food": 1,
 		"improvement": "Plantation",
-		"uniques": ["Resource", "Generated on every [20] tiles <in [{Featureless} {Hill}] tiles> <in [Grassland] Regions>",
-			                "Generated on every [30] tiles <in [{Featureless} {Hill}] tiles> <in [Plains] Regions>",
+		"uniques": ["Resource", "Generated on every [15] tiles <in [{Featureless} {Hill}] tiles> <in [Grassland] Regions>",
+			                "Generated on every [20] tiles <in [{Featureless} {Hill}] tiles> <in [Plains] Regions>",
+			                "Generated on every [25] tiles <in [Hill] tiles>",
 		                        "Doesn't generate naturally <in [Hill] tiles> <in [Tundra] tiles>", "Doesn't generate naturally <in [Hill] tiles> <in [Desert] tiles>"]
 	},
 	

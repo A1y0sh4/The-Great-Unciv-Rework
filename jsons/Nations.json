@@ -1410,8 +1410,8 @@
 		"innerColor": [40, 179, 79],
 		
 		"uniqueName": "Gateway to Africa",
-		"uniqueText": "Gain an additional +1 [Gold] and +1 [Culture] in all cities connected to capital\nTrade routes are 25% cheaper to maintain",
-		"uniques": ["[+1 Gold, +1 Culture] [in all cities connected to capital]", "[-25]% maintenance on road & railroads"],
+		"uniqueText": "Gain an additional +2 [Gold] and +1 [Culture] in all cities connected to capital\nTrade routes are 25% cheaper to maintain",
+		"uniques": ["[+2 Gold, +1 Culture] [in all cities connected to capital]", "[-25]% maintenance on road & railroads"],
 		"cities": ["Marrakech","Rabat","Fes","Casablanca","Tangier","Salé","Ouarzazate","Meknes","Agadir","Oujda",
 			"Kenitra","Tetouan","Essaouira","Safi","Taroudannt","Mohammedia","El Aaiun","Beni Mellal","El Jadida","Ksar el Kebir","Taza",
 			"Fquih ben Salah","Khouribga","Nador","Settat","Berrechid","Larache","Khemisset","Guelmim","Dakhla",
@@ -1833,7 +1833,7 @@
 		"innerColor": [	71, 6, 23],
 		
 		"uniqueName": "Gifts From the Storm Gods",
-		"uniqueText": "Gain 3 amounts of the Strategic resources you have revealed plus\n+1 [Happiness] and +3 [Gold] for each type of Strategic resources you own",
+		"uniqueText": "Gain 3 amounts of the Strategic resources you have revealed\n+1 [Happiness] and +3 [Gold] for each type of Strategic resources you own",
 		"uniques": ["Provides [3] [Horses] <after discovering [Animal Husbandry]>", "Provides [3] [Iron] <after discovering [Iron Working]>", "Provides [3] [Coal] <after discovering [Industrialization]>", "Provides [3] [Oil] <after discovering [Biology]>", "Provides [3] [Aluminum] <after discovering [Electricity]>", "Provides [3] [Uranium] <after discovering [Atomic Theory]>", "[+1 Happiness, +3 Gold] <with [Horses]>", "[+1 Happiness, +3 Gold] <with [Iron]>", "[+1 Happiness, +3 Gold] <with [Coal]>", "[+1 Happiness, +3 Gold] <with [Oil]>", "[+1 Happiness, +3 Gold] <with [Aluminum]>", "[+1 Happiness, +3 Gold] <with [Uranium]>"],
 		"cities": ["Hattuša","Neša","Kuššara","Samuha","Tarhuntašša","Kadesh","Lusna","Alalah","Halab","Tunip",
 			"Zalpa","Hakpish","Nerik","Shallapsa","Arinna","Adaniya","Apasha","Waliwanda","Tapikka","Tuwanuwa",

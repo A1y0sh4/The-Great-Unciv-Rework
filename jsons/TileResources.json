@@ -305,7 +305,7 @@
 		"improvement": "Plantation",
 		"uniques": ["Resource", "Generated with weight [35] <in [Desert] Regions>",
 					"Generated with weight [10] <in [Plains] Regions>",
-					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated with weight [10] <in [Hybrid] Regions>",
 					"Generated near City States with weight [15]"]
 	},
 	{
@@ -317,7 +317,7 @@
 		"improvement": "Plantation",
 		"uniques": ["Resource", "Generated with weight [25] <in [Jungle] Regions>",
 			                "Generated with weight [20] <in [Desert] Regions>",
-					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated with weight [10] <in [Hybrid] Regions>",
 		                        "Doesn't generate naturally <in [Tundra] tiles>", "Doesn't generate naturally <in [Plains] tiles>", "Doesn't generate naturally <in [Hill] tiles>", "Doesn't generate naturally <in [Desert] tiles>",
 		                        "Doesn't generate naturally <in [Tundra] Regions>", "Doesn't generate naturally <in [Desert] Regions>"]
 	},
@@ -329,6 +329,7 @@
 		"food": 1,
 		"improvement": "Plantation",
 		"uniques": ["Resource", "Generated with weight [50] <in [Grassland] Regions> <in [Fresh Water] tiles>",
+			                "Generated with weight [20] <in [Forest] Regions> <in [Fresh Water] tiles>",
 					"Generated with weight [10] <in [Hybrid] Regions>",
                                         "Doesn't generate naturally <in [Hill] tiles>",
 			                "Doesn't generate naturally <in [Tundra] tiles>",
@@ -346,6 +347,7 @@
 		"uniques": ["Resource", "Generated near City States with weight [15]",
 			                "Generated with weight [50] <in [Costal] tiles>",
 					"Generated with weight [10] <in [Hybrid] Regions>",
+			                "Generated with weight [20] <in [Grassland] Regions>",
 		                        "Doesn't generate naturally <in [Tundra] tiles>", "Doesn't generate naturally <in [Desert] tiles>",
 		                        "Doesn't generate naturally <in [Tundra] Regions>", "Doesn't generate naturally <in [Desert] Regions>"]
 	},
@@ -372,6 +374,7 @@
 		"faith": 1,
 		"improvement": "Plantation",
 		"uniques": ["Resource", "Generated with weight [25] <in [Hill] Regions>",
+			                "Generated with weight [20] <in [Hill] Regions>",
 					"Generated with weight [10] <in [Hybrid] Regions>",
 			                "Doesn't generate naturally <in [Tundra] tiles>",
 			                "Doesn't generate naturally <in [Desert] tiles>",
@@ -385,7 +388,7 @@
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Jungle"],
 		"culture": 1,
 		"improvement": "Plantation",
-		"uniques": ["Resource", "Generated with weight [25] <in [Jungle] Regions>",
+		"uniques": ["Resource", "Generated with weight [50] <in [Jungle] Regions>",
                                         "Doesn't generate naturally <in [Hill] tiles>",
 					"Generated with weight [10] <in [Hybrid] Regions>",
 		                        "Doesn't generate naturally <in [Tundra] Regions>",

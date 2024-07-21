@@ -1396,3 +1396,10 @@ TileSets/FantasyHex/Tiles/Amber
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Obsidian
+  rotate: false
+  xy: 1420, 908
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1

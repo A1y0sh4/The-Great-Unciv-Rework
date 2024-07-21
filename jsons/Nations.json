@@ -1833,8 +1833,8 @@
 		"innerColor": [	71, 6, 23],
 		
 		"uniqueName": "Gifts From the Storm Gods",
-		"uniqueText": "Gain 2 amounts of the Strategic resources you have revealed plus\n+1 [Happiness] and +2 [Gold] for each type of Strategic resources you own",
-		"uniques": ["Provides [2] [Horses] <after discovering [Animal Husbandry]>", "Provides [2] [Iron] <after discovering [Iron Working]>", "Provides [2] [Coal] <after discovering [Industrialization]>", "Provides [2] [Oil] <after discovering [Biology]>", "Provides [2] [Aluminum] <after discovering [Electricity]>", "Provides [2] [Uranium] <after discovering [Atomic Theory]>", "[+1 Happiness, +2 Gold] <with [Horses]>", "[+1 Happiness, +2 Gold] <with [Iron]>", "[+1 Happiness, +2 Gold] <with [Coal]>", "[+1 Happiness, +2 Gold] <with [Oil]>", "[+1 Happiness, +2 Gold] <with [Aluminum]>", "[+1 Happiness, +2 Gold] <with [Uranium]>"],
+		"uniqueText": "Gain 3 amounts of the Strategic resources you have revealed plus\n+1 [Happiness] and +3 [Gold] for each type of Strategic resources you own",
+		"uniques": ["Provides [3] [Horses] <after discovering [Animal Husbandry]>", "Provides [3] [Iron] <after discovering [Iron Working]>", "Provides [3] [Coal] <after discovering [Industrialization]>", "Provides [3] [Oil] <after discovering [Biology]>", "Provides [3] [Aluminum] <after discovering [Electricity]>", "Provides [3] [Uranium] <after discovering [Atomic Theory]>", "[+1 Happiness, +3 Gold] <with [Horses]>", "[+1 Happiness, +3 Gold] <with [Iron]>", "[+1 Happiness, +3 Gold] <with [Coal]>", "[+1 Happiness, +3 Gold] <with [Oil]>", "[+1 Happiness, +3 Gold] <with [Aluminum]>", "[+1 Happiness, +3 Gold] <with [Uranium]>"],
 		"cities": ["Hattuša","Neša","Kuššara","Samuha","Tarhuntašša","Kadesh","Lusna","Alalah","Halab","Tunip",
 			"Zalpa","Hakpish","Nerik","Shallapsa","Arinna","Adaniya","Apasha","Waliwanda","Tapikka","Tuwanuwa",
 			"Ura","Milid","Urshu","Arwada","Sanahuitta","Dimashku","Millawanda","Gaziura","Ugarit"],
@@ -2030,7 +2030,7 @@
 		"innerColor": [116,55,25],
 		
 		"uniqueName": "Iklwa",
-		"uniqueText": "Your Sword units gain 50% more XP, cost 50% less maintenance and heal an additional +5 HP when healing",
+		"uniqueText": "Sword units gain 50% more XP, cost 50% less maintenance and heal an additional +5 HP when healing",
 		"uniques": ["[+50]% XP gained from combat <for [Sword] units>", "[-50]% maintenance costs <for [Sword] units>", "[+5] HP when healing <for [Sword] units>"],
 		"cities": ["Ulundi","Umgungundlovu","Bulawayo","KwaDukuza","Nongoma","oNdini","Nodwengu","Ndonakusuka","Babanango","Khangela",
 			"KwaHlomendlini","Hlobane","eThekwini","Mlambongwenya","Eziqwaqweni","Isiphezi","Masotsheni","Mtunzini","Nyakamubi","Dumazulu",

@@ -1403,3 +1403,10 @@ TileSets/FantasyHex/Tiles/Obsidian
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Poppy
+  rotate: false
+  xy: 1380, 908
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1

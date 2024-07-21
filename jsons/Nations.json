@@ -536,7 +536,7 @@
 		
 		"uniqueName": "Nîhithaw",
 		"uniqueText": "Your Camps and Pastures yield an additional +1 [Food]",
-		"uniques": ["[+1 Food] from every [Camp]", "[+1 Food] from every [Pasture]"],
+		"uniques": ["[+1 Food] from every [Camp]", "[+1 Food] from every [Pasture]", "[+10]% [Production] [in all cities] <during a Golden Age>", "[+10]% [Culture] [in all cities] <during a Golden Age>", "[+10]% [Science] [in all cities] <during a Golden Age>" ],
 		"cities": ["Mikisiw-Wacîhk","Pihtokahanapiwiyin","Mistahi-Sipihk","Paskwaw-Askhik","Piyesiw-Awasis","Mistawasis","Makwa-Sakahikan","Ka-Peyakwaskonam","Ahtahkakoop","Wihkasko-Kiseyin",
 			"Chemawawin","Ka-kiwistahaw","Ka-ohpawakastahk","Kawacatoose","Kawawachikamach","Kinosew-Sakahikan","Maskotew","Missanabie","Moosomin","Natashquan","Nekaneet",
 			"Ochapowace","Okanese","Papewe","Peepeekisis","Posakanacihk","Tataskweyak","Wapi-maskwa","Waskahikanihk",

@@ -136,7 +136,7 @@
 		"innerColor": [230, 40, 50],
 		
 		"uniqueName": "Golden Stool",
-		"uniqueText": "Your Palace yields an additional +1 value for every stat\nCourthouses are built in half the time",
+		"uniqueText": "Palace yields an additional +1 value for every stat\nCourthouses are built in half the time",
 		"uniques": ["[+1 Food, +1 Production, +1 Gold, +1 Culture, +1 Science, +1 Happiness, +1 Faith] from every [Palace]", "[+100]% Production when constructing [Courthouse] buildings [in all cities]"],
 		"cities": ["Kumasi","Bantama","Mampong","Edweso","Bekwai","Kumawu","Obuasi","Adanse","Asante-Akim Agogo","Juaben",
 			"Ejisu","Fomena","Agona-Ashanti","Dunkwa-on-Offin","Techiman","Afram Plains","Konongo","Akwatia","Obogu","Nkawie","Asokore Mampong",
@@ -167,7 +167,7 @@
 		"innerColor": [191,132,6],
 		
 		"uniqueName": "Organized Warfare",
-		"uniqueText": "All Military units ignore Zones of Control and can move after attacking\nYour units are +10% stronger when attacking or defending against cities",
+		"uniqueText": "Military Land units ignore Zones of Control and can move after attacking\nMilitary Land units are +10% stronger when attacking or defending against cities",
 		"uniques": ["[{Military} {Land}] units gain the [Organized Warfare] promotion", "[+10]% Strength <vs cities> <for [{Military} {Land}] units>"],
 		"cities": ["Aššur","Nineveh","Nimrud","Kar-Tukulti-Ninurta","Dur-Šharrukin","Halab","Carchemish","Kanesh","Harran","Imgur-Enlil",
 			"Shubat-Enlil","Qatna","Sareisa","Sam al","Qarqar","Til Barsip","Sultantepe","Erbil","Hamath","Guzana",

@@ -471,8 +471,8 @@
 		"innerColor": [148, 170, 255],
 		
 		"uniqueName": "Druidic Lore",
-		"uniqueText": "Unimproved Forests yield +1 [Faith] with an additional +1 [Science] once you found a Pantheon\nMilitary units in forests heal 5 additional HP per turn",
-		"uniques": ["[+1 Faith] from [Forest] tiles [in all cities]", "[+1 Science] from [Forest] tiles [in all cities] <after founding a Pantheon>", "[-1 Science, -1 Faith] from every [Improvement] <in [Forest] tiles>", "[+5] HP when healing <for [Military] units> <in [Forest] tiles>"],
+		"uniqueText": "Unimproved Forests yield +1 [Faith] with an additional +1 [Science] once you found a Pantheon (double bonus if there is resource)\nMilitary units in forests heal 5 additional HP per turn",
+		"uniques": ["[+1 Faith] from [Forest] tiles [in all cities]", "[+1 Faith] from [Forest] tiles [in all cities] <in [Resource] tiles>", "[+1 Science] from [Forest] tiles [in all cities] <after founding a Pantheon>", "[+1 Science] from [Forest] tiles [in all cities] <after founding a Pantheon> <in [Resource] tiles>", "[-1 Science, -1 Faith] from every [Improvement] <in [Forest] tiles>", "[-1 Science, -1 Faith] from every [Improvement] <in [Forest] tiles> <in [Resource] tiles>", "[+5] HP when healing <for [Military] units> <in [Forest] tiles>"],
 		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth","Penzance",
 			"Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen","Belfast",
 			"Caernafon","Newquay","Saint-Nazarre","Castletown","Stirling","Galway","Conwy","St. Austell","Saint-Malo",

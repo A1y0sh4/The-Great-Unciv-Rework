@@ -1361,3 +1361,10 @@ ResourceIcons/Rice
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Tea
+  rotate: false
+  xy: 1300, 868
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1

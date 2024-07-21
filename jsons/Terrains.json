@@ -356,7 +356,7 @@
 		"uniques": ["Must be adjacent to [1] to [2] [Jungle] tiles",
 			    "Tile provides yield without assigned population", "Grants [+50 Science] to the first civilization to discover it"],
 		"turnsInto": "Coast",
-		"impassable": true,
+		"impassable": false,
 		"unbuildable": true,
 		"weight": 10
 	},

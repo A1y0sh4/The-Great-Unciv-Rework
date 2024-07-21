@@ -1382,3 +1382,10 @@ TileSets/FantasyHex/Tiles/Maize
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Tea
+  rotate: false
+  xy: 1380, 868
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1

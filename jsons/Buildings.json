@@ -38,7 +38,7 @@
 		"replaces": "Temple",
 		"uniqueTo": "The Maya",
 		"requiredTech": "Calendar"
-		"science": 3,
+		"science": 2,
 		"faith": 2,
 		"cost": 58,
 		"hurryCostModifier": 25,

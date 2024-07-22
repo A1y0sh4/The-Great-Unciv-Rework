@@ -385,8 +385,8 @@
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Wilfrid Laurier",
 		
-                "startIntroPart1": " ",
-		"startIntroPart2": " ",
+                "startIntroPart1": "Welcome, Sir Wilfrid Laurier, Prime Minister of Canada. Your is a free country and freedom is its nationality, and it is your task to ensure that said liberty is preserved. Born from French stock, your tenure as Prime Minister would cement the foundations of Canada as a bastion of freedom in the new world. Under your leadership, your country would expand to the green plains if the West, and the wounds dealt by the rivalries and alliances of the Old World would begin to heal. An intelligent and eloquent politician, your words and deeds would keep Canada hale and whole through the First World War and beyond.",
+		"startIntroPart2": "The world is once again plunged into darkness, and Canada herself struggles in the shadows. O' steadfast Prime Minister, will you be for Canada a pillar of fire, guiding the free world with your sunny ways? Will you build a civilization to stand the test of time?",
 		
 		"declaringWar": "In responding to the unstinting malignancy that has heretofore defined your relationship with Canada, we can have no recourse but war!",
 		"attacked": "As we can reach no peaceful resolution with you, Canada must turn, with reluctance, to war.",
@@ -1435,7 +1435,7 @@
 		"introduction": "I am Amanitore of Nubia. All are welcome in our magnificent cities — provided they come as friends.",
 		"neutralHello": "Greetings.",
 		"hateHello": "What do you want?",
-		"tradeRequest": "Better hurry, I may change my mind.",
+		"tradeRequest": "As a gesture of goodwill and generosity, I have decided to share the riches of Nubia with you. May our swords never cross.",
 		"favoredReligion": "Islam",
 		
 		"outerColor": [184,179,112],

@@ -648,7 +648,7 @@
 		"strength": 16,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
-		"obsoleteTech": "Gunpowder",
+		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
 		"uniques": ["Can build [Fort] improvements on tiles", "Can build [Remove Forest] improvements on tiles"],
 		"hurryCostModifier": 20,
@@ -665,7 +665,7 @@
 		"strength": 14,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
-		"obsoleteTech": "Gunpowder",
+		"obsoleteTech": "Steel",
 		"hurryCostModifier": 20,
 		"promotions": ["[Mohawk Warrior] ability"],
 		"attackSound": "metalhit"
@@ -680,7 +680,7 @@
 		"cost": 60,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
-		"obsoleteTech": "Gunpowder",
+		"obsoleteTech": "Steel",
 		"hurryCostModifier": 20,
 		"promotions": ["[Asafo] ability"],
 		"attackSound": "metalhit"
@@ -1008,7 +1008,7 @@
 		"upgradesTo": "Privateer",
 		"promotions": ["Coastal Raider I"],
 		"uniques": ["Can move after attacking"],
-		"attackSound": "shot"
+		"attackSound": "metalhit"
 	},
 	{
 		"name": "Turtle Ship",

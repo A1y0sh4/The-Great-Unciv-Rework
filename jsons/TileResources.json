@@ -114,6 +114,8 @@
 		"uniques": ["Resource", "Guaranteed with Strategic Balance resource option",
 			                "Generated with weight [13] <in [Hill] tiles>",
 					"Generated with weight [55] <in [Plains] tiles>",
+			                "Generated with weight [34] <in [Plains] Regions>",
+			                "Generated with weight [21] <in [Grassland] Regions>",
 					"Minor deposits generated with weight [21] <in [{Grassland} {Hill}] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
 					"Minor deposits generated with weight [21] <in [{Plains} {Hill}] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
 					"Minor deposits generated with weight [89] <in [{Featureless} {Grassland}] tiles> <in [Fresh Water] tiles>",

@@ -568,7 +568,7 @@
 		
 		"uniqueName": "Viking Fury",
 		"uniqueText": "All units embark and disembark using only 1 movement point\n Military units don't use movement points to pillage and they plunder [Gold] when attacking cities\nAll units can enter Ocean tiles upon entering the Medieval era",
-		"uniques": ["No movement cost to pillage <for [Military] units>", "[1] Movement point cost to embark <for [All] units>", "[1] Movement point cost to disembark <for [All] units>", "Enables [All] units to enter ocean tiles <upon entering the [Renaissance era]>",
+		"uniques": ["No movement cost to pillage <for [Military] units>", "[1] Movement point cost to embark <for [All] units>", "[1] Movement point cost to disembark <for [All] units>", "Enables [All] units to enter ocean tiles <after entering the [Medieval era]>",
 		        "Earn [10]% of the damage done to [City] units as [Gold] <for [Melee] units> <during the [Ancient era]>",
 			"Earn [15]% of the damage done to [City] units as [Gold] <for [Melee] units> <during the [Classical era]>",
 			"Earn [20]% of the damage done to [City] units as [Gold] <for [Melee] units> <during the [Medieval era]>",

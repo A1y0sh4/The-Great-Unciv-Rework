@@ -371,7 +371,8 @@
 		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
 			"[+1 Production, +1 Gold] from [Cattle] tiles [in this city]",
 			"[+1 Production, +1 Gold] from [Horses] tiles [in this city]",
-			"[+1 Production, +1 Gold] from [Sheep] tiles [in this city]"],
+			"[+1 Production, +1 Gold] from [Sheep] tiles [in this city]",
+		        "Unsellable"],
 		"requiredTech": "Horseback Riding"
 	},
 	{

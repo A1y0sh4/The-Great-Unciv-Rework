@@ -107,7 +107,7 @@
 		"strength": 11, 
 		"cost": 45,
 		"obsoleteTech": "Iron Working",
-		"uniques" : ["Can be purchased with [Faith] [in all cities]"],
+		"uniques" : ["Comment [Can be purchased with [Faith]]"],
 		"promotions": ["[Jaguar] ability"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "metalhit"

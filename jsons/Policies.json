@@ -114,7 +114,7 @@
             {
                 "name": "Citizenship",
                 "uniques": [
-                    "[-10]% Unhappiness from [Population] [in all non-occupied cities]"
+                    "[-50]% unhappiness from the number of cities"
                 ],
                 "requires": ["Republic"],
                 "row": 2,

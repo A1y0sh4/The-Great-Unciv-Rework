@@ -298,8 +298,8 @@
 		"turnsToBuild": 6,
 		"uniques": ["Improvement", "Improves [Rice] resource in this tile",
 			    "Does not need removal of [Marsh]",
-			    "[+1 Food] from [Fresh water] tiles",
 			    "[+1 Food, +1 Culture] <in [Marsh] tiles>", "[+1 Food, +1 Culture] <in [Rice] tiles>",
+			    "[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
 			    "[+1 Food] <after discovering [Fertilizer]>",
                             "Pillaging this improvement yields approximately [+13 Gold]"],
 	         "shortcutKey": "F"

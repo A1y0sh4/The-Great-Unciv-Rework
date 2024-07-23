@@ -104,9 +104,10 @@
 		"uniqueTo": "Aztecs",
 		"replaces": "Warrior",
 		"movement": 2,
-		"strength": 11,
+		"strength": 11, 
 		"cost": 45,
 		"obsoleteTech": "Iron Working",
+		"uniques" : ["Can be purchased with [Faith] [in all cities]"],
 		"promotions": ["[Jaguar] ability"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "metalhit"

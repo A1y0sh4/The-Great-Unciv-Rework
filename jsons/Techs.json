@@ -550,7 +550,7 @@
 				"name": "Atomic Theory",
 				"row": 4,
 				"prerequisites": ["Plastics","Electronics"], 
-				"uniques": ["Resting points with City-States will raise by triple the Strength level of each of the nuclear devices in your possession"],
+				"uniques": ["Comment [Resting points with City-States will raise by triple the Strength level of each of the nuclear devices in your possession]"],
 				"quote": "'The unleashed power of the atom has changed everything save our modes of thinking, and we thus drift toward unparalleled catastrophes.' - Albert Einstein"
 			},
 			{

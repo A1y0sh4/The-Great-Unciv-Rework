@@ -899,7 +899,7 @@
 		"strength": 21,
 		"rangedStrength": 18,
 		"replaces": "Crossbowman",
-		"cost": 150,
+		"cost": 140,
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",

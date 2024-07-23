@@ -104,12 +104,12 @@
 		"uniqueTo": "Aztecs",
 		"replaces": "Warrior",
 		"movement": 2,
-		"strength": 10,
-		"cost": 35,
+		"strength": 11,
+		"cost": 45,
 		"obsoleteTech": "Iron Working",
 		"promotions": ["[Jaguar] ability"],
 		"upgradesTo": "Swordsman",
-		"attackSound": "nonmetalhit"
+		"attackSound": "metalhit"
 	},
 	{
 		"name": "Brute",

@@ -80,7 +80,7 @@
             {
                 "name": "Meritocracy",
                 "uniques": [
-                    "[-50]% Unhappiness from [Specialists] [in all cities]"
+                    "[-25]% construction time for [All] improvements"
                 ],
 		"requires": ["Collective Rule"],
                 "row": 2,
@@ -114,7 +114,7 @@
             {
                 "name": "Citizenship",
                 "uniques": [
-                    "[-25]% construction time for [All] improvements"
+                    "[-10]% Unhappiness from [Population] [in all non-occupied cities]"
                 ],
                 "requires": ["Republic"],
                 "row": 2,

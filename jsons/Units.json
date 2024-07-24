@@ -155,7 +155,7 @@
 	{
 		"name": "Pitati",
 		"unitType": "Archery",
-		"cost": 60,
+		"cost": 66,
 		"movement": 2,
 		"strength": 7,
 		"rangedStrength": 14,

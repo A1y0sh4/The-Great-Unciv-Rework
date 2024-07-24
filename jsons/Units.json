@@ -272,7 +272,7 @@
 		"upgradesTo": "Horseman",
 		"obsoleteTech": "Horseback Riding",
 		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>"],
-		"attackSound": "metalhit"
+		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Horde",

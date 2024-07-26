@@ -129,7 +129,7 @@
 		"introduction": "Greetings from the king atop the golden stool, and welcome to the court of Akanland. Our kingdom of Ashanti is one of the fiercest and finest to grace this world.",
 		"neutralHello": "Good day.",
 		"hateHello": "Well?",
-		"tradeRequest": "Here's a fair offer",
+		"tradeRequest": "Here's a fair offer.",
 		"favoredReligion": "Protestantism",
 		
 		"outerColor": [ 253, 221, 12],
@@ -394,7 +394,7 @@
 		"introduction": "On behalf of the people of Canada, welcome. I am Prime Minister Laurier.",
 		"neutralHello": "Greetings.",
 		"hateHello": "What do you want?",
-		"tradeRequest": "Better hurry, I may change my mind.",
+		"tradeRequest": "On behalf of the people of Canada, I offer you this in sign of friendship.",
 		
 		"outerColor": [255, 255, 255],
 		"innerColor": [255, 0, 0],
@@ -519,8 +519,8 @@
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Poundmaker",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Greetings, Poundmaker, Chief of the Plains Cree. You lived in a time of great upheaval, of change and hardship. As a child, you were raised by Chief Crowfoot of the Blackfoot, who had always been your enemies. As your grew, you learned the ways of the Blackfoot so that peace could be made between them and your people. As a man, you faced an even greater diplomatic challenge: the Canadians. As your people faced possible starvation, you kept a steady hand and a cool head when negotiating for better terms of peace, for fair deals, and for aid. When some of your people attacked the Canadians, you chose prison over war, laying down your life to prevent the Canadians from branding the Cree as enemies - even though you were innocent of any wrong doing. Your wise actions and good counsel saved your people both from starvation adn war with Canada, but at great cost.",
+		"startIntroPart2": "Great Poundmaker, your wisdom and firm hand are needed once again. If your people are to thrive in these new lands, they will need to seek peace and friendship among the many diverse peoples around them. Will you rise up and make the Cree a great nation, spanning many lands? Will you bring peace between the quarelling tribes? Will you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "I do not care to inflict the terrors of war upon you, but justice requires it.",
 		"attacked": "You could have found another way. Now, your regrets will be measured in blood.",
@@ -870,8 +870,8 @@
 		"favoredReligion": "Orthodoxy",
 		"personality": "Tamar",
 	
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "All Hail Queen Tamar of Georgia! You rule a nation of poets, priests and warriors perched among the treacherous peaks of the Caucasus mountains. Though ruling in unelightened times and facing a rebellious nobility chafting under their own misogyny, you inspired devotion and loyalty among the people of Georgia and crushed those who refused to acknowledge your rule. With the nation bent to your pious will, you went on to lead the small mountain kingdom onto epic conquests, uniting the Caucasus mountains and destroying Muslim neighbours vastly larger than your shining beacon of Christianity. Smashing even the mighty Seljuk empire, Georgia became a regional hegemon - even as far as Jerusalem, priests went unmolested by their heathen countrymen, while Georgian knight rode on, banners unfurled, strikig red and white through the ancient city, a rare honour even for the mightiest of empires.",
+		"startIntroPart2": "Queen Tamar, your nation needs you to bring it glory and wealth once again! Will you revive the Georgian Renaissance and honor the mighty dragon slayer, St. George himself? Can you defend against the ancient dragons that stalk your Caucasian home, waiting to subdue your faith beneath a tide of heathenry? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "God fights with us. You stand alone.",
 		"attacked": "Georgian hearts will not tremble before your multitudes.",
@@ -1138,8 +1138,8 @@
 		"preferredVictoryType": "Cultural",
 		"personality": "Victor Emmanuel II",
 	
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Greetings to you, Victor Emmanuel III, King of Italy. You are the leader of a nation that has been the cradle of one of the mightiest empires that ever graced this world, and that still stands as a beacon of culture and arts. And yet, yours is a young nation, having been united in 1861, after more than a millennium of divisions. Coming to the throne upon the assassination of your father, you saw Italy soon being plunged into the calamity of the First World War. Heeding to the people's will, you rallied the Italian forces against the Austrians; after four years of taking to the front with your queen to dispense both moral and medical support, your troops finally marched to Vienna. But though victorious, Italy's losses would be too great, and the road would be paved for the country's next great threat: Benito Mussolini and his dreaded fascist regime.",
+		"startIntroPart2": "Tireless monarch, the frontlines of Italy once more lay bare and unprotected. Can you rally both your armies and your fleets to defend her borders and ensure that Italy remains unassailable? Will you be the prosecutor of arts and patronage, making Italy a beloved a favourite destination for tourists? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "I hate to do this, but for the sake of my nation I must fight you.",
 		"attacked": "I guess I have no other choice but to prepare my forces, then...",
@@ -1403,7 +1403,7 @@
 		"introduction": "I am the Sultan of Marrakesh al-Mansur, in the name of my people I welcome you!",
 		"neutralHello": "Greetings.",
 		"hateHello": "What are you doing here??",
-		"tradeRequest": "I came hopeful that we can reach an agreement",
+		"tradeRequest": "I came hopeful that we can reach an agreement.",
 		"favoredReligion": "Islam",
 		
 		"outerColor": [ 122, 2, 0],
@@ -1821,9 +1821,9 @@
 		"startIntroPart1": "We bow before thee, King Mursili II, son of Suppiluliuma I, one of the most powerful rulers of the Hittite Empire! You had prove to be more than a match for your successful father, in your military deeds and diplomacy. Compared to the other great kingdoms of the Middle East, little is known of Hatti, yet its empire was one of the great powers of Mesopotamia, rivaling Babylon and Egypt in military strenght and influence. The first Hittites probably came from somewhere in the Caucasus or modern Russia, but settled in central Turkey and later in Syria, areas whose plentiful natural resources, particularly metals, would prove crucial to the power of Hatti. Early Hittite kings focused on consolidating their power in the region, but soon became more and more ambitious, opting to strike out and execute audacious raids against even mighty Babylon: it ended with great success, and the Hittites were able to undermine and destroy the ruling Amorite dynasty in Babylon.",
 		"startIntroPart2": "Great Mursili II, the time has come to prepare your sword and spirit. Great opportunities, challenges and dangers are waiting for you. The new world valus not only bravery, but also wisdome. Will you show that you lack none? Will you crush your enemies under the chariot and submit your rivals under the treaty? Can you build a civilization that will stand the test of time?",
 		
-		"declaringWar": "Prepare for war!",
-		"attacked": "You shall regret this!",
-		"defeated": "The victory is yours.",
+		"declaringWar": "I believe it is time to settle our disputes together like kings should do: on the battlefield!",
+		"attacked": "Ha! As if it would scare me, a God-King!",
+		"defeated": "You deceived me, great God, coming wreathed in the body of a mortal! Very well: your humble servant is ready to be borne to the starlight shore.",
 		"introduction":  "I am the mighty Mursilis. Don't get in my way and we shall live in peace.",
 		"neutralHello": "Hail.",
 		"tradeRequest": "What about this?",

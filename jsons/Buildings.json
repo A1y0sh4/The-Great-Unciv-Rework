@@ -113,7 +113,6 @@
 	},
 	{
 		"name": "Brewery",
-		"cost": 60,
 		"culture": 1,
 		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Wheat","Maize","Rice"],
@@ -124,7 +123,7 @@
 		"name": "Pub",
 		"replaces": "Brewery",
 		"uniqueTo": "Celts",
-		"cost": 60,
+		"cost": 58,
 		"culture": 2,
 		"happiness": 1,
 		"maintenance": 1,
@@ -134,7 +133,6 @@
 	},
 	{
 		"name": "Wine Cellar",
-		"cost": 60,
 		"culture": 1,
 		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Grape"],
@@ -145,7 +143,7 @@
 		"name": "Monastery",
 		"replaces": "Wine Cellar",
 		"uniqueTo": "France",
-		"cost": 60,
+		"cost": 58,
 		"culture": 1,
 		"faith": 1,
 		"maintenance": 0,

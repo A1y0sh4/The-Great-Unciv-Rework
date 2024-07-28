@@ -1462,6 +1462,7 @@
 	{
 		"name": "Apollo Program",
 		"culture": 1,
+		"requiredResource": "Aluminum",
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["Triggers a global alert upon completion", "[+33]% [Science] [in all cities] <for [All]>", 
@@ -1471,6 +1472,7 @@
         {
 		"name": "Mars Colonization Program",
 		"culture": 1,
+		"requiredResource": "Aluminum",
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["Triggers a global alert upon build start", "[+34]% [Science] [in all cities] <for [All]>", 
@@ -1480,6 +1482,7 @@
 	{
 		"name": "Sputnik Program",
 		"culture": 1,
+		"requiredResource": "Aluminum",
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["Reveals the entire map", "[+33]% [Science] [in all cities] <for [All]>", "Triggers a global alert upon completion", "Cannot be hurried"],
@@ -1513,6 +1516,7 @@
 		"science": 5,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["[+50]% Production when constructing [National Wonder] buildings [in this city]",
+			    "Gain a free [Spaceship Factory] [in this city]",
 			    "[+6 Science] from every [Observatory]"],
 		"requiredTech": "Satellites",
 		"quote": "'The wonder is, not that the field of stars is so vast, but that man has measured it.' - Anatole France"

@@ -1609,7 +1609,7 @@
 		"greatPersonPoints": {"Great Artist": 3},
 		"isWonder": true,
 		"uniques": ["Triggers a global alert upon build start",
-			"Triggers a Cultural Victory upon completion", "Hidden when [Cultural] Victory is disabled", "Only available <after adopting [Individualism Complete]>", "Comment [Construction speed depend on [Happiness] (it's faster the happier the empire is)]", "Cannot be hurried"],
+			"Triggers a Cultural Victory upon completion", "Hidden when [Cultural] Victory is disabled", "Comment [Construction speed depend on [Happiness] (it's faster the happier the empire is)]", "Only available <after adopting [Individualism Complete]>", "Cost increases by [100] per owned city", "Cannot be hurried"],
 		"quote": "'There is nothing like a dream to create the future.' - Victor Hugo"
 	},
         {

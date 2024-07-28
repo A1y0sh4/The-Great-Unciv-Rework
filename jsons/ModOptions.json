@@ -19,7 +19,7 @@
     "cityStrengthFromGarrison": 0.334,
     "maxSpyRank": 6,
     "spyRankSkillPercentBonus": 25,
-    "minimumWarDuration": 6,
+    "minimumWarDuration": 8,
     "ancientRuinCountMultiplier": 0.0334,
     "minRiverLength": 3,
     "maxRiverLength": 21,

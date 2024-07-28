@@ -1465,7 +1465,7 @@
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["Triggers a global alert upon completion", "[+33]% [Science] [in all cities] <for [All]>", 
-			"Hidden when [Scientific] Victory is disabled", "Cannot be hurried"],
+			"Hidden when [Scientific] Victory is disabled", "Cannot be hurried", "Only available <if [Sputnik Program] is constructed>"],
 		"requiredTech": "Satellites"
 	},
         {
@@ -1474,7 +1474,7 @@
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["Triggers a global alert upon build start", "[+34]% [Science] [in all cities] <for [All]>", 
-			"Hidden when [Scientific] Victory is disabled", "Cannot be hurried"],
+			"Hidden when [Scientific] Victory is disabled", "Cannot be hurried", "Only available <if [Apollo Program] is constructed>"],
 		"requiredTech": "Nanotechnology"
 	},
 	{

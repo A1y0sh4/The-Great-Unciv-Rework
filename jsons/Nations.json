@@ -934,8 +934,8 @@
 		"favoredReligion": "Catholicism",
 		"personality": "Simón Bolívar",
 
-		"startIntroPart1": "Greetings, Simón Bolívar. You are the liberator of Gran Colombia from the Spanish oppression and thanks to your military genius and to your efforts your nation became a centralized regional power in South America. Unfortunately for you, internal discontent made your plans go to ruin as Gran Colombia ony lasted from 1819 to 1831.",
-		"startIntroPart2": "El Libertador, your people call you to bring back the glorious past of Gran Colombia. Will you be victorious once again on the battlefield? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Hail to you, Simón Bolívar, the Great Libertador who led many countries of South America to their independence against the Spanish Empire. Thanks to your military genius and to your efforts, your nation of Colombia (which included Panama at the time) became a centralized regional power in the continent, as you partecipated in the foundation of the first union of indipendent nations in Hispanic America, which was named Gran Colombia. On that end, you led Venezuela, Ecuador, Peru and Bolivia to independence, and helped lay the foundations for democratic ideology in much of Latin America. Youu dream was to engender an American Revolution-styled federation among all the newly independent republics, with a government set up solely to recognize and uphold the rights of the individual. The dream didn't live long, however, as clashing interests within the Libertadores of each region sapped the idea of her strenght and influence; it was for a brief, only time that so many countries in South America were under only one government, which only lasted from 1819 to 1831.",
+		"startIntroPart2": "Magnificent Libertador, hardhips never dissuaded you, so it calls to you to hold fast to your ideals. Can you lead your republic into a new age of prosperity? Will your nation rise to become a beacon of liberty and glory, on and off the battlefield? Can you build a civilization that will stand the test of time?",
 
 		
 		"declaringWar": "Your tyranny, if unchecked, dooms the world to darkness, and for this reason I must declare war on you.",
@@ -1000,8 +1000,8 @@
 		"favoredReligion": "Protestantism",
 		"personality": "Frederick Barbarossa",
 		
-		"startIntroPart1": "Heroic Frederick, king of the Germans, your task is to forge the independent states that surround you into an empire. You are blessed to be a great military leader - use those skills to bring these cities under your sway so they may develop into commercial and industrial powerhouses. Surely then the bards will sing of mighty Frederick with the red beard, the great Holy Roman Emperor.",
-		"startIntroPart2": "Great Emperor, the Holy Roman people look up to you to lead them to greater days of glory. Their determination is strong, and now they turn to you, their beloved emperor, to guide them once more. Will you rule and conquer through blood and iron, or foster the Holy Roman arts and industry? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "All hail the Holy Roman Emperor, Frederick I, the legendary Barbarossa! This Empire of yours is a patchwork of 1600 loosely controlled states, each one of them highly autonomous and trying to gain power at the expense of another; being the Emperor was merely a symbol of status, possessing little power. Even then, you aspired to rule as the great emperors of old, and while rulers before you having failed to mantain the power of a Roman Emperor, you managed to overcome the adversity of jealous dukes and wicked popes to rule over your vassals as a true emperor, preventing any hardship, any defeat, any setback to dissuade you.",
+		"startIntroPart2": "Barbarossa, your task is to forge the independent states that surround you into an empire, for it needs a ruler with skill and determination to lift it into greatness! Will you make this Holy Roman Empire be worth of its name? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "You were well warned, but still you seek conflict. Now you will learn your lesson, as many other men have before you!",
 		"attacked": "I have defeated enemies ten times as powerful as you. You will be just one more for the historians.",

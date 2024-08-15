@@ -228,8 +228,8 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Cultural Finesse",
-		"uniqueText": "Policies are adopted 10% faster and for each enacted policy gain +1 [Science] and +2 [Gold]\nSpies are 50% more effective when rigging elections in City-States",
-		"uniques": ["[-10]% Culture cost of adopting new Policies", "[+1 Science, +2 Gold] per [1] social policies adopted", "[+50]% spy effectiveness [in City-State cities]"],
+		"uniqueText": "Policies are adopted 10% faster and for each enacted policy gain +1 [Science] and +2 [Gold]\nSpies are 25% more effective when rigging elections in City-States",
+		"uniques": ["[-10]% Culture cost of adopting new Policies", "[+1 Science, +2 Gold] per [1] social policies adopted", "[+25]% spy effectiveness [in City-State cities]"],
 		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
 			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
 			"Amstetten", "Bad Ischl", "Wolfsberg", "Kufstein", "Leoben", "Klosterneuburg", "Leonding",

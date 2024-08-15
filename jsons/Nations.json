@@ -297,7 +297,7 @@
 		"innerColor": [213,249,255],
 		
 		"uniqueName": "Ingenuity",
-		"uniqueText": "Gain 2 free random Technology upon entering a new era\nGain for free in your Capital the cheapest avaible building for every Stat\nGain -33% [Science] per turn",
+		"uniqueText": "Gain 2 free random Technology upon entering a new era\nGain for free in Capital the cheapest avaible building for every Stat\nGain -33% [Science] per turn",
 		"uniques": ["[2] free random researchable Tech(s) from the [Ancient era] <upon entering the [Ancient era]>",
 		            "[2] free random researchable Tech(s) from the [Classical era] <upon entering the [Classical era]>",
 		            "[2] free random researchable Tech(s) from the [Medieval era] <upon entering the [Medieval era]>",
@@ -369,7 +369,7 @@
 		"innerColor": [255, 191, 0],
 		
 		"uniqueName": "Patriarchate of Constantinople",
-		"uniqueText": "When founding a religion you can adopt 2 Founder beliefs at the same time\nYour Farms yield an additional +1 [Faith]",
+		"uniqueText": "When founding a religion you can adopt 2 Founder beliefs at the same time\nFarms yield an additional +1 [Faith]",
 		"uniques": ["Gain a free [Founder] belief <upon founding a Religion>", "[+1 Faith] from every [Farm]"],
 		"cities": ["Constantinople","Adrianople","Nicaea","Antioch","Varna","Ohrid","Nicomedia","Trebizond","Cherson","Sardica",
 			"Ani","Dyrrachium","Edessa","Chalcedon","Naissus","Bari","Iconium","Prilep","Samosata","Kars",

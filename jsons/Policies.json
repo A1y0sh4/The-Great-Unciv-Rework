@@ -34,7 +34,7 @@
             {
                 "name": "Monumentalism",
                 "uniques": [
-                   "[+1 Happiness] from every [Wonder]"
+                   "[+1 Happiness, +1 Culture] from every [Wonder]"
                 ],
                 "row": 1,
                 "column": 5

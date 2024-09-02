@@ -552,7 +552,7 @@
             {
                 "name": "Police State",
                 "uniques": [
-		    "[+1 Happiness] from every [Arsenal]", "[+1 Happiness] from every [Military Base]", "[+1 Happiness] from every [Courthouse]"
+		    "[+1 Happiness, +1 Production] from every [Arsenal]", "[+1 Happiness, +1 Production] from every [Military Base]", "[+1 Happiness, +1 Production] from every [Courthouse]"
                 ],
                 "requires": ["Militarism"],
                 "row": 2,

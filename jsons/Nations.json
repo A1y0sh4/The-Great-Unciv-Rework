@@ -401,8 +401,8 @@
 		
                 "favoredReligion": "Catholicism",
 		"uniqueName": "Canadian Expeditionary Force",
-		"uniqueText": "Gain triple the Influence of Military unit gifts to City-States (double bonus when gifting a [Peacekeeper])\n+1 [Food] from every [Farm] in [Tundra] tiles\n-20% Strength for Military units when attacking cities",
-		"uniques": ["Gain [15] Influence with a [Military] gift to a City-State", "Gain [30] Influence with a [Peacekeeper] gift to a City-State", "[+1 Food] from every [Farm] <in [Tundra] tiles>", "[-20]% Strength <for [Military] units> <vs cities> <when attacking>"],
+		"uniqueText": "Gain triple the Influence of Military unit gifts to City-States (double bonus when gifting a [Peacekeeper])\n+1 [Food] from every [Farm] in [Tundra] tiles\n-33% Strength for Military units when attacking cities",
+		"uniques": ["Gain [15] Influence with a [Military] gift to a City-State", "Gain [30] Influence with a [Peacekeeper] gift to a City-State", "[+1 Food] from every [Farm] <in [Tundra] tiles>", "[-33]% Strength <for [Military] units> <vs cities> <when attacking>"],
 		"cities": ["Ottawa", "Toronto", "Montreal", "Vancouver", "Winnipeg", "Quebec City", "Hamilton", "Halifax", "Victoria", "Windsor", "Kingston", "Brantford", "Regina", "St. John's", "Calgary", "Saskatoon", "Sault Sainte Marie", "Saint-Lin", "Whitehorse", "Thunder Bay"],
 		"spyNames": ["Aurelie", "Adam", "Ariana", "Adrian", "Beatrice", "Antoine", "Chloe", "Benoit", "Charlotte", "Cedric"]
 	},

@@ -387,7 +387,7 @@
     {
         "name": "Prophetic Blessing",
         "type": "Enhancer",
-        "uniques": ["[+1 Faith] from every [Land] <within [1] tiles of a [Great Improvement]>"]
+        "uniques": ["Empire enters golden age <upon gaining a [Great Prophet] unit>"]
     },
      {
         "name": "Holy Alliance",

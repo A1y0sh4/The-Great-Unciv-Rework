@@ -375,9 +375,9 @@
         "uniques": ["May buy [Settler] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>", "May buy [Worker] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>"]
     },
     {
-        "name": "Religious Missions",
+        "name": "Religious Expeditions",
         "type": "Enhancer",
-        "uniques": ["May buy [Settler] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>", "May buy [Worker] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>"]
+        "uniques": ["[+1] Movement <for [Religious Unit] units>"]
     },
      {
         "name": "Holy Alliance",

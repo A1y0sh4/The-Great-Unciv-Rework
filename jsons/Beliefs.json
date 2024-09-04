@@ -48,6 +48,11 @@
         "uniques": ["[+1 Food] from every [Wheat]", "[+1 Food] from every [Grape]", "[+1 Food] from every [Poppy]"]
     },
     {
+        "name": "Cult of Mithras",
+        "type": "Pantheon",
+        "uniques": ["[+1 Happiness, +1 Production] from every [City center] <within [2] tiles of a [Cattle]>"]
+    },
+    {
         "name": "God of the Open Sky",
         "type": "Pantheon",
         "uniques": ["[+1 Culture] from every [Pasture]"]

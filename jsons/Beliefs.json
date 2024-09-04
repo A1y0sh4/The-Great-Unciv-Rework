@@ -310,6 +310,11 @@
         "type": "Founder",
         "uniques": ["[+1 Culture] from every [4] global followers [in this city]"]
     },
+    {
+        "name": "Religious Expeditions",
+        "type": "Founder",
+        "uniques": ["[+1] Movement <for [Religious Unit] units>", "[+1] Sight <for [Religious Unit] units>"]
+    },
 ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
 
     {
@@ -373,11 +378,6 @@
         "name": "Religious Settlements",
         "type": "Enhancer",
         "uniques": ["May buy [Settler] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>", "May buy [Worker] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>"]
-    },
-    {
-        "name": "Religious Expeditions",
-        "type": "Enhancer",
-        "uniques": ["[+1] Movement <for [Religious Unit] units>"]
     },
      {
         "name": "Holy Alliance",

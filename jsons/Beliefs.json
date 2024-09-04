@@ -132,6 +132,11 @@
         "type": "Pantheon",
         "uniques": ["[+1 Culture] from every [Mountain]"]
     },
+    {
+        "name": "Nature Shamans",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith] from every [Rare feature]", "[+2 Faith] from every [Natural Wonder]"]
+    },
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
      {
         "name": "Religious Teetotality",

@@ -263,7 +263,7 @@
     {
         "name": "Initiation Rites",
         "type": "Founder",
-        "uniques": ["[+50 Faith] when a city adopts this religion for the first time <(modified by game speed)>"]
+        "uniques": ["[+75 Faith] when a city adopts this religion for the first time <(modified by game speed)>"]
     },
     {
         "name": "Interfaith Dialogue",
@@ -284,6 +284,11 @@
         "name": "Peace Loving",
         "type": "Founder",
         "uniques": ["[+1 Happiness] from every [4] global followers [in this city] <when not at war>"]
+    },
+    {
+        "name": "Divine Leadership",
+        "type": "Founder",
+        "uniques": ["[+1 Happiness, +1 Gold] from every [2] global followers [in capital]"]
     },
     {
         "name": "Pilgrimage",

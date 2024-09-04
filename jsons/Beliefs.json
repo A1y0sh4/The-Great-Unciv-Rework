@@ -379,6 +379,11 @@
         "type": "Enhancer",
         "uniques": ["May buy [Settler] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>", "May buy [Worker] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>"]
     },
+    {
+        "name": "Sacred Landmarks",
+        "type": "Enhancer",
+        "uniques": ["[+1 Faith] from every [Land] <within [1] tiles of a [Great Improvement]>"]
+    },
      {
         "name": "Holy Alliance",
         "type": "Enhancer",

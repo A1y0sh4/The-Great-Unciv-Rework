@@ -50,7 +50,7 @@
     {
         "name": "Cult of Mithras",
         "type": "Pantheon",
-        "uniques": ["[+1 Happiness, +1 Production] from every [City center] <within [2] tiles of a [Cattle]>"]
+        "uniques": ["[+1 Happiness, +1 Production] [in all cities] <within [2] tiles of a [Cattle]>"]
     },
     {
         "name": "God of the Open Sky",

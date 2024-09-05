@@ -32,7 +32,8 @@
 		"uniques": ["Improvement", "[+1 Production] <after discovering [Steam Power]>", "Pillaging this improvement yields approximately [+13 Gold]", "Improves [Amber] resource in this tile",
 		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
 		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>",
-		            "Provides [1] [Gems] <in [Gems] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Silver] <in [Silver] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Copper] <in [Copper] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Salt] <in [Salt] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>"],
+		            "Provides [1] [Gems] <in [Gems] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Silver] <in [Silver] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Copper] <in [Copper] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Salt] <in [Salt] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
+		            "Provides [1] [Amber] <in [Amber] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Gold Ore] <in [Gold Ore] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>"],
 		"shortcutKey": "M"
 	},
 	{
@@ -54,7 +55,7 @@
 		"turnsToBuild": 7,
 		"techRequired": "Trapping",
 		"uniques": ["Improvement", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+13 Gold]",
-		            "Provides [1] [Furs] <in [Furs] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>"],
+		            "Provides [1] [Furs] <in [Furs] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Truffles] <in [Truffles] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>"],
 		"shortcutKey": "C"
 	},
 	{
@@ -81,7 +82,8 @@
 		"turnsToBuild": 8,
 		"production": 1,
 		"techRequired": "Animal Husbandry",
-		"uniques": ["Improvement", "[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+13 Gold]"],
+		"uniques": ["Improvement", "[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+13 Gold]",
+			    "Provides [2] [Horses] <in [Horses] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>"],
 		"shortcutKey": "P"
 	},
 	{
@@ -99,7 +101,8 @@
 		"turnsToBuild": 8,
 		"production": 1,
 		"techRequired": "Masonry",
-		"uniques": ["Improvement", "[+1 Production] <after discovering [Steam Power]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+13 Gold]"],
+		"uniques": ["Improvement", "[+1 Production] <after discovering [Steam Power]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+13 Gold]",
+		            "Provides [1] [Obsidian] <in [Obsidian] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Marble] <in [Marble] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>"],
 		"shortcutKey": "Q"
 	},
 	{

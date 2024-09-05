@@ -1634,7 +1634,7 @@
 		"innerColor": [0,0,0],
 		
 		"uniqueName": "Siberian Riches",
-		"uniqueText": "Gain in your capital +1 [Production] for every amount of Stategic resources you own and +1 [Gold] for every amount of Luxury resources you own\nStrategic resources in Tundra or Snow tiles provide 2 additional amounts of their resource\nLuxury resources in Tundra or Snow tiles provide 1 additional amount of their resource",
+		"uniqueText": "Gain in your capital +1 [Production] for every amount of Strategic resources you own and +1 [Gold] for every amount of Luxury resources you own\nStrategic resources in Tundra or Snow tiles provide 2 additional amounts of their resource\nLuxury resources in Tundra or Snow tiles provide 1 additional amount of their resource",
 		"uniques": ["[+1 Production] [in capital] <for every [Horses]>", "[+1 Production] [in capital] <for every [Iron]>", "[+1 Production] [in capital] <for every [Coal]>", "[+1 Production] [in capital] <for every [Oil]>", "[+1 Production] [in capital] <for every [Aluminum]>", "[+1 Production] [in capital] <for every [Uranium]>",
 		"[+1 Gold] [in capital] <for every [Amber]>", "[+1 Gold] [in capital] <for every [Beer]>", "[+1 Gold] [in capital] <for every [Citrus]>", "[+1 Gold] [in capital] <for every [Cocoa]>", "[+1 Gold] [in capital] <for every [Coffee]>", "[+1 Gold] [in capital] <for every [Cognac]>", "[+1 Gold] [in capital] <for every [Copper]>",
                 "[+1 Gold] [in capital] <for every [Cotton]>", "[+1 Gold] [in capital] <for every [Crab]>", "[+1 Gold] [in capital] <for every [Dyes]>", "[+1 Gold] [in capital] <for every [Furs]>", "[+1 Gold] [in capital] <for every [Gems]>", "[+1 Gold] [in capital] <for every [Gold Ore]>", "[+1 Gold] [in capital] <for every [Incense]>",

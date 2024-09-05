@@ -285,6 +285,7 @@
 		"name": "Krepost",
 		"replaces": "Barracks",
 		"uniqueTo": "Russia",
+		"cost": 40,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"greatPersonPoints": {"Great General": 1},

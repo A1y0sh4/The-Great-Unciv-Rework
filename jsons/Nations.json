@@ -369,7 +369,7 @@
 		"innerColor": [255, 191, 0],
 		
 		"uniqueName": "Patriarchate of Constantinople",
-		"uniqueText": "When founding a religion you can adopt 2 Founder beliefs at the same time\nFarms yield an additional +1 [Faith]",
+		"uniqueText": "When founding a religion you can adopt 2 Founder beliefs at the same time\nFarms yield an additional +1 [Faith]\nGain +2 [Culture] for each global city following your religion",
 		"uniques": ["Gain a free [Founder] belief <upon founding a Religion>", "[+1 Faith] from every [Farm]"],
 		"cities": ["Constantinople","Adrianople","Nicaea","Antioch","Varna","Ohrid","Nicomedia","Trebizond","Cherson","Sardica",
 			"Ani","Dyrrachium","Edessa","Chalcedon","Naissus","Bari","Iconium","Prilep","Samosata","Kars",

@@ -30,7 +30,9 @@
 		"turnsToBuild": 7,
 		"techRequired": "Mining",
 		"uniques": ["Improvement", "[+1 Production] <after discovering [Steam Power]>", "Pillaging this improvement yields approximately [+13 Gold]", "Improves [Amber] resource in this tile",
-		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>"],
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>",
+		            "Provides [1] [Gems] <in [Gems] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Silver] <in [Silver] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Copper] <in [Copper] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Salt] <in [Salt] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>"],
 		"shortcutKey": "M"
 	},
 	{
@@ -51,7 +53,8 @@
 		"production": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Trapping",
-		"uniques": ["Improvement", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+13 Gold]"],
+		"uniques": ["Improvement", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+13 Gold]",
+		            "Provides [1] [Furs] <in [Furs] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>"],
 		"shortcutKey": "C"
 	},
 	{
@@ -60,7 +63,8 @@
 		"production": 1,
 		"turnsToBuild": 9,
 		"techRequired": "Biology",
-		"uniques": ["Improvement", "Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+21 Gold]"],
+		"uniques": ["Improvement", "Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+21 Gold]",
+		            "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>"],
 		"shortcutKey": "W"
 	},
 	{
@@ -210,35 +214,45 @@
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"science": 5,
-		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Science]", "Will not be replaced by automated units", "Tile provides yield without assigned population"]
+		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Science]", "Will not be replaced by automated units", "Tile provides yield without assigned population",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>"]
 	},
 	{
 		"name": "Landmark",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"culture": 5,
-		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Culture]", "Will not be replaced by automated units", "Tile provides yield without assigned population"]
+		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Culture]", "Will not be replaced by automated units", "Tile provides yield without assigned population",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>"]
 	},
 	{
 		"name": "Manufactory",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 5,
-		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Gold]", "Will not be replaced by automated units", "Tile provides yield without assigned population"]
+		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Gold]", "Will not be replaced by automated units", "Tile provides yield without assigned population",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>"]
 	},
 	{
 		"name": "Customs house",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"gold": 5,
-		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Gold]", "Will not be replaced by automated units", "Tile provides yield without assigned population"]
+		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Gold]", "Will not be replaced by automated units", "Tile provides yield without assigned population",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>"]
 	},
 	{
 		"name": "Holy site",
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"faith": 5,
-		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Faith]", "Will not be replaced by automated units", "Tile provides yield without assigned population"]
+		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Faith]", "Will not be replaced by automated units", "Tile provides yield without assigned population",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>"]
 	},
 	{
 		"name": "Citadel",
@@ -249,7 +263,9 @@
 			"Adjacent enemy units ending their turn take [33] damage",
 			"Can be built just outside your borders", "Unpillagable",
         	        "Gain control over [all] tiles in a [1]-tile radius",
-			"Removes removable features when built", "Will not be replaced by automated units", "Tile provides yield without assigned population"
+			"Removes removable features when built", "Will not be replaced by automated units", "Tile provides yield without assigned population",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>"
 		]
 	},
 	//Civilization unique improvements

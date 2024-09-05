@@ -8,6 +8,11 @@
         "uniques": ["[+1 Faith] from every [Monument]"]
     },
     {
+        "name": "Cult of Mithras",
+        "type": "Pantheon",
+        "uniques": ["[+1 Happiness, +1 Production] [in all cities] <within [2] tiles of a [Cattle]>"]
+    },
+    {
         "name": "Dance of the Aurora",
         "type": "Pantheon",
         "uniques": ["[+1 Faith] from [Tundra] tiles without [Forest] [in this city]"]
@@ -18,6 +23,16 @@
         "uniques": ["[+1 Faith] from [Desert] tiles without [Flood plains] [in this city]"]
     },
     {
+        "name": "Earth Mother",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith] from every [Salt]", "[+1 Faith] from every [Copper]", "[+1 Faith] from every [Iron]"]
+    },
+    {
+        "name": "Eleusinian Mysteries",
+        "type": "Pantheon",
+        "uniques": ["[+1 Food] from every [Wheat]", "[+1 Food] from every [Grape]", "[+1 Food] from every [Poppy]"]
+    },
+    {
         "name": "Faith Healers",
         "type": "Pantheon",
         "uniques": ["[All] Units adjacent to this city heal [+33] HP per turn when healing"]
@@ -26,46 +41,6 @@
         "name": "Fertility Rites",
         "type": "Pantheon",
         "uniques": ["[+15]% growth [in this city]"]
-    },
-    {
-        "name": "God of Craftsman",
-        "type": "Pantheon",
-        "uniques": ["[+1 Production] from every [Strategic resource]"]
-    },
-    {
-        "name": "Earth Mother",
-        "type": "Pantheon",
-        "uniques": ["[+1 Faith] from every [Salt]", "[+1 Faith] from every [Copper]", "[+1 Faith] from every [Iron]"]
-    },
-    {
-        "name": "Ritual Drinks",
-        "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Tea]", "[+1 Culture, +1 Faith] from every [Coffee]"]
-    },
-    {
-        "name": "Eleusinian Mysteries",
-        "type": "Pantheon",
-        "uniques": ["[+1 Food] from every [Wheat]", "[+1 Food] from every [Grape]", "[+1 Food] from every [Poppy]"]
-    },
-    {
-        "name": "Cult of Mithras",
-        "type": "Pantheon",
-        "uniques": ["[+1 Happiness, +1 Production] [in all cities] <within [2] tiles of a [Cattle]>"]
-    },
-    {
-        "name": "God of the Open Sky",
-        "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Pasture]"]
-    },
-    {
-        "name": "God of the Sea",
-        "type": "Pantheon",
-        "uniques": ["[+1 Production] from every [Fishing Boats]"]
-    },
-    {
-        "name": "God of War",
-        "type": "Pantheon",
-        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
     },
     {
         "name": "Goddess of Festivals",
@@ -93,6 +68,26 @@
         "uniques": ["[+1 Food] from every [Camp]"]
     },
     {
+        "name": "God of Craftsman",
+        "type": "Pantheon",
+        "uniques": ["[+1 Production] from every [Strategic resource]"]
+    },
+    {
+        "name": "God of the Open Sky",
+        "type": "Pantheon",
+        "uniques": ["[+1 Culture] from every [Pasture]"]
+    },
+    {
+        "name": "God of the Sea",
+        "type": "Pantheon",
+        "uniques": ["[+1 Production] from every [Fishing Boats]"]
+    },
+    {
+        "name": "God of War",
+        "type": "Pantheon",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+    },
+    {
         "name": "Messenger of the Gods",
         "type": "Pantheon",
         "uniques": ["[+1 Science] per [4] population [in all cities connected to capital]"]
@@ -103,9 +98,19 @@
         "uniques": ["[+10]% Production when constructing [All] wonders [in cities following this religion]", "[+1 Faith] from every [Wonder]"]
     },
     {
+        "name": "Nature Shamans",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith] from every [Rare feature]", "[+2 Faith] from every [Natural Wonder]"]
+    },
+    {
         "name": "One with Nature",
         "type": "Pantheon",
         "uniques": ["[+1 Faith] from [Resource] tiles [in this city]", "[-1 Faith] from [Improvement] tiles [in this city] <in [Resource] tiles>"]
+    },
+    {
+        "name": "Oracles of the Mountains",
+        "type": "Pantheon",
+        "uniques": ["[+1 Culture] from every [Mountain]"]
     },
     {
         "name": "Oral Tradition",
@@ -116,6 +121,11 @@
         "name": "Religious Idols",
         "type": "Pantheon",
         "uniques": ["[+1 Faith] from every [Gold Ore]", "[+1 Faith] from every [Silver]", "[+1 Faith] from every [Gems]"]
+    },
+     {
+        "name": "Ritual Drinks",
+        "type": "Pantheon",
+        "uniques": ["[+1 Culture, +1 Faith] from every [Tea]", "[+1 Culture, +1 Faith] from every [Coffee]"]
     },
     {
         "name": "Sacred Path",
@@ -131,16 +141,6 @@
         "name": "Stone Circles",
         "type": "Pantheon",
         "uniques": ["[+2 Faith] from every [Stone]"]
-    },
-    {
-        "name": "Oracles of the Mountains",
-        "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Mountain]"]
-    },
-    {
-        "name": "Nature Shamans",
-        "type": "Pantheon",
-        "uniques": ["[+1 Faith] from every [Rare feature]", "[+2 Faith] from every [Natural Wonder]"]
     },
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
      {

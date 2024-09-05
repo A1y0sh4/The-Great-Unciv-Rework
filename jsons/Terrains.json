@@ -15,9 +15,10 @@
 		"uniques": ["[+2] to Fertility for Map Generation",
             "Considered [Desirable] when determining start locations <on water maps>",
             "Starts in regions of this type receive an extra [Fish]",
+	    "Starts in regions of this type receive an extra [Fish]",
 	    "Starts in regions of this type receive an extra [Horses]",
 	    "Starts in regions of this type receive an extra [Iron]",
-            "Every [50] tiles with this terrain will receive a major deposit of a strategic resource."]
+            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
 	{
 		"name": "Grassland",
@@ -46,7 +47,7 @@
             "Considered [Food] when determining start locations <in [Hill] Regions>",
             "Considered [Food] when determining start locations <in [Grassland] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
-            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+            "Every [25] tiles with this terrain will receive a major deposit of a strategic resource."]
     },
 	{
 		"name": "Plains",
@@ -77,7 +78,7 @@
             "Considered [Food] when determining start locations <in [Hill] Regions>",
             "Considered [Food] when determining start locations <in [Plains] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
-            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+            "Every [25] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
 	{
 		"name": "Tundra",
@@ -98,7 +99,7 @@
             "Considered [Food] when determining start locations <in [Tundra] Regions>",
             "Considered [Desirable] when determining start locations <in [Tundra] Regions>",
             "Becomes [Plains] when adjacent to [River]",
-            "Every [16] tiles with this terrain will receive a major deposit of a strategic resource."]
+            "Every [15] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
 	{
 		"name": "Desert",
@@ -117,7 +118,7 @@
             "A Region is formed with at least [25]% [Desert] tiles, with priority [4]",
             "Becomes [Flood plains] when adjacent to [River]",
             "Considered [Undesirable] when determining start locations <in all except [Desert] Regions>",
-            "Every [13] tiles with this terrain will receive a major deposit of a strategic resource."]
+            "Every [15] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
 	{
 		"name": "Mountain",

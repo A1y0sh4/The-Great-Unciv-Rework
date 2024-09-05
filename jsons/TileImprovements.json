@@ -386,7 +386,7 @@
 	{
 		"name": "City center",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Improvement", "Unpillagable", "Irremovable", "Unbuildable", "Gain control over [all] tiles in a [2]-tile radius <for [Russia]>",],
+		"uniques": ["Improvement", "Unpillagable", "Irremovable", "Unbuildable",],
         "civilopediaText": [
 			{"text":"Marks the center of a city"},
 			{"text":"Appearance changes with the technological era of the owning civilization"}

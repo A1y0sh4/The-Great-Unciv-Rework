@@ -324,9 +324,24 @@
         // ToDo: Should only be friendly territory of cities that follow this religion
     },
     {
+        "name": "Doctrinal Esoterism",
+        "type": "Enhancer",
+        "uniques": ["[-25]% enemy spy effectiveness [in all cities]"]
+    },
+    {
+        "name": "Holy Alliance",
+        "type": "Enhancer",
+        "uniques": ["Gain [150] [Gold] <upon declaring friendship> <(modified by game speed)>", "Gain [150] [Gold] <upon declaring a defensive pact> <(modified by game speed)>"]
+    },
+    {
         "name": "Holy Order",
         "type": "Enhancer",
         "uniques": ["[Faith] cost of purchasing [Missionary] units [-33]%", "[Faith] cost of purchasing [Inquisitor] units [-33]%"]
+    },
+    {
+        "name": "Inquisition Tribunals",
+        "type": "Enhancer",
+        "uniques": ["Adopt [Inquisition]", "Free [Inquisitor] appears <upon constructing [Courthouse]>", "[+2 Faith] from every [Courthouse]"]
     },
     {
         "name": "Itinerant Preachers",
@@ -350,29 +365,9 @@
         "uniques": ["[+25]% Spread Religion Strength <for [Missionary] units>"]
     },
     {
-        "name": "Religious Texts",
+        "name": "Prophetic Blessing",
         "type": "Enhancer",
-        "uniques": ["[+25]% Natural religion spread [in all cities]", "[+25]% Natural religion spread [in all cities] <after discovering [Printing Press]>"]
-    },
-    {
-        "name": "Doctrinal Esoterism",
-        "type": "Enhancer",
-        "uniques": ["[-25]% enemy spy effectiveness [in all cities]"]
-    },
-    {
-        "name": "Religious Unity",
-        "type": "Enhancer",
-        "uniques": ["[+100]% Natural religion spread [in City-State cities]"]
-    },
-    {
-        "name": "Inquisition Tribunals",
-        "type": "Enhancer",
-        "uniques": ["Adopt [Inquisition]", "Free [Inquisitor] appears <upon constructing [Courthouse]>", "[+2 Faith] from every [Courthouse]"]
-    },
-    {
-        "name": "Reliquary",
-        "type": "Enhancer",
-        "uniques": ["Gain [+100] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"]
+        "uniques": ["Empire enters golden age <upon expending a [Great Prophet] unit>"]
     },
     {
         "name": "Religious Settlements",
@@ -380,19 +375,24 @@
         "uniques": ["May buy [Settler] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>", "May buy [Worker] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>"]
     },
     {
+        "name": "Religious Texts",
+        "type": "Enhancer",
+        "uniques": ["[+25]% Natural religion spread [in all cities]", "[+25]% Natural religion spread [in all cities] <after discovering [Printing Press]>"]
+    },
+    {
+        "name": "Religious Unity",
+        "type": "Enhancer",
+        "uniques": ["[+100]% Natural religion spread [in City-State cities]"]
+    },
+    {
+        "name": "Reliquary",
+        "type": "Enhancer",
+        "uniques": ["Gain [+100] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"]
+    },
+    {
         "name": "Sacred Landmarks",
         "type": "Enhancer",
         "uniques": ["[+1 Faith] from every [Land] <within [1] tiles of a [Great Improvement]>"]
     },
-    {
-        "name": "Prophetic Blessing",
-        "type": "Enhancer",
-        "uniques": ["Empire enters golden age <upon gaining a [Great Prophet] unit>"]
-    },
-     {
-        "name": "Holy Alliance",
-        "type": "Enhancer",
-        "uniques": ["Gain [150] [Gold] <upon declaring friendship> <(modified by game speed)>", "Gain [150] [Gold] <upon declaring a defensive pact> <(modified by game speed)>"]
-    }
 ]
 

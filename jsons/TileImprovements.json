@@ -29,7 +29,8 @@
 		"production": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Mining",
-		"uniques": ["Improvement", "[+1 Production] <after discovering [Steam Power]>", "Pillaging this improvement yields approximately [+13 Gold]", "Improves [Amber] resource in this tile"],
+		"uniques": ["Improvement", "[+1 Production] <after discovering [Steam Power]>", "Pillaging this improvement yields approximately [+13 Gold]", "Improves [Amber] resource in this tile",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>"],
 		"shortcutKey": "M"
 	},
 	{

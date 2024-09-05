@@ -263,7 +263,7 @@
     {
         "name": "Lay Ministry",
         "type": "Founder",
-        "uniques": ["[+1 Culture, +1 Science] for each global city following this religion"]
+        "uniques": ["[+1 Culture, +1 Science, +1 Faith] for each global city following this religion"]
     },
     {
         "name": "Initiation Rites",

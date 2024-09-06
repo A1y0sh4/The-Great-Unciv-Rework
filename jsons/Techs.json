@@ -225,7 +225,7 @@
 				"name": "Civil Service",
 				"row": 5,
 				"prerequisites": ["Currency","Imperial Games","Drama and Poetry","Philosophy"],
-				"uniques": ["Enables Open Borders agreements"],
+				"uniques": ["Enables Open Borders agreements", "Comment [Enables relocating Capital City]"],
 				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
 			},
 			{

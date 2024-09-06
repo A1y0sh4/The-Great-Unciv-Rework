@@ -136,8 +136,8 @@
 		"innerColor": [230, 40, 50],
 		
 		"uniqueName": "Golden Stool",
-		"uniqueText": "Palace yields an additional +1 value for every stat\nCourthouses are built in half the time",
-		"uniques": ["[+1 Food, +1 Production, +1 Gold, +1 Culture, +1 Science, +1 Happiness, +1 Faith] from every [Palace]", "[+100]% Production when constructing [Courthouse] buildings [in all cities]"],
+		"uniqueText": "Palace yields an additional +1 value of its stat for every passed era\nCourthouses are built in half the time",
+		"uniques": ["[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace]", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Classical era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Medieval era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Renaissance era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Industrial era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Modern era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Atomic era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Information era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Future era]>", "[+100]% Production when constructing [Courthouse] buildings [in all cities]"],
 		"cities": ["Kumasi","Bantama","Mampong","Edweso","Bekwai","Kumawu","Obuasi","Adanse","Asante-Akim Agogo","Juaben",
 			"Ejisu","Fomena","Agona-Ashanti","Dunkwa-on-Offin","Techiman","Afram Plains","Konongo","Akwatia","Obogu","Nkawie","Asokore Mampong",
 			"Obuasi-Bekwai","Krofrom","Bomaa","Kwabre","Adumasa","Sekyere-Hemang","Aboabo","Adansi","Besease",

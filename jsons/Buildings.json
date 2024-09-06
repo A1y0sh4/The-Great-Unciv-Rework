@@ -15,7 +15,7 @@
 	{
 		"name": "Revolution",
 		"cost": 0,
-		"uniques": ["Unbuildable", "Remove [Palace] [in all cities]", "Gain a free [Palace] [in this city]"]
+		"uniques": ["Unbuildable", "Can be purchased for [0] [Gold] [in all cities]", "Remove [Palace] [in all cities]", "Gain a free [Palace] [in this city]"]
 	},
 	{
 		"name": "Monument",

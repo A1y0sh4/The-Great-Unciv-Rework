@@ -648,7 +648,7 @@
 	{
 		"name": "Repairing System",
 		"prerequisites": ["Drone Support II", "Integrated Laser Cannon II", "Enhanced Mobility II"],
-		"uniques": ["Unit will heal every turn, even if it performs an action", "Heal this unit by [33] HP <upon being promoted>"],
+		"uniques": ["Unit will heal every turn, even if it performs an action", "[This Unit] heals [33] HP <upon being promoted>"],
 		"unitTypes": ["Mech"],
         "column": 31,
         "row": 3
@@ -731,11 +731,11 @@
 	{
 		"name": "Pride",
 		"prerequisites": ["Accuracy II","Barrage II","Shock III","Drill III","Scouting III","Survivalism III"],
-		"uniques": ["Heal this unit by [33] HP", "Heal this unit by [33] HP <upon being promoted>"],
+		"uniques": ["[This Unit] heals [33] HP", "[This Unit] heals [33] HP <upon being promoted>"],
 		"unitTypes": ["Sword", "Gunpowder","Archery", "Ranged Gunpowder", "Mounted", "Scout"],
         "column": 9,
         "row": 4
-	}
+	},
 	// Water ranged and air units
 	{
 		"name": "Bombardment I",

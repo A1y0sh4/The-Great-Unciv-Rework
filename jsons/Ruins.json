@@ -25,7 +25,7 @@
     {
         "name": "your exploring unit receives training",
         "notification": "An ancient tribe trained us in their ways of combat!",
-        "uniques": ["This Unit gains [15] XP"]
+        "uniques": ["[This Unit] gains [15] XP"]
     },
     {
         "name": "survivors (adds population to a city)",

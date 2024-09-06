@@ -17,8 +17,18 @@
 		"name": "Revolution",
 		"cost": 5,
 		"hurryCostModifier": 5,
-		"uniques": ["Unbuildable <hidden from users>", "Can be purchased with [Gold] [in all cities] <hidden from users>", "Remove [Palace] [in all cities] <hidden from users>", "Gain a free [Palace] [in this city] <hidden from users>", "Cost increases by [5] per owned city <hidden from users>", "Cost increases by [5] when built <hidden from users>"]
-	},
+		"uniques": ["Unbuildable <hidden from users>", "Can be purchased with [Gold] [in all cities] <hidden from users>", "Remove [Palace] [in all cities] <hidden from users>", "Gain a free [Palace] [in this city] <hidden from users>", "Cost increases by [5] per owned city <hidden from users>", "Cost increases by [5] when built <hidden from users>",
+		    "Remove [Tradition] and refund [75]% of its cost <hidden from users>", "Remove [Discipline] and refund [75]% of its cost <hidden from users>", "Remove [Monarchy] and refund [75]% of its cost <hidden from users>", "Remove [Monumentalism] and refund [75]% of its cost <hidden from users>", "Remove [Landed Elite] and refund [75]% of its cost <hidden from users>", "Remove [Legalism] and refund [75]% of its cost <hidden from users>", "Remove [Tradition Complete] and refund [75]% of its cost <hidden from users>",
+		    "Remove [Liberty] and refund [75]% of its cost <hidden from users>", "Remove [Collective Rule] and refund [75]% of its cost <hidden from users>", "Remove [Meritocracy] and refund [75]% of its cost <hidden from users>", "Remove [Republic] and refund [75]% of its cost <hidden from users>", "Remove [Citizenship] and refund [75]% of its cost <hidden from users>", "Remove [Representation] and refund [75]% of its cost <hidden from users>", "Remove [Liberty Complete] and refund [75]% of its cost <hidden from users>",
+		    "Remove [Expansion] and refund [75]% of its cost <hidden from users>", "Remove [Warrior Code] and refund [75]% of its cost <hidden from users>", "Remove [City Militia] and refund [75]% of its cost <hidden from users>", "Remove [Military Tradition] and refund [75]% of its cost <hidden from users>", "Remove [Professional Army] and refund [75]% of its cost <hidden from users>", "Remove [State Logistics] and refund [75]% of its cost <hidden from users>", "Remove [Expansion Complete] and refund [75]% of its cost <hidden from users>",
+		    "Remove [Piety] and refund [75]% of its cost <hidden from users>", "Remove [Organized Religion] and refund [75]% of its cost <hidden from users>", "Remove [Theocracy] and refund [75]% of its cost <hidden from users>", "Remove [Religious Orders] and refund [75]% of its cost <hidden from users>", "Remove [Inquisition] and refund [75]% of its cost <hidden from users>", "Remove [Monasticism] and refund [75]% of its cost <hidden from users>", "Remove [Piety Complete] and refund [75]% of its cost <hidden from users>",
+	    	    "Remove [Diplomacy] and refund [75]% of its cost <hidden from users>", "Remove [Political Science] and refund [75]% of its cost <hidden from users>", "Remove [Machiavellianism] and refund [75]% of its cost <hidden from users>", "Remove [Counter Intelligence] and refund [75]% of its cost <hidden from users>", "Remove [Mercenary Opportunism] and refund [75]% of its cost <hidden from users>", "Remove [Diplomatic Obstructionism] and refund [75]% of its cost <hidden from users>", "Remove [Diplomacy Complete] and refund [75]% of its cost <hidden from users>",
+		    "Remove [Commerce] and refund [75]% of its cost <hidden from users>", "Remove [Mercantilism] and refund [75]% of its cost <hidden from users>", "Remove [Protectionism] and refund [75]% of its cost <hidden from users>", "Remove [Free Trade] and refund [75]% of its cost <hidden from users>", "Remove [Free Market] and refund [75]% of its cost <hidden from users>", "Remove [Market Economy] and refund [75]% of its cost <hidden from users>", "Remove [Commerce Complete] and refund [75]% of its cost <hidden from users>",
+		    "Remove [Rationalism] and refund [75]% of its cost <hidden from users>", "Remove [Secularism] and refund [75]% of its cost <hidden from users>", "Remove [Free Thought] and refund [75]% of its cost <hidden from users>", "Remove [Scientific Revolution] and refund [75]% of its cost <hidden from users>", "Remove [Humanism] and refund [75]% of its cost <hidden from users>", "Remove [Sovereignty] and refund [75]% of its cost <hidden from users>", "Remove [Rationalism Complete] and refund [75]% of its cost <hidden from users>",
+		    "Remove [Individualism] and refund [75]% of its cost <hidden from users>", "Remove [Constitution] and refund [75]% of its cost <hidden from users>", "Remove [Free Speech] and refund [75]% of its cost <hidden from users>", "Remove [Civil Society] and refund [75]% of its cost <hidden from users>", "Remove [Universal Suffrage] and refund [75]% of its cost <hidden from users>", "Remove [Democracy] and refund [75]% of its cost <hidden from users>", "Remove [Individualism Complete] and refund [75]% of its cost <hidden from users>",
+		    "Remove [Nationalism] and refund [75]% of its cost <hidden from users>", "Remove [Populism] and refund [75]% of its cost <hidden from users>", "Remove [Militarism] and refund [75]% of its cost <hidden from users>", "Remove [Autarky] and refund [75]% of its cost <hidden from users>", "Remove [Police State] and refund [75]% of its cost <hidden from users>", "Remove [Total War] and refund [75]% of its cost <hidden from users>", "Remove [Nationalism Complete] and refund [75]% of its cost <hidden from users>",
+		    "Remove [Internationalism] and refund [75]% of its cost <hidden from users>", "Remove [World Expo] and refund [75]% of its cost <hidden from users>", "Remove [Cultural Diplomacy] and refund [75]% of its cost <hidden from users>", "Remove [Pacifism] and refund [75]% of its cost <hidden from users>", "Remove [Global Cooperation] and refund [75]% of its cost <hidden from users>", "Remove [International Harmony] and refund [75]% of its cost <hidden from users>", "Remove [Internationalism Complete] and refund [75]% of its cost <hidden from users>"]
+        },
 	{
 		"name": "Monument",
 		"requiredTech": "Agriculture"
@@ -50,7 +60,7 @@
 		"cost": 58,
 		"hurryCostModifier": 25,
 		"maintenance": 2,
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["Destroyed when the city is captured",]
 	},
 	// Column 1
 	{
@@ -94,7 +104,7 @@
 		"greatPersonPoints": {"Great Engineer": 1},
 		"uniques": ["[+1 Food] from [Camp] tiles [in this city]"],
 		"requiredTech": "Trapping",
-		"quote": "'It is not so much for its beauty that the forest makes a claim upon men's hearts, as for that subtle something, that quality of air, that emanation from old trees, that so wonderfully changes and renews a weary spirit.' - Robert Louis Stevenson"
+		"quote": "'It is not so much for its beauty that the forest makes a claim upon men's hearts, as for that subtle something, that quality of air, that emanation from old trees, that so wonderfully changes and renews a weary spirit.' - Robert Louis Stevenson",
 	},
 	// Column 2
 	{

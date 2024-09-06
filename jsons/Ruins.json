@@ -48,7 +48,7 @@
     {
         "name": "advanced weaponry for your explorer",
         "notification": "Our unit finds advanced weaponry hidden in the ruins!",
-        "uniques": ["This Unit upgrades for free including special upgrades"]
+        "uniques": ["[This Unit] upgrades for free including special upgrades"]
     },
     {
         "name": "reveal nearby Barbarian camps",

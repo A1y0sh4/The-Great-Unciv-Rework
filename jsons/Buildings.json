@@ -10,7 +10,7 @@
 		"culture": 1,
 		"cityStrength": 3,
 		"cost": 100,
-		"uniques": ["Indicates the capital city", "[+15]% [Production] [in this city] <during We Love The King Day>", "[+15]% [Gold] [in this city] <during We Love The King Day>", "Limited to [1] per Civilization", "Cost increases by [25] per owned city", "Destroyed when the city is captured"]
+		"uniques": ["Indicates the capital city", "Comment [+15% [Production] and [Gold] in this city during We Love The King Day]", "Comment [When below -10 Unhappiness its built in half the time and, once constructed, the empire enters a Golden Age]", "[+15]% [Production] [in this city] <during We Love The King Day> <hidden from users>", "[+15]% [Gold] [in this city] <during We Love The King Day> <hidden from users>", "Limited to [1] per Civilization <hidden from users>", "Cost increases by [25] per owned city", "Cost increases by [50] when built", "Empire enters golden age <when below [-10] Happiness> <hidden from users>", "Destroyed when the city is captured"]
 	},
 	{
 		"name": "Monument",

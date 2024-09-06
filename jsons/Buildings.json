@@ -453,7 +453,7 @@
 		"greatPersonPoints": {"Great Artist": 1},
 		"requiredTech": "Construction",
 		"uniques": ["Free Social Policy"],
-		"quote": "'Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.' - Sun Tzu"
+		"quote": "'Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.' - Sun Tzu",
 	},
 	// Column 4
 	{
@@ -1539,7 +1539,7 @@
             "Promotes all spies [1] time(s)",
             "Gain an extra spy",
 			"Only available <if [Military Base] is constructed in all [non-[Puppeted]] cities>",
-			"Cost increases by [25] per owned city"],
+			"Cost increases by [25] per owned city", "Hidden when espionage is disabled"],
         "requiredTech": "Advanced Espionage"
     },
 	// Column 16

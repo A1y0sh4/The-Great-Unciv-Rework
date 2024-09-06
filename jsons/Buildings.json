@@ -9,8 +9,8 @@
 		"gold": 3,
 		"culture": 1,
 		"cityStrength": 3,
-		"cost": 50,
-		"uniques": ["Indicates the capital city", "Comment [+15% [Production] and [Gold] in this city during We Love The King Day]", "Comment [When below -10 Unhappiness it's built in half the time and, once constructed, the empire enters a Golden Age]", "Remove [Revolution] [in all cities] <hidden from users>", "[+15]% [Production] [in this city] <during We Love The King Day> <hidden from users>", "[+15]% [Gold] [in this city] <during We Love The King Day> <hidden from users>", "Limited to [1] per Civilization <hidden from users>", "Cost increases by [50] per owned city", "Cost increases by [50] when built", "Empire enters golden age <when below [-10] Happiness> <hidden from users>", "Destroyed when the city is captured"]
+		"isNationalWonder": true,
+		"uniques": ["Indicates the capital city", "Comment [+15% [Production] and [Gold] in this city during We Love The King Day]", "Comment [When below -10 Unhappiness it's built in half the time and, once constructed, the empire enters a Golden Age]", "Remove [Revolution] [in all cities] <hidden from users>", "[+15]% [Production] [in this city] <during We Love The King Day> <hidden from users>", "[+15]% [Gold] [in this city] <during We Love The King Day> <hidden from users>", "Empire enters golden age <when below [-10] Happiness> <hidden from users>", "Destroyed when the city is captured"]
 	},
 	{
 		"name": "Revolution",

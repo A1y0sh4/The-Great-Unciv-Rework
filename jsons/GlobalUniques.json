@@ -6,7 +6,6 @@
         "[-50]% growth [in all cities] <when between [-10] and [-1] Happiness>",
         "Nullifies Growth [in all cities] <when below [-10] Happiness>",
 	"Remove [Palace] [in all cities] <upon turn end> <with [5]% chance> <when below [100] Happiness>", 
-	"Triggers the following global alert: [Your people overthrew your government! You need to rebuild the Palace in order to form a new one.] <if [Palace] is not constructed>",
         "[-33]% [Production] [in all cities] <when below [-10] Happiness>",
         "[-33]% Strength <for [All] units> <when below [-10] Happiness>",
         "Cannot build [Settler] units <when below [-10] Happiness>",

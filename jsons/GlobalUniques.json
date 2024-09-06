@@ -5,7 +5,7 @@
 	"[-25]% growth [in all cities] <when at war>",
         "[-50]% growth [in all cities] <when between [-10] and [-1] Happiness>",
         "Nullifies Growth [in all cities] <when below [-10] Happiness>",
-	"Remove [Palace] [in all cities] <with [10]% chance> <when below [100] Happiness>", 
+	"Remove [Palace] [in all cities] <upon turn end> <with [5]% chance> <when below [-10] Happiness>", 
         "[-33]% [Production] [in all cities] <when below [-10] Happiness>",
         "[-33]% Strength <for [All] units> <when below [-10] Happiness>",
         "Cannot build [Settler] units <when below [-10] Happiness>",

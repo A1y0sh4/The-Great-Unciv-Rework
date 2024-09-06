@@ -33,7 +33,7 @@
 		"name": "Move Capital",
 		"cost": 1,
 		"hurryCostModifier": 5,
-		"uniques": ["Will not be displayed in Civilopedia <hidden from users>", "Unbuildable <hidden from users>", "Can be purchased with [Gold] [in all cities] <hidden from users>", "Remove [Palace] [in all cities] <hidden from users>", "Gain a free [Palace] [in this city] <hidden from users>", "Cost increases by [5] per owned city <hidden from users>", "Cost increases by [5] when built <hidden from users>"]
+		"uniques": ["Only available <if [Palace] is not constructed>", "Will not be displayed in Civilopedia <hidden from users>", "Unbuildable <hidden from users>", "Can be purchased with [Gold] [in all cities] <hidden from users>", "Remove [Palace] [in all cities] <hidden from users>", "Gain a free [Palace] [in this city] <hidden from users>", "Cost increases by [5] per owned city <hidden from users>", "Cost increases by [5] when built <hidden from users>"]
         },
 	{
 		"name": "Monument",

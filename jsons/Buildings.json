@@ -14,8 +14,8 @@
 	},
 	{
 		"name": "Revolution",
-		"cost": 50,
-		"uniques": ["Unbuildable", "Can be purchased with [Gold] [in all cities]", "Remove [Palace] [in all cities]", "Gain a free [Palace] [in this city]", "Cost increases by [50] per owned city", "Cost increases by [50] when built"]
+		"cost": 25,
+		"uniques": ["Unbuildable", "Can be purchased with [Gold] [in all cities]", "Remove [Palace] [in all cities]", "Gain a free [Palace] [in this city]", "Cost increases by [25] per owned city", "Cost increases by [25] when built"]
 	},
 	{
 		"name": "Monument",

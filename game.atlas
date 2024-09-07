@@ -1410,3 +1410,10 @@ TileSets/FantasyHex/Tiles/Poppy
   orig: 32, 28
   offset: 0, 0
   index: -1
+BuildingIcons/Relocate Capital
+  rotate: false
+  xy: 1940, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

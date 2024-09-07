@@ -333,7 +333,7 @@
 		"greatPersonPoints": {"Great General": 1},
 		"uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>", "Gain a free [Barracks] [in this city]", "[1] free [Spearman] units appear", "[+15]% Production when constructing [Military] units [in this city]"],
 		"requiredTech": "Bronze Working",
-		"quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad"
+		"quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad",
 	},
 
 	// Classical Era
@@ -855,7 +855,7 @@
 			    "[+1 Production] from [Copper] tiles [in this city]",
 		            "[+1 Production] from [Gold Ore] tiles [in this city]",
 		            "[+1 Production] from [Silver] tiles [in this city]",
-		            "[+1 Production] from [Iron] tiles [in this city]"]
+		            "[+1 Production] from [Iron] tiles [in this city]",]
 		
 	},
 	// Column 6
@@ -1094,7 +1094,7 @@
 		"uniques": ["[+25]% City Strength from defensive buildings"],
 		"requiredBuilding": "Palace",
 		"requiredTech": "Gunpowder",
-		"quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed"
+		"quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed",
 	},
 	// Column 8
 	{
@@ -1111,6 +1111,7 @@
 		"replaces": "Harbor",
 		"uniqueTo": "Portugal",
 		"hurryCostModifier": 25,
+		"requiredBuilding": "Lighthouse",
 		"greatPersonPoints": {"Great Merchant": 2},
 		"uniques": ["[+1 Production] from [Fishing Boats] tiles [in this city]", "[+1 Production] from [Atoll] tiles [in this city]", "[+1 Science] from [Coast] tiles [in this city]",
 			"Must be next to [Water]", "Connects trade routes over water", "New [{Water} {Military}] units start with [15] Experience [in this city]"],

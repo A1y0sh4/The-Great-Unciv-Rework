@@ -91,8 +91,8 @@
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Julio Roca",
 
-		"startIntroPart1": " ",
-		"startIntroPart2": " ",
+		"startIntroPart1": "Welcome, President Julio Argentino Roca! You lead the Argentinian civilization, full of hopeful and dreamful people. Born from a prominent family, you joined the Argentine Confederation army while still an adolescent, and as a general you came to understand how the army was an agent of national unification. And that unification came with your rise to power, with your two terms as president: under them, your nation went through many changes, including a bloody war with the Mapuche, a treaty with Chile, increased immigration from Europe, expansion of the agriculture and pastures, and laicizing legislation strengthening state power. Thanks to your efforts, Argentina took the path to modernity, and in gratitude several cities, parks, monuments and schools were founded in your honour.",
+		"startIntroPart2": "Insightful and brave leader, your people welcome you with open arms once again, and claim that the sun must shine on your land and all the world. Can you modernise your nation once more and lead it into a new age of glory? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "I heard of a wise man that said: if you wish for peace, then prepare for war. I hope you were prepared for it...",
 		"attacked": "There were many ways you could take my land peacefully, but fine: if you wish for war I will resist you.",
@@ -1201,8 +1201,8 @@
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Vladimir I",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Our prayers go to you, Saint Vladimir I the Great, Prince of Novgorod and Grand Prince of Kiev. Youngest son of Sviatoslav I and his housekeeper Malusha, a legendary prophetess, you were forced to fight a war against your brother Yaropolk, before being crowned as knyaz, or ruler, of all Kievan Rus'. In war, you were known for defeating the Polish and the Volga Bulgars and conquering the Yatvingians and the Radimichs. In peace, despite being a pagan thoroughout in the first half of your life, your failed attempt to reform Slavic paganism finally brought to accept Christianity as your religion as well as your people's. You founded numerous churches, established schools, protected the poor and introduced ecclesiastical courts, and lived mostly at peace with your neighbors, a far cry from the warrior you once were.",
+		"startIntroPart2": "Blessed king of Kiev, times of hardship have swept through your beloved kingdom and forever split your people. It is time to return and reestablish the peace and piety that you once brought. Do you have the wisdom to lead your people into a new era of greatness? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "As a ruler, it is my duty to protect the weak and defend the realm from all threats. And I won't let you threat us!",
 		"attacked": "The strength of a nation lies not only in its armies but in the virtue of its people. I wonder how such illitterate barbarians dare attack us!",
@@ -1297,8 +1297,8 @@
 		"preferredVictoryType": "Cultural",
 		"personality": "Gitarja",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Hail Gitarja, Majapahit queen of ten thousand islands, the exalted goddess of three worlds which the glory of Vishnu radiates! You rule over the magnificent nation of Indonesia, a vast, sprawling archipelago rich in culture, wealth and wonders. Your rise to the throne had come after a power struggle that damaged the Rajasa house, but your reign more than made up for that, as you surrounded yourself with capable people, including your cousin Adityawarman, your son Hayam Wuruk and your Prime Minister Gajah Mada. You even marched into war leading the army yourself, conquering the Kingdoms of Pejeng, Dalem Bedahulu and the entire island of Bali, while your cousin conquered the Srivijaya and Melayu kingdoms. Your reign ended only with the life of your mother, but it marked the foundations to another prosperous kingdom, the one of your son, also held by Gajah Mada.",
+		"startIntroPart2": "O wise reincarnation of Parvati, your people yearn for your return. Will you set out to conquer the neighboring kingdoms, further expanding the glory of Majapahit? Will your governance once more bring prosperity to Indonesia? Can you build a civilization that will stand the test of time?",
 		"declaringWar": "Before this war ends, you will know the fury of a thousand ships.",
 		"attacked": "Are you serious? Didn't you know my vengeance puts monsoons to shame? Soon you will.",
 		"defeated": "The dream of Nusantara is lost to the turning tide.",
@@ -1426,8 +1426,8 @@
 		"preferredVictoryType": "Cultural",
 		"personality": "Amanitore",
 
-		"startIntroPart1": " ",
-		"startIntroPart2": " ",
+		"startIntroPart1": "Blessings of Amun be upon thee, o magnificent Amanitore, Kandake Queen of Nubia and Kush! Your ancestors include legendary Piye, he who conquered Egypt after centuries of subjugation, and yours is a land of wealth and plenty, located high up the Nile river, between Egypt and Ethiopia. While ruling alongside your son Natakamani, you were involved in restoring large temples at Meroe and Napata, demolished by the evil Romans, your contemporaries, and the building of over two hundred nubian pyramids, as if your people were the true heirs of the ancient Egyptian empire of about a millennia earlier. Your rule marked the prosperity peak of Nubia and Meroitic history, and your civilization would exist for more than two centuries after your were gone. The kingdom of Kush only ceased to exist when Christianity was changing the world forever.",
+		"startIntroPart2": "Watchful Queen of Nubia, the empire you command deserves to claim the horizon as its border, and your cities to know prosperity and piety, for the Land of the Bow honors its past as surely as it builts its own future. Will you once again replenish this parched land with the blessings of the gods and the wisdom of your divine rule? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "We have arrows, finely honed. We shall deliver them freely to your throat.",
 		"attacked": "As predicted, you know only how to take. Come, then—choose the manner of your defeat.",
@@ -1990,8 +1990,8 @@
 		"preferredVictoryType": "Cultural",
 		"personality": "Bà Triệu",
 
-		"startIntroPart1": " ",
-		"startIntroPart2": " ",
+		"startIntroPart1": "Hail Bà Triệu, brave female warrior of Vietnam! Yours is a peaceful nation, and your people live for prosperity. But you lived in a time where war was the only option, and were to lead a rebellion against Wu, one of the Three Kingdoms that were born from the fall of the Han dynasty; you rose with the rage of the dragon and your countrymen followed you. Alas, the revolt failed, and you were put to death, but your brave uprising would be depicted in modern Vietnam as one of the many chapters in its long struggle to end foreign domination: your people went though several masters, from China to Khmer to France, but in the end, even though it changed from monarchy to a socialist republic, Vietnam defeated the might of the United States and became free, perhaps due to the spirit of people such as you and the Trung Sisters.",
+		"startIntroPart2": "Undomitable Bà Triệu, your people still remember you as a goddess, but now the world has grown more threacherous, and you have more enemies than just China: you face a host of barbarians, eager to enslave the people of a proud nation. O brave she-warrior, will you stand against those who would try to rein in your storm and raise your sword in defiance? Will you rise once more and fight for a free Vietnam? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "Now you are at war with Vietnam. Do you hear our trumpets? The thunder of our elephants? They are coming for you!",
 		"attacked": "I have waited for this day for a long time. Today begins the war that will end in your destruction.",

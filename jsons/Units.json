@@ -798,7 +798,7 @@
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Founds a new city <on foreign continents> <once> <for [1] movement>", "[+1] Sight"],
-		"promotions": ["[Conquistador] ability"],
+		"promotions": ["[Conquistador] ability", "Mercenary"],
 		"attackSound": "horse"
 	},
 	{
@@ -1259,7 +1259,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Founds a new city <once> <for [1] movement>"],
-		"promotions": ["[Cossack] ability"],
+		"promotions": ["[Cossack] ability", "Mercenary"],
 		"attackSound": "horse"
 	},
 	{
@@ -1484,12 +1484,12 @@
 		"uniqueTo": "France",
 		"movement": 2,
 		"strength": 34,
-		"cost": 180,
+		"cost": 200,
 		"requiredTech": "Rifling",
 		"upgradesTo": "Great War Infantry",
 		"obsoleteTech": "Replaceable Parts",
 		"uniques": ["[+10]% Strength <when fighting in [Foreign Land] tiles>", "[+50]% XP gained from combat <in [Foreign Land] tiles>"],
-		"promotions": ["Pride"],
+		"promotions": ["Pride", "Mercenary"],
 		"attackSound": "shot"
 	},
 	{

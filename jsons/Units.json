@@ -1247,6 +1247,22 @@
 		"attackSound": "horse"
 	},
 	{
+		"name": "Cossack",
+		"unitType": "Mounted",
+		"replaces": "Lancer",
+		"uniqueTo": "Russia",
+		"movement": 4,
+		"strength": 24,
+		"cost": 150,
+		"requiredTech": "Metallurgy",
+		"obsoleteTech": "Military Science",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Founds a new city <once> <for [1] movement>"],
+		"promotions": ["[Cossack] ability"],
+		"attackSound": "horse"
+	},
+	{
 		"name": "Cannon",
 		"unitType": "Siege",
 		"movement": 2,
@@ -1313,22 +1329,6 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
-		"attackSound": "horse"
-	},
-	{
-		"name": "Cossack",
-		"unitType": "Mounted",
-		"replaces": "Cavalry",
-		"uniqueTo": "Russia",
-		"movement": 4,
-		"strength": 34,
-		"cost": 180,
-		"requiredTech": "Military Science",
-		"obsoleteTech": "Combustion",
-		"requiredResource": "Horses",
-		"upgradesTo": "Landship",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Founds a new city <once> <for [1] movement>"],
-		"promotions": ["[Cossack] ability"],
 		"attackSound": "horse"
 	},
 	{

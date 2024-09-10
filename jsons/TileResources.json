@@ -111,7 +111,7 @@
 		"terrainsCanBeFoundOn": ["Plains","Grassland","Hill"], // Hill only if plains or grassland
 		"production": 1,
 		"improvement": "Pasture",
-		"uniques": ["Resource", "Guaranteed with Strategic Balance resource option",
+		"uniques": ["Resource", 
 			                "Generated with weight [13] <in [Hill] tiles>",
 					"Generated with weight [55] <in [Plains] tiles>",
 			                "Generated with weight [34] <in [Plains] Regions>",

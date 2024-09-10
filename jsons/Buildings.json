@@ -377,7 +377,7 @@
 			"[+1 Production] from [Cattle] tiles [in this city]",
 			"[+1 Production] from [Horses] tiles [in this city]",
 			"[+1 Production] from [Sheep] tiles [in this city]",
-		        "Unsellable"],
+		        "Unsellable", "Provides [1] [Horses] <for [Mongolia]> <hidden from users>"],
 		"requiredTech": "Horseback Riding"
 	},
 	{
@@ -391,7 +391,7 @@
 			"[+1 Food, +1 Gold] from [Cattle] tiles [in this city]",
 			"[+1 Food, +1 Gold] from [Horses] tiles [in this city]",
 			"[+1 Food, +1 Gold] from [Sheep] tiles [in this city]",
-		        "Unsellable"],
+		        "Unsellable", "Provides [1] [Horses] <for [Mongolia]> <hidden from users>"],
 		"requiredTech": "Horseback Riding"
 	},
 	{

@@ -803,7 +803,7 @@
 	{
 		"name": "Lake Victoria",
 		"type": "NaturalWonder",
-		"food": 1,
+		"food": 2,
 		"science": 1,
 		"culture": 1,
 		"occursOn": ["Coast"],

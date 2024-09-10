@@ -673,7 +673,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"requiredBuilding": "Granary",
-		"uniques": ["[+2 Food] <in tiles without [Fresh Water]>"],
+		"uniques": ["[+2 Food] <in tiles without [River]>"],
 		"requiredTech": "Engineering"
 	},
 	{
@@ -685,7 +685,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"requiredBuilding": "Granary",
-		"uniques": ["[+10]% [Food] [in this city]", "[+2 Food] <in tiles without [Fresh Water]>"],
+		"uniques": ["[+10]% [Food] [in this city]", "[+2 Food] <in tiles without [River]>"],
 		"requiredTech": "Engineering"
 	},
         {

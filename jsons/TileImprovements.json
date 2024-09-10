@@ -406,7 +406,12 @@
 	{
 		"name": "City center",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Improvement", "Unpillagable", "Irremovable", "Unbuildable",],
+		"uniques": ["Improvement", "Unpillagable", "Irremovable", "Unbuildable",
+                            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>",
+		            "Provides [1] [Gems] <in [Gems] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Silver] <in [Silver] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Copper] <in [Copper] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Salt] <in [Salt] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
+		            "Provides [1] [Amber] <in [Amber] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Gold Ore] <in [Gold Ore] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Furs] <in [Furs] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Truffles] <in [Truffles] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
+		            "Provides [1] [Obsidian] <in [Obsidian] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Marble] <in [Marble] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>"],
         "civilopediaText": [
 			{"text":"Marks the center of a city"},
 			{"text":"Appearance changes with the technological era of the owning civilization"}

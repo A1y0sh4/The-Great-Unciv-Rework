@@ -828,7 +828,7 @@
 	},
 	{
 		"name": "[Cossack] ability",
-		"uniques": ["[+50]% Strength <vs [Wounded] units>"]
+		"uniques": ["[+1] Movement", "Ignores Zone of Control", "[This Unit] heals [10] HP <upon ending a turn in a [Friendly Land] tile>"]
 	},
 	{
 		"name": "[Hussar] ability",

@@ -505,7 +505,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"faith": 2,
-		"uniques": ["[+1 Faith] from every specialist [in this city]", "[+1 Science] <for every [100] [Faith]>", "Destroyed when the city is captured"]
+		"uniques": ["[+1 Science] <for every [100] [Faith]>", "Destroyed when the city is captured"]
 		"requiredTech": "Spirituality"
 	},
         {

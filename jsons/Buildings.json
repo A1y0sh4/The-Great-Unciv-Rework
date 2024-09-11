@@ -740,7 +740,7 @@
 		"faith": 3,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["Must be next to [Desert]", "Gain a free [Mosque] [in this city]", "[+1 Science] from all [Faith] buildings", "Hidden when religion is disabled"],
+		"uniques": ["Must be next to [Desert]", "Gain a free [Mosque] [in this city]", "[+1 Science] from every specialist [in this city]", "Hidden when religion is disabled"],
 		"requiredTech": "Theology",
 		"quote": "'With the magnificence of eternity before us, let time, with all its fluctuations, dwindle into its own littleness.' - Thomas Chalmers"
 	},

@@ -1705,8 +1705,8 @@
 		"innerColor": [90,0,10],
 		
 		"uniqueName": "Trans-Saharan Trade",
-		"uniqueText": "Gain +1 additional [Gold] from every Desert for each [Gold] building present in a city\nMay buy [Gold] buildings with [Faith]",
-		"uniques": ["[+1 Gold] from every [Desert] <in cities with a [Market]>", "[+1 Gold] from every [Desert] <in cities with a [Mint]>", "[+1 Gold] from every [Desert] <in cities with a [Bank]>", "[+1 Gold] from every [Desert] <in cities with a [Stock Exchange]>", "May buy [Gold] buildings with [Faith] for [2] times their normal Production cost"],
+		"uniqueText": "Gain +1 additional [Gold] from every Desert for each [Gold] building present in a city\nGain +1 Faith for every 50 [Gold] avaible in your coffers\nMay buy [Gold] buildings with [Faith]",
+		"uniques": ["[+1 Gold] from every [Desert] <in cities with a [Market]>", "[+1 Gold] from every [Desert] <in cities with a [Mint]>", "[+1 Gold] from every [Desert] <in cities with a [Bank]>", "[+1 Gold] from every [Desert] <in cities with a [Stock Exchange]>", "[+1 Faith] <for every [50] [Gold]>", "May buy [Gold] buildings with [Faith] for [2] times their normal Production cost"],
 		"cities": ["Gao","Timbuktu","Jenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
 			"Kebbi","Boussa","Motpi","Bamako","Wa","Kayes","Awdaghost","Ouadane","Dakar","Tadmekket","Tekedda","Kano",
 			"Agadez","Niamey","Torodi","Ouatagouna","Dori","Bamba","Segou"],

@@ -1226,7 +1226,7 @@
 		"cost": 165,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+50]% Strength <when attacking>"],
+		"uniques": ["No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+50]% Strength <when attacking>"],
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
 		"attackSound": "horse"
@@ -1259,7 +1259,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Founds a new city <once> <for [1] movement>"],
-		"promotions": ["[Cossack] ability", "Mercenary"],
+		"promotions": ["[Cossack] ability", "Mobility", "Mercenary"],
 		"attackSound": "horse"
 	},
 	{

@@ -502,6 +502,7 @@
 		"name": "Mud Pyramid Mosque",
 		"replaces": "Temple",
 		"uniqueTo": "Songhai",
+		"greatPersonPoints": {"Great Merchant": 1},
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Faith] from every specialist [in this city]", "Destroyed when the city is captured"]

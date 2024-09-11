@@ -1704,9 +1704,9 @@
 		"outerColor": [214,145,19],
 		"innerColor": [90,0,10],
 		
-		"uniqueName": "Songs of the Jeli",
-		"uniqueText": "Mines yield +2 [Gold] +1 [Faith] instead of the initial +1 [Production]\nMay buy [Gold] buildings with [Faith]",
-		"uniques": ["[-1 Production, +1 Faith, +2 Gold] from every [Mine]", "May buy [Gold] buildings with [Faith] for [2] times their normal Production cost"],
+		"uniqueName": "Trans-Saharan Trade",
+		"uniqueText": "Gain +1 additional [Gold] from every Luxury resource and from every Desert\nMay buy [Gold] buildings with [Faith]",
+		"uniques": ["[+1 Gold] from every [Luxury resource]", "[+1 Gold] from every [Desert]", "May buy [Gold] buildings with [Faith] for [2] times their normal Production cost"],
 		"cities": ["Gao","Timbuktu","Jenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
 			"Kebbi","Boussa","Motpi","Bamako","Wa","Kayes","Awdaghost","Ouadane","Dakar","Tadmekket","Tekedda","Kano",
 			"Agadez","Niamey","Torodi","Ouatagouna","Dori","Bamba","Segou"],

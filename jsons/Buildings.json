@@ -502,10 +502,10 @@
 		"name": "Mud Pyramid Mosque",
 		"replaces": "Temple",
 		"uniqueTo": "Songhai",
-		"maintenance": 2,
+		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"faith": 2,
-		"uniques": ["[+1 Science] <for every [100] [Faith]>", "Destroyed when the city is captured"]
+		"uniques": ["[+1 Science] <for every [200] [Faith]>", "Destroyed when the city is captured"]
 		"requiredTech": "Spirituality"
 	},
         {

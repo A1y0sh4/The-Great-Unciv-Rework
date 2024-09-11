@@ -504,7 +504,7 @@
 		"uniqueTo": "Songhai",
 		"maintenance": 1,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Faith, +1 Science] from every specialist [in this city]", "Destroyed when the city is captured"]
+		"uniques": ["[+1 Faith] from every specialist [in this city]", "Destroyed when the city is captured"]
 		"requiredTech": "Spirituality"
 	},
         {

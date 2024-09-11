@@ -502,10 +502,9 @@
 		"name": "Mud Pyramid Mosque",
 		"replaces": "Temple",
 		"uniqueTo": "Songhai",
-		"maintenance": 1,
+		"maintenance": 0,
 		"hurryCostModifier": 25,
-		"faith": 2,
-		"uniques": ["[Gold] cost of purchasing items in cities [-5]%", "Destroyed when the city is captured"]
+		"uniques": ["[+1 Science, +1 Faith] <for every [100] [Gold]>", "Destroyed when the city is captured"]
 		"requiredTech": "Spirituality"
 	},
         {

@@ -1707,7 +1707,7 @@
 		"uniqueName": "Trans-Saharan Trade",
 		"uniqueText": "Gain +1 [Faith] for every 25 [Gold] and +1 [Gold] for every 25 [Faith] avaible in your respective reserves\nMay buy [Gold] buildings with [Faith]",
 		"uniques": ["[+1 Faith] <for every [25] [Gold]>", "[+1 Gold] <for every [25] [Faith]>", "May buy [Gold] buildings with [Faith] for [2] times their normal Production cost"],
-		"cities": ["Gao","Timbuktu","Jenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
+		"cities": ["Gao","Timbuktu","Djenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
 			"Kebbi","Boussa","Motpi","Bamako","Wa","Kayes","Awdaghost","Ouadane","Dakar","Tadmekket","Tekedda","Kano",
 			"Agadez","Niamey","Torodi","Ouatagouna","Dori","Bamba","Segou"],
 		"spyNames": ["Ahmadou", "Ayub", "Badru", "Bokhari", "Guedado", "Adhiambo", "Chinaka", "Laila", "Mariama", "Oni"]

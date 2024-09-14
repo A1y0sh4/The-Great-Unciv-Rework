@@ -462,7 +462,7 @@
         "policies": [
             {
                 "name": "Constitution",
-                "uniques": ["[+1 Culture] per [1] social policies adopted"],
+                "uniques": ["[+2 Culture] per [1] social policies adopted"],
                 "row": 1,
                 "column": 2
             },
@@ -476,7 +476,7 @@
             {
                 "name": "Civil Society",
                 "uniques": [
-                    "[+1 Happiness] per [2] social policies adopted"
+                    "[+1 Happiness] per [1] social policies adopted"
                 ],
                 "row": 1,
                 "column": 4
@@ -552,7 +552,7 @@
             {
                 "name": "Police State",
                 "uniques": [
-		    "[+1 Happiness, +1 Production] from every [Arsenal]", "[+1 Happiness, +1 Production] from every [Military Base]", "[+1 Happiness, +1 Production] from every [Courthouse]"
+		    "[+2 Happiness, +2 Production] from every [Arsenal]", "[+2 Happiness, +2 Production] from every [Military Base]", "[+2 Happiness, +2 Production] from every [Courthouse]"
                 ],
                 "requires": ["Militarism"],
                 "row": 2,

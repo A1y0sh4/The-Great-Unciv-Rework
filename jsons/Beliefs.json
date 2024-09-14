@@ -142,6 +142,94 @@
         "type": "Pantheon",
         "uniques": ["[+2 Faith] from every [Stone]"]
     },
+
+    ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
+
+    {
+        "name": "Ceremonial Burial",
+        "type": "Founder",
+        "uniques": ["[+1 Happiness] for each global city following this religion", 
+                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
+    },
+    {
+        "name": "Church Property",
+        "type": "Founder",
+        "uniques": ["[+2 Gold] for each global city following this religion", 
+                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
+    },
+    {
+        "name": "Divine Leadership",
+        "type": "Founder",
+        "uniques": ["[+1 Happiness, +1 Gold] from every [2] global followers [in capital]", 
+                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
+    },
+    {
+        "name": "Holy Patronage",
+        "type": "Founder",
+        "uniques": ["Gifts of Gold to City-States generate [25]% more Influence", 
+                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
+    },
+    {
+        "name": "Initiation Rites",
+        "type": "Founder",
+        "uniques": ["[+100 Faith] when a city adopts this religion for the first time <(modified by game speed)>", 
+                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
+    },
+    {
+        "name": "Interfaith Dialogue",
+        "type": "Founder",
+        "uniques": ["When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science]", 
+                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
+    },
+    {
+        "name": "Lay Ministry",
+        "type": "Founder",
+        "uniques": ["[+1 Culture, +1 Science, +1 Faith] for each global city following this religion", 
+                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
+    },
+    {
+        "name": "Papal Primacy",
+        "type": "Founder",
+        "uniques": ["Resting point for Influence with City-States following this religion [+20]", 
+                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
+    },
+    {
+        "name": "Peace Loving",
+        "type": "Founder",
+        "uniques": ["[+1 Happiness] from every [4] global followers [in this city] <when not at war>", 
+                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
+    },
+    {
+        "name": "Pilgrimage",
+        "type": "Founder",
+        "uniques": ["[+2 Faith] for each global city following this religion", 
+                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
+    },
+    {
+        "name": "Prophetic Blessing",
+        "type": "Founder",
+        "uniques": ["Empire enters golden age <upon gaining a [Great Prophet] unit>",
+                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
+    },
+    {
+        "name": "Religious Expeditions",
+        "type": "Founder",
+        "uniques": ["[+1] Movement <for [Religious Unit] units>", "[+1] Sight <for [Religious Unit] units>", 
+                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
+    },
+    {
+        "name": "Tithe",
+        "type": "Founder",
+        "uniques": ["[+1 Gold] from every [4] global followers [in cities following this religion]", 
+                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
+    },
+    {
+        "name": "World Church",
+        "type": "Founder",
+        "uniques": ["[+1 Culture] from every [4] global followers [in this city]", 
+                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
+    },
+    
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
      {
         "name": "Choral Music",
@@ -248,92 +336,7 @@
         "type": "Follower",
         "uniques": ["May buy [Wat] buildings with [Faith] [in cities following this religion]"]
     },
-///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
-
-    {
-        "name": "Ceremonial Burial",
-        "type": "Founder",
-        "uniques": ["[+1 Happiness] for each global city following this religion", 
-                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
-    },
-    {
-        "name": "Church Property",
-        "type": "Founder",
-        "uniques": ["[+2 Gold] for each global city following this religion", 
-                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
-    },
-    {
-        "name": "Divine Leadership",
-        "type": "Founder",
-        "uniques": ["[+1 Happiness, +1 Gold] from every [2] global followers [in capital]", 
-                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
-    },
-    {
-        "name": "Holy Patronage",
-        "type": "Founder",
-        "uniques": ["Gifts of Gold to City-States generate [25]% more Influence", 
-                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
-    },
-    {
-        "name": "Initiation Rites",
-        "type": "Founder",
-        "uniques": ["[+100 Faith] when a city adopts this religion for the first time <(modified by game speed)>", 
-                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
-    },
-    {
-        "name": "Interfaith Dialogue",
-        "type": "Founder",
-        "uniques": ["When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science]", 
-                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
-    },
-    {
-        "name": "Lay Ministry",
-        "type": "Founder",
-        "uniques": ["[+1 Culture, +1 Science, +1 Faith] for each global city following this religion", 
-                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
-    },
-    {
-        "name": "Papal Primacy",
-        "type": "Founder",
-        "uniques": ["Resting point for Influence with City-States following this religion [+20]", 
-                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
-    },
-    {
-        "name": "Peace Loving",
-        "type": "Founder",
-        "uniques": ["[+1 Happiness] from every [4] global followers [in this city] <when not at war>", 
-                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
-    },
-    {
-        "name": "Pilgrimage",
-        "type": "Founder",
-        "uniques": ["[+2 Faith] for each global city following this religion", 
-                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
-    },
-    {
-        "name": "Prophetic Blessing",
-        "type": "Founder",
-        "uniques": ["Empire enters golden age <upon expending a [Great Prophet] unit>",
-                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
-    },
-    {
-        "name": "Religious Expeditions",
-        "type": "Founder",
-        "uniques": ["[+1] Movement <for [Religious Unit] units>", "[+1] Sight <for [Religious Unit] units>", 
-                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
-    },
-    {
-        "name": "Tithe",
-        "type": "Founder",
-        "uniques": ["[+1 Gold] from every [4] global followers [in cities following this religion]", 
-                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
-    },
-    {
-        "name": "World Church",
-        "type": "Founder",
-        "uniques": ["[+1 Culture] from every [4] global followers [in this city]", 
-                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
-    },
+    
 ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
 
     {

@@ -312,7 +312,7 @@
     },
     {
         "name": "Prophetic Blessing",
-        "type": "Enhancer",
+        "type": "Founder",
         "uniques": ["Empire enters golden age <upon expending a [Great Prophet] unit>",
                     "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
     },

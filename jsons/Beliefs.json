@@ -148,7 +148,8 @@
     {
         "name": "Asceticism",
         "type": "Founder",
-        "uniques": ["[+1 Happiness] from every [Shrine] <in cities with at least [3] [Followers of this Religion]>"]
+        "uniques": ["[-1] Happiness from each type of luxury resource",
+                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
     },
     {
         "name": "Ceremonial Burial",

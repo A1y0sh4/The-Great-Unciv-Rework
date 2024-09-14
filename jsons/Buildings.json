@@ -719,7 +719,7 @@
 		"isWonder": true,
 		"uniques": ["Must be next to [Water]", "[+1 Gold] from [Water] tiles [in this city]", "Gain a free [Harbor] [in this city]"],
 		"requiredTech": "Shipbuilding",
-		"quote": "'Why man, he doth bestride the narrow world like a colossus, and we petty men walk under his huge legs, and peep about to find ourselves dishonorable graves.' - William Shakespeare, Julius Caesar"
+		"quote": "'Why man, he doth bestride the narrow world like a colossus, and we petty men walk under his huge legs, and peep about to find ourselves dishonorable graves.' - William Shakespeare, Julius Caesar",
 	},
 
 	// Medieval Era
@@ -1171,7 +1171,7 @@
 	{
 		"name": "Arsenal",
 		"cost": 172,
-		"cityStrength": 12,
+		"cityStrength": 13,
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredTech": "Metallurgy",
@@ -1365,7 +1365,7 @@
 	},
 	{
 		"name": "Military Base",
-		"cityStrength": 15,
+		"cityStrength": 16,
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Arsenal",

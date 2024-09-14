@@ -573,15 +573,13 @@
 		"name": "Acropolis",
 		"replaces": "Amphitheater",
 		"uniqueTo": "Greece",
-		"cost": 69,
 		"culture": 2,
-		"cityStrength": 2,
-		"cityHealth": 10,
 		"specialistSlots": {"Artist": 1},
+		"greatPersonPoints": {"Great Scientist": 1},
 		"requiredBuilding": "Monument",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["Resting point for Influence with City-States is increased by [5] <when not at war>", "Destroyed when the city is captured"],
+		"uniques": ["Resting point for Influence with City-States is increased by [5] <when not at war>", "[+2 Science] <in [Hill] tiles>", "[+1 Science] from every specialist [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{

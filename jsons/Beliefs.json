@@ -277,7 +277,7 @@
     {
         "name": "Initiation Rites",
         "type": "Founder",
-        "uniques": ["[+75 Faith] when a city adopts this religion for the first time <(modified by game speed)>", 
+        "uniques": ["[+100 Faith] when a city adopts this religion for the first time <(modified by game speed)>", 
                     "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
     },
     {
@@ -308,6 +308,12 @@
         "name": "Pilgrimage",
         "type": "Founder",
         "uniques": ["[+2 Faith] for each global city following this religion", 
+                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
+    },
+    {
+        "name": "Prophetic Blessing",
+        "type": "Enhancer",
+        "uniques": ["Empire enters golden age <upon expending a [Great Prophet] unit>",
                     "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
     },
     {
@@ -376,11 +382,6 @@
         "name": "Missionary Zeal",
         "type": "Enhancer",
         "uniques": ["[+25]% Spread Religion Strength <for [Missionary] units>"]
-    },
-    {
-        "name": "Prophetic Blessing",
-        "type": "Enhancer",
-        "uniques": ["Empire enters golden age <upon expending a [Great Prophet] unit>"]
     },
     {
         "name": "Religious Settlements",

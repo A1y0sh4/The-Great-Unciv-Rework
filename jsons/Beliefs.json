@@ -10,17 +10,17 @@
     {
         "name": "Cult of Mithras",
         "type": "Pantheon",
-        "uniques": ["[+1 Happiness, +1 Faith] from every [Cattle]"]
+        "uniques": ["[+2 Gold, +1 Faith] from every [Cattle]"]
     },
     {
         "name": "Dance of the Aurora",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from [Tundra] tiles without [Forest] [in this city]"]
+        "uniques": ["[+1 Food, +1 Culture, +1 Faith] in cities on [Tundra] tiles"]
     },
     {
         "name": "Desert Folklore",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from [Desert] tiles without [Flood plains] [in this city]"]
+        "uniques": ["[+1 Food, +1 Culture, +1 Faith] in cities on [Desert] tiles"]
     },
     {
         "name": "Earth Mother",

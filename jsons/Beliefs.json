@@ -146,6 +146,11 @@
     ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
 
     {
+        "name": "Asceticism",
+        "type": "Founder",
+        "uniques": ["[+1 Happiness] from every [Shrine] <in cities with at least [3] [Followers of this Religion]>"]
+    },
+    {
         "name": "Ceremonial Burial",
         "type": "Founder",
         "uniques": ["[+1 Happiness] for each global city following this religion", 
@@ -206,12 +211,6 @@
                     "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
     },
     {
-        "name": "Prophetic Blessing",
-        "type": "Founder",
-        "uniques": ["Empire enters golden age <upon gaining a [Great Prophet] unit>",
-                    "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
-    },
-    {
         "name": "Religious Expeditions",
         "type": "Founder",
         "uniques": ["[+1] Movement <for [Religious Unit] units>", "[+1] Sight <for [Religious Unit] units>", 
@@ -231,6 +230,7 @@
     },
     
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
+
      {
         "name": "Choral Music",
         "type": "Follower",

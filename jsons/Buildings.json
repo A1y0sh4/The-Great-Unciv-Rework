@@ -674,8 +674,8 @@
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"requiredBuilding": "Granary",
-		"uniques": ["[+2 Food] <in tiles without [River]>"],
-		"requiredTech": "Engineering"
+		"uniques": ["[+2 Food] <in tiles without [River]> <hidden from users>", "Comment [Gives addition [Food] to cities without Rivers]"],
+		"requiredTech": "Engineering",
 	},
 	{
 		"name": "Baray",
@@ -686,7 +686,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"requiredBuilding": "Granary",
-		"uniques": ["[+10]% [Food] [in this city]", "[+2 Food] <in tiles without [River]>"],
+		"uniques": ["[+10]% [Food] [in this city]", "[+2 Food] <in tiles without [River]> <hidden from users>", "Comment [Gives addition [Food] to cities without Rivers]"],
 		"requiredTech": "Engineering"
 	},
         {

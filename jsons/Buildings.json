@@ -579,7 +579,7 @@
 		"requiredBuilding": "Monument",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["[+2 Science, +1 Culture] from every [Artist] [in this city]", "[+1 Science, +2 Culture] from every [Scientist] [in this city]", "Resting point for Influence with City-States is increased by [5] <when not at war>", "Destroyed when the city is captured"],
+		"uniques": ["[+1 Science, +1 Culture] from every specialist [in this city]", "Resting point for Influence with City-States is increased by [5] <when not at war>", "Destroyed when the city is captured"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{

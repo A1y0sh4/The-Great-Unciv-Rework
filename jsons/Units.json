@@ -409,7 +409,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% to Flank Attack bonuses", "Ignores Zone of Control"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+50]% to Flank Attack bonuses", "Ignores Zone of Control"],
 		"attackSound": "metalhit"
 	},
 	{

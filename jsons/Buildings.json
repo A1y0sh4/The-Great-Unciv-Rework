@@ -579,7 +579,7 @@
 		"requiredBuilding": "Monument",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["[+3 Science, +1 Culture] <in cities with at least [1] [Specialists]>", "Resting point for Influence with City-States is increased by [5] <when not at war>", "Destroyed when the city is captured"],
+		"uniques": ["[+1 Science, +1 Culture] from every specialist [in this city]", "Resting point for Influence with City-States is increased by [5] <when not at war>", "Destroyed when the city is captured"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{
@@ -731,7 +731,7 @@
 		"greatPersonPoints": {"Great Artist": 3},
 		"uniques": ["When spreading religion to a city, gain [5] times the amount of followers of other religions as [Culture]", "Gain a free [Temple] [in this city]", "Hidden when religion is disabled"],
 		"requiredTech": "Theology",
-		"quote": "'For it soars to a height to match the sky, and as if surging up from among the other buildings it stands on high and looks down upon the remainder of the city, adorning it, because it is a part of it, but glorying in its own beauty' - Procopius, De Aedificis"
+		"quote": "'For it soars to a height to match the sky, and as if surging up from among the other buildings it stands on high and looks down upon the remainder of the city, adorning it, because it is a part of it, but glorying in its own beauty' - Procopius, De Aedificis",
 	},
 	{
 		"name": "Great Mosque of Djenne",
@@ -1392,7 +1392,7 @@
 		"greatPersonPoints": {"Great Engineer": 6},
 		"uniques": ["Must be next to [Water]", "[+1 Production] from every specialist [in all cities]"],
 		"requiredTech": "Scientific Theory",
-		"quote": "'Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore. Send these, the homeless, tempest-tossed to me, I lift my lamp beside the golden door!' - Emma Lazarus"
+		"quote": "'Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore. Send these, the homeless, tempest-tossed to me, I lift my lamp beside the golden door!' - Emma Lazarus",
 	},
 	// Column 12
 	{
@@ -1450,7 +1450,7 @@
 		"percentStatBonus": {"science": 50},
 		"uniques": ["Free Technology"],
 		"requiredTech": "Computers",
-		"quote": "'The good thing about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.' – Ted Nelson"
+		"quote": "'The good thing about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.' – Ted Nelson",
 	},
 	// Column 14
 	{

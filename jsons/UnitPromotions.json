@@ -918,4 +918,8 @@
 		"name": "[Carolean] ability",
 		"uniques": ["[+33]% Strength <when attacking>"] 
 	},
+	{
+		"name": "To the World's End",
+		"uniques": ["[This Unit] heals [33] HP", "Doing so will consume this opportunity to choose a Promotion"],
+    },
 ]

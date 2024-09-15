@@ -395,8 +395,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+50]% to Flank Attack bonuses"],
-		"promotions": ["Shock I"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+100]% to Flank Attack bonuses <when fighting in [Open terrain] tiles>"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -410,7 +409,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+33]% to Flank Attack bonuses", "Ignores Zone of Control", "No defensive terrain bonus", "Heals [10] damage if it kills a unit"],
+		"uniques": ["[+50]% to Flank Attack bonuses", "Ignores Zone of Control", "Heals [10] damage if it kills a unit"],
 		"attackSound": "metalhit"
 	},
 	{

@@ -575,7 +575,7 @@
 		"uniqueTo": "Greece",
 		"culture": 2,
 		"specialistSlots": {"Artist": 1},
-		"greatPersonPoints": {"Great Scientist": 2},
+		"greatPersonPoints": {"Great Scientist": 1},
 		"requiredBuilding": "Monument",
 		"maintenance": 2,
 		"hurryCostModifier": 25,

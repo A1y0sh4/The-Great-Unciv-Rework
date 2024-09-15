@@ -148,7 +148,7 @@
     {
         "name": "Asceticism",
         "type": "Founder",
-        "uniques": ["[-1] Happiness from each type of luxury resource", "[+1 Happiness] from every specialist [in all cities]",
+        "uniques": ["[-1] Happiness from each type of luxury resource", "[+1 Happiness, +1 Faith] from every specialist [in all cities]",
                     "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
     },
     {

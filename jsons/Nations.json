@@ -430,7 +430,7 @@
 		"innerColor": [88,0,154],
 		
 		"uniqueName": "Phoenician Heritage",
-		"uniqueText": "Maritime buildings are built 3 times faster\nMilitary units can embark after discovering Sailing\nCivilian units only pay 1 Movement point when embarking or disembarking",
+		"uniqueText": "Gain for free the maritime buildings you have avaible in your cities\nMilitary units can embark after discovering Sailing\nCivilian units only pay 1 Movement point when embarking or disembarking",
 		"uniques": ["[1] Movement point cost to embark <for [Civilian] units>", "[1] Movement point cost to disembark <for [Civilian] units>", "[+200]% Production when constructing [Lighthouse] buildings [in all cities]", "[+200]% Production when constructing [Harbor] buildings [in all cities]", "[+200]% Production when constructing [Seaport] buildings [in all cities]", "Enables embarkation for land units <after discovering [Sailing]>"],
 		"cities": ["Carthage","Utique","Hippo Regius","Gades","Saguntum","Carthago Nova","Panormus","Lilybaeum","Hadrumetum","Zama Regia",
 			"Karalis","Malaca","Leptis Magna","Hippo Diarrhytus","Motya","Sulci","Leptis Parva","Tharros","Soluntum","Lixus",

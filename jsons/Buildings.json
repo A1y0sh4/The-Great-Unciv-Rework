@@ -364,7 +364,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Lighthouse",
 		"greatPersonPoints": {"Great Merchant": 1},
-		"uniques": ["[+1 Production] from [Fishing Boats] tiles [in this city]", "[+1 Production] from [Atoll] tiles [in this city]",, "Automatically built in all cities where it is buildable <for [Carthage]> <hidden from users>",
+		"uniques": ["[+1 Production] from [Fishing Boats] tiles [in this city]", "[+1 Production] from [Atoll] tiles [in this city]", "Automatically built in all cities where it is buildable <for [Carthage]> <hidden from users>",
 			"Connects trade routes over water", "Must be next to [Water]", "New [{Water} {Military}] units start with [15] Experience [in this city]"],
 		"requiredTech": "Shipbuilding"
 	},

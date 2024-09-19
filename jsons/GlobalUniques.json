@@ -10,11 +10,10 @@
         "[-33]% Strength <for [All] units> <when below [-10] Happiness>",
         "Cannot build [Settler] units <when below [-10] Happiness>",
         "Rebel units may spawn <when below [-10] Happiness>",
-        "[+100]% Production when constructing [Palace] buildings [in all cities] <when below [-10] Happiness>",
         "[+25]% growth [in all cities] <during We Love The King Day>",
 	"[-1] Happiness from each type of luxury resource",
 	"[-1 Gold] from every [River]",
-	"[-50]% Faith cost of generating Great Prophet equivalents",
+	"[-25]% Faith cost of generating Great Prophet equivalents",
         "[+20]% maintenance on road & railroads",
         "[+5]% maintenance on road & railroads <starting from the [Classical era]>",
         "[+5]% maintenance on road & railroads <starting from the [Medieval era]>",
@@ -135,7 +134,6 @@
         "Resting point for Influence with City-States is increased by [3] <when number of [Atomic Bomb] is equal to [1]>", "Resting point for Influence with City-States is increased by [6] <when number of [Atomic Bomb] is equal to [2]>","Resting point for Influence with City-States is increased by [9] <when number of [Atomic Bomb] is equal to [3]>","Resting point for Influence with City-States is increased by [12] <when number of [Atomic Bomb] is equal to [4]>","Resting point for Influence with City-States is increased by [15] <when number of [Atomic Bomb] is equal to [5]>",
 	"Resting point for Influence with City-States is increased by [6] <when number of [Nuclear Missile] is equal to [1]>", "Resting point for Influence with City-States is increased by [12] <when number of [Nuclear Missile] is equal to [2]>","Resting point for Influence with City-States is increased by [18] <when number of [Nuclear Missile] is equal to [3]>","Resting point for Influence with City-States is increased by [24] <when number of [Nuclear Missile] is equal to [4]>","Resting point for Influence with City-States is increased by [30] <when number of [Nuclear Missile] is equal to [5]>",
 	"Resting point for Influence with City-States is increased by [9] <when number of [Thermonuclear Missile] is equal to [1]>", "Resting point for Influence with City-States is increased by [18] <when number of [Thermonuclear Missile] is equal to [2]>","Resting point for Influence with City-States is increased by [21] <when number of [Thermonuclear Missile] is equal to [3]>","Resting point for Influence with City-States is increased by [36] <when number of [Thermonuclear Missile] is equal to [4]>","Resting point for Influence with City-States is increased by [45] <when number of [Thermonuclear Missile] is equal to [5]>",
-    
     ]
     
         // TODO: Implement the uniques below

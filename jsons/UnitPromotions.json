@@ -804,7 +804,11 @@
 	},
 	{
 		"name": "[Jaguar] ability",
-		"uniques": ["No damage penalty for wounded units", "Heals [33] damage if it kills a unit"]
+		"uniques": ["No damage penalty for wounded units"]
+	},
+	{
+		"name": "[Jaguar] ability",
+		"uniques": ["Heals [25] damage if it kills a unit"]
 	},
 	{
 		"name": "[Persian Immortal] ability",

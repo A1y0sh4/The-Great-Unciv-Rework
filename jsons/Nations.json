@@ -1949,7 +1949,7 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Dutch East India Company",
-		"uniqueText": "Gain 50% of your [Happiness] value as [Gold]\nGain +1 [Happiness] from every Lighthouse, Harbor and Seaport",
+		"uniqueText": "Gain +1 [Happiness] from every Lighthouse, Harbor and Seaport\nGain 50% of your [Happiness] value as [Gold]",
 		"uniques": ["[50]% of excess happiness converted to [Gold]", "[+1 Happiness] from every [Lighthouse]", "[+1 Happiness] from every [Harbor]", "[+1 Happiness] from every [Seaport]"],
 		"cities": ["Amsterdam","Rotterdam","Utrecht","Groningen","Breda","Nijimegen","Den Haag","Haarlem","Arnhem","Zutphen",
 			"Maastricht","Tilburg","Eindhoven","Dordrecht","Leiden","Hertogenbosch","Almere","Alkmaar","Brielle","Vlissingen",
@@ -1981,7 +1981,7 @@
 		"innerColor": [18,84,30],
 		
 		"uniqueName": "The Great Turkish Bombard",
-		"uniqueText": "Siege units are built in half the time, they are 50% stronger against Cities and they gain XP 50% faster",
+		"uniqueText": "Siege units are built 50% faster, they are 50% stronger against Cities and they gain XP 50% faster",
 		"uniques": ["[+50]% Production when constructing [Siege] units [in all cities]", "[+50]% Strength <for [Siege] units> <vs cities>", "[+50]% XP gained from combat <for [Siege] units>"],
 		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyabakir","Izmir","Kayseri","Malatya",
 			"Marsin","Antalya","Zonguldak","Denizli","Ordu","Mugia","Eskishehir","Inebolu","Sinop","Adana","Artuin",

@@ -60,13 +60,20 @@
 		"name": "Pyramid",
 		"replaces": "Temple",
 		"uniqueTo": "The Maya",
-		"requiredTech": "Calendar"
-		"science": 2,
+		"requiredTech": "Spirituality"
 		"faith": 2,
-		"cost": 58,
 		"hurryCostModifier": 25,
 		"maintenance": 2,
-		"uniques": ["Destroyed when the city is captured",]
+		"uniques": ["Destroyed when the city is captured",
+			    "Comment [+1 [Science] per past era]",
+			    "[+1 Science] <during the [Classical era]> <hidden from users>",
+			    "[+2 Science] <during the [Medieval era]> <hidden from users>",
+                            "[+3 Science] <during the [Renaissance era]> <hidden from users>",
+                            "[+4 Science] <during the [Industrial era]> <hidden from users>",
+                            "[+5 Science] <during the [Modern era]> <hidden from users>",
+			    "[+6 Science] <during the [Atomic era]> <hidden from users>",
+			    "[+7 Science] <during the [Information era]> <hidden from users>",
+			    "[+8 Science] <during the [Future era]> <hidden from users>",]
 	},
 	// Column 1
 	{

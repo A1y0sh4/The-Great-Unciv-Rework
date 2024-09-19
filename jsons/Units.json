@@ -99,20 +99,6 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Jaguar",
-		"unitType": "Sword",
-		"uniqueTo": "Aztecs",
-		"replaces": "Warrior",
-		"movement": 2,
-		"strength": 11, 
-		"cost": 45,
-		"obsoleteTech": "Iron Working",
-		"uniques" : ["Comment [Can be purchased with [Faith]]"],
-		"promotions": ["[Jaguar] ability"],
-		"upgradesTo": "Swordsman",
-		"attackSound": "metalhit"
-	},
-	{
 		"name": "Brute",
 		"unitType": "Sword",
 		"uniqueTo": "Barbarians",
@@ -723,6 +709,21 @@
 		"uniques": ["[+10]% Strength bonus for [Military] units within [1] tiles"],
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Jaguar",
+		"unitType": "Sword",
+		"uniqueTo": "Aztecs",
+		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 18, 
+		"cost": 96,
+		"requiredTech": "Civil Service",
+		"obsoleteTech": "Gunpowder",
+		"uniques" : ["Comment [Can be purchased with [Faith]]"],
+		"promotions": ["[Jaguar] ability"],
+		"upgradesTo": "Musketman",
 		"attackSound": "metalhit"
 	},
 	{

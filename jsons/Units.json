@@ -337,7 +337,7 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Free [Horse Archer] appears <upon defeating a [Barbarian] unit> <with [50]% chance> <hidden from users>"],
 		"attackSound": "arrow"
 	},
 	{

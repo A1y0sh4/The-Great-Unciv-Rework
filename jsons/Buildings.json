@@ -846,7 +846,7 @@
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
-		"uniques": ["Gain control over [Forest] tiles in a [2]-tile radius", "[+1 Culture] from [Forest] tiles [in this city]"],
+		"uniques": ["Gain control over [Forest] tiles in a [2]-tile radius", "Gain control over [Jungle] tiles in a [2]-tile radius", "[+1 Culture] from [Forest] tiles [in this city]"],
 		"requiredTech": "Metal Casting"
 	},
 	{

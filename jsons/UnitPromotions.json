@@ -807,7 +807,7 @@
 		"uniques": ["No damage penalty for wounded units"]
 	},
 	{
-		"name": "[Jaguar] ability",
+		"name": "Sacrificial Captives",
 		"uniques": ["Heals [25] damage if it kills a unit"]
 	},
 	{

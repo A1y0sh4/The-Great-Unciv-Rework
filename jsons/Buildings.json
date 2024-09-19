@@ -446,7 +446,7 @@
 		"replaces": "Colosseum",
 		"uniqueTo": "Aztecs",
 		"happiness": 2,
-		"uniques": ["[+1 Food] from [Fresh Water] tiles [in this city]"],
+		"uniques": ["[+1 Happiness, +1 Culture, +1 Faith] [in this city] <when at war>", "New [{Land} {Military}] units start with [10] Experience [in this city]"],
 		"hurryCostModifier": 25,
 		"maintenance": 2,
 		"requiredTech": "Imperial Games"

@@ -1878,7 +1878,7 @@
 		
 		"uniqueName": "Scourge of God",
 		"uniqueText": "Military units heal 33 HP upon killing units but can only heal pillaging (before discovering Civil Service)\nUpon killing a Barbarian you may recruit it (with 75% chance) and earn 10 additional [Gold]",
-		"uniques": ["[Military] units gain the [Barbarian] promotion <before discovering [Civil Service]>", "When defeating a [Barbarian] unit, earn [10] Gold and recruit it <with [75]% chance>"],
+		"uniques": ["[Military] units gain the [Scourge of God] promotion <before discovering [Civil Service]>", "When defeating a [Barbarian] unit, earn [10] Gold and recruit it <with [75]% chance>"],
 		"cities": ["Etzelburg", "Szeged", "Esztergom", "Buda", "Pécs", "Eger", "Székesfehérvár", "Győr", "Kőszeg", "Diósgyőr", "Mohács", "Tata", "Kecskemét", "Szombathely", "Sárvár", "Sopron", "Hódmezővásárhely", "Sümeg"],
 		"spyNames": ["Balamber", "Uldin", "Donatus", "Charato", "Octar", "Bleda", "Ellac", "Dengizik", "Hildico", "Gudrun"]
 	},

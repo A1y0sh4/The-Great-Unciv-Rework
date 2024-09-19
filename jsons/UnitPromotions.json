@@ -851,6 +851,10 @@
 		"uniques": ["No movement cost to pillage", "Can only heal by pillaging", "Heals [33] damage if it kills a unit"]
 	},
         {
+		"name": "Scourge of God",
+		"uniques": ["No movement cost to pillage <before discovering [Civil Service]>", "Can only heal by pillaging <before discovering [Civil Service]>", "Heals [33] damage if it kills a unit <before discovering [Civil Service]>"]
+	},
+        {
 		"name": "Climber",
 		"uniques": ["Can pass through impassable tiles", "Double movement in [Hill]"]
 	},

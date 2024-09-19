@@ -245,15 +245,6 @@
 		"requiredTech": "The Wheel"
 	},
 	{
-		"name": "Floating Gardens",
-		"replaces": "Water Mill",
-		"uniqueTo": "Aztecs",
-		"uniques": ["Must be next to [Fresh water]", "[+1 Food] from [Fresh Water] tiles [in this city]"],
-		"hurryCostModifier": 25,
-		"maintenance": 2,
-		"requiredTech": "The Wheel"
-	},
-	{
 		"name": "Walls",
 		"cityStrength": 5,
 		"cityHealth": 25,
@@ -448,6 +439,16 @@
 		"uniques": ["[+10]% [Production] [in this city] <during We Love The King Day>", "[+10]% [Gold] [in this city] <during We Love The King Day>"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
+		"requiredTech": "Imperial Games"
+	},
+	{
+		"name": "Tlachtli",
+		"replaces": "Colosseum",
+		"uniqueTo": "Aztecs",
+		"happiness": 2,
+		"uniques": ["[+1 Food] from [Fresh Water] tiles [in this city]"],
+		"hurryCostModifier": 25,
+		"maintenance": 2,
 		"requiredTech": "Imperial Games"
 	},
         {

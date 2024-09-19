@@ -640,21 +640,6 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Mohawk Warrior",
-		"unitType": "Sword",
-		"uniqueTo": "Iroquois",
-		"replaces": "Swordsman",
-		"cost": 73,
-		"movement": 2,
-		"strength": 14,
-		"requiredTech": "Iron Working",
-		"upgradesTo": "Longswordsman",
-		"obsoleteTech": "Steel",
-		"hurryCostModifier": 20,
-		"promotions": ["[Mohawk Warrior] ability"],
-		"attackSound": "metalhit"
-	},
-	{
 		"name": "Asafo",
 		"unitType": "Sword",
 		"uniqueTo": "Ashanti",
@@ -1033,6 +1018,22 @@
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Mohawk Warrior",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Iroquois",
+		"replaces": "Musketman",
+		"cost": 125,
+		"movement": 3,
+		"strength": 22,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"hurryCostModifier": 20,
+		"uniques": ["Can move after attacking"],
+		"promotions": ["[Mohawk Warrior] ability", "Ambush I"],
 		"attackSound": "shot"
 	},
 	{

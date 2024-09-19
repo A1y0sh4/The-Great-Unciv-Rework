@@ -1916,8 +1916,8 @@
 		"innerColor": [24,63,66],
 
 		"uniqueName": "The Long Count",
-		"uniqueText": "Receive a free Great Person at the end of every Maya Long Count calendar cycle (every 394 years), after researching [Theology] (each bonus person can only be chosen once).\nOnce The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
-		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+		"uniqueText": "Receive a free Great Person at the end of every Maya Long Count calendar cycle (every 394 years), after researching [Spirituality] (each bonus person can only be chosen once).\nOnce The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
+		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Spirituality]. Each bonus person can only be chosen once.",
 			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count."],
 		"cities": ["Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul",
 			"Edzna","Lamanai","Izapa","Uaxactun","Comalcalco","Piedras Negras","Cancuen","Yaxha","Quirigua",

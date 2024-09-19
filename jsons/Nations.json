@@ -261,8 +261,8 @@
 		"innerColor": [134,238,214],
 
 		"uniqueName": "Sacrificial Captives",
-		"uniqueText": "Gain +1 [Happiness] from each type of luxury you own when you are at war\nUpon killing a unit gain 50% of its Strength as [Faith]",
-		"uniques": ["[+1] Happiness from each type of luxury resource <when at war>", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
+		"uniqueText": "Units heal 25 HP if they kill a unit\nUpon killing a unit gain 50% of its Strength as [Faith]",
+		"uniques": ["[{Military} {Land}] units gain the [Sacrificial Captives] promotion", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
 		"cities": ["Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
 			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
 			"Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac",

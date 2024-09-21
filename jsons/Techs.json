@@ -592,7 +592,7 @@
 			{
 				"name": "Rocketry",
 				"row": 6,
-				"prerequisites": ["Radar"],
+				"prerequisites": ["Radar","Advanced Espionage"],
 				"quote": "'A good rule for rocket experimenters to follow is this: always assume that it will explode.' - Astronautics Magazine, 1937"
 			},
 			{

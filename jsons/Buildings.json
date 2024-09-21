@@ -138,7 +138,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 3},
-		 "uniques": ["Gain enough Faith for [33]% of a Great Prophet", "Gain [33] [Science] <upon founding a Pantheon>", "Gain [33] [Science] <upon founding a Religion>", "Gain [33] [Science] <upon enhancing a Religion>", "Hidden when religion is disabled", "Must have an owned [Stone] within [2] tiles"],
+		 "uniques": ["Gain a free [Pantheon] belief", "Gain [20] [Science] <upon founding a Pantheon>", "Gain [30] [Science] <upon founding a Religion>", "Gain [50] [Science] <upon enhancing a Religion>", "Hidden when religion is disabled", "Must have an owned [Stone] within [2] tiles"],
 		"requiredTech": "Calendar",
 		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
 	},

@@ -1133,7 +1133,7 @@
 		"obsoleteTech": "Steam Power",
 		"upgradesTo": "Ironclad",
 		"promotions": ["[Privateer] ability"],
-		"uniques": ["Can move after attacking", "Gain [100]-[300] [Gold] <by consuming this unit> <in [Major] tiles> <in tiles without [The Netherlands]> <(modified by game speed)>"],
+		"uniques": ["Can move after attacking", "Gain [90]-[360] [Gold] <by consuming this unit> <in [Major] tiles> <in tiles without [The Netherlands]> <(modified by game speed)>", "Cost increases by [5] when built"],
 		"attackSound": "cannon"
 	},
 	{

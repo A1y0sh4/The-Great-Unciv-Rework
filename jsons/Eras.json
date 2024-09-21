@@ -66,7 +66,7 @@
         "settlerPopulation": 3,
         "settlerBuildings": ["Monument", "Granary", "Library", "Circus", "Water Mill", "Stone Works", "Walls", "Barracks", "Lighthouse", "Temple", "Brewery", "Wine Cellar", "Stable", "Harbor", "Garden", "Amphitheater", "Colosseum", "Market", "Mint", "Aqueduct", "Workshop", "Forge", "Armory"],
         "startingObsoleteWonders": ["Temple of Artemis", "Stonehenge", "The Great Library", "Mausoleum of Halicarnassus", "The Pyramids", "Statue of Zeus",
-            "The Great Lighthouse", "Hanging Gardens", "Terracotta Army", "The Oracle", "Petra", "Great Wall", "Colossus", "Parthenon", "Great Zimbabwe"],
+            "The Great Lighthouse", "Hanging Gardens", "Terracotta Army", "The Oracle", "Petra", "Great Wall", "Colossus", "Parthenon", "Great Zimbabwe", "Chichen Itza", "Machu Picchu", "Teotihuacan Pyramids"],
         "baseUnitBuyCost": 300,
         "embarkDefense": 8,
         "startPercent": 37,

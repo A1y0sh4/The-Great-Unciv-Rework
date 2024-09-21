@@ -450,7 +450,7 @@
 	{
 		"name": "Ancient ruins",
 		"terrainsCanBeBuiltOn": ["Tundra", "Grassland", "Plains", "Hill", "Desert"],
-		"uniques": ["Unpillagable", "Provides a random bonus when entered", "Unbuildable", "Cannot be built on [Snow] tiles"]
+		"uniques": ["Unpillagable", "Provides a random bonus when entered", "Unbuildable", "Cannot be built on [Snow] tiles"] 
 	},
 	{
 		"name": "City center",
@@ -469,7 +469,7 @@
 	{
 		"name": "Barbarian encampment",
 		"terrainsCanBeBuiltOn": ["Tundra", "Grassland", "Plains", "Hill", "Desert"],
-		"uniques": ["Unpillagable", "Unbuildable", "Cannot be built on [Snow] tiles", "Gives a defensive bonus of [10]%"],
+		"uniques": ["Unpillagable", "Unbuildable", "Cannot be built on [Snow] tiles", "Gives a defensive bonus of [10]%", "Provides a random bonus when entered <for [Sumeria]>"],
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
 	}
 ]

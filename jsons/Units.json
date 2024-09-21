@@ -1122,17 +1122,17 @@
 		"attackSound": "cannon"
 	},
 	{
-		"name": "Sea Beggar",
+		"name": "Fluyt",
 		"unitType": "Melee Water",
 		"replaces": "Privateer",
 		"uniqueTo": "The Netherlands",
-		"movement": 5,
-		"strength": 28,
-		"cost": 150,
+		"movement": 6,
+		"strength": 24,
+		"cost": 135,
 		"requiredTech": "Navigation",
 		"obsoleteTech": "Steam Power",
 		"upgradesTo": "Ironclad",
-		"promotions": ["Coastal Raider I", "Coastal Raider II", "Supply", "[Privateer] ability"],
+		"promotions": ["[Privateer] ability"],
 		"uniques": ["Can move after attacking"],
 		"attackSound": "cannon"
 	},

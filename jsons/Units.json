@@ -1126,14 +1126,14 @@
 		"unitType": "Melee Water",
 		"replaces": "Privateer",
 		"uniqueTo": "The Netherlands",
-		"movement": 6,
-		"strength": 24,
+		"movement": 5,
+		"strength": 26,
 		"cost": 135,
 		"requiredTech": "Navigation",
 		"obsoleteTech": "Steam Power",
 		"upgradesTo": "Ironclad",
 		"promotions": ["[Privateer] ability"],
-		"uniques": ["Can move after attacking"],
+		"uniques": ["Can move after attacking", "Gain [100]-[200] [Gold] <by consuming this unit> <in [Major] tiles> <(modified by game speed)>"],
 		"attackSound": "cannon"
 	},
 	{

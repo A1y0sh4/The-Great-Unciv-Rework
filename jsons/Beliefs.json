@@ -15,12 +15,12 @@
     {
         "name": "Dance of the Aurora",
         "type": "Pantheon",
-        "uniques": ["[+1 Food, +1 Culture, +1 Faith] in cities on [Tundra] tiles"]
+        "uniques": ["[+2 Food, +1 Culture, +1 Faith] in cities on [Tundra] tiles"]
     },
     {
         "name": "Desert Folklore",
         "type": "Pantheon",
-        "uniques": ["[+1 Food, +1 Culture, +1 Faith] in cities on [Desert] tiles"]
+        "uniques": ["[+2 Food, +1 Culture, +1 Faith] in cities on [Desert] tiles"]
     },
     {
         "name": "Earth Mother",

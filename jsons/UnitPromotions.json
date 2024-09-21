@@ -904,7 +904,7 @@
 	},
 	{
 		"name": "Epic Quest",
-		"uniques": ["[This Unit] gains [5] XP <upon defeating a [Barbarian] unit>", "[This Unit] heals [15] HP <upon defeating a [Barbarian] unit>"] 
+		"uniques": ["[This Unit] gains [5] XP <upon defeating a [Barbarian] unit>", "[This Unit] heals [25] HP <upon defeating a [Barbarian] unit>"] 
 	},
 	{
 		"name": "[Heavy Chariot] ability",

@@ -1128,7 +1128,7 @@
 		"uniqueTo": "The Netherlands",
 		"movement": 6,
 		"strength": 26,
-		"cost": 135,
+		"cost": 130,
 		"requiredTech": "Navigation",
 		"obsoleteTech": "Steam Power",
 		"upgradesTo": "Ironclad",

@@ -278,8 +278,6 @@
         {
 		"name": "Great Wall",
 		"culture": 1,
-		"cityStrength": 2,
-		"cityHealth": 10,
 		"greatPersonPoints": {"Great Engineer": 3},
 		"isWonder": true,
 		"uniques": ["Enemy [Barbarian] units must spend [1] extra movement points when inside your territory", "Enemy [Mounted] units must spend [2] extra movement points when inside your territory", "Provides a [Walls] in your first [4] cities for free"],
@@ -308,6 +306,7 @@
 		"replaces": "Barracks",
 		"uniqueTo": "Russia",
 		"cost": 40,
+		"cityStrength": 2,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"greatPersonPoints": {"Great General": 1},

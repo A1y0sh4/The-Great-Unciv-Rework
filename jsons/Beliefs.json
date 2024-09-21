@@ -25,7 +25,7 @@
     {
         "name": "Earth Mother",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from every [Salt]", "[+1 Faith] from every [Copper]", "[+1 Faith] from every [Iron]"]
+        "uniques": ["[+1 Faith, +1 Gold] from every [Salt]", "[+1 Faith, +1 Gold] from every [Copper]", "[+1 Faith, +1 Gold] from every [Iron]"]
     },
     {
         "name": "Eleusinian Mysteries",

@@ -310,7 +310,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"greatPersonPoints": {"Great General": 1},
-		"uniques": ["Gain control over [Resource] tiles in a [2]-tile radius", "[-25]% Culture cost of natural border growth [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]",
+		"uniques": ["[-33]% Culture cost of natural border growth [in this city]", "[-33]% Gold cost of acquiring tiles [in this city]",
 			"New [{Land} {Military}] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},

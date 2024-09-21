@@ -189,7 +189,7 @@
             {
                 "name": "Expansion Complete",
                 "uniques": [
-                 "[-25]% Culture cost of natural border growth [in all cities connected to capital]", "[-25]% Gold cost of acquiring tiles [in all cities connected to capital]"
+                 "[-33]% Culture cost of natural border growth [in all cities connected to capital]", "[-33]% Gold cost of acquiring tiles [in all cities connected to capital]"
                 ]
             }
         ]

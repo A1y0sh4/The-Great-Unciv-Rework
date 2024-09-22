@@ -4,7 +4,7 @@
 
     {
         "name": "Ancient era",
-        "researchAgreementCost": 150,
+        "researchAgreementCost": 50,
         "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
         "startingWorkerCount": 0,
         "startingMilitaryUnitCount": 1,
@@ -18,7 +18,7 @@
     },
     {
         "name": "Classical era",
-        "researchAgreementCost": 150,
+        "researchAgreementCost": 100,
         "startingSettlerCount": 1,
         "startingWorkerCount": 0,
         "startingMilitaryUnitCount": 2,
@@ -35,7 +35,7 @@
     },
     {
         "name": "Medieval era",
-        "researchAgreementCost": 250,
+        "researchAgreementCost": 150,
         "startingSettlerCount": 2,
         "startingWorkerCount": 1,
         "startingMilitaryUnitCount": 2,
@@ -56,7 +56,7 @@
     },
     {
         "name": "Renaissance era",
-        "researchAgreementCost": 250,
+        "researchAgreementCost": 200,
         "startingSettlerCount": 2,
         "startingWorkerCount": 1,
         "startingMilitaryUnitCount": 2,
@@ -76,7 +76,7 @@
     },
     {
         "name": "Industrial era",
-        "researchAgreementCost": 300,
+        "researchAgreementCost": 250,
         "startingSettlerCount": 3,
         "startingWorkerCount": 2,
         "startingMilitaryUnitCount": 3,
@@ -101,7 +101,7 @@
     },
     {
         "name": "Modern era",
-        "researchAgreementCost": 350,
+        "researchAgreementCost": 300,
         "startingSettlerCount": 3,
         "startingWorkerCount": 2,
         "startingMilitaryUnitCount": 3,
@@ -127,7 +127,7 @@
     },
     {
         "name": "Atomic era",
-        "researchAgreementCost": 400,
+        "researchAgreementCost": 350,
         "startingSettlerCount": 3,
         "startingWorkerCount": 2,
         "startingMilitaryUnitCount": 3,
@@ -185,7 +185,7 @@
       // But as it is _really_ usefull to have for testing, I'd like to keep it.
       // The stats are just copy-pasted from the information era.
         "name": "Future era",
-        "researchAgreementCost": 400,
+        "researchAgreementCost": 450,
         "startingSettlerCount": 3,
         "startingWorkerCount": 3,
         "startingMilitaryUnitCount": 3,

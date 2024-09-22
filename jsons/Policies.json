@@ -372,7 +372,7 @@
             },
             {
                 "name": "Market Economy",
-                "uniques": ["[-20]% maintenance cost for buildings [in all cities]"],
+                "uniques": ["[-50]% maintenance cost for buildings [in all cities]"],
                 "requires": ["Free Market"],
                 "row": 3,
                 "column": 4

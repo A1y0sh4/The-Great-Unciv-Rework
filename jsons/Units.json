@@ -5,17 +5,17 @@
 		"name": "Worker",
 		"unitType": "Civilian",
 		"movement": 2,
-		"uniques": ["Can build [Land] improvements on tiles"],
-		"cost": 50,
+		"uniques": ["Can build [Land] improvements on tiles", "Cost increases by [5] when built"],
+		"cost": 42,
 		"hurryCostModifier": 15
 	},
 	{
 		"name": "Settler",
 		"unitType": "Civilian",
 		"movement": 2,
-		"cost": 87,
+		"cost": 50,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population"],
+			"Requires at least [2] population", "Cost increases by [10] when built"],
 		"hurryCostModifier": 15
 	},
 	{
@@ -205,7 +205,7 @@
 		"movement": 3,
 		"cost": 29,
 		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources", "Uncapturable"]
+		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources", "Uncapturable", "Cost increases by [5] when built"]
 	},
 	{
 		"name": "Trireme",

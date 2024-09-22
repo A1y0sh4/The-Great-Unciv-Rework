@@ -920,7 +920,7 @@
 	},
 	{
 		"name": "Organized Warfare",
-		"uniques": ["Can move after attacking", "Ignores Zone of Control"],
+		"uniques": ["Can move after attacking", "Ignores Zone of Control"], 
 	},
 	{
 		"name": "[Carolean] ability",
@@ -929,5 +929,9 @@
 	{
 		"name": "To the World's End",
 		"uniques": ["[This Unit] heals [25] HP", "[This Unit] gains [5] XP", "Doing so will consume this opportunity to choose a Promotion"],
-    },
+        },
+	{
+		"name": "[Druzhina] ability",
+		"uniques": ["[+10]% Strength bonus for [Military] units within [1] tiles"] 
+	},
 ]

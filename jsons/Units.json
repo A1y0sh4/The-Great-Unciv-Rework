@@ -707,7 +707,7 @@
 		"cost": 87,
 		"requiredTech": "Civil Service",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[+15]% Strength <when fighting in [Fresh water] tiles>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
 		"promotions": ["[Druzhina] ability"],
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",

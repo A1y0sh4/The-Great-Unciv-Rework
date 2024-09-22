@@ -1280,7 +1280,7 @@
 		"innerColor": [254, 218, 54],
 		
 		"uniqueName": "Hellenistic Fusion",
-		"uniqueText": "Upon capturing a city, receive immediatly 5 times its respective [Science] and [Culture] production\nMilitary Land units heal 33 HP upon conquering a city\nUnhappiness from population in puppeted cities is halved when at war",
+		"uniqueText": "Upon capturing a city, receive immediatly 5 times its respective [Science] and [Culture] production\nMilitary Land units heal 25 HP upon conquering a city\nUnhappiness from population in puppeted cities is halved when at war",
 		"uniques": ["Upon capturing a city, receive [5] times its [Science] production as [Science] immediately", "Upon capturing a city, receive [5] times its [Culture] production as [Culture] immediately", "[{Military} {Land}] units gain the [To the World's End] promotion <upon conquering a city>", "[-50]% Unhappiness from [Population] [in puppeted cities] <when at war>"],
 		"cities": ["Pella","Aigai","Thessaloniki","Dion","Pydna","Amphipolis","Alexandropouli","Alexandria Troas","Alexandria","Alexandria Ariana",
 			"Alexandria Arachosia","Alexandria Eschate","Alexandria in Parapamisdai","Alexandria in Margiana","Alexandria Bucephala","Alexandria Rhambakia","Alexandria in Susiana","Stagira","Apollonia","Philippolis",

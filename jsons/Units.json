@@ -80,7 +80,7 @@
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Paratrooper",
 		"obsoleteTech": "Radar",
-		"uniques": ["Transfer Movement to [Civilian]", "[+15]% Strength <in [Friendly Land] tiles>"],
+		"uniques": ["Transfer Movement to [Civilian]", "[+1] Movement <in [Friendly Land] tiles>", "[+15]% Strength <in [Friendly Land] tiles>"],
 		"promotions": ["Scouting I", "Scouting II"],
 		"attackSound": "shot"
 	},

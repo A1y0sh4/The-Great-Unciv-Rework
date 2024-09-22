@@ -138,7 +138,7 @@
 	    "Religious": 0
         },
         "uniques": [
-                "Notified of new Barbarian encampments", "[+33]% Strength <vs [Barbarian] units> <for [All]> units"
+                "Notified of new Barbarian encampments", "[+33]% Strength <vs [Barbarian] units> <for [All] units>"
         ],
         "policies": [
             {

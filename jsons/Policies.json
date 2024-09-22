@@ -145,13 +145,13 @@
                 "name": "Warrior Code",
                 "uniques": [
 		    "Comment [Military buildings yield an additional +1 [Culture], +1 [Production]]",
-		    "Comment [+33% [Production] when constructing Military buildings]",
+		    "Comment [+50% [Production] when constructing Military buildings]",
                     "[+1 Culture, +1 Production] from every [Barracks] <hidden from users>",
 		    "[+1 Culture, +1 Production] from every [Armory] <hidden from users>",
 		    "[+1 Culture, +1 Production] from every [Military Academy] <hidden from users>",
-		    "[+33]% Production when constructing [Barracks] buildings [in all cities] <hidden from users>",
-		    "[+33]% Production when constructing [Armory] buildings [in all cities] <hidden from users>",
-		    "[+33]% Production when constructing [Military Academy] buildings [in all cities] <hidden from users>"
+		    "[+50]% Production when constructing [Barracks] buildings [in all cities] <hidden from users>",
+		    "[+50]% Production when constructing [Armory] buildings [in all cities] <hidden from users>",
+		    "[+50]% Production when constructing [Military Academy] buildings [in all cities] <hidden from users>"
 			
                 ],
                 "row": 1,

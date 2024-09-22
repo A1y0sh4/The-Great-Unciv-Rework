@@ -928,6 +928,6 @@
 	},
 	{
 		"name": "To the World's End",
-		"uniques": ["[This Unit] heals [25] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"uniques": ["[This Unit] heals [25] HP", "[This Unit] gains [5] XP", "Doing so will consume this opportunity to choose a Promotion"],
     },
 ]

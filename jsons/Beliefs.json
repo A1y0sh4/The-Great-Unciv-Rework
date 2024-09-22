@@ -364,7 +364,7 @@
     {
         "name": "Inquisition Tribunals",
         "type": "Enhancer",
-        "uniques": ["Adopt [Inquisition]", "Free [Inquisitor] appears <upon constructing [Courthouse]>", "[+2 Faith] from every [Courthouse]"]
+        "uniques": ["Free [Inquisitor] appears <upon constructing [Courthouse]>", "[+2 Faith] from every [Courthouse]"]
     },
     {
         "name": "Itinerant Preachers",

@@ -144,7 +144,7 @@
             {
                 "name": "Warrior Code",
                 "uniques": [
-		    "Comment [Military buildings yield and additional +1 [Culture], +1 [Production]]",
+		    "Comment [Military buildings yield an additional +1 [Culture], +1 [Production]]",
 		    "Comment [+33% [Production] when constructing Military buildings]",
                     "[+1 Culture, +1 Production] from every [Barracks] <hidden from users>",
 		    "[+1 Culture, +1 Production] from every [Armory] <hidden from users>",

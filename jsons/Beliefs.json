@@ -120,7 +120,7 @@
     {
         "name": "Religious Idols",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from every [Gold Ore]", "[+1 Faith] from every [Silver]", "[+1 Faith] from every [Gems]"]
+        "uniques": ["[+1 Culture, +1 Faith] from every [Gold Ore]", "[+1 Culture, +1 Faith] from every [Silver]"]
     },
      {
         "name": "Ritual Drinks",

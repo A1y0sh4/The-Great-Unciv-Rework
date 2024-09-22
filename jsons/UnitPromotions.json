@@ -840,7 +840,7 @@
 	},
 	{
 		"name": "[Zero] ability",
-		"uniques": ["[+33]% Strength <vs [Fighter] units>"]
+		"uniques": ["[+50]% Strength <vs [Fighter] units>", "[+50]% Strength <when attacking>"]
 	},
         {
                 "name": "[Chu-Ko-Nu] ability",

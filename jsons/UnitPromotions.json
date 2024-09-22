@@ -932,6 +932,6 @@
         },
 	{
 		"name": "[Druzhina] ability",
-		"uniques": ["[+10]% Strength bonus for [Military] units within [1] tiles"] 
+		"uniques": ["[+10]% Strength bonus for [Military] units within [1] tiles", "[+10]% Strength <when fighting in [Fresh water] tiles>"] 
 	},
 ]

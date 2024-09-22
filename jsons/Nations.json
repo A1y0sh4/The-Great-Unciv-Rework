@@ -29,7 +29,7 @@
 		
 		"uniqueName": "Manifest Destiny",
 		"uniqueText": "-50% [Gold] cost of acquiring tiles in all cities\nGain 50 [Gold] and 5 [Culture] upon founding a city (modified by game speed and city amount)",
-		"uniques": ["Gain [16] [Gold] <upon founding a city> <on [Blitz] game speed> <for every [[Non-occupied] Cities]>", 
+		"uniques": ["Gain [16] [Gold] <upon founding a city> <on [Blitz] game speed> <for every [Cities]>", 
 			    "Gain [25] [Gold] <upon founding a city> <on [Online] game speed> <for every [[Non-occupied] Cities]>", 
 			    "Gain [33] [Gold] <upon founding a city> <on [Quick] game speed> <for every [[Non-occupied] Cities]>",
 			    "Gain [50] [Gold] <upon founding a city> <on [Standard] game speed> <for every [[Non-occupied] Cities]>",

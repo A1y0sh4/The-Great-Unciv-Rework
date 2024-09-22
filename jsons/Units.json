@@ -701,15 +701,16 @@
 		"name": "Druzhina", 
 		"replaces": "Pikeman",
 		"uniqueTo": "Kievan Rus'",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 18,
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 16,
 		"cost": 87,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+10]% Strength bonus for [Military] units within [1] tiles"],
-		"upgradesTo": "Musketman",
-		"obsoleteTech": "Gunpowder",
-		"attackSound": "metalhit"
+		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
+		"promotions": ["[Druzhina] ability"],
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"attackSound": "horse"
 	},
 	{
 		"name": "Jaguar",

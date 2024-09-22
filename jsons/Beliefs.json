@@ -70,7 +70,7 @@
     {
         "name": "God of Craftsman",
         "type": "Pantheon",
-        "uniques": ["[+1 Production] from every [Strategic resource]"]
+        "uniques": ["[+1 Production, +1 Gold] from every [Strategic resource]"]
     },
     {
         "name": "God of the Open Sky",

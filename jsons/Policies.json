@@ -144,9 +144,15 @@
             {
                 "name": "Warrior Code",
                 "uniques": [
-                    "[+1 Culture, +1 Production] from every [Barracks]",
-		    "[+1 Culture, +1 Production] from every [Armory]",
-		    "[+1 Culture, +1 Production] from every [Military Academy]",
+		    "Comment [Military buildings yield and additional +1 [Culture], +1 [Production]]",
+		    "Comment [+33% [Production] when constructing Military buildings]",
+                    "[+1 Culture, +1 Production] from every [Barracks] <hidden from users>",
+		    "[+1 Culture, +1 Production] from every [Armory] <hidden from users>",
+		    "[+1 Culture, +1 Production] from every [Military Academy] <hidden from users>",
+		    "[+33]% Production when constructing [Barracks] buildings [in all cities] <hidden from users>",
+		    "[+33]% Production when constructing [Armory] buildings [in all cities] <hidden from users>",
+		    "[+33]% Production when constructing [Military Academy] buildings [in all cities] <hidden from users>"
+			
                 ],
                 "row": 1,
                 "column": 2
@@ -162,7 +168,7 @@
             {
                 "name": "City Militia",
                 "uniques": [
-                    "[-67]% maintenance costs <for [Military] units> <in [City center] tiles>", "[+1 Happiness, +1 Production] [in all cities with a garrison]"
+                    "[-67]% maintenance costs <for [Military] units> <in [City center] tiles>", "[+2 Happiness, +1 Production] [in all cities with a garrison]"
                 ],
                 "requires": ["Warrior Code"],
                 "row": 2,

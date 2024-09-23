@@ -203,7 +203,7 @@
 		"name": "Work Boats",
 		"unitType": "Civilian Water",
 		"movement": 3,
-		"cost": 29,
+		"cost": 24,
 		"requiredTech": "Sailing",
 		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources", "Uncapturable", "Cost increases by [5] when built"]
 	},

@@ -1277,11 +1277,10 @@
 	{
 		"name": "Big Ben",
 		"culture": 1,
-		"gold": 4,
 		"percentStatBonus": {"gold": 10},
 		"greatPersonPoints": {"Great Merchant": 6},
 		"isWonder": true,
-		"uniques": ["[Gold] cost of purchasing items in cities [-20]%"],
+		"uniques": ["[Gold] cost of purchasing items in cities [-25]%"],
 		"requiredTech": "Industrialization",
 		"quote": "'To achieve great things, two things are needed: a plan, and not quite enough time.' - Leonard Bernstein"
 	},

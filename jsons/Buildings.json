@@ -535,7 +535,7 @@
 		"happiness": 3,
 		"greatPersonPoints": {"Great Engineer": 3},
 		"isWonder": true,
-		"uniques": ["Must be next to [Jungle]", "[+50]% Golden Age length", "[+1 Culture] from [Jungle] tiles [in this city]"],
+		"uniques": ["Must be next to [Jungle]", "[+50]% Golden Age length", "[+1 Culture, +1 Faith] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Spirituality",
 		"quote": "'The katun is established at Chichen Itza. The settlement of the Itza shall take place there. The quetzal shall come, the green bird shall come. Ah Kantenal shall come. It is the word of God. The Itza shall come.' - The Books of Chilam Balam"
 	},

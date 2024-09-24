@@ -445,7 +445,7 @@
 		"replaces": "Colosseum",
 		"uniqueTo": "Aztecs",
 		"happiness": 2,
-		"uniques": ["[+1 Happiness, +1 Culture, +1 Faith] [in this city] <when at war>", "New [{Land} {Military}] units start with [10] Experience [in this city]", "Comment [Can be purchased with [Faith]]"],
+		"uniques": ["[+1 Happiness, +1 Culture, +1 Faith] [in this city] <when at war>", "New [{Land} {Military}] units start with [15] Experience [in this city]", "Comment [Can be purchased with [Faith]]"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredTech": "Imperial Games"

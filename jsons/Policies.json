@@ -15,9 +15,13 @@
         ],
         "policies": [
             {
-                "name": "Discipline",
+                "name": "Oligarchy",
                 "uniques": [
-                    "[+10]% Strength <for [Wounded] units>"
+                    "[+50]% Production when constructing [Walls] buildings [in all cities] <hidden from users>",
+		    "[+50]% Production when constructing [Castle] buildings [in all cities] <hidden from users>",
+		    "[+50]% Production when constructing [Arsenal] buildings [in all cities] <hidden from users>",
+		    "[+50]% Production when constructing [Military Base] buildings [in all cities] <hidden from users>",
+			
                 ],
                 "row": 1,
                 "column": 1
@@ -138,7 +142,7 @@
 	    "Religious": 0
         },
         "uniques": [
-                "Notified of new Barbarian encampments", "[+33]% Strength <vs [Barbarian] units>"
+                "Notified of new Barbarian encampments", "[+15]% Strength <for [Wounded] units>"
         ],
         "policies": [
             {

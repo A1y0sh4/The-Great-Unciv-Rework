@@ -269,8 +269,8 @@
 		"replaces": "Walls",
 		"uniqueTo": "Georgia",
 		"faith": 1,
-		"cityStrength": 7,
-		"cityHealth": 35,
+		"cityStrength": 8,
+		"cityHealth": 40,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured", "Obsolete with [Rifling]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>"]

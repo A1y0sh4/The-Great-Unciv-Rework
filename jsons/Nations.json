@@ -1674,7 +1674,7 @@
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Mandala State",
 		"uniqueText": "Gain +1 [Culture], +1 [Happiness] from [Faith] buildings in cities with a National Wonder\nNational Wonders are built in half the time in cities where one isn't already present there\nNational Wonders yield 2 amounts of their respective stat with an additional +1 [Faith] on top",
-		"uniques": ["[+1 Culture, +1 Happiness] from all [Faith] buildings <in cities with a [National Wonder]>", "[+100]% Production when constructing [National Wonder] buildings [in all cities] <in cities without a [National Wonder]>", 
+		"uniques": ["[+1 Culture, +1 Happiness] from all [Faith] buildings <in cities with a [National Wonder]>", "[+100]% Production when constructing [National Wonder] buildings <in cities without a [National Wonder]>", 
 			    "[+2 Culture, +1 Faith] from every [National Epic]", "[+2 Science, +1 Faith] from every [National College]", "[+2 Happiness, +1 Faith] from every [Circus Maximus]", "[+2 Culture, +1 Faith] from every [Heroic Epic]", "[+2 Gold, +1 Faith] from every [National Treasury]",
 			    "[+2 Production, +1 Faith] from every [Ironworks]", "[+2 Culture, +1 Faith] from every [Hermitage]", "[+3 Faith] from every [Grand Temple]", "[+2 Production, +1 Faith] from every [National Intelligence Agency]", "[+2 Science, +1 Faith] from every [Manhattan Project]",
 			    "[+2 Science, +1 Faith] from every [Sputnik Program]", "[+2 Science, +1 Faith] from every [Apollo Program]", "[+2 Science, +1 Faith] from every [Mars Colonization Program]"],

@@ -1675,9 +1675,9 @@
 		"uniqueName": "Father Governs Children",
 		"uniqueText": "Gain +1 [Faith] for every 4 people you have in your cities\nMay buy [Food] buildings with [Faith]",
 		"uniques": ["[+1 Faith] per [4] population [in all cities]", "May buy [Granary] buildings with [Faith] for [2] times their normal Production cost", "May buy [Baray] buildings with [Faith] for [2] times their normal Production cost", "May buy [Hospital] buildings with [Faith] for [2] times their normal Production cost"],
-		"cities": ["Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Phitsanulok","Kamphaeng Pet","Nakhom Chum","Vientiane",
+		"cities": ["Sukhothai","Si Satchanalai","Muang Saluang","Ayutthaya","Vientiane","Lampang","Phitsanulok","Kamphaeng Pet","Nakhom Chum",
 			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
-			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",
+			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",
 			"Ban Phai","Loci","Khon Kaen","Surin"],
 		"spyNames": ["Aran", "Chanarong", "Kiet", "Niran", "Virote", "Kulap", "Mayuree", "Phueng", "Ratana", "Tola"]
 	},

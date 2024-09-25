@@ -455,7 +455,6 @@
 		"name": "Circus Maximus",
 		"cost": 100,
 		"culture": 1,
-		"happiness": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "[-50]% Unhappiness from [Population] [in this city]", "Cost increases by [25] per owned city"],
 		"requiredTech": "Imperial Games"

@@ -1673,9 +1673,10 @@
 		
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Mandala State",
-		"uniqueText": "May buy National Wonders buildings with [Faith] in all cities\nNational Wonders yield 2 amounts of their respective stat with an additional +1 [Faith],  on top",
+		"uniqueText": "May buy National Wonders buildings with [Faith] in all cities\nNational Wonders double their yield",
 		"uniques": ["May buy [National Wonder] buildings with [Faith] [in all cities]",
-			    "[+100]% Yield from every [National Wonder]"],
+			    "[+1 Culture] from every [National Wonder]", "[+1 Faith] from every [National Wonder] <after adopting [Monument to the Gods]>", "[+1 Culture, +1 Happiness] from every [National Wonder] <after adopting [Monumentalism]>", "[+2 Science] from every [National Wonder] <after adopting [Divine inspiration]>", "[+2 Culture, +2 Science] from every [National Wonder] <after adopting [Free Thought]>",
+		            "[+1 Happiness] from every [Grand Temple] <after adopting [Organized Religion]>", "[+1 Happiness] from every [National College] <after adopting [Humanism]>", "[+1 Science] from every [National Treasury] <after adopting [Mercantilism]>"],
 		"cities": ["Sukhothai","Si Satchanalai","Kamphaeng Pet","Ayutthaya","Vientiane","Lampang","Phitsanulok","Muang Saluang","Nakhom Chum",
 			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
 			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",

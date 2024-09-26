@@ -792,7 +792,7 @@
 	},
 	{
 		"name": "Pictish Courage", // only for Pictish Warrior and subsequent upgrades
-		"uniques": ["[+50]% Strength <when attacking>", "[-25]% Strength <when defending>"]
+		"uniques": ["[+25]% Strength <when attacking>", "[-15]% Strength <when defending>"]
 	},
 	{
 		"name": "Home Sweet Home", // only for Mehal Sefari and subsequent upgrades

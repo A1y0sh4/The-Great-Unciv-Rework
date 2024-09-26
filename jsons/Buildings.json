@@ -1022,6 +1022,19 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
+		"name": "Coffee House",
+		"replaces": "Opera House",
+		"uniqueTo": "Austria",
+		"cost": 131,
+		"culture": 3,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 2,
+		"uniques": ["Destroyed when the city is captured", "[+33]% Great Person generation [in this city]", "[-33]% Unhappiness from [Specialists] [in this city]"],
+		"requiredTech": "Acoustics"
+	},
+	{
 		"name": "Bolshoi Theatre",
 		"culture": 1,
 		"isWonder": true,
@@ -1163,18 +1176,6 @@
 		"hurryCostModifier": 25,
 		"maintenance": 2,
 		"uniques": ["Must not be on [Hill]", "[+10]% Production when constructing [All] buildings [in this city]"],
-		"requiredTech": "Economics"
-	},
-	{
-		"name": "Coffee House",
-		"replaces": "Windmill",
-		"uniqueTo": "Austria",
-		"production": 2,
-		"culture": 2,
-		"specialistSlots": {"Engineer": 1},
-		"hurryCostModifier": 25,
-		"maintenance": 2,
-		"uniques": ["[+33]% Great Person generation [in this city]", "[-33]% Unhappiness from [Specialists] [in this city]", "[+10]% Production when constructing [All] buildings [in this city]"],
 		"requiredTech": "Economics"
 	},
 	{

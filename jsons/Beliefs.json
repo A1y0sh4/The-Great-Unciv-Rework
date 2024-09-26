@@ -135,7 +135,7 @@
     {
         "name": "Sacred Waters",
         "type": "Pantheon",
-        "uniques": ["[+2 Faith] in cities on [River] tiles"]
+        "uniques": ["[+1 Happiness] in cities on [Fresh Water] tiles"]
     },
     {
         "name": "Stone Circles",

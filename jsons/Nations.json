@@ -853,8 +853,8 @@
 		"innerColor": [239, 236, 148],
 		
 		"uniqueName": "Ancient Regime",
-		"uniqueText": "During We Love the King your cities [Culture] and [Science] generation is augmented by 25%\nWonders yield an additional +1 [Culture] (which doubles during a WLTKD)",
-		"uniques": ["[+25]% [Culture] [in all cities] <during We Love The King Day>", "[+25]% [Science] [in all cities] <during We Love The King Day>", "[+1 Culture] from every [Wonder]", "[+1 Culture] from every [Wonder] <during We Love The King Day>"],
+		"uniqueText": "During We Love the King your cities [Culture] and [Science] generation is augmented by 15%\nWonders yield an additional +1 [Culture] (which doubles during a WLTKD)",
+		"uniques": ["[+15]% [Culture] [in all cities] <during We Love The King Day>", "[+15]% [Science] [in all cities] <during We Love The King Day>", "[+1 Culture] from every [Wonder]", "[+1 Culture] from every [Wonder] <during We Love The King Day>"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",

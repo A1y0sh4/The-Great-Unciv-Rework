@@ -139,7 +139,7 @@
         "row": 2
 	},
 	{
-		"name": "Besiege", // Not called "Siege" in order to not conflict with siege type units for translations
+		"name": "Besiege",
 		"prerequisites": ["Shock II","Drill II"],
 		"uniques": ["[+50]% Strength <vs cities>"],
 		"unitTypes": ["Sword","Gunpowder"],
@@ -189,7 +189,7 @@
 	{
 		"name": "Medic",
 		"prerequisites": ["Shock I", "Drill I"],
-		"uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "All adjacent units heal [+5] HP when healing"],
+		"uniques": ["[+5] HP when healing", "All adjacent units heal [+5] HP when healing"],
 		"unitTypes": ["Sword","Gunpowder","Mounted"],
         "column": 10, // after scout base
         "row": 1
@@ -792,7 +792,7 @@
 	},
 	{
 		"name": "Pictish Courage", // only for Pictish Warrior and subsequent upgrades
-		"uniques": ["No damage penalty for wounded units", "No movement cost to pillage"]
+		"uniques": ["[+50]% Strength <when attacking>", "[-25]% Strength <when defending>"]
 	},
 	{
 		"name": "Home Sweet Home", // only for Mehal Sefari and subsequent upgrades
@@ -800,7 +800,7 @@
 	},
 	{
 		"name": "[Mohawk Warrior] ability",
-		"uniques": ["[+50]% Strength <when fighting in [Forest] tiles>", "[+50]% Strength <when fighting in [Jungle] tiles>"]
+		"uniques": ["[+33]% Strength <when fighting in [Forest] tiles>", "[+33]% Strength <when fighting in [Jungle] tiles>"]
 	},
 	{
 		"name": "[Jaguar] ability",

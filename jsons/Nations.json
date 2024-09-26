@@ -471,7 +471,7 @@
 		"innerColor": [148, 170, 255],
 		
 		"uniqueName": "Druidic Lore",
-		"uniqueText": "Unimproved Forests yield +1 [Faith] with an additional +1 [Faith] if there is a resource\nMilitary units in forests heal 10 additional HP per turn",
+		"uniqueText": "Unimproved Forests yield +1 [Faith], +1 [Science] with an additional +1 [Faith] if there is a resource\nMilitary units in forests heal 10 additional HP per turn",
 		"uniques": ["[+1 Faith, +1 Science] from [Forest] tiles [in all cities]", "[+1 Faith] from [Forest] tiles [in all cities] <in [Resource] tiles>", "[-1 Faith, -1 Science] from every [Improvement] <in [Forest] tiles>", "[-1 Faith] from every [Improvement] <in [Forest] tiles> <in [Resource] tiles>", "[+10] HP when healing <for [Military] units> <in [Forest] tiles>"],
 		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth","Penzance",
 			"Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen","Belfast",

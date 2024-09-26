@@ -35,9 +35,9 @@
 			    "Gain [40] [Gold] <upon founding a city> <on [Standard] game speed> <during the [Ancient era]>", "Gain [60] [Gold] <upon founding a city> <on [Standard] game speed> <during the [Classical era]>", "Gain [100] [Gold] <upon founding a city> <on [Standard] game speed> <during the [Medieval era]>", "Gain [160] [Gold] <upon founding a city> <on [Standard] game speed> <during the [Renaissance era]>", "Gain [260] [Gold] <upon founding a city> <on [Standard] game speed> <during the [Industrial era]>", "Gain [420] [Gold] <upon founding a city> <on [Standard] game speed> <during the [Modern era]>", "Gain [680] [Gold] <upon founding a city> <on [Standard] game speed> <during the [Information era]>", "Gain [1100] [Gold] <upon founding a city> <on [Standard] game speed> <during the [Future era]>",
 			    "Gain [45] [Gold] <upon founding a city> <on [Epic] game speed> <for every [Cities]>",
 			    "Gain [90] [Gold] <upon founding a city> <on [Marathon] game speed> <for every [Cities]>",
-			
 			    "Gain [135] [Gold] <upon founding a city> <on [Endless] game speed> <for every [Cities]>",
-			    "Gain [2] [Culture] <upon founding a city> <on [Blitz] game speed> <for every [Cities]>", 
+			
+			    "Gain [3] [Culture] <upon founding a city> <on [Blitz] game speed> <during the [Ancient era]>", "Gain [4] [Culture] <upon founding a city> <on [Blitz] game speed> <during the [Classical era]>", "Gain [7] [Culture] <upon founding a city> <on [Blitz] game speed> <during the [Medieval era]>", "Gain [11] [Culture] <upon founding a city> <on [Blitz] game speed> <during the [Renaissance era]>", "Gain [18] [Culture] <upon founding a city> <on [Blitz] game speed> <during the [Industrial era]>", "Gain [30] [Culture] <upon founding a city> <on [Blitz] game speed> <during the [Modern era]>", "Gain [48] [Culture] <upon founding a city> <on [Blitz] game speed> <during the [Information era]>", "Gain [78] [Culture] <upon founding a city> <on [Blitz] game speed> <during the [Future era]>", 
 			    "Gain [3] [Culture] <upon founding a city> <on [Online] game speed> <for every [Cities]>", 
 			    "Gain [4] [Culture] <upon founding a city> <on [Quick] game speed> <for every [Cities]>",
 			    "Gain [6] [Culture] <upon founding a city> <on [Standard] game speed> <for every [Cities]>",

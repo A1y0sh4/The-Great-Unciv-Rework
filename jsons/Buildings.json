@@ -154,12 +154,9 @@
 		"name": "Pub",
 		"replaces": "Brewery",
 		"uniqueTo": "Celts",
-		"cost": 58,
-		"culture": 2,
-		"happiness": 1,
 		"maintenance": 1,
 		"requiredNearbyImprovedResources": ["Wheat","Maize","Rice"],
-		 "uniques": ["Provides [1] [Beer]", "[+1 Culture] <with [Whisky]>"],
+		 "uniques": ["Provides [1] [Beer]", "[+1 Culture, +1 Happiness] <for every [Beer]>"],
 		"requiredTech": "Fermentation"
 	},
 	{
@@ -174,12 +171,11 @@
 		"name": "Monastery",
 		"replaces": "Wine Cellar",
 		"uniqueTo": "France",
-		"cost": 58,
 		"culture": 1,
 		"faith": 1,
 		"maintenance": 0,
 		"requiredNearbyImprovedResources": ["Grape"],
-		 "uniques": ["Provides [1] [Wine]", "[+1 Gold, +1 Culture] from [Grape] tiles [in this city]"],
+		 "uniques": ["Provides [1] [Wine]", "[+2 Gold, +2 Culture] from [Grape] tiles [in this city]"],
 		"requiredTech": "Fermentation"
 	},
 	{

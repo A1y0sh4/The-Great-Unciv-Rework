@@ -107,6 +107,7 @@
 	"Earn [4]% of the damage done to [Military] units as [Gold] <for [Scout] units> <starting from the [Information era]>",
         "May buy [Temple] buildings with [Faith] [in all cities]",
 	"May buy [Tlachtli] buildings with [Faith] [in all cities]",
+	"[Faith] cost of purchasing [National Wonder] buildings [-10]%",
         "[Faith] cost of purchasing [Faith] buildings [-25]%",
         "[Faith] cost of purchasing [Temple] buildings [-25]%",
 	"[Faith] cost of purchasing [Tlachtli] buildings [-25]%",

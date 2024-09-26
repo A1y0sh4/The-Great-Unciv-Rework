@@ -119,7 +119,7 @@
 		"replaces": "Warrior",
 		"uniqueTo": "Celts",
 		"movement": 3,
-		"strength": 9,
+		"strength": 8,
 		"cost": 35,
 		"obsoleteTech": "Iron Working",
 		"upgradesTo": "Swordsman",

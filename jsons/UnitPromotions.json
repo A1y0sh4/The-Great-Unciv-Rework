@@ -864,7 +864,7 @@
 	},
 	{
 		"name": "Mercenary",
-		"uniques": ["Comment [Can be purchased at 1/3 of the original price]", "Can move immediately once bought", "[+50]% maintenance costs"]
+		"uniques": ["Comment [-25% purchase cost]", "Can move immediately once bought", "[+50]% maintenance costs"]
 	},
 	{
 		"name": "Guerrilla Tactics",

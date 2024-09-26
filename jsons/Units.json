@@ -1043,13 +1043,13 @@
 		"replaces": "Musketman",
 		"cost": 125,
 		"movement": 3,
-		"strength": 22,
+		"strength": 24,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"hurryCostModifier": 20,
-		"uniques": ["Can move after attacking"],
-		"promotions": ["[Mohawk Warrior] ability", "Ambush I"],
+		"uniques": ["Invisible to non-adjacent units", "Can move after attacking"],
+		"promotions": ["[Mohawk Warrior] ability"],
 		"attackSound": "shot"
 	},
 	{

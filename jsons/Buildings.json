@@ -481,7 +481,7 @@
 		"happiness": 1,
 		"science": 1,
 		"culture": 1,
-		"maintenance": 1,
+		"maintenance": 2,
 		"uniques": ["[+33]% Great Person generation [in this city]", "[-33]% Food consumption by specialists [in this city]"],
 		"requiredTech": "Philosophy"
 	},

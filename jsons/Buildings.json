@@ -155,8 +155,9 @@
 		"replaces": "Brewery",
 		"uniqueTo": "Celts",
 		"maintenance": 1,
+		"happiness": 1,
 		"requiredNearbyImprovedResources": ["Wheat","Maize","Rice"],
-		 "uniques": ["Provides [1] [Beer]", "[+1 Culture, +1 Happiness] <for every [Beer]>"],
+		 "uniques": ["Provides [1] [Beer]", "[+1 Culture] <for every [Beer]>", "[+1 Culture] <for every [Whisky]>"],
 		"requiredTech": "Fermentation"
 	},
 	{

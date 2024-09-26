@@ -246,7 +246,7 @@
 	},
 	{
 		"name": "Baray",
-		"replaces": "Aqueduct",
+		"replaces": "Water Mill",
 		"uniqueTo": "Siam",
 		"production": 1,
 		"maintenance": 2,

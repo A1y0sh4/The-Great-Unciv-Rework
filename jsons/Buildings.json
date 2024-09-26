@@ -245,6 +245,16 @@
 		"requiredTech": "The Wheel"
 	},
 	{
+		"name": "Baray",
+		"replaces": "Aqueduct",
+		"uniqueTo": "Siam",
+		"production": 1,
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be next to [Fresh water]", "[+1 Food] from [Fresh water] tiles [in this city]"],
+		"requiredTech": "The Wheel"
+	},
+	{
 		"name": "Walls",
 		"cityStrength": 5,
 		"cityHealth": 25,
@@ -682,19 +692,6 @@
 		"requiredBuilding": "Granary",
 		"uniques": ["[+2 Food] <in tiles without [River]> <hidden from users>", "Comment [Gives addition [Food] to cities without Rivers]"],
 		"requiredTech": "Engineering",
-	},
-	{
-		"name": "Baray",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Siam",
-		"cost": 69,
-		"food": 1,
-		"happiness": 1,
-		"maintenance": 1,
-		"hurryCostModifier": 0,
-		"requiredBuilding": "Granary",
-		"uniques": ["[+10]% [Food] [in this city]", "[+2 Food] <in tiles without [River]> <hidden from users>", "Comment [Gives addition [Food] to cities without Rivers]"],
-		"requiredTech": "Engineering"
 	},
         {
 		"name": "Machu Picchu",

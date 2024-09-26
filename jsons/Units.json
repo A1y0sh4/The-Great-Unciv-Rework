@@ -81,7 +81,7 @@
 		"upgradesTo": "Paratrooper",
 		"obsoleteTech": "Radar",
 		"uniques": ["Transfer Movement to [Civilian]", "[+1] Movement <in [Friendly Land] tiles>", "[+15]% Strength <in [Friendly Land] tiles>"],
-		"promotions": ["Scouting I", "Scouting II"],
+		"promotions": ["Scouting I"],
 		"attackSound": "shot"
 	},
 	{

@@ -252,7 +252,7 @@
 		"happiness": 1,
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["Must be on [Fresh water]", "[+1 Food] from [Fresh Water] tiles [in this city]"],
+		"uniques": ["Must be on [Fresh Water]", "[+1 Food] from [Fresh Water] tiles [in this city]"],
 		"requiredTech": "The Wheel"
 	},
 	{

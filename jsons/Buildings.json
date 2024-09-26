@@ -249,7 +249,6 @@
 		"replaces": "Water Mill",
 		"uniqueTo": "Siam",
 		"production": 1,
-		"happiness": 1,
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"uniques": ["Must be on [Fresh Water]", "[+1 Food] from [Fresh Water] tiles [in this city]"],

@@ -857,9 +857,9 @@
 		"innerColor": [239, 236, 148],
 		
 		"uniqueName": "Ancient Regime",
-		"uniqueText": "Gain +5% [Culture] and [Gold] genaration in capital for every Luxury resource you own",
+		"uniqueText": "Gain +1 [Culture] and [Gold] for every Luxury resource you own",
 		"uniques": [
-			"[+5]% [Culture] [in capital] <for every [Amber]>", "[+5]% [Gold] [in capital] <for every [Amber]>",
+			"[+1 Culture] <for every [Amber]>", "[+5]% [Gold] [in capital] <for every [Amber]>",
 		        "[+5]% [Culture] [in capital] <for every [Beer]>", "[+5]% [Gold] [in capital] <for every [Beer]>",
 		        "[+5]% [Culture] [in capital] <for every [Citrus]>", "[+5]% [Gold] [in capital] <for every [Citrus]>",
 		        "[+5]% [Culture] [in capital] <for every [Cocoa]>", "[+5]% [Gold] [in capital] <for every [Cocoa]>",

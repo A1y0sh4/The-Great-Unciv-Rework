@@ -524,7 +524,7 @@
 	    "Religious": 20
         },
         "uniques": [
-            "[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
+            "[+15]% Strength <for [{Wounded} {Military}] units>",
             "Only available <before adopting [Internationalism]>",
             "Only available <before adopting [Individualism]>"
         ],

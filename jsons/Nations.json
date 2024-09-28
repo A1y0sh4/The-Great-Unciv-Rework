@@ -539,7 +539,7 @@
 		"innerColor": [97, 191, 34],
 		
 		"uniqueName": "Nîhithaw",
-		"uniqueText": "Camps and Pastures base yield becomes [Food] with an additional +1 [Production] after discovering Economics\nGain 25% more yield from Golden Age bonuses",
+		"uniqueText": "Camps and Pastures base yield becomes [Food] (with an additional +1 [Production] after discovering Economics)\nGain 25% more yield from Golden Age bonuses",
 		"uniques": ["[+1 Food, -1 Production] from every [Camp]", "[+1 Food, -1 Production] from every [Pasture]", "[+1 Production] from every [Camp] <after discovering [Economics]>", "[+1 Production] from every [Pasture] <after discovering [Economics]>", "[+5]% [Production] [in all cities] <during a Golden Age>", "[+5]% [Culture] [in all cities] <during a Golden Age>", "[+5]% [Science] [in all cities] <during a Golden Age> <after adopting [Scientific Revolution]>", "[-3]% Unhappiness from [Population] [in all cities] <during a Golden Age> <after discovering [Imperial Games]>"],
 		"cities": ["Mikisiw-Wacîhk","Pihtokahanapiwiyin","Mistahi-Sipihk","Paskwaw-Askhik","Piyesiw-Awasis","Mistawasis","Makwa-Sakahikan","Ka-Peyakwaskonam","Ahtahkakoop","Wihkasko-Kiseyin",
 			"Chemawawin","Ka-kiwistahaw","Ka-ohpawakastahk","Kawacatoose","Kawawachikamach","Kinosew-Sakahikan","Maskotew","Missanabie","Moosomin","Natashquan","Nekaneet",

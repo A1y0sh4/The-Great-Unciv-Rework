@@ -1546,8 +1546,8 @@
 		"innerColor": [80,11,14],
 		
 		"uniqueName": "Golden Liberty",
-		"uniqueText": "+25% [Culture] and [Science] generation in cities following an enhanced religion during a We Love The King Day\nGain +1 [Happiness], +1 [Faith] per every 2 social policies adopted",
-		"uniques": ["[+25]% [Culture] [in all cities in which the majority religion is an enhanced religion] <during We Love The King Day>", "[+25]% [Science] [in all cities in which the majority religion is an enhanced religion] <during We Love The King Day>", "[+1 Happiness, +1 Faith] per [2] social policies adopted"],
+		"uniqueText": "+15% [Culture] and [Science] generation in cities following an enhanced religion during a We Love The King Day\nGain +1 [Happiness], +1 [Faith] per every 2 social policies adopted",
+		"uniques": ["[+15]% [Culture] [in all cities in which the majority religion is an enhanced religion] <during We Love The King Day>", "[+15]% [Science] [in all cities in which the majority religion is an enhanced religion] <during We Love The King Day>", "[+1 Happiness, +1 Faith] per [2] social policies adopted"],
 		"cities": ["Warsaw","Kraków","Łódź","Wroclaw","Poznań","Gdansk","Szczecin","Bydgoszcz","Lublin","Kaunas",
 			"Katowice","Białystok","Gdynia","Świdnica","Częstochowa","Radom","Toruń","Kielce","Gliwice","Klaipėda",
 			"Bytom","Olsztyn","Rzeszów","Ruda Śląska","Bielsko-Biala","Rybnik","Płock","Elbląg","Gorzów Wielkopolski","Opole",

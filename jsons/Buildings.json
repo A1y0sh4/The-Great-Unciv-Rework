@@ -986,13 +986,11 @@
 		"replaces": "Armory",
 		"uniqueTo": "Poland",
 		"cityHealth": 25,
-		"production": 1,
-		"gold": 2,
 		"maintenance": 0,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Barracks",
                 "greatPersonPoints": {"Great General": 1},
-		"uniques": ["New [{Land} {Military}] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["New [{Land} {Military}] units start with [15] Experience [in this city]", "[+1 Gold] per [2] social policies adopted", "Destroyed when the city is captured"],
 		"requiredTech": "Metal Casting"
 	},
 

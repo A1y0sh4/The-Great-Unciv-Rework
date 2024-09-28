@@ -857,8 +857,8 @@
 		"innerColor": [239, 236, 148],
 		
 		"uniqueName": "Ancient Regime",
-		"uniqueText": "+15% [Culture] and +15% [Science] in cities with a World Wonder during a We Love The King Day\nWonders yield an additional +1 [Culture]",
-		"uniques": ["[+15]% [Culture] [in all cities with a world wonder] <during We Love The King Day>", "[+15]% [Science] [in all cities with a world wonder] <during We Love The King Day>", "[+1 Culture] from every [Wonder]"],
+		"uniqueText": "Gain +4% [Culture] and [Gold] genaration in capital for every Luxury resource you own",
+		"uniques": ["[+4]% [Culture] [in capital] <for every [countable]>"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
@@ -1510,8 +1510,8 @@
 		"innerColor": [80,11,14],
 		
 		"uniqueName": "Golden Liberty",
-		"uniqueText": "May buy Great People with [Faith] in all cities following an enhanced religion after discovering Theology\nGain +1 [Faith], +1 [Culture] in all cities following an enhanced religion",
-		"uniques": ["[+25]% [Culture] [in all cities in which the majority religion is an enhanced religion] <during We Love The King Day>", "[+25]% [Science] [in all cities in which the majority religion is an enhanced religion] <during We Love The King Day>", "May buy [Great Person] units for [1000] [Faith] [in all cities in which the majority religion is an enhanced religion] at an increasing price ([500]) <after discovering [Theology]>", "[+1 Faith, +1 Culture] [in all cities in which the majority religion is an enhanced religion]"],
+		"uniqueText": "+25% [Culture] and [Science] generation in cities following an enhanced religion during a We Love The King Day\nGain +1 [Happiness], +1 [Faith] per every 2 social policies adopted",
+		"uniques": ["[+25]% [Culture] [in all cities in which the majority religion is an enhanced religion] <during We Love The King Day>", "[+25]% [Science] [in all cities in which the majority religion is an enhanced religion] <during We Love The King Day>", "[+1 Happiness, +1 Faith] per [2] social policies adopted"],
 		"cities": ["Warsaw","Kraków","Łódź","Wroclaw","Poznań","Gdansk","Szczecin","Bydgoszcz","Lublin","Kaunas",
 			"Katowice","Białystok","Gdynia","Świdnica","Częstochowa","Radom","Toruń","Kielce","Gliwice","Klaipėda",
 			"Bytom","Olsztyn","Rzeszów","Ruda Śląska","Bielsko-Biala","Rybnik","Płock","Elbląg","Gorzów Wielkopolski","Opole",

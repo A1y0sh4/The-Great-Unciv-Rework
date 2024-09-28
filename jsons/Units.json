@@ -1483,13 +1483,13 @@
 		"replaces": "Rifleman",
 		"uniqueTo": "France",
 		"movement": 2,
-		"strength": 34,
-		"cost": 200,
+		"strength": 36,
+		"cost": 180,
 		"requiredTech": "Rifling",
 		"upgradesTo": "Great War Infantry",
 		"obsoleteTech": "Replaceable Parts",
-		"uniques": ["[+10]% Strength <when fighting in [Foreign Land] tiles>", "[+50]% XP gained from combat <in [Foreign Land] tiles>"],
-		"promotions": ["Pride", "Mercenary"],
+		"uniques": ["[+15]% Strength <when fighting in [Foreign Land] tiles>"],
+		"promotions": ["Mercenary"],
 		"attackSound": "shot"
 	},
 	{

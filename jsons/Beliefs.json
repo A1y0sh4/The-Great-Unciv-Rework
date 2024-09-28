@@ -45,12 +45,12 @@
     {
         "name": "Goddess of Festivals",
         "type": "Pantheon",
-        "uniques": ["[+4]% [Culture] [in this city] <with [Beer]>",
-                    "[+4]% [Culture] [in this city] <with [Wine]>",
-                    "[+4]% [Culture] [in this city] <with [Rum]>",
-                    "[+4]% [Culture] [in this city] <with [Whisky]>",
-                    "[+4]% [Culture] [in this city] <with [Vodka]>",
-                    "[+4]% [Culture] [in this city] <with [Cognac]>"]
+        "uniques": ["[+5]% [Culture] [in this city] <with [Beer]>",
+                    "[+5]% [Culture] [in this city] <with [Wine]>",
+                    "[+5]% [Culture] [in this city] <with [Rum]>",
+                    "[+5]% [Culture] [in this city] <with [Whisky]>",
+                    "[+5]% [Culture] [in this city] <with [Vodka]>",
+                    "[+5]% [Culture] [in this city] <with [Cognac]>"]
     },
     {
         "name": "Goddess of Love",
@@ -295,12 +295,12 @@
     {
         "name": "Religious Teetotality",
         "type": "Follower",
-        "uniques": ["[+4]% [Faith] [in this city] <without [Beer]>",
-                    "[+4]% [Faith] [in this city] <without [Wine]>",
-                    "[+4]% [Faith] [in this city] <without [Rum]>",
-                    "[+4]% [Faith] [in this city] <without [Whisky]>",
-                    "[+4]% [Faith] [in this city] <without [Vodka]>",
-                    "[+4]% [Faith] [in this city] <without [Cognac]>"]
+        "uniques": ["[+5]% [Faith] [in this city] <without [Beer]>",
+                    "[+5]% [Faith] [in this city] <without [Wine]>",
+                    "[+5]% [Faith] [in this city] <without [Rum]>",
+                    "[+5]% [Faith] [in this city] <without [Whisky]>",
+                    "[+5]% [Faith] [in this city] <without [Vodka]>",
+                    "[+5]% [Faith] [in this city] <without [Cognac]>"]
     },
     {
         "name": "Swords into Ploughshares",

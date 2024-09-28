@@ -138,7 +138,7 @@
 	    "Religious": 0
         },
         "uniques": [
-                "Notified of new Barbarian encampments", "[+50]% Strength <vs [Barbarian] units>"
+                "Notified of new Barbarian encampments", "Comment [+33% Strength vs Barbarians and City-States units]", "[+33]% Strength <vs [Barbarian] units> <hidden from users>", "[+33]% Strength <vs [City-States]> <hidden from users>"
         ],
         "policies": [
             {

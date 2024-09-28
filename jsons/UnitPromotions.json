@@ -800,7 +800,7 @@
 	},
 	{
 		"name": "[Mohawk Warrior] ability",
-		"uniques": ["[+33]% Strength <when fighting in [Forest] tiles>", "[+33]% Strength <when fighting in [Jungle] tiles>"]
+		"uniques": ["[+25]% Strength <when fighting in [Forest] tiles>", "[+25]% Strength <when fighting in [Jungle] tiles>"]
 	},
 	{
 		"name": "[Jaguar] ability",
@@ -836,7 +836,7 @@
 	},
 	{
 		"name": "[Hussar] ability",
-		"uniques": ["[+100]% to Flank Attack bonuses"]
+		"uniques": ["[+50]% to Flank Attack bonuses", "Ignores Zone of Control"]
 	},
 	{
 		"name": "[Zero] ability",
@@ -916,7 +916,7 @@
 	},
 	{
 		"name": "Civilized",
-		"uniques": ["[+25]% Strength <vs [Barbarian] units>"] 
+		"uniques": ["[+20]% Strength <vs [Barbarian] units>"] 
 	},
 	{
 		"name": "Organized Warfare",

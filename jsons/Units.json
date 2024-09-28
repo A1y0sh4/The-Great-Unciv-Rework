@@ -185,7 +185,7 @@
 	{
 		"name": "Atlatlist",
 		"unitType": "Scout",
-		"cost": 55,
+		"cost": 60,
 		"movement": 2,
 		"strength": 7,
 		"rangedStrength": 11,

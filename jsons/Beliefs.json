@@ -25,12 +25,12 @@
     {
         "name": "Earth Mother",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith, +1 Gold] from every [Salt]", "[+1 Faith, +1 Gold] from every [Copper]", "[+1 Faith, +1 Gold] from every [Iron]"]
+        "uniques": ["Comment [+1 [Faith], +1 [Gold] from every [Salt], [Copper], [Iron]]", "[+1 Faith, +1 Gold] from every [Salt] <hidden from users>", "[+1 Faith, +1 Gold] from every [Copper] <hidden from users>", "[+1 Faith, +1 Gold] from every [Iron] <hidden from users>"]
     },
     {
         "name": "Eleusinian Mysteries",
         "type": "Pantheon",
-        "uniques": ["[+1 Food] from every [Wheat]", "[+1 Food] from every [Grape]", "[+1 Food] from every [Poppy]"]
+        "uniques": ["Comment [+1 [Food] from every [Wheat], [Grape], [Poppy]]", "[+1 Food] from every [Wheat] <hidden from users>", "[+1 Food] from every [Grape] <hidden from users>", "[+1 Food] from every [Poppy] <hidden from users>"]
     },
     {
         "name": "Faith Healers",
@@ -45,12 +45,13 @@
     {
         "name": "Goddess of Festivals",
         "type": "Pantheon",
-        "uniques": ["[+5]% [Culture] [in this city] <with [Beer]>",
-                    "[+5]% [Culture] [in this city] <with [Wine]>",
-                    "[+5]% [Culture] [in this city] <with [Rum]>",
-                    "[+5]% [Culture] [in this city] <with [Whisky]>",
-                    "[+5]% [Culture] [in this city] <with [Vodka]>",
-                    "[+5]% [Culture] [in this city] <with [Cognac]>"]
+        "uniques": ["Comment [+5% [Culture] in this city for every Alcohol Luxury type you own]",
+                    "[+5]% [Culture] [in this city] <with [Beer]> <hidden from users>",
+                    "[+5]% [Culture] [in this city] <with [Wine]> <hidden from users>",
+                    "[+5]% [Culture] [in this city] <with [Rum]> <hidden from users>",
+                    "[+5]% [Culture] [in this city] <with [Whisky]> <hidden from users>",
+                    "[+5]% [Culture] [in this city] <with [Vodka]> <hidden from users>",
+                    "[+5]% [Culture] [in this city] <with [Cognac]> <hidden from users>"]
     },
     {
         "name": "Goddess of Love",
@@ -100,12 +101,12 @@
     {
         "name": "Nature Shamans",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from every [Rare feature]", "[+1 Faith] from every [Natural Wonder]"]
+        "uniques": ["[+1 Faith] from every [Rare feature]"]
     },
     {
         "name": "One with Nature",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from [Resource] tiles [in this city]", "[-1 Faith] from [Improvement] tiles [in this city] <in [Resource] tiles>"]
+        "uniques": ["Comment [+1 [Faith] from Unimproved Resource tiles in this city]", "[+1 Faith] from [Resource] tiles [in this city] <hidden from users>", "[-1 Faith] from [Improvement] tiles [in this city] <in [Resource] tiles> <hidden from users>"]
     },
     {
         "name": "Oracles of the Mountains",
@@ -295,12 +296,13 @@
     {
         "name": "Religious Teetotality",
         "type": "Follower",
-        "uniques": ["[+5]% [Faith] [in this city] <without [Beer]>",
-                    "[+5]% [Faith] [in this city] <without [Wine]>",
-                    "[+5]% [Faith] [in this city] <without [Rum]>",
-                    "[+5]% [Faith] [in this city] <without [Whisky]>",
-                    "[+5]% [Faith] [in this city] <without [Vodka]>",
-                    "[+5]% [Faith] [in this city] <without [Cognac]>"]
+        "uniques": ["Comment [+5% [Faith] in this city for every Alcohol Luxury type you don't own]",
+                    "[+5]% [Faith] [in this city] <without [Beer]> <hidden from users>",
+                    "[+5]% [Faith] [in this city] <without [Wine]> <hidden from users>",
+                    "[+5]% [Faith] [in this city] <without [Rum]> <hidden from users>",
+                    "[+5]% [Faith] [in this city] <without [Whisky]> <hidden from users>",
+                    "[+5]% [Faith] [in this city] <without [Vodka]> <hidden from users>",
+                    "[+5]% [Faith] [in this city] <without [Cognac]> <hidden from users>"]
     },
     {
         "name": "Swords into Ploughshares",
@@ -354,12 +356,12 @@
     {
         "name": "Holy Alliance",
         "type": "Enhancer",
-        "uniques": ["Gain [150] [Gold] <upon declaring friendship> <(modified by game speed)>", "Gain [150] [Gold] <upon declaring a defensive pact> <(modified by game speed)>"]
+        "uniques": ["Comment [Gain 150 [Gold] upon declaring friendship or upon declaring a defensive pact (modified by game speed)]", "Gain [150] [Gold] <upon declaring friendship> <(modified by game speed)> <hidden from users>", "Gain [150] [Gold] <upon declaring a defensive pact> <(modified by game speed)> <hidden from users>"]
     },
     {
         "name": "Holy Order",
         "type": "Enhancer",
-        "uniques": ["[Faith] cost of purchasing [Missionary] units [-33]%", "[Faith] cost of purchasing [Inquisitor] units [-33]%"]
+        "uniques": ["Comment [+33% [Faith] cost of purchasing [Missionary], [Inquisitor]]", "[Faith] cost of purchasing [Missionary] units [-33]% <hidden from users>", "[Faith] cost of purchasing [Inquisitor] units [-33]% <hidden from users>"]
     },
     {
         "name": "Inquisition Tribunals",

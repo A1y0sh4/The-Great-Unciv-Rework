@@ -76,7 +76,7 @@
 		"uniqueTo": "America",
 		"movement": 2,
 		"strength": 21,
-		"cost": 115,
+		"cost": 120,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Paratrooper",
 		"obsoleteTech": "Radar",

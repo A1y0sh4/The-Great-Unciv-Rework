@@ -138,7 +138,7 @@
 	    "Religious": 0
         },
         "uniques": [
-                "Notified of new Barbarian encampments", "[+15]% Strength <for [Wounded] units>"
+                "Notified of new Barbarian encampments", "[+50]% Strength <vs [Barbarian] units>"
         ],
         "policies": [
             {
@@ -497,7 +497,7 @@
             {
                 "name": "Democracy",
                 "uniques": [
-                    "[Faith] cost of purchasing [Great Person] units [-33]%"
+                    "[Faith] cost of purchasing [Great Person] units [-25]%"
                 ],
                 "requires": ["Universal Suffrage", "Free Speech"],
                 "row": 3,
@@ -566,7 +566,7 @@
             },
             {
                 "name": "Total War",
-                "uniques": ["[+33]% Strength <for [Military] units> <when attacking>"],
+                "uniques": ["[+25]% Strength <for [Military] units> <when attacking>"],
                 "requires": ["Autarky", "Police State"],
                 "row": 3,
                 "column": 3

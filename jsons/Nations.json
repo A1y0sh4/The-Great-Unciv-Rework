@@ -1511,7 +1511,7 @@
 		
 		"uniqueName": "Golden Liberty",
 		"uniqueText": "May buy Great People with [Faith] in all cities following an enhanced religion after discovering Theology\nGain +1 [Faith], +1 [Culture] in all cities following an enhanced religion",
-		"uniques": ["May buy [Great Person] units for [1000] [Faith] [in all cities in which the majority religion is an enhanced religion] at an increasing price ([500]) <after discovering [Theology]>", "[+1 Faith, +1 Culture] [in all cities in which the majority religion is an enhanced religion]"],
+		"uniques": ["[+25]% [Culture] [in all cities in which the majority religion is an enhanced religion] <during We Love The King Day>", "[+25]% [Science] [in all cities in which the majority religion is an enhanced religion] <during We Love The King Day>", "May buy [Great Person] units for [1000] [Faith] [in all cities in which the majority religion is an enhanced religion] at an increasing price ([500]) <after discovering [Theology]>", "[+1 Faith, +1 Culture] [in all cities in which the majority religion is an enhanced religion]"],
 		"cities": ["Warsaw","Kraków","Łódź","Wroclaw","Poznań","Gdansk","Szczecin","Bydgoszcz","Lublin","Kaunas",
 			"Katowice","Białystok","Gdynia","Świdnica","Częstochowa","Radom","Toruń","Kielce","Gliwice","Klaipėda",
 			"Bytom","Olsztyn","Rzeszów","Ruda Śląska","Bielsko-Biala","Rybnik","Płock","Elbląg","Gorzów Wielkopolski","Opole",

@@ -297,7 +297,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Engineer": 3},
 		"isWonder": true,
-		"uniques": ["Must be next to [Desert]", "Must not be on [Hill]", "[-25]% construction time for [All] improvements", "[1] free [Worker] units appear"],
+		"uniques": ["Must have an owned [Desert] within [1] tiles", "Must not be on [Hill]", "[-25]% construction time for [All] improvements", "[1] free [Worker] units appear"],
 		"requiredTech": "Masonry",
 		"quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge"
 	},
@@ -370,7 +370,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Lighthouse",
 		"greatPersonPoints": {"Great Merchant": 1},
-		"uniques": ["[+1 Production] from [Fishing Boats] tiles [in this city]", "[+1 Production] from [Atoll] tiles [in this city]",
+		"uniques": ["[+1 Production] from [Fishing Boats] tiles [in this city]",
 			"Connects trade routes over water", "Must be next to [Water]", "New [{Water} {Military}] units start with [15] Experience [in this city]"],
 		"requiredTech": "Shipbuilding"
 	},
@@ -552,7 +552,7 @@
 		"faith": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 3},
-		"uniques": ["Must have an owned [Lake] within [1] tiles", "[+1 Food, +1 Production] from every [Rare feature]", "Gain a free [Colosseum] [in this city]"],
+		"uniques": ["Must have an owned [Rare feature] within [1] tiles", "[+1 Food, +1 Production] from every [Rare feature]", "Gain a free [Colosseum] [in this city]"],
 		"requiredTech": "Spirituality",
 		"quote": "'But the wrath of Huitzilopochtli was great, and as the sacrifice passed each of the four rooms dedicated to the sun god, the sun disappeared or reappeared in the sky.' - Fray Diego Durán"
 	},
@@ -659,7 +659,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 3},
-		"uniques": ["Must be next to [Desert]", "[+1 Food, +1 Production, +1 Gold] from [Desert] tiles without [Flood plains] [in this city]", "[+6 Culture] [in this city] <after discovering [Archaeology]>"],
+		"uniques": ["Must have an owned [Desert] within [1] tiles", "[+1 Food, +1 Production, +1 Gold] from [Desert] tiles without [Flood plains] [in this city]", "[+6 Culture] [in this city] <after discovering [Archaeology]>"],
 		"requiredTech": "Mathematics",
 		"quote": "'...who drinks the water I shall give him, says the Lord, will have a spring inside him welling up for eternal life. Let them bring me to your holy mountain in the place where you dwell. Across the desert and through the mountain to the Canyon of the Crescent Moon...' - Indiana Jones"
 	},
@@ -743,7 +743,7 @@
 		"faith": 3,
 		"greatPersonPoints": {"Great Engineer": 3},
 		"isWonder": true,
-		"uniques": ["Must be next to [Desert]", "Gain a free [Mosque] [in this city]", "Comment [+1 [Science] per every 100 [Faith] in your reserves (modified by game speed)]",
+		"uniques": ["Must have an owned [Desert] within [1] tiles", "Gain a free [Mosque] [in this city]", "Comment [+1 [Science] per every 100 [Faith] in your reserves (modified by game speed)]",
 			    "[+1 Science] <for every [33] [Faith]> <on [Blitz] game speed> <hidden from users>", 
 			    "[+1 Science] <for every [50] [Faith]> <on [Online] game speed> <hidden from users>", 
 			    "[+1 Science] <for every [67] [Faith]> <on [Quick] game speed> <hidden from users>", 

@@ -872,11 +872,11 @@
 	},
 	{
 		"name": "Buffalo Horns I", // only for Ikanda
-		"uniques": ["[+25]% to Flank Attack bonuses", "[+10]% Strength <when defending> <vs [Ranged] units>"],
+		"uniques": ["[+25]% to Flank Attack bonuses", "[+20]% Strength <when defending> <vs [Ranged] units>"],
 	},
 	{
 		"name": "Buffalo Chest II",
-		"uniques": ["[+25]% to Flank Attack bonuses", "[+10]% Strength <when fighting in [Open terrain] tiles>"],
+		"uniques": ["[+25]% to Flank Attack bonuses", "[+20]% Strength <when fighting in [Open terrain] tiles>"],
 		"prerequisites": ["Buffalo Horns I"],
 		"unitTypes": ["Sword"]
 	},

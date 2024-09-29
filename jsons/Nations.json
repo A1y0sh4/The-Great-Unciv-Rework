@@ -857,7 +857,7 @@
 		"innerColor": [239, 236, 148],
 		
 		"uniqueName": "Ancient Regime",
-		"uniqueText": "Gain +1 [Culture] and +1 [Gold] in capitalfor every Luxury resource you own\nMilitary units gain a bit more of XP for every Luxury resource you own (both when built or when fighting)",
+		"uniqueText": "Gain +1 [Culture] and +1 [Gold] in capital for every Luxury resource you own\nMilitary units gain a bit more of XP for every Luxury resource you own (both when built or when fighting)",
 		"uniques": [
 			"[+1 Culture, +1 Gold] [in capital] <for every [Amber]>", "[+3]% XP gained from combat <for [Military] units> <for every [Amber]>", "New [Military] units start with [1] Experience [in all cities] <for every [Amber]>",
 		        "[+1 Culture, +1 Gold] [in capital] <for every [Beer]>", "[+3]% XP gained from combat <for [Military] units> <for every [Beer]>", "New [Military] units start with [1] Experience [in all cities] <for every [Beer]>",

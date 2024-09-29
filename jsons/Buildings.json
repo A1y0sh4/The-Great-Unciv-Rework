@@ -174,10 +174,9 @@
 		"replaces": "Wine Cellar",
 		"uniqueTo": "France",
 		"culture": 1,
-		"faith": 1,
-		"maintenance": 0,
+		"maintenance": 1,
 		"requiredNearbyImprovedResources": ["Grape"],
-		 "uniques": ["Provides [1] [Wine]", "[+2 Gold, +2 Culture] from [Grape] tiles [in this city]"],
+		 "uniques": ["Provides [2] [Wine]", "[+1 Culture, +1 Faith] from [Grape] tiles [in this city]"],
 		"requiredTech": "Fermentation"
 	},
 	{

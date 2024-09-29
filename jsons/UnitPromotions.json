@@ -832,7 +832,7 @@
 	},
 	{
 		"name": "[Cossack] ability",
-		"uniques": ["Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>"]
+		"uniques": ["Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>", "[+1] Movement", "Ignores Zone of Control"]
 	},
 	{
 		"name": "[Hussar] ability",

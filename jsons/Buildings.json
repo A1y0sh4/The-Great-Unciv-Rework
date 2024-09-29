@@ -322,16 +322,6 @@
 		"requiredTech": "Bronze Working"
 	},
 	{
-		"name": "Ikanda", 
-		"replaces": "Barracks",
-		"uniqueTo": "Zulu",
-		"food": 1,
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"uniques": ["New [{Land} {Military}] units start with [15] Experience [in this city]", "All newly-trained [Sword] units [in this city] receive the [Buffalo Horns I] promotion", "Destroyed when the city is captured"],
-		"requiredTech": "Bronze Working"
-	},
-	{
 		"name": "Statue of Zeus",
 		"culture": 1,
 		"isWonder": true,
@@ -990,6 +980,17 @@
 		"requiredBuilding": "Barracks",
                 "greatPersonPoints": {"Great General": 1},
 		"uniques": ["New [{Land} {Military}] units start with [15] Experience [in this city]", "[+1 Gold] per [2] social policies adopted", "Destroyed when the city is captured"],
+		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Ikanda", 
+		"replaces": "Armory",
+		"uniqueTo": "Zulu",
+		"food": 2,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Barracks",
+		"maintenance": 1,
+		"uniques": ["New [{Land} {Military}] units start with [15] Experience [in this city]", "All newly-trained [Sword] units [in this city] receive the [Buffalo Horns I] promotion", "Destroyed when the city is captured"],
 		"requiredTech": "Metal Casting"
 	},
 

@@ -261,12 +261,12 @@
     {
         "name": "Holy Warriors",
         "type": "Follower",
-        "uniques": ["Comment [May buy Military Land units with [Faith] before the Industrial era]", "May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]> <hidden from users>"]
+        "uniques": ["Comment [May buy Military Land units with [Faith] in cities following this religion before the Industrial era]", "May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]> <hidden from users>"]
     },
     {
         "name": "Jesuit Education",
         "type": "Follower",
-        "uniques": ["Comment [May buy [Library], [University], [Public School] with [Faith]]", "May buy [Library] buildings with [Faith] for [2] times their normal Production cost <hidden from users>", "May buy [University] buildings with [Faith] for [2] times their normal Production cost <hidden from users>", "May buy [Public School] buildings with [Faith] for [2] times their normal Production cost <hidden from users>"]
+        "uniques": ["Comment [May buy [Library], [University], [Public School] with [Faith] in cities following this religion]", "May buy [Library] buildings with [Faith] for [2] times their normal Production cost <hidden from users>", "May buy [University] buildings with [Faith] for [2] times their normal Production cost <hidden from users>", "May buy [Public School] buildings with [Faith] for [2] times their normal Production cost <hidden from users>"]
     },
     {
         "name": "Liturgical Drama",
@@ -281,7 +281,7 @@
     {
         "name": "Religious Art",
         "type": "Follower",
-        "uniques": ["Comment [May buy [Monument], [Amphitheater], [Opera House] with [Faith]]", "May buy [Monument] buildings with [Faith] for [2] times their normal Production cost <hidden from users>", "May buy [Amphitheater] buildings with [Faith] for [2] times their normal Production cost <hidden from users>", "May buy [Opera House] buildings with [Faith] for [2] times their normal Production cost <hidden from users>"]
+        "uniques": ["Comment [May buy [Monument], [Amphitheater], [Opera House] with [Faith] in cities following this religion]", "May buy [Monument] buildings with [Faith] for [2] times their normal Production cost <hidden from users>", "May buy [Amphitheater] buildings with [Faith] for [2] times their normal Production cost <hidden from users>", "May buy [Opera House] buildings with [Faith] for [2] times their normal Production cost <hidden from users>"]
     },
     {
         "name": "Religious Center",
@@ -392,7 +392,7 @@
     {
         "name": "Religious Settlements",
         "type": "Enhancer",
-        "uniques": ["Comment [May buy [Worker], [Settler] with [Faith] before the Industrial era]", "May buy [Settler] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]> <hidden from users>", "May buy [Worker] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]> <hidden from users>"]
+        "uniques": ["Comment [May buy [Worker], [Settler] with [Faith] in cities following this religion before the Industrial era]", "May buy [Settler] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]> <hidden from users>", "May buy [Worker] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]> <hidden from users>"]
     },
     {
         "name": "Religious Texts",

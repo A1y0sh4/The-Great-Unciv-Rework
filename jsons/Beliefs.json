@@ -15,12 +15,12 @@
     {
         "name": "Dance of the Aurora",
         "type": "Pantheon",
-        "uniques": ["[+2 Food, +1 Culture, +1 Faith] in cities on [Tundra] tiles"]
+        "uniques": ["Comment [+1 boost to all yields of cities on [Tundra] tiles]", "[+1 Food, +1 Production, +1 Gold, +1 Science, +1 Culture, +1 Faith] in cities on [Tundra] tiles <hidden from users>"]
     },
     {
         "name": "Desert Folklore",
         "type": "Pantheon",
-        "uniques": ["[+2 Food, +1 Culture, +1 Faith] in cities on [Desert] tiles"]
+        "uniques": ["Comment [+1 boost to all yields of cities on [Desert] tiles]", "[+1 Food, +1 Production, +1 Gold, +1 Science, +1 Culture, +1 Faith] in cities on [Desert] tiles <hidden from users>"]
     },
     {
         "name": "Earth Mother",
@@ -149,7 +149,7 @@
     {
         "name": "Asceticism",
         "type": "Founder",
-        "uniques": ["[-1] Happiness from each type of luxury resource", "[+1 Happiness, +1 Faith] from every specialist [in cities following this religion]",
+        "uniques": ["Comment [+1 [Happiness], +1 [Faith] from specialists, but Luxuries offer -1 [Happiness] than usual]", "[-1] Happiness from each type of luxury resource <hidden from users>", "[+1 Happiness, +1 Faith] from every specialist [in cities following this religion] <hidden from users>",
                     "[+1 Culture] for each global city following this religion <for [Byzantium]> <hidden from users>"]
     },
     {
@@ -261,12 +261,12 @@
     {
         "name": "Holy Warriors",
         "type": "Follower",
-        "uniques": ["May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>"]
+        "uniques": ["Comment [May buy Military Land units with [Faith] before the Industrial era]", "May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]> <hidden from users>"]
     },
     {
         "name": "Jesuit Education",
         "type": "Follower",
-        "uniques": ["May buy [Library] buildings with [Faith] for [2] times their normal Production cost", "May buy [University] buildings with [Faith] for [2] times their normal Production cost", "May buy [Public School] buildings with [Faith] for [2] times their normal Production cost"]
+        "uniques": ["Comment [May buy [Library], [University], [Public School] with [Faith]]", "May buy [Library] buildings with [Faith] for [2] times their normal Production cost <hidden from users>", "May buy [University] buildings with [Faith] for [2] times their normal Production cost <hidden from users>", "May buy [Public School] buildings with [Faith] for [2] times their normal Production cost <hidden from users>"]
     },
     {
         "name": "Liturgical Drama",
@@ -281,7 +281,7 @@
     {
         "name": "Religious Art",
         "type": "Follower",
-        "uniques": ["May buy [Monument] buildings with [Faith] for [2] times their normal Production cost", "May buy [Amphitheater] buildings with [Faith] for [2] times their normal Production cost", "May buy [Opera House] buildings with [Faith] for [2] times their normal Production cost"]
+        "uniques": ["Comment [May buy [Monument], [Amphitheater], [Opera House] with [Faith]]", "May buy [Monument] buildings with [Faith] for [2] times their normal Production cost <hidden from users>", "May buy [Amphitheater] buildings with [Faith] for [2] times their normal Production cost <hidden from users>", "May buy [Opera House] buildings with [Faith] for [2] times their normal Production cost <hidden from users>"]
     },
     {
         "name": "Religious Center",
@@ -392,7 +392,7 @@
     {
         "name": "Religious Settlements",
         "type": "Enhancer",
-        "uniques": ["May buy [Settler] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>", "May buy [Worker] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>"]
+        "uniques": ["Comment [May buy [Worker], [Settler] with [Faith] before the Industrial era]", "May buy [Settler] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]> <hidden from users>", "May buy [Worker] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]> <hidden from users>"]
     },
     {
         "name": "Religious Texts",

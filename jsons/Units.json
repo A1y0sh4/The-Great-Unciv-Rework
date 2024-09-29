@@ -1259,7 +1259,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Founds a new city <once> <for [1] movement>"],
-		"promotions": ["[Cossack] ability", "Mobility", "Mercenary"],
+		"promotions": ["[Cossack] ability", "Mercenary"],
 		"attackSound": "horse"
 	},
 	{

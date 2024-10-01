@@ -338,7 +338,7 @@
             "Scientific": 20,
 	    "Religious": 10
         },
-        "uniques": ["Comment [+1 [Production], +1 [Gold] in all cities connected to capital, in costal cities or on foreign continents]", "[+1 Production, +2 Gold] [in all cities connected to capital] <hidden from users>", "[+1 Production, +2 Gold] [in all coastal cities] <hidden from users>", "[+1 Production, +2 Gold] [in all cities] <on foreign continents> <hidden from users>"],
+        "uniques": ["Comment [+1 [Production], +2 [Gold] in all cities connected to capital, in costal cities or on foreign continents]", "[+1 Production, +2 Gold] [in all cities connected to capital] <hidden from users>", "[+1 Production, +2 Gold] [in all coastal cities] <hidden from users>", "[+1 Production, +2 Gold] [in all cities] <on foreign continents> <hidden from users>"],
         "policies": [
             {
                 "name": "Mercantilism",

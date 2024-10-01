@@ -338,7 +338,7 @@
             "Scientific": 20,
 	    "Religious": 10
         },
-        "uniques": ["[+25]% [Gold] [in capital]", "[+1 Production] [in all cities connected to capital]", "[+1 Production] [in all cities] <on foreign continents>"],
+        "uniques": ["Comment [+1 [Production], +1 [Gold] in all cities connected to capital, in costal cities or on foreign continents]", "[+1 Production, +2 Gold] [in all cities connected to capital] <hidden from users>", "[+1 Production, +2 Gold] [in all coastal cities] <hidden from users>", "[+1 Production, +2 Gold] [in all cities] <on foreign continents> <hidden from users>"],
         "policies": [
             {
                 "name": "Mercantilism",
@@ -566,7 +566,7 @@
             },
             {
                 "name": "Total War",
-                "uniques": ["[+25]% Strength <for [Military] units> <when attacking>"],
+                "uniques": ["[+15]% Production when constructing [Military] units [in this city]", "[+15]% Strength <for [Military] units> <when attacking>"],
                 "requires": ["Autarky", "Police State"],
                 "row": 3,
                 "column": 3

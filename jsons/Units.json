@@ -238,7 +238,7 @@
 		"unitType": "Melee Water",
 		"uniqueTo": "Carthage",
 		"replaces": "Trireme",
-		"cost": 80,
+		"cost": 73,
 		"movement": 3,
 		"strength": 16,
 		"requiredTech": "Shipbuilding",

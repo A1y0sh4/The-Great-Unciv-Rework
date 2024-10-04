@@ -571,7 +571,7 @@
 		"innerColor": [255,255,102],
 		
 		"uniqueName": "Viking Fury",
-		"uniqueText": "All units embark and disembark using only 1 movement point\n Military units don't use movement points to pillage and don't suffer from water attack maluses\nAll units can enter Ocean tiles upon entering the Medieval era",
+		"uniqueText": "All units embark and disembark using only 1 movement point\nMilitary units don't use movement points to pillage and don't suffer from water attack maluses\nAll units can enter Ocean tiles upon entering the Medieval era",
 		"uniques": ["No movement cost to pillage <for [Military] units>", "[{Military} {Land}] units gain the [Amphibious] promotion", "[1] Movement point cost to embark <for [All] units>", "[1] Movement point cost to disembark <for [All] units>", "Enables [All] units to enter ocean tiles <starting from the [Medieval era]>",
 		], 
 		"cities": ["Copenhagen","Aarhus","Kaupang","Ribe","Viborg","Tunsbers","Roskilde","Hedeby","Jelling","Truso",

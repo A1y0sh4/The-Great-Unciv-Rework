@@ -300,7 +300,6 @@
 		"strength": 8,
 		"rangedStrength": 9,
 		"requiredTech": "The Wheel",
-		"requiredResource": "Horses",
 		"obsoleteTech": "Chivalry",
 		"upgradesTo": "Horseman",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>"],

@@ -886,7 +886,7 @@
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
-		"uniques": ["Ranged attacks may be performed over obstacles"],
+		"uniques": ["Ranged attacks may be performed over obstacles", "Double movement in [Rough terrain]"],
 		"attackSound": "arrow"
 	},
 	{

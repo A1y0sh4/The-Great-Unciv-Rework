@@ -866,7 +866,7 @@
 		"cost": 60,
 		"movement": 2,
 		"strength": 7,
-		"rangedStrength": 7,
+		"rangedStrength": 9,
 		"replaces": "Composite Bowman",
 		"requiredTech": "Construction",
 		"upgradesTo": "Crossbowman",

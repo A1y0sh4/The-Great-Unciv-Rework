@@ -766,8 +766,8 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Sun Never Sets",
-		"uniqueText": "Military units are +10% stronger when fighting on water or on foreign continents\nResources on water or on foreign continents yield an additional +1 [Production] and +1 [Gold] once you discover Navigation",
-		"uniques": ["[+10]% Strength <for [Military] units> <on foreign continents>", "[+1 Production, +1 Gold] from every [Resource] <on foreign continents> <after discovering [Navigation]>"],
+		"uniqueText": "Military units are +15% stronger when fighting on water or on foreign continents\nResources on water or on foreign continents yield an additional +1 [Gold]",
+		"uniques": ["[+15]% Strength <for [Military] units> <on foreign continents>", "[+1 Gold] from every [Resource] <on foreign continents>"],
 		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",

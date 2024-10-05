@@ -228,7 +228,7 @@
 		"strength": 14,
 		"cost": 73,
 		"requiredTech": "Shipbuilding",
-		"uniques": ["Can carry [2] [Carriable] units", "Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"

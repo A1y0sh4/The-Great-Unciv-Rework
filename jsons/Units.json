@@ -1503,7 +1503,7 @@
 		"requiredResource": "Oil",
 		"upgradesTo": "Fighter",
 		"obsoleteTech": "Radar",
-		"uniques": ["[50]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>", "Destroys tile improvements when attacking"],
+		"uniques": ["[50]% chance to intercept air attacks", "[+5] Sight <hidden from users>", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>", "Destroys tile improvements when attacking"],
 		"attackSound": "machinegun"
 	},
 	{
@@ -1666,7 +1666,7 @@
 		"requiredTech": "Radar",
 		"requiredResource": "Oil",
 		"upgradesTo": "Jet Fighter",
-		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>", "Destroys tile improvements when attacking"],
+		"uniques": ["[100]% chance to intercept air attacks", "[+8] Sight <hidden from users>", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>", "Destroys tile improvements when attacking"],
 		"attackSound": "machinegun"
 	},
 	{
@@ -1683,7 +1683,7 @@
 		"cost": 317,
 		"requiredTech": "Radar",
 		"upgradesTo": "Jet Fighter",
-		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>", "Destroys tile improvements when attacking"],
+		"uniques": ["[100]% chance to intercept air attacks", "[+8] Sight <hidden from users>", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>", "Destroys tile improvements when attacking"],
 		"promotions": ["[Zero] ability"],
 		"attackSound": "machinegun"
 	},
@@ -1942,7 +1942,7 @@
 		"cost": 540,
 		"requiredTech": "Lasers",
 		"requiredResource": "Aluminum",
-		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"uniques": ["[100]% chance to intercept air attacks", "[+13] Sight <hidden from users>", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
 		"attackSound": "jetgun"
 	},
 	{

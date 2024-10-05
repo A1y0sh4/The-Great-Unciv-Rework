@@ -141,7 +141,7 @@
     {
         "name": "Stone Circles",
         "type": "Pantheon",
-        "uniques": ["[+2 Faith] from every [Stone]"]
+        "uniques": ["[+2 Faith, +1 Production] from every [Stone]"]
     },
 
     ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////

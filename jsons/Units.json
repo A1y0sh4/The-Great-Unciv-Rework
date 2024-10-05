@@ -1848,7 +1848,6 @@
 		"requiredTech": "Computers",
 		"requiredResource": "Aluminum",
 		"uniques": ["[+250]% Strength <vs [Armored] units>", "Destroys tile improvements when attacking", "No defensive terrain bonus", "Can move after attacking", "Unable to capture cities", "Never appears as a Barbarian unit"],
-		"promotions":["[Helicopter] ability", "Water Mobility"],
 		"attackSound": "machinegun"
 	},
         {
@@ -1862,7 +1861,6 @@
 		"requiredTech": "Computers",
 		"requiredResource": "Aluminum",
 		"uniques": ["No defensive terrain bonus", "Can move after attacking", "Invisible to non-adjacent units", "Can see over obstacles", "Never appears as a Barbarian unit"],
-		"promotions":["[Helicopter] ability"],
 		"attackSound": "jetgun"
 	},
 
@@ -1954,7 +1952,6 @@
 		"requiredTech": "Advanced AI",
 		"requiredResource": "Uranium",
 		"uniques": ["Can move after attacking", "Destroys tile improvements when attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
-		"promotions":["Water Mobility"],
 		"attackSound": "gdrAttack"
 	},
 	{

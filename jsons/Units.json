@@ -1160,7 +1160,7 @@
 		"movement": 6,
 		"strength": 28,
 		"rangedStrength": 32,
-		"cost": 120,
+		"cost": 130,
 		"uniques": ["[+1] Sight", "Destroys tile improvements when attacking"],
 		"requiredTech": "Navigation",
 		"obsoleteTech": "Electronics",

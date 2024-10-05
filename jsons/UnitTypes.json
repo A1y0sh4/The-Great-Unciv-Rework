@@ -2,7 +2,7 @@
     {
         "name": "Civilian",
         "movementType": "Land",
-        "uniques": ["Carriable"]
+        "uniques": ["Carriable"],
     },
     {
         "name": "Sword",

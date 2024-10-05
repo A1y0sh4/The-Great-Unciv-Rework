@@ -549,12 +549,6 @@
 
 	// Helicopter
 	{
-		"name": "[Helicopter] ability",
-		"uniques": ["All tiles cost 1 movement", "Can pass through impassable tiles", "Ignores Zone of Control"],
-        "column": 27,
-        "row": 1
-	},
-	{
 		"name": "Mobility I",
 		"uniques": ["[+1] Movement <in [Land] tiles>"],
 		"unitTypes": ["Helicopter"],
@@ -583,12 +577,6 @@
 		"unitTypes": ["Helicopter"],
         "column": 23,
         "row": 2
-	},
-	{
-		"name": "Water Mobility",
-		"uniques": ["May travel on Water tiles without embarking"],
-        "column": 28,
-        "row": 1
 	},
 	
 	//GDR
@@ -808,7 +796,7 @@
 	},
 	{
 		"name": "Sacrificial Captives",
-		"uniques": ["Heals [25] damage if it kills a unit", "[This Unit] heals [25] HP <upon conquering a city>", "[This Unit] gains [2] XP <upon damaging a [Military] unit>"]
+		"uniques": ["Heals [25] damage if it kills a unit", "[This Unit] heals [25] HP <upon conquering a city>", "[This Unit] gains [1] XP <upon damaging a [Military] unit> <hidden from users>"]
 	},
 	{
 		"name": "[Persian Immortal] ability",
@@ -896,7 +884,7 @@
     },
 	{
 		"name": "[Privateer] ability",
-		"uniques": ["May capture killed [Water] units <with [75]% chance>"]
+		"uniques": ["May capture killed [Water] units <with [70]% chance>"]
 	},
 	{
 		"name": "Epic Quest",
@@ -924,7 +912,7 @@
 	},
 	{
 		"name": "To the World's End",
-		"uniques": ["[This Unit] heals [25] HP", "[This Unit] gains [5] XP", "Doing so will consume this opportunity to choose a Promotion"],
+		"uniques": ["[This Unit] heals [25] HP", "[This Unit] gains [5] XP", "[This Unit] gains [3] XP <upon conquering a city> <hidden from users>", "Doing so will consume this opportunity to choose a Promotion"],
         },
 	{
 		"name": "[Druzhina] ability",

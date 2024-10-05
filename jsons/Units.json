@@ -875,18 +875,18 @@
 	},
 	{
 		"name": "Longbowman",
-		"unitType": "Archery",
+		"unitType": "Scout",
 		"range": 2,
 		"cost": 105,
 		"movement": 2,
 		"strength": 13,
-		"rangedStrength": 18,
+		"rangedStrength": 20,
 		"replaces": "Crossbowman",
 		"uniqueTo": "England",
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
-		"promotions": ["Extended Range"],
+		"uniques": ["Ranged attacks may be performed over obstacles"],
 		"attackSound": "arrow"
 	},
 	{

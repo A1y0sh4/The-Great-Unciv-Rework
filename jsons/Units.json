@@ -968,7 +968,7 @@
 		"uniqueTo": "Denmark",
 		"cost": 89,
 		"movement": 2,
-		"strength": 20,
+		"strength": 19,
 		"requiredTech": "Metal Casting",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Metallurgy",

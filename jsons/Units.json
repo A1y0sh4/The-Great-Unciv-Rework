@@ -996,7 +996,7 @@
 	{
 		"name": "Longship",
 		"unitType": "Melee Water",
-		"replaces": "Caravel",
+		"replaces": "Galleass",
 		"uniqueTo": "Denmark",
 		"movement": 4,
 		"strength": 20,

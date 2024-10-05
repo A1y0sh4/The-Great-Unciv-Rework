@@ -1,31 +1,38 @@
 [
     {
         "name": "Civilian",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["Carriable"]
     },
     {
         "name": "Sword",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["Carriable"]
     },
     {
         "name": "Gunpowder",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["Carriable"]
     },
     {
         "name": "Archery",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["Carriable"]
     },
     {
         "name": "Ranged Gunpowder",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["Carriable"]
     },
     {
         "name": "Scout",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["Carriable"]
     },
     {
         "name": "Mounted",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["Carriable"]
     },
     {
         "name": "Armored",

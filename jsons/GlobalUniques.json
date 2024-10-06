@@ -1,7 +1,7 @@
 {
     "name": "Global uniques", 
     "uniques": [
-        "[Settler] units gain the [Single City] promotion <upon founding a city> <for [City-States]>",
+        "[Settler] units gain the [Single City] promotion <if [Palace] is constructed> <for [City-States]>",
 	"[+10]% Unhappiness from [Population] [in all cities] <when at war>",
 	"[-25]% growth [in all cities] <when at war>",
         "[-50]% growth [in all cities] <when between [-10] and [-1] Happiness>",

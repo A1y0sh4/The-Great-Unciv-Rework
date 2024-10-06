@@ -920,6 +920,6 @@
 	},
 	{
 		"name": "Single City",
-		"uniques": ["[This Unit] is destroyed <upon founding a city>"] 
+		"uniques": ["[This Unit] is destroyed"] 
 	},
 ]

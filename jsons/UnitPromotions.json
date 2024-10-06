@@ -920,6 +920,6 @@
 	},
 	{
 		"name": "Single City",
-		"uniques": ["[This Unit] is destroyed <if [Palace] is constructed>"] 
+		"uniques": ["[This Unit] is destroyed"] 
 	},
 ]

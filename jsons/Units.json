@@ -488,7 +488,7 @@
 		"unitType": "Mounted",
 		"uniqueTo": "Macedonia",
 		"replaces": "Horseman",
-		"cost": 67,
+		"cost": 60,
 		"movement": 4,
 		"strength": 12,
 		"requiredTech": "Horseback Riding",
@@ -496,7 +496,7 @@
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
 		"promotions": ["Great Generals I"],
-		"uniques": ["No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+50]% Strength when stacked with [Great General]"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+33]% Strength when stacked with [Great General]"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},

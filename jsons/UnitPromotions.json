@@ -924,6 +924,6 @@
 	},
 	{
 		"name": "Terracotta Army",
-		"uniques": ["[This Unit] gains [15] XP", "Doing so will consume this opportunity to choose a Promotion"],
+		"uniques": ["[This Unit] gains [10] XP", "Doing so will consume this opportunity to choose a Promotion"],
         },
 ]

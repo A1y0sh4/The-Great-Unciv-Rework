@@ -11,7 +11,7 @@
 	// Ranged+Siege
 	{
 		"name": "Accuracy I",
-		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>"],
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>", "[+10]% XP gained from combat"],
 		"unitTypes": ["Siege","Archery","Ranged Gunpowder"],
         "column": 1,
         "row": 1

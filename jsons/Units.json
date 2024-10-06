@@ -15,7 +15,7 @@
 		"movement": 2,
 		"cost": 50,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population", "Cost increases by [10] when built", "[This Unit] is destroyed <upon founding a city> <for [City-States]> <hidden from users>"],
+			"Requires at least [2] population", "Cost increases by [10] when built", "[This Unit] is destroyed <upon founding a city>"],
 		"hurryCostModifier": 15
 	},
 	{

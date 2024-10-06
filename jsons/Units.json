@@ -6,14 +6,14 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"uniques": ["Can build [Land] improvements on tiles", "Cost increases by [5] when built"],
-		"cost": 42,
+		"cost": 50,
 		"hurryCostModifier": 15
 	},
 	{
 		"name": "Settler",
 		"unitType": "Civilian",
 		"movement": 2,
-		"cost": 50,
+		"cost": 65,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population", "Cost increases by [10] when built"],
 		"hurryCostModifier": 15

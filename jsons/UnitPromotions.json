@@ -11,7 +11,7 @@
 	// Ranged+Siege
 	{
 		"name": "Accuracy I",
-		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>", "[+10]% XP gained from combat"],
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Siege","Archery","Ranged Gunpowder"],
         "column": 1,
         "row": 1
@@ -19,7 +19,7 @@
 	{
 		"name": "Accuracy II",
 		"prerequisites": ["Accuracy I"],
-		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>"],
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Siege","Archery","Ranged Gunpowder"],
         "column": 1,
         "row": 2
@@ -27,7 +27,7 @@
 	{
 		"name": "Accuracy III",
 		"prerequisites": ["Accuracy II"],
-		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>"],
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Siege","Archery","Ranged Gunpowder"],
         "column": 1,
         "row": 3
@@ -35,7 +35,7 @@
 
 	{
 		"name": "Barrage I",
-		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>"],
+		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Siege","Archery","Ranged Gunpowder"],
         "column": 2,
         "row": 1
@@ -43,7 +43,7 @@
 	{
 		"name": "Barrage II",
 		"prerequisites": ["Barrage I"],
-		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>"],
+		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Siege","Archery","Ranged Gunpowder"],
         "column": 2,
         "row": 2
@@ -51,7 +51,7 @@
 	{
 		"name": "Barrage III",
 		"prerequisites": ["Barrage II"],
-		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>"],
+		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Siege","Archery","Ranged Gunpowder"],
         "column": 2,
         "row": 3
@@ -60,7 +60,7 @@
 	{
 		"name": "Volley",
 		"prerequisites": ["Accuracy I","Barrage I"],
-		"uniques": ["[+50]% Strength <vs cities>"],
+		"uniques": ["[+50]% Strength <vs cities>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Archery","Ranged Gunpowder","Siege"],
         "column": 3,
         "row": 1
@@ -68,7 +68,7 @@
 	{
 		"name": "Extended Range",
 		"prerequisites": ["Accuracy III","Barrage III","Targeting II","Bombardment II", "Wolfpack II"],
-		"uniques": ["[+1] Range"],
+		"uniques": ["[+1] Range", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Archery","Ranged Gunpowder","Siege","Ranged Water","Submarine"],
         "column": 3,
         "row": 3
@@ -76,7 +76,7 @@
 	{
 		"name": "Indirect Fire",
 		"prerequisites": ["Accuracy III", "Barrage III", "Bombardment II", "Targeting II"],
-		"uniques": ["Ranged attacks may be performed over obstacles"],
+		"uniques": ["Ranged attacks may be performed over obstacles", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Archery","Ranged Gunpowder","Siege","Ranged Water"],
         "column": 3,
         "row": 4
@@ -85,7 +85,7 @@
 	// Melee, Mounted+Armor
 	{
 		"name": "Shock I",
-		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <in [Land] tiles>"],
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <in [Land] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
         "column": 4,
         "row": 1
@@ -93,7 +93,7 @@
 	{
 		"name": "Shock II",
 		"prerequisites": ["Shock I"],
-		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <in [Land] tiles>"],
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <in [Land] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
         "column": 4,
         "row": 2
@@ -101,7 +101,7 @@
 	{
 		"name": "Shock III",
 		"prerequisites": ["Shock II"],
-		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <in [Land] tiles>"],
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <in [Land] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
         "column": 4,
         "row": 3
@@ -109,7 +109,7 @@
 
 	{
 		"name": "Drill I",
-		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles>"],
+		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
         "column": 5,
         "row": 1
@@ -117,7 +117,7 @@
 	{
 		"name": "Drill II",
 		"prerequisites": ["Drill I"],
-		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles>"],
+		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
         "column": 5,
         "row": 2
@@ -125,7 +125,7 @@
 	{
 		"name": "Drill III",
 		"prerequisites": ["Drill II"],
-		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles>"],
+		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
         "column": 5,
         "row": 3
@@ -133,7 +133,7 @@
 	{
 		"name": "Charge",
 		"prerequisites": ["Shock II","Drill II"],
-		"uniques": ["[+33]% Strength <vs [Wounded] units>"],
+		"uniques": ["[+33]% Strength <vs [Wounded] units>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Mounted","Armored"],
         "column": 6,
         "row": 2
@@ -141,7 +141,7 @@
 	{
 		"name": "Besiege",
 		"prerequisites": ["Shock II","Drill II"],
-		"uniques": ["[+50]% Strength <vs cities>"],
+		"uniques": ["[+50]% Strength <vs cities>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder"],
         "column": 6,
         "row": 3
@@ -149,7 +149,7 @@
 	{
 		"name": "Formation I",
 		"prerequisites": ["Shock II", "Drill II", "Accuracy II", "Barrage II"],
-		"uniques": ["[+10]% Strength <when adjacent to a [{Military} {Land}] unit>"],
+		"uniques": ["[+10]% Strength <when adjacent to a [{Military} {Land}] unit>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword", "Gunpowder", "Mounted", "Siege","Archery","Ranged Gunpowder"],
         "column": 7,
         "row": 2
@@ -157,7 +157,7 @@
 	{
 		"name": "Formation II",
 		"prerequisites": ["Formation I"],
-		"uniques": ["[+10]% Strength <when adjacent to a [{Military} {Land}] unit>"],
+		"uniques": ["[+10]% Strength <when adjacent to a [{Military} {Land}] unit>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword", "Gunpowder", "Mounted", "Siege","Archery","Ranged Gunpowder"],
         "column": 7,
         "row": 3
@@ -165,7 +165,7 @@
 	{
 		"name": "Blitz",
 		"prerequisites": ["Shock III","Drill III","Scouting III","Survivalism III"],
-		"uniques": ["[1] additional attacks per turn"],
+		"uniques": ["[1] additional attacks per turn", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Scout"],
         "column": 6,
         "row": 4
@@ -173,7 +173,7 @@
 	{
 		"name": "Woodsman",
 		"prerequisites": ["Shock III","Drill III"],
-		"uniques": ["Double movement in [Forest]","Double movement in [Jungle]"],
+		"uniques": ["Double movement in [Forest]","Double movement in [Jungle]", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder"],
         "column": 6,
         "row": 5
@@ -181,7 +181,7 @@
 	{
 		"name": "Amphibious",
 		"prerequisites": ["Shock I", "Drill I", "Scouting III", "Survivalism III"],
-		"uniques": ["Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May attack when embarked"],
+		"uniques": ["Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder","Scout"],
         "column": 6,
         "row": 1
@@ -189,7 +189,7 @@
 	{
 		"name": "Medic",
 		"prerequisites": ["Shock I", "Drill I"],
-		"uniques": ["[+5] HP when healing", "All adjacent units heal [+5] HP when healing"],
+		"uniques": ["[+5] HP when healing", "All adjacent units heal [+5] HP when healing", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder","Mounted"],
         "column": 10, // after scout base
         "row": 1
@@ -197,7 +197,7 @@
 	{
 		"name": "Medic II",
 		"prerequisites": ["Medic"],
-		"uniques": ["[+5] HP when healing", "All adjacent units heal [+5] HP when healing"],
+		"uniques": ["[+5] HP when healing", "All adjacent units heal [+5] HP when healing", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder","Mounted"],
         "column": 10,
         "row": 2
@@ -206,7 +206,7 @@
 	// Scout
 	{
 		"name": "Scouting I",
-		"uniques": ["[+1] Movement", "No movement cost to pillage"],
+		"uniques": ["[+1] Movement", "No movement cost to pillage", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 1
@@ -214,7 +214,7 @@
 	{
 		"name": "Scouting II",
 		"prerequisites": ["Scouting I"],
-		"uniques": ["[+1] Sight", "Can see invisible [Land] units"],
+		"uniques": ["[+1] Sight", "Can see invisible [Land] units", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 2
@@ -222,14 +222,14 @@
 	{
 		"name": "Scouting III",
 		"prerequisites": ["Scouting II"],
-		"uniques": ["Ignores terrain cost", "Ignores Zone of Control"],
+		"uniques": ["Ignores terrain cost", "Ignores Zone of Control", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 3
 	},
 	{
 		"name": "Survivalism I",
-		"uniques": ["Unit will heal every turn, even if it performs an action", "[+5] HP when healing"],
+		"uniques": ["Unit will heal every turn, even if it performs an action", "[+5] HP when healing", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Scout"],
         "column": 9,
         "row": 1
@@ -237,7 +237,7 @@
 	{
 		"name": "Survivalism II",
 		"prerequisites": ["Survivalism I"],
-		"uniques": ["[+25]% Strength <when fighting in [Rough terrain] tiles>", "Withdraws before melee combat <with [25]% chance>"],
+		"uniques": ["[+25]% Strength <when fighting in [Rough terrain] tiles>", "Withdraws before melee combat <with [25]% chance>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Scout"],
         "column": 9,
         "row": 2
@@ -245,7 +245,7 @@
 	{
 		"name": "Survivalism III",
 		"prerequisites": ["Survivalism II"],
-		"uniques": ["Invisible to non-adjacent units", "Can move after attacking"],
+		"uniques": ["Invisible to non-adjacent units", "Can move after attacking", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Scout"],
         "column": 9,
         "row": 3
@@ -255,7 +255,7 @@
 	// Water melee
 	{
 		"name": "Boarding Party I",
-		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>", "Earn [5]% of the damage done to [Military] units as [Gold]"],
+		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>", "Earn [5]% of the damage done to [Military] units as [Gold]", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Melee Water"],
         "column": 11,
         "row": 1
@@ -263,7 +263,7 @@
 	{
 		"name": "Boarding Party II",
 		"prerequisites": ["Boarding Party I"],
-		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>", "Earn [5]% of the damage done to [Military] units as [Gold]"],
+		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>", "Earn [5]% of the damage done to [Military] units as [Gold]", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Melee Water"],
         "column": 11,
         "row": 2
@@ -271,7 +271,7 @@
 	{
 		"name": "Boarding Party III",
 		"prerequisites": ["Boarding Party II"],
-		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>", "Earn [5]% of the damage done to [Military] units as [Gold]"],
+		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>", "Earn [5]% of the damage done to [Military] units as [Gold]", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Melee Water"],
         "column": 11,
         "row": 3
@@ -279,7 +279,7 @@
 
 	{
 		"name": "Coastal Raider I",
-		"uniques": ["[+20]% Strength <vs cities>", "Earn [33]% of the damage done to [City] units as [Gold]"],
+		"uniques": ["[+20]% Strength <vs cities>", "Earn [33]% of the damage done to [City] units as [Gold]", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Melee Water"],
         "column": 12,
         "row": 1
@@ -287,7 +287,7 @@
 	{
 		"name": "Coastal Raider II",
 		"prerequisites": ["Coastal Raider I"],
-		"uniques": ["[+20]% Strength <vs cities>", "Earn [33]% of the damage done to [City] units as [Gold]"],
+		"uniques": ["[+20]% Strength <vs cities>", "Earn [33]% of the damage done to [City] units as [Gold]", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Melee Water"],
         "column": 12,
         "row": 2
@@ -295,14 +295,14 @@
 	{
 		"name": "Coastal Raider III",
 		"prerequisites": ["Coastal Raider II"],
-		"uniques": ["[+20]% Strength <vs cities>", "Earn [34]% of the damage done to [City] units as [Gold]"],
+		"uniques": ["[+20]% Strength <vs cities>", "Earn [34]% of the damage done to [City] units as [Gold]", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Melee Water"],
         "column": 12,
         "row": 3
 	},
 	{
 		"name": "Landing Party",
-		"uniques": ["Eliminates combat penalty for attacking across a coast"],
+		"uniques": ["Eliminates combat penalty for attacking across a coast", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Melee Water"],
         "column": 12,
         "row": 5
@@ -311,7 +311,7 @@
 	// Water Ranged
 	{
 		"name": "Targeting I",
-		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>"],
+		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Ranged Water"],
         "column": 13,
         "row": 1
@@ -319,7 +319,7 @@
 	{
 		"name": "Targeting II",
 		"prerequisites": ["Targeting I"],
-		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>"],
+		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Ranged Water"],
         "column": 13,
         "row": 2
@@ -327,7 +327,7 @@
 	{
 		"name": "Targeting III",
 		"prerequisites": ["Targeting II"],
-		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>"],
+		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Ranged Water"],
         "column": 13,
         "row": 3
@@ -336,7 +336,7 @@
 	// Submarine
 	{
 		"name": "Wolfpack I",
-		"uniques": ["[+25]% Strength <when attacking>"],
+		"uniques": ["[+25]% Strength <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Submarine"],
         "column": 14,
         "row": 1
@@ -344,7 +344,7 @@
 	{
 		"name": "Wolfpack II",
 		"prerequisites": ["Wolfpack I"],
-		"uniques": ["[+25]% Strength <when attacking>"],
+		"uniques": ["[+25]% Strength <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Submarine"],
         "column": 14,
         "row": 2
@@ -352,7 +352,7 @@
 	{
 		"name": "Wolfpack III",
 		"prerequisites": ["Wolfpack II"],
-		"uniques": ["[+25]% Strength <when attacking>"],
+		"uniques": ["[+25]% Strength <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Submarine"],
         "column": 14,
         "row": 3
@@ -361,7 +361,7 @@
 	// Aircraft Carrier
 	{
 		"name": "Armor Plating I",
-		"uniques": ["[+25]% Strength <when defending>"],
+		"uniques": ["[+25]% Strength <when defending>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Aircraft Carrier"],
         "column": 15,
         "row": 1
@@ -369,7 +369,7 @@
 	{
 		"name": "Armor Plating II",
 		"prerequisites": ["Armor Plating I"],
-		"uniques": ["[+25]% Strength <when defending>"],
+		"uniques": ["[+25]% Strength <when defending>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Aircraft Carrier"],
         "column": 15,
         "row": 2
@@ -377,14 +377,14 @@
 	{
 		"name": "Armor Plating III",
 		"prerequisites": ["Armor Plating II"],
-		"uniques": ["[+25]% Strength <when defending>"],
+		"uniques": ["[+25]% Strength <when defending>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Aircraft Carrier"],
         "column": 15,
         "row": 3
 	},
 	{
 		"name": "Flight Deck I",
-		"uniques": ["Can carry [1] extra [Aircraft] units"],
+		"uniques": ["Can carry [1] extra [Aircraft] units", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Aircraft Carrier"],
         "column": 16,
         "row": 1
@@ -392,7 +392,7 @@
 	{
 		"name": "Flight Deck II",
 		"prerequisites": ["Flight Deck I"],
-		"uniques": ["Can carry [1] extra [Aircraft] units"],
+		"uniques": ["Can carry [1] extra [Aircraft] units", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Aircraft Carrier"],
         "column": 16,
         "row": 2
@@ -400,7 +400,7 @@
 	{
 		"name": "Flight Deck III",
 		"prerequisites": ["Flight Deck II"],
-		"uniques": ["Can carry [1] extra [Aircraft] units"],
+		"uniques": ["Can carry [1] extra [Aircraft] units", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Aircraft Carrier"],
         "column": 16,
         "row": 3
@@ -410,7 +410,7 @@
 	{
 		"name" : "Supply",
 		"prerequisites": ["Bombardment III", "Targeting III", "Boarding Party III", "Coastal Raider III"],
-		"uniques": ["May heal outside of friendly territory", "[+10] HP when healing <in [Foreign Land] tiles>", "Unit will heal every turn, even if it performs an action <in [Coast] tiles>"],
+		"uniques": ["May heal outside of friendly territory", "[+10] HP when healing <in [Foreign Land] tiles>", "Unit will heal every turn, even if it performs an action <in [Coast] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Melee Water", "Ranged Water"],
         "column": 16,
         "row": 4
@@ -419,7 +419,7 @@
 	// Bomber
 	{
 		"name": "Siege I",
-		"uniques": ["[+33]% Strength <vs cities>"],
+		"uniques": ["[+33]% Strength <vs cities>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Bomber"],
         "column": 17,
         "row": 1
@@ -427,7 +427,7 @@
 	{
 		"name": "Siege II",
 		"prerequisites": ["Siege I"],
-		"uniques": ["[+33]% Strength <vs cities>"],
+		"uniques": ["[+33]% Strength <vs cities>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Bomber"],
         "column": 17,
         "row": 2
@@ -435,7 +435,7 @@
 	{
 		"name": "Siege III",
 		"prerequisites": ["Siege II"],
-		"uniques": ["[+34]% Strength <vs cities>"],
+		"uniques": ["[+34]% Strength <vs cities>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Bomber"],
         "column": 17,
         "row": 3
@@ -443,7 +443,7 @@
 	{
 		"name": "Evasion",
 		"prerequisites": ["Siege II", "Bombardment II"],
-		"uniques": ["Damage taken from interception reduced by [50]%"],
+		"uniques": ["Damage taken from interception reduced by [50]%", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Bomber"],
         "column": 17,
         "row": 4
@@ -452,7 +452,7 @@
 	// Aircraft
 	{
 		"name": "Interception I",
-		"uniques": ["[+33]% Damage when intercepting"],
+		"uniques": ["[+33]% Damage when intercepting", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Fighter"],
         "column": 18,
         "row": 1
@@ -460,7 +460,7 @@
 	{
 		"name": "Interception II",
 		"prerequisites": ["Interception I"],
-		"uniques": ["[+33]% Damage when intercepting"],
+		"uniques": ["[+33]% Damage when intercepting", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Fighter"],
         "column": 18,
         "row": 2
@@ -468,14 +468,14 @@
 	{
 		"name": "Interception III",
 		"prerequisites": ["Interception II"],
-		"uniques": ["[+34]% Damage when intercepting"],
+		"uniques": ["[+34]% Damage when intercepting", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Fighter"],
         "column": 18,
         "row": 3
 	},
 	{
 		"name": "Dogfighting I",
-		"uniques": ["[+33]% Strength when performing Air Sweep"],
+		"uniques": ["[+33]% Strength when performing Air Sweep", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Fighter"],
         "column": 19,
         "row": 1
@@ -483,7 +483,7 @@
 	{
 		"name": "Dogfighting II",
 		"prerequisites": ["Dogfighting I"],
-		"uniques": ["[+33]% Strength when performing Air Sweep"],
+		"uniques": ["[+33]% Strength when performing Air Sweep", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Fighter"],
         "column": 19,
         "row": 2
@@ -491,7 +491,7 @@
 	{
 		"name": "Dogfighting III",
 		"prerequisites": ["Dogfighting II"],
-		"uniques": ["[+34]% Strength when performing Air Sweep"],
+		"uniques": ["[+34]% Strength when performing Air Sweep", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Fighter"],
         "column": 19,
         "row": 3
@@ -499,7 +499,7 @@
 	{
 		"name": "Air Targeting I",
 		"prerequisites": ["Interception I","Siege I","Bombardment I","Dogfighting I"],
-		"uniques": ["[+33]% Strength <vs [Military] units> <in [Water] tiles>"],
+		"uniques": ["[+33]% Strength <vs [Military] units> <in [Water] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Fighter","Bomber"],
         "column": 20,
         "row": 1
@@ -507,7 +507,7 @@
 	{
 		"name": "Air Targeting II",
 		"prerequisites": ["Air Targeting I"],
-		"uniques": ["[+33]% Strength <vs [Military] units> <in [Water] tiles>"],
+		"uniques": ["[+33]% Strength <vs [Military] units> <in [Water] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Fighter","Bomber"],
         "column": 20,
         "row": 2
@@ -515,7 +515,7 @@
 	{
 		"name": "Air Targeting III",
 		"prerequisites": ["Air Targeting I"],
-		"uniques": ["[+34]% Strength <vs [Military] units> <in [Water] tiles>"],
+		"uniques": ["[+34]% Strength <vs [Military] units> <in [Water] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Fighter","Bomber"],
         "column": 20,
         "row": 3
@@ -524,7 +524,7 @@
 	{
 		"name": "Sortie",
 		"prerequisites": ["Interception II", "Dogfighting II"],
-		"uniques": ["[1] extra interceptions may be made per turn"],
+		"uniques": ["[1] extra interceptions may be made per turn", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Fighter"],
         "column": 21,
         "row": 2
@@ -533,7 +533,7 @@
 	{
 		"name": "Operational Range",
 		"prerequisites": ["Interception I", "Dogfighting I", "Siege I", "Bombardment I"],
-		"uniques": ["[+2] Range"],
+		"uniques": ["[+3] Range", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Fighter","Bomber"],
         "column": 21,
         "row": 1
@@ -541,7 +541,7 @@
 	{
 		"name": "Air Repair",
 		"prerequisites": ["Interception II", "Dogfighting II", "Siege II", "Bombardment II", "Mobility II", "Anti-Armor II"],
-		"uniques": ["Unit will heal every turn, even if it performs an action"],
+		"uniques": ["Unit will heal every turn, even if it performs an action", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Fighter", "Bomber", "Helicopter"],
         "column": 21,
         "row": 3
@@ -550,7 +550,7 @@
 	// Helicopter
 	{
 		"name": "Mobility I",
-		"uniques": ["[+1] Movement <in [Land] tiles>"],
+		"uniques": ["[+1] Movement <in [Land] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Helicopter"],
         "column": 22,
         "row": 1
@@ -558,14 +558,14 @@
 	{
 		"name": "Mobility II",
 		"prerequisites": ["Mobility I"],
-		"uniques": ["[+1] Movement <in [Land] tiles>"],
+		"uniques": ["[+1] Movement <in [Land] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Helicopter"],
         "column": 22,
         "row": 2
 	},
 	{
 		"name": "Anti-Armor I",
-		"uniques": ["[+25]% Strength <vs [Armored] units>"],
+		"uniques": ["[+25]% Strength <vs [Armored] units>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Helicopter"],
         "column": 23,
         "row": 1
@@ -573,7 +573,7 @@
 	{
 		"name": "Anti-Armor II",
 		"prerequisites": ["Anti-Armor I"],
-		"uniques": ["[+25]% Strength <vs [Armored] units>"],
+		"uniques": ["[+25]% Strength <vs [Armored] units>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Helicopter"],
         "column": 23,
         "row": 2
@@ -582,7 +582,7 @@
 	//GDR
 	{
 		"name": "Enhanced Mobility I",
-		"uniques": ["[+1] Movement <in [Land] tiles>", "Ignores Zone of Control"],
+		"uniques": ["[+1] Movement <in [Land] tiles>", "Ignores Zone of Control", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Mech"],
         "column": 30,
         "row": 1
@@ -590,14 +590,14 @@
 	{
 		"name": "Enhanced Mobility II",
 		"prerequisites": ["Enhanced Mobility I"],
-		"uniques": ["[+1] Movement <in [Land] tiles>", "May Paradrop up to [3] tiles from inside friendly territory"],
+		"uniques": ["[+1] Movement <in [Land] tiles>", "May Paradrop up to [3] tiles from inside friendly territory", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Mech"],
         "column": 30,
         "row": 2
 	},
 	{
 		"name": "Integrated Laser Cannon I",
-		"uniques": ["[+15]% Strength <when attacking>"],
+		"uniques": ["[+15]% Strength <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Mech"],
         "column": 29,
         "row": 1
@@ -605,14 +605,14 @@
 	{
 		"name": "Integrated Laser Cannon II",
 		"prerequisites": ["Integrated Laser Cannon I"],
-		"uniques": ["[+15]% Strength <when attacking>"],
+		"uniques": ["[+15]% Strength <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Mech"],
         "column": 29,
         "row": 2
 	},
 	{
 		"name": "Drone Support I",
-		"uniques": ["[+2] Sight", "Can see over obstacles"],
+		"uniques": ["[+2] Sight", "Can see over obstacles", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Mech"],
         "column": 31,
         "row": 1
@@ -620,7 +620,7 @@
 	{
 		"name": "Drone Support II",
 		"prerequisites": ["Drone Support I"],
-		"uniques": ["[+50]% Strength <vs [Air] units>", "[+50]% Strength <vs [Helicopter] units>"],
+		"uniques": ["[+50]% Strength <vs [Air] units>", "[+50]% Strength <vs [Helicopter] units>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Mech"],
         "column": 31,
         "row": 2
@@ -628,7 +628,7 @@
 	{
 		"name": "Improved Agility",
 		"prerequisites": ["Drone Support II", "Integrated Laser Cannon II", "Enhanced Mobility II"],
-		"uniques": ["[1] additional attacks per turn", "Withdraws before melee combat <with [25]% chance>"],
+		"uniques": ["[1] additional attacks per turn", "Withdraws before melee combat <with [25]% chance>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Mech"],
         "column": 30,
         "row": 3
@@ -636,7 +636,7 @@
 	{
 		"name": "Repairing System",
 		"prerequisites": ["Drone Support II", "Integrated Laser Cannon II", "Enhanced Mobility II"],
-		"uniques": ["Unit will heal every turn, even if it performs an action", "[This Unit] heals [33] HP <upon being promoted>"],
+		"uniques": ["Unit will heal every turn, even if it performs an action", "[This Unit] heals [33] HP <upon being promoted>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Mech"],
         "column": 31,
         "row": 3
@@ -644,7 +644,7 @@
 	{
 		"name": "Laser Siege Cannon",
 		"prerequisites": ["Drone Support II", "Integrated Laser Cannon II", "Enhanced Mobility II"],
-		"uniques": ["[+50]% Strength <vs cities>"],
+		"uniques": ["[+50]% Strength <vs cities>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Mech"],
         "column": 29,
         "row": 3
@@ -653,7 +653,7 @@
 	// Mixed
 	{
 		"name": "Cover I",
-		"uniques": ["[+33]% Strength <vs [Ranged] units> <when defending>"],
+		"uniques": ["[+33]% Strength <vs [Ranged] units> <when defending>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Scout"],
         "column": 24,
         "row": 1
@@ -661,7 +661,7 @@
 	{
 		"name": "Cover II",
 		"prerequisites": ["Cover I"],
-		"uniques": ["[+33]% Strength <vs [Ranged] units> <when defending>"],
+		"uniques": ["[+33]% Strength <vs [Ranged] units> <when defending>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Scout"],
         "column": 24,
         "row": 2
@@ -670,7 +670,7 @@
 	{
 		"name": "March",
 		"prerequisites": ["Accuracy II","Barrage II","Shock III","Drill III"],
-		"uniques": ["Unit will heal every turn, even if it performs an action"],
+		"uniques": ["Unit will heal every turn, even if it performs an action", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Mounted"],
         "column": 10,
         "row": 3
@@ -679,7 +679,7 @@
 		"name": "Mobility",
 		"prerequisites": ["Shock II", "Drill II", "Targeting I",
 			"Bombardment I", "Boarding Party I", "Coastal Raider I", "Wolfpack I"],
-		"uniques": ["[+1] Movement", "Ignores Zone of Control"],
+		"uniques": ["[+1] Movement", "Ignores Zone of Control", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword", "Gunpowder", "Mounted","Melee Water","Ranged Water","Armored", "Submarine"],
         "column": 24,
         "row": 3
@@ -687,7 +687,7 @@
 	{
 		"name": "Sentry",
 		"prerequisites": ["Accuracy II", "Barrage II", "Shock II", "Drill II", "Bombardment I", "Targeting I", "Boarding Party I", "Coastal Raider I"],
-		"uniques": ["[+1] Sight", "Can see invisible [Land] units"],
+		"uniques": ["[+1] Sight", "Can see invisible [Land] units", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword", "Gunpowder", "Mounted", "Ranged Water", "Siege", "Armored", "Melee Water", "Submarine", "Helicopter"],
         "column": 24,
         "row": 4
@@ -696,14 +696,14 @@
 		"name": "Logistics",
 		"prerequisites": ["Accuracy III","Barrage III","Targeting III", "Wolfpack III",
 			"Bombardment III", "Coastal Raider III","Boarding Party III","Siege III", "Mobility II", "Anti-Armor II"],
-		"uniques": ["[1] additional attacks per turn", "Can move after attacking"],
+		"uniques": ["[1] additional attacks per turn", "Can move after attacking", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Archery","Ranged Gunpowder","Siege","Melee Water","Ranged Water","Submarine","Fighter","Bomber","Helicopter"],
         "column": 24,
         "row": 5
 	},
 	{
 		"name": "Ambush I",
-		"uniques": ["[+33]% Strength <vs [Armored] units>", "Invisible to non-adjacent units <in [Rough terrain] tiles>"],
+		"uniques": ["[+33]% Strength <vs [Armored] units>", "Invisible to non-adjacent units <in [Rough terrain] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder","Fighter","Bomber"],
         "column": 25,
         "row": 1
@@ -711,7 +711,7 @@
 	{
 		"name": "Ambush II",
 		"prerequisites": ["Ambush I"],
-		"uniques": ["[+33]% Strength <vs [Armored] units>", "Invisible to non-adjacent units <in [Open terrain] tiles>"],
+		"uniques": ["[+33]% Strength <vs [Armored] units>", "Invisible to non-adjacent units <in [Open terrain] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder","Fighter","Bomber"],
         "column": 25,
         "row": 2
@@ -719,7 +719,7 @@
 	{
 		"name": "Pride",
 		"prerequisites": ["Accuracy II","Barrage II","Shock III","Drill III","Scouting III","Survivalism III"],
-		"uniques": ["[This Unit] heals [33] HP", "[This Unit] heals [33] HP <upon being promoted>"],
+		"uniques": ["[This Unit] heals [33] HP", "[This Unit] heals [33] HP <upon being promoted>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Sword", "Gunpowder","Archery", "Ranged Gunpowder", "Mounted", "Scout"],
         "column": 9,
         "row": 4
@@ -727,7 +727,7 @@
 	// Water ranged and air units
 	{
 		"name": "Bombardment I",
-		"uniques": ["[+33]% Strength <vs [Military] units> <in [Land] tiles> <when attacking>"],
+		"uniques": ["[+33]% Strength <vs [Military] units> <in [Land] tiles> <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Ranged Water","Fighter","Bomber","Siege"],
         "column": 26,
         "row": 1
@@ -735,7 +735,7 @@
 	{
 		"name": "Bombardment II",
 		"prerequisites": ["Bombardment I"],
-		"uniques": ["[+33]% Strength <vs [Military] units> <in [Land] tiles> <when attacking>"],
+		"uniques": ["[+33]% Strength <vs [Military] units> <in [Land] tiles> <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Ranged Water","Fighter","Bomber","Siege"],
         "column": 26,
         "row": 2
@@ -743,7 +743,7 @@
 	{
 		"name": "Bombardment III",
 		"prerequisites": ["Bombardment II"],
-		"uniques": ["[+34]% Strength <vs [Military] units> <in [Land] tiles> <when attacking>"],
+		"uniques": ["[+34]% Strength <vs [Military] units> <in [Land] tiles> <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"unitTypes": ["Ranged Water","Fighter","Bomber","Siege"],
         "column": 26,
         "row": 3
@@ -752,159 +752,159 @@
 	// Uniques that should be kept on upgrades
 	{
 		"name": "Morale", // Heroic Epic
-		"uniques": ["[+15]% Strength <while the empire is happy>", "[+5] HP when healing <while the empire is happy>"]
+		"uniques": ["[+15]% Strength <while the empire is happy>", "[+5] HP when healing <while the empire is happy>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "Great Generals I", // only for Keshik and subsequent upgrades
-		"uniques": ["[Great General] is earned [50]% faster"]
+		"uniques": ["[Great General] is earned [50]% faster", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "Great Generals II", // only for Samurai and subsequent upgrades
-		"uniques": ["[Great General] is earned [100]% faster"]
+		"uniques": ["[Great General] is earned [100]% faster", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "Quick Study", // only for Keshik and subsequent upgrades
-		"uniques": ["[+50]% XP gained from combat"]
+		"uniques": ["[+50]% XP gained from combat", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "Haka War Dance", // only for Maori Warrior and subsequent upgrades
-		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"]
+		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [Land] tiles", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "Rejuvenation", // only for Units that have been close to Natural Wonder Fountain of Youth
-		"uniques": ["All healing effects doubled"]
+		"uniques": ["All healing effects doubled", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "Slinger Withdraw", // only for Slinger and subsequent upgrades
-		"uniques": ["Withdraws before melee combat <with [50]% chance>", "Can move after attacking"]
+		"uniques": ["Withdraws before melee combat <with [50]% chance>", "Can move after attacking", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "Pictish Courage", // only for Pictish Warrior and subsequent upgrades
-		"uniques": ["[+25]% Strength <when attacking>", "[-15]% Strength <when defending>"]
+		"uniques": ["[+25]% Strength <when attacking>", "[-15]% Strength <when defending>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "Home Sweet Home", // only for Mehal Sefari and subsequent upgrades
-		"uniques": ["[+33]% Strength decreasing with distance from the capital"]
+		"uniques": ["[+33]% Strength decreasing with distance from the capital", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "[Mohawk Warrior] ability",
-		"uniques": ["[+25]% Strength <when fighting in [Forest] tiles>", "[+25]% Strength <when fighting in [Jungle] tiles>"]
+		"uniques": ["[+25]% Strength <when fighting in [Forest] tiles>", "[+25]% Strength <when fighting in [Jungle] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "[Jaguar] ability",
-		"uniques": ["No damage penalty for wounded units"]
+		"uniques": ["No damage penalty for wounded units", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "Sacrificial Captives",
-		"uniques": ["Heals [25] damage if it kills a unit", "[This Unit] heals [25] HP <upon conquering a city>", "[This Unit] gains [1] XP <upon damaging a [Military] unit> <hidden from users>"]
+		"uniques": ["Heals [25] damage if it kills a unit", "[This Unit] heals [25] HP <upon conquering a city>", "[This Unit] gains [1] XP <upon damaging a [Military] unit> <hidden from users>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "[Persian Immortal] ability",
-		"uniques": ["Heals [10] damage if it kills a unit", "[+10] HP when healing"]
+		"uniques": ["Heals [10] damage if it kills a unit", "[+10] HP when healing", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "[Conquistador] ability",
-		"uniques": ["Defense bonus when embarked"]
+		"uniques": ["Defense bonus when embarked", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "[Janissary] ability",
-		"uniques": ["Heals [33] damage if it kills a unit"]
+		"uniques": ["Heals [33] damage if it kills a unit", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "[Sipahi] ability",
-		"uniques": ["No movement cost to pillage", "Ignores Zone of Control"]
+		"uniques": ["No movement cost to pillage", "Ignores Zone of Control", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "[Asafo] ability",
-		"uniques": ["[+10]% Strength <when defending>", "[-50]% maintenance costs"]
+		"uniques": ["[+10]% Strength <when defending>", "[-50]% maintenance costs", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "[Cossack] ability",
-		"uniques": ["Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>", "[+1] Movement", "Ignores Zone of Control"]
+		"uniques": ["Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>", "[+1] Movement", "Ignores Zone of Control", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "[Hussar] ability",
-		"uniques": ["[+50]% to Flank Attack bonuses", "Ignores Zone of Control"]
+		"uniques": ["[+50]% to Flank Attack bonuses", "Ignores Zone of Control", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "[Zero] ability",
-		"uniques": ["[+33]% Strength <vs [Fighter] units>", "Comment [The more its wounded, the more it gets stronger]", "[+5]% Strength <when below [100] HP> <when above [75] HP> <hidden from users>", "[+10]% Strength <when below [76] HP> <when above [50] HP> <hidden from users>", "[+15]% Strength <when below [51] HP> <when above [25] HP> <hidden from users>", "[+20]% Strength <when below [26] HP> <hidden from users>"]
+		"uniques": ["[+33]% Strength <vs [Fighter] units>", "Comment [The more its wounded, the more it gets stronger]", "[+5]% Strength <when below [100] HP> <when above [75] HP> <hidden from users>", "[+10]% Strength <when below [76] HP> <when above [50] HP> <hidden from users>", "[+15]% Strength <when below [51] HP> <when above [25] HP> <hidden from users>", "[+20]% Strength <when below [26] HP> <hidden from users>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
                 "name": "[Digger] ability",
-                "uniques": ["[1] Movement point cost to embark", "[1] Movement point cost to disembark"]
+                "uniques": ["[1] Movement point cost to embark", "[1] Movement point cost to disembark", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
         },
 	{
 		"name": "Barbarian",
-		"uniques": ["No movement cost to pillage", "Can only heal by pillaging", "Heals [33] damage if it kills a unit"]
+		"uniques": ["No movement cost to pillage", "Can only heal by pillaging", "Heals [33] damage if it kills a unit", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
         {
 		"name": "Climber",
-		"uniques": ["Can pass through impassable tiles", "Double movement in [Hill]"]
+		"uniques": ["Can pass through impassable tiles", "Double movement in [Hill]", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "Mercenary",
-		"uniques": ["Comment [-50% purchase cost]", "Can move immediately once bought", "[+50]% maintenance costs"]
+		"uniques": ["Comment [-50% purchase cost]", "Can move immediately once bought", "[+50]% maintenance costs", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "Guerrilla Tactics",
-		"uniques": ["Ignores terrain cost <in [Friendly Land] tiles>", "Ignores Zone of Control <in [Friendly Land] tiles>", "Can move after attacking", "[+10]% Strength <in [Friendly Land] tiles>"]
+		"uniques": ["Ignores terrain cost <in [Friendly Land] tiles>", "Ignores Zone of Control <in [Friendly Land] tiles>", "Can move after attacking", "[+10]% Strength <in [Friendly Land] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "Buffalo Horns I", // only for Ikanda
-		"uniques": ["[+25]% to Flank Attack bonuses", "[+20]% Strength <when defending> <vs [Ranged] units>"],
+		"uniques": ["[+25]% to Flank Attack bonuses", "[+20]% Strength <when defending> <vs [Ranged] units>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 	},
 	{
 		"name": "Buffalo Chest II",
-		"uniques": ["[+25]% to Flank Attack bonuses", "[+20]% Strength <when fighting in [Open terrain] tiles>"],
+		"uniques": ["[+25]% to Flank Attack bonuses", "[+20]% Strength <when fighting in [Open terrain] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"prerequisites": ["Buffalo Horns I"],
 		"unitTypes": ["Sword"]
 	},
 	{
 		"name": "Buffalo Loins III",
-		"uniques": ["[+1] Movement", "Ignores Zone of Control"],
+		"uniques": ["[+1] Movement", "Ignores Zone of Control", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"],
 		"prerequisites": ["Buffalo Chest II"],
 		"unitTypes": ["Sword"]
 	},
 	{
 		"name": "River Mobility",
-		"uniques": ["Ignores terrain cost <in [River] tiles>"], 
+		"uniques": ["Ignores terrain cost <in [River] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"], 
 	},
 	 {
         "name": "Devout",
-        "uniques": ["Can Spread Religion <[1] additional time(s)>"]
+        "uniques": ["Can Spread Religion <[1] additional time(s)>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
     },
 	{
         "name": "Secularism",
-        "uniques": ["Prevents spreading of religion to the city it is next to"] 
+        "uniques": ["Prevents spreading of religion to the city it is next to", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"] 
     },
 	{
 		"name": "[Privateer] ability",
-		"uniques": ["May capture killed [Water] units <with [70]% chance>"]
+		"uniques": ["May capture killed [Water] units <with [70]% chance>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "Epic Quest",
-		"uniques": ["[This Unit] gains [5] XP <upon defeating a [Barbarian] unit>", "[This Unit] heals [25] HP <upon defeating a [Barbarian] unit>"] 
+		"uniques": ["[This Unit] gains [5] XP <upon defeating a [Barbarian] unit>", "[This Unit] heals [25] HP <upon defeating a [Barbarian] unit>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"] 
 	},
 	{
 		"name": "[Heavy Chariot] ability",
-		"uniques": ["[+20]% Strength <when attacking>"]
+		"uniques": ["[+20]% Strength <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "Blessing of the Idols",
-		"uniques": ["Gain [25] [Faith] <upon defeating a [Military] unit> <(modified by game speed)>", "Heals [25] damage if it kills a unit"] 
+		"uniques": ["Gain [25] [Faith] <upon defeating a [Military] unit> <(modified by game speed)>", "Heals [25] damage if it kills a unit", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"] 
 	},
 	{
 		"name": "Civilized",
-		"uniques": ["[+20]% Strength <vs [Barbarian] units>"] 
+		"uniques": ["[+20]% Strength <vs [Barbarian] units>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"] 
 	},
 	{
 		"name": "Organized Warfare",
-		"uniques": ["Can move after attacking", "Ignores Zone of Control"], 
+		"uniques": ["Can move after attacking", "Ignores Zone of Control", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"], 
 	},
 	{
 		"name": "[Carolean] ability",
-		"uniques": ["[+33]% Strength <when attacking>"] 
+		"uniques": ["[+33]% Strength <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"] 
 	},
 	{
 		"name": "To the World's End",
@@ -912,10 +912,10 @@
         },
 	{
 		"name": "[Druzhina] ability",
-		"uniques": ["[+10]% Strength bonus for [Military] units within [1] tiles", "[+10]% Strength <when fighting in [Fresh water] tiles>"] 
+		"uniques": ["[+10]% Strength bonus for [Military] units within [1] tiles", "[+10]% Strength <when fighting in [Fresh water] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"] 
 	},
 	{
 		"name": "[Bowman] ability",
-		"uniques": ["[+10]% Strength <when fighting in [Friendly Land] tiles>"] 
+		"uniques": ["[+10]% Strength <when fighting in [Friendly Land] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"] 
 	},
 ]

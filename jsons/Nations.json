@@ -981,8 +981,8 @@
 		"innerColor": [255,221,0],
 		
 		"uniqueName": "Ejército Patriota",
-		"uniqueText": "Military units heal 33 HP upon being promoted\nMilitary units gain double XP during a Golden Age",
-		"uniques": ["[Military] units gain the [Pride] promotion", "[+100]% XP gained from combat <for [Military] units> <during a Golden Age>"],
+		"uniqueText": "Military units heal 33 HP upon being promoted\nMilitary units gain +10% XP from combat for every promotion they have",
+		"uniques": ["[Military] units gain the [Pride] promotion"],
 		"cities": ["Bogotá","Caracas","Quito","Valencia De Carabobo","Cali","Medellín","Maracaibo","Cumaná","Guayaquil","Panamá",
 			"Cartagena de Indias","Popayán","Cuenca","Barinas","Santa Marta","Loja","Angostura","Pasto","Nueva Barcelona","Neiva",
 			"Mérida","Portoviejo","Riobamba","Ibarra","Riohacha","Quibdó","Nueva Pamplona","Santiago de Veraguas","La Asunción","Achaguas",

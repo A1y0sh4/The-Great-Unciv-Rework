@@ -6,34 +6,42 @@
     {
         "name": "Sword",
         "movementType": "Land",
+        "uniques": ["Transfer Movement to [Great General]"]
     },
     {
         "name": "Gunpowder",
         "movementType": "Land",
+        "uniques": ["Transfer Movement to [Great General]"]
     },
     {
         "name": "Archery",
         "movementType": "Land",
+        "uniques": ["Transfer Movement to [Great General]"]
     },
     {
         "name": "Ranged Gunpowder",
         "movementType": "Land",
+        "uniques": ["Transfer Movement to [Great General]"]
     },
     {
         "name": "Scout",
         "movementType": "Land",
+        "uniques": ["Transfer Movement to [Great General]"]
     },
     {
         "name": "Mounted",
         "movementType": "Land",
+        "uniques": ["Transfer Movement to [Great General]"]
     },
     {
         "name": "Armored",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["Transfer Movement to [Great General]"]
     },
     {
         "name": "Siege",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["Transfer Movement to [Great General]"]
     },
     {
         "name": "Civilian Water",
@@ -41,20 +49,23 @@
     },
     {
         "name": "Melee Water",
-        "movementType": "Water"
+        "movementType": "Water",
+        "uniques": ["Transfer Movement to [Great General]"]
     },
     {
         "name": "Ranged Water",
-        "movementType": "Water"
+        "movementType": "Water",
+        "uniques": ["Transfer Movement to [Great General]"]
     },
     {
         "name": "Submarine",
         "movementType": "Water",
-        "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units"]
+        "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units", "Transfer Movement to [Great General]"]
     },
     {
         "name": "Aircraft Carrier",
-        "movementType": "Water"
+        "movementType": "Water",
+        "uniques": ["Transfer Movement to [Great General]"]
     },
     {
         "name": "Fighter",
@@ -79,12 +90,12 @@
     {
         "name": "Helicopter",
         "movementType": "Land",
-        "uniques": ["All tiles cost 1 movement", "Can pass through impassable tiles", "Ignores Zone of Control", "Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "May travel on Water tiles without embarking"]
+        "uniques": ["All tiles cost 1 movement", "Can pass through impassable tiles", "Ignores Zone of Control", "Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "May travel on Water tiles without embarking", "Transfer Movement to [Great General]"]
     },
     {
         "name": "Mech",
         "movementType": "Land",
-        "uniques": ["Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "May travel on Water tiles without embarking"]
+        "uniques": ["Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "May travel on Water tiles without embarking", "Transfer Movement to [Great General]"]
     },
 
     // Deprecated unit types required for mods without a UnitTypes.json file to work

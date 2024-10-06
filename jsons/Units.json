@@ -878,7 +878,7 @@
 		"name": "Longbowman",
 		"unitType": "Archery",
 		"range": 2,
-		"cost": 95,
+		"cost": 105,
 		"movement": 2,
 		"strength": 13,
 		"rangedStrength": 20,

@@ -920,6 +920,6 @@
 	},
 	{
 		"name": "Single City",
-		"uniques": ["[+20]% Strength <vs [Barbarian] units>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"] 
+		"uniques": ["[This Unit] is destroyed <upon founding a city>"] 
 	},
 ]

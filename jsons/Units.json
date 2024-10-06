@@ -488,7 +488,7 @@
 		"unitType": "Mounted",
 		"uniqueTo": "Macedonia",
 		"replaces": "Horseman",
-		"cost": 67,
+		"cost": 60,
 		"movement": 4,
 		"strength": 12,
 		"requiredTech": "Horseback Riding",

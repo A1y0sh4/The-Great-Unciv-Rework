@@ -476,11 +476,12 @@
 	},
 	{
 		"name": "Terracotta Army",
-		"culture": 3,
+		"culture": 1,
 		"isWonder": true,
-		"greatPersonPoints": {"Great Artist": 3},
+		"greatPersonPoints": {"Great General": 3},
 		"requiredTech": "Construction",
-		"uniques": ["Free Social Policy"],
+		"uniques": ["[{Military} {Land}] units gain the [Terracotta Army] promotion <upon gaining a [Great General] unit>",
+                "Gain [1] [Culture] <for every [[Military] Units]> <upon gaining a [Great General] unit>"],
 		"quote": "'Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.' - Sun Tzu",
 	},
 	// Column 4

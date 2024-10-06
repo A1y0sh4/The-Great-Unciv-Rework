@@ -881,7 +881,7 @@
 		"cost": 105,
 		"movement": 2,
 		"strength": 13,
-		"rangedStrength": 20,
+		"rangedStrength": 21,
 		"replaces": "Crossbowman",
 		"uniqueTo": "England",
 		"requiredTech": "Machinery",

@@ -496,7 +496,7 @@
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
 		"promotions": ["Great Generals I"],
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+33]% Strength when stacked with [Great General]", "Heals [15] damage if it kills a unit"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+33]% Strength when stacked with [Great General]"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},

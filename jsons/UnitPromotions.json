@@ -918,4 +918,8 @@
 		"name": "[Bowman] ability",
 		"uniques": ["[+10]% Strength <when fighting in [Friendly Land] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"] 
 	},
+	{
+		"name": "Single City",
+		"uniques": ["[+20]% Strength <vs [Barbarian] units>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"] 
+	},
 ]

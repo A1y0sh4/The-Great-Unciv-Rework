@@ -1535,7 +1535,7 @@
 	},
 	{
 		"name": "Peacekeeper",
-		"unitType": "Scout",
+		"unitType": "Gunpowder",
 		"replaces": "Infantry",
 		"uniqueTo": "Canada",
 		"movement": 2,
@@ -1549,15 +1549,15 @@
 	},
 	{
 		"name": "Jungle Brigade", 
-		"unitType": "Scout",
+		"unitType": "Gunpowder",
 		"replaces": "Infantry",
 		"uniqueTo": "Brazil",
 		"movement": 2,
 		"strength": 70,
 		"cost": 312,
 		"requiredTech": "Plastics",
-		"uniques": ["[+50]% Strength <vs [Barbarian] units>"],
-		"promotions": ["Survivalism I", "Survivalism II"],
+		"uniques": ["[+50]% Strength <vs [Barbarian] units>", "[+25]% Strength <in [Rough terrain] tiles>"],
+		"promotions": ["Woodsman"],
 		"upgradesTo": "Spec Ops",
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"

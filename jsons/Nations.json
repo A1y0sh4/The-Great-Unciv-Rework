@@ -2069,7 +2069,7 @@
 		"innerColor": [218,37,29],
 		
 		"uniqueName": "Guerrilla Tactics",
-		"uniqueText": "Light and Gunpowder units are 10% stronger, can ignore Zones of Control and can move after attacking while in Friendly Tiles",
+		"uniqueText": "Light and Gunpowder units are 15% stronger, can ignore Zones of Control and can move after attacking while in Friendly Tiles",
 		"uniques": ["[Sword] units gain the [Guerrilla Tactics] promotion", "[Archery] units gain the [Guerrilla Tactics] promotion", "[Gunpowder] units gain the [Guerrilla Tactics] promotion"],
 		"cities": ["Thăng Long","Huế","Hoa Lư","Trà Kiệu","Đồng Hới","Quảng Trị","Sài Gòn","Hải Phòng","Cần Thơ","Đà Nẵng","Thái Nguyên","Hạ Long","Quy Nhơn","Đà Lạt","Biên Hòa","Nha Trang","Rạch Giá",
 		"Nam Định","Vinh","Buôn Ma Thuột","Việt Trì"],

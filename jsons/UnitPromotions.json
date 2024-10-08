@@ -848,7 +848,7 @@
 	},
 	{
 		"name": "Guerrilla Tactics",
-		"uniques": ["Ignores terrain cost <in [Friendly Land] tiles>", "Ignores Zone of Control <in [Friendly Land] tiles>", "Can move after attacking", "[+10]% Strength <in [Friendly Land] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
+		"uniques": ["Ignores terrain cost <in [Friendly Land] tiles>", "Ignores Zone of Control <in [Friendly Land] tiles>", "Can move after attacking", "[+15]% Strength <in [Friendly Land] tiles>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "Buffalo Horns I", // only for Ikanda

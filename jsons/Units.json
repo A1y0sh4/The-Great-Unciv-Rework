@@ -776,7 +776,7 @@
 		"uniqueTo": "Arabia",
 		"cost": 105,
 		"movement": 4,
-		"strength": 20,
+		"strength": 22,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
 		"upgradesTo": "Lancer",

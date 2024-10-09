@@ -1895,7 +1895,7 @@
 		"unitType": "Scout",
 		"movement": 2,
 		"range": 1,
-		"strength": 70,
+		"strength": 60,
 		"cost": 450,
 		"requiredTech": "Mobile Tactics",
 		"promotions": ["Survivalism I", "Survivalism II"],

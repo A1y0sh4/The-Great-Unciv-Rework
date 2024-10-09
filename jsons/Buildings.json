@@ -705,8 +705,8 @@
 		"greatPersonPoints": {"Great Merchant": 3},
 		"culture": 1,
 		"isWonder": true,
-		"cityStrength": 2,
-		"cityHealth": 10,
+		"cityStrength": 3,
+		"cityHealth": 15,
 		"uniques": ["[+25]% [Gold] from Trade Routes", "[+15]% Strength <for [Military] units> <when fighting in [Hill] tiles>", "Must be next to [Mountain]"],
 		"requiredTech": "Engineering",
 		"quote": "'Few romances can ever surpass that of the granite citadel on top of the beetling precipices of Machu Picchu, the crown of Inca Land.' - Hiram Bingham"

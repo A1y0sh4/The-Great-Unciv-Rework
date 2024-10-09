@@ -1646,7 +1646,7 @@
 		"name": "Marine",
 		"unitType": "Scout",
 		"movement": 2,
-		"strength": 60,
+		"strength": 50,
 		"cost": 312,
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Amphibious"],
@@ -1723,12 +1723,13 @@
 		"name": "Paratrooper",
 		"unitType": "Scout",
 		"movement": 2,
-		"strength": 60,
+		"strength": 50,
 		"cost": 312,
 		"requiredTech": "Radar",
 		"upgradesTo": "Spec Ops",
 		"obsoleteTech": "Mobile Tactics",
-		"uniques": ["May Paradrop up to [6] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
+		"promotions": ["Survivalism I"],
+		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
 	},
 	{
@@ -1768,8 +1769,8 @@
 		"requiredResource": "Iron",
 		"requiredTech": "Combined Arms",
 		"upgradesTo": "Helicopter Gunship",
-		"uniques": ["[+250]% Strength <vs [Armored] units>", "Destroys tile improvements when attacking", "Must set up to ranged attack", "[-1] Sight", "Never appears as a Barbarian unit"],
-		"attackSound": "machinegun"
+		"uniques": ["[+250]% Strength <vs [Armored] units>", "Destroys tile improvements when attacking", "[-1] Sight", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
 	},
 	{
 		"name": "Atomic Bomb",
@@ -1898,8 +1899,8 @@
 		"strength": 60,
 		"cost": 450,
 		"requiredTech": "Mobile Tactics",
-		"promotions": ["Survivalism I", "Survivalism II"],
-		"uniques": ["May Paradrop up to [6] tiles from inside friendly territory"],
+		"promotions": ["Survivalism I", "Amphibious"],
+		"uniques": ["May Paradrop up to [8] tiles from inside friendly territory", "[+1] Sight <when [Embarked]>", "Defense bonus when embarked"],
 		"attackSound": "shot"
 	},
 	{

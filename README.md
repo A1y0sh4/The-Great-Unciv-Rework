@@ -11,7 +11,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 # Notable Game-changer features
 
--All Civs and most Beliefs and Policies have been completly reworked as such their game stategies. I suggest the players to try reinventing their stategies in their most creative ways.
+- All Civs and most Beliefs and Policies have been completly reworked as such their game stategies. I suggest the players to try reinventing their stategies in their most creative ways.
 
 -Most Resources are not revealed until the discovery of a tech, making some combinations stategical in the early-game
 

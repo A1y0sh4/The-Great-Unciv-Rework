@@ -469,7 +469,7 @@
 		"replaces": "Garden",
 		"uniqueTo": "Assyria",
 		"happiness": 1,
-		"science": 3,
+		"science": 2,
 		"culture": 1,
 		"maintenance": 1,
 		"uniques": ["[+33]% Great Person generation [in this city]", "[-33]% Food consumption by specialists [in this city]", "Must be next to [Fresh water]"],

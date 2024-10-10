@@ -35,14 +35,14 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 - The maintainance of ALL military units is raised by +4% per era, but some UnitsTypes receive an additional raise
 
-(Mounted: +25%,
- Water: +50%,
- Air: +75%,
- Armored: +75%,
- Helicopter: +75%,
- Nuclear Weapons: +300%)
+  (Mounted: +25%,
+   Water: +50%,
+   Air: +75%,
+   Armored: +75%,
+   Helicopter: +75%,
+   Nuclear Weapons: +300%)
 
- -Enemy spies act with a malus in garrisoned cities (-25%)
+ - Enemy spies act with a malus in garrisoned cities (-25%)
  
 # Main War-related changes
   

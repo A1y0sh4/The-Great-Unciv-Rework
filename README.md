@@ -13,29 +13,27 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 - All Civs and most Beliefs and Policies have been completly reworked as such their game stategies. I suggest the players to try reinventing their stategies in their most creative ways.
 
--Most Resources are not revealed until the discovery of a tech, making some combinations stategical in the early-game
+- Most Resources are not revealed until the discovery of a tech, making some combinations stategical in the early-game
 
--Its been added 6 new resources: 3 Bonus (Grapes, Maize, Rice) and 8 Luxuries (Amber, Cocoa, Coffee, Obsidian, Olive, Poppy, Tea, Tobacco) with the addition of 5 Alcohol-related Luxuries (Beer, Vodka, Whisky, Rum, Cognac) in addition to other 
+- Its been added 6 new resources: 3 Bonus (Grapes, Maize, Rice) and 8 Luxuries (Amber, Cocoa, Coffee, Obsidian, Olive, Poppy, Tea, Tobacco) with the addition of 5 Alcohol-related Luxuries (Beer, Vodka, Whisky, Rum, Cognac) in addition to other 
 
--Its been added 6 new alcohol buildings that grant alcohol luxuries (France and the Celts also have new Unique Buildings) 
+- Its been added 6 new alcohol buildings that grant alcohol luxuries (France and the Celts also have new Unique Buildings) 
 
--It's been added new Natural Wonders (and now all Natural Wonders give their yields without having to be worked)
+- It's been added new Natural Wonders (and now all Natural Wonders give their yields without having to be worked)
 
--It's been added a religious victory and some civs have it as their favourite one (Byzantium, Celts, The Ottomans, Spain, Arabia, Ethiopia, Siam)
+- It's been added a religious victory and some civs have it as their favourite one (Byzantium, Celts, The Ottomans, Spain, Arabia, Ethiopia, Siam)
 
--It's been added the ability to relocate your Capital and the event We Love The King Day also give +15% Gold and Production in Capital
+- It's been added the ability to relocate your Capital and the event We Love The King Day also give +15% Gold and Production in Capital
 
--Scouts is now the ancient era starting unit
+- Scouts is now the ancient era starting unit
 
--It's lowered the amount of unhappiness required to spawn rebels (from 20 to 10)
+- It's lowered the amount of unhappiness required to spawn rebels (from 20 to 10)
 
--Cities in Fresh water obtain a growth bonus (+15%)
+- City-States bonuses have been completly reworked
 
--City-States bonuses have been completly reworked
+- Buildings and Roads Upkeep raise by +5% each time you get into the next era (up to +35%)
 
--Buildings and Roads Upkeep raise by +5% each time you get into the next era (up to +35%)
-
--The maintainance of ALL military units is raised by +4% per era, but some UnitsTypes receive an additional raise
+- The maintainance of ALL military units is raised by +4% per era, but some UnitsTypes receive an additional raise
 
 (Mounted: +25%,
  Water: +50%,
@@ -48,32 +46,32 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
  
 # Main War-related changes
   
--Considering the fact that mainteining an army will be a serious investment, the early game will see a decline in snow-balling battles and the late one will witness to a lower number of wars founded merely on the strenght's number. Now the battlefield won't just host bloody conflicts based on the scientifical/industrious levels of the two opponents, but also a major one about their economical situations.
+- Considering the fact that mainteining an army will be a serious investment, the early game will see a decline in snow-balling battles and the late one will witness to a lower number of wars founded merely on the strenght's number. Now the battlefield won't just host bloody conflicts based on the scientifical/industrious levels of the two opponents, but also a major one about their economical situations.
 
--Army Upkeep raises by +5% each time you get into the next era (up to +35%)
+- Army Upkeep raises by +5% each time you get into the next era (up to +35%)
 
--Melee units automatically plunder little amounts of Gold when attacking
+- Melee units automatically plunder little amounts of Gold when attacking
 
--Great General points are offered by buildings (Barracks, Armories, Military Academies) and Wonders (Statue of Zeus, Alhambra, Himeji Castle, Kremlin, Brandenburg Gate, Pentagon)
+- Great General points are offered by buildings (Barracks, Armories, Military Academies) and Wonders (Statue of Zeus, Alhambra, Himeji Castle, Kremlin, Brandenburg Gate, Pentagon)
 
--Great Generals are gained 2x slower when at peace
+- Great Generals are gained 2x slower when at peace
 
--Barracks and Armories give XP on contruction for Land units, while the Harbor and Seaport for the Water ones (Military Academies gives XPs to both of them)
+- Barracks and Armories give XP on contruction for Land units, while the Harbor and Seaport for the Water ones (Military Academies gives XPs to both of them)
 
--Most Water and Air units have been (slightly) buffed in order to compensate their higher maintainance costs and to make them a viable alternative to the Land ones
+- Most Water and Air units have been (slightly) buffed in order to compensate their higher maintainance costs and to make them a viable alternative to the Land ones
  
- -Most upgrade-chains have been reworked, mainly in order to avoid to keep passing from a UnitType to Another (ex: Pikemans do not upgrade to Lancer, but to Musketman; Lancer are upgraded from Knights)
+ - Most upgrade-chains have been reworked, mainly in order to avoid to keep passing from a UnitType to Another (ex: Pikemans do not upgrade to Lancer, but to Musketman; Lancer are upgraded from Knights)
  
- -Scouts have been reworked: now they have both a pecultiar XP and upgradable tree
+ - Scouts have been reworked: now they have both a pecultiar XP and upgradable tree
  
- -Most late-game units have received a required resource (especially Siege units in order to avoid making Iron useless in later eras)
+ - Most late-game units have received a required resource (especially Siege units in order to avoid making Iron useless in later eras)
  
- -Ranged Mounted units now have 1 Range, higher Strengh, and count as Mounted units (instead of ranged ones, this means that they have a malus against anti-cavalry units)
+ - Ranged Mounted units now have 1 Range, higher Strengh, and count as Mounted units (instead of ranged ones, this means that they have a malus against anti-cavalry units)
  
- -The Horde is the new Barbarian replacement for the War Chariot
+ - The Horde is the new Barbarian replacement for the War Chariot
 
 
 # Where can I find you?
 
--If you have any suggestion to make, any bug to report, or you are just looking for a quick way to contact me, here's my mod's official Discord thread:
+- If you have any suggestion to make, any bug to report, or you are just looking for a quick way to contact me, here's my mod's official Discord thread:
 https://discord.com/channels/586194543280390151/1071804673956266096

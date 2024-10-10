@@ -15,7 +15,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 -Most Resources are not revealed until the discovery of a tech, making some combinations stategical in the early-game
 
--Its been added 6 new resources, 1 Bonus (Grapes) and 5 Luxuries (Beer, Vodka, Whisky, Rum, Cognac)
+-Its been added 6 new resources: 3 Bonus (Grapes, Maize, Rice) and 8 Luxuries (Amber, Cocoa, Coffee, Obsidian, Olive, Poppy, Tea, Tobacco) with the addition of 5 Alcohol-related Luxuries (Beer, Vodka, Whisky, Rum, Cognac) in addition to other 
 
 -Its been added 6 new alcohol buildings that grant alcohol luxuries (France and the Celts also have new Unique Buildings) 
 
@@ -23,7 +23,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 -It's been added a religious victory and some civs have it as their favourite one (Byzantium, Celts, The Ottomans, Spain, Arabia, Ethiopia, Siam)
 
--It's been added the ability to relocate your Capital (by selling your Palace and rebuilding it in any city that you want). Now We Love The King Day also give +15% Gold and Production in Capital and Palaces are built twice as fast when under the value -10 Happiness.
+-It's been added the ability to relocate your Capital and the event We Love The King Day also give +15% Gold and Production in Capital
 
 -Scouts is now the ancient era starting unit
 
@@ -52,7 +52,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 -Army Upkeep raises by +5% each time you get into the next era (up to +35%)
 
--Melee units automatically plunder little amounts of Gold (up to a max of 10) when attacking
+-Melee units automatically plunder little amounts of Gold when attacking
 
 -Great General points are offered by buildings (Barracks, Armories, Military Academies) and Wonders (Statue of Zeus, Alhambra, Himeji Castle, Kremlin, Brandenburg Gate, Pentagon)
 

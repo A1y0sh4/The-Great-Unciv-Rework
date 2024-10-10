@@ -82,7 +82,7 @@
 		"turnsToBuild": 8,
 		"production": 1,
 		"techRequired": "Animal Husbandry",
-		"uniques": ["Improvement", "[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+13 Gold]",
+		"uniques": ["Improvement", "[+1 Food] <after discovering [Fertilizer]>", "[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+13 Gold]",
 			    "Provides [2] [Horses] <in [Horses] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>"],
 		"shortcutKey": "P"
 	},

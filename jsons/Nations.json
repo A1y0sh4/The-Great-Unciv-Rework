@@ -107,8 +107,8 @@
 		"innerColor": [248, 202, 86],
 		
 		"uniqueName": "Foreign Immigration",
-		"uniqueText": "Gain for free +1 population in one of your cities upon declaring friendship with another civilization, upon declaring a defensive pact, upon entering a Golden Age and upon constructing a National Wonder",
-		"uniques": ["[+1] population in a random city <upon declaring friendship>", "[+1] population in a random city <upon entering a Golden Age>", "[+1] population in a random city <upon declaring a defensive pact>", "[+1] population in a random city <upon constructing [National Wonder]>"],
+		"uniqueText": "Gain for free +1 population in one of your cities upon declaring friendship with another civilization, upon declaring a defensive pact, upon entering a Golden Age and upon entering a new era",
+		"uniques": ["[+1] population in a random city <upon declaring friendship>", "[+1] population in a random city <upon entering a Golden Age>", "[+1] population in a random city <upon declaring a defensive pact>", "[+1] population in a random city <upon entering a new era>"],
 		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Catamarca","Formosa","San Juan","San Luis","Posadas","Parana","Salta","Neeuquen","Jujuy","La Rioja","Santa Fe","Río Gallegos","Ushuaia"],
 		"spyNames": ["Maria", "Jose", "Jorge", "Miguel", "Hector", "Silvia", "Claudia", "Ricardo", "Juan", "Rosa"]
 	},

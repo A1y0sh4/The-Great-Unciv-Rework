@@ -796,7 +796,7 @@
 	},
 	{
 		"name": "Sacrificial Captives",
-		"uniques": ["Heals [25] damage if it kills a unit", "[This Unit] heals [25] HP <upon conquering a city>", "[This Unit] gains [1] XP <upon damaging a [Military] unit> <hidden from users>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
+		"uniques": ["Heals [25] damage if it kills a unit", "[This Unit] heals [25] HP <upon conquering a city>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "[Persian Immortal] ability",

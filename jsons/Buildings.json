@@ -718,7 +718,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great General": 3},
-		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [{non-air} {Military}] units [in this city] receive the [Morale] promotion", "New [Military] units start with [10] Experience [in this city]",
+		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "[{non-air} {Military}] units gain the [Morale] promotion", "New [Military] units start with [15] Experience [in this city]",
 			"Cost increases by [25] per owned city"],
 		"requiredTech": "Iron Working"
 	},
@@ -1241,7 +1241,7 @@
 {
 		"name": "Neuschwanstein",
 		"happiness": 3,
-		"culture": 1,
+		"culture": 3,
 		"greatPersonPoints": {"Great Artist": 6},
 		"isWonder": true,
 		"uniques": ["[+1 Culture, +1 Happiness, +2 Gold] from every [Castle]",
@@ -1310,7 +1310,7 @@
 		"culture": 3,
 		"greatPersonPoints": {"Great General": 6},
 		"isWonder": true,
-		"uniques": ["Free [Great General] appears", "New [Military] units start with [15] Experience [in this city]"],
+		"uniques": ["Free [Great General] appears", "Gain a free [Military Academy] [in this city]", "New [Military] units start with [15] Experience [in this city]"],
 		"requiredTech": "Military Science",
 		"quote": "'Pale Death beats equally at the poor man's gate and at the palaces of kings.' - Horace"
 	},

@@ -752,7 +752,7 @@
 	// Uniques that should be kept on upgrades
 	{
 		"name": "Morale", // Heroic Epic
-		"uniques": ["[+15]% Strength <while the empire is happy>", "[+5] HP when healing <while the empire is happy>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
+		"uniques": ["[+10]% Strength <while the empire is happy>", "[+5] HP when healing <while the empire is happy>", "[+10]% XP gained from combat <for [Gran Colombia]> <hidden from users>"]
 	},
 	{
 		"name": "Great Generals I", // only for Keshik and subsequent upgrades

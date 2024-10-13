@@ -106,7 +106,7 @@
     {
         "name": "One with Nature",
         "type": "Pantheon",
-        "uniques": ["Comment [+1 [Faith] from Unimproved Resource tiles in this city]", "[+1 Faith] from [Resource] tiles [in this city] <hidden from users>", "[-1 Faith] from [Improvement] tiles [in this city] <in [Resource] tiles> <hidden from users>", "[+2 Faith] from every [Natural Wonder]"]
+        "uniques": ["Comment [+1 [Faith] from every Unimproved Resources]", "[+1 Faith] from [Resource] tiles [in this city] <hidden from users>", "[-1 Faith] from [Improvement] tiles [in this city] <in [Resource] tiles> <hidden from users>", "[+2 Faith] from every [Natural Wonder]"]
     },
     {
         "name": "Oracles of the Mountains",

@@ -1563,7 +1563,7 @@
 		"name": "Hubble Space Telescope",
 		"isWonder": true,
 		"culture": 1,
-		"science": 5,
+		"science": 6,
 		"greatPersonPoints": {"Great Scientist": 6},
 		"uniques": ["[+50]% Production when constructing [National Wonder] buildings [in this city]",
 			    "Gain a free [Spaceship Factory] [in this city]",

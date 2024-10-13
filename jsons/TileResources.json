@@ -497,12 +497,12 @@
 		"terrainsCanBeFoundOn": ["Flood plains", "Grassland", "Marsh", "Jungle"],
 		"food": 1,
 		"improvement": "Plantation",
-		"uniques": ["Resource", "Generated with weight [64] <in [Marsh] tiles>",
-			                "Generated with weight [32] <in [Jungle] Regions>",
-			                "Generated with weight [8] <in [Jungle] tiles>",
-					"Generated with weight [8] <in [Desert] Regions>",
-					"Generated with weight [16] <in [Grassland] Regions>",
-					"Generated with weight [4] <in [Hybrid] Regions>",
+		"uniques": ["Resource", "Generated with weight [76] <in [Marsh] tiles>",
+			                "Generated with weight [47] <in [Jungle] Regions>",
+			                "Generated with weight [18] <in [Jungle] tiles>",
+					"Generated with weight [11] <in [Desert] Regions>",
+					"Generated with weight [29] <in [Grassland] Regions>",
+					"Generated with weight [7] <in [Hybrid] Regions>",
 					"Doesn't generate naturally <in [Grassland] tiles> <in tiles without [Fresh Water]>"]
 	},
 	{

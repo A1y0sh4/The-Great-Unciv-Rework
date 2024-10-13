@@ -1684,7 +1684,7 @@
 		"cost": 317,
 		"requiredTech": "Radar",
 		"upgradesTo": "Jet Fighter",
-		"uniques": ["[100]% chance to intercept air attacks", "[+8] Sight <hidden from users>", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>", "Destroys tile improvements when attacking"],
+		"uniques": ["[100]% chance to intercept air attacks", "[+10] Sight <hidden from users>", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>", "Destroys tile improvements when attacking"],
 		"promotions": ["[Zero] ability"],
 		"attackSound": "machinegun"
 	},
@@ -1966,7 +1966,7 @@
 		"cost": 650,
 		"requiredTech": "Stealth",
 		"requiredResource": "Aluminum",
-		"uniques": ["Damage taken from interception reduced by [90]%", "Destroys tile improvements when attacking", "Cannot be carried by [Carrier] units", "[+16] Sight", "Can see over obstacles"],
+		"uniques": ["Damage taken from interception reduced by [90]%", "Destroys tile improvements when attacking", "Cannot be carried by [Carrier] units", "Can see over obstacles"],
 		"attackSound": "bombing"
 	},
 	{

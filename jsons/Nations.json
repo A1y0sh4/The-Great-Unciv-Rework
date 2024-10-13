@@ -2037,7 +2037,7 @@
 		"innerColor": [18,84,30],
 		
 		"uniqueName": "The Great Turkish Bombard",
-		"uniqueText": "Siege units are built 50% faster, they are 50% stronger against Cities and they gain XP 50% faster\nNewly annexed cities gain for free a Courthouse and receive 1 additional population\nGain +2 [Culture] from every [Courthouse]",
+		"uniqueText": "Siege units are built 50% faster, they are 50% stronger against Cities and they gain XP 50% faster\nNewly annexed cities gain for free a Courthouse and receive +1 additional population\nGain +2 [Culture] from every [Courthouse]",
 		"uniques": ["[+50]% Production when constructing [Siege] units [in all cities]", "[+50]% Strength <for [Siege] units> <vs cities>", "[+50]% XP gained from combat <for [Siege] units>", "Gain a free [Courthouse] [in annexed cities]", "[+2 Culture] from every [Courthouse]"],
 		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyabakir","Izmir","Kayseri","Malatya",
 			"Marsin","Antalya","Zonguldak","Denizli","Ordu","Mugia","Eskishehir","Inebolu","Sinop","Adana","Artuin",

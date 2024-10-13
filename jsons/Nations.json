@@ -1784,8 +1784,8 @@
 		"innerColor": [255,102,102],
 		
 		"uniqueName": "Seven Cities of Gold",
-		"uniqueText": "Gain +200 [Gold] upon discovering a Natural Wonder (modified by game speed)\nGain an additional +2 [Happiness] and +2 [Faith] for every Natural Wonder you have revealed\nNatural Wonders on foreign continents double their yields",
-		"uniques": ["Gain [200] [Gold] <upon discovering a Natural Wonder> <(modified by game speed)>", "[+2 Happiness, +2 Faith] for every known Natural Wonder", "[+100]% Yield from every [Natural Wonder] <on foreign continents>"],
+		"uniqueText": "Gain +300 [Gold] upon discovering a Natural Wonder (modified by game speed)\nGain an additional +2 [Happiness] and +2 [Faith] for every Natural Wonder you have revealed\nNatural Wonders on foreign continents double their yields",
+		"uniques": ["Gain [300] [Gold] <upon discovering a Natural Wonder> <(modified by game speed)>", "[+2 Happiness, +2 Faith] for every known Natural Wonder", "[+100]% Yield from every [Natural Wonder] <on foreign continents>"],
 		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
 			"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
 			"Lugo","Alicante","Càdiz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La Coruña","Guadalquivir","Bilbao",

@@ -54,7 +54,7 @@
 		"production": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Trapping",
-		"uniques": ["Improvement", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+13 Gold]",
+		"uniques": ["Improvement", "[+1 Food] <after discovering [Fertilizer]>", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+13 Gold]",
 		            "Provides [1] [Furs] <in [Furs] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Truffles] <in [Truffles] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>"],
 		"shortcutKey": "C"
 	},

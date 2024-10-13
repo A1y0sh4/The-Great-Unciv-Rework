@@ -395,7 +395,7 @@
 		"maintenance": 4,
 		"hurryCostModifier": 50,
 		"uniques": ["Remove extra unhappiness from annexed cities",
-			"Can only be built <in [Annexed] cities>"],
+			"Can only be built <in [Annexed] cities>", "[+1] population [in this city] <for [The Ottomans] Civilizations> <hidden from users>"],
 		"requiredTech": "Mathematics"
 	},
         {
@@ -406,7 +406,7 @@
 		"maintenance": 2,
 		"faith": 1,
 		"culture": 1,
-		"uniques": ["[-25]% Unhappiness from [Population] [in this city] <during We Love The King Day>"],
+		"uniques": ["[-25]% Unhappiness from [Population] [in this city] <during We Love The King Day>", "[+1] population [in this city] <for [The Ottomans] Civilizations> <hidden from users>"],
 		"requiredTech": "Mathematics"
 	},
 	{

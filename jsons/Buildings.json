@@ -372,7 +372,7 @@
 			"[+1 Production] from [Cattle] tiles [in this city]",
 			"[+1 Production] from [Horses] tiles [in this city]",
 			"[+1 Production] from [Sheep] tiles [in this city]",
-		        "Unsellable", "Provides [1] [Horses] <for [Mongolia]> <hidden from users>"],
+		        "Unsellable", "Provides [1] [Horses] <for [Mongolia] Civilizations> <hidden from users>"],
 		"requiredTech": "Horseback Riding"
 	},
 	{
@@ -387,7 +387,7 @@
 			"[+1 Production] from [Horses] tiles [in this city]",
 			"[+1 Production] from [Sheep] tiles [in this city]",
 			"[+1 Food] from [Pasture] tiles [in this city]",
-		        "Unsellable", "Provides [1] [Horses] <for [Mongolia]> <hidden from users>"],
+		        "Unsellable", "Provides [1] [Horses] <for [Mongolia] Civilizations> <hidden from users>"],
 		"requiredTech": "Horseback Riding"
 	},
 	{
@@ -395,7 +395,7 @@
 		"maintenance": 4,
 		"hurryCostModifier": 50,
 		"uniques": ["Remove extra unhappiness from annexed cities",
-			"Can only be built <in [Annexed] cities>", "[+1] population [in this city] <for [The Ottomans]> <hidden from users>"],
+			"Can only be built <in [Annexed] cities>", "[+1] population [in this city] <for [The Ottomans] Civilizations> <hidden from users>"],
 		"requiredTech": "Mathematics"
 	},
         {
@@ -1515,7 +1515,7 @@
 		"requiredResource": "Aluminum",
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 3},
-		"uniques": ["Triggers a global alert upon completion", "[+33]% [Science] [in all cities] <for [All]>", 
+		"uniques": ["Triggers a global alert upon completion", "[+33]% [Science] [in all cities] <for [All] Civilizations>", 
 			"Hidden when [Scientific] Victory is disabled", "Cannot be hurried", "Only available <if [Sputnik Program] is constructed>"],
 		"requiredTech": "Satellites"
 	},
@@ -1525,7 +1525,7 @@
 		"requiredResource": "Aluminum",
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 3},
-		"uniques": ["Triggers a global alert upon build start", "[+34]% [Science] [in all cities] <for [All]>", 
+		"uniques": ["Triggers a global alert upon build start", "[+33]% [Science] [in all cities] <for [All] Civilizations>", 
 			"Hidden when [Scientific] Victory is disabled", "Cannot be hurried", "Only available <if [Apollo Program] is constructed>"],
 		"requiredTech": "Nanotechnology"
 	},
@@ -1535,7 +1535,7 @@
 		"requiredResource": "Aluminum",
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 3},
-		"uniques": ["Reveals the entire map", "[+33]% [Science] [in all cities] <for [All]>", "Triggers a global alert upon completion", "Cannot be hurried"],
+		"uniques": ["Reveals the entire map", "[+33]% [Science] [in all cities] <for [All] Civilizations>", "Triggers a global alert upon completion", "Cannot be hurried"],
 		"requiredTech": "Rocketry"
 	},
 

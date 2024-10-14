@@ -358,7 +358,7 @@
             },
             {
                 "name": "Protectionism",
-                "uniques": ["[+2 Gold] from every [Luxury resource]"],
+                "uniques": ["[+2 Gold] from every [Luxury resource]", "[+1 Gold] from every [Trading post]"],
                 "requires": ["Mercantilism"],
                 "row": 2,
                 "column": 2

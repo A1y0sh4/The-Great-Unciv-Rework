@@ -121,13 +121,13 @@
     {
         "name": "Religious Idols",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Gold Ore]", "[+1 Culture, +1 Faith] from every [Silver]"]
+        "uniques": ["Comment [+1 [Culture], +1 [Faith] from every [Gold Ore] and [Silver]]", "[+1 Culture] from every [Gold Ore] <hidden from users>", "[+1 Culture] from every [Silver] <hidden from users>", "[+1 Faith] from every [Gold Ore] <hidden from users>", "[+1 Faith] from every [Silver] <hidden from users>"]
     },
      {
         "name": "Ritual Drinks",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Tea]", "[+1 Culture, +1 Faith] from every [Coffee]"]
-    },
+        "uniques": ["Comment [+1 [Culture], +1 [Faith] from every [Tea] and [Coffee]]", "[+1 Culture] from every [Tea] <hidden from users>", "[+1 Culture] from every [Coffee] <hidden from users>", "[+1 Faith] from every [Tea] <hidden from users>", "[+1 Faith] from every [Coffee] <hidden from users>"]
+     },
     {
         "name": "Sacred Path",
         "type": "Pantheon",

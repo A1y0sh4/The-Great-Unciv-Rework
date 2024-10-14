@@ -25,7 +25,7 @@
             {
                 "name": "Legalism",
                 "uniques": [
-                    "[-50]% Unhappiness from [Population] [in capital]"
+                    "[-75]% Unhappiness from [Population] [in capital]"
                 ],
 		"requires": ["Monarchy"],
                 "row": 2,

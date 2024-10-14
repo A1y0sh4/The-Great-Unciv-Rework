@@ -30,10 +30,10 @@
 		"turnsToBuild": 7,
 		"techRequired": "Mining",
 		"uniques": ["Improvement", "[+1 Production] <after discovering [Steam Power]>", "Pillaging this improvement yields approximately [+13 Gold]", "Improves [Amber] resource in this tile",
-		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
-		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>",
-		            "Provides [1] [Gems] <in [Gems] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Silver] <in [Silver] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Copper] <in [Copper] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Salt] <in [Salt] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
-		            "Provides [1] [Amber] <in [Amber] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Gold Ore] <in [Gold Ore] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>"],
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>",
+		            "Provides [1] [Gems] <in [Gems] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Silver] <in [Silver] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Copper] <in [Copper] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Salt] <in [Salt] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>",
+		            "Provides [1] [Amber] <in [Amber] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Gold Ore] <in [Gold Ore] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>"],
 		"shortcutKey": "M"
 	},
 	{
@@ -55,7 +55,7 @@
 		"turnsToBuild": 7,
 		"techRequired": "Trapping",
 		"uniques": ["Improvement", "[+1 Food] <after discovering [Fertilizer]>", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+13 Gold]",
-		            "Provides [1] [Furs] <in [Furs] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Truffles] <in [Truffles] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>"],
+		            "Provides [1] [Furs] <in [Furs] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Truffles] <in [Truffles] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>"],
 		"shortcutKey": "C"
 	},
 	{
@@ -65,7 +65,7 @@
 		"turnsToBuild": 9,
 		"techRequired": "Biology",
 		"uniques": ["Improvement", "Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+21 Gold]",
-		            "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>"],
+		            "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>"],
 		"shortcutKey": "W"
 	},
 	{
@@ -83,7 +83,7 @@
 		"production": 1,
 		"techRequired": "Animal Husbandry",
 		"uniques": ["Improvement", "[+1 Food] <after discovering [Fertilizer]>", "[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+13 Gold]",
-			    "Provides [2] [Horses] <in [Horses] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>"],
+			    "Provides [2] [Horses] <in [Horses] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>"],
 		"shortcutKey": "P"
 	},
 	{
@@ -102,7 +102,7 @@
 		"production": 1,
 		"techRequired": "Masonry",
 		"uniques": ["Improvement", "[+1 Production] <after discovering [Steam Power]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+13 Gold]",
-		            "Provides [1] [Obsidian] <in [Obsidian] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Marble] <in [Marble] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>"],
+		            "Provides [1] [Obsidian] <in [Obsidian] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Marble] <in [Marble] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>"],
 		"shortcutKey": "Q"
 	},
 	{
@@ -228,8 +228,8 @@
 			    "[+7 Science] <during the [Atomic era]> <hidden from users>",
 			    "[+8 Science] <during the [Information era]> <hidden from users>",
 			    "[+9 Science] <during the [Future era]> <hidden from users>",
-		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
-		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>"]
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>"]
 	},
 	{
 		"name": "Landmark",
@@ -247,8 +247,8 @@
 			    "[+7 Culture] <during the [Atomic era]> <hidden from users>",
 			    "[+8 Culture] <during the [Information era]> <hidden from users>",
 			    "[+9 Culture] <during the [Future era]> <hidden from users>",
-		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
-		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>"]
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>"]
 	},
 	{
 		"name": "Manufactory",
@@ -266,8 +266,8 @@
 			    "[+7 Production] <during the [Atomic era]> <hidden from users>",
 			    "[+8 Production] <during the [Information era]> <hidden from users>",
 			    "[+9 Production] <during the [Future era]> <hidden from users>",
-		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
-		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>"]
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>"]
 	},
 	{
 		"name": "Customs house",
@@ -285,8 +285,8 @@
 			    "[+7 Gold] <during the [Atomic era]> <hidden from users>",
 			    "[+8 Gold] <during the [Information era]> <hidden from users>",
 			    "[+9 Gold] <during the [Future era]> <hidden from users>",
-		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
-		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>"]
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>"]
 	},
 	{
 		"name": "Holy site",
@@ -304,8 +304,8 @@
 			    "[+7 Faith] <during the [Atomic era]> <hidden from users>",
 			    "[+8 Faith] <during the [Information era]> <hidden from users>",
 			    "[+9 Faith] <during the [Future era]> <hidden from users>",
-		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
-		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>"]
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>"]
 	},
 	{
 		"name": "Citadel",
@@ -317,8 +317,8 @@
 			"Can be built just outside your borders", "Unpillagable",
         	        "Gain control over [all] tiles in a [1]-tile radius",
 			"Removes removable features when built", "Will not be replaced by automated units <hidden from users>", "Tile provides yield without assigned population",
-		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
-		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>"
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>"]
 		]
 	},
 	//Civilization unique improvements
@@ -456,11 +456,11 @@
 		"name": "City center",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Improvement", "Unpillagable", "Irremovable", "Unbuildable",
-                            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
-		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia]> <hidden from users>",
-		            "Provides [1] [Gems] <in [Gems] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Silver] <in [Silver] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Copper] <in [Copper] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Salt] <in [Salt] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
-		            "Provides [1] [Amber] <in [Amber] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Gold Ore] <in [Gold Ore] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Furs] <in [Furs] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Truffles] <in [Truffles] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>",
-		            "Provides [1] [Obsidian] <in [Obsidian] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>", "Provides [1] [Marble] <in [Marble] tiles> <in [Tundra] tiles> <for [Russia]> <hidden from users>"],
+                            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>",
+		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>",
+		            "Provides [1] [Gems] <in [Gems] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Silver] <in [Silver] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Copper] <in [Copper] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Salt] <in [Salt] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>",
+		            "Provides [1] [Amber] <in [Amber] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Gold Ore] <in [Gold Ore] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Furs] <in [Furs] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Truffles] <in [Truffles] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>",
+		            "Provides [1] [Obsidian] <in [Obsidian] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Marble] <in [Marble] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>"],
         "civilopediaText": [
 			{"text":"Marks the center of a city"},
 			{"text":"Appearance changes with the technological era of the owning civilization"}

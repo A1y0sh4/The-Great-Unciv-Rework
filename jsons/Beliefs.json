@@ -215,7 +215,8 @@
     {
         "name": "Religious Expeditions",
         "type": "Founder",
-        "uniques": ["[+1] Movement <for [Religious Unit] units>", "[+1] Sight <for [Religious Unit] units>", 
+        "uniques": ["Comment [+1 Movement and Sight for religious units]",
+                    "[+1] Movement <for [Religious Unit] units> <hidden from users>", "[+1] Sight <for [Religious Unit] units> <hidden from users>", 
                     "[+1 Culture] for each global city following this religion <for [Byzantium] Civilizations> <hidden from users>"]
     },
     {

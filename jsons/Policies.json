@@ -42,7 +42,8 @@
             {
                 "name": "Landed Elite",
                 "uniques": [
-                    "[+1 Gold] from every [Farm]", "[+1 Gold] from every [Rice paddy] <hidden from users>"
+                    "[+1 Gold] from every [Farm]",
+		    "[+1 Gold] from every [Rice paddy] <hidden from users>"
                 ],
                 "requires": ["Monarchy"],
                 "row": 2,

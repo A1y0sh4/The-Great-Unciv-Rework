@@ -835,7 +835,7 @@
                 "uniques": ["[1] Movement point cost to embark", "[1] Movement point cost to disembark", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
         },
 	{
-		"name": "Barbarian",
+		"name": "Barbarian Unique",
 		"uniques": ["No movement cost to pillage", "Can only heal by pillaging", "Heals [33] damage if it kills a unit", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
         {
@@ -923,7 +923,7 @@
 		"uniques": ["[This Unit] is destroyed"] 
 	},
 	{
-		"name": "Terracotta Army",
+		"name": "Terracotta Army Unique",
 		"uniques": ["[This Unit] gains [10] XP", "Doing so will consume this opportunity to choose a Promotion"],
         },
 ]

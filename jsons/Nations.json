@@ -3418,6 +3418,6 @@
 		"name": "Barbarians",
 		"outerColor": [0,0,0],
 		"innerColor": [183, 12, 12],
-		"uniques": ["[Military] units gain the [Barbarian] promotion", "[+28] Unit Supply"]
+		"uniques": ["[Military] units gain the [Barbarian Unique] promotion", "[+28] Unit Supply"]
 	}
 	]

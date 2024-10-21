@@ -429,7 +429,7 @@
         {
 		"name": "Veche",
 		"replaces": "Colosseum",
-		"cost": 83,
+		"cost": 69,
 		"greatPersonPoints": {"Great General": 1},
 		"happiness": 2,
 		"uniqueTo": "Kievan Rus'",

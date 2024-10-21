@@ -481,7 +481,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 3},
 		"requiredTech": "Construction",
-		"uniques": ["Comment [Military Land units gain 10 XP upon gaining a Great General]", "Comment [Gain a sum of [Culture] depending on the era upon gaining a Great General]", "[{Military} {Land}] units gain the [Terracotta Army] promotion <upon gaining a [Great General] unit> <hidden from users>", "[{Military} {Land}] units gain the [Terracotta Army] promotion <hidden from users>",
+		"uniques": ["Comment [Military Land units gain 10 XP upon gaining a Great General]", "Comment [Gain a sum of [Culture] depending on the era upon gaining a Great General]", "[{Military} {Land}] units gain the [Terracotta Army Unique] promotion <upon gaining a [Great General] unit> <hidden from users>", "[{Military} {Land}] units gain the [Terracotta Army] promotion <hidden from users>",
                         "Gain [20] [Culture] <upon gaining a [Great General] unit> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
 			"Gain [45] [Culture] <upon gaining a [Great General] unit> <during the [Classical era]> <(modified by game speed)> <hidden from users>",
 			"Gain [100] [Culture] <upon gaining a [Great General] unit> <during the [Medieval era]> <(modified by game speed)> <hidden from users>",

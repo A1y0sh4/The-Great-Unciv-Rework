@@ -193,7 +193,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 0,
 		"culture": 1,
-		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Mathematics]>", "[+1 Production, +1 Gold] [in this city] <in [River] tiles>"],
+		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Mathematics]>", "[+1 Production, +1 Gold] <in [River] tiles>"],
 		"requiredTech": "Writing"
 	},
 	{
@@ -649,8 +649,7 @@
 		"cost": 69,
 		"specialistSlots": {"Merchant": 1},
 		"happiness": 2,
-		"culture": 1,
-		"uniques": ["[+1 Gold] from [Resource] tiles [in this city]"],
+		"uniques": ["[+1 Gold] from [Resource] tiles [in this city]", "[+2 Culture] <during a Golden Age>"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Currency"
 	},

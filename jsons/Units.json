@@ -2045,7 +2045,7 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Mongolia",
 		"replaces": "Great General",
-		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>", "[+15]% Strength bonus for [Military] units within [2] tiles", "[+33]% Strength bonus for [Mounted] units within [2] tiles", "Comment [Gets transfered Movement from escorting unit]",
+		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>", "[+15]% Strength bonus for [Military] units within [2] tiles", "[+33]% Strength bonus for [Mounted] units within [2] tiles", "[+10] HP when healing", "All adjacent units heal [+10] HP when healing", "Comment [Gets transfered Movement from escorting unit]",
 			"Can instantly construct a [Citadel] improvement <by consuming this unit>", "Great Person - [War]", "Unbuildable", "Uncapturable", "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence <for [Kievan Rus'] Civilizations> <hidden from users>"],
 		"movement": 5
 	},

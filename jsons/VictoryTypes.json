@@ -11,7 +11,7 @@
     {
         "name": "Cultural",
         "victoryScreenHeader": "Complete the Individualism policy tree\nand build the Utopia Project to win!",
-        "milestones": ["Build [National Epic]", "Build [National College]", "Build [Circus Maximus]", "Build [Heroic Epic]", "Build [National Treasury]", "Build [Ironworks]", "Build [Hermitage]", "Build [Utopia Project]"],
+        "milestones": ["Build [National Epic]", "Build [National College]", "Build [Circus Maximus]", "Build [Heroic Epic]", "Build [Grand Temple] <when religion is enabled>", "Build [National Treasury]", "Build [Ironworks]", "Build [Hermitage]", "Build [National Intelligence Agency] <when espionage is enabled>", "Build [Utopia Project]"],
         "victoryString": "You have achieved victory through the awesome power of your Culture. Your civilization's greatness - the magnificence of its monuments and the power of its artists - have astounded the world! Poets will honor you as long as beauty brings gladness to a weary heart.",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
     },

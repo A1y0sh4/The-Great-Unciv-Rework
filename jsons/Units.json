@@ -1394,7 +1394,7 @@
 		"name": "Ironclad",
 		"unitType": "Melee Water",
 		"movement": 3,
-		"strength": 48,
+		"strength": 50,
 		"cost": 216,
 		"requiredTech": "Steam Power",
 		"requiredResource": "Coal",

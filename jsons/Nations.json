@@ -1826,7 +1826,7 @@
 			    "Earn [140]% of killed [Barbarian] unit's [Cost] as [Culture] <during the [Atomic era]>", "Earn [140]% of killed [Barbarian] unit's [Cost] as [Science] <during the [Atomic era]>",
 			    "Earn [160]% of killed [Barbarian] unit's [Cost] as [Culture] <during the [Information era]>", "Earn [160]% of killed [Barbarian] unit's [Cost] as [Science] <during the [Information era]>",
 			    "Earn [180]% of killed [Barbarian] unit's [Cost] as [Culture] <during the [Future era]>", "Earn [180]% of killed [Barbarian] unit's [Cost] as [Science] <during the [Future era]>",
-			   "[Military] units gain the [Epic Quest] promotion"],
+			   "[Military] units gain the [Epic Quest Unique] promotion"],
 		"cities": ["Uruk","Kish","Ur","Eridu","Umma","Lagash","Sippar","Akshak","Larak","Bad-Tibira","Larsa","Isin","Shruppak","Nibru","Hamazi","Girsu","Jemdet Nasr","Nina"],
 		"spyNames": ["Alad", "Anusan", "Izila", "Bauninsheg", "Ludari", "Gemekala", "Meania", "Ninna", "Sisig", "Sherzi"]
 	},

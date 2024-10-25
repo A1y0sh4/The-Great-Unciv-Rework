@@ -1821,7 +1821,7 @@
 		"movement": 1,
 		"strength": 70,
 		"rangedStrength": 70,
-		"range": 10,
+		"range": 8,
 		"cost": 312,
 		"requiredTech": "Advanced Ballistics",
 		"uniques": ["Destroys tile improvements when attacking", "[-100]% maintenance costs"],

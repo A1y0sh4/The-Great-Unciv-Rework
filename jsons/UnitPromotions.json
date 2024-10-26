@@ -795,7 +795,7 @@
 		"uniques": ["No damage penalty for wounded units", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
 	{
-		"name": "Sacrificial Captives",
+		"name": "Sacrificial Captives Unique",
 		"uniques": ["Heals [25] damage if it kills a unit", "[This Unit] heals [25] HP <upon conquering a city>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
 	{
@@ -847,7 +847,7 @@
 		"uniques": ["Comment [-50% purchase cost]", "Can move immediately once bought", "[+50]% maintenance costs", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
 	{
-		"name": "Guerrilla Tactics",
+		"name": "Guerrilla Tactics Unique",
 		"uniques": ["Ignores terrain cost <in [Friendly Land] tiles>", "Ignores Zone of Control <in [Friendly Land] tiles>", "Can move after attacking", "[+15]% Strength <when fighting in [Friendly Land] tiles>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
 	{

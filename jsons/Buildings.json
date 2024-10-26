@@ -158,7 +158,7 @@
 		"culture": 1,
 		"happiness": 2,
 		"requiredNearbyImprovedResources": ["Wheat","Maize","Rice"],
-		 "uniques": ["Provides [1] [Beer]", "[+1 Culture] <for every [Beer]>", "[+1 Culture] <for every [Whisky]>"],
+		 "uniques": ["Provides [1] [Beer]", "[+1 Culture] <for every [Beer]>"],
 		"requiredTech": "Fermentation"
 	},
 	{

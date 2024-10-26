@@ -404,6 +404,7 @@
 		"uniqueTo": "Holy Roman Empire",
 		"hurryCostModifier": 25,
 		"maintenance": 0,
+		"percentStatBonus": {"gold": 10},
 		"uniques": ["[+1 Gold] per [2] population [in this city] <during We Love The King Day>", "[-25]% Unhappiness from [Population] [in this city] <during We Love The King Day>", "[+1] population [in this city] <for [The Ottomans] Civilizations> <hidden from users>"],
 		"requiredTech": "Mathematics"
 	},

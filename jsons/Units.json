@@ -690,7 +690,7 @@
 		"movement": 2,
 		"strength": 16,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+25]% Strength <vs [City-State]>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+20]% Strength <vs [City-State]>"],
 		"promotions":["Mercenary"],
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",

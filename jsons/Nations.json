@@ -1047,7 +1047,7 @@
 		"innerColor": [45,45,45],
 		
 		"uniqueName": "Free Imperial Cities",
-		"uniqueText": "Can spend Gold to annex or puppet a City-State that has been your ally for 5 turns\nMay not annex cities, but may buy items in puppet cities\nPuppeted cities give an additional +3 [Happiness] and +5 [Gold]",
+		"uniqueText": "Can spend Gold to annex or puppet a City-State that has been your ally for 5 turns\nMay not annex cities, but may buy items in puppet cities\nPuppeted cities do not cause additional unhappiness from the number of cities",
 		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns.", "May not annex cities", "May buy items in puppet cities", "[+3 Happiness, +5 Gold] [in puppeted cities]"],
 		"cities": ["Aachen","Frankfurt","Magdeburg","Regensburg","Strasbourg","Lübeck","Augsburg","Nuremberg","Munich","Worms","Ulm","Dortmund","Mainz","Leipzig","Hannover","Cologne","Stuttgart","Dusseldorf","Bremen",
 			"Duisburg","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",

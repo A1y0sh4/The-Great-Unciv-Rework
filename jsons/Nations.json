@@ -168,7 +168,7 @@
 		
 		"uniqueName": "Organized Warfare",
 		"uniqueText": "Military Land units ignore Zones of Control and can move after attacking\nMilitary Land units are +10% stronger when attacking or defending against cities",
-		"uniques": ["[{Military} {Land}] units gain the [Organized Warfare] promotion", "[+10]% Strength <vs cities> <for [{Military} {Land}] units>"],
+		"uniques": ["[{Military} {Land}] units gain the [Organized Warfare Unique] promotion", "[+10]% Strength <vs cities> <for [{Military} {Land}] units>"],
 		"cities": ["Aššur","Nineveh","Nimrud","Kar-Tukulti-Ninurta","Dur-Šharrukin","Halab","Carchemish","Kanesh","Harran","Imgur-Enlil",
 			"Shubat-Enlil","Qatna","Sareisa","Sam al","Qarqar","Til Barsip","Sultantepe","Erbil","Hamath","Guzana",
 			"Turuspa","Nasibina","Arpad","Kelashin","Urartu","Sabata","Hit"],

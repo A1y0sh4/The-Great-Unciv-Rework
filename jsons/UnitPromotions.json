@@ -899,7 +899,7 @@
 		"uniques": ["[+20]% Strength <vs [Barbarian] units>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"] 
 	},
 	{
-		"name": "Organized Warfare",
+		"name": "Organized Warfare Unique",
 		"uniques": ["Can move after attacking", "Ignores Zone of Control", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"], 
 	},
 	{

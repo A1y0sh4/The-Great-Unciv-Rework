@@ -539,8 +539,9 @@
 		"uniqueTo": "Mapuche",
 		"cost": 40,
 		"maintenance": 1,
-		"uniques": ["[+1 Production, +1 Culture] <when at war>", "Destroyed when the city is captured"],
-		"culture": 2,
+		"uniques": ["[+1 Culture] <when at war>", "Destroyed when the city is captured"],
+		"culture": 1,
+		"happiness": 1,
 		"hurryCostModifier": 15,
 		"requiredTech": "Agriculture"
 	},

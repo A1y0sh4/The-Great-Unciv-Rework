@@ -620,7 +620,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 3},
-		"uniques": ["Must be on [Hill]", "Resting point for Influence with City-States is increased by [15]", "Gain a free [Amphitheater] [in this city]"],
+		"uniques": ["Must be on [Hill]", "Empire enters golden age", "Resting point for Influence with City-States is increased by [10]", "Gain a free [Amphitheater] [in this city]"],
 		"requiredTech": "Drama and Poetry",
 		"quote": "'Earth proudly wears the Parthenon as the best gem upon her zone.' - Ralph Waldo Emerson"
 	},

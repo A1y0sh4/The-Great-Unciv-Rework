@@ -1079,11 +1079,11 @@
 		"name": "Soviet",
 		"replaces": "Theatre",
 		"uniqueTo": "Soviet Union",
-		"culture": 3,
 		"happiness": 2,
 		"hurryCostModifier": 10,
 		"maintenance": 2,
 		"requiredBuilding": "Colosseum",
+		"uniques": ["[+1 Culture] per [3] social policies adopted"],
 		"requiredTech": "Printing Press"
 	},
 	{

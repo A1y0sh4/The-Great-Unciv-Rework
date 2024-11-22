@@ -926,4 +926,8 @@
 		"name": "Terracotta Army Unique",
 		"uniques": ["[This Unit] gains [10] XP", "Doing so will consume this opportunity to choose a Promotion"],
         },
+	{
+		"name": "[Comrade] ability",
+		"uniques": ["[+10]% Strength bonus for [Wounded] units within [1] tiles"]
+	},
 ]

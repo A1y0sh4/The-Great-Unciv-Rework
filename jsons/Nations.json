@@ -1824,7 +1824,8 @@
 		
 		"uniqueName": "Workers Revolution",
 		"uniqueText": "Farms, Plantation, Mines and Quarries yield an additional +1 to each of their respective stats during a Golden Age\nEmpire enters a Golden age upon completing a policy tree",
-		"uniques": ["[+1 Food] from every [Farm] <during a Golden Age>", "[+1 Food] from every [Plantation] <during a Golden Age>", "[+1 Production] from every [Mine] <during a Golden Age>", "[+1 Production] from every [Quarry] <during a Golden Age>"],
+		"uniques": ["[+1 Food] from every [Farm] <during a Golden Age>", "[+1 Food] from every [Plantation] <during a Golden Age>", "[+1 Production] from every [Mine] <during a Golden Age>", "[+1 Production] from every [Quarry] <during a Golden Age>",
+		            "Empire enters golden age <upon adopting [policy/belief]>"],
 		"cities": ["Moscow","Leningrad","Stalingrad","Kiev","Kharkov","Minsk","Novosibirsk","Sverdlovsk","Nizhny Novgorod","Tbilisi",
 			"Rostov","Odessa","Vladivostok","Sevastopol","Magnitogorsk","Tashkent","Baku","Dnipropetrovsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",

@@ -85,6 +85,22 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Sharpshooter",
+		"unitType": "Scout",
+		"uniqueTo": "The Confederate States",
+		"replaces": "Ranger",
+		"movement": 2,
+		"strength": 21,
+		"rangedStrength": 30,
+		"range": 2,
+		"cost": 150,
+		"uniques": ["[+50]% Strength <vs [Siege] units>"],
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Radar",
+		"upgradesTo": "Paratrooper",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Warrior",
 		"unitType": "Sword",
 		"movement": 2,
@@ -1110,6 +1126,20 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Katipunero",
+                "replaces": "Musketman",
+		"uniqueTo": "The Philippines",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 24,
+		"cost": 125,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+                "uniques": ["[+15]% Strength <when fighting units from a Civilization with more Cities than you>", "May attack when embarked"],
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Privateer",
 		"unitType": "Melee Water",
 		"movement": 5,
@@ -1317,6 +1347,20 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Comrade", 
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "Aleksandria",
+		"movement": 2,
+		"strength": 34,
+		"cost": 180,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Great War Infantry",
+		"obsoleteTech": "Replaceable Parts",
+		"promotions": ["[Comrade] ability", "March"],
+		"attackSound": "shot"
+	},
+	{
 		"name": "Cavalry",
 		"unitType": "Mounted",
 		"movement": 4,
@@ -1488,6 +1532,20 @@
 		"obsoleteTech": "Replaceable Parts",
 		"uniques": ["[+15]% Strength <when fighting in [Foreign Land] tiles>"],
 		"promotions": ["Mercenary"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Red Guard",
+		"unitType": "Gunpowder",
+		"replaces": "Great War Infantry",
+		"uniqueTo": "Soviet Union",
+		"movement": 2,
+		"strength": 50,
+		"cost": 220,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"promotions": ["Formation I", "Pride"],
 		"attackSound": "shot"
 	},
 	{

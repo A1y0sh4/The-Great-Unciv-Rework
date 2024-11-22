@@ -1724,4 +1724,56 @@
       "Internationalism": 8
     }
   },
+  {
+		"name": "A1y0sh4",
+		"preferredVictoryType": "Scientific",
+		"culture": 8,
+		"faith": 3,
+		"food": 7,
+		"gold": 5,
+		"happiness": 5,
+		"production": 10,
+		"science": 9,
+		"military": 7,
+		"priorities": {
+			"Tradition": 30,
+			"Liberty": 10,
+			"Expansion": 40,
+			"Commerce": 20,
+			"Diplomacy": 10,
+			"Piety": 10,
+			"Rationalism": 80,
+			"Individualism": 25,
+			"Nationalism": 40,
+			"Cosmopolitanism": 40
+		},
+		"warMongering": 7,
+		"uniques": ["Will not build [Shrine]", "Will not build [Temple]", "Will not build [The Pyramids]", "Will not build [Mausoleum of Halicarnassus]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]"]
+	},
+	{
+		"name": "Lenin",
+		"preferredVictoryType": "Scientific",
+		"culture": 8,
+		"faith": 1,
+		"food": 10,
+		"gold": 3,
+		"happiness": 5,
+		"production": 7,
+		"science": 8,
+		"military": 8,
+		"priorities": {
+			"Tradition": 0,
+			"Liberty": 30,
+			"Expansion": 40,
+			"Commerce": 10,
+			"Diplomacy": 30,
+			"Piety": 0,
+			"Rationalism": 40,
+			"Individualism": 10,
+			"Nationalism": 30,
+			"Cosmopolitanism": 50
+		},
+		"warMongering": 7,
+		"uniques": ["Will not build [Shrine]", "Will not build [Temple]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]"]
+	}
 ]

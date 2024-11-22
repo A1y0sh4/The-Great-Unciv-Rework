@@ -5,6 +5,45 @@
 		"innerColor": [0,0,0]
 	},
 	{
+"name": "Aleksandria",
+"leaderName": "Alyosha",
+"adjective": ["Aleksandrian"],
+"startBias": ["Tundra"],
+"personality": "A1y0sh4",
+
+	"startIntroPart1": "Hail Lyosha, may your laurus dreams bring countless glory upon thee, great Caesar of Aleksandria! Under your enlightened empire lies the vast expanse of the harsh tundra, and behind her veiled marvels hides the real strength of the Pearl of the North. Since the dawn of time your people managed to endure the arduous challenges posed by arctic life and, with a grain of ingenuity and a bit of pride, they succeded to thrive under the solitary bliss of boreal lights. Despite every type of adversity the empire still has to defy, it can steadily rely on their virtues and on your advice for its future to continue to shine.",
+	"startIntroPart2": "O Alyosha, princeps Aleksandri, the Motherland calls and invokes your ambition to fulfill your destiny and lead her people. Will you patronize the flourishing of arts and sciences or will you promote the thriving of arms and strife? Can you build a civilization that will stand the test of time?",
+	
+	"declaringWar": "The deeds sing, goddess, of the Motherland's son, Alyosha,\nwhose war enterprises brought countless glories upon the Comrades,\nand sent forth to Hades many valiant enemies.",
+	"attacked": "Finally someone ambitious enough to try to win me over. May you succeed or die under my triumph.",
+	"defeated": "I know nothing about what I ignore - I'm aware of it -\nand yet still my latest realization burns my soul almost as much,\nin pride, I have burnt till now.",
+	"introduction": "Zdravstvuyte! I am Alyosha, the empiring prince of our glorious Motherland.\nAnd I also happen to be the creator of The GUR mod.",
+	"neutralHello": "Zdravstvuyte.",
+	"neutralLetsHearIt":"What shall we discuss now?",
+	"neutralYes":"Our people are eager to accept.",
+	"neutralNo":"I must respectfully decline.",
+	"hateLetsHearIt":"Have you come here to negotiate your surrender?",
+	"hateNo":"This is a ridiculous proposal!",
+	"hateYes":"Its nice to see that we agree on something, from time to time.",
+	"afterPeace":"I must admit your military genius astonished me.\nConsider yourself honored by my most sincere respect.",
+	"hateHello": "Why are you still on this side of the Acheron?",
+	"tradeRequest": "Some believe that trade is the engine of the world.\nWould you like to move it in this direction?",
+	  
+	"favoredReligion": "Orthodoxy",
+
+	"outerColor": [158, 0, 0],
+	"innerColor": [255, 206, 0],
+
+	"uniqueName": "Pearl of the North",
+	"uniqueText": "Gain +1 [Culture] from every Camp and Pasture adjacent to Tundra\n+1 [Science] from every Mine and Quarry next to Tundra\nGain +1 [Culture] +1 [Science] from every City centers adjacent to Tundra\nThe amounts of bonus [Culture] and [Science] double during a Golden Age",
+	"uniques": ["[+1 Culture] from every [City center] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [City center] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [City center] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [City center] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]>",
+	            "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]> <during a Golden Age>"],
+	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Severgrad","Ugolkar","Lyoshasburg","Medvedorod","Ruthenskar","Lyodgorod",
+		"Tovarivsk","Pobedigrad","Zimnygrad","Knyazinsk","Aleksisburg","Velikoye","Novi Aleksandria","kholodnisburg","Lyoshagrad","Svyatograd","Rekasburg","Veliksandria",
+		"Veragrad","Morozburg","Medvedkar"],
+	"spyNames": ["Irina", "Vera", "Yelizaveta", "Yaroslav", "Nikita", "Yevgeny", "Denis", "Maksim", "Aleksandra", "Adelina"]
+},
+	{
 		"name": "America",
 		"leaderName": "George Washington",
 		"adjective": ["American"],

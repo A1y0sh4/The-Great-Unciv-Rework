@@ -1535,7 +1535,7 @@ NationIcons/Soviet Union
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Red Guard
+UnitIcons/T-34
   rotate: false
   xy: 436, 796
   size: 100, 100

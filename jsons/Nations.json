@@ -1351,7 +1351,7 @@
 		"innerColor": [254, 218, 54],
 		
 		"uniqueName": "Hellenistic Fusion",
-		"uniqueText": "Upon capturing a city receive immediatly 5 times its respective [Science] and [Culture] production and All Military Land units heal 25 HP and gain 3 XP\nUnhappiness from population in puppeted cities is halved when at war\nGreat Generals may found new cities",
+		"uniqueText": "Upon capturing a city receive immediately 5 times its respective [Science] and [Culture] production and all military land units heal 25 HP and gain 3 XP\nUnhappiness from population in puppeted cities is halved when at war\nGreat Generals may found new cities",
 		"uniques": ["Upon capturing a city, receive [5] times its [Science] production as [Science] immediately", "Upon capturing a city, receive [5] times its [Culture] production as [Culture] immediately", "[{Military} {Land}] units gain the [To the World's End] promotion <upon conquering a city>", "[-50]% Unhappiness from [Population] [in puppeted cities] <when at war>"],
 		"cities": ["Pella","Aigai","Thessaloniki","Dion","Pydna","Amphipolis","Alexandropouli","Alexandria Troas","Alexandria","Alexandria Ariana",
 			"Alexandria Arachosia","Alexandria Eschate","Alexandria in Parapamisdai","Alexandria in Margiana","Alexandria Bucephala","Alexandria Rhambakia","Alexandria in Susiana","Stagira","Apollonia","Philippolis",
@@ -2156,9 +2156,9 @@
 		"startIntroPart1": "Greetings, Emilio Aguinaldo, esteemed leader and first President of the Philippines. Your courage and determination ignited the flames of independence, leading your people in a revolutionary struggle against colonial powers. Under your command, the Philippine Republic was born, marking a new chapter in your nation’s storied history.",
                 "startIntroPart2": "As you rise to lead the Philippines once more, may your strategic acumen and unwavering resolve guide your people to prosperity. Will you harness the spirit of Katipunan to unite your country and assert its place on the world stage? Can you build a civilization that will stand the test of time?",
 		
-		"declaringWar": "For the good of The Philipines i must declare war!",
+		"declaringWar": "For the good of the Philipines, I must wage war on you!",
 		"attacked": "You are making a big mistake.",
-		"defeated": "Will this be my last goodbye to you?.",
+		"defeated": "Will this be my last goodbye to you?",
 		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
 		
 		"neutralHello": "Greetings.",
@@ -2170,10 +2170,11 @@
 		"outerColor": [240, 240, 240],
 		"innerColor": [219, 82, 21],
 		
-		"uniqueName": "Pearl of the Orient Seas",
+		"uniqueName": "Pearl of the Oriental Seas",
 		"uniqueText": "Coast tiles yield an additional +1 [Culture] during a Golden Age and during We Love The King Day (cumulative bonus)",
 		"uniques": ["[+1 Culture] from every [Coast] <during a Golden Age>", "[+1 Culture] from every [Coast] <during We Love The King Day>"],
 		"cities": ["Manila","Quezon City","Boracay","Cebú","Puerto Princesa","El Nido","Bohol","Davao","Baguio","Siargao","Corón","Tagaytay","Makati","Taguig","Dumaguete","Bacólod","Puerto Galera","Sagada","Laoag","Zamboanga"]
+		"spyNames": ["Jasmine", "Corazon", "Pedro", "Alejandro", "Remedios", "Marilyn", "Makisig", "Bayani", "Benigno", "Hernán"]
 	},
 	{
 		"name": "Vietnam",

@@ -356,7 +356,8 @@
 			"[+1 Food] for each adjacent [Mountain]",
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
 			"[+1 Food] <after discovering [Fertilizer]>",
-            "Pillaging this improvement yields approximately [+13 Gold]"],
+			"Gain control over [Mountain] tiles in a [1]-tile radius",
+                        "Pillaging this improvement yields approximately [+13 Gold]"],
 		"techRequired": "Calendar",
 		"shortcutKey": "F"
 	},

@@ -1076,17 +1076,6 @@
 		"requiredTech": "Acoustics"
 	},
 	{
-		"name": "Soviet",
-		"replaces": "Theatre",
-		"uniqueTo": "Soviet Union",
-		"happiness": 2,
-		"hurryCostModifier": 10,
-		"maintenance": 2,
-		"requiredBuilding": "Colosseum",
-		"uniques": ["[+1 Culture] per [3] social policies adopted"],
-		"requiredTech": "Printing Press"
-	},
-	{
 		"name": "Bolshoi Theatre",
 		"culture": 1,
 		"isWonder": true,
@@ -1425,6 +1414,18 @@
 		"maintenance": 3,
 		"requiredTech": "Radio",
 		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Soviet",
+		"replaces": "Broadcast Tower",
+		"uniqueTo": "Soviet Union",
+		"cost": 206,
+		"culture": 3,
+		"percentStatBonus": {"culture": 33},
+		"maintenance": 3,
+		"requiredBuilding": "Museum",
+		"uniques": ["[+1 Culture, +1 Happiness] per [6] social policies adopted"],
+		"requiredTech": "Radio"
 	},
 	{
 		"name": "Eiffel Tower",

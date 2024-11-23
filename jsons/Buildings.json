@@ -1424,7 +1424,7 @@
 		"percentStatBonus": {"culture": 33},
 		"maintenance": 3,
 		"requiredBuilding": "Museum",
-		"uniques": ["[+1 Culture, +1 Happiness] per [6] social policies adopted"],
+		"uniques": ["[+1 Culture, +1 Happiness] per [6] social policies adopted", "Destroyed when the city is captured"],
 		"requiredTech": "Radio"
 	},
 	{

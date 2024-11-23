@@ -1808,13 +1808,11 @@
 		"replaces": "Tank",
 		"uniqueTo": "Soviet Union",
 		"movement": 6,
-		"strength": 70,
+		"strength": 66,
 		"cost": 286,
 		"requiredTech": "Combined Arms",
-		"requiredResource": "Oil",
 		"upgradesTo": "Modern Armor",
 		"uniques": ["Can move after attacking", "Destroys tile improvements when attacking", "No defensive terrain bonus"],
-		"promotions": ["March"],
 		"attackSound": "tankshot"
 	},
 	{

@@ -800,7 +800,7 @@
 	},
 	{
 		"name": "[Persian Immortal] ability",
-		"uniques": ["Heals [15] damage if it kills a unit", "[+10] HP when healing", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+		"uniques": ["Heals [20] damage if it kills a unit", "[+10] HP when healing", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
 	{
 		"name": "[Conquistador] ability",

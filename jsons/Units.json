@@ -1535,20 +1535,6 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Red Guard",
-		"unitType": "Gunpowder",
-		"replaces": "Great War Infantry",
-		"uniqueTo": "Soviet Union",
-		"movement": 2,
-		"strength": 50,
-		"cost": 220,
-		"requiredTech": "Replaceable Parts",
-		"upgradesTo": "Infantry",
-		"obsoleteTech": "Plastics",
-		"promotions": ["Formation I", "Pride"],
-		"attackSound": "shot"
-	},
-	{
 		"name": "Triplane",
 		"unitType": "Fighter",
 		"movement": 1,
@@ -1814,6 +1800,21 @@
 		"promotions" : ["Mobility"],
 		"upgradesTo": "Modern Armor",
 		"uniques": ["Can move after attacking", "Destroys tile improvements when attacking", "No defensive terrain bonus"],
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "T-34",
+		"unitType": "Armored",
+		"replaces": "Tank",
+		"uniqueTo": "Soviet Union",
+		"movement": 6,
+		"strength": 70,
+		"cost": 286,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Oil",
+		"upgradesTo": "Modern Armor",
+		"uniques": ["Can move after attacking", "Destroys tile improvements when attacking", "No defensive terrain bonus"],
+		"promotions": ["March"],
 		"attackSound": "tankshot"
 	},
 	{

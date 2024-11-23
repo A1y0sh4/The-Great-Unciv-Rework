@@ -1808,7 +1808,7 @@
 		"replaces": "Tank",
 		"uniqueTo": "Soviet Union",
 		"movement": 6,
-		"strength": 66,
+		"strength": 65,
 		"cost": 286,
 		"requiredTech": "Combined Arms",
 		"upgradesTo": "Modern Armor",

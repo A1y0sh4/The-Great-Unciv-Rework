@@ -74,7 +74,7 @@
                             "[+5 Science] <during the [Modern era]> <hidden from users>",
 			    "[+6 Science] <during the [Atomic era]> <hidden from users>",
 			    "[+7 Science] <during the [Information era]> <hidden from users>",
-			    "[+8 Science] <during the [Future era]> <hidden from users>",]
+			    "[+8 Science] <during the [Future era]> <hidden from users>", "Only available <when religion is enabled>"]
 	},
 	// Column 1
 	{
@@ -526,7 +526,7 @@
 		"replaces": "Temple",
 		"uniqueTo": "Egypt",
 		"maintenance": 2,
-		"uniques": ["[+15]% Production when constructing [All] wonders [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["Only available <when religion is enabled>", "[+15]% Production when constructing [All] wonders [in this city]", "Destroyed when the city is captured"],
 		"faith": 2,
 		"culture": 1,
 		"hurryCostModifier": 25,

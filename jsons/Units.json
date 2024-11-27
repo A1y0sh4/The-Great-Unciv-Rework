@@ -101,6 +101,21 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Katipunero",
+                "replaces": "Ranger",
+		"uniqueTo": "The Philippines",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 25,
+		"rangedStrength": 30,
+		"cost": 150,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Paratrooper",
+                "uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
+		"obsoleteTech": "Radar",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Warrior",
 		"unitType": "Sword",
 		"movement": 2,
@@ -1123,20 +1138,6 @@
 		"promotions": ["[Carolean] ability"],
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Rifleman",
-		"attackSound": "shot"
-	},
-	{
-		"name": "Katipunero",
-                "replaces": "Musketman",
-		"uniqueTo": "The Philippines",
-		"unitType": "Gunpowder",
-		"movement": 3,
-		"strength": 24,
-		"cost": 125,
-		"requiredTech": "Gunpowder",
-		"upgradesTo": "Rifleman",
-                "uniques": ["[+15]% Strength <when fighting units from a Civilization with more Cities than you>", "May attack when embarked"],
-		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	},
 	{

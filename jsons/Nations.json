@@ -1968,8 +1968,8 @@
         "innerColor": [246, 68, 65],
 
 		"uniqueName": "Slave States",
-		"uniqueText": "Plantations double their yields\nCities within 3 tiles of a plantation suffer from 10% more unhappiness from population",
-		"uniques": ["[+100]% Yield from every [Plantation]", "[+10]% Unhappiness from [Population] [in all cities] <within [3] tiles of a [Plantation]>"], 
+		"uniqueText": "Plantations double their yields\nWorkers cost 25% less [Gold] to be purchased\nCities within 3 tiles of a plantation suffer from 10% more unhappiness from population",
+		"uniques": ["[+100]% Yield from every [Plantation]", "[+10]% Unhappiness from [Population] [in all cities] <within [3] tiles of a [Plantation]>", "[Gold] cost of purchasing [Worker] units [-25]%"], 
 		"cities": ["Richmond","Atlanta","New Orleans","Charleston","Austin","Nashville","Mobile","Memphis","Savannah","Montgomery",
 			"Vicksburg","Chattanooga","Wilmington","Columbus","Jackson","Tallahassee","Petersburg","Galveston","Knoxville",
 			"Meridian","Shreveport","Alexandria","Macon","Selma","Little Rock","Greensboro","Augusta","Murfreesboro"]

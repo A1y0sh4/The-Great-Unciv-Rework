@@ -1968,8 +1968,8 @@
         "innerColor": [246, 68, 65],
 
 		"uniqueName": "Slave States",
-		"uniqueText": "Plantations yield an additional +1 [Food], +1 [Gold] and +1 [Faith]\nCities within 2 tiles of a plantation suffer from 10% more unhappiness from population",
-		"uniques": ["[+1 Food, +1 Gold, +1 Faith] from every [Plantation]", "[+10]% Unhappiness from [Population] [in all cities] <within [2] tiles of a [Plantation]>"], 
+		"uniqueText": "Plantations double their yields\nCities within 3 tiles of a plantation suffer from 10% more unhappiness from population",
+		"uniques": ["[+100]% Yield from every [Plantation]", "[+10]% Unhappiness from [Population] [in all cities] <within [3] tiles of a [Plantation]>"], 
 		"cities": ["Richmond","Atlanta","New Orleans","Charleston","Austin","Nashville","Mobile","Memphis","Savannah","Montgomery",
 			"Vicksburg","Chattanooga","Wilmington","Columbus","Jackson","Tallahassee","Petersburg","Galveston","Knoxville",
 			"Meridian","Shreveport","Alexandria","Macon","Selma","Little Rock","Greensboro","Augusta","Murfreesboro"]

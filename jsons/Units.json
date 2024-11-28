@@ -108,6 +108,7 @@
 		"movement": 2,
 		"strength": 25,
 		"rangedStrength": 30,
+		"range": 1,
 		"cost": 150,
 		"requiredTech": "Rifling",
 		"upgradesTo": "Paratrooper",

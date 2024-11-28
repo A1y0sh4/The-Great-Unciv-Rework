@@ -15,7 +15,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 - Most Resources are not revealed until the discovery of a tech, making some combinations stategical in the early-game
 
-- Its been added 6 new resources: 3 Bonus (Grapes, Maize, Rice) and 8 Luxuries (Amber, Cocoa, Coffee, Obsidian, Olive, Poppy, Tea, Tobacco) with the addition of 5 Alcohol-related Luxuries (Beer, Vodka, Whisky, Rum, Cognac) in addition to other 
+- Its been added 6 new resources: 3 Bonus (Grapes, Maize, Rice) and 8 Luxuries (Amber, Cocoa, Coffee, Obsidian, Olive, Poppy, Tea, Tobacco) with the addition of 5 Alcohol-related Luxuries (Beer, Vodka, Whisky, Rum, Cognac) 
 
 - Its been added 6 new alcohol buildings that grant alcohol luxuries (France and the Celts also have new Unique Buildings) 
 

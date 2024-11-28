@@ -1810,7 +1810,7 @@
 	        "startIntroPart1": "",
 		"startIntroPart2": "",
 		
-		"declaringWar": "You are an enemy of the revolution!",
+		"declaringWar": "The despicable ways you treat the proletarians are repulsive. I declare a revolution against you!",
 		"attacked": "You cannot suffocate this revolution.",
 		"defeated": "You may have defeated our forces, but you'll never bend our ideals in favour of your exploitation.",
 		"introduction": "Greetings, I am Lenin, leader of the communist revolution. I hope you will join our cause soon, either in one way or in another.",
@@ -1951,6 +1951,7 @@
 		"adjective": ["Confederate"],
 		 "startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
+		"personality": "Jefferson Davis",
 
         "startIntroPart1": "",
         "startIntroPart2": "",

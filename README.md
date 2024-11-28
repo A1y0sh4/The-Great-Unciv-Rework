@@ -25,7 +25,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 - It's been added the ability to relocate your Capital and the event We Love The King Day also give +15% Gold and Production in Capital
 
-- Scouts is now the ancient era starting unit
+- Scout is now the ancient era starting unit
 
 - It's lowered the amount of unhappiness required to spawn rebels (from 20 to 10)
 

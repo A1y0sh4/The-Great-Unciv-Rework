@@ -1804,5 +1804,34 @@
       "Nationalism": 10,
       "Internationalism": 1
     }
-  },
+  }, 
+	 {
+    "name": "Emilio Aguinaldo",
+    "production": 3,
+    "food": 8,
+    "gold": 4,
+    "science": 6,
+    "culture": 10,
+    "happiness": 8,
+    "faith": 6,
+    "military": 4,
+    "aggressive": 1,
+    "declareWar": 2,
+    "commerce": 7,
+    "diplomacy": 8,
+    "loyal": 8,
+    "expansion": 2,
+    "priorities": {
+      "Tradition": 8,
+      "Liberty": 2,
+      "Expansion": 1,
+      "Commerce": 7,
+      "Diplomacy": 4,
+      "Piety": 6,
+      "Rationalism": 7,
+      "Individualism": 9,
+      "Nationalism": 5,
+      "Internationalism": 3
+    }
+  }
 ]

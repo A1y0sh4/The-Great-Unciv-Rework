@@ -1775,5 +1775,34 @@
 		},
 		"warMongering": 7,
 		"uniques": ["Will not build [Shrine]", "Will not build [Temple]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]"]
-	}
+	}, 
+	{
+    "name": "Jefferson Davis",
+    "production": 5,
+    "food": 7,
+    "gold": 9,
+    "science": 6,
+    "culture": 5,
+    "happiness": 4,
+    "faith": 8,
+    "military": 7,
+    "aggressive": 7,
+    "declareWar": 6,
+    "commerce": 5,
+    "diplomacy": 3,
+    "loyal": 4,
+    "expansion": 6,
+    "priorities": {
+      "Tradition": 2,
+      "Liberty": 7,
+      "Expansion": 8,
+      "Commerce": 8,
+      "Diplomacy": 2,
+      "Piety": 6,
+      "Rationalism": 7,
+      "Individualism": 4,
+      "Nationalism": 10,
+      "Internationalism": 1
+    }
+  },
 ]

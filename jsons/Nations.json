@@ -2176,8 +2176,11 @@
 		"innerColor": [219, 82, 21],
 		
 		"uniqueName": "Pearl of the Oriental Seas",
-		"uniqueText": "Coast tiles yield an additional +1 [Culture] during a Golden Age and during We Love The King Day (cumulative bonus)",
-		"uniques": ["[+1 Culture] from every [Coast] <during a Golden Age>", "[+1 Culture] from every [Coast] <during We Love The King Day>"],
+		"uniqueText": "While the empire is happy, cities yield +1 [Culture] per every 2 Coast tiles they have adjacent\nDuring a Golden age, Coast tiles adjacent to cities yield an additional +1 [Production]",
+		"uniques": ["[+1 Culture] [in all cities] <with [2] to [3] neighboring [Coast] tiles> <while the empire is happy>",
+		            "[+2 Culture] [in all cities] <with [4] to [5] neighboring [Coast] tiles> <while the empire is happy>",
+		            "[+3 Culture] [in all cities] <with [6] to [6] neighboring [Coast] tiles> <while the empire is happy>",
+		            "[+1 Production] from every [Coast] <with [1] to [1] neighboring [City center] tiles> <during a Golden Age>"],
 		"cities": ["Manila","Quezon City","Boracay","Cebú","Puerto Princesa","El Nido","Bohol","Davao","Baguio","Siargao","Corón","Tagaytay","Makati","Taguig","Dumaguete","Bacólod","Puerto Galera","Sagada","Laoag","Zamboanga","Caloocan","Cabanatuan","Iloilo","Malolos","Pasay","Mambajao","Nabunturan","Navotas","Cavite El Viejo","Pasig","Las Pinas","Biak-na-Bato","Jaro","Tarlac","Palanan","Bacolor"]
 		"spyNames": ["Jasmine", "Corazon", "Pedro", "Alejandro", "Remedios", "Marilyn", "Makisig", "Bayani", "Benigno", "Hernán"]
 	},

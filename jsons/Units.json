@@ -112,7 +112,7 @@
 		"cost": 150,
 		"requiredTech": "Rifling",
 		"upgradesTo": "Paratrooper",
-                "uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you> <in [Friendly Land] tiles>"],
+                "uniques": ["[+20]% Strength <in [Friendly Land] tiles> <when fighting units from a Civilization with more Cities than you>"],
 		"promotions": ["Survivalism I"], 
 		"obsoleteTech": "Radar",
 		"attackSound": "shot"

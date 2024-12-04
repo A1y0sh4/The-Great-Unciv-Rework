@@ -1593,7 +1593,7 @@
 		"isWonder": true,
 		"culture": 1,
 		"greatPersonPoints": {"Great Merchant": 6},
-		"uniques": ["[+5 Happiness, +2 Culture] from every [Broadcast Tower]","Gain a free [Broadcast Tower] [in all cities]"],
+		"uniques": ["[+3 Happiness, +3 Culture] from every [Broadcast Tower]", "Gain a free [Broadcast Tower] [in all cities]"],
 		"requiredTech": "Telecommunications",
 		"quote": "'Nothing travels faster than light with the possible exception of bad news, which obeys its own special rules.' - Douglas Adams"
 	},

@@ -1224,7 +1224,7 @@
 		"replaces": "Windmill",
 		"uniqueTo": "The Confederate States",
 		"food": 2,
-		"requiredNearbyImprovedResources": ["Bananas", "Citrus", "Cocoa", "Coffee", "Cotton", "Grape", "Incense", "Silk", "Sugar", "Tobacco", "Olive", "Poppy"],
+		"requiredNearbyImprovedResources": ["Bananas", "Citrus", "Cocoa", "Coffee", "Cotton", "Grape", "Incense", "Silk", "Sugar", "Tobacco", "Olive", "Poppy", "Tea", "Maize"],
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"maintenance": 0,

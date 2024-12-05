@@ -42,7 +42,7 @@
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Severgrad","Ugolkar","Lyoshasburg","Medvedorod","Ruthenskar","Lyodgorod",
 		"Tovarivsk","Pobedigrad","Zimnygrad","Knyazinsk","Aleksisburg","Velikoye","Novi Aleksandria","kholodnisburg","Lyoshagrad","Svyatograd","Rekasburg","Veliksandria",
 		"Veragrad","Morozburg","Medvedkar"],
-	"spyNames": ["Irina", "Vera", "Yelizaveta", "Yaroslav", "Nikita", "Yevgeny", "Denis", "Maksim", "Aleksandra", "Adelina"]
+	"spyNames": ["Irina", "Yaroslav", "Vera", "Nikita", "Yelizaveta", "Yevgeny", "Aleksandra", "Vadim", "Adelina", "Maksim"]
 },
 	{
 		"name": "America",

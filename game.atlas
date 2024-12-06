@@ -1081,7 +1081,7 @@ TileSets/FantasyHex/Tiles/Perito Moreno
   orig: 32, 36
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Eyjafjallajökull
+TileSets/FantasyHex/Tiles/Eyjafjallajokull
   rotate: false
   xy: 1273, 752
   size: 32, 36

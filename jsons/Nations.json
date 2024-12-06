@@ -1131,7 +1131,7 @@
 		"innerColor": [3,115,86],
 		"uniqueName": "Great Andean Road",
 		"uniqueText": "Light units can move through Mountains and Hills without Movement point penalties\nGain +2 [Gold] from every mountain",
-		"uniques": ["[Sword] units gain the [Climber] promotion", "[Archer] units gain the [Climber] promotion", "[Scout] units gain the [Climber] promotion",
+		"uniques": ["[Sword] units gain the [Climber] promotion", "[Archer] units gain the [Climber] promotion", "[Scout] units gain the [Climber] promotion", "[Worker] units gain the [Climber] promotion", "[Settler] units gain the [Climber] promotion",
 			    "[+2 Gold] from every [Mountain]"],
 		"cities": ["Cuzco","Tiwanaku","Machu","Ollantaytambo","Corihuayrachina","Huamanga","Rumicucho","Vilcabamba","Vitcos",
 			"Andahuaylas","Ica","Arequipa","Nasca","Atico","Juli","Chuito","Chuquiapo","Huanuco Pampa","Tamboccocha",

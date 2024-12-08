@@ -1602,7 +1602,7 @@
 		"strength": 70,
 		"cost": 312,
 		"requiredTech": "Plastics",
-		"uniques": ["[+50]% Strength <vs [Barbarian] units>", "[+25]% Strength <in [Rough terrain] tiles>"],
+		"uniques": ["[+33]% Strength <vs [Barbarian] units>", "[+33]% Strength <in [Rough terrain] tiles>"],
 		"promotions": ["Woodsman"],
 		"upgradesTo": "Spec Ops",
 		"obsoleteTech": "Mobile Tactics",

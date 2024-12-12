@@ -776,11 +776,11 @@
 		            "Gain [1755] [Science] <upon constructing [World Wonder] [in all cities]> <during the [Information era]> <on [Endless] game speed>",
 		            "Gain [2970] [Science] <upon constructing [World Wonder] [in all cities]> <during the [Future era]> <on [Endless] game speed>", 
 			    "[+1 Food, +1 Production] in cities on [River] tiles"],
-		"cities": ["Thebes","Memphis","Heliopolis","Pi-Ramesses","Alexandria","Giza","Elephantine","Byblos","Akhetaten",
-			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
-			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
-			   "Balat","Ellahun","Hawara","Dashur","Damanhur","Abusir","Herakleopolis","Akoris",
-			   "Benihasan","Badari","Hermopolis","Amrah","Koptos","Ombos","Naqada","Semna","Soleb"],
+		"cities": ["Waset","Men-Nefer","Iunu","Per-Ramessu","Ra-Kadet","Rostja","Abu","Zau","Amarna",
+			   "Nekhen","Abedju","Zawty","Hut-Waret","Itj-Tawy","Per-Wadjet","Behdet","Per-Atum","Djedu","Kahun","Hut-Heryib",
+			   "Djedet","Khemenu","Djanet","Per-Bast","Ma-Hejd","Tjebnutjer","Khent-Min","Ipet-Isut","Nut","Nekheb","Armant",
+			   "Herwer","Ellahun","Hawara","Dashur","Timinhor","Per-Wasir","Henen-Nesut","Per-Imen-Mat-Khent",
+			   "Menat Khufu","Badari","Weprehwy","Amrah","Gebtu","Komb Ombos","Nubt","Heh","Soleb"],
 		"spyNames": ["Refaat", "Heba", "Salah", "Ahmed", "Zakaria", "Bastet", "Ma'at", "Nebhet", "Tefenet", "Neuth"]
 	},
 	{

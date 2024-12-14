@@ -436,9 +436,9 @@
 		"name": "Umah",
 		"uniqueTo": "Majapahit",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"turnsToBuild": 4,
+		"turnsToBuild": 5,
 		"techRequired": "Sailing",
-		"uniques": ["Improvement", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "Cannot be built on [Resource] tiles", "[+1 Food, +1 Faith] for each adjacent [Water resource]", "[+1 Food] <after discovering [Replaceable Parts]>", "Pillaging this improvement yields approximately [+13 Gold]", "Tile provides yield without assigned population", "Will not be replaced by automated units <hidden from users>"],
+		"uniques": ["Improvement", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "[+1 Food, +1 Faith] for each adjacent [Water resource]", "[+1 Food] <after discovering [Replaceable Parts]>", "Pillaging this improvement yields approximately [+13 Gold]", "Tile provides yield without assigned population", "Will not be replaced by automated units <hidden from users>"],
 		"shortcutKey": "R"
 	},
 	

@@ -329,7 +329,7 @@
 		"culture": 1,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 6,
-		"uniques": ["Improvement", "Can only be built on [Coastal] tiles", "Comment [+1 [Culture] per every 3 adjacent Coast tiles]", "[+1 Culture] <with [3] to [5] neighboring [Coast] tiles> <hidden from users>", "[+1 Culture] <with [6] to [6] neighboring [Coast] tiles> <hidden from users>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+13 Gold]", "Tile provides yield without assigned population", "Will not be replaced by automated units <hidden from users>"],
+		"uniques": ["Improvement", "Can only be built on [Coastal] tiles", "Comment [+1 [Culture] per every 3 adjacent [Coast] tiles]", "[+1 Culture] <with [3] to [5] neighboring [Coast] tiles> <hidden from users>", "[+1 Culture] <with [6] to [6] neighboring [Coast] tiles> <hidden from users>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+13 Gold]", "Tile provides yield without assigned population", "Will not be replaced by automated units <hidden from users>"],
 		"techRequired": "Sailing",
 		"shortcutKey": "M"
 	},

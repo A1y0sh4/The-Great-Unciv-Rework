@@ -380,7 +380,7 @@
 	{
 		"name": "Lake Baikal",
 		"type": "NaturalWonder",
-		"food": 1,
+		"food": 2,
 		"gold": 1,
 		"faith": 1,
 		"occursOn": ["Tundra"],

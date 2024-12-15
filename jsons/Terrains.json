@@ -380,12 +380,13 @@
 	{
 		"name": "Lake Baikal",
 		"type": "NaturalWonder",
-		"food": 2,
+		"food": 1,
 		"gold": 1,
+		"faith": 1,
 		"occursOn": ["Tundra"],
 		"uniques": ["Fresh water", "Must be adjacent to [2] to [6] [Tundra] tiles",
 			"Must be adjacent to [0] to [2] [Hill] tiles",
-			"Occurs in groups of [2] to [2] tiles", "Must be adjacent to [0] [Coast] tiles", "Tile provides yield without assigned population", "Grants [+20 Faith] to the first civilization to discover it"],
+			"Occurs in groups of [1] to [2] tiles", "Must be adjacent to [0] [Coast] tiles", "Tile provides yield without assigned population", "Grants [+20 Faith] to the first civilization to discover it"],
 		"turnsInto": "Coast",
 		"impassable": true,
 		"unbuildable": true,
@@ -818,7 +819,7 @@
 		"turnsInto": "Coast",
 		"impassable": false,
 		"unbuildable": true,
-		"uniques": ["Fresh water", "Must be adjacent to [0] [Coast] tiles", "Must be adjacent to [2] to [6] [Plains] tiles", "Occurs in groups of [2] to [3] tiles", "Tile provides yield without assigned population", "Grants [Civilized] ([Stronger against Barbarians]) to adjacent [{Military} {Land}] units for the rest of the game"],
+		"uniques": ["Fresh water", "Must be adjacent to [0] [Coast] tiles", "Must be adjacent to [2] to [6] [Plains] tiles", "Occurs in groups of [1] to [3] tiles", "Tile provides yield without assigned population", "Grants [Civilized] ([Stronger against Barbarians]) to adjacent [{Military} {Land}] units for the rest of the game"],
 		"weight": 10
 	},
 	{

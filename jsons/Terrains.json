@@ -449,11 +449,11 @@
 		"overrideStats": true,
 		"occursOn": ["Plains", "Grassland"],
 		"turnsInto": "Grassland",
-		"impassable": false,
+		"impassable": true,
 		"unbuildable": true,
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [4] to [6] [Jungle] tiles",
-			"Only [All Road] improvements may be built on this tile", "Tile provides yield without assigned population", "Grants [+100 Gold] to the first civilization to discover it"],
+			"Tile provides yield without assigned population", "Grants [+100 Gold] to the first civilization to discover it"],
 		"weight": 10
 	},
 	{

@@ -840,13 +840,13 @@
 		"name": "Artists Workshop",
 		"replaces": "Workshop",
 		"uniqueTo": "Italy",
-	        "greatPersonPoints": {"Great Artist": 1},
+	        "greatPersonPoints": {"Great Artist": 2},
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 	        "specialistSlots": {"Engineer": 1},
 		"production": 2,
 	        "percentStatBonus": {"production": 10},
-		"uniques": ["[+1 Culture] from every [World Wonder]"]
+		"uniques": ["[+1 Culture] from every specialist [in this city] <during a Golden Age>", "[+1 Culture] from every [World Wonder] <during a Golden Age>"]
 		"requiredTech": "Metal Casting"
 	},
 	{

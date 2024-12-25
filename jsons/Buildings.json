@@ -295,7 +295,7 @@
 	},
         {
 		"name": "Great Wall",
-		"culture": 1,
+		"culture": 2,
 		"greatPersonPoints": {"Great Engineer": 3},
 		"isWonder": true,
 		"uniques": ["Enemy [Barbarian] units must spend [1] extra movement points when inside your territory", "Enemy [Mounted] units must spend [1] extra movement points when inside your territory", "Provides a [Walls] in your first [4] cities for free", "[+15]% Strength <vs [Barbarian] units> <when fighting in [your] tiles>"],
@@ -356,7 +356,7 @@
 	{
 		"name": "The Great Lighthouse",
 		"cost": 167,
-		"culture": 1,
+		"culture": 2,
 		"greatPersonPoints": {"Great Merchant": 3},
 		"isWonder": true,
 		"uniques": ["Must be next to [Water]", "[+1] Movement <for [Water] units>",
@@ -486,7 +486,7 @@
 	},
 	{
 		"name": "Terracotta Army",
-		"culture": 1,
+		"culture": 2,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 3},
 		"requiredTech": "Construction",
@@ -557,7 +557,7 @@
 	},
 {
 		"name": "Chichen Itza",
-		"culture": 1,
+		"culture": 2,
 		"happiness": 3,
 		"greatPersonPoints": {"Great Engineer": 3},
 		"isWonder": true,
@@ -567,7 +567,7 @@
 	},
 	{
 		"name": "Teotihuacan Pyramids",
-		"culture": 1,
+		"culture": 2,
 		"faith": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 3},
@@ -587,10 +587,10 @@
 	},
 	{
 		"name": "The Oracle",
-		"culture": 3,
+		"culture": 2,
 		"greatPersonPoints": {"Great Scientist": 3},
 		"isWonder": true,
-		"uniques": ["Free Great Person", "[+15]% Great Person generation [in all cities]", "Must be next to [Mountain]"],
+		"uniques": ["Free Great Person", "[+33]% Great Person generation [in all cities]", "Must be next to [Mountain]"],
 		"requiredTech": "Philosophy",
 		"quote": "'The ancient Oracle said that I was the wisest of all the Greeks. It is because I alone, of all the Greeks, know that I know nothing' - Socrates"
 	},
@@ -628,7 +628,7 @@
 	},
 	{
 		"name": "Parthenon",
-		"culture": 1,
+		"culture": 2,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 3},
 		"uniques": ["Must be on [Hill]", "Empire enters golden age", "Resting point for Influence with City-States is increased by [10]", "Gain a free [Amphitheater] [in this city]"],
@@ -675,7 +675,7 @@
 	},
 	{ 
 		"name": "Petra",
-		"culture": 1,
+		"culture": 2,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 3},
 		"uniques": ["Must have an owned [Desert] within [1] tiles", "[+1 Food, +1 Production, +1 Gold] from [Desert] tiles without [Flood plains] [in this city]", "[+6 Culture] [in this city] <after discovering [Archaeology]>"],
@@ -684,7 +684,7 @@
 	},
 {
 		"name": "Mausoleum of Halicarnassus",
-		"culture": 1,
+		"culture": 2,
 		"greatPersonPoints": {"Great Merchant": 3},
 		"isWonder": true,
 		"uniques": ["Gain [100] [Gold] <(modified by game speed)>", "Gain [100] [Gold] <upon expending a [Great Person] unit> <(modified by game speed)>", "Must be next to [Water]",
@@ -694,7 +694,7 @@
 	},
 	{ 
 		"name": "Great Zimbabwe",
-		"culture": 1,
+		"culture": 2,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Merchant": 3},
 		"uniques": ["Must be on [Hill]", "[+1 Gold] from [Resource] tiles [in this city]", "[+25]% [Gold] [in all cities] <during We Love The King Day>"],
@@ -713,7 +713,7 @@
         {
 		"name": "Machu Picchu",
 		"greatPersonPoints": {"Great Merchant": 3},
-		"culture": 1,
+		"culture": 2,
 		"isWonder": true,
 		"cityStrength": 3,
 		"cityHealth": 15,
@@ -734,7 +734,7 @@
 	{
 		"name": "Colossus",
 		"cost": 185,
-		"culture": 1,
+		"culture": 2,
 		"gold": 3,
 		"greatPersonPoints": {"Great Merchant": 3},
 		"isWonder": true,
@@ -748,7 +748,7 @@
 	// Column 5
 	{
 		"name": "Hagia Sophia",
-		"culture": 1,
+		"culture": 2,
 		"faith": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 3},
@@ -758,7 +758,7 @@
 	},
 	{
 		"name": "Great Mosque of Djenne",
-		"culture": 1,
+		"culture": 2,
 		"faith": 3,
 		"greatPersonPoints": {"Great Engineer": 3},
 		"isWonder": true,
@@ -915,7 +915,7 @@
 	{
 		"name": "Oxford University",
 		"science": 3,
-		"culture": 1,
+		"culture": 2,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 3},
 		"uniques": ["Gain a free [University] [in this city]", "Free Technology"],
@@ -924,7 +924,7 @@
 	},
 	{
 		"name": "Angkor Wat",
-		"culture": 1,
+		"culture": 2,
 		"faith": 3,
 		"greatPersonPoints": {"Great Engineer": 3},
 		"isWonder": true,
@@ -967,7 +967,7 @@
 	},
 	{
 		"name": "Alhambra",
-		"culture": 1,
+		"culture": 2,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 3},
 		"percentStatBonus": {"culture": 25},
@@ -978,8 +978,7 @@
 	},
 	{
 		"name": "Red Fort",
-		"culture": 1,
-		"happiness": 3,
+		"culture": 2,
 		"isWonder": true,
 		"greatPersonPoints": {"Great General": 3},
 		"uniques": ["Gain a free [Castle] [in this city]", "Gain [100] [Gold] <upon constructing [Wonders] [in all cities]> <(modified by game speed)>", "Gain [100] [Culture] <upon gaining a [Great Person] unit> <(modified by game speed)>"],
@@ -999,9 +998,8 @@
 	},
 	{
 		"name": "Notre Dame",
-		"faith": 3,
 		"happiness": 3,
-		"culture": 1,
+		"culture": 2,
 		"greatPersonPoints": {"Great Engineer": 3},
 		"isWonder": true,
 		"uniques": ["[+15]% Production when constructing [All] wonders [in all cities]", "Gain a free [Cathedral] [in this city]"],
@@ -1206,7 +1204,7 @@
 	},
 	{
 		"name": "Porcelain Tower",
-		"culture": 1,
+		"culture": 3,
 		"greatPersonPoints": {"Great Scientist": 6},
 		"isWonder": true,
 		"uniques": ["Free [Great Scientist] appears", "Science gained from research agreements [+50]%", "Gain a free [Pagoda] [in this city]"],
@@ -1269,7 +1267,7 @@
 	},
 	{
 		"name": "The Louvre",
-		"culture": 1,
+		"culture": 3,
 		"happiness": 4,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 6},
@@ -1349,6 +1347,7 @@
 	{
 		"name": "Brandenburg Gate",
 		"culture": 3,
+		"production": 4,
 		"greatPersonPoints": {"Great General": 6},
 		"isWonder": true,
 		"uniques": ["Free [Great General] appears", "Gain a free [Military Academy] [in this city]", "New [Military] units start with [15] Experience [in this city]"],
@@ -1694,7 +1693,7 @@
 		"name": "AI Singularity",
 		"requiredTech": "Advanced AI",
 		"maintenance": 5,
-		"culture": 6,
+		"culture": 5,
 		"greatPersonPoints": {"Great Engineer": 12},
 		"isWonder": true,
 		"uniques": ["[+50]% [Food] [in all cities]",
@@ -1710,7 +1709,7 @@
 	{
 		"name": "Utopia Project",
 		"cost": 2140,
-		"culture": 6,
+		"culture": 5,
 		"greatPersonPoints": {"Great Artist": 12},
 		"isWonder": true,
 		"uniques": ["Triggers a global alert upon build start",
@@ -1731,7 +1730,7 @@
 		"name": "United Nations",
 		"isWonder": true,
 		"cost": 2140,
-		"culture": 6,
+		"culture": 5,
 		"greatPersonPoints": {"Great Merchant": 12},
 		"uniques": ["Triggers voting for the Diplomatic Victory", "Only available <when [Diplomatic] Victory is enabled>", "Triggers a global alert upon build start", "Triggers a global alert upon completion", "Comment [Only avaible after finishing the Internationalism tree]", "Only available <after adopting [Internationalism Complete]> <hidden from users>", "Cannot be hurried"],
 		"quote": "'More than ever before in human history, we share a common destiny. We can master it only if we face it together. And that is why we have the United Nations.' - Kofi Annan"

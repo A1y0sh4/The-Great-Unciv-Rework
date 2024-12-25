@@ -848,7 +848,7 @@
                 "innerColor": [255, 56, 56],
 		
 		"uniqueName": "Spirit of Adwa",
-		"uniqueText": "+1 [Science] in all cities within 3 tiles of a [Holy site] (+1 additional [Science] per passed era)\n+20% Strength for Military units within 3 tiles of a [Holy site] in Friendly Land tiles",
+		"uniqueText": "+1 [Science] in all cities within 3 tiles of a [Holy site] (+1 additional [Science] per passed era)\n+20% Strength for Military units within 3 tiles of a [Holy site] in Friendly Land tiles\nConstructing a [Holy site] gain control of its surrounding tiles",
 		"uniques": ["[+1 Science] [in all cities] <within [3] tiles of a [Holy site]> <during the [Ancient era]>", 
 			    "[+2 Science] [in all cities] <within [3] tiles of a [Holy site]> <during the [Classical era]>", 
 		            "[+3 Science] [in all cities] <within [3] tiles of a [Holy site]> <during the [Medieval era]>", 

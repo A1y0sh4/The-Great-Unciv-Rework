@@ -41,14 +41,8 @@
             },
             {
                 "name": "Landed Elite",
-                "uniques": [ "Comment [+1 [Gold] from every [Farm] when not on resources non-improvable by farms]",
-                    "[+1 Gold] from every [Farm] <hidden from users>",
-		    "[-1 Gold] from every [Farm] <in [Resource] tiles> <hidden from users>",
-			"[+1 Gold] from every [Farm] <in [Wheat] tiles> <hidden from users>",
-			"[+1 Gold] from every [Farm] <in [Rice] tiles> <hidden from users>",
-		    "[+1 Gold] from every [Rice paddy] <hidden from users>",
-		    "[-1 Gold] from every [Rice paddy] <in [Resource] tiles> <hidden from users>",
-			"[+1 Gold] from every [Rice paddy] <in [Rice] tiles> <hidden from users>"
+                "uniques": [
+			"[+1 Gold] from every [Bonus resource]"
                 ],
                 "requires": ["Monarchy"],
                 "row": 2,

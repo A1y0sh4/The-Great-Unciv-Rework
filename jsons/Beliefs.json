@@ -362,7 +362,7 @@
     {
         "name": "Holy Order",
         "type": "Enhancer",
-        "uniques": ["Comment [+33% [Faith] cost of purchasing [Missionary], [Inquisitor]]", "[Faith] cost of purchasing [Missionary] units [-33]% <hidden from users>", "[Faith] cost of purchasing [Inquisitor] units [-33]% <hidden from users>"]
+        "uniques": ["Comment [-33% [Faith] cost of purchasing [Missionary], [Inquisitor]]", "[Faith] cost of purchasing [Missionary] units [-33]% <hidden from users>", "[Faith] cost of purchasing [Inquisitor] units [-33]% <hidden from users>"]
     },
     {
         "name": "Inquisition Tribunals",

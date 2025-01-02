@@ -2001,9 +2001,9 @@
 		"innerColor": [	71, 6, 23],
 		
 		"uniqueName": "Gifts From the Storm Gods",
-		"uniqueText": "Gain 3 amounts of the Strategic resources you have revealed\nGain +2 [Gold] for every Strategic resource you own",
+		"uniqueText": "Gain 3 amounts of the Strategic resources you have revealed\nGain +1 [Gold] for every Strategic resource you own\nGain +33% yield from every strategic resource",
 		"uniques": ["Provides [3] [Horses] <after discovering [Animal Husbandry]>", "Provides [3] [Iron] <after discovering [Iron Working]>", "Provides [3] [Coal] <after discovering [Industrialization]>", "Provides [3] [Oil] <after discovering [Biology]>", "Provides [3] [Aluminum] <after discovering [Electricity]>", "Provides [3] [Uranium] <after discovering [Atomic Theory]>",
-			    "[+2 Gold] <for every [Horses]>", "[+2 Gold] <for every [Iron]>", "[+2 Gold] <for every [Coal]>", "[+2 Gold] <for every [Oil]>", "[+2 Gold] <for every [Aluminum]>", "[+2 Gold] <for every [Uranium]>"],
+			    "[+1 Gold] <for every [Horses]>", "[+1 Gold] <for every [Iron]>", "[+1 Gold] <for every [Coal]>", "[+1 Gold] <for every [Oil]>", "[+1 Gold] <for every [Aluminum]>", "[+1 Gold] <for every [Uranium]>", "[+33]% Yield from every [Strategic resource]"],
 		"cities": ["Hattuša","Neša","Kuššara","Samuha","Tarhuntašša","Kadesh","Lusna","Alalah","Halab","Tunip",
 			"Zalpa","Hakpish","Nerik","Shallapsa","Arinna","Adaniya","Apasha","Waliwanda","Tapikka","Tuwanuwa",
 			"Ura","Milid","Urshu","Arwada","Sanahuitta","Dimashku","Millawanda","Gaziura","Ugarit"],

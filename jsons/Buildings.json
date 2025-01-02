@@ -360,8 +360,8 @@
 		"culture": 2,
 		"greatPersonPoints": {"Great Merchant": 3},
 		"isWonder": true,
-		"uniques": ["Must be next to [Water]", "[+1] Movement <for [Water] units>",
-			"[+1] Sight <for [Water] units>", "Gain a free [Lighthouse] [in this city]", "[+10]% [Food] [in this city]"],
+		"uniques": ["Must be next to [Water]", "[+1] Movement <for [All] units> <in [Water] tiles>",
+			"[+1] Sight <for [All] units> <in [Water] tiles>", "Gain a free [Lighthouse] [in this city]", "[+10]% [Food] [in this city]"],
 		"requiredTech": "Optics",
 		"quote": "'They that go down to the sea in ships, that do business in great waters; these see the works of the Lord, and his wonders in the deep.' - The Bible, Psalms 107:23-24"
 	},
@@ -739,6 +739,7 @@
 		"culture": 2,
 		"gold": 3,
 		"greatPersonPoints": {"Great Merchant": 3},
+		"percentStatBonus": {"gold": 10},
 		"isWonder": true,
 		"uniques": ["Must be next to [Water]", "[+1 Gold] from [Water] tiles [in this city]", "Gain a free [Harbor] [in this city]"],
 		"requiredTech": "Shipbuilding",

@@ -301,8 +301,8 @@
 		"innerColor": [134,238,214],
 
 		"uniqueName": "Sacrificial Captives",
-		"uniqueText": "Units heal 25 HP if they kill a unit or capture a city\nUpon killing a unit gain 50% of its Strength as [Faith]\nUpon capturing a city receive immediatly its [Production] output as [Faith]",
-		"uniques": ["[{Military} {Land}] units gain the [Sacrificial Captives Unique] promotion", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "Upon capturing a city, receive [1] times its [Production] production as [Faith] immediately"],
+		"uniqueText": "Units heal 25 HP if they kill a unit or capture a city\nUpon killing a unit gain 50% of its Strength as [Faith]\nUpon capturing a city receive immediatly double its [Production] output as [Faith]",
+		"uniques": ["[{Military} {Land}] units gain the [Sacrificial Captives Unique] promotion", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "Upon capturing a city, receive [2] times its [Production] production as [Faith] immediately"],
 		"cities": ["Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
 			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
 			"Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac",

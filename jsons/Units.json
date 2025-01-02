@@ -275,7 +275,8 @@
 		"movement": 3,
 		"strength": 16,
 		"requiredTech": "Shipbuilding",
-		"uniques": ["Cannot enter ocean tiles", "Transfer Movement to [Civilian]", "[+50]% XP gained from combat"],
+		"uniques": ["Cannot enter ocean tiles"],
+		"promotions": ["[Quinquereme] ability"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"

@@ -1253,7 +1253,7 @@
 		"requiredBuilding": "Harbor",
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 6},
-		"uniques": ["Gain a free [Arsenal] [in this city]", "[+15]% Production when constructing [Water] units [in this city]", "[-15]% maintenance costs <for [Water] units>", "[+15]% XP gained from combat <for [Water] units>", "New [{Water} {Military}] units start with [15] Experience [in this city]"],
+		"uniques": ["Gain a free [Arsenal] [in this city]", "[+25]% Production when constructing [Water] units [in this city]", "[-25]% maintenance costs <for [Water] units>", "New [{Water} {Military}] units start with [15] Experience [in this city]"],
 		"requiredTech": "Metallurgy",
 		"quote": "'Happy is that city which in time of peace thinks of war' - Inscription on the venetian armory",
 	},

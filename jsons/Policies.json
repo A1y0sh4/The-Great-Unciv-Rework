@@ -262,7 +262,7 @@
         ]
     },
     {
-        "name": "Diplomacy",
+        "name": "Relations",
         "era": "Medieval era",
         "priorities": {
             "Neutral": 0,
@@ -323,7 +323,7 @@
                 "column": 4
             },
             {
-                "name": "Diplomacy Complete",
+                "name": "Relations Complete",
                 "uniques": [
                     "Promotes all spies [1] time(s)", "New spies start with [1] level(s)"
                 ]

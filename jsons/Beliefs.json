@@ -257,7 +257,7 @@
     {
         "name": "Guruship",
         "type": "Follower",
-        "uniques": ["[+2 Culture, +1 Faith] [in cities following this religion] <in cities with at least [1] [Specialists]>"]
+        "uniques": ["[+2 Culture, +1 Happiness] [in cities following this religion] <in cities with at least [1] [Specialists]>"]
     },
     {
         "name": "Holy Warriors",

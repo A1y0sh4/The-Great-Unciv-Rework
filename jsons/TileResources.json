@@ -429,7 +429,7 @@
 		"name": "Ivory",
 		"resourceType": "Luxury",
 		"revealedBy": "Animal Husbandry",
-		"terrainsCanBeFoundOn": ["Plains", "Grassland", "Desert"],
+		"terrainsCanBeFoundOn": ["Plains", "Grassland", "Desert", "Jungle"],
 		"gold": 1,
 		"improvement": "Camp",
 		"uniques": ["Resource", "Generated with weight [35] <in [Plains] Regions>",

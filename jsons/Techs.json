@@ -177,7 +177,6 @@
 				"name": "Imperial Games",
 				"row": 5,
 				"prerequisites": ["Horseback Riding","Fermentation","Construction","Mathematics"],
-				"uniques": ["[-10]% Unhappiness from [Population] [in all cities] <during a Golden Age>"],
 				"quote": "'The People who once upon a time handed out military command, high civil office, legions — everything, now restrains itself and anxiously hopes for just two things: bread and circuses.' - Juvenal"
 			},
 			{

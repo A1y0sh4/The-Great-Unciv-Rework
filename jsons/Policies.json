@@ -177,7 +177,7 @@
             {
                 "name": "State Logistics",
                 "uniques": [
-                    "[-50]% maintenance on road & railroads", ""
+                    "[-50]% maintenance on road & railroads", "Improves movement speed on roads"
                 ],
                 "requires": ["Professional Army"],
                 "row": 3,

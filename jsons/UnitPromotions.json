@@ -844,7 +844,7 @@
 	},
 	{
 		"name": "Mercenary",
-		"uniques": ["Comment [-50% purchase cost]", "Can move immediately once bought", "[+50]% maintenance costs", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+		"uniques": ["Comment [-25% purchase cost]", "Can move immediately once bought", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
 	{
 		"name": "Guerrilla Tactics Unique",

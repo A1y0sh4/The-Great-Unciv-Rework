@@ -714,17 +714,6 @@
 		"uniques": ["[+2 Food] <in tiles without [River]> <hidden from users>", "Comment [Gives addition [Food] to cities without Rivers]"],
 		"requiredTech": "Engineering",
 	},
-        {
-		"name": "Machu Picchu",
-		"greatPersonPoints": {"Great Merchant": 3},
-		"culture": 2,
-		"isWonder": true,
-		"cityStrength": 3,
-		"cityHealth": 15,
-		"uniques": ["[+25]% [Gold] from Trade Routes", "[+15]% Strength <for [Military] units> <when fighting in [Hill] tiles>", "Must be next to [Mountain]"],
-		"requiredTech": "Engineering",
-		"quote": "'Few romances can ever surpass that of the granite citadel on top of the beetling precipices of Machu Picchu, the crown of Inca Land.' - Hiram Bingham"
-	},
 	{
 		"name": "Heroic Epic",
 		"cost": 100,
@@ -1021,6 +1010,15 @@
 		"quote": "'Architecture has recorded the great ideas of the human race. Not only every religious symbol, but every human thought has its page in that vast book.' - Victor Hugo"
 	},
 	{
+		"name": "Leaning Tower of Pisa",
+		"culture": 3,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Artist": 3},
+		"uniques": ["[+33]% Great Person generation [in all cities]", "Free Great Person"],
+		"requiredTech": "Physics",
+		"quote": "'Don't clap too hard - it's a very old building.' - John Osbourne"
+	},
+	{
 		"name": "Armory",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
@@ -1118,14 +1116,15 @@
 		"requiredTech": "Banking"
 	},
 	{
-		"name": "Forbidden Palace",
+		"name": "Machu Picchu",
+		"greatPersonPoints": {"Great Merchant": 6},
 		"culture": 3,
 		"isWonder": true,
-		"greatPersonPoints": {"Great Artist": 6},
-		"uniques": ["[-15]% Unhappiness from [Population] [in all cities]", "[+15]% Production towards any buildings that already exist in the Capital"],
-		"requiredBuilding": "Palace",
+		"cityStrength": 5,
+		"cityHealth": 25,
+		"uniques": ["[+25]% [Gold] from Trade Routes", "[+15]% Strength <for [Military] units> <when fighting in [Hill] tiles>", "Must be next to [Mountain]"],
 		"requiredTech": "Banking",
-		"quote": "'Most of us can, as we choose, make of this world either a palace or a prison' - John Lubbock"
+		"quote": "'Few romances can ever surpass that of the granite citadel on top of the beetling precipices of Machu Picchu, the crown of Inca Land.' - Hiram Bingham"
 	},
 	{
 		"name": "Theatre",
@@ -1145,13 +1144,14 @@
 		"quote": "'Totus mundus agit histrionem.' - Inscription above main entrance to the Globe Theatre"
 	},
 	{
-		"name": "Leaning Tower of Pisa",
+		"name": "Forbidden Palace",
 		"culture": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 6},
-		"uniques": ["[+33]% Great Person generation [in all cities]", "Free Great Person"],
+		"uniques": ["[-15]% Unhappiness from [Population] [in all cities]", "[+15]% Production towards any buildings that already exist in the Capital"],
+		"requiredBuilding": "Palace",
 		"requiredTech": "Printing Press",
-		"quote": "'Don't clap too hard - it's a very old building.' - John Osbourne"
+		"quote": "'Most of us can, as we choose, make of this world either a palace or a prison' - John Lubbock"
 	},
 	{
 		"name": "Himeji Castle",

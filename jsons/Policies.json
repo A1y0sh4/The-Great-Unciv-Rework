@@ -278,7 +278,7 @@
             {
                 "name": "Mercenary Opportunism",
                 "uniques": [
-                    "When defeating a [Military] unit, earn [10] Gold and recruit it <with [15]% chance>"
+                    "When defeating a [Military] unit, earn [10] Gold and recruit it <with [15]% chance>", "[+3] Unit Supply", 
                 ],
                 "row": 1,
                 "column": 4

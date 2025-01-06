@@ -1001,16 +1001,32 @@
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
 		"uniqueTo": "Denmark",
-		"cost": 89,
+		"cost": 87,
 		"movement": 2,
 		"strength": 19,
 		"requiredTech": "Metal Casting",
 		"upgradesTo": "Musketman",
-		"obsoleteTech": "Metallurgy",
+		"obsoleteTech": "Gunpowder",
 		"uniques": ["[+1] Movement <in [Water] tiles>", "[+1] Movement <in [River] tiles>", "Transfer Movement to [Civilian]"],
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Mohawk Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "Iroquois",
+		"replaces": "Longswordsman",
+		"cost": 125,
+		"movement": 2,
+		"strength": 21,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"hurryCostModifier": 20,
+		"uniques": ["Can move after attacking"],
+		"promotions": ["[Mohawk Warrior] ability", "Ambush I"],
+		"attackSound": "shot"
 	},
 
 	// Rennaisance Era
@@ -1067,22 +1083,6 @@
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"attackSound": "shot"
-	},
-	{
-		"name": "Mohawk Warrior",
-		"unitType": "Gunpowder",
-		"uniqueTo": "Iroquois",
-		"replaces": "Musketman",
-		"cost": 145,
-		"movement": 3,
-		"strength": 24,
-		"requiredTech": "Gunpowder",
-		"upgradesTo": "Rifleman",
-		"obsoleteTech": "Rifling",
-		"hurryCostModifier": 20,
-		"uniques": ["Invisible to non-adjacent units", "Can move after attacking"],
-		"promotions": ["[Mohawk Warrior] ability"],
 		"attackSound": "shot"
 	},
 	{

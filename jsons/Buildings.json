@@ -1774,7 +1774,7 @@
 		"uniques": ["Unbuildable", "Only available <when religion is enabled>"]
 	},
 	{
-		"name": "Gurdwara",
+		"name": "Stupa",
 		"cost": 143,
 		"food": 3,
 		"faith": 2,

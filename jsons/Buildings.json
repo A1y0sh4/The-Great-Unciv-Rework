@@ -1781,7 +1781,7 @@
 	{
 		"name": "Stupa",
 		"cost": 143,
-		"food": 3,
+		"happiness": 3,
 		"faith": 2,
 		"culture": 1,
 		"requiredBuilding": "Temple",

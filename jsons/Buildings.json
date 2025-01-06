@@ -468,7 +468,7 @@
 	{
 		"name": "Sanchi Stupa",
 		"culture": 2,
-		"happiness": 3,
+		"faith": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 3},
 		"uniques": ["[25]% of excess happiness converted to [Food] <when not at war>", "[25]% of excess happiness converted to [Production] <when at war>", "Gain a free [Stupa] [in this city]", "Only available <when religion is enabled>"],

@@ -544,8 +544,8 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Art of War",
-		"uniqueText": "Great General's Strength bonus is doubled\nGain the normal amount of Great General points when not at war\nSpies operate if they were one level more experienced",
-		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [+50]% faster <when not at war>", "[+25]% spy effectiveness [in all cities]"],
+		"uniqueText": "Great General's Strength bonus is doubled\nSpies operate if they were one level more experienced",
+		"uniques": ["Great General provides double combat bonus", "[+25]% spy effectiveness [in all cities]"],
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",

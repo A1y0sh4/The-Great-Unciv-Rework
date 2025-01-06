@@ -312,7 +312,6 @@
 		"name": "Barracks",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"greatPersonPoints": {"Great General": 1},
 		"uniques": ["New [{Land} {Military}] units start with [15] Experience [in this city]", "[+1] Unit Supply", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
@@ -324,7 +323,6 @@
 		"cityHealth": 10,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"greatPersonPoints": {"Great General": 1},
 		"uniques": ["[-33]% Culture cost of natural border growth [in this city]", "[-33]% Gold cost of acquiring tiles [in this city]",
 			"New [{Land} {Military}] units start with [15] Experience [in this city]", "[+1] Unit Supply", "Destroyed when the city is captured", "Gain control over [Resource] tiles in a [2]-tile radius <hidden from users>"],
 		"requiredTech": "Bronze Working"
@@ -1029,7 +1027,6 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredBuilding": "Barracks",
-		"greatPersonPoints": {"Great General": 1},
 		"uniques": ["New [{Land} {Military}] units start with [15] Experience [in this city]", "[+1] Unit Supply", "Destroyed when the city is captured"],
 		"requiredTech": "Metal Casting"
 	},
@@ -1041,7 +1038,6 @@
 		"maintenance": 0,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Barracks",
-                "greatPersonPoints": {"Great General": 1},
 		"uniques": ["New [{Land} {Military}] units start with [15] Experience [in this city]", "[+1 Gold] per [3] social policies adopted", "[+1] Unit Supply", "Destroyed when the city is captured"],
 		"requiredTech": "Metal Casting"
 	},
@@ -1051,7 +1047,7 @@
 		"uniqueTo": "Zulu",
 		"food": 2,
 		"hurryCostModifier": 25,
-		"requiredBuilding": "Barracks",
+                "requiredBuilding": "Barracks",
 		"maintenance": 1,
 		"uniques": ["New [{Land} {Military}] units start with [15] Experience [in this city]", "All newly-trained [Sword] units [in this city] receive the [Buffalo Horns I] promotion", "Destroyed when the city is captured"],
 		"requiredTech": "Metal Casting"
@@ -1354,7 +1350,6 @@
 		"hurryCostModifier": 0,
 		"maintenance": 1,
 		"requiredBuilding": "Armory",
-		"greatPersonPoints": {"Great General": 1},
 		"uniques": ["New [Military] units start with [15] Experience [in this city]", "[+1] Unit Supply", "Destroyed when the city is captured"],
 		"requiredTech": "Military Science"
 	},

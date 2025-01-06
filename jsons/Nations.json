@@ -1165,7 +1165,7 @@
 		
 		"uniqueName": "Population Growth",
 		"uniqueText": "Cities in Fresh water tiles gain +2 [Food] and +1 [Faith]\nMay buy [Food] buildings with [Faith] for 25% of their [Production] cost",
-		"uniques": ["[+2 Food, +1 Faith] [in all cities] <in [fresh water] tiles>",
+		"uniques": ["[+2 Food, +1 Faith] in cities on [Fresh Water] tiles",
 		"May buy [Granary] buildings for [10] [Faith] [in all cities]",
 		"May buy [Water Mill] buildings for [15] [Faith] [in all cities]",
 		"May buy [Aqueduct] buildings for [21] [Faith] [in all cities]",

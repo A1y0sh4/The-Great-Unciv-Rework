@@ -168,7 +168,7 @@
             {
                 "name": "City Militia",
                 "uniques": [
-                    "[-67]% maintenance costs <for [Military] units> <in [City center] tiles>", "[+2 Happiness, +1 Production] [in all cities with a garrison]"
+                    "[-50]% maintenance costs <for [Military] units> <in [City center] tiles>", "[+2 Happiness, +1 Production] [in all cities with a garrison]"
                 ],
                 "requires": ["Warrior Code"],
                 "row": 2,
@@ -177,7 +177,7 @@
             {
                 "name": "State Logistics",
                 "uniques": [
-                    "[-50]% maintenance on road & railroads"
+                    "[-50]% maintenance on road & railroads", ""
                 ],
                 "requires": ["Professional Army"],
                 "row": 3,
@@ -186,7 +186,7 @@
             {
                 "name": "Professional Army",
                 "uniques": [
-                    "[-25]% maintenance costs <for [All] units>", "[+5] Unit Supply"
+                    "[-50]% maintenance costs <for [Military] units>", "[+1] Unit Supply per city"
                 ],
                 "requires": ["Military Tradition"],
                 "row": 2,

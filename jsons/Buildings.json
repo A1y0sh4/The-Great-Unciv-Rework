@@ -990,6 +990,16 @@
 		"quote": "'If heaven can be on the face of the earth,\nIt is this, it is this, it is this.' - Amir Khusrow"
 	},
 	{
+		"name": "Forbidden Palace",
+		"culture": 2,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Artist": 3},
+		"uniques": ["[-15]% Unhappiness from [Population] [in all cities]", "[+15]% Production towards any buildings that already exist in the Capital"],
+		"requiredBuilding": "Palace",
+		"requiredTech": "Steel",
+		"quote": "'Most of us can, as we choose, make of this world either a palace or a prison' - John Lubbock"
+	},
+	{
 		"name": "Ironworks",
 		"cost": 100,
 		"percentStatBonus": {"production": 50},
@@ -1142,16 +1152,6 @@
 		"uniques": ["Must be next to [Fresh water]", "Gain a free [Theatre] [in this city]", "[+2 Gold] from every [Theatre]"],
 		"requiredTech": "Printing Press",
 		"quote": "'Totus mundus agit histrionem.' - Inscription above main entrance to the Globe Theatre"
-	},
-	{
-		"name": "Forbidden Palace",
-		"culture": 3,
-		"isWonder": true,
-		"greatPersonPoints": {"Great Artist": 6},
-		"uniques": ["[-15]% Unhappiness from [Population] [in all cities]", "[+15]% Production towards any buildings that already exist in the Capital"],
-		"requiredBuilding": "Palace",
-		"requiredTech": "Printing Press",
-		"quote": "'Most of us can, as we choose, make of this world either a palace or a prison' - John Lubbock"
 	},
 	{
 		"name": "Himeji Castle",

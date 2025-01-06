@@ -1579,7 +1579,7 @@
 		"requiredResource": "Aluminum",
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 3},
-		"uniques": ["Triggers a global alert upon completion", "[+25]% [Science] [in all cities] <for [All] Civilizations>", 
+		"uniques": ["Triggers a global alert upon completion", "[+150 Science] [in capital] <for [All] Civilizations>", 
 			"Only available <when [Scientific] Victory is enabled>", "Cannot be hurried", "Only available <if [Sputnik Program] is constructed>"],
 		"requiredTech": "Satellites"
 	},
@@ -1589,7 +1589,7 @@
 		"requiredResource": "Aluminum",
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 3},
-		"uniques": ["Triggers a global alert upon build start", "[+25]% [Science] [in all cities] <for [All] Civilizations>", 
+		"uniques": ["Triggers a global alert upon build start", "[+250 Science] [in capital] <for [All] Civilizations>", 
 			"Only available <when [Scientific] Victory is enabled>", "Cannot be hurried", "Only available <if [Apollo Program] is constructed>"],
 		"requiredTech": "Nanotechnology"
 	},
@@ -1599,7 +1599,7 @@
 		"requiredResource": "Aluminum",
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 3},
-		"uniques": ["Reveals the entire map", "[+25]% [Science] [in all cities] <for [All] Civilizations>", "Triggers a global alert upon completion", "Cannot be hurried"],
+		"uniques": ["Reveals the entire map", "[+100 Science] [in capital] <for [All] Civilizations>", "Triggers a global alert upon completion", "Cannot be hurried"],
 		"requiredTech": "Rocketry"
 	},
 

@@ -186,7 +186,7 @@
             {
                 "name": "Professional Army",
                 "uniques": [
-                    "[-33]% Gold cost of upgrading <for [Military] units>", "[-15]% maintenance costs <for [Military] units>"
+                    "[-33]% Gold cost of upgrading <for [Military] units>", "[+5] Unit Supply"
                 ],
                 "requires": ["Military Tradition"],
                 "row": 2,
@@ -278,7 +278,7 @@
             {
                 "name": "Mercenary Opportunism",
                 "uniques": [
-                    "When defeating a [Military] unit, earn [10] Gold and recruit it <with [15]% chance>", "[+3] Unit Supply", 
+                    "When defeating a [Military] unit, earn [10] Gold and recruit it <with [15]% chance>", "[Gold] cost of purchasing [Military] units [-25]%",
                 ],
                 "row": 1,
                 "column": 4
@@ -543,7 +543,7 @@
             },
             {
                 "name": "Militarism",
-                "uniques": ["[Gold] cost of purchasing [Military] units [-33]%",
+                "uniques": ["[-33]% Gold cost of upgrading <for [Military] units>",
 		"[+15]% [Science] from every [Military Academy]"],
                 "row": 1,
                 "column": 5

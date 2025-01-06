@@ -1385,10 +1385,9 @@
 	{
 		"name": "Hospital",
 		"requiredBuilding": "Aqueduct",
-		"percentStatBonus": {"food": 10},
 		"maintenance": 2,
 		"hurryCostModifier": 0,
-		"uniques": ["All newly-trained [relevant] units [in this city] receive the [Medic] promotion"],
+		"uniques": ["[50]% Food is carried over after population increases [in this city]", "All newly-trained [relevant] units [in this city] receive the [Medic] promotion"],
 		"requiredTech": "Biology"
 	},
 	{

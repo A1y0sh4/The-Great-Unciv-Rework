@@ -475,7 +475,7 @@
 		"happiness": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 3},
-		"uniques": ["Gain a free [Stupa] [in this city]", "Only available <when religion is enabled>"],
+		"uniques": ["[50]% of excess happiness converted to [Food]", "Gain a free [Stupa] [in this city]", "Only available <when religion is enabled>"],
 		"requiredTech": "Imperial Games",
 		"quote": "'All religions should reside everywhere, for all of them desire self-control and purity of heart.' - Ashoka",
 	},

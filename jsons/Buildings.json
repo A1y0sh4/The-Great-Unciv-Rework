@@ -63,18 +63,14 @@
 		"requiredTech": "Spirituality",
 		"cost": 69,
 		"faith": 2,
+		"science": 2,
 		"hurryCostModifier": 25,
 		"maintenance": 2,
 		"uniques": ["Destroyed when the city is captured",
-			    "Comment [+1 [Science] per past era]", "Cost increases by [17] per owned city", "Cost increases by [17] when built",
-			    "[+1 Science] <during the [Classical era]> <hidden from users>",
-			    "[+2 Science] <during the [Medieval era]> <hidden from users>",
-                            "[+3 Science] <during the [Renaissance era]> <hidden from users>",
-                            "[+4 Science] <during the [Industrial era]> <hidden from users>",
-                            "[+5 Science] <during the [Modern era]> <hidden from users>",
-			    "[+6 Science] <during the [Atomic era]> <hidden from users>",
-			    "[+7 Science] <during the [Information era]> <hidden from users>",
-			    "[+8 Science] <during the [Future era]> <hidden from users>", "Only available <when religion is enabled>"]
+			    "[+1 Faith, +1 Science] <after discovering [Theology]>",
+			    "[+1 Culture] <after discovering [Archaeology]>",
+			    "[+1 Culture] <after discovering [Flight]>",
+			    "Only available <when religion is enabled>"]
 	},
 	// Column 1
 	{

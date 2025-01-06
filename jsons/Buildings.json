@@ -1099,13 +1099,13 @@
 		"requiredTech": "Acoustics"
 	},
 	{
-		"name": "Bolshoi Theatre",
+		"name": "Porcelain Tower",
 		"culture": 3,
+		"greatPersonPoints": {"Great Scientist": 6},
 		"isWonder": true,
-		"greatPersonPoints": {"Great Artist": 6},
-		"uniques": ["Gain a free [Opera House] [in this city]", "[+50]% Production when constructing [Culture] buildings [in all cities]"],
+		"uniques": ["Free [Great Scientist] appears", "Science gained from research agreements [+50]%", "Gain a free [Pagoda] [in this city]"],
 		"requiredTech": "Acoustics",
-		"quote": "'Bolshoi Ballet is a universe of the imagination, a place of magic and enchantment, beauty and romance. Its many worlds vibrate with graceful dancers, glorious music, and sumptuous costumes.' - Trudy Garfunkel"
+		"quote": "'Things always seem fairer when we look back at them, and it is out of that inaccessible tower of the past that Longing leans and beckons.' - James Russell Lowell"
 	},
 	{
 		"name": "Sistine Chapel",
@@ -1221,13 +1221,13 @@
 		"quote": "'The Taj Mahal rises above the banks of the river like a solitary tear suspended on the cheek of time.' - Rabindranath Tagore"
 	},
 	{
-		"name": "Porcelain Tower",
+		"name": "Bolshoi Theatre",
 		"culture": 3,
-		"greatPersonPoints": {"Great Scientist": 6},
 		"isWonder": true,
-		"uniques": ["Free [Great Scientist] appears", "Science gained from research agreements [+50]%", "Gain a free [Pagoda] [in this city]"],
+		"greatPersonPoints": {"Great Artist": 6},
+		"uniques": ["Gain a free [Opera House] [in this city]", "[+50]% Production when constructing [Culture] buildings [in all cities]"],
 		"requiredTech": "Architecture",
-		"quote": "'Things always seem fairer when we look back at them, and it is out of that inaccessible tower of the past that Longing leans and beckons.' - James Russell Lowell"
+		"quote": "'Bolshoi Ballet is a universe of the imagination, a place of magic and enchantment, beauty and romance. Its many worlds vibrate with graceful dancers, glorious music, and sumptuous costumes.' - Trudy Garfunkel"
 	},
 	{
 		"name": "Windmill",

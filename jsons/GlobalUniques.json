@@ -6,6 +6,7 @@
 	"[-25]% growth [in all cities] <when at war>",
         "[-50]% growth [in all cities] <when between [-10] and [-1] Happiness>",
         "Nullifies Growth [in all cities] <when below [-10] Happiness>",
+	   "[-1] Unit Supply per city <for [AI player] Civilizations>",
 	//"Gain a free [Revolution] [in capital] <upon turn end> <with [3]% chance> <when below [-10] Happiness>",
         "[-33]% [Production] [in all cities] <when below [-10] Happiness>",
         "[-33]% Strength <for [All] units> <when below [-10] Happiness>",

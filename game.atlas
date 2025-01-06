@@ -752,7 +752,7 @@ NationIcons/Holy Roman Empire
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Gurdwara
+BuildingIcons/Stupa
   rotate: false
   xy: 544, 796
   size: 100, 100

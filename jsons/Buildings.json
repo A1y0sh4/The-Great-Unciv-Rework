@@ -705,7 +705,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"requiredBuilding": "Granary",
-		"uniques": ["[+1 Food] from [Lake] tiles [in this city]", "[+1 Food] from [Mountain] tiles [in this city]", "[+1 Food, +1 Production] <in tiles without [River]> <hidden from users>", "Comment [Provides an additional +1 [Food] and +1 [Production] to cities without Rivers]"],
+		"uniques": ["[+1 Food] from [Lake] tiles [in this city]", "[+1 Food] from [Oasis] tiles [in this city]", "[+1 Food] from [Mountain] tiles [in this city]", "[+1 Food, +1 Production] <in tiles without [River]> <hidden from users>", "Comment [Provides an additional +1 [Food] and +1 [Production] to cities without Rivers]"],
 		"requiredTech": "Engineering",
 	},
 	{

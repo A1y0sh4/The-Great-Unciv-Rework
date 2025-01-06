@@ -278,7 +278,6 @@
 			{
 				"name": "Physics",
 				"row": 9,
-				"uniques": ["[+10]% Production when constructing [All] wonders [in all cities]"],
 				"prerequisites": ["Metal Casting"],
 				"quote": "'Measure what is measurable, and make measurable what is not so.' - Galileo Galilei"
 			},

@@ -469,6 +469,16 @@
 		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "[-50]% Unhappiness from [Population] [in this city]", "Cost increases by [25] per owned city"],
 		"requiredTech": "Imperial Games"
 	},
+	{
+		"name": "Sanchi Stupa",
+		"culture": 2,
+		"happiness": 3,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Artist": 3},
+		"uniques": ["Gain a free [Stupa] [in this city]", "Only available <when religion is enabled>"],
+		"requiredTech": "Imperial Games",
+		"quote": "'All religions should reside everywhere, for all of them desire self-control and purity of heart.' - Ashoka",
+	},
         {
 		"name": "Garden",
 		"uniques": ["[+33]% Great Person generation [in this city]", "[-33]% Food consumption by specialists [in this city]", "Must be next to [Fresh water]"],

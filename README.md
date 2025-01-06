@@ -52,11 +52,9 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 - Melee units automatically plunder little amounts of Gold when attacking
 
-- Great General points are offered by buildings (Barracks, Armories, Military Academies) and Wonders (Statue of Zeus, Alhambra, Himeji Castle, Kremlin, Brandenburg Gate, Pentagon)
-
-- Great Generals are gained 2x slower when at peace
-
 - Barracks and Armories give XP on contruction for Land units, while the Harbor and Seaport for the Water ones (Military Academies gives XPs to both of them)
+
+- Military buildings provide Unit Supplies (if you exceed them, you'll have to endure a Production malus)
 
 - Most Water and Air units have been (slightly) buffed in order to compensate their higher maintainance costs and to make them a viable alternative to the Land ones
  

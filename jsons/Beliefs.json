@@ -357,7 +357,7 @@
     {
         "name": "Holy Alliance",
         "type": "Enhancer",
-        "uniques": ["Comment [Gain 150 [Gold] upon declaring friendship or upon declaring a defensive pact (modified by game speed)]", "Gain [150] [Gold] <upon declaring friendship> <(modified by game speed)> <hidden from users>", "Gain [150] [Gold] <upon declaring a defensive pact> <(modified by game speed)> <hidden from users>"]
+        "uniques": ["Comment [Gain 150 [Gold] and [Faith] upon declaring friendship or upon declaring a defensive pact (modified by game speed)]", "Gain [150] [Gold] <upon declaring friendship> <(modified by game speed)> <hidden from users>", "Gain [150] [Gold] <upon declaring a defensive pact> <(modified by game speed)> <hidden from users>", "Gain [150] [Faith] <upon declaring friendship> <(modified by game speed)> <hidden from users>", "Gain [150] [Faith] <upon declaring a defensive pact> <(modified by game speed)> <hidden from users>"]
     },
     {
         "name": "Holy Order",

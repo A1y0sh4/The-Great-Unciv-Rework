@@ -186,7 +186,7 @@
             {
                 "name": "Professional Army",
                 "uniques": [
-                    "[-25]% maintenance costs <for [Military] units>", "[+5] Unit Supply"
+                    "[-25]% maintenance costs <for [All] units>", "[+5] Unit Supply"
                 ],
                 "requires": ["Military Tradition"],
                 "row": 2,

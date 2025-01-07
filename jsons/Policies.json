@@ -177,7 +177,7 @@
             {
                 "name": "State Logistics",
                 "uniques": [
-                    "[-50]% maintenance on road & railroads", "Improves movement speed on roads"
+                    "[-33]% maintenance on road & railroads", "Improves movement speed on roads"
                 ],
                 "requires": ["Professional Army"],
                 "row": 3,
@@ -186,7 +186,7 @@
             {
                 "name": "Professional Army",
                 "uniques": [
-                    "[-50]% maintenance costs <for [Military] units>", "[+1] Unit Supply per city"
+                    "[-33]% maintenance costs <for [Military] units>", "[+1] Unit Supply per city"
                 ],
                 "requires": ["Military Tradition"],
                 "row": 2,

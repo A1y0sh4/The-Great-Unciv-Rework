@@ -238,8 +238,8 @@
 		
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Terra Australis",
-		"uniqueText": "Cities in costal tiles gain an additional +1 [Food] and +1 [Production]\nNatural Wonders give +1 [Happiness] and +1 [Culture] to all cities within 6 tiles of them",
-		"uniques": ["[+1 Food, +1 Production] [in all coastal cities]", "[+1 Happiness, +1 Culture] [in all cities] <within [6] tiles of a [Natural Wonder]>"],
+		"uniqueText": "Cities in costal tiles gain an additional +1 [Food] and +1 [Production] while other cities respectively lose such yields\nNatural Wonders give +1 [Happiness] and +1 [Culture] to all cities within 6 tiles of them",
+		"uniques": ["[+2 Food, +2 Production] [in all coastal cities]", "[-1 Food, -1 Production] [in all cities]", "[+1 Happiness, +1 Culture] [in all cities] <within [6] tiles of a [Natural Wonder]>"],
 		"cities": ["Canberra", "Sydney", "Perth", "Melbourne", "Brisbane", "Adelaide", "Darwin", "Hobart", "Wollongong", "Mackay", "Townsville", "Cairns", "Dampier", "Alice Springs", "Bathurst", "Queanbeyan", "Bundaberg", "Coffs Harbor", "Fremantle", "Gladstone", "Goulburn", "Hervey Bay", "Kalgoorlie"],
 		"spyNames": ["Nicole", "James", "Olivia", "Luke", "Zoe", "Jackson", "Holly", "Cody", "Paige", "Mitch"]
 	},
@@ -1093,7 +1093,7 @@
 		
 		"uniqueName": "Free Imperial Cities",
 		"uniqueText": "Can spend Gold to annex or puppet a City-State that has been your ally for 5 turns\nMay not annex cities, but may buy items in puppet cities\nPuppeted cities do not suffer from [Gold] and [Science] maluses",
-		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns.", "May not annex cities", "May buy items in puppet cities", "[+25]% [Gold] [in puppeted cities]", "[+25]% [Science] [in puppeted cities]"],
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns", "May not annex cities", "May buy items in puppet cities", "[+25]% [Gold] [in puppeted cities]", "[+25]% [Science] [in puppeted cities]"],
 		"cities": ["Aachen","Frankfurt","Magdeburg","Regensburg","Strasbourg","Lübeck","Augsburg","Nuremberg","Munich","Worms","Ulm","Dortmund","Mainz","Leipzig","Hannover","Cologne","Stuttgart","Dusseldorf","Bremen",
 			"Duisburg","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
 			"Munster","Rostok","Chemnitz","Braunschweig","Halle","Mצnchengladbach","Kiel","Wuppertal","Freiburg","Hagen",

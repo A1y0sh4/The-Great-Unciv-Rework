@@ -1092,8 +1092,8 @@
 		"innerColor": [45,45,45],
 		
 		"uniqueName": "Free Imperial Cities",
-		"uniqueText": "Can spend Gold to annex or puppet a City-State that has been your ally for 5 turns\nMay not annex cities, but may buy items in puppet cities\nPuppeted cities do not suffer from [Gold] and [Science] maluses",
-		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns", "May not annex cities", "May buy items in puppet cities", "[+25]% [Gold] [in puppeted cities]", "[+25]% [Science] [in puppeted cities]"],
+		"uniqueText": "Can spend Gold to annex or puppet a City-State that has been your Ally for 5 turns\nMay not annex cities, but may buy items in puppet cities\nPuppeted cities do not suffer from [Gold] and [Science] maluses",
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns", "May not annex cities", "May buy items in puppet cities", "[+25]% [Gold] [in puppeted cities]", "[+25]% [Science] [in puppeted cities]"],
 		"cities": ["Aachen","Frankfurt","Magdeburg","Regensburg","Strasbourg","Lübeck","Augsburg","Nuremberg","Munich","Worms","Ulm","Dortmund","Mainz","Leipzig","Hannover","Cologne","Stuttgart","Dusseldorf","Bremen",
 			"Duisburg","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
 			"Munster","Rostok","Chemnitz","Braunschweig","Halle","Mצnchengladbach","Kiel","Wuppertal","Freiburg","Hagen",

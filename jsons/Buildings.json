@@ -466,10 +466,9 @@
 	{
 		"name": "Sanchi Stupa",
 		"culture": 2,
-		"faith": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
-		"uniques": ["[25]% of excess happiness converted to [Food] <when not at war>", "[25]% of excess happiness converted to [Production] <when at war>", "Gain a free [Stupa] [in this city]", "Only available <when religion is enabled>"],
+		"uniques": ["[+3 Food] <when not at war>", "[+3 Production] <when at war>", "Gain a free [Stupa] [in this city]", "Only available <when religion is enabled>"],
 		"requiredTech": "Imperial Games",
 		"quote": "'All religions should reside everywhere, for all of them desire self-control and purity of heart.' - Ashoka",
 	},

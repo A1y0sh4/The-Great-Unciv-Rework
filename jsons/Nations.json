@@ -177,7 +177,7 @@
 		
 		"uniqueName": "Golden Stool",
 		"uniqueText": "Palace yields +1 value of its stat with an additional +1 for every passed era",
-		"uniques": ["[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace]", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Classical era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Medieval era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Renaissance era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Industrial era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Modern era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Atomic era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Information era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Future era]>"],
+		"uniques": ["[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Classical era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Medieval era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Renaissance era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Industrial era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Modern era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Atomic era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Information era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Future era]>"],
 		"cities": ["Kumasi","Bantama","Mampong","Edweso","Bekwai","Kumawu","Obuasi","Adanse","Asante-Akim Agogo","Juaben",
 			"Ejisu","Fomena","Agona-Ashanti","Dunkwa-on-Offin","Techiman","Afram Plains","Konongo","Akwatia","Obogu","Nkawie","Asokore Mampong",
 			"Obuasi-Bekwai","Krofrom","Bomaa","Kwabre","Adumasa","Sekyere-Hemang","Aboabo","Adansi","Besease",
@@ -1691,8 +1691,8 @@
 		"innerColor": [238,201,9],
 		
 		"uniqueName": "The Glory of Rome",
-		"uniqueText": "+10% [Production] in cities connected to capital\nAll improvements are 25% faster to build",
-		"uniques": ["[+10]% [Production] [in all cities connected to capital]", "[-25]% construction time for [All] improvements"],
+		"uniqueText": "+15% [Production] when constructing buildings in cities connected to capital\nAll improvements are 25% faster to build",
+		"uniques": ["[+15]% Production when constructing [All] buildings [in all cities connected to capital]", "[-25]% construction time for [All] improvements"],
 		"cities": ["Rome","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
 			"Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
 			"Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",

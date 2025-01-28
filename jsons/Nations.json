@@ -1467,8 +1467,8 @@
 		"innerColor": [255,120,0],
 		
 		"uniqueName": "Mongol Horde",
-		"uniqueText": "Stables yield an additional +2 [Happiness] and, upon building one, you gain for free a Mounted unit\nMounted units gain +1 additional Movement points",
-		"uniques": ["[+1] Movement <for [Mounted] units>", "[+2 Happiness] from every [Stable]", "Free [Horseman] appears <upon constructing [Stable]> <after discovering [Horseback Riding]> <before discovering [Chivalry]> <when above [-1] [Horses]>", "Free [Keshik] appears <upon constructing [Stable]> <after discovering [Chivalry]> <before discovering [Metallurgy]> <when above [-1] [Horses]>", "Free [Lancer] appears <upon constructing [Stable]> <after discovering [Metallurgy]> <before discovering [Military Science]> <when above [-1] [Horses]>", "Free [Cavalry] appears <upon constructing [Stable]> <after discovering [Military Science]> <when above [-1] [Horses]>"],
+		"uniqueText": "Stables yield an additional +1 [Happiness] and, upon building one, you gain for free a Mounted unit\nMounted units gain +1 additional Movement points",
+		"uniques": ["[+1] Movement <for [Mounted] units>", "[+1 Happiness] from every [Stable]", "Free [Horseman] appears <upon constructing [Stable]> <after discovering [Horseback Riding]> <before discovering [Chivalry]> <when above [-1] [Horses]>", "Free [Keshik] appears <upon constructing [Stable]> <after discovering [Chivalry]> <before discovering [Metallurgy]> <when above [-1] [Horses]>", "Free [Lancer] appears <upon constructing [Stable]> <after discovering [Metallurgy]> <before discovering [Military Science]> <when above [-1] [Horses]>", "Free [Cavalry] appears <upon constructing [Stable]> <after discovering [Military Science]> <when above [-1] [Horses]>"],
 		"cities": ["Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan",
 			"Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg",
 			"Baruun-Urt","Ereen","Batshireet","Choyr","Ulaangom","Tosontsengel","Altay","Uliastay","Bayanhongor",

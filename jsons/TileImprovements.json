@@ -33,7 +33,8 @@
 		            "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>",
 		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>",
 		            "Provides [1] [Gems] <in [Gems] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Silver] <in [Silver] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Copper] <in [Copper] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Salt] <in [Salt] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>",
-		            "Provides [1] [Amber] <in [Amber] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Gold Ore] <in [Gold Ore] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>"],
+		            "Provides [1] [Amber] <in [Amber] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Gold Ore] <in [Gold Ore] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>",
+		"Provides [1] [Pollution] <in [Coal] tiles> <hidden from users>", "Provides [1] [Pollution] <in [Aluminum] tiles> <hidden from users>", "Provides [1] [Pollution] <in [Uranium] tiles> <hidden from users>"],
 		"shortcutKey": "M"
 	},
 	{
@@ -65,7 +66,7 @@
 		"turnsToBuild": 9,
 		"techRequired": "Biology",
 		"uniques": ["Improvement", "Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+21 Gold]",
-		            "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>"],
+		            "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Pollution] <hidden from users>",],
 		"shortcutKey": "W"
 	},
 	{
@@ -73,7 +74,7 @@
 		"type": "Improvement",
 		"production": 1,
 		"techRequired": "Refrigeration",
-		"uniques": ["Improvement", "Can only be built to improve a resource", "Can only be built on [Water] tiles", "Pillaging this improvement yields approximately [+21 Gold]"],
+		"uniques": ["Improvement", "Can only be built to improve a resource", "Can only be built on [Water] tiles", "Pillaging this improvement yields approximately [+21 Gold]", "Provides [1] [Pollution] <in [Coal] tiles> <hidden from users>",],
 		"shortcutKey": "P"
 	},
 	{

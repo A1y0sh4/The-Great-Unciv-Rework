@@ -24,7 +24,7 @@
 	{
 		"name": "Grassland",
 		"type": "Land",
-		"food": 1,
+		"food": 0,
 		"movementCost": 1,
         "RGB": [128,200,42],
         "uniques": [
@@ -55,7 +55,7 @@
 	{
 		"name": "Plains",
 		"type": "Land",
-		"food": 1,
+		"food": 0,
 		"movementCost": 1,
 		"RGB": [202,198,25],
 		"uniques": [
@@ -174,7 +174,7 @@
 	{
 		"name": "Hill",
 		"type": "TerrainFeature",
-		"production": 1,
+		"production": 0,
 		"overrideStats": true,
 		"movementCost": 2,
 		"defenceBonus": 0.25,
@@ -196,7 +196,7 @@
 	{
 		"name": "Forest",
 		"type": "TerrainFeature",
-		"production": 1,
+		"production": 0,
 		"movementCost": 2,
 		"unbuildable": true,
 		"defenceBonus": 0.25,
@@ -221,7 +221,7 @@
 	{
 		"name": "Jungle",
 		"type": "TerrainFeature",
-		"food": 1,
+		"food": 0,
 		"movementCost": 2,
 		"unbuildable": true,
 		"defenceBonus": 0.25,
@@ -245,7 +245,7 @@
 	{
 		"name": "Marsh",
 		"type": "TerrainFeature",
-		"food": -1,
+		"food": 0,
 		"movementCost": 3,
 		"unbuildable": true,
 		"defenceBonus": -0.15,
@@ -284,7 +284,7 @@
 	{
 		"name": "Oasis",
 		"type": "TerrainFeature",
-		"food": 2,
+		"food": 1,
 		"movementCost": 1,
 		"unbuildable": true,
 		"defenceBonus": -0.1,
@@ -298,7 +298,7 @@
 	{
 		"name": "Flood plains",
 		"type": "TerrainFeature",
-		"food": 1,
+		"food": 0,
 		"movementCost": 1,
 		"defenceBonus": -0.1,
 		"occursOn": ["Desert"],

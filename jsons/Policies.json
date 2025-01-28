@@ -11,7 +11,7 @@
 	    "Religious": 20
         },
         "uniques": [
-            "[+15]% [Food] [in capital]"
+            "[+1 Food, +1 Production] [in capital]"
         ],
         "policies": [
             {
@@ -25,7 +25,7 @@
             {
                 "name": "Legalism",
                 "uniques": [
-                    "[-75]% Unhappiness from [Population] [in capital]"
+                    "[-50]% Unhappiness from [Population] [in capital]"
                 ],
 		"requires": ["Monarchy"],
                 "row": 2,

@@ -51,7 +51,7 @@
 	{
 		"name": "Camp",
 		"type": "Improvement",
-		"gold": 1,
+		"food": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Trapping",
 		"uniques": ["Improvement", "[+1 Food] <after discovering [Fertilizer]>", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+13 Gold]",
@@ -80,7 +80,7 @@
 		"name": "Pasture",
 		"type": "Improvement",
 		"turnsToBuild": 8,
-		"gold": 1,
+		"food": 1,
 		"techRequired": "Animal Husbandry",
 		"uniques": ["Improvement", "[+1 Food] <after discovering [Fertilizer]>", "[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+13 Gold]",
 			    "Provides [2] [Horses] <in [Horses] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>"],
@@ -90,7 +90,7 @@
 		"name": "Plantation",
 		"type": "Improvement",
 		"turnsToBuild": 6,
-		"gold": 1,
+		"food": 1,
 		"techRequired": "Calendar",
 		"uniques": ["Improvement", "[+1 Food] <after discovering [Fertilizer]>", "[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+13 Gold]"],
 		"shortcutKey": "P"

@@ -176,8 +176,8 @@
 		"innerColor": [230, 40, 50],
 		
 		"uniqueName": "Golden Stool",
-		"uniqueText": "Palace yields +1 value of its stat with an additional +1 for every passed era",
-		"uniques": ["[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Classical era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Medieval era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Renaissance era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Industrial era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Modern era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Atomic era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Information era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Future era]>"],
+		"uniqueText": "Palace yields +1 value of its stat with an additional +1 for every two passed eras",
+		"uniques": ["[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Classical era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Renaissance era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Modern era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Information era]>"],
 		"cities": ["Kumasi","Bantama","Mampong","Edweso","Bekwai","Kumawu","Obuasi","Adanse","Asante-Akim Agogo","Juaben",
 			"Ejisu","Fomena","Agona-Ashanti","Dunkwa-on-Offin","Techiman","Afram Plains","Konongo","Akwatia","Obogu","Nkawie","Asokore Mampong",
 			"Obuasi-Bekwai","Krofrom","Bomaa","Kwabre","Adumasa","Sekyere-Hemang","Aboabo","Adansi","Besease",

@@ -227,6 +227,11 @@
 		"majorDepositAmount": {"sparse": 3, "default": 4, "abundant": 6},
 		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 4}
 	},
+	{
+        "name": "Pollution", 
+        "resourceType": "Strategic",
+        "uniques": ["Not shown on world screen","Cannot be traded"]
+        },
 	
 	// Luxury resources
 	{

@@ -1049,7 +1049,7 @@
 	// Column 7
 	{
 		"name": "Observatory",
-		"maintenance": 0,
+		"maintenance": 2,
 		"hurryCostModifier": 15,
 		"greatPersonPoints": {"Great Scientist": 1},
 		"percentStatBonus": {"science": 50},

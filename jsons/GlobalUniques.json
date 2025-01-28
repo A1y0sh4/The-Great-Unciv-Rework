@@ -6,7 +6,7 @@
 	"[-25]% growth [in all cities] <when at war>",
         "[-50]% growth [in all cities] <when between [-10] and [-1] Happiness>",
         "Nullifies Growth [in all cities] <when below [-10] Happiness>",
-	"[+1 Production] from every [City center]",
+	"[+2 Production] from every [City center]",
 	"[+1]% Unhappiness from [Population] [in all cities] <for every [Pollution]>",
 	"[-2]% growth [in all cities] <for every [Pollution]>",
 	"[-1] Unit Supply per [2] population [in all cities]",

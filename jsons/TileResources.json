@@ -230,6 +230,7 @@
 	{
         "name": "Pollution", 
         "resourceType": "Strategic",
+	"revealedBy": "Industrialization",
         "uniques": ["Cannot be traded"]
         },
 	

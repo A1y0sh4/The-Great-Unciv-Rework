@@ -1301,11 +1301,12 @@
 	{
 		"name": "Factory",
 		"cost": 206,
-		"production": 2,
+		"production": 4,
 		"specialistSlots": {"Engineer": 2},
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,
-		"uniques": ["[+1 Production] <for every [4] [Coal]>", "[+1]% [Production] <for every [4] [Coal]>", "Provides [1] [Pollution] <for every [2] [Coal]>"],
+		"requiredResource": "Coal",
+		"uniques": ["[+1 Production] <for every [4] [Coal]>", "[+1]% [Production] <for every [4] [Coal]>", "Provides [1] [Pollution] <for every [4] [Coal]>"],
 		"hurryCostModifier": 0,
 		"requiredTech": "Industrialization"
 	},
@@ -1314,12 +1315,13 @@
 		"replaces": "Factory",
 		"uniqueTo": "Germany",
 		"cost": 185,
-		"production": 4,
+		"production": 6,
+		"requiredResource": "Coal",
 		"specialistSlots": {"Engineer": 2},
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
-		"uniques": ["[+1 Production] <for every [4] [Coal]>", "[+1 Gold] <for every [4] [Coal]>", "[+1]% [Production] <for every [4] [Coal]>", "Provides [1] [Pollution] <for every [2] [Coal]>"],
+		"uniques": ["[+1 Production] <for every [4] [Coal]>", "[+1 Gold] <for every [4] [Coal]>", "[+1]% [Production] <for every [4] [Coal]>", "Provides [1] [Pollution] <for every [4] [Coal]>"],
 		"requiredResource": "Coal",
 		"requiredTech": "Industrialization"
 	},
@@ -1535,7 +1537,7 @@
 		"cost": 297,
 		"maintenance": 1,
 		"requiredTech": "Ecology",
-		"uniques": ["Provides [1] [Aluminum]", "Limited to [10] per Civilization"]
+		"uniques": ["Provides [-2] [Pollution]"]
 	},
 	{
 		"name": "Sydney Opera House",
@@ -1554,7 +1556,7 @@
 		"maintenance": 3,
 		"requiredResource": "Uranium",
 		"requiredTech": "Nuclear Fission",
-		"uniques": ["Only available <in cities without a [Solar Plant]>", "[+1 Production] <for every [2] [Uranium]>", "[+1]% [Production] <for every [1] [Uranium]>"]
+		"uniques": ["Only available <in cities without a [Solar Plant]>", "[+1 Production] <for every [Uranium]>", "[+1]% [Production] <for every [Uranium]>"]
 	},
 	{
 		"name": "Apollo Program",

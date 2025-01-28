@@ -230,7 +230,7 @@
 	{
         "name": "Pollution", 
         "resourceType": "Strategic",
-        "uniques": ["Not shown on world screen","Cannot be traded"]
+        "uniques": ["Cannot be traded"]
         },
 	
 	// Luxury resources

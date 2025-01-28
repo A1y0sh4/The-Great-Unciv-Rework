@@ -131,12 +131,10 @@
 	{
 		"name": "Stone Works",
 		"requiredNearbyImprovedResources": ["Obsidian", "Marble", "Stone"],
+		"production": 1,
 		"maintenance": 1,
 		"hurryCostModifier": 0,
-		"uniques": ["[+15]% Production when constructing [All] buildings [in this city]",
-			    "[+1 Production] from [Stone] tiles [in this city]",
-                            "[+1 Production] from [Marble] tiles [in this city]",
-                            "[+1 Production] from [Obsidian] tiles [in this city]"],
+		"uniques": ["[+1 Production] from [Quarry] tiles [in this city]"],
 		"requiredTech": "Masonry"
 	},
 	{
@@ -374,12 +372,10 @@
 	{
 		"name": "Stable",
 		"maintenance": 1,
+		"production": 1,
 		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
-		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
-			"[+1 Production] from [Cattle] tiles [in this city]",
-			"[+1 Production] from [Horses] tiles [in this city]",
-			"[+1 Production] from [Sheep] tiles [in this city]",
+		"uniques": ["[+1 Production] from [Pasture] tiles [in this city]",
 		        "Unsellable", "Provides [1] [Horses] <for [Mongolia] Civilizations> <hidden from users>"],
 		"requiredTech": "Horseback Riding"
 	},
@@ -388,12 +384,10 @@
 		"replaces": "Stable",
 		"uniqueTo": "Argentina",
 		"maintenance": 0,
+		"production": 1,
 		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
-		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
-			"[+1 Production] from [Cattle] tiles [in this city]",
-			"[+1 Production] from [Horses] tiles [in this city]",
-			"[+1 Production] from [Sheep] tiles [in this city]",
+		"uniques": ["[+1 Production] from [Pasture] tiles [in this city]",
 			"[+1 Food] from [Pasture] tiles [in this city]",
 		        "Unsellable", "Provides [1] [Horses] <for [Mongolia] Civilizations> <hidden from users>"],
 		"requiredTech": "Horseback Riding"
@@ -876,11 +870,11 @@
 	{
 		"name": "Forge",
 		"maintenance": 1,
+		"production": 1,
 		"hurryCostModifier": 25,
-		"requiredNearbyImprovedResources": ["Iron"],
+		"requiredNearbyImprovedResources": ["Copper", "Iron", "Aluminum"],
 		"requiredTech": "Metal Casting",
-		"uniques": ["[+15]% Production when constructing [Sword] units [in this city]",
-			"[+1 Production] from [Iron] tiles [in this city]"]
+		"uniques": ["[+1 Production] from [Mine] tiles [in this city]"]
 		
 	},
         {
@@ -888,14 +882,11 @@
 		"replaces": "Forge",
 		"uniqueTo": "The Hittites",
 		"maintenance": 1,
+		"production": 1,
 		"hurryCostModifier": 25,
-		"requiredNearbyImprovedResources": ["Copper", "Gold Ore", "Silver", "Iron"],
+		"requiredNearbyImprovedResources": ["Copper", "Gold Ore", "Silver", "Iron", "Aluminum"],
 		"requiredTech": "Bronze Working",
-		"uniques": ["[+15]% Production when constructing [Sword] units [in this city]", "[+15]% Production when constructing [Military] units [in this city]",
-			    "[+1 Production] from [Copper] tiles [in this city]",
-		            "[+1 Production] from [Gold Ore] tiles [in this city]",
-		            "[+1 Production] from [Silver] tiles [in this city]",
-		            "[+1 Production] from [Iron] tiles [in this city]",]
+		"uniques": ["[+1 Production] from [Mine] tiles [in this city]"]
 		
 	},
 	// Column 6

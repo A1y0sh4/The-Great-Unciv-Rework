@@ -43,7 +43,7 @@
 		"gold": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Currency",
-		"uniques": ["Improvement", "[+1 Gold] for each adjacent [Resource]", "Cannot be built on [Resource] tiles", "Tile provides yield without assigned population", "Pillaging this improvement yields approximately [+18 Gold]", "Will not be replaced by automated units <hidden from users>"],
+		"uniques": ["Improvement", "[+1 Gold] for each adjacent [Luxury resource]", "Cannot be built on [Resource] tiles", "Tile provides yield without assigned population", "Pillaging this improvement yields approximately [+18 Gold]", "Will not be replaced by automated units <hidden from users>"],
 		"shortcutKey": "T"
 	},
 

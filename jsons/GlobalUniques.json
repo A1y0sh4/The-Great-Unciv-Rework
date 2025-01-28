@@ -12,6 +12,7 @@
 	//"Gain a free [Revolution] [in capital] <upon turn end> <with [3]% chance> <when below [-10] Happiness>",
         "[-33]% [Production] [in all cities] <when below [-10] Happiness>",
         "[-33]% Strength <for [All] units> <when below [-10] Happiness>",
+	"[-33]% Strength for cities <when below [-10] Happiness>",
         "Cannot build [Settler] units <when below [-10] Happiness>",
         "Rebel units may spawn <when below [-10] Happiness>",
 	"[-1] Happiness from each type of luxury resource",

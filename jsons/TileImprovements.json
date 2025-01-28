@@ -457,6 +457,8 @@
 	{
 		"name": "City center",
 		"terrainsCanBeBuiltOn": ["Land"],
+		"food": 1,
+		"production": 1,
 		"uniques": ["Improvement", "Unpillagable", "Irremovable", "Unbuildable",
                             "Provides [2] [Iron] <in [Iron] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>",
 		            "Provides [2] [Iron] <in [Iron] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Coal] <in [Coal] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Aluminum] <in [Aluminum] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Uranium] <in [Uranium] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>",

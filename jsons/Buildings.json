@@ -1305,7 +1305,7 @@
 		"specialistSlots": {"Engineer": 2},
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,
-		"uniques": ["Only available <when above [0] [Coal]>", "[+1 Production] <for every [4] [Coal]>", "[+1]% [Production] <for every [2] [Coal]>"],
+		"uniques": ["[+1 Production] <for every [4] [Coal]>", "[+1]% [Production] <for every [2] [Coal]>"],
 		"hurryCostModifier": 0,
 		"requiredTech": "Industrialization"
 	},
@@ -1319,7 +1319,7 @@
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
-		"uniques": ["Only available <when above [0] [Coal]>", "[+1 Production] <for every [4] [Coal]>", "[+1 Gold] <for every [4] [Coal]>", "[+1]% [Production] <for every [2] [Coal]>"],
+		"uniques": ["[+1 Production] <for every [4] [Coal]>", "[+1 Gold] <for every [4] [Coal]>", "[+1]% [Production] <for every [2] [Coal]>"],
 		"requiredResource": "Coal",
 		"requiredTech": "Industrialization"
 	},
@@ -1554,7 +1554,7 @@
 		"maintenance": 3,
 		"requiredResource": "Uranium",
 		"requiredTech": "Nuclear Fission",
-		"uniques": ["Only available <in cities without a [Solar Plant]>", "Only available <when above [0] [Uranium]>", "[+1 Production] <for every [2] [Uranium]>", "[+1]% [Production] <for every [1] [Uranium]>"]
+		"uniques": ["Only available <in cities without a [Solar Plant]>", "[+1 Production] <for every [2] [Uranium]>", "[+1]% [Production] <for every [1] [Uranium]>"]
 	},
 	{
 		"name": "Apollo Program",

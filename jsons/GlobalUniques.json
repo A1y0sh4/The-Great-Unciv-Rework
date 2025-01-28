@@ -9,8 +9,6 @@
 	"[+2 Production] from every [City center]",
 	"[+1]% Unhappiness from [Population] [in all cities] <for every [Pollution]>",
 	"[-2]% growth [in all cities] <for every [Pollution]>",
-	"[-1] Unit Supply per [2] population [in all cities]",
-	"[+1] Unit Supply per [5] population [in all cities]",
 	//"Gain a free [Revolution] [in capital] <upon turn end> <with [3]% chance> <when below [-10] Happiness>",
         "[-33]% [Production] [in all cities] <when below [-10] Happiness>",
         "[-33]% Strength <for [All] units> <when below [-10] Happiness>",

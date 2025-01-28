@@ -393,13 +393,13 @@
 			{
 				"name": "Industrialization",
 				"row": 6,
-				"prerequisites": ["Economics"],
+				"prerequisites": ["Economics","Metallurgy"],
 				"quote": "'Industrialization based on machinery, already referred to as a characteristic of our age, is but one aspect of the revolution that is being wrought by technology.' - Emily Greene Balch"
 			},
 			{
 				"name": "Rifling",
 				"row": 7,
-				"prerequisites": ["Economics","Metallurgy"],
+				"prerequisites": ["Economics","Metallurgy","Chemistry"],
 				"quote": "'It is well that war is so terrible, or we should grow too fond of it.' - Robert E. Lee"
 			},
 			{

@@ -1537,7 +1537,7 @@
 		"cost": 297,
 		"maintenance": 1,
 		"requiredTech": "Ecology",
-		"uniques": ["Provides [-3] [Pollution]"]
+		"uniques": ["Provides [-5] [Pollution]"]
 	},
 	{
 		"name": "Sydney Opera House",

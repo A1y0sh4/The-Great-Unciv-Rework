@@ -6,14 +6,14 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"uniques": ["Can build [Land] improvements on tiles", "Cost increases by [5] when built"],
-		"cost": 29,
+		"cost": 30,
 		"hurryCostModifier": 15
 	},
 	{
 		"name": "Settler",
 		"unitType": "Civilian",
 		"movement": 2,
-		"cost": 65,
+		"cost": 50,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population", "Cost increases by [10] when built"],
 		"hurryCostModifier": 15
@@ -23,7 +23,7 @@
 		"unitType": "Scout",
 		"movement": 2,
 		"strength": 5,
-		"cost": 29,
+		"cost": 30,
 		"obsoleteTech": "Guilds",
 		"upgradesTo": "Skirmisher",
 		"uniques": ["May upgrade to [Archer] through ruins-like effects"],
@@ -34,7 +34,7 @@
 		"unitType": "Scout",
 		"uniqueTo": "Cree",
 		"replaces": "Scout",
-		"cost": 32,
+		"cost": 33,
 		"movement": 2,
 		"strength": 7,
 		"obsoleteTech": "Guilds",
@@ -250,7 +250,7 @@
 		"name": "Work Boats",
 		"unitType": "Civilian Water",
 		"movement": 3,
-		"cost": 24,
+		"cost": 20,
 		"requiredTech": "Sailing",
 		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources", "Uncapturable", "Cost increases by [5] when built"]
 	},

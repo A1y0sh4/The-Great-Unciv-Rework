@@ -9,7 +9,8 @@
   "uniques": [
         "Allow City States to spawn with additional units",
         "Can trade civilization introductions for [100] Gold",
-      "Suppress warning [Horseman is supposed to automatically upgrade at tech Rifling, and therefore Redomestication for its upgrade Hussar may not yet be researched!]",  
+        "Allow raze capital",
+        "Allow raze holy city" 
   ],
     
   "constants":

@@ -116,8 +116,8 @@
 		"innerColor": [146,221,9],
 		
 		"uniqueName": "Trade Caravans",
-		"uniqueText": "Gain +2 [Faith] and +2 [Science] from each Trade Route\nReligion spreads +25% faster in cities connected to capital\nDeserts yield +1 additional [Food] when in Fresh Water",
-		"uniques": ["[+25]% Natural religion spread [in all cities connected to capital]", "[+2 Faith, +2 Science] from each Trade Route", "[+1 Food] from [Fresh Water] tiles [in all cities] <in [Desert] tiles>"],
+		"uniqueText": "Gain +2 [Faith] and +2 [Science] from each Trade Route\nReligion spreads +25% faster in cities connected to capital\nOasis yield an additional +1 [Food]",
+		"uniques": ["[+25]% Natural religion spread [in all cities connected to capital]", "[+2 Faith, +2 Science] from each Trade Route", "[+1 Food] from [Oasis] tiles"],
 		"cities": ["Medina","Mecca","Damascus","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat",
 			"Aden","Yamama","Muscat","Mansura","Bukhara","Shiraz","Merw","Balkh","Mosul",
 			"Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr","Tripoli","Tunis","Kairouan","Algiers","Oran"],
@@ -451,8 +451,8 @@
 		
                 "favoredReligion": "Catholicism",
 		"uniqueName": "Canadian Expeditionary Force",
-		"uniqueText": "Gain triple the Influence of Military unit gifts to City-States (double bonus when gifting a [Peacekeeper])\n+1 [Food] from every [Farm] in [Tundra] tiles\n-33% Strength for Military units when attacking cities",
-		"uniques": ["Gain [15] Influence with a [Military] gift to a City-State", "Gain [30] Influence with a [Peacekeeper] gift to a City-State", "[+1 Food] from every [Farm] <in [Tundra] tiles>", "[-33]% Strength <for [Military] units> <vs cities> <when attacking>"],
+		"uniqueText": "Gain triple the Influence of Military unit gifts to City-States (double bonus when gifting a [Peacekeeper])\n-33% Strength for Military units when attacking cities",
+		"uniques": ["Gain [15] Influence with a [Military] gift to a City-State", "Gain [30] Influence with a [Peacekeeper] gift to a City-State", "[-33]% Strength <for [Military] units> <vs cities> <when attacking>"],
 		"cities": ["Ottawa", "Toronto", "Montreal", "Vancouver", "Winnipeg", "Quebec City", "Hamilton", "Halifax", "Victoria", "Windsor", "Kingston", "Brantford", "Regina", "St. John's", "Calgary", "Saskatoon", "Sault Sainte Marie", "Saint-Lin", "Whitehorse", "Thunder Bay"],
 		"spyNames": ["Aurelie", "Adam", "Ariana", "Adrian", "Beatrice", "Antoine", "Chloe", "Benoit", "Charlotte", "Cedric"]
 	},
@@ -521,8 +521,8 @@
 		"innerColor": [148, 170, 255],
 		
 		"uniqueName": "Druidic Lore",
-		"uniqueText": "Unimproved forests yield +1 [Faith] and +1 [Science]\nImproved forests will yield again the same [Science] and [Faith] in cities following an enhanced religion",
-		"uniques": ["[+1 Faith, +1 Science] from [Forest] tiles [in all cities]", "[-1 Faith, -1 Science] from every [Improvement] <in [Forest] tiles>", "[+1 Faith, +1 Science] from [Improvement] tiles [in all cities in which the majority religion is an enhanced religion] <in [Forest] tiles>"],
+		"uniqueText": "Unimproved forests yield +1 [Faith]\nImproved forests yield +1 [Gold]",
+		"uniques": ["[+1 Faith] from [Forest] tiles [in all cities]", "[-1 Faith, +1 Gold] from every [Improvement] <in [Forest] tiles>"],
 		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth","Penzance",
 			"Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen","Belfast",
 			"Caernafon","Newquay","Saint-Nazarre","Castletown","Stirling","Galway","Conwy","St. Austell","Saint-Malo",
@@ -585,8 +585,8 @@
 		"innerColor": [97, 191, 34],
 		
 		"uniqueName": "Nîhithaw",
-		"uniqueText": "Camps and Pastures base yield becomes [Food]\nGain 50% more yield from Golden Age bonuses",
-		"uniques": ["[+1 Food, -1 Production] from every [Camp]", "[+1 Food, -1 Production] from every [Pasture]", "[+10]% [Production] [in all cities] <during a Golden Age>", "[+10]% [Culture] [in all cities] <during a Golden Age>", "[+10]% [Science] [in all cities] <during a Golden Age> <after adopting [Scientific Revolution]>", "[-5]% Unhappiness from [Population] [in all cities] <during a Golden Age> <after discovering [Imperial Games]>"],
+		"uniqueText": "Upon building Camps and Pastures, gain control of their surrounding tiles\nGain 50% more yield from Golden Age bonuses",
+		"uniques": ["[+10]% [Production] [in all cities] <during a Golden Age>", "[+10]% [Culture] [in all cities] <during a Golden Age>", "[+10]% [Science] [in all cities] <during a Golden Age> <after adopting [Scientific Revolution]>", "[-5]% Unhappiness from [Population] [in all cities] <during a Golden Age> <after discovering [Imperial Games]>"],
 		"cities": ["Mikisiw-Wacîhk","Pihtokahanapiwiyin","Mistahi-Sipihk","Paskwaw-Askhik","Piyesiw-Awasis","Mistawasis","Makwa-Sakahikan","Ka-Peyakwaskonam","Ahtahkakoop","Wihkasko-Kiseyin",
 			"Chemawawin","Ka-kiwistahaw","Ka-ohpawakastahk","Kawacatoose","Kawawachikamach","Kinosew-Sakahikan","Maskotew","Missanabie","Moosomin","Natashquan","Nekaneet",
 			"Ochapowace","Okanese","Papewe","Peepeekisis","Posakanacihk","Tataskweyak","Wapi-maskwa","Waskahikanihk",

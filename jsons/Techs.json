@@ -71,7 +71,7 @@
 				"name": "Writing",
 				"row": 2,
 				"prerequisites": ["Pottery"], 
-				"uniques": ["[-10]% Culture cost of adopting new Policies"],
+				"uniques": [],
 				"quote": "'He who destroys a good book kills reason itself.' - John Milton"
 			},
 			{
@@ -131,7 +131,7 @@
 				"name": "Horseback Riding",
 				"row": 5,
 				"prerequisites": ["Trapping","The Wheel"],
-				"uniques": ["[+10]% [Gold] from Trade Routes"],
+				"uniques": [],
 				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
 			},
 			{

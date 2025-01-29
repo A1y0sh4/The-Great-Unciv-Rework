@@ -13,6 +13,7 @@
 	"[+1]% Culture cost of adopting new Policies <for every [20] [Pollution]>",
 	"[-1]% growth [in all cities] <for every [20] [Pollution]>",
 	"[-1]% [Gold] [in all cities] <for every [20] [Pollution]>",
+	"Gain [15] [Gold] <upon discovering a [City center] tile> <(modified by game speed)>",
 	"Gain a free [Revolution] [in capital] <upon turn end> <with [5]% chance> <when below [-10] Happiness>",
         "[-15]% Strength <for [All] units> <when below [-10] Happiness>",
 	"[-15]% Strength for cities <when below [-10] Happiness>",

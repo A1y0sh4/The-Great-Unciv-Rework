@@ -1103,7 +1103,7 @@
 		"name": "Bank",
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 15,
-		"uniques": ["[+1 Gold] <for every [Remaining [All] Civilizations]>", "[+1]% [Gold] <for every [Remaining [All] Civilizations]>"],
+		"uniques": ["[+1 Gold] <for every [Remaining [All] Civilizations]>"],
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
 	},
@@ -1376,7 +1376,12 @@
 		"name": "Stock Exchange",
 		"specialistSlots": {"Merchant": 2},
 		"hurryCostModifier": 15,
-		"uniques": ["[+2 Gold] <for every [Oil]>", "[+2]% [Gold] <for every [Oil]>"],
+		"uniques": ["[+1 Gold] <for every [16] [Horses]>",
+		            "[+1 Gold] <for every [12] [Iron]>",
+		            "[+1 Gold] <for every [8] [Coal]>",
+		            "[+1 Gold] <for every [2] [Oil]>",
+		            "[+1 Gold] <for every [2] [Aluminum]>",
+		            "[+1 Gold] <for every [2] [Uranium]>"],
 		"requiredBuilding": "Bank",
 		"requiredTech": "Electricity"
 	},
@@ -1451,8 +1456,7 @@
         {
 		"name": "Airport",
 		"requiredTech": "Flight",
-		"percentStatBonus": {"gold": 15, "culture": 15},
-		"uniques": ["New [Air] units start with [15] Experience [in this city]", "Provides [1] [Pollution]", "Destroyed when the city is captured"]
+		"uniques": ["[+2]% [Gold] <for every [Remaining [All] Civilizations]>", "[+2]% [Culture] <for every [Remaining [All] Civilizations]>", "New [Air] units start with [15] Experience [in this city]", "Provides [1] [Pollution]", "Destroyed when the city is captured"]
 	},
 	{
 		"name": "Statue of Liberty",

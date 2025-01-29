@@ -65,7 +65,7 @@
 		"faith": 2,
 		"science": 2,
 		"hurryCostModifier": 25,
-		"maintenance": 2,
+		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured",
 			    "[+1 Faith, +1 Science] <after discovering [Theology]>",
 			    "[+1 Culture] <after discovering [Archaeology]>",
@@ -110,7 +110,7 @@
                 "replaces": "Granary",
 		"uniqueTo": "The Philippines", 
 		"cost": 30,
-		"maintenance": 0,
+		"maintenance": 1,
 		"hurryCostModifier": 25,
 	        "percentStatBonus": {"food": 10},
 		"uniques": ["[+1 Food] <within [1] tiles of a [Coast]>"]
@@ -225,6 +225,7 @@
 		"name": "Circus",
 		"requiredNearbyImprovedResources": ["Ivory","Horses"],
 		"happiness": 2,
+		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredTech": "Trapping"
 	},
@@ -235,6 +236,7 @@
 		"cost": 55,
 		"happiness": 2,
 		"culture": 1,
+		"maintenance": 1,
 		"uniques": ["[+100]% Great Person generation [in this city] <during a Golden Age>"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Trapping"
@@ -244,13 +246,14 @@
 		"replaces": "Circus",
 		"uniqueTo": "Canada",
 		"happiness": 2,
+	        "maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["Must have an owned [Forest] within [2] tiles", "[+1 Food, +1 Gold] from [Forest] tiles [in this city]"],
 		"requiredTech": "Trapping"
 	},
 	{
 		"name": "Water Mill",
-		"maintenance": 2,
+		"maintenance": 1,
 		"food": 2,
 		"production": 1,
 		"hurryCostModifier": 25,
@@ -261,8 +264,7 @@
 		"name": "Baray",
 		"replaces": "Water Mill",
 		"uniqueTo": "Siam",
-		"production": 1,
-		"maintenance": 2,
+		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["Must be on [Fresh Water]", "[+1 Food] from [Fresh Water] tiles [in this city]"],
 		"requiredTech": "The Wheel"
@@ -352,7 +354,6 @@
 		"name": "Lighthouse",
 		"hurryCostModifier": 25,
 		"food": 1,
-		"maintenance": 1,
 		"uniques": ["Must be next to [Water]", "[+1 Food] from [Water] tiles [in this city]"],
 		"requiredTech": "Optics"
 	},
@@ -403,7 +404,7 @@
 		"name": "Livestock Farm", 
 		"replaces": "Stable",
 		"uniqueTo": "Argentina",
-		"maintenance": 0,
+		"maintenance": 1,
 		"production": 1,
 		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
@@ -414,7 +415,7 @@
 	},
 	{
 		"name": "Courthouse",
-		"maintenance": 4,
+		"maintenance": 2,
 		"hurryCostModifier": 50,
 		"uniques": ["Remove extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>", "[+1] population [in this city] <for [The Ottomans] Civilizations> <hidden from users>"],
@@ -527,7 +528,7 @@
 	{
 		"name": "Temple",
 		"faith": 2,
-		"maintenance": 2,
+		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredTech": "Spirituality",
 		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
@@ -536,7 +537,7 @@
 		"name": "Burial Tomb",
 		"replaces": "Temple",
 		"uniqueTo": "Egypt",
-		"maintenance": 2,
+		"maintenance": 1,
 		"uniques": ["Only available <when religion is enabled>", "[+15]% Production when constructing [All] wonders [in this city]", "Destroyed when the city is captured"],
 		"faith": 2,
 		"culture": 1,
@@ -611,7 +612,7 @@
 		"culture": 2,
 		"specialistSlots": {"Artist": 1},
 		"requiredBuilding": "Monument",
-		"maintenance": 2,
+		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["Destroyed when the city is captured"],
 		"requiredTech": "Drama and Poetry"
@@ -624,7 +625,7 @@
 		"specialistSlots": {"Artist": 1},
 		"greatPersonPoints": {"Great Scientist": 2},
 		"requiredBuilding": "Monument",
-		"maintenance": 2,
+		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["Resting point for Influence with City-States is increased by [5] <when not at war>", "[+2]% [Culture] [in this city] <for every [Remaining [Major] Civilizations]>", "[+1]% [Culture] [in this city] <for every [Remaining [City-State] Civilizations]>", "Destroyed when the city is captured"],
 		"requiredTech": "Drama and Poetry"
@@ -677,7 +678,6 @@
 	},
 	{
 		"name": "Mint",
-		"maintenance": 0,
 		"requiredNearbyImprovedResources": ["Gold Ore", "Silver"],
 		"hurryCostModifier": 25,
 		"greatPersonPoints": {"Great Merchant": 1},
@@ -833,7 +833,7 @@
 	},
 	{
 		"name": "Workshop",
-		"maintenance": 2,
+		"maintenance": 1,
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
@@ -845,7 +845,7 @@
 		"replaces": "Workshop",
 		"uniqueTo": "Italy",
 	        "greatPersonPoints": {"Great Artist": 2},
-		"maintenance": 2,
+		"maintenance": 1,
 		"hurryCostModifier": 25,
 	        "specialistSlots": {"Engineer": 1},
 		"production": 2,
@@ -858,7 +858,7 @@
 		"replaces": "Workshop",
 		"uniqueTo": "Iroquois",
 		"cost": 85,
-		"maintenance": 0,
+		"maintenance": 1,
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
@@ -874,7 +874,7 @@
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
-		"maintenance": 2,
+		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredTech": "Metal Casting",
 		"uniques": ["[-10]% Unhappiness from [Population] [in this city]", "[+2 Food] [in this city] <within [2] tiles of a [Tundra]>"]

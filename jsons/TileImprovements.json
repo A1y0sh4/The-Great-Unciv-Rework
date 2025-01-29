@@ -63,6 +63,7 @@
 		"name": "Oil well",
 		"type": "Improvement",
 		"production": 1,
+		"gold": 2,
 		"turnsToBuild": 9,
 		"techRequired": "Biology",
 		"uniques": ["Improvement", "Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+21 Gold]",
@@ -73,6 +74,7 @@
 		"name": "Offshore Platform",
 		"type": "Improvement",
 		"production": 1,
+		"gold": 2,
 		"techRequired": "Refrigeration",
 		"uniques": ["Improvement", "Can only be built to improve a resource", "Can only be built on [Water] tiles", "Pillaging this improvement yields approximately [+21 Gold]", "Provides [1] [Pollution] <hidden from users>"],
 		"shortcutKey": "P"

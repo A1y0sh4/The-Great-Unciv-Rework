@@ -1225,12 +1225,13 @@
 		"name": "Plantation Estate",
 		"replaces": "Windmill",
 		"uniqueTo": "The Confederate States",
-		"food": 2,
+		"production": 2,
+		"gold": 2,
 		"requiredNearbyImprovedResources": ["Bananas", "Citrus", "Cocoa", "Coffee", "Cotton", "Grape", "Incense", "Silk", "Sugar", "Tobacco", "Olive", "Poppy", "Tea", "Maize"],
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"maintenance": 0,
-		"uniques": ["Must not be on [Hill]", "[+1 Production, +1 Gold] from [Plantation] tiles [in this city]"],
+		"uniques": ["Must not be on [Hill]", "[+1 Gold] from [Plantation] tiles [in this city]"],
 		"requiredTech": "Economics"
 	},
 	{

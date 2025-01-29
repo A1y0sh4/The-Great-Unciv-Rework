@@ -9,7 +9,7 @@
 	"[+2 Production] from every [City center]",
 	"[+1]% Unhappiness from [Population] [in all cities] <for every [5] [Pollution]>",
 	"[+1]% Culture cost of adopting new Policies <for every [10] [Pollution]>",
-	"[-1]% growth [in all cities] <for every [5] [Pollution]>",
+	"[-1]% growth [in all cities] <for every [10] [Pollution]>",
 	"Gain a free [Revolution] [in capital] <upon turn end> <with [2]% chance> <when below [-10] Happiness>",
         "[-15]% Strength <for [All] units> <when below [-10] Happiness>",
 	"[-15]% Strength for cities <when below [-10] Happiness>",

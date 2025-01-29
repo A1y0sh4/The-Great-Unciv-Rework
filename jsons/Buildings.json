@@ -1654,7 +1654,7 @@
 		"maintenance": 5,
 		"requiredResource": "Aluminum",
 		"requiredTech": "Stealth",
-		"uniques": ["Population loss from nuclear attacks [-50]% [in this city]", "Provides [1] [Pollution]"]
+		"uniques": ["Population loss from nuclear attacks [-50]% [in this city]"]
 	},
         {
 		"name": "Quantum Computer",
@@ -1662,7 +1662,7 @@
 		"science": 5,
 		"maintenance": 5,
 		"requiredResource": "Aluminum",
-		"uniques": ["[+100]% [Science] [in this city]", "Provides [1] [Pollution]"],
+		"uniques": ["[+100]% [Science] [in this city]"],
 	},
         {
 		"name": "CERN",
@@ -1680,7 +1680,7 @@
 		"maintenance": 5,
 		"requiredTech": "Nanotechnology",
 		"requiredResource": "Aluminum",
-		"uniques": ["[+100]% growth [in this city]", "Provides [1] [Pollution]"]
+		"uniques": ["[+100]% growth [in this city]"]
 	},
         // Column 17
         {
@@ -1688,7 +1688,7 @@
 		"requiredTech": "Nuclear Fusion",
 		"production": 5,
 		"maintenance": 5,
-		"uniques": ["[+100]% [Production] [in this city]", "Consumes [1] [Uranium]", "Provides [1] [Pollution]"],
+		"uniques": ["[+100]% [Production] [in this city]", "Consumes [1] [Uranium]"],
 	},
         {
 		"name": "AI Singularity",

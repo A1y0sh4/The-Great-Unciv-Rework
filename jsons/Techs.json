@@ -313,7 +313,7 @@
 				"name": "Banking", 
 				"row": 6,
 				"prerequisites": ["Chivalry", "Education","Distillation"],
-				"uniques": ["[Gold] cost of purchasing items in cities [-10]%"],
+				"uniques": [],
 				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
 			},
 			{

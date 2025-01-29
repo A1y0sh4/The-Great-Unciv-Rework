@@ -1386,7 +1386,7 @@
 		"requiredResource": "Aluminum",
 		"hurryCostModifier": 0,
 		"maintenance": 3,
-		"uniques": ["Must be on [River]", "[+1 Production] from [River] tiles [in this city]", "Provides [-1] [Pollution]"],
+		"uniques": ["Must be on [River]", "[+1 Production] from [River] tiles [in this city]", "Provides [-1] [Pollution] <when above [0] [Pollution]>"],
 		"requiredTech": "Electricity"
 	},
 
@@ -1530,14 +1530,14 @@
 		"requiredBuilding": "Factory",
 		"maintenance": 3,
 		"requiredTech": "Ecology",
-		"uniques": ["Must be next to [Desert]", "Only available <in cities without a [Nuclear Plant]>", "Provides [-1] [Pollution]"]
+		"uniques": ["Must be next to [Desert]", "Only available <in cities without a [Nuclear Plant]>", "Provides [-1] [Pollution] <when above [0] [Pollution]>"]
 	},
 	{
 		"name": "Recycling Center",
 		"cost": 297,
 		"maintenance": 1,
 		"requiredTech": "Ecology",
-		"uniques": ["Provides [-5] [Pollution]"]
+		"uniques": ["Provides [-5] [Pollution] <when above [0] [Pollution]>"]
 	},
 	{
 		"name": "Sydney Opera House",
@@ -1556,7 +1556,7 @@
 		"maintenance": 3,
 		"requiredResource": "Uranium",
 		"requiredTech": "Nuclear Fission",
-		"uniques": ["Only available <in cities without a [Solar Plant]>", "[+1 Production] <for every [Uranium]>", "[+1]% [Production] <for every [Uranium]>", "Provides [-1] [Pollution]"]
+		"uniques": ["Only available <in cities without a [Solar Plant]>", "[+1 Production] <for every [Uranium]>", "[+1]% [Production] <for every [Uranium]>", "Provides [-1] [Pollution] <when above [0] [Pollution]>"]
 	},
 	{
 		"name": "Apollo Program",

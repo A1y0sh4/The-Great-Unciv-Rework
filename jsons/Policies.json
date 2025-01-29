@@ -569,7 +569,7 @@
             },
             {
                 "name": "Total War",
-                "uniques": ["[+25]% Strength <for [Military] units> <when attacking>"],
+                "uniques": ["[+15]% Strength <for [Military] units> <when attacking>"],
                 "requires": ["Autarky", "Police State"],
                 "row": 3,
                 "column": 3

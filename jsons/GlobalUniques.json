@@ -6,7 +6,7 @@
 	"[-25]% growth [in all cities] <when at war>",
         "[-50]% growth [in all cities] <when between [-10] and [-1] Happiness>",
         "[-75]% growth [in all cities] <when below [-10] Happiness>",
-	"[+2 Production] from every [City center]",
+	"[+2 Production, +1 Gold] from every [City center]",
 	"[+1]% Unhappiness from [Population] [in all cities] <for every [-30] [Gold]>",
 	"[+1]% Unhappiness from [Population] [in all cities] <for every [10] [Pollution]>",
 	"[+1]% unhappiness from the number of cities <for every [10] [Pollution]>",
@@ -29,6 +29,7 @@
 	"[-1]% [Gold] <for every [113] [Gold]> <on [Epic] game speed>", "[-1]% [Faith] <for every [113] [Faith]> <on [Epic] game speed>",
 	"[-1]% [Gold] <for every [225] [Gold]> <on [Marathon] game speed>", "[-1]% [Faith] <for every [225] [Faith]> <on [Marathon] game speed>",
 	"[-1]% [Gold] <for every [338] [Gold]> <on [Endless] game speed>", "[-1]% [Faith] <for every [338] [Faith]> <on [Endless] game speed>",
+	/*
         "[+20]% maintenance on road & railroads",
         "[+5]% maintenance on road & railroads <starting from the [Classical era]>",
         "[+5]% maintenance on road & railroads <starting from the [Medieval era]>",
@@ -45,7 +46,8 @@
         "[+5]% maintenance cost for buildings [in all cities] <starting from the [Atomic era]>",
         "[+5]% maintenance cost for buildings [in all cities] <starting from the [Information era]>",
 	"[+5]% maintenance cost for buildings [in all cities] <starting from the [Future era]>",
-        "[+20]% maintenance costs <for [Military] units>",
+	*/
+        "[+25]% maintenance costs <for [Military] units>",
         "[+5]% maintenance costs <for [Military] units> <starting from the [Classical era]>",
         "[+5]% maintenance costs <for [Military] units> <starting from the [Medieval era]>",
         "[+5]% maintenance costs <for [Military] units> <starting from the [Renaissance era]>",

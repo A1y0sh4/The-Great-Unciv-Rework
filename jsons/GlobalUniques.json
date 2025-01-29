@@ -9,6 +9,7 @@
 	"[+2 Production] from every [City center]",
 	"[+1]% Unhappiness from [Population] [in all cities] <for every [-30] [Gold]>",
 	"[+1]% Unhappiness from [Population] [in all cities] <for every [10] [Pollution]>",
+	"[+1]% unhappiness from the number of cities <for every [10] [Pollution]>",
 	"[+1]% Culture cost of adopting new Policies <for every [10] [Pollution]>",
 	"[-1]% growth [in all cities] <for every [10] [Pollution]>",
 	"[-1]% [Gold] [in all cities] <for every [10] [Pollution]>",

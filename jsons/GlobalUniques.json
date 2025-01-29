@@ -5,7 +5,7 @@
 	"[-10]% Unhappiness from [Population] [in all cities] <during a Golden Age>",
 	"[-25]% growth [in all cities] <when at war>",
         "[-50]% growth [in all cities] <when between [-10] and [-1] Happiness>",
-        "Nullifies Growth [in all cities] <when below [-10] Happiness>",
+        "[-75]% growth [in all cities] <when below [-10] Happiness>",
 	"[+2 Production] from every [City center]",
 	"[+1]% Unhappiness from [Population] [in all cities] <for every [5] [Pollution]>",
 	"[+1]% Culture cost of adopting new Policies <for every [10] [Pollution]>",

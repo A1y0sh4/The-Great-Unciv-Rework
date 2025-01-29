@@ -1307,7 +1307,7 @@
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,
 		"requiredResource": "Coal",
-		"uniques": ["[+1 Production] <for every [2] [Coal]>", "[+1]% [Production] <for every [2] [Coal]>", "Comment [Generates 1 [Pollution] +1 additional one for every 5 [Coal]]", "Provides [1] [Pollution] <hidden from users>", "Provides [1] [Pollution] <for every [5] [Coal]> <before adopting [Autarky]> <hidden from users>", "Provides [1] [Pollution] <for every [9] [Coal]> <after adopting [Autarky]> <hidden from users>"],
+		"uniques": ["[+1 Production] <for every [2] [Coal]>", "[+1]% [Production] <for every [2] [Coal]>", "Comment [Generates 1 [Pollution] +1 additional one for every 6 [Coal]]", "Provides [1] [Pollution] <hidden from users>", "Provides [1] [Pollution] <for every [6] [Coal]> <before adopting [Autarky]> <hidden from users>", "Provides [1] [Pollution] <for every [9] [Coal]> <after adopting [Autarky]> <hidden from users>"],
 		"hurryCostModifier": 0,
 		"requiredTech": "Industrialization"
 	},
@@ -1322,7 +1322,7 @@
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
-		"uniques": ["[+1 Production] <for every [2] [Coal]>", "[+1 Gold] <for every [2] [Coal]>", "[+1]% [Production] <for every [2] [Coal]>", "Comment [Generates 1 [Pollution] +1 additional one for every 5 [Coal]]", "Provides [1] [Pollution] <hidden from users>", "Provides [1] [Pollution] <for every [5] [Coal]> <before adopting [Autarky]> <hidden from users>", "Provides [1] [Pollution] <for every [9] [Coal]> <after adopting [Autarky]> <hidden from users>"],
+		"uniques": ["[+1 Production] <for every [2] [Coal]>", "[+1 Gold] <for every [2] [Coal]>", "[+1]% [Production] <for every [2] [Coal]>", "Comment [Generates 1 [Pollution] +1 additional one for every 6 [Coal]]", "Provides [1] [Pollution] <hidden from users>", "Provides [1] [Pollution] <for every [6] [Coal]> <before adopting [Autarky]> <hidden from users>", "Provides [1] [Pollution] <for every [9] [Coal]> <after adopting [Autarky]> <hidden from users>"],
 		"requiredResource": "Coal",
 		"requiredTech": "Industrialization"
 	},

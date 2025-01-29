@@ -1381,8 +1381,7 @@
 		            "[+1 Gold] <for every [4] [Coal]>",
 		            "[+1 Gold] <for every [Oil]>",
 		            "[+2 Gold] <for every [Aluminum]>",
-		            "[+3 Gold] <for every [Uranium]>",
-		            "[-1 Gold] <for every [20] [Pollution]>"],
+		            "[+3 Gold] <for every [Uranium]>"],
 		"requiredBuilding": "Bank",
 		"requiredTech": "Electricity"
 	},

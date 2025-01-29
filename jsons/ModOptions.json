@@ -26,8 +26,8 @@
     "maxRiverLength": 21,
     "unitSupplyPerPopulation": 0.2,
     "cityStrengthPerPop": 0.25,
-    "cityStrengthFromTechsMultiplier": 5.24,
-    "cityStrengthFromTechsExponent": 2.67,
+    "cityStrengthFromTechsMultiplier": 5,
+    "cityStrengthFromTechsExponent": 2.764,
     "unitUpgradeCost":{"base":20,"perProduction":1,"eraMultiplier":0.334,"exponent":1,"roundTo":5}
   }
 }

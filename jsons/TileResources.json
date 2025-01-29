@@ -230,7 +230,7 @@
 	{
         "name": "Pollution", 
         "resourceType": "Strategic",
-        "uniques": ["Cannot be traded", "Stockpiled", "Comment [Lowers the rate of Growth, Happiness, Culture and Gold by 0.1% for each [Pollution] point]"]
+        "uniques": ["Cannot be traded", "Stockpiled", "Comment [Lowers the rate of Growth, Happiness, Culture and Gold by 0.05% for each [Pollution] point]"]
         },
 	
 	// Luxury resources

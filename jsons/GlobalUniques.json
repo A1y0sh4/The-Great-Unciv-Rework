@@ -15,7 +15,7 @@
 	"[-15]% Strength for cities <when below [-10] Happiness>",
         "Cannot build [Settler] units <when below [-10] Happiness>",
         "Rebel units may spawn <when below [-10] Happiness>",
-	"Sell [Factory] buildings [in all cities] <upon turn end> <with [3]% chance> <when above [1000] [Pollution]>",
+	"Sell [Factory] buildings [in all cities] <upon turn end> <with [3]% chance> <when above [500] [Pollution]>",
 	"[-15]% Yield from every [Building] <when below [-10] Happiness>",
 	"[-1] Happiness from each type of luxury resource",
 	"[-1 Gold] from every [River]",

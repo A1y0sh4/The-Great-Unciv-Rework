@@ -1104,8 +1104,7 @@
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"gold": 10},
-		"uniques": ["[+1 Gold] per [10] population [in this city]",
-			    "[+1 Gold] <for every [Remaining [All] Civilizations]>"],
+		"uniques": ["[+1 Gold] <for every [Remaining [All] Civilizations]>"],
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
 	},

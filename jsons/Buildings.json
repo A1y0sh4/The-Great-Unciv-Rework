@@ -1551,7 +1551,7 @@
 	},
 	{
 		"name": "Nuclear Plant",
-		"production": 3,
+		"production": 5,
 		"requiredBuilding": "Factory",
 		"maintenance": 3,
 		"requiredResource": "Uranium",

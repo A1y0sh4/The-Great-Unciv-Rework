@@ -461,7 +461,7 @@
 	},
         {
 		"name": "Circus Maximus",
-		"cost": 100,
+		"cost": 75,
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "[-50]% Unhappiness from [Population] [in this city]", "Cost increases by [25] per owned city"],
@@ -587,7 +587,7 @@
 	},
 	{
 		"name": "National College",
-		"cost": 100,
+		"cost": 75,
 		"culture": 1,
 		"greatPersonPoints": {"Great Scientist": 3},
 		"isNationalWonder": true,
@@ -629,7 +629,7 @@
 	},
 	{
 		"name": "National Epic",
-		"cost": 100,
+		"cost": 75,
 		"culture": 1,
 		"greatPersonPoints": {"Great Artist": 3},
 		"isNationalWonder": true,
@@ -713,7 +713,7 @@
 	},
 	{
 		"name": "Heroic Epic",
-		"cost": 100,
+		"cost": 75,
 		"culture": 1,
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Artist": 3},
@@ -767,7 +767,7 @@
 	},
 	{
 		"name": "Grand Temple",
-		"cost": 100,
+		"cost": 75,
 		"culture": 1,
 		"faith": 3,
 		"greatPersonPoints": {"Great Artist": 3},
@@ -820,7 +820,7 @@
 	},
 	{
 		"name": "National Treasury",
-		"cost": 100,
+		"cost": 75,
 		"culture": 1,
 		"percentStatBonus": {"gold": 50},
 		"greatPersonPoints": {"Great Merchant": 3},
@@ -995,7 +995,7 @@
 	},
 	{
 		"name": "Ironworks",
-		"cost": 100,
+		"cost": 75,
 		"percentStatBonus": {"production": 50},
 		"culture": 1,
 		"greatPersonPoints": {"Great Engineer": 3},
@@ -1180,7 +1180,7 @@
 	},
 	{
 		"name": "Hermitage",
-		"cost": 100,
+		"cost": 75,
 		"culture": 3,
 		"percentStatBonus": {"culture": 50},
 		"greatPersonPoints": {"Great Artist": 3},
@@ -1630,7 +1630,7 @@
 	},
         {
         "name": "National Intelligence Agency",
-        "cost": 100,
+        "cost": 75,
         "culture": 1,
 	"greatPersonPoints": {"Great Scientist": 3},
         "isNationalWonder": true,

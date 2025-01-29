@@ -1931,7 +1931,7 @@
 		"name": "Nuclear Submarine",
 		"unitType": "Submarine",
 		"movement": 6,
-		"strength": 50,
+		"strength": 45,
 		"range": 3,
 		"rangedStrength": 80,
 		"cost": 540,

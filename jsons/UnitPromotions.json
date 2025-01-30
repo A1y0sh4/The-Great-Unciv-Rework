@@ -206,11 +206,7 @@
 	// Scout
 	{
 		"name": "Scouting I",
-		"uniques": ["[+1] Movement", "No movement cost to pillage", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>",
-		"Gain [9]-[21] [Gold] <upon discovering a [City center] tile>",
-        "Gain [9]-[21] <upon discovering a [Barbarian encampment] tile> <(modified by game speed)>",
-        "Gain [9]-[21] <upon discovering a [Ancient ruins] tile> <(modified by game speed)>",
-        "Gain [27]-[63] <upon discovering a [Natural Wonder] tile> <(modified by game speed)>"],
+		"uniques": ["[+1] Movement", "No movement cost to pillage", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 1

@@ -357,7 +357,7 @@
 		"science": 2,
 		"defenceBonus": 0.15,
 		"occursOn": ["Ocean"],
-		"uniques": ["Must be adjacent to [1] to [6] [Coast] tiles",
+		"uniques": ["Point of Interest", "Must be adjacent to [1] to [6] [Coast] tiles",
 			"Must be adjacent to [6] [Water] tiles",
 			"Occurs on latitudes from [10] to [70] percent of distance equator to pole",
 			"Occurs in groups of [2] to [2] tiles", "Tile provides yield without assigned population", "Grants [Mobility] ([+1 Movement]) to adjacent [{Military} {Water}] units for the rest of the game"],

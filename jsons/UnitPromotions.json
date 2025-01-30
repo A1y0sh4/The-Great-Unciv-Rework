@@ -221,7 +221,7 @@
 		"name": "Scouting II",
 		"prerequisites": ["Scouting I"],
 		"uniques": ["[+1] Sight", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>",
-		"Gain [3]-[12] [Science] <upon discovering a [Land] tile> <(modified by game speed)> <hidden from users>", "Comment [Gain a little amount of [Science] when discovering new Land tiles]"],
+		"Gain [3]-[9] [Science] <upon discovering a [Land] tile> <(modified by game speed)> <hidden from users>", "Comment [Gain a little amount of [Science] when discovering new Land tiles]"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 2

@@ -206,7 +206,13 @@
 	// Scout
 	{
 		"name": "Scouting I",
-		"uniques": ["[+1] Movement", "No movement cost to pillage", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["[+1] Movement", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>",
+		"[This Unit] gains [1] XP <upon discovering a [City center] tile> <hidden from users>",
+		"[This Unit] gains [1] XP <upon discovering a [City ruins] tile> <hidden from users>",
+                "[This Unit] gains [2] XP <upon discovering a [Barbarian encampment] tile> <hidden from users>",
+                "[This Unit] gains [2] XP <upon discovering a [Ancient ruins] tile> <hidden from users>",
+                "[This Unit] gains [5] XP <upon discovering a [Natural Wonder] tile> <hidden from users>",
+		"Comment [Gain a little amount of XP when discovering Points of Interest]"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 1
@@ -214,7 +220,8 @@
 	{
 		"name": "Scouting II",
 		"prerequisites": ["Scouting I"],
-		"uniques": ["[+1] Sight", "Can see invisible [Land] units", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["[+1] Sight", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>",
+		"Gain [0]-[4] [Science] <upon discovering a [Land] tile> <(modified by game speed)> <hidden from users>", "Comment [Gain a little amount of [Science] when discovering new Land tiles]"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 2

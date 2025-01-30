@@ -102,14 +102,6 @@
 			                "Generated on every [25] tiles <in [Hill] tiles>",
 		                        "Doesn't generate naturally <in [Hill] tiles> <in [Tundra] tiles>", "Doesn't generate naturally <in [Hill] tiles> <in [Desert] tiles>"]
 	},
-	{
-		"name": "Ruins",
-		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Grassland","Plains","Desert","Tundra","Hill","Forest","Jungle"],
-		"culture": 1,
-		"improvement": "Pasture",
-		"uniques": ["Resource", "Generated on every [1] tiles <in [Ancient ruins] tiles>"]
-	},
 	
 	// Strategic resources
 	{

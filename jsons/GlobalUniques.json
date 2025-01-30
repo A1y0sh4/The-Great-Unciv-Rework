@@ -22,6 +22,7 @@
 	"[-15]% Yield from every [Building] <when below [-10] Happiness>",
 	"[-1] Happiness from each type of luxury resource",
 	"[-1 Gold] from every [River]",
+	"[+1 Culture] from every [Ancient ruins]",
 	"[-1]% [Gold] <for every [25] [Gold]> <on [Blitz] game speed>", "[-1]% [Faith] <for every [25] [Faith]> <on [Blitz] game speed>",
 	"[-1]% [Gold] <for every [38] [Gold]> <on [Online] game speed>", "[-1]% [Faith] <for every [38] [Faith]> <on [Online] game speed>",
 	"[-1]% [Gold] <for every [50] [Gold]> <on [Quick] game speed>", "[-1]% [Faith] <for every [50] [Faith]> <on [Quick] game speed>",

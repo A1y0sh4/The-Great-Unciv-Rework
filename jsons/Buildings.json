@@ -454,8 +454,7 @@
 		"replaces": "Colosseum",
 		"uniqueTo": "Aztecs",
 		"happiness": 2,
-		"faith": 1,
-		"uniques": ["[+1 Happiness, +1 Culture, +1 Faith] <when at war>", "Comment [Can be purchased with [Faith]]"],
+		"uniques": ["[+1 Food, +1 Production, +1 Science, +1 Happiness, +1 Culture, +1 Faith, +1 Gold] [in this city] <when at war> <hidden from users>", "Comment [+1 of each Stat when at war]", "Comment [Can be purchased with [Faith]]"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredTech": "Imperial Games"

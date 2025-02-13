@@ -1517,21 +1517,42 @@ TileSets/HexaRealm/Tiles/Amber
   index: -1
 TileSets/HexaRealm/Tiles/Obsidian
   rotate: false
-  xy: 1420, 908
+  xy: 833, 0
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Obsidian+Quarry
+  rotate: false
+  xy: 922, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Poppy
   rotate: false
-  xy: 1380, 908
+  xy: 1428, 5
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Poppy+Plantation
+  rotate: false
+  xy: 1512, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Cocoa
   rotate: false
-  xy: 976, 544
+  xy: 155, 3
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Cocoa+Plantation
+  rotate: false
+  xy: 245, 3
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -1545,7 +1566,14 @@ TileSets/HexaRealm/Tiles/Tobacco
   index: -1
 TileSets/HexaRealm/Tiles/Coffee
   rotate: false
-  xy: 1084, 652
+  xy: 333, 5
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Coffee+Plantation
+  rotate: false
+  xy: 410, 5
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

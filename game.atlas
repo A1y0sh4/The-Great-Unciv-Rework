@@ -1503,14 +1503,21 @@ TileSets/HexaRealm/Tiles/Maize+Plantation
   index: -1
 TileSets/HexaRealm/Tiles/Tea
   rotate: false
-  xy: 1380, 868
+  xy: 1263, 1
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Tea+Plantation
+  rotate: false
+  xy: 1340, 1
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Amber
   rotate: false
-  xy: 1420, 868
+  xy: 0, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -1538,7 +1545,7 @@ TileSets/HexaRealm/Tiles/Poppy
   index: -1
 TileSets/HexaRealm/Tiles/Poppy+Plantation
   rotate: false
-  xy: 1512, 0
+  xy: 1512, 1
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -1566,7 +1573,7 @@ TileSets/HexaRealm/Tiles/Tobacco
   index: -1
 TileSets/HexaRealm/Tiles/Tobacco+Plantation
   rotate: false
-  xy: 1164, 0
+  xy: 1164, 1
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

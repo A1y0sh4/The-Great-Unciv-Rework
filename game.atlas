@@ -1473,6 +1473,13 @@ TileSets/HexaRealm/Tiles/Rice+Farm
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Rice+Rice paddy
+  rotate: false
+  xy: 76, 0
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Maize
   rotate: false
   xy: 1340, 868
@@ -1504,6 +1511,27 @@ TileSets/HexaRealm/Tiles/Obsidian
 TileSets/HexaRealm/Tiles/Poppy
   rotate: false
   xy: 1380, 908
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Cocoa
+  rotate: false
+  xy: 976, 544
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Tobacco
+  rotate: false
+  xy: 1340, 868
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Coffee
+  rotate: false
+  xy: 1084, 652
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

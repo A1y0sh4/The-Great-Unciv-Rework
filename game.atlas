@@ -1531,7 +1531,7 @@ TileSets/HexaRealm/Tiles/Obsidian+Quarry
   index: -1
 TileSets/HexaRealm/Tiles/Poppy
   rotate: false
-  xy: 1428, 5
+  xy: 1425, 5
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

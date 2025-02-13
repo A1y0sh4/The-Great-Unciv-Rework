@@ -1480,7 +1480,7 @@ TileSets/HexaRealm/Tiles/Rice+Farm
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Rice+Rice paddy
+TileSets/HexaRealm/Tiles/Rice paddy
   rotate: false
   xy: 76, 0
   size: 64, 56

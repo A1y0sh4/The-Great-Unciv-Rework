@@ -1454,14 +1454,14 @@ UnitIcons/Fluyt
   index: -1
 TileSets/HexaRealm/Tiles/Olive
   rotate: false
-  xy: 650, 0
+  xy: 660, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Olive+Plantation
   rotate: false
-  xy: 745, 0
+  xy: 745, 3
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -1496,7 +1496,7 @@ TileSets/HexaRealm/Tiles/Maize
   index: -1
 TileSets/HexaRealm/Tiles/Maize+Plantation
   rotate: false
-  xy: 585, 0
+  xy: 585, 5
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

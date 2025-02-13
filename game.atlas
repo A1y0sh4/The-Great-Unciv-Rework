@@ -1566,7 +1566,7 @@ TileSets/HexaRealm/Tiles/Cocoa+Plantation
   index: -1
 TileSets/HexaRealm/Tiles/Tobacco
   rotate: false
-  xy: 1093, 2
+  xy: 1092, 1
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

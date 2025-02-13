@@ -1489,14 +1489,14 @@ TileSets/HexaRealm/Tiles/Rice+Rice paddy
   index: -1
 TileSets/HexaRealm/Tiles/Maize
   rotate: false
-  xy: 490, 0
+  xy: 495, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Maize+Plantation
   rotate: false
-  xy: 590, 0
+  xy: 585, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

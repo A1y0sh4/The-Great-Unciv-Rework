@@ -1510,7 +1510,7 @@ TileSets/HexaRealm/Tiles/Tea
   index: -1
 TileSets/HexaRealm/Tiles/Tea+Plantation
   rotate: false
-  xy: 1340, 1
+  xy: 1340, 2
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

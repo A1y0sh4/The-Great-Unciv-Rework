@@ -1573,7 +1573,7 @@ TileSets/HexaRealm/Tiles/Tobacco+Plantation
   index: -1
 TileSets/HexaRealm/Tiles/Coffee
   rotate: false
-  xy: 328, 6
+  xy: 327, 6
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

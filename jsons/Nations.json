@@ -2223,7 +2223,7 @@
 		
 		"uniqueName": "Guerrilla Tactics",
 		"uniqueText": "Light and Gunpowder units are 15% stronger, can ignore Zones of Control and can move after attacking while in Friendly Land",
-		"uniques": ["[Sword] units gain the [Guerrilla Tactics Unique] promotion", "[Archery] units gain the [Guerrilla Tactics Unique] promotion", "[Gunpowder] units gain the [Guerrilla Tactics Unique] promotion"],
+		"uniques": ["[Scout] units gain the [Guerrilla Tactics Unique] promotion", "[Sword] units gain the [Guerrilla Tactics Unique] promotion", "[Archery] units gain the [Guerrilla Tactics Unique] promotion", "[Gunpowder] units gain the [Guerrilla Tactics Unique] promotion", "[Ranged Gunpowder] units gain the [Guerrilla Tactics Unique] promotion"],
 		"cities": ["Thăng Long","Huế","Hoa Lư","Trà Kiệu","Đồng Hới","Quảng Trị","Sài Gòn","Hải Phòng","Cần Thơ","Đà Nẵng","Thái Nguyên","Hạ Long","Quy Nhơn","Đà Lạt","Biên Hòa","Nha Trang","Rạch Giá",
 		"Nam Định","Vinh","Buôn Ma Thuột","Việt Trì"],
 		"spyNames": ["Nam", "Chiêu", "Dũng", "Khoa", "Hồ", "Từ", "Hiến", "Kim", "Túc", "Nhị"]

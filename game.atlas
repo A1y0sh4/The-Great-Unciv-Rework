@@ -1503,14 +1503,14 @@ TileSets/HexaRealm/Tiles/Maize+Plantation
   index: -1
 TileSets/HexaRealm/Tiles/Tea
   rotate: false
-  xy: 1260, 2
+  xy: 1261, 3
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Tea+Plantation
   rotate: false
-  xy: 1340, 5
+  xy: 1340, 1
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

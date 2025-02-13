@@ -527,7 +527,7 @@
 	        "name": "Obsidian",
 		"resourceType": "Luxury",
 		"revealedBy": "Mining",
-		"terrainsCanBeFoundOn": ["Jungle","Desert","Hill","Grassland"],
+		"terrainsCanBeFoundOn": ["Desert","Hill","Grassland"],
 		"production": 1,
 		"improvement": "Quarry",
 		"uniques": ["Resource", "Generated with weight [25] <in [Jungle] Regions>",

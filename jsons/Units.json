@@ -1055,7 +1055,6 @@
 		"requiredTech": "Compass",
 		"obsoleteTech": "Navigation",
 		"upgradesTo": "Privateer",
-		"promotions": ["Coastal Raider I"],
 		"uniques": ["Can move after attacking"],
 		"attackSound": "metalhit"
 	},

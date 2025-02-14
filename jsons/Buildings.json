@@ -75,12 +75,11 @@
 	// Column 1
 	{
 		"name": "Granary",
-	        "requiredTech": "Agriculture"
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 	        "percentStatBonus": {"food": 10},
 	        "cost": 40,
-		"requiredTech": "Pottery"
+		"requiredTech": "Pottery",
 	},
 	{
 		"name": "Mekewap",

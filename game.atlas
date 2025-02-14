@@ -1682,3 +1682,10 @@ UnitIcons/T-34
   orig: 100, 100
   offset: 0, 0
   index: -1
+ResourceIcons/Pollution
+  rotate: false
+  xy: 112, 688
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

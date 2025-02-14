@@ -71,7 +71,7 @@
 				"name": "Writing",
 				"row": 2,
 				"prerequisites": ["Pottery"], 
-				"uniques": [],
+				"uniques": ["[+1 Gold] from every [City center]"],
 				"quote": "'He who destroys a good book kills reason itself.' - John Milton"
 			},
 			{

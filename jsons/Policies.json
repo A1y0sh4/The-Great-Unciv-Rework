@@ -295,9 +295,12 @@
                 "name": "Counter Intelligence",
                 "uniques": [
                     "[-25]% enemy spy effectiveness [in all cities]",
-		    "Comment [+50% [Production] when constructing Anti-Espionage buildings]",
+		    "Comment [+50% [Production] when constructing defensive buildings]",
+		    "[+50]% Production when constructing [Walls] buildings [in all cities] <hidden from users>",
+		    "[+50]% Production when constructing [Castle] buildings [in all cities] <hidden from users>",
 		    "[+50]% Production when constructing [Arsenal] buildings [in all cities] <hidden from users>",
-		    "[+50]% Production when constructing [Military Base] buildings [in all cities] <hidden from users>"
+		    "[+50]% Production when constructing [Military Base] buildings [in all cities] <hidden from users>",
+		    "[+50]% Production when constructing [Air Defense System] buildings [in all cities] <hidden from users>"
                 ],
                 "requires": ["Machiavellianism"],
                 "row": 2,
@@ -316,7 +319,7 @@
                 "name": "Resource Contracts",
                 "requires": ["Machiavellianism", "Mercenary Opportunism"],
                 "uniques": [
-		    "[+100]% resources gifted by City-States",
+		    "[+50]% resources gifted by City-States",
                     "[+50]% Happiness from luxury resources gifted by City-States"
                 ],
                 "row": 2,

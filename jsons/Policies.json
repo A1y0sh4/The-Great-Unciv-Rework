@@ -543,8 +543,8 @@
             },
             {
                 "name": "Militarism",
-                "uniques": ["[-33]% Gold cost of upgrading <for [Military] units>",
-		"[+15]% [Science] from every [Military Academy]"],
+                "uniques": ["[-33]% Gold cost of upgrading <for [Military] units>", "Comment [+1 [Science] from all Military buildings]",
+		"[+1 Science] from every [Barracks] <hidden from users>", "[+1 Science] from every [Armory] <hidden from users>", "[+1 Science] from every [Military Academy] <hidden from users>"],
                 "row": 1,
                 "column": 5
             },

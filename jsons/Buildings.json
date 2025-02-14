@@ -70,11 +70,12 @@
 			    "[+1 Faith, +1 Science] <after discovering [Theology]>",
 			    "[+1 Culture] <after discovering [Archaeology]>",
 			    "[+1 Culture] <after discovering [Flight]>",
-			    "Only available <when religion is enabled>"]
+			    "Only available <when religion is enabled>"],
 	},
 	// Column 1
 	{
 		"name": "Granary",
+	        "requiredTech": "Agriculture"
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 	        "percentStatBonus": {"food": 10},
@@ -135,7 +136,7 @@
 		"isWonder": true,
 		"requiredTech": "Calendar",
 		"uniques": ["Must be on [Fresh Water]", "[+1 Food] from [Fresh Water] tiles [in this city] <in [Farm] tiles>", "[+1 Food] from [Fresh Water] tiles [in this city] <in [Plantation] tiles>"],
-		"quote": "'I think that if ever a mortal heard the word of God it would be in a garden at the cool of the day.' - F. Frankfort Moore"
+		"quote": "'I think that if ever a mortal heard the word of God it would be in a garden at the cool of the day.' - F. Frankfort Moore",
 	},
 	// Column 2
 	{
@@ -735,7 +736,7 @@
 		"quote": "'Why man, he doth bestride the narrow world like a colossus, and we petty men walk under his huge legs, and peep about to find ourselves dishonorable graves.' - William Shakespeare, Julius Caesar",
 	},
 
-	// Medieval Era
+	// Medieval Era,
 
 	// Column 5
 	{
@@ -1643,7 +1644,7 @@
             "Gain an extra spy",
 			"Only available <if [Military Base] is constructed in all [non-[Puppeted]] cities>",
 			"Cost increases by [25] per owned city", "Only available <when espionage is enabled>"],
-        "requiredTech": "Advanced Espionage"
+        "requiredTech": "Advanced Espionage",
     },
 	// Column 16
 	{
@@ -1679,7 +1680,7 @@
 		"maintenance": 5,
 		"requiredTech": "Nanotechnology",
 		"requiredResource": "Aluminum",
-		"uniques": ["[+100]% growth [in this city]"]
+		"uniques": ["[+100]% growth [in this city]"],
 	},
         // Column 17
         {
@@ -1745,7 +1746,7 @@
 		"culture": 3,
 		"happiness": 1,
 		"requiredBuilding": "Temple",
-		"uniques": ["Unbuildable", "Only available <when religion is enabled>"]
+		"uniques": ["Unbuildable <before adopting [Cathedrals]>", "Only available <when religion is enabled>"]
 	},
 	{
 		"name": "Mosque",
@@ -1754,7 +1755,7 @@
 		"faith": 3,
 		"happiness": 1,
 		"requiredBuilding": "Temple",
-		"uniques": ["Unbuildable", "Only available <when religion is enabled>"]
+		"uniques": ["Unbuildable <before adopting [Mosques]>", "Only available <when religion is enabled>"]
 	},
 	{
 		"name": "Pagoda",
@@ -1763,7 +1764,7 @@
 		"faith": 2,
 		"happiness": 2,
 		"requiredBuilding": "Temple",
-		"uniques": ["Unbuildable", "Only available <when religion is enabled>"]
+		"uniques": ["Unbuildable <before adopting [Pagodas]>", "Only available <when religion is enabled>"]
 	},
 	{
 		"name": "Stupa",
@@ -1772,7 +1773,7 @@
 		"faith": 2,
 		"culture": 1,
 		"requiredBuilding": "Temple",
-		"uniques": ["Unbuildable", "Only available <when religion is enabled>"]
+		"uniques": ["Unbuildable <before adopting [Stupas]>", "Only available <when religion is enabled>"]
 	},
 	{
 		"name": "Wat",
@@ -1781,6 +1782,6 @@
 		"faith": 2,
 		"culture": 1,
 		"requiredBuilding": "Temple",
-		"uniques": ["Unbuildable", "Only available <when religion is enabled>"]
+		"uniques": ["Unbuildable <before adopting [Wats]>", "Only available <when religion is enabled>"]
 	}
 ]

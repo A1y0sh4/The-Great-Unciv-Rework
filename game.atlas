@@ -1710,3 +1710,10 @@ TileSets/FantasyHex/Tiles/Niagara Falls
   orig: 32, 36
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Lysefjord
+  rotate: false
+  xy: 1084, 608
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1

@@ -215,7 +215,7 @@
 					"Considered [Production] when determining start locations",
 					"Considered [Food] when determining start locations <in [Forest] Regions>",
 					"Considered [Food] when determining start locations <in [Tundra] Regions>",
-					"Every [33] tiles with this terrain will receive a major deposit of a strategic resource.", "Tile provides yield without assigned population"],
+					"Every [33] tiles with this terrain will receive a major deposit of a strategic resource.", "Tile provides yield without assigned population <for [Celts] Civilizations>"],
 		"civilopediaText": [{"text":"A Camp can be built here without cutting it down", "link":"Improvement/Camp"}]
 	},
 	{

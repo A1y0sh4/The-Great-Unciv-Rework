@@ -1696,3 +1696,10 @@ BuildingIcons/Sanchi Stupa
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Victoria Falls
+  rotate: false
+  xy: 1192, 760
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1

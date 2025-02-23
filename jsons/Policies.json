@@ -638,7 +638,7 @@
             },
             {
                 "name": "Diplomatic Missions",
-                "requires": ["World Expo", "Military Aid", "Cultural Diplomacy"],
+                "requires": ["World Expo", "Foreign Aid", "Cultural Diplomacy"],
                 "uniques": [
                     "[1] free [Diplomat] units appear", "[1] free [Diplomat] units appear <upon entering a new era>"
                 ],

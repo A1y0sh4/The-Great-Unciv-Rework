@@ -612,7 +612,7 @@
                 "column": 1
             },
             {
-                "name": "Military Aid",
+                "name": "Foreign Aid",
                 "uniques": [
                     "Gain [15] Influence with a [Military] gift to a City-State", "Gifts of Gold to City-States generate [25]% more Influence"
                 ],

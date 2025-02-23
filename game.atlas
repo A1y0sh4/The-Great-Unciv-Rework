@@ -1717,3 +1717,10 @@ TileSets/FantasyHex/Tiles/Lysefjord
   orig: 32, 36
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Zhangye Danxia
+  rotate: false
+  xy: 1192, 716
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1

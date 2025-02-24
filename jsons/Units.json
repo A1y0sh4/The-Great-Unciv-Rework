@@ -441,7 +441,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+15]% Strength <when adjacent to a [Hoplite] unit>", "Comment [Gain double the normal amount of Influence when gifted to a City-State]"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+15]% Strength <when adjacent to a [Hoplite] unit>", "Comment [Gain triple the normal amount of Influence when gifted to a City-State]"],
 		"attackSound": "metalhit"
 	},
 	{

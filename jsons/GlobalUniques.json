@@ -6,7 +6,7 @@
 	"[-25]% growth [in all cities] <when at war>",
         "[-50]% growth [in all cities] <when between [-10] and [-1] Happiness>",
         "[-75]% growth [in all cities] <when below [-10] Happiness>",
-	"[+1 Food, +1 Production, +1 Gold] from every [City center]",
+	"[+2 Food, +1 Production, +1 Gold] from every [City center]",
 	"[-1 Food, +1 Production] from every [City center] <in [Hill] tiles>",
 	"[+1]% Unhappiness from [Population] [in all cities] <for every [-30] [Gold]>",
 	"[+1]% Unhappiness from [Population] [in all cities] <for every [20] [Pollution]>",

@@ -89,7 +89,7 @@
             {
                 "name": "Republic",
                 "uniques": [
-                    "[+1 Production] per [4] population [in all cities]"
+                    "[+50]% Production towards any buildings that already exist in the Capital"
                 ],
                 "row": 1,
                 "column": 4

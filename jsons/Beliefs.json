@@ -346,13 +346,13 @@
     {
         "name": "Defender of the Faith",
         "type": "Enhancer",
-        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"]
+        "uniques": ["[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"]
         // ToDo: Should only be friendly territory of cities that follow this religion
     },
     {
         "name": "Doctrinal Esoterism",
         "type": "Enhancer",
-        "uniques": ["[-25]% enemy spy effectiveness [in all cities]"]
+        "uniques": ["[-25]% enemy spy effectiveness [in all cities]", "[+1 Faith] [in this city]"]
     },
     {
         "name": "Holy Alliance",
@@ -377,7 +377,7 @@
     {
         "name": "Just War",
         "type": "Enhancer",
-        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
+        "uniques": ["[+15]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
         // ToDo: Should only be enemy territory of cities that follow this religion
     },
     {

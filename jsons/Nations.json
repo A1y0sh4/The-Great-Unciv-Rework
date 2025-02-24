@@ -1850,7 +1850,8 @@
 		"cities": ["Moscow","Leningrad","Stalingrad","Kiev","Kharkov","Minsk","Novosibirsk","Sverdlovsk","Nizhny Novgorod","Tbilisi",
 			"Rostov","Odessa","Vladivostok","Sevastopol","Magnitogorsk","Tashkent","Baku","Dnipropetrovsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
-			"Voronezh","Pskov","Starayarussa","Kostoma","Suzdal","Magnitogorsk"]
+			"Voronezh","Pskov","Starayarussa","Kostoma","Suzdal","Magnitogorsk"],
+		"spyNames": ["Irina", "Yaroslav", "Vera", "Nikita", "Yelizaveta", "Yevgeny", "Aleksandra", "Vadim", "Adelina", "Maksim"
 	},
 	{
 		"name": "Spain",

@@ -988,9 +988,10 @@
 	{
 		"name": "Forbidden Palace",
 		"culture": 2,
+		"happiness": 4,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
-		"uniques": ["[-15]% Unhappiness from [Population] [in all cities]", "[+15]% Production towards any buildings that already exist in the Capital"],
+		"uniques": ["[-10]% Unhappiness from [Population] [in all cities]"],
 		"requiredBuilding": "Palace",
 		"requiredTech": "Steel",
 		"quote": "'Most of us can, as we choose, make of this world either a palace or a prison' - John Lubbock"

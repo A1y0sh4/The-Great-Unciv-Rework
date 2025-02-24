@@ -19,7 +19,7 @@
 		"production": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Archery",
-		"uniques": ["Improvement", "Unavailable <in [Jungle] tiles> <before discovering [Banking]>", "[+1 Production] <after discovering [Scientific Theory]>", "Pillaging this improvement yields approximately [+13 Gold]", "Unavailable <for [Celts] Civilizations> <hidden from users>"],
+		"uniques": ["Improvement", "Unavailable <in [Jungle] tiles> <before discovering [Banking]>", "[+1 Production] <after discovering [Scientific Theory]>", "Pillaging this improvement yields approximately [+13 Gold]", "Unbuildable <for [Celts] Civilizations> <hidden from users>"],
 		"shortcutKey": "L"
 	},
 	{
@@ -160,7 +160,7 @@
 		"name": "Remove Forest",
 		"turnsToBuild": 4,
 		"techRequired": "Archery",
-		"uniques": ["Can be built outside your borders", "Unavailable <for [Celts] Civilizations> <hidden from users>"],
+		"uniques": ["Can be built outside your borders", "Unbuildable <for [Celts] Civilizations> <hidden from users>"],
 		"shortcutKey": "X",
         "civilopediaText": [{"text":"Provides a one-time Production bonus depending on distance to the closest city once finished"}]
 	},
@@ -168,7 +168,7 @@
 		"name": "Remove Jungle",
 		"turnsToBuild": 7,
 		"techRequired": "Bronze Working",
-		"uniques": ["Can be built outside your borders", "Unavailable <for [Celts] Civilizations> <hidden from users>"],
+		"uniques": ["Can be built outside your borders", "Unbuildable <for [Celts] Civilizations> <hidden from users>"],
 		"shortcutKey": "X",
         "civilopediaText": [{"text":"Provides a one-time Production bonus depending on distance to the closest city once finished"}]
 	},

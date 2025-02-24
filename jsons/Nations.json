@@ -522,8 +522,8 @@
 		"innerColor": [148, 170, 255],
 		
 		"uniqueName": "Druidic Lore",
-		"uniqueText": "Unimproved forests yield +1 [Faith]\nImproved forests yield +1 [Gold]",
-		"uniques": ["[+1 Faith] from [Forest] tiles [in all cities]", "[-1 Faith, +1 Gold] from every [Improvement] <in [Forest] tiles>"],
+		"uniqueText": "City centers adjacent to forests yield an additional +1 [Faith] before founding a Pantheon\nUnimproved forests yield an additional +1 [Faith], bonus which turns into +1 [Gold] for Improved forests\n+50% construction time for all improvements in Vegetation tiles",
+		"uniques": ["[+1 Faith] from [Forest] tiles [in all cities]", "[-1 Faith, +1 Gold] from every [Improvement] <in [Forest] tiles>", "[+1 Faith] from every [City center] <within [1] tiles of a [Forest]> <before founding a Pantheon>"],
 		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth","Penzance",
 			"Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen","Belfast",
 			"Caernafon","Newquay","Saint-Nazarre","Castletown","Stirling","Galway","Conwy","St. Austell","Saint-Malo",

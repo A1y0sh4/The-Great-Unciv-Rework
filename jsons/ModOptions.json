@@ -23,8 +23,8 @@
     "minimumWarDuration": 6,
     "religionLimitBase": 0,
     "religionLimitMultiplier": 1,
-    "pantheonBase": 15,
-    "pantheonGrowth": 5
+    "pantheonBase": 30,
+    "pantheonGrowth": -3,
     "ancientRuinCountMultiplier": 0.0334,
     "minRiverLength": 3,
     "maxRiverLength": 21,

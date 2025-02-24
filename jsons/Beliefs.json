@@ -292,7 +292,7 @@
     {
         "name": "Religious Community",
         "type": "Follower",
-        "uniques": ["[+1]% [Production] from every follower, up to [15]%"]
+        "uniques": ["[+1]% [Production] from every follower, up to [10]%"]
     },
     {
         "name": "Religious Teetotality",

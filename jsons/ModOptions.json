@@ -21,6 +21,10 @@
     "maxSpyRank": 6,
     "spyRankSkillPercentBonus": 25,
     "minimumWarDuration": 6,
+    "religionLimitBase": 0,
+    "religionLimitMultiplier": 1,
+    "pantheonBase": 15,
+    "pantheonGrowth": 5
     "ancientRuinCountMultiplier": 0.0334,
     "minRiverLength": 3,
     "maxRiverLength": 21,

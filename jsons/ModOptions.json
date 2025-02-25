@@ -28,7 +28,7 @@
     "ancientRuinCountMultiplier": 0.04142,
     "minRiverLength": 3,
     "maxRiverLength": 21,
-    "unitSupplyPerPopulation": 0.2,
+    "unitSupplyPerPopulation": 0.1,
     "cityStrengthPerPop": 0.25,
     "cityStrengthFromTechsMultiplier": 5,
     "cityStrengthFromTechsExponent": 2.764,

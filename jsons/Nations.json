@@ -965,7 +965,7 @@
 		"uniqueName": "Strength in Unity",
 		"uniqueText": "Suffer double Unhappiness from the number of cities\nGain +1 [Happiness] every 150 [Faith] avaible in your reserves when not in a Golden Age which turns into [Culture] during a Golden Age (modified by game speed)\nGain +1 [Faith] from every mountain",
 		"uniques": ["[+100]% unhappiness from the number of cities",
-			    "[+1 Happiness] <for every [50] [Faith]> <on [Blitz] game speed> <when not in a Golden Age>", "[+1 Culture] <for every [50] [Faith]> <on [Blitz] game speed> <during a Golden Age>",
+			    "[+1 Happiness] [in capital] <for every [50] [Faith]> <on [Blitz] game speed> <when not in a Golden Age>", "[+1 Culture] <for every [50] [Faith]> <on [Blitz] game speed> <during a Golden Age>",
 			    "[+1 Happiness] <for every [75] [Faith]> <on [Online] game speed> <when not in a Golden Age>", "[+1 Culture] <for every [75] [Faith]> <on [Online] game speed> <during a Golden Age>",
 			    "[+1 Happiness] <for every [100] [Faith]> <on [Quick] game speed> <when not in a Golden Age>", "[+1 Culture] <for every [100] [Faith]> <on [Quick] game speed> <during a Golden Age>",
 			    "[+1 Happiness] <for every [150] [Faith]> <on [Standard] game speed> <when not in a Golden Age>", "[+1 Culture] <for every [150] [Faith]> <on [Standard] game speed> <during a Golden Age>",

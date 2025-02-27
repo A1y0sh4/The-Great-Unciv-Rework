@@ -27,8 +27,8 @@
     },
     {
         "name": "Militaristic",
-        "friendBonusUniques": ["[+10]% Strength <for [Military] units>"],
-        "allyBonusUniques": ["[+10]% Strength <for [Military] units>", "Provides military units every ≈[10] turns"],
+        "friendBonusUniques": ["[+10]% Strength <for [Military] units> <when attacking>"],
+        "allyBonusUniques": ["[+10]% Strength <for [Military] units> <when attacking>", "Provides military units every ≈[10] turns"],
         "color": [255, 0, 0]
     },
     {

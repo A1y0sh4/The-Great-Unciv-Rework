@@ -214,7 +214,8 @@
         "uniques": [
             "Gain enough Faith for [50]% of a Great Prophet",
 	    "Only available <after founding a Pantheon>",
-            "Only available <before adopting [Rationalism]>"
+            "Only available <before adopting [Rationalism]>",
+	    "Only available <when religion is enabled>",
         ],
         "policies": [
             {

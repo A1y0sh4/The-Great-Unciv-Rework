@@ -1722,7 +1722,7 @@
 			"Only available <if [National Treasury] is constructed> <hidden from users>",
 			"Only available <if [Ironworks] is constructed> <hidden from users>",
                         "Only available <if [Hermitage] is constructed> <hidden from users>",
-			"Only available <if [Grand Temple] is constructed> <hidden from users>",
+			"Only available <if [Grand Temple] is constructed> <when religion is enabled> <hidden from users>",
 			"Only available <if [National Intelligence Agency] is constructed> <when espionage is enabled> <hidden from users>",
 			"Cost increases by [535] per owned city", "Cannot be hurried"],
 		"quote": "'There is nothing like a dream to create the future.' - Victor Hugo"

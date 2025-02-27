@@ -287,7 +287,9 @@
             {
                 "name": "Machiavellianism",
                 "uniques": [
-                    "Gain an extra spy", "[+25]% spy effectiveness [in all cities]"
+                    "Comment [Gain an extra spy] <when espionage is enabled>", "Comment [+25% spy effectiveness in all cities] <when espionage is enabled>", "Gain an extra spy <when espionage is enabled> <hidden from users>", "[+25]% spy effectiveness [in all cities] <when espionage is enabled> <hidden from users>",
+			"Resting point for Influence with City-States is increased by [10] <when espionage is disabled> <hidden from users>", "Comment [+1 [Science], +1 [Gold] for every Remaining City-States Civilizations] <when espionage is disabled>",
+                    "[+1 Science, +1 Gold] <for every [Remaining [City-States] Civilizations]> <when espionage is disabled> <hidden from users>"
                 ],
                 "row": 1,
                 "column": 2

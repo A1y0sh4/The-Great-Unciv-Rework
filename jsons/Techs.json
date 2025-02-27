@@ -143,7 +143,7 @@
 			{
 				"name": "Construction",
 				"row": 9,
-				"prerequisites": ["Masonry","The Wheel"],
+				"prerequisites": ["Masonry","The Wheel","Bronze Working"],
 				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
 			}
 		]
@@ -223,14 +223,14 @@
 			{
 				"name": "Civil Service",
 				"row": 5,
-				"prerequisites": ["Currency","Imperial Games","Drama and Poetry","Philosophy"],
+				"prerequisites": ["Currency","Imperial Games","Drama and Poetry","Philosophy","Engineering"],
 				"uniques": ["Enables Open Borders agreements", "Comment [Enables relocating Capital City]"],
 				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
 			},
 			{
 				"name": "Guilds",
 				"row": 7,
-				"prerequisites": ["Currency"],
+				"prerequisites": ["Currency","Engineering"],
 				"uniques": ["Enables conversion of city production to [Gold]"],
 				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
 			},
@@ -467,7 +467,7 @@
 			{
 				"name": "Radio",
 				"row": 3,
-				"prerequisites": ["Electricity"],
+				"prerequisites": ["Electricity","Biology"],
 				"uniques": ["[+25]% spy effectiveness [in all cities]"],
 				"quote": "'The whole country was tied together by radio. We all experienced the same heroes and comedians and singers. They were giants.' - Woody Allen"
 			},

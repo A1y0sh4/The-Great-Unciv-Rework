@@ -268,7 +268,7 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Cultural Finesse",
-		"uniqueText": "Gain an additional +1 [Gold] and +1 [Science] per enacted policy every time you enter a new era\nPolicies are adopted 10% faster\nSpies operate if they were one level more experienced when rigging elections in City-States",
+		"uniqueText": "Gain an additional +1 [Gold] and +1 [Science] per enacted policy every time you enter a new era\nPolicies are adopted 10% faster\nSpies operate if they were one level more experienced when rigging elections in City-States (when espionage is enabled)\nResting point for Influence with City-States is increased by 10 (when espionage is disabled)",
 		"uniques": ["[-10]% Culture cost of adopting new Policies", "[+25]% spy effectiveness [in City-State cities]",
 			"[+1 Science, +1 Gold] per [1] social policies adopted <during the [Classical era]>", 
 			"[+2 Science, +2 Gold] per [1] social policies adopted <during the [Medieval era]>", 
@@ -277,7 +277,8 @@
 			"[+5 Science, +5 Gold] per [1] social policies adopted <during the [Modern era]>", 
 			"[+6 Science, +6 Gold] per [1] social policies adopted <during the [Atomic era]>", 
 			"[+7 Science, +7 Gold] per [1] social policies adopted <during the [Information era]>", 
-			"[+8 Science, +8 Gold] per [1] social policies adopted <during the [Future era]>"
+			"[+8 Science, +8 Gold] per [1] social policies adopted <during the [Future era]>",
+			"Resting point for Influence with City-States is increased by [10] <when espionage is disabled>"
 		],
 		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
 			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
@@ -554,8 +555,8 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Art of War",
-		"uniqueText": "Great General's Strength bonus is doubled\nSpies operate if they were one level more experienced",
-		"uniques": ["Great General provides double combat bonus", "[+25]% spy effectiveness [in all cities]"],
+		"uniqueText": "Great General's Strength bonus is doubled\nSpies operate if they were one level more experienced (when espionage is enabled)",
+		"uniques": ["Great General provides double combat bonus", "[+25]% spy effectiveness [in all cities]", "Resting point for Influence with City-States is increased by [10] <when espionage is disabled>"],
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",

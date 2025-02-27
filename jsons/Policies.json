@@ -295,7 +295,10 @@
             {
                 "name": "Counter Intelligence",
                 "uniques": [
-                    "[-25]% enemy spy effectiveness [in all cities]",
+			"Comment [-25% enemy spy effectiveness in all cities] <when espionage is enabled>",
+			"Comment [+1 [Happiness] in all cities] <when espionage is disabled>",
+                    "[-25]% enemy spy effectiveness [in all cities] <when espionage is enabled> <hidden from users>",
+		    "[+1 Happiness] [in all cities] <when espionage is disabled> <hidden from users>",
 		    "Comment [+50% [Production] when constructing defensive buildings]",
 		    "[+50]% Production when constructing [Walls] buildings [in all cities] <hidden from users>",
 		    "[+50]% Production when constructing [Castle] buildings [in all cities] <hidden from users>",
@@ -632,7 +635,9 @@
                 "name": "United Front",
                 "requires": ["Diplomatic Missions"],
                 "uniques": [
-                    "Resting point for Influence with City-States is increased by [30]", "[-50]% enemy spy effectiveness [in City-State cities]"
+                    "Resting point for Influence with City-States is increased by [30]", "Comment [-25% enemy spy effectiveness in City-State cities] <when espionage is enabled>", "[-25]% enemy spy effectiveness [in City-State cities] <when espionage is enabled> <hidden from users>",
+		    "Comment [+2 [Happiness], +3 [Culture] for every Remaining City-States Civilizations] <when espionage is disabled>",
+                    "[+2 Happiness, +3 Culture] <for every [Remaining [City-States] Civilizations]> <when espionage is disabled> <hidden from users>",
                 ],
                 "row": 3,
                 "column": 3

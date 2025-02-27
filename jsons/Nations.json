@@ -555,8 +555,8 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Art of War",
-		"uniqueText": "Great General's Strength bonus is doubled\nSpies operate if they were one level more experienced (when espionage is enabled)",
-		"uniques": ["Great General provides double combat bonus", "[+25]% spy effectiveness [in all cities]", "Resting point for Influence with City-States is increased by [10] <when espionage is disabled>"],
+		"uniqueText": "Great General's Strength bonus is doubled\nSpies operate if they were one level more experienced (when espionage is enabled)\n+10% to Flank Attack bonuses for Military units (when espionage is disabled)",
+		"uniques": ["Great General provides double combat bonus", "[+25]% spy effectiveness [in all cities]", "[+10]% to Flank Attack bonuses <for [Military] units> <when espionage is disabled>"],
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",

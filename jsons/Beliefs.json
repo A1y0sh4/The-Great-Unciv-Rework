@@ -15,12 +15,12 @@
     {
         "name": "Dance of the Aurora",
         "type": "Pantheon",
-        "uniques": ["Comment [+1 boost to all yields of cities within 1 tile of a [Tundra]]", "[+1 Food, +1 Production, +1 Gold, +1 Science, +1 Culture, +1 Faith, +1 Happiness] [in all cities] <within [1] tiles of a [Tundra]> <hidden from users>"]
+        "uniques": ["Comment [+2 [Faith], +1 [Culture] in all cities on [Tundra]]", "[+1 Culture, +2 Faith] [in all cities] <within [0] tiles of a [Tundra]> <hidden from users>"]
     },
     {
         "name": "Desert Folklore",
         "type": "Pantheon",
-        "uniques": ["Comment [+1 boost to all yields of cities within 1 tile of a [Desert]]", "[+1 Food, +1 Production, +1 Gold, +1 Science, +1 Culture, +1 Faith, +1 Happiness] [in all cities] <within [1] tiles of a [Desert]> <hidden from users>"]
+        "uniques": ["Comment [+2 [Faith], +1 [Culture] in all cities on [Desert]]", "[+1 Culture, +2 Faith] [in all cities] <within [0] tiles of a [Desert]> <hidden from users>"]
     },
     {
         "name": "Earth Mother",

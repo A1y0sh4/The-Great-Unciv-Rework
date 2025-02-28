@@ -579,7 +579,7 @@
             },
             {
                 "name": "Total War",
-                "uniques": ["[+15]% Strength <for [Military] units> <when attacking>"],
+                "uniques": ["[+15]% Strength <for [Military] units>"],
                 "requires": ["Autarky", "Police State"],
                 "row": 3,
                 "column": 3
@@ -638,9 +638,7 @@
                 "name": "United Front",
                 "requires": ["Diplomatic Missions"],
                 "uniques": [
-                    "Resting point for Influence with City-States is increased by [30]", "Comment [-25% enemy spy effectiveness in City-State cities] <when espionage is enabled>", "[-25]% enemy spy effectiveness [in City-State cities] <when espionage is enabled> <hidden from users>",
-		    "Comment [+2 [Happiness], +3 [Culture] for every Remaining City-States Civilizations] <when espionage is disabled>",
-                    "[+2 Happiness, +3 Culture] <for every [Remaining [City-States] Civilizations]> <when espionage is disabled> <hidden from users>",
+                    "Resting point for Influence with City-States is increased by [30]", "[+15]% Strength <when fighting units from a Civilization with more Cities than you> <in [Friendly Land] tiles>",
                 ],
                 "row": 3,
                 "column": 3

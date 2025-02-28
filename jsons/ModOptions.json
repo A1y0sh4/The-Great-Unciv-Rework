@@ -28,6 +28,8 @@
     "ancientRuinCountMultiplier": 0.04142,
     "minRiverLength": 3,
     "maxRiverLength": 21,
+    "baseTurnsUntilRevolt": 6,
+    "cityStateElectionTurns": 12,
     "unitSupplyPerPopulation": 0.1,
     "cityStrengthPerPop": 0.25,
     "cityStrengthFromTechsMultiplier": 5,

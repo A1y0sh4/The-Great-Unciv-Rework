@@ -28,7 +28,14 @@
     {
         "name": "Militaristic",
         "friendBonusUniques": ["[+10]% Strength <for [Military] units> <when attacking>"],
-        "allyBonusUniques": ["[+10]% Strength <for [Military] units> <when attacking>", "Provides military units every ≈[10] turns"],
+        "allyBonusUniques": ["[+10]% Strength <for [Military] units> <when attacking>",
+        "Provides military units every ≈[6] turns <on [Blitz] game speed> <hidden from users>",
+        "Provides military units every ≈[9] turns <on [Online] game speed> <hidden from users>",
+        "Provides military units every ≈[12] turns <on [Quick] game speed> <hidden from users>",
+        "Provides military units every ≈[18] turns <on [Standard] game speed>",
+        "Provides military units every ≈[27] turns <on [Epic] game speed> <hidden from users>",
+        "Provides military units every ≈[56] turns <on [Marathon] game speed> <hidden from users>",
+        "Provides military units every ≈[83] turns <on [Endless] game speed> <hidden from users>"],
         "color": [255, 0, 0]
     },
     {

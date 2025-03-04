@@ -393,7 +393,7 @@
 			{
 				"name": "Industrialization",
 				"row": 6,
-				"prerequisites": ["Economics","Metallurgy"],
+				"prerequisites": ["Economics","Metallurgy","Architecture"],
 				"quote": "'Industrialization based on machinery, already referred to as a characteristic of our age, is but one aspect of the revolution that is being wrought by technology.' - Emily Greene Balch"
 			},
 			{

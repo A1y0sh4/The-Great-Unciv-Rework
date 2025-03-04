@@ -461,20 +461,20 @@
 			{
 				"name": "Refrigeration",
 				"row": 2,
-				"prerequisites": ["Biology", "Electricity"], //todo: offshore platform should need this
+				"prerequisites": ["Biology", "Steam Power","Dynamite", "Electricity"],
 				"quote": "'And homeless near a thousand homes I stood, and near a thousand tables pined and wanted food.' - William Wordsworth"
 			},
 			{
 				"name": "Radio",
 				"row": 3,
-				"prerequisites": ["Electricity","Biology"],
+				"prerequisites": ["Biology", "Steam Power","Dynamite", "Electricity"],
 				"uniques": ["[+25]% spy effectiveness [in all cities]"],
 				"quote": "'The whole country was tied together by radio. We all experienced the same heroes and comedians and singers. They were giants.' - Woody Allen"
 			},
 			{
 				"name": "Replaceable Parts",
 				"row": 5,
-				"prerequisites": ["Electricity","Steam Power"],
+				"prerequisites": ["Biology", "Steam Power","Dynamite", "Electricity"],
 				"uniques": ["[+3 Production] [in all cities]"],
 				"quote": "'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford"
 			},

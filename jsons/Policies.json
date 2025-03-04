@@ -510,7 +510,7 @@
             {
                 "name": "Democracy",
                 "uniques": [
-                    "[Faith] cost of purchasing [Great Person] units [-50]%"
+                    "[Faith] cost of purchasing [Great Person] units [-33]%", "Free Great Person"
                 ],
                 "requires": ["Universal Suffrage", "Free Speech"],
                 "row": 3,
@@ -579,7 +579,7 @@
             },
             {
                 "name": "Total War",
-                "uniques": ["[+15]% Strength <for [Military] units>"],
+                "uniques": ["[+33]% Strength <for [Military] units> <when attacking> <in [Foreign Land]>"],
                 "requires": ["Autarky", "Police State"],
                 "row": 3,
                 "column": 3
@@ -638,7 +638,7 @@
                 "name": "United Front",
                 "requires": ["Diplomatic Missions"],
                 "uniques": [
-                    "Resting point for Influence with City-States is increased by [30]", "[+15]% Strength <when fighting units from a Civilization with more Cities than you> <in [Friendly Land] tiles>",
+                    "Resting point for Influence with City-States is increased by [30]", "[+33]% Strength <when fighting units from a Civilization with more Cities than you> <in [Friendly Land] tiles> <when defending>",
                 ],
                 "row": 3,
                 "column": 3

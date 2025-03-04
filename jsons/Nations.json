@@ -347,7 +347,7 @@
 		"innerColor": [213,249,255],
 		
 		"uniqueName": "Ingenuity",
-		"uniqueText": "Gain 1 free random Technology upon entering a new era\nGain for free in Capital the cheapest avaible building for every Stat\nGain -10% [Science] per turn",
+		"uniqueText": "Gain 1 free random Technology upon entering a new era\nGain for free in Capital the cheapest available building for every Stat\nGain -10% [Science] per turn",
 		"uniques": ["[1] free random researchable Tech(s) from the [Ancient era] <upon entering the [Ancient era]>",
 		            "[1] free random researchable Tech(s) from the [Classical era] <upon entering the [Classical era]>",
 		            "[1] free random researchable Tech(s) from the [Medieval era] <upon entering the [Medieval era]>",
@@ -964,7 +964,7 @@
 		"innerColor": [204,122,40],
 		
 		"uniqueName": "Strength in Unity",
-		"uniqueText": "Suffer double Unhappiness from the number of cities\nGain +1 [Happiness] in capital every 150 [Faith] avaible in your reserves when not in a Golden Age which turns into [Culture] during a Golden Age (modified by game speed)\nGain +1 [Faith] from every mountain",
+		"uniqueText": "Suffer double Unhappiness from the number of cities\nGain +1 [Happiness] in capital every 150 [Faith] available in your reserves when not in a Golden Age which turns into [Culture] during a Golden Age (modified by game speed)\nGain +1 [Faith] from every mountain",
 		"uniques": ["[+100]% unhappiness from the number of cities",
 			    "[+1 Happiness] [in capital] <for every [50] [Faith]> <on [Blitz] game speed> <when not in a Golden Age>", "[+1 Culture] [in capital] <for every [50] [Faith]> <on [Blitz] game speed> <during a Golden Age>",
 			    "[+1 Happiness] [in capital] <for every [75] [Faith]> <on [Online] game speed> <when not in a Golden Age>", "[+1 Culture] [in capital] <for every [75] [Faith]> <on [Online] game speed> <during a Golden Age>",
@@ -1813,7 +1813,7 @@
 		"innerColor": [90,0,10],
 		
 		"uniqueName": "Trans-Saharan Trade",
-		"uniqueText": "Gain +1 [Faith] for every 50 [Gold] and +1 [Gold] for every 50 [Faith] avaible in your respective reserves (modified by game speed)\nMay buy [Gold] buildings with [Faith]",
+		"uniqueText": "Gain +1 [Faith] for every 50 [Gold] and +1 [Gold] for every 50 [Faith] available in your respective reserves (modified by game speed)\nMay buy [Gold] buildings with [Faith]",
 		"uniques": ["[+1 Faith] <for every [17] [Gold]> <on [Blitz] game speed>", "[+1 Gold] <for every [17] [Faith]> <on [Blitz] game speed>",
 			    "[+1 Faith] <for every [25] [Gold]> <on [Online] game speed>", "[+1 Gold] <for every [25] [Faith]> <on [Online] game speed>",
 			    "[+1 Faith] <for every [30] [Gold]> <on [Quick] game speed>", "[+1 Gold] <for every [30] [Faith]> <on [Quick] game speed>",

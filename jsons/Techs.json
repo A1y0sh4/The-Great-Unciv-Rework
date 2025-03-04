@@ -387,7 +387,7 @@
 			{
 				"name": "Scientific Theory",
 				"row": 4,
-				"prerequisites": ["Architecture","Economics"],
+				"prerequisites": ["Architecture","Economics","Navigation"],
 				"quote": "'Every great advance in science has issued from a new audacity of imagination.' - John Dewey"
 			},
 			{

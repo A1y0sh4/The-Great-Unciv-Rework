@@ -99,7 +99,7 @@
       "Internationalism": 5
     },
 	  "warMongering": 8,
-	  "uniques": ["Will not build [Warrior]", "Will not build [Archer]", "Will not build [The Great Library]", "Will not build [Temple of Artemis]", "Will not build [Hanging Gardens]", "Will not build [Stonehenge]", "Will not build [The Pyramids]", "Will not build [Petra]", "Will not build [The Great Lighthouse]"]
+	  "uniques": ["Will not build [Warrior]", "Will not build [Archer]", "Will not build [War Chariot]", "Will not build [The Great Library]", "Will not build [Temple of Artemis]", "Will not build [Hanging Gardens]", "Will not build [Stonehenge]", "Will not build [The Pyramids]", "Will not build [Petra]", "Will not build [The Great Lighthouse]"]
     "civilopediaText": [
       {
         "text": "Alexander the Great, born in Macedon, was one of the most skilled generals, even more by his young age, and in only 17 years he conquered all the Greek known world."

@@ -1369,7 +1369,8 @@
 		"requiredBuilding": "Aqueduct",
 		"maintenance": 2,
 		"hurryCostModifier": 0,
-		"uniques": ["[50]% Food is carried over after population increases [in this city]", "All newly-trained [relevant] units [in this city] receive the [Medic] promotion"],
+		"happiness": 1,
+		"uniques": ["[33]% Food is carried over after population increases [in this city]", "All newly-trained [relevant] units [in this city] receive the [Medic] promotion"],
 		"requiredTech": "Biology"
 	},
 	{
@@ -1496,6 +1497,8 @@
 		"name": "Medical Lab",
 		"requiredBuilding": "Hospital",
 		"percentStatBonus": {"food": 15, "science": 15},
+		"food": 3,
+		"science": 3,
 		"maintenance": 3,
 		"requiredTech": "Pharmaceuticals",
 	},
@@ -1665,7 +1668,7 @@
 		"name": "CERN",
 		"isWonder": true,
 		"culture": 5,
-	        "science": 20,
+	        "science": 50,
 		"greatPersonPoints": {"Great Scientist": 5},
 		"uniques": ["[1] free [Great Scientist] units appear", "Gain a free [Quantum Computer] [in this city]"],
 		"requiredTech": "Particle Physics",
@@ -1690,7 +1693,6 @@
         {
 		"name": "AI Singularity",
 		"requiredTech": "Advanced AI",
-		"maintenance": 5,
 		"culture": 5,
 		"greatPersonPoints": {"Great Engineer": 5},
 		"isWonder": true,
@@ -1766,9 +1768,10 @@
 	{
 		"name": "Stupa",
 		"cost": 115,
-		"happiness": 3,
+		"happiness": 2,
 		"faith": 2,
 		"culture": 1,
+		"science": 1,
 		"requiredBuilding": "Temple",
 		"uniques": ["Unbuildable <before adopting [Stupas]>", "Only available <when religion is enabled>"]
 	},

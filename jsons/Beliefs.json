@@ -91,7 +91,7 @@
     {
         "name": "Messenger of the Gods",
         "type": "Pantheon",
-        "uniques": ["[+1 Science] per [4] population [in all cities connected to capital]"]
+        "uniques": ["[+1 Science, +1 Culture] [in all cities connected to capital]"]
     },
     {
         "name": "Monument to the Gods",
@@ -352,7 +352,7 @@
     {
         "name": "Doctrinal Esoterism",
         "type": "Enhancer",
-        "uniques": ["[-25]% enemy spy effectiveness [in all cities]", "[+1 Faith] [in this city]"]
+        "uniques": ["[-25]% enemy spy effectiveness [in all cities]", "[+1 Faith, +1 Science] [in this city]"]
     },
     {
         "name": "Holy Alliance",
@@ -413,7 +413,7 @@
     {
         "name": "Sacred Landmarks",
         "type": "Enhancer",
-        "uniques": ["[+1 Faith] from every [Land] <within [1] tiles of a [Great Improvement]>"]
+        "uniques": ["[+1 Faith] from every [Land] <within [1] tiles of a [Great Improvement]>", "[-1 Faith] from every [Great Improvement] <hidden from users>"]
     },
 ]
 

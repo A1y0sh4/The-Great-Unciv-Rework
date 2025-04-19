@@ -21,6 +21,7 @@
     "maxSpyRank": 6,
     "spyRankSkillPercentBonus": 25,
     "minimumWarDuration": 6,
+    "minimalCityDistance": 2,
     "religionLimitBase": 1,
     "religionLimitMultiplier": 0.67,
     "pantheonBase": 20,

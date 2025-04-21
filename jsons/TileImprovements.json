@@ -160,7 +160,7 @@
 		"name": "Remove Forest",
 		"turnsToBuild": 4,
 		"techRequired": "Archery",
-		"uniques": ["Can be built outside your borders"],
+		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
 		"shortcutKey": "X",
         "civilopediaText": [{"text":"Provides a one-time Production bonus depending on distance to the closest city once finished"}]
 	},
@@ -168,22 +168,21 @@
 		"name": "Remove Jungle",
 		"turnsToBuild": 7,
 		"techRequired": "Bronze Working",
-		"uniques": ["Can be built outside your borders"],
+		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
 		"shortcutKey": "X",
         "civilopediaText": [{"text":"Provides a one-time Production bonus depending on distance to the closest city once finished"}]
 	},
 	{
 		"name": "Remove Fallout",
 		"turnsToBuild": 2,
-		// Has no tech requirements as it can always be built
-		"uniques": ["Can be built outside your borders"],
+		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
 		"shortcutKey": "X"
 	},
 	{
 		"name": "Remove Marsh",
 		"turnsToBuild": 5,
 		"techRequired": "Fermentation",
-		"uniques": ["Can be built outside your borders"],
+		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
 		"shortcutKey": "X"
 	},
 
@@ -191,16 +190,16 @@
 	{
 		"name": "Remove Road",
 		"turnsToBuild": 2,
-		"uniques": ["Can be built outside your borders"]
+		"uniques": ["Can be built outside your borders", "Excluded from map editor"]
 	},
 	{
 		"name": "Remove Railroad",
 		"turnsToBuild": 2,
-		"uniques": ["Can be built outside your borders"]
+		"uniques": ["Can be built outside your borders", "Excluded from map editor"]
 	},
 	{
 		"name": "Cancel improvement order",
-		"uniques": ["Can be built outside your borders"],
+		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
 		"shortcutKey": "."
 	},
         {
@@ -208,7 +207,7 @@
         "terrainsCanBeBuiltOn": ["Land"],
         "turnsToBuild": 2,
         "shortcutKey": "E",
-        "uniques": ["Unbuildable"],
+        "uniques": ["Unbuildable", "Excluded from map editor"],
         "civilopediaText": [{"text":"Repairs a pillaged Improvement or Route"}]
     },
 
@@ -220,7 +219,7 @@
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"science": 1,
-		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Science]", "Will not be replaced by automated units", "Tile provides yield without assigned population",
+		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+60 Science]", "Will not be replaced by automated units", "Tile provides yield without assigned population",
 			    "Comment [+1 [Science] for each past era]",
 			    "[+1 Science] <during the [Ancient era]> <hidden from users>",
 			    "[+2 Science] <during the [Classical era]> <hidden from users>",
@@ -240,7 +239,7 @@
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"culture": 1,
-		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Culture]", "Will not be replaced by automated units", "Tile provides yield without assigned population",
+		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+60 Culture]", "Will not be replaced by automated units", "Tile provides yield without assigned population",
 			    "Comment [+1 [Culture] for each past era]",
 			    "[+1 Culture] <during the [Ancient era]> <hidden from users>",
 			    "[+2 Culture] <during the [Classical era]> <hidden from users>",
@@ -260,7 +259,7 @@
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 1,
-		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Gold]", "Will not be replaced by automated units", "Tile provides yield without assigned population",
+		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+60 Gold]", "Will not be replaced by automated units", "Tile provides yield without assigned population",
 			    "Comment [+1 [Production] for each past era]",
 			    "[+1 Production] <during the [Ancient era]> <hidden from users>",
 			    "[+2 Production] <during the [Classical era]> <hidden from users>",
@@ -280,7 +279,7 @@
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"gold": 1,
-		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Gold]", "Will not be replaced by automated units", "Tile provides yield without assigned population",
+		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+60 Gold]", "Will not be replaced by automated units", "Tile provides yield without assigned population",
 			    "Comment [+1 [Gold] for each past era]",
 			    "[+1 Gold] <during the [Ancient era]> <hidden from users>",
 			    "[+2 Gold] <during the [Classical era]> <hidden from users>",
@@ -300,7 +299,7 @@
 		"type": "Improvement",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"faith": 1,
-		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+55 Faith]", "Will not be replaced by automated units", "Tile provides yield without assigned population",
+		"uniques": ["Improvement", "Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+60 Faith]", "Will not be replaced by automated units", "Tile provides yield without assigned population",
 			    "Comment [+1 [Faith] for each past era]",
 			    "[+1 Faith] <during the [Ancient era]> <hidden from users>",
 			    "[+2 Faith] <during the [Classical era]> <hidden from users>",

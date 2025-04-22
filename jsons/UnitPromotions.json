@@ -221,7 +221,7 @@
 		"name": "Scouting II",
 		"prerequisites": ["Scouting I"],
 		"uniques": ["[+1] Sight", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>",
-		"Gain [0]-[5] [Science] <upon discovering a [Land] tile> <(modified by game speed)> <hidden from users>", "Comment [Gain a little amount of [Science] when discovering new Land tiles]"],
+		"Gain [0]-[6] [Science] <upon discovering a [Land] tile> <(modified by game speed)> <hidden from users>", "Comment [Gain a little amount of [Science] when discovering new Land tiles]"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 2
@@ -244,7 +244,7 @@
 	{
 		"name": "Survivalism II",
 		"prerequisites": ["Survivalism I"],
-		"uniques": ["[+25]% Strength <when fighting in [Rough terrain] tiles>", "Withdraws before melee combat <with [25]% chance>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["Invisible to non-adjacent units", "Withdraws before melee combat <with [25]% chance>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Scout"],
         "column": 9,
         "row": 2
@@ -252,7 +252,7 @@
 	{
 		"name": "Survivalism III",
 		"prerequisites": ["Survivalism II"],
-		"uniques": ["Invisible to non-adjacent units", "Can move after attacking", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["[+25]% Strength <when fighting in [Land] tiles>", "Can move after attacking", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Scout"],
         "column": 9,
         "row": 3

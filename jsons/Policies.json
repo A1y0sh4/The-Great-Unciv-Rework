@@ -571,7 +571,7 @@
             {
                 "name": "Police State",
                 "uniques": [
-		    "[+2 Happiness, +2 Production] from every [Arsenal]", "[+2 Happiness, +2 Production] from every [Military Base]", "[+2 Happiness, +2 Production] from every [Courthouse]"
+		    "Gain a free [Courthouse] [in annexed cities]", "[+2 Happiness] from every [Courthouse]", "[-25]% enemy spy effectiveness [in all cities] <when espionage is enabled> <hidden from users>",
                 ],
                 "requires": ["Militarism"],
                 "row": 2,
@@ -579,7 +579,7 @@
             },
             {
                 "name": "Total War",
-                "uniques": ["[+33]% Strength <for [Military] units> <vs cities>", "[+15]% Production when constructing [Military] units [in all cities]"],
+                "uniques": ["[+33]% Strength <for [Military] units> <vs cities>", "[+33]% Production when constructing [Military] units [in all cities]"],
                 "requires": ["Autarky", "Police State"],
                 "row": 3,
                 "column": 3

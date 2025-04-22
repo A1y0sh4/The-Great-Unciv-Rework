@@ -170,7 +170,7 @@
 		"neutralHello": "Good day.",
 		"hateHello": "Well?",
 		"tradeRequest": "Here's a fair offer.",
-		"favoredReligion": "Protestantism",
+		"favoredReligion": "Akom",
 		
 		"outerColor": [ 253, 221, 12],
 		"innerColor": [230, 40, 50],
@@ -517,7 +517,7 @@
 		"hateLetsHearIt": ["Forward! Before I change my mind!","And?","Speak!"],
 		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
 		"hateYes": ["Eugh! Fine then…","Disgusting! Okay then…","But if I have to…"],
-		"favoredReligion": "Catholicism",
+		"favoredReligion": "Druidism",
 		
 		"outerColor": [22, 101, 63],
 		"innerColor": [148, 170, 255],
@@ -649,7 +649,7 @@
 		"hateHello": "Oh, it's you.",
 
 		"tradeRequest": "Generous Egypt makes you this offer.",
-		"favoredReligion": "Islam",
+		"favoredReligion": "Kemetism",
 
 		"outerColor": [ 231, 213, 0],
 		"innerColor": [98,10,210],

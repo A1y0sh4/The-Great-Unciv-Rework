@@ -941,4 +941,8 @@
 		"name": "[Quinquereme] ability",
 		"uniques": ["Transfer Movement to [Civilian]", "[+50]% XP gained from combat"]
 	},
+	{
+        "name": "Messiah",
+        "uniques": ["Can Spread Religion <[1] additional time(s)>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+    },
 ]

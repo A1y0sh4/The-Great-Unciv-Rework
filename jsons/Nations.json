@@ -581,7 +581,7 @@
 		"neutralHello": "Good day.",
 		"hateHello": "Well?",
 		"tradeRequest": "Is the following trade of interest to you?",
-		"favoredReligion": "Protestantism",
+		"favoredReligion": "Animism",
 		
 		"outerColor": [ 1, 42, 108],
 		"innerColor": [97, 191, 34],
@@ -1215,7 +1215,7 @@
 		"neutralHello": "Good day.",
 		"hateHello": "Oh, it's you.",
 		"tradeRequest": "Does this trade work for you, my friend?",
-		"favoredReligion": "Protestantism",
+		"favoredReligion": "Animism",
 		
 		"outerColor": [54,72,72],
 		"innerColor": [246,205,137],
@@ -1438,7 +1438,7 @@
 		"neutralHello": "Good day.",
 		"hateHello": "Well?",
 		"tradeRequest": "Is the following trade of interest to you?",
-		"favoredReligion": "Catholicism",
+		"favoredReligion": "Animism",
 		
 		"outerColor": [ 0, 79, 206],
 		"innerColor": [125, 236, 227],
@@ -1631,7 +1631,7 @@
 		"neutralHello": "Welcome, friend!",
 		"hateHello": "Oh, it's you.",
 		"tradeRequest": "Come, let our people feast together!",
-		"favoredReligion": "Catholicism",
+		"favoredReligion": "Animism",
 		
 		"outerColor": [225,105,0],
 		"innerColor": [255,255,78],

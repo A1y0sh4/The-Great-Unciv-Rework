@@ -351,7 +351,7 @@
             "Scientific": 20,
 	    "Religious": 10
         },
-        "uniques": ["Comment [+2 [Production], +2 [Gold] in all cities on foreign continents]", "[+15]% Strength <for [All] units> <on foreign continents> <hidden from users>", "[+2 Production, +2 Gold] [in all cities] <on foreign continents> <hidden from users>"],
+        "uniques": ["Comment [+1 Sight, +1 Movement for All units in Water tiles]", "uniques": ["Comment [+2 [Production], +2 [Gold] in all cities on foreign continents]", "[+1] Sight <for [All] units> <in [Water] tiles> <hidden from users>", "[+1] Movement <for [All] units> <in [Water] tiles> <hidden from users>", "[+2 Production, +2 Gold] [in all cities] <on foreign continents> <hidden from users>"],
         "policies": [
             {
                 "name": "Mercantilism",

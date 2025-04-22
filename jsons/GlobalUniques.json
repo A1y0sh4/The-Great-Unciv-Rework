@@ -19,7 +19,7 @@
 	    "[+45]% Unhappiness from [Population] [in all cities] <when number of [Gold] is between [-2401] and [-2700]>",
 	    "[+50]% Unhappiness from [Population] [in all cities] <when number of [Gold] is less than [-2701]>",
 	"[+1]% Unhappiness from [Population] [in all cities] <for every [20] [Pollution]>",
-	"[+1]% unhappiness from the number of cities <for every [20] [Pollution]>",
+	"[+1]% unhappiness from the number of cities <for every [10] [Pollution]>",
 	"[+1]% Culture cost of adopting new Policies <for every [20] [Pollution]>",
 	"[-1]% growth [in all cities] <for every [20] [Pollution]>",
 	"[-1]% [Gold] [in all cities] <for every [20] [Pollution]>",

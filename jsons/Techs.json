@@ -491,7 +491,7 @@
 				"name": "Combustion",
 				"row": 8,
 				"prerequisites": ["Biology", "Steam Power","Dynamite", "Electricity"],
-				"uniques": [],
+				"uniques": ["Religion naturally spreads to cities [+3] tiles away"],
 				"quote": "'Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves.' - Albert Einstein"
 			}
 		]

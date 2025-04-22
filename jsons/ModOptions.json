@@ -29,7 +29,7 @@
     "pantheonGrowth": -1,
     "ancientRuinCountMultiplier": 0.04142,
     "minRiverLength": 3,
-    "maxRiverLength": 21,
+    "maxRiverLength": 24,
     "baseTurnsUntilRevolt": 4,
     "cityStateElectionTurns": 12,
     "unitSupplyPerPopulation": 0.1,

@@ -134,7 +134,7 @@
 		"type": "Land",
 		"impassable": true,
 		"overrideStats": true,
-		"defenceBonus": 0.25,
+		"defenceBonus": 0.33,
 		"RGB": [154, 154, 154],
 		"uniques": ["Rough terrain",
             "Has an elevation of [2] for visibility calculations",

@@ -943,6 +943,6 @@
 	},
 	{
         "name": "Messiah",
-        "uniques": ["Can Spread Religion <[1] additional time(s)>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+        "uniques": ["Can Spread Religion <[1] additional time(s)>", "Ignores Zone of Control", "May travel on Water tiles without embarking"]
     },
 ]

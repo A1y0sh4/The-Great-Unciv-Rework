@@ -2164,8 +2164,8 @@
 		"innerColor": [18,84,30],
 		
 		"uniqueName": "The Great Turkish Bombard",
-		"uniqueText": "Siege units are built 50% faster, they are 50% stronger against Cities and they gain XP 50% faster\nAnnexed cities build Courthouse twice as fast and receive +1 additional population when completed\nGain +2 [Culture] from every [Courthouse]",
-		"uniques": ["[+50]% Production when constructing [Siege] units [in all cities]", "[+50]% Strength <for [Siege] units> <vs cities>", "[+50]% XP gained from combat <for [Siege] units>", "Gain a free [Courthouse] [in annexed cities]", "[+2 Culture] from every [Courthouse]"],
+		"uniqueText": "Siege units are built 50% faster, they are 50% stronger against Cities and they gain XP 50% faster\nAnnexed cities build Courthouse in half the usual time and receive +1 additional population when completed\nGain +2 [Culture] from every [Courthouse]",
+		"uniques": ["[+50]% Production when constructing [Siege] units [in all cities]", "[+50]% Strength <for [Siege] units> <vs cities>", "[+50]% XP gained from combat <for [Siege] units>", "[+100]% Production when constructing [Courthouse] buildings [in annexed cities]", "[+2 Culture] from every [Courthouse]"],
 		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyabakir","Izmir","Kayseri","Malatya",
 			"Marsin","Antalya","Zonguldak","Denizli","Ordu","Mugia","Eskishehir","Inebolu","Sinop","Adana","Artuin",
 			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarhisar",

@@ -383,7 +383,7 @@
     {
         "name": "Messiah",
         "type": "Enhancer",
-        "uniques": ["Comment[Great Prophets can spread religion 1 additional time and with +25% Religious Strength]", "Comment[Great Prophets Ignore Zones of Control and can walk on Water]", "[+25]% Spread Religion Strength <for [Great Prophet] units> <hidden from users>", "[Great Prophet] units gain the [Messiah] promotion <hidden from users>"]
+        "uniques": ["Comment[Great Prophets can spread religion 1 additional time and with +25% Religious Strength]", "Comment[Great Prophets Ignore Zones of Control, can walk on Water and can move after spreading religion]", "[+25]% Spread Religion Strength <for [Great Prophet] units> <hidden from users>", "[Great Prophet] units gain the [Messiah] promotion <hidden from users>"]
     },
     {
         "name": "Missionary Zeal",

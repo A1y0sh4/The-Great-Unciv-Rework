@@ -1724,3 +1724,41 @@ TileSets/FantasyHex/Tiles/Zhangye Danxia
   orig: 32, 36
   offset: 0, 0
   index: -1
+ReligionIcons/Kemetism
+  rotate: false
+  rotate: false
+  xy: 1940, 520
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Jainism
+  rotate: false
+  rotate: false
+  xy: 1940, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Animism
+  rotate: false
+  rotate: false
+  xy: 1940, 760
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Akom
+  rotate: false
+  xy: 1820, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Druidism
+  rotate: false
+  xy: 1820, 760
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

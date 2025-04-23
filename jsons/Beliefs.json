@@ -91,7 +91,7 @@
     {
         "name": "Messenger of the Gods",
         "type": "Pantheon",
-        "uniques": ["[+2 Science] [in all cities connected to capital]"]
+        "uniques": ["[+2 Science] [in all cities connected to capital]", "[+2 Science] [in all cities connected to capital] <after discovering [Education]>"]
     },
     {
         "name": "Monument to the Gods",
@@ -352,7 +352,7 @@
     {
         "name": "Doctrinal Esoterism",
         "type": "Enhancer",
-        "uniques": ["[-25]% enemy spy effectiveness [in all cities]", "[+1 Faith, +1 Science] [in this city]"]
+        "uniques": ["[-25]% enemy spy effectiveness [in all cities]", "[+1 Faith, +2 Science] [in this city]"]
     },
     {
         "name": "Holy Alliance",

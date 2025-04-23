@@ -134,7 +134,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"requiredTech": "Calendar",
-		"uniques": ["Must be on [Fresh Water]", "[+1 Food] from [Fresh Water] tiles [in this city] <in [Farm] tiles>", "[+1 Food] from [Fresh Water] tiles [in this city] <in [Plantation] tiles>"],
+		"uniques": ["Must be on [Fresh Water]", "[+1 Food] from [Farm] tiles [in this city] <in [Fresh Water] tiles>", "[+1 Food] from [Plantation] tiles [in this city] <in [Fresh Water] tiles>"],
 		"quote": "'I think that if ever a mortal heard the word of God it would be in a garden at the cool of the day.' - F. Frankfort Moore",
 	},
 	// Column 2

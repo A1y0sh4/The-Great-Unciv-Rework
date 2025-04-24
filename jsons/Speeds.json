@@ -1,6 +1,6 @@
 [
     {
-        "name": "Blitz",
+        "name": "Turbo",
         "modifier": 0.33,
         /*
         Why are all of these raw values and not uniques? This is like EXACTLY what uniques are for,

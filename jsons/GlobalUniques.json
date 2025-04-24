@@ -33,16 +33,16 @@
 	"[-1] Happiness from each type of luxury resource",
 	"[-1 Gold] from every [River]",
 	"[+1 Culture] from every [Ancient ruins]",  
-	    "[-5]% [Gold] <when number of [Gold] is between [101] and [200]> <on [Blitz] game speed>",
-	    "[-10]% [Gold] <when number of [Gold] is between [201] and [300]> <on [Blitz] game speed>",
-	    "[-15]% [Gold] <when number of [Gold] is between [301] and [400]> <on [Blitz] game speed>",
-	    "[-20]% [Gold] <when number of [Gold] is between [401] and [500]> <on [Blitz] game speed>",
-	    "[-25]% [Gold] <when number of [Gold] is between [501] and [600]> <on [Blitz] game speed>",
-	    "[-30]% [Gold] <when number of [Gold] is between [601] and [700]> <on [Blitz] game speed>",
-	    "[-35]% [Gold] <when number of [Gold] is between [701] and [800]> <on [Blitz] game speed>",
-	    "[-40]% [Gold] <when number of [Gold] is between [801] and [900]> <on [Blitz] game speed>",
-	    "[-45]% [Gold] <when number of [Gold] is between [901] and [1000]> <on [Blitz] game speed>",
-	    "[-50]% [Gold] <when number of [Gold] is more than [1001]> <on [Blitz] game speed>",
+	    "[-5]% [Gold] <when number of [Gold] is between [101] and [200]> <on [Turbo] game speed>",
+	    "[-10]% [Gold] <when number of [Gold] is between [201] and [300]> <on [Turbo] game speed>",
+	    "[-15]% [Gold] <when number of [Gold] is between [301] and [400]> <on [Turbo] game speed>",
+	    "[-20]% [Gold] <when number of [Gold] is between [401] and [500]> <on [Turbo] game speed>",
+	    "[-25]% [Gold] <when number of [Gold] is between [501] and [600]> <on [Turbo] game speed>",
+	    "[-30]% [Gold] <when number of [Gold] is between [601] and [700]> <on [Turbo] game speed>",
+	    "[-35]% [Gold] <when number of [Gold] is between [701] and [800]> <on [Turbo] game speed>",
+	    "[-40]% [Gold] <when number of [Gold] is between [801] and [900]> <on [Turbo] game speed>",
+	    "[-45]% [Gold] <when number of [Gold] is between [901] and [1000]> <on [Turbo] game speed>",
+	    "[-50]% [Gold] <when number of [Gold] is more than [1001]> <on [Turbo] game speed>",
 	    "[-5]% [Gold] <when number of [Gold] is between [151] and [300]> <on [Online] game speed>",
 	    "[-10]% [Gold] <when number of [Gold] is between [301] and [450]> <on [Online] game speed>",
 	    "[-15]% [Gold] <when number of [Gold] is between [451] and [600]> <on [Online] game speed>",
@@ -103,16 +103,16 @@
 	    "[-40]% [Gold] <when number of [Gold] is between [10801] and [12150]> <on [Endless] game speed>",
 	    "[-45]% [Gold] <when number of [Gold] is between [12151] and [13500]> <on [Endless] game speed>",
 	    "[-50]% [Gold] <when number of [Gold] is more than [13501]> <on [Endless] game speed>",
-	    "[-5]% [Faith] <when number of [Faith] is between [101] and [200]> <on [Blitz] game speed>",
-	    "[-10]% [Faith] <when number of [Faith] is between [201] and [300]> <on [Blitz] game speed>",
-	    "[-15]% [Faith] <when number of [Faith] is between [301] and [400]> <on [Blitz] game speed>",
-	    "[-20]% [Faith] <when number of [Faith] is between [401] and [500]> <on [Blitz] game speed>",
-	    "[-25]% [Faith] <when number of [Faith] is between [501] and [600]> <on [Blitz] game speed>",
-	    "[-30]% [Faith] <when number of [Faith] is between [601] and [700]> <on [Blitz] game speed>",
-	    "[-35]% [Faith] <when number of [Faith] is between [701] and [800]> <on [Blitz] game speed>",
-	    "[-40]% [Faith] <when number of [Faith] is between [801] and [900]> <on [Blitz] game speed>",
-	    "[-45]% [Faith] <when number of [Faith] is between [901] and [1000]> <on [Blitz] game speed>",
-	    "[-50]% [Faith] <when number of [Faith] is more than [1001]> <on [Blitz] game speed>",
+	    "[-5]% [Faith] <when number of [Faith] is between [101] and [200]> <on [Turbo] game speed>",
+	    "[-10]% [Faith] <when number of [Faith] is between [201] and [300]> <on [Turbo] game speed>",
+	    "[-15]% [Faith] <when number of [Faith] is between [301] and [400]> <on [Turbo] game speed>",
+	    "[-20]% [Faith] <when number of [Faith] is between [401] and [500]> <on [Turbo] game speed>",
+	    "[-25]% [Faith] <when number of [Faith] is between [501] and [600]> <on [Turbo] game speed>",
+	    "[-30]% [Faith] <when number of [Faith] is between [601] and [700]> <on [Turbo] game speed>",
+	    "[-35]% [Faith] <when number of [Faith] is between [701] and [800]> <on [Turbo] game speed>",
+	    "[-40]% [Faith] <when number of [Faith] is between [801] and [900]> <on [Turbo] game speed>",
+	    "[-45]% [Faith] <when number of [Faith] is between [901] and [1000]> <on [Turbo] game speed>",
+	    "[-50]% [Faith] <when number of [Faith] is more than [1001]> <on [Turbo] game speed>",
 	    "[-5]% [Faith] <when number of [Faith] is between [151] and [300]> <on [Online] game speed>",
 	    "[-10]% [Faith] <when number of [Faith] is between [301] and [450]> <on [Online] game speed>",
 	    "[-15]% [Faith] <when number of [Faith] is between [451] and [600]> <on [Online] game speed>",
@@ -304,18 +304,4 @@
 	"Resting point for Influence with City-States is increased by [6] <when number of [[Nuclear Missile] Units] is equal to [1]>", "Resting point for Influence with City-States is increased by [12] <when number of [[Nuclear Missile] Units] is equal to [2]>","Resting point for Influence with City-States is increased by [18] <when number of [[Nuclear Missile] Units] is equal to [3]>","Resting point for Influence with City-States is increased by [24] <when number of [[Nuclear Missile] Units] is equal to [4]>","Resting point for Influence with City-States is increased by [30] <when number of [[Nuclear Missile] Units] is equal to [5]>", "Resting point for Influence with City-States is increased by [36] <when number of [[Nuclear Missile] Units] is equal to [6]>", "Resting point for Influence with City-States is increased by [42] <when number of [[Nuclear Missile] Units] is equal to [7]>", "Resting point for Influence with City-States is increased by [48] <when number of [[Nuclear Missile] Units] is equal to [8]>", "Resting point for Influence with City-States is increased by [54] <when number of [[Nuclear Missile] Units] is equal to [9]>", "Resting point for Influence with City-States is increased by [60] <when number of [[Nuclear Missile] Units] is more than [9]>",
 	"Resting point for Influence with City-States is increased by [9] <when number of [[Thermonuclear Missile] Units] is equal to [1]>", "Resting point for Influence with City-States is increased by [18] <when number of [[Thermonuclear Missile] Units] is equal to [2]>","Resting point for Influence with City-States is increased by [21] <when number of [[Thermonuclear Missile] Units] is equal to [3]>","Resting point for Influence with City-States is increased by [36] <when number of [[Thermonuclear Missile] Units] is equal to [4]>","Resting point for Influence with City-States is increased by [45] <when number of [[Thermonuclear Missile] Units] is equal to [5]>", "Resting point for Influence with City-States is increased by [54] <when number of [[Thermonuclear Missile] Units] is equal to [6]>", "Resting point for Influence with City-States is increased by [63] <when number of [[Thermonuclear Missile] Units] is equal to [7]>", "Resting point for Influence with City-States is increased by [72] <when number of [[Thermonuclear Missile] Units] is equal to [8]>", "Resting point for Influence with City-States is increased by [81] <when number of [[Thermonuclear Missile] Units] is equal to [9]>", "Resting point for Influence with City-States is increased by [90] <when number of [[Thermonuclear Missile] Units] is more than [9]>",
     ]
-    
-        // TODO: Implement the uniques below
-        // "[+20]% [Culture] [in all cities] <during a golden age>",
-        // "[+20]% [Production] [in all cities] <during a golden age>",
-    
-        // "[+10]% growth [in all cities] <during We Love The King Day>",
-    
-        // "Nullifies All Yield <while is in resistance>",
-        
-        // "[-25]% [Science] [in pupetted cities]" -- Imo cityFilters should ideally become conditionals anyway
-        // "[-25]% [Culture] [in pupetted cities]"
-        
-        // "[+20]% [Production] [in cities connected via railroad]"
-        // something something unit supply
 }

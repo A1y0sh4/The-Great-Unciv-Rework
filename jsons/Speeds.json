@@ -1,17 +1,17 @@
 [
     {
         "name": "Turbo",
-        "modifier": 0.33,
+        "modifier": 0.25,
         /*
         Why are all of these raw values and not uniques? This is like EXACTLY what uniques are for,
         and speeds even support uniques?
         E.g.: [
-            "[-67]% Production cost of [All] buildings",
-            "[-67]% Produciton cost of [All] units",
-            "Gold cost of purchasing [All] units [-67]%",
-            "Gold cost of purchasing [All] buildings [-67]%",
-            "[-67]% Science cost of reseaching new Techs", // Needs to be added
-            "[-67]% Culture cost of adopting new policies"
+            "[-75]% Production cost of [All] buildings",
+            "[-75]% Produciton cost of [All] units",
+            "Gold cost of purchasing [All] units [-75]%",
+            "Gold cost of purchasing [All] buildings [-75]%",
+            "[-75]% Science cost of reseaching new Techs", // Needs to be added
+            "[-75]% Culture cost of adopting new policies"
             etc.
         I suppose this is how it is done in civ V, but uniques are one of the major features we have
         that Civ V doesn't, so why are we not using them?
@@ -20,29 +20,29 @@
         to get the uniques of the current game speed and everything works out of the box.
         -xlenstra
         */
-        "productionCostModifier": 0.33,
-        "goldCostModifier": 0.33,
-        "scienceCostModifier": 0.33,
-        "cultureCostModifier": 0.33,
-        "faithCostModifier": 0.33,
-        "improvementBuildLengthModifier": 0.33,
-        "barbarianModifier": 0.33,
-        "goldGiftModifier": 1.5,
-        "cityStateTributeScalingInterval": 2,
-        "goldenAgeLengthModifier": 0.33,
-        "religiousPressureAdjacentCity": 15,
-        "peaceDealDuration": 6,
-        "dealDuration": 10,
+        "productionCostModifier": 0.25,
+        "goldCostModifier": 0.25,
+        "scienceCostModifier": 0.25,
+        "cultureCostModifier": 0.25,
+        "faithCostModifier": 0.25,
+        "improvementBuildLengthModifier": 0.25,
+        "barbarianModifier": 0.25,
+        "goldGiftModifier": 1.5, ?
+        "cityStateTributeScalingInterval": 1.6,
+        "goldenAgeLengthModifier": 0.25,
+        "religiousPressureAdjacentCity": 15, ?
+        "peaceDealDuration": 4,
+        "dealDuration": 8,
         "startYear": -4000,
         "turns": [
-            {"yearsPerTurn": 120, "untilTurn":  25},
-            {"yearsPerTurn": 110, "untilTurn":  45},
-            {"yearsPerTurn": 35, "untilTurn": 53},
-            {"yearsPerTurn": 15, "untilTurn": 70},
-            {"yearsPerTurn": 7, "untilTurn": 90},
-            {"yearsPerTurn":  3, "untilTurn": 107},
-            {"yearsPerTurn":  2, "untilTurn": 147},
-            {"yearsPerTurn":  1.6, "untilTurn": 167}
+            {"yearsPerTurn": 160, "untilTurn":  19},
+            {"yearsPerTurn": 100, "untilTurn":  34},
+            {"yearsPerTurn": 80, "untilTurn": 40},
+            {"yearsPerTurn": 40, "untilTurn": 52},
+            {"yearsPerTurn": 20, "untilTurn": 68},
+            {"yearsPerTurn":  8, "untilTurn": 80},
+            {"yearsPerTurn":  4, "untilTurn": 110},
+            {"yearsPerTurn":  2, "untilTurn": 125}
         ]
     },
     {
@@ -115,8 +115,8 @@
         "cityStateTributeScalingInterval": 6.5,
         "goldenAgeLengthModifier": 1.0,
         "religiousPressureAdjacentCity": 5,
-        "peaceDealDuration": 18,
-        "dealDuration": 30,
+        "peaceDealDuration": 16,
+        "dealDuration": 32,
         "startYear": -4000,
         "turns": [
             {"yearsPerTurn":  40, "untilTurn": 75},
@@ -158,7 +158,7 @@
     },
     {
         "name": "Marathon",
-        "modifier": 3.0,
+        "modifier": 2.0,
         "productionCostModifier": 3.0,
         "goldCostModifier": 3.0,
         "scienceCostModifier": 3.0,
@@ -186,7 +186,7 @@
     },
     {
         "name": "Endless",
-        "modifier": 4.5,
+        "modifier": 2.5,
         "productionCostModifier": 4.5,
         "goldCostModifier": 4.5,
         "scienceCostModifier": 4.5,

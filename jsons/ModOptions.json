@@ -20,7 +20,7 @@
     "cityStrengthFromGarrison": 0.5,
     "maxSpyRank": 6,
     "spyRankSkillPercentBonus": 25,
-    "minimumWarDuration": 6,
+    "minimumWarDuration": 4,
     "minimalCityDistance": 2,
     "minimalCityDistanceOnDifferentContinents": 1,
     "religionLimitBase": 1,

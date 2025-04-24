@@ -2198,7 +2198,7 @@
 		"innerColor": [219, 82, 21],
 		
 		"uniqueName": "Pearl of the Oriental Seas",
-		"uniqueText": "While the empire is happy, cities yield +1 [Culture] per every 2 Coast tiles they have adjacent\nDuring a Golden age, Coast tiles adjacent to cities and City centers themselves yield an additional +1 [Food] and +1 [Production]",
+		"uniqueText": "+1 [Culture] in all cities per every 2 Coast tiles they have adjacent\nCoast tiles adjacent to City centers yield an additional +1 [Food] and +1 [Production] during a Golden age",
 		"uniques": ["[+1 Culture] [in all cities] <with [2] to [3] neighboring [Coast] tiles>",
 		            "[+2 Culture] [in all cities] <with [4] to [5] neighboring [Coast] tiles>",
 		            "[+3 Culture] [in all cities] <with [6] to [6] neighboring [Coast] tiles>",

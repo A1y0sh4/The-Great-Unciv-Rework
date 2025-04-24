@@ -86,7 +86,7 @@
         "goldGiftModifier": 1.25,
         "cityStateTributeScalingInterval": 4.9,
         "goldenAgeLengthModifier": 0.75,
-        "religiousPressureAdjacentCity": 6,67,
+        "religiousPressureAdjacentCity": 6.67,
         "peaceDealDuration": 12,
         "dealDuration": 24,
         "startYear": -4000,

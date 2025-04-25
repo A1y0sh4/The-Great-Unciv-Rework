@@ -6,42 +6,66 @@
     {
         "name": "Sword",
         "movementType": "Land",
-        "uniques": ["Transfer Movement to [Great General]"]
+        "uniques": ["Transfer Movement to [Great General]",
+            "[-10]% Strength <when fighting in [Desert] tiles>",
+	"[-10]% Strength <when fighting in [Tundra] tiles>",
+	"[-10]% Strength <when fighting in [Snow] tiles>",]
     },
     {
         "name": "Gunpowder",
         "movementType": "Land",
-        "uniques": ["Transfer Movement to [Great General]"]
+        "uniques": ["Transfer Movement to [Great General]",
+        "[-10]% Strength <when fighting in [Desert] tiles>",
+	"[-10]% Strength <when fighting in [Tundra] tiles>",
+	"[-10]% Strength <when fighting in [Snow] tiles>",]
     },
     {
         "name": "Archery",
         "movementType": "Land",
-        "uniques": ["Transfer Movement to [Great General]"]
+        "uniques": ["Transfer Movement to [Great General]",
+        "[-10]% Strength <when fighting in [Desert] tiles> <when defending>",
+	"[-10]% Strength <when fighting in [Tundra] tiles> <when defending>",
+	"[-10]% Strength <when fighting in [Snow] tiles> <when defending>",]
     },
     {
         "name": "Ranged Gunpowder",
         "movementType": "Land",
-        "uniques": ["Transfer Movement to [Great General]"]
+        "uniques": ["Transfer Movement to [Great General]",
+        "[-10]% Strength <when fighting in [Desert] tiles> <when defending>",
+	"[-10]% Strength <when fighting in [Tundra] tiles> <when defending>",
+	"[-10]% Strength <when fighting in [Snow] tiles> <when defending>",]
     },
     {
         "name": "Scout",
         "movementType": "Land",
-        "uniques": ["Transfer Movement to [Great General]"]
+        "uniques": ["Transfer Movement to [Great General]",
+        "[-10]% Strength <when fighting in [Desert] tiles>",
+	"[-10]% Strength <when fighting in [Tundra] tiles>",
+	"[-10]% Strength <when fighting in [Snow] tiles>",]
     },
     {
         "name": "Mounted",
         "movementType": "Land",
-        "uniques": ["Transfer Movement to [Great General]"]
+        "uniques": ["Transfer Movement to [Great General]",
+        "[-10]% Strength <when fighting in [Desert] tiles>",
+	"[-10]% Strength <when fighting in [Tundra] tiles>",
+	"[-10]% Strength <when fighting in [Snow] tiles>",]
     },
     {
         "name": "Armored",
         "movementType": "Land",
-        "uniques": ["Transfer Movement to [Great General]"]
+        "uniques": ["Transfer Movement to [Great General]",
+        "[-10]% Strength <when fighting in [Desert] tiles>",
+	"[-10]% Strength <when fighting in [Tundra] tiles>",
+	"[-10]% Strength <when fighting in [Snow] tiles>",]
     },
     {
         "name": "Siege",
         "movementType": "Land",
-        "uniques": ["Transfer Movement to [Great General]"]
+        "uniques": ["Transfer Movement to [Great General]",
+        "[-10]% Strength <when fighting in [Desert] tiles> <when defending>",
+	"[-10]% Strength <when fighting in [Tundra] tiles> <when defending>",
+	"[-10]% Strength <when fighting in [Snow] tiles> <when defending>",]
     },
     {
         "name": "Civilian Water",
@@ -90,12 +114,18 @@
     {
         "name": "Helicopter",
         "movementType": "Land",
-        "uniques": ["All tiles cost 1 movement", "Can pass through impassable tiles", "Ignores Zone of Control", "Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "May travel on Water tiles without embarking", "Transfer Movement to [Great General]"]
+        "uniques": ["All tiles cost 1 movement", "Can pass through impassable tiles", "Ignores Zone of Control", "Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "May travel on Water tiles without embarking", "Transfer Movement to [Great General]",
+        "[-10]% Strength <when fighting in [Desert] tiles>",
+	"[-10]% Strength <when fighting in [Tundra] tiles>",
+	"[-10]% Strength <when fighting in [Snow] tiles>"]
     },
     {
         "name": "Mech",
         "movementType": "Land",
-        "uniques": ["Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "May travel on Water tiles without embarking", "Transfer Movement to [Great General]"]
+        "uniques": ["Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "May travel on Water tiles without embarking", "Transfer Movement to [Great General]",
+        "[-10]% Strength <when fighting in [Desert] tiles>",
+	"[-10]% Strength <when fighting in [Tundra] tiles>",
+	"[-10]% Strength <when fighting in [Snow] tiles>"]
     },
 
     // Deprecated unit types required for mods without a UnitTypes.json file to work

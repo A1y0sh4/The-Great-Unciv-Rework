@@ -1830,6 +1830,7 @@
 		"requiredResource": "Iron",
 		"requiredTech": "Combined Arms",
 		"upgradesTo": "Helicopter Gunship",
+		"obsoleteTech": "Computers",
 		"uniques": ["[+250]% Strength <vs [Armored] units>", "Destroys tile improvements when attacking", "[-1] Sight", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},

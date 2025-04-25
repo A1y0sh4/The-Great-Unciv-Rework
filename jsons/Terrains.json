@@ -177,7 +177,7 @@
 		"production": 0,
 		"overrideStats": true,
 		"movementCost": 2,
-		"defenceBonus": 0.25,
+		"defenceBonus": 0.3,
 		"RGB": [105,125,72],
 		"occursOn": ["Tundra","Plains","Grassland","Desert","Snow"],
 		"uniques": ["Rough terrain",
@@ -199,7 +199,7 @@
 		"production": 0,
 		"movementCost": 2,
 		"unbuildable": true,
-		"defenceBonus": 0.25,
+		"defenceBonus": 0.3,
 		"occursOn": ["Tundra","Plains","Grassland","Hill"],
 		"uniques": ["Rough terrain", "Vegetation",
 			    "Occurs at temperature between [-0.9] and [0.8] and humidity between [-0.9] and [0.9]",
@@ -224,7 +224,7 @@
 		"food": 0,
 		"movementCost": 2,
 		"unbuildable": true,
-		"defenceBonus": 0.25,
+		"defenceBonus": 0.4,
 		"occursOn": ["Plains","Grassland","Hill"],
 		"uniques": [
 			"Rough terrain", "Vegetation", "Provides a one-time bonus of [+40 Production] to the closest city when cut down <(modified by game speed)>",
@@ -248,7 +248,7 @@
 		"food": 0,
 		"movementCost": 3,
 		"unbuildable": true,
-		"defenceBonus": -0.15,
+		"defenceBonus": -0.2,
 		"occursOn": ["Grassland"],
 		"uniques": [            "Rare feature",
 					"[-2] to Fertility for Map Generation",
@@ -280,7 +280,7 @@
 		"unbuildable": true,
 		"uniques": ["Nullifies all other stats this tile provides", "Doesn't generate naturally"],
 		"occursOn": ["Grassland", "Plains", "Desert", "Tundra", "Snow", "Forest", "Jungle", "Hill", "Flood plains", "Marsh", "Oasis"]
-		"defenceBonus": -0.25
+		"defenceBonus": -0.3
 	},
 	{
 		"name": "Oasis",
@@ -323,7 +323,7 @@
 		"movementCost": 1,
 		"food": 1,
 		"production": 1,
-		"defenceBonus": 0.15,
+		"defenceBonus": 0.2,
 		"occursOn": ["Coast"],
 		"uniques": ["Rare feature"]
 	},
@@ -333,7 +333,7 @@
 		"movementCost": 2,
 		"production": 1,
 		"science": 1,
-		"defenceBonus": 0.15,
+		"defenceBonus": 0.2,
 		"occursOn": ["Coast"],
 		"uniques": ["Rare feature", "Occurs on latitudes from [0] to [70] percent of distance equator to pole",
 			"Occurs in groups of [1] to [2] tiles"]
@@ -356,7 +356,7 @@
 		"food": 1,
 		"culture": 1,
 		"science": 2,
-		"defenceBonus": 0.15,
+		"defenceBonus": 0.2,
 		"occursOn": ["Ocean"],
 		"uniques": ["Point of Interest", "Must be adjacent to [1] to [6] [Coast] tiles",
 			"Must be adjacent to [6] [Water] tiles",
@@ -583,7 +583,7 @@
 		"science": 1,
 		"production": 1,
 		"movementCost": 2,
-		"defenceBonus": 0.25,
+		"defenceBonus": 0.3,
 		"occursOn": ["Grassland", "Plains"],
 		"uniques": ["Point of Interest", "Must be adjacent to [1] to [4] [Coast] tiles", "Must be adjacent to [1] to [2] [Grassland] tiles",
 			"Must be adjacent to [0] to [2] [Hill] tiles",
@@ -651,7 +651,7 @@
 		"culture": 1,
 		"food": -2,
 		"movementCost": 2,
-		"defenceBonus": 0.25,
+		"defenceBonus": 0.3,
 		"occursOn": ["Grassland"],
 		"uniques": ["Point of Interest", "[+5] Strength for cities built on this terrain", "Must be adjacent to [1] to [5] [Coast] tiles",
 			"Must be adjacent to [0] to [2] [Mountain] tiles",
@@ -675,7 +675,7 @@
 		"impassable": false,
 		"unbuildable": true,
 		"movementCost": 2,
-		"defenceBonus": 0.33,
+		"defenceBonus": 0.5,
 		"weight": 10
 	},
 	{

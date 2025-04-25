@@ -1577,6 +1577,7 @@
 		"cost": 312,
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
 	},
 	{

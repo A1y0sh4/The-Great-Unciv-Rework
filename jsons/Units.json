@@ -1643,6 +1643,7 @@
 		"cost": 312,
 		"requiredTech": "Ballistics",
 		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "machinegun"
 	},
 	{

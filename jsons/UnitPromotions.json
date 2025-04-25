@@ -252,7 +252,7 @@
 	{
 		"name": "Survivalism III",
 		"prerequisites": ["Survivalism II"],
-		"uniques": ["[+25]% Strength <when fighting in [Land] tiles>", "Can move after attacking", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["[+30]% Strength <when defending>", "Can move after attacking", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Scout"],
         "column": 9,
         "row": 3

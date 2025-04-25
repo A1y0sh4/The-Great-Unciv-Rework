@@ -15,6 +15,7 @@
     
   "constants":
   {
+    "maxXPfromBarbarians": 45,
     "naturalWonderCountAddedConstant": 3,
     "riverCountMultiplier": 0.04142,
     "cityStrengthFromGarrison": 0.5,

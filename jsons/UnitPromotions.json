@@ -61,7 +61,7 @@
 		"name": "Volley",
 		"prerequisites": ["Accuracy I","Barrage I"],
 		"uniques": ["[+50]% Strength <vs cities>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
-		"unitTypes": ["Archery","Ranged Gunpowder","Siege"],
+		"unitTypes": ["Archery","Ranged Gunpowder","Siege","Ranged Water"],
         "column": 3,
         "row": 1
 	},

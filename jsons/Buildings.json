@@ -61,7 +61,7 @@
 		"replaces": "Temple",
 		"uniqueTo": "The Maya",
 		"requiredTech": "Spirituality",
-		"cost": 69,
+		"cost": 61,
 		"faith": 2,
 		"science": 2,
 		"hurryCostModifier": 25,

@@ -142,7 +142,7 @@
 		"name": "Besiege",
 		"prerequisites": ["Shock II","Drill II"],
 		"uniques": ["[+50]% Strength <vs cities>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
-		"unitTypes": ["Sword","Gunpowder"],
+		"unitTypes": ["Sword","Gunpowder","Melee Water"],
         "column": 6,
         "row": 3
 	},
@@ -262,7 +262,7 @@
 	// Water melee
 	{
 		"name": "Boarding Party I",
-		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>", "Earn [5]% of the damage done to [Military] units as [Gold]", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Melee Water"],
         "column": 11,
         "row": 1
@@ -270,7 +270,7 @@
 	{
 		"name": "Boarding Party II",
 		"prerequisites": ["Boarding Party I"],
-		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>", "Earn [5]% of the damage done to [Military] units as [Gold]", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Melee Water"],
         "column": 11,
         "row": 2
@@ -278,7 +278,7 @@
 	{
 		"name": "Boarding Party III",
 		"prerequisites": ["Boarding Party II"],
-		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>", "Earn [5]% of the damage done to [Military] units as [Gold]", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Melee Water"],
         "column": 11,
         "row": 3
@@ -286,7 +286,7 @@
 
 	{
 		"name": "Coastal Raider I",
-		"uniques": ["[+20]% Strength <vs cities>", "Earn [33]% of the damage done to [City] units as [Gold]", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["[+15]% Strength <vs cities>", "Earn [25]% of the damage done to [City] units as [Gold]", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Melee Water"],
         "column": 12,
         "row": 1
@@ -294,7 +294,7 @@
 	{
 		"name": "Coastal Raider II",
 		"prerequisites": ["Coastal Raider I"],
-		"uniques": ["[+20]% Strength <vs cities>", "Earn [33]% of the damage done to [City] units as [Gold]", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["[+15]% Strength <vs cities>", "Earn [25]% of the damage done to [City] units as [Gold]", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Melee Water"],
         "column": 12,
         "row": 2
@@ -302,7 +302,7 @@
 	{
 		"name": "Coastal Raider III",
 		"prerequisites": ["Coastal Raider II"],
-		"uniques": ["[+20]% Strength <vs cities>", "Earn [34]% of the damage done to [City] units as [Gold]", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["[+15]% Strength <vs cities>", "Earn [25]% of the damage done to [City] units as [Gold]", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Melee Water"],
         "column": 12,
         "row": 3
@@ -318,7 +318,7 @@
 	// Water Ranged
 	{
 		"name": "Targeting I",
-		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles> <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Ranged Water"],
         "column": 13,
         "row": 1
@@ -326,7 +326,7 @@
 	{
 		"name": "Targeting II",
 		"prerequisites": ["Targeting I"],
-		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles> <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Ranged Water"],
         "column": 13,
         "row": 2
@@ -334,7 +334,7 @@
 	{
 		"name": "Targeting III",
 		"prerequisites": ["Targeting II"],
-		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["[+15]% Strength <vs [Military] units> <in [Water] tiles> <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Ranged Water"],
         "column": 13,
         "row": 3
@@ -660,16 +660,16 @@
 	// Mixed
 	{
 		"name": "Cover I",
-		"uniques": ["[+25]% Strength <vs [Ranged] units> <when defending>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
-		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Scout"],
+		"uniques": ["[+25]% Strength <vs [Ranged] units> <when defending>", "[+25]% Strength <vs [Ranged Water] units> <when defending> <hidden from users>", "[+25]% Strength <vs cities> <when defending> <hidden from users>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Scout","Melee Water","Ranged Water"],
         "column": 24,
         "row": 1
 	},
 	{
 		"name": "Cover II",
 		"prerequisites": ["Cover I"],
-		"uniques": ["[+25]% Strength <vs [Ranged] units> <when defending>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
-		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Scout"],
+		"uniques": ["[+25]% Strength <vs [Ranged] units> <when defending>", "[+25]% Strength <vs [Ranged Water] units> <when defending> <hidden from users>", "[+25]% Strength <vs cities> <when defending> <hidden from users>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Scout","Melee Water","Ranged Water"],
         "column": 24,
         "row": 2
 	},

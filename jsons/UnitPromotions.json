@@ -735,7 +735,7 @@
 	{
 		"name": "Bombardment I",
 		"uniques": ["[+33]% Strength <vs [Military] units> <in [Land] tiles> <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
-		"unitTypes": ["Ranged Water","Fighter","Bomber","Siege"],
+		"unitTypes": ["Ranged Water","Fighter","Bomber"],
         "column": 26,
         "row": 1
 	},
@@ -743,7 +743,7 @@
 		"name": "Bombardment II",
 		"prerequisites": ["Bombardment I"],
 		"uniques": ["[+33]% Strength <vs [Military] units> <in [Land] tiles> <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
-		"unitTypes": ["Ranged Water","Fighter","Bomber","Siege"],
+		"unitTypes": ["Ranged Water","Fighter","Bomber"],
         "column": 26,
         "row": 2
 	},
@@ -751,7 +751,7 @@
 		"name": "Bombardment III",
 		"prerequisites": ["Bombardment II"],
 		"uniques": ["[+34]% Strength <vs [Military] units> <in [Land] tiles> <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
-		"unitTypes": ["Ranged Water","Fighter","Bomber","Siege"],
+		"unitTypes": ["Ranged Water","Fighter","Bomber"],
         "column": 26,
         "row": 3
 	},

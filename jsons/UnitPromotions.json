@@ -59,7 +59,7 @@
 
 	{
 		"name": "Volley",
-		"prerequisites": ["Accuracy I","Barrage I"],
+		"prerequisites": ["Accuracy I","Barrage I","Targeting I","Bombardment I"],
 		"uniques": ["[+50]% Strength <vs cities>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Archery","Ranged Gunpowder","Siege","Ranged Water"],
         "column": 3,
@@ -140,7 +140,7 @@
 	},
 	{
 		"name": "Besiege",
-		"prerequisites": ["Shock II","Drill II"],
+		"prerequisites": ["Shock II","Drill II","Boarding Party I","Coastal Raider I"],
 		"uniques": ["[+50]% Strength <vs cities>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder","Melee Water"],
         "column": 6,

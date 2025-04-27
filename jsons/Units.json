@@ -1478,7 +1478,7 @@
 		"requiredResource": "Oil",
 		"requiredTech": "Refrigeration",
 		"upgradesTo": "Nuclear Submarine",
-		"uniques": ["[+50]% Strength <when attacking>", "Can only attack [Water] tiles", "Destroys tile improvements when attacking", "Never appears as a Barbarian unit"],
+		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles", "Destroys tile improvements when attacking", "Never appears as a Barbarian unit"],
 		"attackSound": "torpedo"
 	},
 	{

@@ -1741,9 +1741,10 @@
                 "[+1 Gold] [in capital] <for every [Porcelain]>", "[+1 Gold] [in capital] <for every [Rum]>", "[+1 Gold] [in capital] <for every [Salt]>", "[+1 Gold] [in capital] <for every [Silk]>", "[+1 Gold] [in capital] <for every [Silver]>", "[+1 Gold] [in capital] <for every [Spices]>", "[+1 Gold] [in capital] <for every [Sugar]>",
                 "[+1 Gold] [in capital] <for every [Tea]>", "[+1 Gold] [in capital] <for every [Tobacco]>", "[+1 Gold] [in capital] <for every [Truffles]>", "[+1 Gold] [in capital] <for every [Vodka]>", "[+1 Gold] [in capital] <for every [Whales]>", "[+1 Gold] [in capital] <for every [Whisky]>", "[+1 Gold] [in capital] <for every [Wine]>"]
 			
-		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
-			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
-			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
+		"cities": ["Moscow","St. Petersburg","Novgorod","Arkhangelsk","Kazan","Astrakhan","Murmansk","Yekaterinburg","Omsk","Novosibirsk","Krasnoyarsk","Irkutsk","Yakutsk","Magadan","Vladivostok",
+			"Rostov","Yaroslavl","Smolensk","Orenburg",
+			"Khabarovsk","Bryansk","Tver","Chita","Samara",
+			"Chelyabinsk","Tobolsk","Vologda","Kursk","Saratov","Tula","Vladimir","Perm",
 			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"],
 		"spyNames": ["Aleksej", "Lena", "Dmitry", "Anastasia", "Ksenia", "Boris", "Doktor Seriy", "Mikhail", "Natasha", "Zmeya"]
 	},

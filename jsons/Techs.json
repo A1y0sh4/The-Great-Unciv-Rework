@@ -2,6 +2,21 @@
 	{
 		"columnNumber": 0,
 		"era": "Prehistoric era",
+		"techCost": 12,
+		"buildingCost": 24,
+		"wonderCost": 54,
+		"techs": [
+			{
+				"name": "Foraging",
+				"row": 6,
+				"quote": "'A foraging wild creature, intent above all upon survival, is as strong as the grass.' - Richard Adams",
+				"uniques": []
+			}
+		]
+	},
+	{
+		"columnNumber": 0,
+		"era": "Prehistoric era",
 		"techCost": 20,
 		"buildingCost": 24,
 		"wonderCost": 54,
@@ -9,12 +24,14 @@
 			{
 				"name": "Agriculture",
 				"row": 4,
+				"prerequisites": ["Foraging"],
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
 				"uniques": ["[+1 Food] from every [City center]"]
 			},
 			{
 				"name": "Stone Tools",
 				"row": 8,
+				"prerequisites": ["Foraging"],
 				"quote": "'I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.' - Albert Einstein",
 				"uniques": ["[+1 Production] from every [City center]"]
 			}

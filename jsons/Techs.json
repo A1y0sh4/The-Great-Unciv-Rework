@@ -3,8 +3,8 @@
 		"columnNumber": 0,
 		"era": "Prehistoric era",
 		"techCost": 12,
-		"buildingCost": 24,
-		"wonderCost": 54,
+		"buildingCost": 18,
+		"wonderCost": 41,
 		"techs": [
 			{
 				"name": "Foraging",

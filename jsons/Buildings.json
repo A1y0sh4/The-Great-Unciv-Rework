@@ -4,12 +4,13 @@
 	// Always available
 	{
 		"name": "Palace",
-		"production": 3,
-		"science": 3,
-		"gold": 3,
+		"production": 2,
+		"science": 2,
+		"gold": 2,
 		"culture": 1,
 		"cost": 0,
-		"cityStrength": 3,
+		"cityStrength": 2,
+		"cityHealth": 10,
 		"isNationalWonder": true,
 		"uniques": ["Indicates the capital city", "Comment [+15% [Production] and [Gold] in this city during We Love The King Day]", "Remove [Revolution] [in all cities] <hidden from users>", "Remove [Relocate Capital] [in all cities] <hidden from users>", "[+15]% [Production] [in this city] <during We Love The King Day> <hidden from users>", "[+15]% [Gold] [in this city] <during We Love The King Day> <hidden from users>", "Destroyed when the city is captured", "[Settler] units gain the [Single City] promotion <for [City-States] Civilizations> <hidden from users>"]
 	},

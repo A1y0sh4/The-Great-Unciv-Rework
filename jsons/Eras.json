@@ -9,7 +9,7 @@
         "startingWorkerCount": 0,
         "startingMilitaryUnitCount": 1,
         "startingMilitaryUnit": "Scout",
-        "settlerPopulation": 0,
+        "settlerPopulation": 1,
         "baseUnitBuyCost": 200,
         "embarkDefense": 2,
         "startPercent": 0,

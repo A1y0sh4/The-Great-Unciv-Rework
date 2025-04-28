@@ -3,6 +3,20 @@
     // I also did some testing in the official version, but by far not all
 
     {
+        "name": "Prehistoric era",
+        "researchAgreementCost": 0,
+        "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 1,
+        "startingMilitaryUnit": "Scout",
+        "settlerPopulation": 1,
+        "baseUnitBuyCost": 200,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityAncient",
+        "iconRGB": [255, 167, 35]
+    },
+    {
         "name": "Ancient era",
         "researchAgreementCost": 50,
         "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json

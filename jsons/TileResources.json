@@ -3,6 +3,7 @@
 	{
 		"name": "Cattle",
 		"resourceType": "Bonus",
+		"revealedBy": "Foraging",
 		"terrainsCanBeFoundOn": ["Grassland"],
 		"food": 1,
 		"improvement": "Pasture",
@@ -12,6 +13,7 @@
 	{
 		"name": "Sheep",
 		"resourceType": "Bonus",
+		"revealedBy": "Foraging",
 		"terrainsCanBeFoundOn": ["Hill"],
 		"food": 1,
 		"improvement": "Pasture",
@@ -21,6 +23,7 @@
 	{
 		"name": "Deer",
 		"resourceType": "Bonus",
+		"revealedBy": "Foraging",
 		"terrainsCanBeFoundOn": ["Forest", "Tundra"], // Tundra only if lowland
 		"food": 1,
 		"improvement": "Camp",
@@ -30,6 +33,7 @@
 	{
 		"name": "Bananas",
 		"resourceType": "Bonus",
+		"revealedBy": "Foraging",
 		"terrainsCanBeFoundOn": ["Jungle"],
 		"food": 1,
 		"improvementStats": {"food": 1},
@@ -40,6 +44,7 @@
 	{
 		"name": "Wheat",
 		"resourceType": "Bonus",
+		"revealedBy": "Foraging",
 		"terrainsCanBeFoundOn": ["Plains","Flood plains","Desert"],
 		"food": 1,
 		"improvement": "Farm",
@@ -51,6 +56,7 @@
 	{
 	        "name": "Maize",
 		"resourceType": "Bonus",
+		"revealedBy": "Foraging",
 		"terrainsCanBeFoundOn": ["Plains","Grassland","Hill"],
 		"food": 1,
 		"improvement": "Plantation",
@@ -63,6 +69,7 @@
         {
                "name": "Rice",
 		"resourceType": "Bonus",
+		"revealedBy": "Foraging",
 		"terrainsCanBeFoundOn": ["Grassland","Marsh", "Flood plains"],
 		"food": 1,
 		"improvement": "Farm",
@@ -74,6 +81,7 @@
 	{
 		"name": "Stone",
 		"resourceType": "Bonus",
+		"revealedBy": "Foraging",
 		"terrainsCanBeFoundOn": ["Grassland", "Desert", "Tundra", "Hill"],
 		"production": 1,
 		"improvement": "Quarry",
@@ -85,6 +93,7 @@
 	{
 		"name": "Fish",
 		"resourceType": "Bonus",
+		"revealedBy": "Foraging",
 		"terrainsCanBeFoundOn": ["Coast"],
 		"food": 1,
 		"improvement": "Fishing Boats",
@@ -94,6 +103,7 @@
 	{
 		"name": "Grape",
 		"resourceType": "Bonus",
+		"revealedBy": "Foraging",
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Hill"],
 		"food": 1,
 		"improvement": "Plantation",

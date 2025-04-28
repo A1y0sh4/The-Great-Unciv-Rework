@@ -5,7 +5,7 @@
     {
         "name": "Prehistoric era",
         "researchAgreementCost": 0,
-        "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
+        "startingSettlerCount": 0, // These values should not include the values given in Difficulties.json
         "startingWorkerCount": 0,
         "startingMilitaryUnitCount": 1,
         "startingMilitaryUnit": "Scout",

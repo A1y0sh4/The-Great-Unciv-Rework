@@ -26,7 +26,7 @@
 		"cost": 20,
 		"obsoleteTech": "Guilds",
 		"upgradesTo": "Skirmisher",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects"],
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Can instantly construct a [City center] improvement <once> <before discovering [Foraging]>"],
 		"attackSound": "nonmetalhit"
 	},
 	{

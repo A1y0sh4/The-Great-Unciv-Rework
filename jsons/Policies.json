@@ -75,7 +75,7 @@
             "Scientific": 10,
 	    "Religious": 0
         },
-        "uniques": ["[+1 Culture] [in all cities]"],
+        "uniques": ["Comment [+1 [Culture] in all cities]", "[+1 Culture] [in all cities]", "[-1 Culture] [in capital]", "[+1 Culture] from every [Palace]"],
         "policies": [
             {
                 "name": "Meritocracy",

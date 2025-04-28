@@ -26,7 +26,7 @@
 		"cost": 20,
 		"obsoleteTech": "Guilds",
 		"upgradesTo": "Skirmisher",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Can transform to [Settler] <before discovering [Foraging]>", "Founds a new city <upon turn end> <for [AI player] Civilizations> <if starting in the [Prehistoric era]> <if [Palace] is not constructed> <hidden from users>"],
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Can transform to [Settler] <before discovering [Foraging]>", "Founds a new city <for [0] movement> <after turn number [1]> <for [AI player] Civilizations> <if starting in the [Prehistoric era]> <if [Palace] is not constructed> <hidden from users>"],
 		"attackSound": "nonmetalhit"
 	},
 	{

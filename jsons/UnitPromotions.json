@@ -843,7 +843,7 @@
         },
 	{
 		"name": "Barbarian Unique",
-		"uniques": ["No movement cost to pillage", "Can only heal by pillaging", "Heals [33] damage if it kills a unit", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+		"uniques": ["No movement cost to pillage", "Can only heal by pillaging", "Heals [25] damage if it kills a unit", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
         {
 		"name": "Climber",

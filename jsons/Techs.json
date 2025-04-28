@@ -8,7 +8,13 @@
 		"techs": [
 			{
 				"name": "Agriculture",
-				"row": 6,
+				"row": 4,
+				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
+				"uniques": []
+			},
+			{
+				"name": "Stone Tools",
+				"row": 8,
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
 				"uniques": []
 			}
@@ -22,8 +28,14 @@
 		"wonderCost": 72,
 		"techs": [
 			{
+				"name": "Sailing",
+				"row": 1,
+				"prerequisites": ["Agriculture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+			{
 				"name": "Pottery",
-				"row": 2,
+				"row": 3,
 				"prerequisites": ["Agriculture"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
 			},
@@ -36,14 +48,14 @@
 			{
 				"name": "Archery", 
 				"row": 7,
-				"prerequisites": ["Agriculture"],
+				"prerequisites": ["Stone Tools"],
 				"uniques": ["[+33]% weight to this choice for AI decisions <for [Macedonia] Civilizations> <hidden from users>"],
 				"quote": "'The haft of the arrow has been feathered with one of the eagle's own plumes, we often give our enemies the means of our own destruction' - Aesop"
 			},
 			{
 				"name": "Mining",
 				"row": 9,
-				"prerequisites": ["Agriculture"],
+				"prerequisites": ["Stone Tools"],
 				"uniques": ["[+67]% weight to this choice for AI decisions <for [Macedonia] Civilizations> <hidden from users>"],
 				"quote": "'The meek shall inherit the Earth, but not its mineral rights.' - J. Paul Getty"
 			}
@@ -58,10 +70,11 @@
 		"wonderCost": 96,
 		"techs": [
 			{
-				"name": "Sailing",
+				"name": "Optics",
 				"row": 1,
-				"prerequisites": ["Pottery"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+				"prerequisites": ["Sailing"],
+				"uniques": ["Enables embarkation for land units"],
+				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
 			},
 			{
 				"name": "Calendar",
@@ -110,14 +123,6 @@
 		"buildingCost": 57,
 		"wonderCost": 127,
 		"techs": [
-			{
-				"name": "Optics",
-				"cost": 80,
-				"row": 1,
-				"prerequisites": ["Sailing"],
-				"uniques": ["Enables embarkation for land units"],
-				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
-			},
 			{
 				"name": "Fermentation",
 				"row": 3

@@ -10,13 +10,13 @@
 				"name": "Agriculture",
 				"row": 4,
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
-				"uniques": []
+				"uniques": ["[+1 Food] from every [City center]"]
 			},
 			{
 				"name": "Stone Tools",
 				"row": 8,
 				"quote": "'I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.' - Albert Einstein",
-				"uniques": []
+				"uniques": ["[+1 Production] from every [City center]"]
 			}
 		]
 	},

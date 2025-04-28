@@ -2,7 +2,7 @@
 	{
 		"columnNumber": 0,
 		"era": "Prehistoric era",
-		"techCost": 0,
+		"techCost": 12,
 		"buildingCost": 24,
 		"wonderCost": 54,
 		"techs": [

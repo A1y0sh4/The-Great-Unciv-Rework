@@ -2,13 +2,13 @@
 	{
 		"columnNumber": 0,
 		"era": "Prehistoric era",
-		"techCost": 12,
+		"techCost": 0,
 		"buildingCost": 24,
 		"wonderCost": 54,
 		"techs": [
 			{
 				"name": "Foraging",
-				"row": 6,
+				"row": 5,
 				"quote": "'A foraging wild creature, intent above all upon survival, is as strong as the grass.' - Richard Adams",
 				"uniques": []
 			}
@@ -23,7 +23,7 @@
 		"techs": [
 			{
 				"name": "Agriculture",
-				"row": 4,
+				"row": 3,
 				"prerequisites": ["Foraging"],
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
 				"uniques": ["[+1 Food] from every [City center]"]

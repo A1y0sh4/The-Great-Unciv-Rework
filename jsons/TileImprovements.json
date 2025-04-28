@@ -181,7 +181,7 @@
 	{
 		"name": "Remove Marsh",
 		"turnsToBuild": 5,
-		"techRequired": "Fermentation",
+		"techRequired": "Calendar",
 		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
 		"shortcutKey": "X"
 	},

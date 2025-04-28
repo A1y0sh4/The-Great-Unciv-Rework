@@ -1,6 +1,7 @@
 {
     "name": "Global uniques", 
     "uniques": [
+	"[+2 Science] <if [Palace] is not constructed>",
 	"[+10]% Unhappiness from [Population] [in all cities] <when at war>",
 	"[-10]% Unhappiness from [Population] [in all cities] <during a Golden Age>",
 	"[-25]% growth [in all cities] <when at war>",

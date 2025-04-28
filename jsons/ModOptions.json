@@ -18,7 +18,7 @@
     "maxXPfromBarbarians": 45,
     "naturalWonderCountAddedConstant": 3,
     "riverCountMultiplier": 0.04142,
-    "cityStrengthBase": 6,
+    "cityStrengthBase": 4,
     "cityStrengthFromGarrison": 0.5,
     "maxSpyRank": 6,
     "spyRankSkillPercentBonus": 25,
@@ -35,7 +35,7 @@
     "baseTurnsUntilRevolt": 4,
     "cityStateElectionTurns": 16,
     "unitSupplyPerPopulation": 0.1,
-    "cityStrengthPerPop": 0.25,
+    "cityStrengthPerPop": 0.5,
     "cityStrengthFromTechsMultiplier": 4.236,
     "cityStrengthFromTechsExponent": 2.764,
     "unitUpgradeCost":{"base":20,"perProduction":1,"eraMultiplier":0.334,"exponent":1,"roundTo":5}

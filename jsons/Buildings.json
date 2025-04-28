@@ -1304,7 +1304,7 @@
 	{
 		"name": "Factory",
 		"cost": 206,
-		"production": 2,
+		"production": 4,
 		"specialistSlots": {"Engineer": 2},
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,
@@ -1318,7 +1318,7 @@
 		"replaces": "Factory",
 		"uniqueTo": "Germany",
 		"cost": 191,
-		"production": 4,
+		"production": 6,
 		"requiredResource": "Coal",
 		"specialistSlots": {"Engineer": 2},
 		"requiredBuilding": "Workshop",
@@ -1711,7 +1711,7 @@
 
 	{
 		"name": "Utopia Project",
-		"cost": 2140,
+		"cost": 4913,
 		"culture": 5,
 		"greatPersonPoints": {"Great Artist": 5},
 		"isWonder": true,
@@ -1732,7 +1732,7 @@
         {
 		"name": "United Nations",
 		"isWonder": true,
-		"cost": 2140,
+		"cost": 4913,
 		"culture": 5,
 		"greatPersonPoints": {"Great Merchant": 5},
 		"uniques": ["Triggers voting for the Diplomatic Victory", "Only available <when [Diplomatic] Victory is enabled>", "Triggers a global alert upon build start", "Triggers a global alert upon completion", "Comment [Only avaible after finishing the Internationalism tree]", "Only available <after adopting [Internationalism Complete]> <hidden from users>", "Cannot be hurried"],
@@ -1743,7 +1743,7 @@
 	
 	{
 		"name": "Cathedral",
-		"cost": 115,
+		"cost": 100,
 		"faith": 2,
 		"culture": 3,
 		"happiness": 1,
@@ -1752,7 +1752,7 @@
 	},
 	{
 		"name": "Mosque",
-		"cost": 115,
+		"cost": 100,
 		"culture": 2,
 		"faith": 3,
 		"happiness": 1,
@@ -1761,7 +1761,7 @@
 	},
 	{
 		"name": "Pagoda",
-		"cost": 115,
+		"cost": 100,
 		"culture": 2,
 		"faith": 2,
 		"happiness": 2,
@@ -1770,7 +1770,7 @@
 	},
 	{
 		"name": "Stupa",
-		"cost": 115,
+		"cost": 100,
 		"happiness": 2,
 		"faith": 2,
 		"culture": 1,
@@ -1780,7 +1780,7 @@
 	},
 	{
 		"name": "Wat",
-		"cost": 115,
+		"cost": 100,
 		"science": 3,
 		"faith": 2,
 		"culture": 1,

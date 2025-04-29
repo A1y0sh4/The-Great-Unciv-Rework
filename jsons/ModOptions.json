@@ -25,7 +25,7 @@
     "minimalCityDistanceOnDifferentContinents": 1,
     "religionLimitBase": 1,
     "religionLimitMultiplier": 0.67,
-    "pantheonBase": 20,
+    "pantheonBase": 21,
     "pantheonGrowth": -1,
     "ancientRuinCountMultiplier": 0.04142,
     "minRiverLength": 3,

@@ -131,7 +131,7 @@
     {
         "name": "Sacred Frontiers",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Jungle]"]
+        "uniques": ["[-25]% Culture cost of natural border growth [in this city]"]
     },
     {
         "name": "Sacred Path",

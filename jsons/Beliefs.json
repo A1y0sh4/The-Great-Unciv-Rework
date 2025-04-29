@@ -23,7 +23,7 @@
         "uniques": ["Comment [+2 [Faith], +1 [Culture] in all cities adjacent to [Desert]]", "[+1 Culture, +2 Faith] [in all cities] <within [1] tiles of a [Desert]> <hidden from users>"]
     },
     {
-        "name": "Earth Mother",
+        "name": "Mother Earth",
         "type": "Pantheon",
         "uniques": ["Comment [+1 [Faith], +1 [Gold] from every [Salt], [Copper], [Iron]]", "[+1 Faith, +1 Gold] from every [Salt] <hidden from users>", "[+1 Faith, +1 Gold] from every [Copper] <hidden from users>", "[+1 Faith, +1 Gold] from every [Iron] <hidden from users>"]
     },
@@ -128,6 +128,11 @@
         "type": "Pantheon",
         "uniques": ["Comment [+1 [Culture], +1 [Faith] from every [Tea], [Coffee] and [Cocoa]]", "[+1 Culture] from every [Tea] <hidden from users>", "[+1 Culture] from every [Coffee] <hidden from users>", "[+1 Culture] from every [Cocoa] <hidden from users>", "[+1 Faith] from every [Tea] <hidden from users>", "[+1 Faith] from every [Coffee] <hidden from users>", "[+1 Faith] from every [Cocoa] <hidden from users>"]
      },
+    {
+        "name": "Sacred Frontiers",
+        "type": "Pantheon",
+        "uniques": ["[+1 Culture] from every [Jungle]"]
+    },
     {
         "name": "Sacred Path",
         "type": "Pantheon",

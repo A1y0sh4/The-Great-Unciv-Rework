@@ -25,7 +25,7 @@
             {
                 "name": "Legalism",
                 "uniques": [
-                    "[-50]% Unhappiness from [Population] [in capital]"
+                    "[+3 Food, +3 Happiness] [in capital]"
                 ],
 		"requires": ["Monarchy"],
                 "row": 2,
@@ -138,7 +138,7 @@
 	    "Religious": 0
         },
         "uniques": [
-                "Notified of new Barbarian encampments", "Comment [+33% Strength vs Barbarians and City-States units]", "[+33]% Strength <vs [Barbarian] units> <hidden from users>", "[+33]% Strength <vs [City-States]> <hidden from users>"
+                "Notified of new Barbarian encampments", "Comment [+25% Strength vs Barbarians and City-States units]", "[+25]% Strength <vs [Barbarian] units> <hidden from users>", "[+25]% Strength <vs [City-States]> <hidden from users>"
         ],
         "policies": [
             {
@@ -177,7 +177,7 @@
             {
                 "name": "State Logistics",
                 "uniques": [
-                    "[-33]% maintenance on road & railroads", "Improves movement speed on roads"
+                    "[-25]% maintenance on road & railroads", "Improves movement speed on roads"
                 ],
                 "requires": ["Professional Army"],
                 "row": 3,
@@ -186,7 +186,7 @@
             {
                 "name": "Professional Army",
                 "uniques": [
-                    "[-33]% maintenance costs <for [Military] units>", "[+1] Unit Supply per city"
+                    "[-25]% maintenance costs <for [Military] units>", "[+1] Unit Supply per city"
                 ],
                 "requires": ["Military Tradition"],
                 "row": 2,
@@ -195,7 +195,7 @@
             {
                 "name": "Expansion Complete",
                 "uniques": [
-                 "[-33]% Culture cost of natural border growth [in all cities connected to capital]", "[-33]% Gold cost of acquiring tiles [in all cities connected to capital]"
+                 "[-25]% Culture cost of natural border growth [in all cities connected to capital]", "[-25]% Gold cost of acquiring tiles [in all cities connected to capital]"
                 ]
             }
         ]
@@ -365,7 +365,7 @@
             {
                 "name": "Free Trade",
                 "uniques": [
-                    "Retain [67]% of the happiness from a luxury after the last copy has been traded away"],
+                    "Retain [50]% of the happiness from a luxury after the last copy has been traded away"],
                 "row": 1,
                 "column": 4
             },
@@ -433,7 +433,7 @@
             {
                 "name": "Free Thought",
                 "uniques": [
-                    "[+33]% Great Person generation [in all cities]", "[+3 Culture, +3 Science] from every [National Wonder]", 
+                    "[+25]% Great Person generation [in all cities]", "[+3 Culture, +3 Science] from every [National Wonder]", 
                 ],
                 "requires": ["Secularism"],
                 "row": 2,
@@ -448,7 +448,7 @@
             },
             {
                 "name": "Scientific Revolution",
-                "uniques": ["[+20]% [Science] [in all cities] <during a Golden Age>", "Empire enters golden age"],
+                "uniques": ["[+25]% [Science] [in all cities] <during a Golden Age>", "Empire enters golden age"],
                 "requires": ["Free Thought"],
                 "row": 3,
                 "column": 1
@@ -510,7 +510,7 @@
             {
                 "name": "Democracy",
                 "uniques": [
-                    "[Faith] cost of purchasing [Great Person] units [-33]%", "Free Great Person"
+                    "[Faith] cost of purchasing [Great Person] units [-25]%", "Free Great Person"
                 ],
                 "requires": ["Universal Suffrage", "Free Speech"],
                 "row": 3,
@@ -553,7 +553,7 @@
             },
             {
                 "name": "Militarism",
-                "uniques": ["[-33]% Gold cost of upgrading <for [Military] units>", "Comment [+1 [Science] from all Military buildings]",
+                "uniques": ["[-25]% Gold cost of upgrading <for [Military] units>", "Comment [+1 [Science] from all Military buildings]",
 		"[+1 Science] from every [Barracks] <hidden from users>", "[+1 Science] from every [Armory] <hidden from users>", "[+1 Science] from every [Military Academy] <hidden from users>"],
                 "row": 1,
                 "column": 5
@@ -579,7 +579,7 @@
             },
             {
                 "name": "Total War",
-                "uniques": ["[+33]% Strength <for [Military] units> <vs cities>", "[+33]% Production when constructing [Military] units [in all cities]"],
+                "uniques": ["[+25]% Strength <for [Military] units> <vs cities>", "[+25]% Production when constructing [Military] units [in all cities]"],
                 "requires": ["Autarky", "Police State"],
                 "row": 3,
                 "column": 3
@@ -638,7 +638,7 @@
                 "name": "United Front",
                 "requires": ["Diplomatic Missions"],
                 "uniques": [
-                    "Resting point for Influence with City-States is increased by [30]", "[+33]% Strength <when fighting units from a Civilization with more Cities than you> <in [Friendly Land] tiles>",
+                    "Resting point for Influence with City-States is increased by [25]", "[+25]% Strength <when fighting units from a Civilization with more Cities than you> <in [Friendly Land] tiles>",
                 ],
                 "row": 3,
                 "column": 3

@@ -2049,7 +2049,7 @@
 	{
 		"name": "Great Artist",
 		"unitType": "Civilian",
-		"uniques": ["Can generate a large amount of culture <by consuming this unit>", "Can instantly construct a [Landmark] improvement <by consuming this unit>", "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
+		"uniques": ["Can generate a large amount of culture", "Can instantly construct a [Landmark] improvement <by consuming this unit>", "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
 	{
@@ -2087,7 +2087,7 @@
             "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
 			"Comment [Can Spread Religion for 2 movement 4 times after which this unit is consumed]",
             "Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed> <before adopting [Messiah]> <hidden from users>",
-	    "Can Spread Religion <for [1] movement> <[4] times> <after which this unit is consumed> <after adopting [Messiah]> <hidden from users>",
+	    "Can Spread Religion <for [0] movement> <[4] times> <after which this unit is consumed> <after adopting [Messiah]> <hidden from users>",
 			"Removes other religions when spreading religion",
             "May found a religion <by consuming this unit> <if it hasn't used other actions yet>",
             "May enhance a religion <by consuming this unit> <if it hasn't used other actions yet>",

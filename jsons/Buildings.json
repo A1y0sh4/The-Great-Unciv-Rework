@@ -844,7 +844,7 @@
 		"name": "Artists Workshop",
 		"replaces": "Workshop",
 		"uniqueTo": "Italy",
-	        "greatPersonPoints": {"Great Artist": 2},
+	        "greatPersonPoints": {"Great Artist": 1},
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 	        "specialistSlots": {"Engineer": 1},

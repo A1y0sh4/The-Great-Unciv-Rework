@@ -35,7 +35,7 @@
     {
         "name": "Faith Healers",
         "type": "Pantheon",
-        "uniques": ["[All] Units adjacent to this city heal [+33] HP per turn when healing"]
+        "uniques": ["[All] Units adjacent to this city heal [+25] HP per turn when healing"]
     },
     {
         "name": "Fertility Rites",

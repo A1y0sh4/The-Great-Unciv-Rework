@@ -320,7 +320,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Great Improvement", "Improvement",
 			"Gives a defensive bonus of [100]%",
-			"Adjacent enemy units ending their turn take [33] damage",
+			"Adjacent enemy units ending their turn take [25] damage",
 			"Can be built just outside your borders", "Unpillagable",
         	        "Gain control over [all] tiles in a [1]-tile radius",
 			"Removes removable features when built", "Will not be replaced by automated units <hidden from users>", "Tile provides yield without assigned population",

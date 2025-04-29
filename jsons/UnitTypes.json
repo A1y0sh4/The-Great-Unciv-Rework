@@ -9,7 +9,7 @@
         "uniques": ["Transfer Movement to [Great General]",
             "[-10]% Strength <when fighting in [Desert] tiles>",
 	"[-10]% Strength <when fighting in [Tundra] tiles>",
-	"[-10]% Strength <when fighting in [Snow] tiles>",]
+	"[-10]% Strength <when fighting in [Snow] tiles>"]
     },
     {
         "name": "Gunpowder",
@@ -17,7 +17,7 @@
         "uniques": ["Transfer Movement to [Great General]",
         "[-10]% Strength <when fighting in [Desert] tiles>",
 	"[-10]% Strength <when fighting in [Tundra] tiles>",
-	"[-10]% Strength <when fighting in [Snow] tiles>",]
+	"[-10]% Strength <when fighting in [Snow] tiles>"]
     },
     {
         "name": "Archery",
@@ -26,7 +26,7 @@
         "[-10]% Strength <when fighting in [Desert] tiles> <when defending>",
 	"[-10]% Strength <when fighting in [Tundra] tiles> <when defending>",
 	"[-10]% Strength <when fighting in [Snow] tiles> <when defending>",
-	"[-33]% Strength <vs cities> <when attacking>",
+	"[-25]% Strength <vs cities> <when attacking>",
 	"[-20]% Strength <vs [Melee] units> <when defending>"]
     },
     {
@@ -36,7 +36,7 @@
         "[-10]% Strength <when fighting in [Desert] tiles> <when defending>",
 	"[-10]% Strength <when fighting in [Tundra] tiles> <when defending>",
 	"[-10]% Strength <when fighting in [Snow] tiles> <when defending>",
-	"[-33]% Strength <vs cities> <when attacking>",
+	"[-25]% Strength <vs cities> <when attacking>",
 	"[-20]% Strength <vs [Melee] units> <when defending>"]
     },
     {
@@ -45,20 +45,20 @@
         "uniques": ["Transfer Movement to [Great General]", "Can see invisible [Land] units",
         "[-10]% Strength <when fighting in [Desert] tiles>",
 	"[-10]% Strength <when fighting in [Tundra] tiles>",
-	"[-10]% Strength <when fighting in [Snow] tiles>",]
+	"[-10]% Strength <when fighting in [Snow] tiles>"]
     },
     {
         "name": "Mounted",
         "movementType": "Land",
-        "uniques": ["Transfer Movement to [Great General]",
+        "uniques": ["Transfer Movement to [Great General]", "Ignores Zone of Control",
         "[-10]% Strength <when fighting in [Desert] tiles>",
 	"[-10]% Strength <when fighting in [Tundra] tiles>",
-	"[-10]% Strength <when fighting in [Snow] tiles>",]
+	"[-10]% Strength <when fighting in [Snow] tiles>"]
     },
     {
         "name": "Armored",
         "movementType": "Land",
-        "uniques": ["Transfer Movement to [Great General]",
+        "uniques": ["Transfer Movement to [Great General]", "Ignores Zone of Control",
         "[-10]% Strength <when fighting in [Desert] tiles>",
 	"[-10]% Strength <when fighting in [Tundra] tiles>",
 	"[-10]% Strength <when fighting in [Snow] tiles>",]

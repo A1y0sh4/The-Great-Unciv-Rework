@@ -263,8 +263,8 @@
 				"name": "Military Tactics",
 				"row": 8,
 				"prerequisites": ["Currency","Engineering","Iron Working"],
-				"uniques": [],
-				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
+				"uniques": ["Comment [+10% Strength to Military units adjacent to another Military unit]", "[{non-air} {Military}] units gain the [Formation I] promotion <hidden from users>"],
+				"quote": "'Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.' - Sun Tzu"
 			},
 			{
 				"name": "Metal Casting",

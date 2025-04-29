@@ -219,7 +219,7 @@
         "embarkDefense": 30,
         "startPercent": 80,
         "citySound": "cityFuture",
-        "iconRGB": [76, 176, 81],
+        "iconRGB": [120, 200, 70],
         "uniques": ["May not generate great prophet equivalents naturally",
             "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
             "Starting in this era disables religion",

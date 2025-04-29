@@ -290,7 +290,7 @@
 			{
 				"name": "Chivalry",
 				"row": 6,
-				"prerequisites": ["Civil Service","Guilds"],
+				"prerequisites": ["Civil Service","Guilds","Metal Casting"],
 				"quote": "'Whoso pulleth out this sword of this stone and anvil, is rightwise king born of all England.' - Malory"
 			},
 			{
@@ -337,7 +337,7 @@
 			{
 				"name": "Banking", 
 				"row": 6,
-				"prerequisites": ["Chivalry", "Education","Distillation"],
+				"prerequisites": ["Chivalry", "Machinery","Distillation"],
 				"uniques": [],
 				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
 			},

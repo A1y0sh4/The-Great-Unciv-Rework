@@ -471,15 +471,6 @@
 		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "[-33]% Unhappiness from [Population] [in this city]", "Cost increases by [25] per owned city"],
 		"requiredTech": "Imperial Games"
 	},
-	{
-		"name": "Sanchi Stupa",
-		"culture": 2,
-		"isWonder": true,
-		"greatPersonPoints": {"Great Scientist": 2},
-		"uniques": ["[+3 Food] <when not at war>", "[+3 Production] <when at war>", "Gain a free [Stupa] [in this city]", "Only available <when religion is enabled>"],
-		"requiredTech": "Imperial Games",
-		"quote": "'All religions should reside everywhere, for all of them desire self-control and purity of heart.' - Ashoka",
-	},
         {
 		"name": "Garden",
 		"uniques": ["[+33]% Great Person generation [in this city]", "[-33]% Food consumption by specialists [in this city]", "Must be next to [Fresh water]"],
@@ -778,6 +769,15 @@
 			"[+33]% Natural religion spread [in this city]", "All newly-trained [Missionary] units [in this city] receive the [Devout] promotion", "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
+	},
+	{
+		"name": "The Great Stupa",
+		"culture": 2,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Scientist": 2},
+		"uniques": ["[+3 Food] <when not at war>", "[+3 Production] <when at war>", "Gain a free [Stupa] [in this city]", "Only available <when religion is enabled>"],
+		"requiredTech": "Civil Service",
+		"quote": "'All religions should reside everywhere, for all of them desire self-control and purity of heart.' - Ashoka",
 	},
 	{
 		"name": "Rum Distillery",

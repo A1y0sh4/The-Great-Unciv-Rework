@@ -148,9 +148,9 @@
 	},
 	{
 		"name": "Formation I",
-		"prerequisites": ["Shock II", "Drill II", "Accuracy II", "Barrage II"],
+		"prerequisites": ["Shock II", "Drill II", "Accuracy II", "Barrage II", "Targeting II", "Bombardment II", "Boarding Party II", "Coastal Raider II"],
 		"uniques": ["[+10]% Strength <when adjacent to a [{Military} {Land}] unit>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
-		"unitTypes": ["Sword", "Gunpowder", "Mounted", "Siege","Archery","Ranged Gunpowder"],
+		"unitTypes": ["Sword", "Gunpowder", "Mounted", "Siege","Archery","Ranged Gunpowder","Melee Water","Ranged Water"],
         "column": 7,
         "row": 2
 	},
@@ -221,7 +221,7 @@
 		"name": "Scouting II",
 		"prerequisites": ["Scouting I"],
 		"uniques": ["[+1] Sight", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>",
-		"Gain [0]-[6] [Science] <upon discovering a [Land] tile> <(modified by game speed)> <hidden from users>", "Comment [Gain a little amount of [Science] when discovering new Land tiles]"],
+		"Gain [0]-[4] [Science] <upon discovering a [Land] tile> <(modified by game speed)> <hidden from users>", "Comment [Gain a little amount of [Science] when discovering new Land tiles]"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 2

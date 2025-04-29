@@ -24,7 +24,7 @@
 		"movement": 2,
 		"strength": 5,
 		"cost": 20,
-		"obsoleteTech": "Guilds",
+		"obsoleteTech": "Military Tactics",
 		"upgradesTo": "Skirmisher",
 		"uniques": ["May upgrade to [Warrior] through ruins-like effects", "Can transform to [Settler] <for [0] movement> <before discovering [Foraging]> <hidden from users>"],
 		"attackSound": "nonmetalhit"
@@ -37,7 +37,7 @@
 		"cost": 25,
 		"movement": 2,
 		"strength": 7,
-		"obsoleteTech": "Guilds",
+		"obsoleteTech": "Military Tactics",
 		"promotions": ["Quick Study"], 
 		"upgradesTo": "Skirmisher",
 		"attackSound": "nonmetalhit"
@@ -409,7 +409,7 @@
 		"strength": 10,
 		"cost": 46,
 		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
+		"obsoleteTech": "Military Tactics",
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
@@ -423,7 +423,7 @@
 		"strength": 10,
 		"cost": 37,
 		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
+		"obsoleteTech": "Military Tactics",
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+15]% Strength <when defending>"],
 		"attackSound": "metalhit"
@@ -437,7 +437,7 @@
 		"movement": 2,
 		"strength": 11,
 		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
+		"obsoleteTech": "Military Tactics",
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+15]% Strength <when adjacent to a [Hoplite] unit>", "Comment [Gain triple the normal amount of Influence when gifted to a City-State]", "No defensive terrain bonus"],
 		"attackSound": "metalhit"
@@ -451,7 +451,7 @@
 		"movement": 2,
 		"strength": 10,
 		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
+		"obsoleteTech": "Military Tactics",
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+50]% to Flank Attack bonuses", "Ignores Zone of Control"],
 		"attackSound": "metalhit"
@@ -465,7 +465,7 @@
 		"movement": 2,
 		"strength": 11,
 		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
+		"obsoleteTech": "Military Tactics",
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"promotions":["[Persian Immortal] ability"],
@@ -494,7 +494,7 @@
 		"strength": 10,
 		"cost": 35,
 		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
+		"obsoleteTech": "Military Tactics",
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
@@ -742,7 +742,7 @@
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"],
 		"promotions": ["[Druzhina] ability"],
 		"upgradesTo": "Knight",
-		"obsoleteTech": "Gunpowder",
+		"obsoleteTech": "Chivalry",
 		"attackSound": "horse"
 	},
 	{

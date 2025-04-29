@@ -379,7 +379,7 @@
 			{
 				"name": "Architecture",
 				"row": 4,
-				"prerequisites": ["Acoustics","Banking"],
+				"prerequisites": ["Acoustics","Banking","Printing Press"],
 				"quote": "'Architecture begins where engineering ends.' - Walter Gropius"
 			},
 			{

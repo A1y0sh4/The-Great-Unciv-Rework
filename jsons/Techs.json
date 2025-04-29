@@ -242,7 +242,7 @@
 			{
 				"name": "Theology",
 				"row": 3,
-				"prerequisites": ["Philosophy", "Drama and Poetry"],
+				"prerequisites": ["Philosophy", "Drama and Poetry","Imperial Games"],
 				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
 			},
 			{

@@ -1689,7 +1689,7 @@ ResourceIcons/Pollution
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Sanchi Stupa
+BuildingIcons/The Great Stupa
   rotate: false
   xy: 544, 796
   size: 100, 100

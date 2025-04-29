@@ -34,7 +34,7 @@
 		"name": "Relocate Capital",
 		"cost": 5,
 		"hurryCostModifier": 5,
-		"uniques": ["Unavailable <in cities with a [Palace]> <hidden from users>", "Will not be displayed in Civilopedia <hidden from users>", "Unbuildable <hidden from users>", "Can be purchased with [Gold] [in all cities] <after discovering [Civil Service]> <hidden from users>", "Remove [Palace] [in all cities] <hidden from users>", "Gain a free [Palace] [in this city] <hidden from users>", "Cost increases by [5] per owned city <hidden from users>", "Cost increases by [5] when built <hidden from users>"]
+		"uniques": ["Unavailable <in cities with a [Palace]> <hidden from users>", "Will not be displayed in Civilopedia <hidden from users>", "Unbuildable <hidden from users>", "Can be purchased with [Gold] [in all cities] <after discovering [Imperial Games]> <hidden from users>", "Remove [Palace] [in all cities] <hidden from users>", "Gain a free [Palace] [in this city] <hidden from users>", "Cost increases by [5] per owned city <hidden from users>", "Cost increases by [5] when built <hidden from users>"]
         },
 	{
 		"name": "Stonehenge",
@@ -775,7 +775,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["[+3 Food] <when not at war>", "[+3 Production] <when at war>", "Gain a free [Stupa] [in this city]", "Only available <when religion is enabled>"],
-		"requiredTech": "Civil Service",
+		"requiredTech": "Theology",
 		"quote": "'All religions should reside everywhere, for all of them desire self-control and purity of heart.' - Ashoka",
 	},
 	{

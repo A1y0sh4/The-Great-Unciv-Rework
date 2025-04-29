@@ -208,7 +208,7 @@
 		"name": "Library",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Mathematics]>"],
+		"uniques": ["[+1 Science] per [4] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Mathematics]>"],
 		"requiredTech": "Writing"
 	},
 	{
@@ -218,7 +218,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 0,
 		"culture": 1,
-		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Mathematics]>", "[+1 Production, +1 Gold] <in [River] tiles>"],
+		"uniques": ["[+1 Science] per [4] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Mathematics]>", "[+1 Production, +1 Gold] <in [River] tiles>"],
 		"requiredTech": "Writing"
 	},
 	{
@@ -907,10 +907,10 @@
 		"name": "University",
 		"maintenance": 2,
 		"hurryCostModifier": 15,
-		"percentStatBonus": {"science": 33},
+		"percentStatBonus": {"science": 25},
 		"specialistSlots": {"Scientist": 1},
 		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[+17]% [Science] <after discovering [Printing Press]>"],
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[+25]% [Science] <after discovering [Printing Press]>"],
 		"requiredTech": "Education"
 	},
 	{
@@ -1298,7 +1298,7 @@
 		"requiredBuilding": "University",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
-		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Biology]>"],
+		"uniques": ["[+1 Science] per [4] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Biology]>"],
 		"requiredTech": "Scientific Theory"
 	},
 	{
@@ -1474,7 +1474,7 @@
 	{
 		"name": "Research Lab",
 		"science": 4,
-		"percentStatBonus": {"science": 50},
+		"percentStatBonus": {"science": 25},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Public School",
 		"uniques": ["[+25]% [Science] <after discovering [Atomic Theory]>"],

@@ -23,11 +23,6 @@
         "uniques": ["Comment [+2 [Faith], +1 [Culture] in all cities adjacent to [Desert]]", "[+1 Culture, +2 Faith] [in all cities] <within [1] tiles of a [Desert]> <hidden from users>"]
     },
     {
-        "name": "Mother Earth",
-        "type": "Pantheon",
-        "uniques": ["Comment [+1 [Faith], +1 [Gold] from every [Salt], [Copper], [Iron]]", "[+1 Faith, +1 Gold] from every [Salt] <hidden from users>", "[+1 Faith, +1 Gold] from every [Copper] <hidden from users>", "[+1 Faith, +1 Gold] from every [Iron] <hidden from users>"]
-    },
-    {
         "name": "Eleusinian Mysteries",
         "type": "Pantheon",
         "uniques": ["Comment [+1 [Food] from every [Wheat], [Grape], [Poppy]]", "[+1 Food] from every [Wheat] <hidden from users>", "[+1 Food] from every [Grape] <hidden from users>", "[+1 Food] from every [Poppy] <hidden from users>"]
@@ -99,6 +94,11 @@
         "uniques": ["[+10]% Production when constructing [All] wonders [in cities following this religion]", "[+1 Faith] from every [Wonder]"]
     },
     {
+        "name": "Mother Earth",
+        "type": "Pantheon",
+        "uniques": ["Comment [+1 [Faith], +1 [Gold] from every [Salt], [Copper], [Iron]]", "[+1 Faith, +1 Gold] from every [Salt] <hidden from users>", "[+1 Faith, +1 Gold] from every [Copper] <hidden from users>", "[+1 Faith, +1 Gold] from every [Iron] <hidden from users>"]
+    },
+    {
         "name": "Nature Shamans",
         "type": "Pantheon",
         "uniques": ["[+1 Faith] from every [Rare feature]"]
@@ -119,6 +119,11 @@
         "uniques": ["[+1 Culture] from every [Plantation]"]
     },
     {
+        "name": "Promised Frontiers",
+        "type": "Pantheon",
+        "uniques": ["[-25]% Culture cost of natural border growth [in this city]"]
+    },
+    {
         "name": "Religious Idols",
         "type": "Pantheon",
         "uniques": ["Comment [+1 [Culture], +1 [Faith] from every [Gold Ore], [Silver] and [Gems]]", "[+1 Culture] from every [Gold Ore] <hidden from users>", "[+1 Culture] from every [Silver] <hidden from users>", "[+1 Culture] from every [Gems] <hidden from users>", "[+1 Faith] from every [Gold Ore] <hidden from users>", "[+1 Faith] from every [Silver] <hidden from users>", "[+1 Faith] from every [Gems] <hidden from users>"]
@@ -128,11 +133,6 @@
         "type": "Pantheon",
         "uniques": ["Comment [+1 [Culture], +1 [Faith] from every [Tea], [Coffee] and [Cocoa]]", "[+1 Culture] from every [Tea] <hidden from users>", "[+1 Culture] from every [Coffee] <hidden from users>", "[+1 Culture] from every [Cocoa] <hidden from users>", "[+1 Faith] from every [Tea] <hidden from users>", "[+1 Faith] from every [Coffee] <hidden from users>", "[+1 Faith] from every [Cocoa] <hidden from users>"]
      },
-    {
-        "name": "Sacred Frontiers",
-        "type": "Pantheon",
-        "uniques": ["[-25]% Culture cost of natural border growth [in this city]", "Enemy [Barbarian] units must spend [1] extra movement points when inside your territory"]
-    },
     {
         "name": "Sacred Path",
         "type": "Pantheon",

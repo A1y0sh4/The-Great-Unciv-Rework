@@ -819,7 +819,7 @@
 	},
 	{
 		"name": "[Sipahi] ability",
-		"uniques": ["No movement cost to pillage", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+		"uniques": ["No movement cost to pillage", "[+20]% Yield from pillaging tiles", "[+20]% Health from pillaging tiles", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
 	{
 		"name": "[Asafo] ability",

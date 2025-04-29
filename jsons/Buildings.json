@@ -464,7 +464,7 @@
 	},
         {
 		"name": "Circus Maximus",
-		"cost": 50,
+		"cost": 25,
 		"culture": 1,
 		"happiness": 3,
 		"isNationalWonder": true,
@@ -582,7 +582,7 @@
 	},
 	{
 		"name": "National College",
-		"cost": 50,
+		"cost": 25,
 		"culture": 1,
 		"science": 3,
 		"greatPersonPoints": {"Great Scientist": 2},
@@ -625,7 +625,7 @@
 	},
 	{
 		"name": "National Epic",
-		"cost": 50,
+		"cost": 25,
 		"culture": 4,
 		"greatPersonPoints": {"Great Artist": 2},
 		"isNationalWonder": true,
@@ -707,7 +707,7 @@
 	},
 	{
 		"name": "Heroic Epic",
-		"cost": 50,
+		"cost": 25,
 		"culture": 1,
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
@@ -760,7 +760,7 @@
 	},
 	{
 		"name": "Grand Temple",
-		"cost": 50,
+		"cost": 25,
 		"culture": 1,
 		"faith": 3,
 		"greatPersonPoints": {"Great Artist": 2},
@@ -822,7 +822,7 @@
 	},
 	{
 		"name": "National Treasury",
-		"cost": 50,
+		"cost": 25,
 		"culture": 1,
 		"gold": 3,
 		"percentStatBonus": {"gold": 25},
@@ -999,7 +999,7 @@
 	},
 	{
 		"name": "Ironworks",
-		"cost": 50,
+		"cost": 25,
 		"percentStatBonus": {"production": 25},
 		"culture": 1,
 		"production": 3,
@@ -1185,7 +1185,7 @@
 	},
 	{
 		"name": "Hermitage",
-		"cost": 50,
+		"cost": 25,
 		"culture": 4,
 		"percentStatBonus": {"culture": 25},
 		"greatPersonPoints": {"Great Artist": 2},

@@ -39,6 +39,12 @@
         "uniques": ["Gain [50]-[150] [Gold]"],
         "color": "#ffeb7f"
     },
+	{
+        "name": "discover a lost technology",
+        "notification": "We have discovered the lost technology of [techName] in the ruins!",
+        "uniques": ["[1] free random researchable Tech(s) from the [Prehistoric era]"],
+		"color": "#7f7fff"
+    },
     {
         "name": "discover a lost technology",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
@@ -53,17 +59,17 @@
     {
         "name": "reveal nearby Barbarian camps",
         "notification": "You find evidence of Barbarian activity. Nearby Barbarian camps are revealed!",
-        "uniques": ["Reveal up to [All] [Barbarian encampment] within a [10] tile radius"]
+        "uniques": ["Reveal up to [All] [Barbarian encampment] within a [8] tile radius"]
     },
      {
         "name": "reveal nearby City centres",
         "notification": "You find evidence of other inhabited communities. Nearby City centers are revealed!",
-        "uniques": ["Reveal up to [All] [City center] within a [10] tile radius"]
+        "uniques": ["Reveal up to [All] [City center] within a [8] tile radius"]
     },
     {
         "name": "find a crudely-drawn map",
         "notification": "We have found a crudely-drawn map in the ruins!",
-        "uniques": ["From a randomly chosen tile [5] tiles away from the ruins, reveal tiles up to [3] tiles away with [80]% chance"]
+        "uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [50]% chance"]
     },
     {
         "name": "discover holy symbols",
@@ -74,7 +80,7 @@
     {
         "name": "an ancient prophecy",
         "notification": "We have found an ancient prophecy in the ruins, greatly increasing our spiritual connection! (+[faithAmount] Faith)",
-        "uniques": ["Only available <when religion is enabled>", "Gain enough Faith for [33]% of a Great Prophet", "Unavailable <after generating a Great Prophet>"],
+        "uniques": ["Only available <when religion is enabled>", "Gain enough Faith for [25]% of a Great Prophet", "Unavailable <after generating a Great Prophet>"],
 		"color": "#CDDDF4"
     }
 ]

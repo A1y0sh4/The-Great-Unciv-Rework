@@ -335,7 +335,7 @@
 		"cityHealth": 10,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["[-33]% Culture cost of natural border growth [in this city]", "[-33]% Gold cost of acquiring tiles [in this city]",
+		"uniques": ["[-25]% Culture cost of natural border growth [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]",
 			"New [{Land} {Military}] units start with [15] XP [in this city]", "[+1] Unit Supply", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
@@ -344,7 +344,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
-		"uniques": ["[+15]% Strength <for [Military] units> <vs cities> <when attacking>", "Gain a free [Barracks] [in this city]", "[1] free [Spearman] units appear", "[+15]% Production when constructing [Military] units [in this city]"],
+		"uniques": ["[+15]% Strength <for [Military] units> <vs cities>", "Gain a free [Barracks] [in this city]", "[1] free [Spearman] units appear", "[+15]% Production when constructing [Military] units [in this city]"],
 		"requiredTech": "Bronze Working",
 		"quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad",
 	},
@@ -1515,7 +1515,7 @@
 		"isWonder": true,
 		"culture": 4,
 		"greatPersonPoints": {"Great Scientist": 4},
-		"uniques": ["[-33]% Gold cost of upgrading <for [Military] units>", "[+2 Production, +3 Science] from every [Military Base]", "Gain a free [Military Base] [in all cities]"],
+		"uniques": ["[-25]% Gold cost of upgrading <for [Military] units>", "[+2 Production, +3 Science] from every [Military Base]", "Gain a free [Military Base] [in all cities]"],
 		"requiredTech": "Combined Arms",
 		"quote": "'In preparing for battle I have always found that plans are useless, but planning is indispensable.' - Dwight D. Eisenhower"
 	},

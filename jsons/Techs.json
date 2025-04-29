@@ -296,14 +296,14 @@
 			{
 				"name": "Machinery",
 				"row": 8,
-				"prerequisites": ["Guilds"],
+				"prerequisites": ["Guilds","Metal Casting"],
 				"uniques": ["Improves movement speed on roads"],
 				"quote": "'The press is the best instrument for enlightening the mind of man, and improving him as a rational, moral and social being.' - Thomas Jefferson"
 			},
 			{
 				"name": "Physics",
 				"row": 9,
-				"prerequisites": ["Metal Casting"],
+				"prerequisites": ["Guilds","Metal Casting"],
 				"quote": "'Measure what is measurable, and make measurable what is not so.' - Galileo Galilei"
 			},
 			{

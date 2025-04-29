@@ -255,7 +255,7 @@
 			{
 				"name": "Guilds",
 				"row": 7,
-				"prerequisites": ["Currency","Engineering"],
+				"prerequisites": ["Currency","Engineering","Imperial Games"],
 				"uniques": ["Enables conversion of city production to [Gold]"],
 				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
 			},

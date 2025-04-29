@@ -2261,8 +2261,8 @@
 		"innerColor": [116,55,25],
 		
 		"uniqueName": "Iklwa",
-		"uniqueText": "Sword units gain 50% more XP, cost 50% less maintenance, have -33% upgrading cost and heal an additional +5 HP when healing",
-		"uniques": ["[+50]% XP gained from combat <for [Sword] units>", "[-50]% maintenance costs <for [Sword] units>", "[+5] HP when healing <for [Sword] units>", "[-33]% Gold cost of upgrading <for [Sword] units>"],
+		"uniqueText": "Sword units gain 50% more XP, cost 50% less maintenance, have -25% upgrading cost and heal an additional +5 HP when healing",
+		"uniques": ["[+50]% XP gained from combat <for [Sword] units>", "[-50]% maintenance costs <for [Sword] units>", "[+5] HP when healing <for [Sword] units>", "[-25]% Gold cost of upgrading <for [Sword] units>"],
 		"cities": ["Ulundi","Umgungundlovu","Bulawayo","KwaDukuza","Nongoma","oNdini","Nodwengu","Ndonakusuka","Babanango","Khangela",
 			"KwaHlomendlini","Hlobane","eThekwini","Mlambongwenya","Eziqwaqweni","Isiphezi","Masotsheni","Mtunzini","Nyakamubi","Dumazulu",
 			"Hlatikulu","Mthonjaneni","Empangeni","Pongola","Tugela","Kwamashu","Ingwavuma","Hlulhluwe","Matubatuba","Mhlahlandlela",

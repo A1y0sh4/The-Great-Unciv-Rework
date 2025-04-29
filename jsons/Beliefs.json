@@ -131,7 +131,7 @@
     {
         "name": "Sacred Frontiers",
         "type": "Pantheon",
-        "uniques": ["[-25]% Culture cost of natural border growth [in this city]", "[+15]% Strength <vs [Barbarian] units> <when fighting in [Friendly Land] tiles>"]
+        "uniques": ["[-25]% Culture cost of natural border growth [in this city]", "[+10]% Strength <vs [Barbarian] units> <when fighting in [Friendly Land] tiles>"]
     },
     {
         "name": "Sacred Path",

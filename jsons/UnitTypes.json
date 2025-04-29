@@ -42,7 +42,7 @@
     {
         "name": "Scout",
         "movementType": "Land",
-        "uniques": ["Transfer Movement to [Great General]",
+        "uniques": ["Transfer Movement to [Great General]", "Can see invisible [Land] units",
         "[-10]% Strength <when fighting in [Desert] tiles>",
 	"[-10]% Strength <when fighting in [Tundra] tiles>",
 	"[-10]% Strength <when fighting in [Snow] tiles>",]

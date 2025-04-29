@@ -533,14 +533,14 @@
 		"techs": [
 			{
 				"name": "Plastics",
-				"row": 3,
+				"row": 2,
 				"prerequisites": ["Radio","Replaceable Parts","Refrigeration"],
 				"quote": "'Ben, I want to say one word to you, just one word: plastics.' - Buck Henry and Calder Willingham, The Graduate"
 			},
 			{
 				"name": "Electronics",
-				"row": 5,
-				"prerequisites": ["Replaceable Parts", "Flight"],
+				"row": 4,
+				"prerequisites": ["Replaceable Parts", "Flight", "Radio"],
 				"uniques": ["[+1 Science, +1 Gold] from every [Strategic resource]"],
 				"quote": "'There's a basic principle about consumer electronics: it gets more powerful all the time and it gets cheaper all the time.' - Trip Hawkins"
 			},
@@ -569,7 +569,7 @@
 			{
 				"name": "Pharmaceuticals",
 				"row": 2,
-				"prerequisites": ["Plastics","Refrigeration"], 
+				"prerequisites": ["Plastics"], 
 				"uniques": ["[+1 Science] per [4] population [in all cities]"],
 				"quote": "'In nothing do men more nearly approach the gods than in giving health to men.' - Cicero"
 			},

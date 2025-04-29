@@ -131,7 +131,7 @@
     {
         "name": "Sacred Frontiers",
         "type": "Pantheon",
-        "uniques": ["[-25]% Culture cost of natural border growth [in this city]"]
+        "uniques": ["[-25]% Culture cost of natural border growth [in this city]", "[+15]% Strength <vs [Barbarian] units> <when fighting in [Friendly Land] tiles>"]
     },
     {
         "name": "Sacred Path",
@@ -252,7 +252,7 @@
     {
         "name": "Divine Spark",
         "type": "Follower",
-        "uniques": ["[+33]% Great Person generation [in this city]"]
+        "uniques": ["[+25]% Great Person generation [in this city]"]
     },
     {
         "name": "Feed the World",

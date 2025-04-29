@@ -290,7 +290,7 @@
 		"strength": 12,
 		"rangedStrength": 12,
 		"requiredTech": "Shipbuilding",
-		"uniques": ["Cannot enter ocean tiles", "[+33]% Strength <vs [Military] units> <in [Water] tiles>"],
+		"uniques": ["Cannot enter ocean tiles", "[+25]% Strength <vs [Military] units> <in [Water] tiles>"],
 		"upgradesTo": "Galleass",
 		"obsoleteTech": "Compass",
 		"attackSound": "arrow"
@@ -318,7 +318,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Horseman",
 		"obsoleteTech": "Horseback Riding",
-		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-25]% Strength <vs cities> <when attacking>"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -334,7 +334,7 @@
 		"requiredTech": "The Wheel",
 		"obsoleteTech": "Chivalry",
 		"upgradesTo": "Horseman",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-25]% Strength <vs cities> <when attacking>"],
 		"attackSound": "arrow"
 	},
 	{
@@ -351,7 +351,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Horseman",
 		"obsoleteTech": "Horseback Riding",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[+15]% Strength <when attacking> <while the empire is happy>", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[+15]% Strength <when attacking> <while the empire is happy>", "[-25]% Strength <vs cities> <when attacking>"],
 		"attackSound": "arrow"
 	},
 	{
@@ -366,7 +366,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Horseman",
 		"obsoleteTech": "Horseback Riding",
-		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "Ignores Zone of Control", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-25]% Strength <vs cities> <when attacking>"],
 		"promotions": ["[Heavy Chariot] ability"],
 		"attackSound": "metalhit"
 	},
@@ -383,7 +383,7 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Free [Horse Archer] appears <upon defeating a [Barbarian] unit> <with [33]% chance> <hidden from users>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Free [Horse Archer] appears <upon defeating a [Barbarian] unit> <with [25]% chance> <hidden from users>"],
 		"attackSound": "arrow"
 	},
 	{
@@ -399,7 +399,7 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-10]% Strength for enemy [Military] units in adjacent [Land] tiles", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-10]% Strength for enemy [Military] units in adjacent [Land] tiles", "[-25]% Strength <vs cities> <when attacking>"],
 		"attackSound": "elephant"
 	},
 	{
@@ -435,11 +435,11 @@
 		"uniqueTo": "Greece",
 		"cost": 46,
 		"movement": 2,
-		"strength": 10,
+		"strength": 11,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+20]% Strength <when adjacent to a [Hoplite] unit>", "Comment [Gain triple the normal amount of Influence when gifted to a City-State]", "No defensive terrain bonus"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+15]% Strength <when adjacent to a [Hoplite] unit>", "Comment [Gain triple the normal amount of Influence when gifted to a City-State]", "No defensive terrain bonus"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -449,7 +449,7 @@
 		"uniqueTo": "Macedonia",
 		"cost": 46,
 		"movement": 2,
-		"strength": 11,
+		"strength": 10,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
@@ -511,7 +511,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-25]% Strength <vs cities> <when attacking>"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
@@ -528,7 +528,7 @@
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
 		"promotions": ["Great Generals I"],
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+33]% Strength when stacked with [Great General]", "Heals [20] damage if it kills a unit"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>", "[+25]% Strength when stacked with [Great General]"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
@@ -544,7 +544,7 @@
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"promotions": ["Great Generals II"],
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>",
 			"[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"],
 		"hurryCostModifier": 20,
 		"attackSound": "elephant"
@@ -561,7 +561,7 @@
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
-		"uniques": ["[-33]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "Can remove other religions from cities <in [Friendly] tiles> <once>", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "Religious Unit"],
+		"uniques": ["[-25]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "Can remove other religions from cities <in [Friendly] tiles> <once>", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "Religious Unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
@@ -577,7 +577,7 @@
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "Double movement in [Hill]", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
+		"uniques": ["Can move after attacking", "[-25]% Strength <vs cities> <when attacking>", "Double movement in [Hill]", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
@@ -739,7 +739,7 @@
 		"cost": 107,
 		"requiredTech": "Military Tactics",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"],
 		"promotions": ["[Druzhina] ability"],
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Gunpowder",
@@ -799,7 +799,7 @@
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Lancer",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	},
 	{
@@ -844,7 +844,7 @@
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Lancer",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-10]% Strength for enemy [Military] units in adjacent [Land] tiles", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-10]% Strength for enemy [Military] units in adjacent [Land] tiles", "[-25]% Strength <vs cities> <when attacking>"],
 		"attackSound": "elephant"
 	}
         {
@@ -936,7 +936,7 @@
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-10]% Strength for enemy [Military] units in adjacent [Land] tiles", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-10]% Strength for enemy [Military] units in adjacent [Land] tiles", "[-25]% Strength <vs cities> <when attacking>"],
 		"attackSound": "elephant"
 	},
 	{
@@ -1208,7 +1208,7 @@
 		"cost": 248,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"promotions": [],
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
@@ -1224,7 +1224,7 @@
 		"cost": 248,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"],
 		"promotions": ["[Sipahi] ability"],
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
@@ -1240,7 +1240,7 @@
 		"cost": 248,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"],
 		"promotions": ["Charge"],
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
@@ -1256,7 +1256,7 @@
 		"cost": 306,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+50]% Strength <when attacking>"],
+		"uniques": ["No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>", "[+50]% Strength <when attacking>"],
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
 		"attackSound": "horse"
@@ -1271,7 +1271,7 @@
 		"cost": 200,
 		"requiredTech": "Gunpowder",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "No movement cost to pillage", "Ignores Zone of Control"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>", "No movement cost to pillage"],
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
 		"attackSound": "horse"
@@ -1288,7 +1288,7 @@
 		"obsoleteTech": "Military Science",
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Founds a new city <once> <for [1] movement>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>", "Founds a new city <once> <for [1] movement>"],
 		"promotions": ["[Cossack] ability", "Mercenary"],
 		"attackSound": "horse"
 	},
@@ -1372,7 +1372,7 @@
 		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-25]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	},
 	{
@@ -1387,7 +1387,7 @@
 		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+1] Sight"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>", "[+1] Sight"],
 		"promotions": ["[Hussar] ability"],
 		"attackSound": "horse"
 	},
@@ -1397,13 +1397,13 @@
 		"uniqueTo": "Argentina",
 		"unitType": "Mounted",
 		"movement": 4,
-		"strength": 32,
+		"strength": 30,
 		"cost": 266,
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",
 		"upgradesTo": "Landship",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Ignores Zone of Control", "Withdraws before melee combat <with [50]% chance>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>", "Withdraws before melee combat <with [50]% chance>"],
 		"attackSound": "horse"
 	},
 	{
@@ -1418,7 +1418,7 @@
 		"obsoleteTech": "Combustion",
 		"upgradesTo": "Landship",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+25]% Strength <when fighting in [Friendly Land] tiles>", "[+50]% Strength <when fighting in [Desert] tiles>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>", "[+25]% Strength <when fighting in [Friendly Land] tiles>", "[+50]% Strength <when fighting in [Desert] tiles>"],
 		"attackSound": "horse"
 	},
 	{
@@ -1427,26 +1427,26 @@
 		"uniqueTo": "Gran Colombia",
 		"unitType": "Mounted",
 		"movement": 4,
-		"strength": 32,
+		"strength": 30,
 		"cost": 266,
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",
 		"upgradesTo": "Landship",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[-50]% maintenance costs", "[+10]% Strength <when adjacent to a [Llanero] unit>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>", "[-50]% maintenance costs", "[+10]% Strength <when adjacent to a [Llanero] unit>"],
 		"attackSound": "horse"
 	},
 	{
 		"name": "Ironclad",
 		"unitType": "Melee Water",
-		"movement": 3,
+		"movement": 2,
 		"strength": 32,
 		"cost": 436,
 		"requiredTech": "Steam Power",
 		"requiredResource": "Coal",
 		"upgradesTo": "Destroyer",
 		"obsoleteTech": "Combustion",
-		"uniques": ["[+33]% Strength <vs cities>", "Double movement in [Coast]", "Never appears as a Barbarian unit"],
+		"uniques": ["[+25]% Strength <vs cities>", "Double movement in [Coast]", "Never appears as a Barbarian unit"],
 		"attackSound": "shipguns"
 	},
 	{
@@ -1601,7 +1601,7 @@
 		"strength": 55,
 		"cost": 765,
 		"requiredTech": "Plastics",
-		"uniques": ["[+33]% Strength <vs [Barbarian] units>", "[+33]% Strength <in [Rough terrain] tiles>"],
+		"uniques": ["[+20]% Strength <vs [Barbarian] units>", "[+20]% Strength <in [Rough terrain] tiles>"],
 		"promotions": ["Woodsman"],
 		"upgradesTo": "Spec Ops",
 		"obsoleteTech": "Mobile Tactics",
@@ -1669,7 +1669,7 @@
 		"requiredResource": "Oil",
 		"upgradesTo": "Tank",
 		"obsoleteTech": "Combined Arms",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit", "Destroys tile improvements when attacking", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit", "Destroys tile improvements when attacking", "[-25]% Strength <vs cities> <when attacking>"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -1682,7 +1682,7 @@
 		"requiredResource": "Oil",
 		"requiredTech": "Combustion",
 		"uniques": ["Can see invisible [Submarine] units", "[50]% chance to intercept air attacks",
-			"Withdraws before melee combat <with [67]% chance>", "[+100]% Strength <vs [Submarine] units>", "Never appears as a Barbarian unit", "Destroys tile improvements when attacking"],
+			"Withdraws before melee combat <with [50]% chance>", "[+100]% Strength <vs [Submarine] units>", "Never appears as a Barbarian unit", "Destroys tile improvements when attacking"],
 		"attackSound": "shipguns"
 	},
 
@@ -1788,7 +1788,7 @@
 		"obsoleteTech": "Lasers",
 		"requiredResource": "Oil",
 		"upgradesTo": "Modern Armor",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Destroys tile improvements when attacking", "Never appears as a Barbarian unit", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Destroys tile improvements when attacking", "Never appears as a Barbarian unit", "[-25]% Strength <vs cities> <when attacking>"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -1804,7 +1804,7 @@
 		"requiredResource": "Oil",
 		"promotions" : ["Mobility"],
 		"upgradesTo": "Modern Armor",
-		"uniques": ["Can move after attacking", "Destroys tile improvements when attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "Destroys tile improvements when attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -1817,7 +1817,7 @@
 		"cost": 619,
 		"requiredTech": "Combined Arms",
 		"upgradesTo": "Modern Armor",
-		"uniques": ["Can move after attacking", "Destroys tile improvements when attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "Destroys tile improvements when attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -1989,7 +1989,7 @@
 		"requiredTech": "Lasers",
 		"requiredResource": "Aluminum",
 		"upgradesTo": "Giant Death Robot",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Destroys tile improvements when attacking", "Never appears as a Barbarian unit", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Destroys tile improvements when attacking", "Never appears as a Barbarian unit", "[-25]% Strength <vs cities> <when attacking>"],
 		"attackSound": "tankshot"
 	},
 	{

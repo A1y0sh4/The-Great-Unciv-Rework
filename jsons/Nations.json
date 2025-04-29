@@ -1570,8 +1570,8 @@
 		"innerColor": [244,232,54],
 		
 		"uniqueName": "Achaemenid Legacy",
-		"uniqueText": "All units gain +1 Movement point, +10% Strength and +50% XP during a Golden Age\nGolden Ages last 50% longer",
-		"uniques": ["[+1] Movement <for [All] units> <during a Golden Age>", "[+10]% Strength <for [All] units> <during a Golden Age>", "[+50]% XP gained from combat <for [All] units> <during a Golden Age>", "[+50]% Golden Age length"],
+		"uniqueText": "All units gain +1 Movement point, +10% Strength and +25% XP during a Golden Age\nGolden Ages last 50% longer",
+		"uniques": ["[+1] Movement <for [All] units> <during a Golden Age>", "[+10]% Strength <for [All] units> <during a Golden Age>", "[+25]% XP gained from combat <for [All] units> <during a Golden Age>", "[+50]% Golden Age length"],
 		"cities": ["Persepolis","Susa","Ecbatana","Ekatompylos","Bactra","Gaugamela","Tarsus","Gordium","Sardis","Ergili","Dariushkabir",
 			"Ghulaman","Zohak","Istakhr","Jinjan","Borazjan","Herat","Dakyanus","Bampur","Turengtepe","Rey","Parsagadae","Shiraz",
 			"Thuspa","Hasanlu","Gabae","Merv","Behistun","Kandahar","Altintepe","Bunyan","Charsadda","Uratyube",

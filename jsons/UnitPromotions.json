@@ -133,7 +133,7 @@
 	{
 		"name": "Charge",
 		"prerequisites": ["Shock II","Drill II"],
-		"uniques": ["[+33]% Strength <vs [Wounded] units>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["[+25]% Strength <vs [Wounded] units>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Mounted","Armored"],
         "column": 6,
         "row": 2
@@ -791,7 +791,7 @@
 	},
 	{
 		"name": "Home Sweet Home", // only for Mehal Sefari and subsequent upgrades
-		"uniques": ["[+33]% Strength decreasing with distance from the capital", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+		"uniques": ["[+25]% Strength decreasing with distance from the capital", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
 	{
 		"name": "[Mohawk Warrior] ability",
@@ -815,11 +815,11 @@
 	},
 	{
 		"name": "[Janissary] ability",
-		"uniques": ["Heals [33] damage if it kills a unit", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+		"uniques": ["Heals [25] damage if it kills a unit", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
 	{
 		"name": "[Sipahi] ability",
-		"uniques": ["No movement cost to pillage", "Ignores Zone of Control", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+		"uniques": ["No movement cost to pillage", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
 	{
 		"name": "[Asafo] ability",
@@ -827,11 +827,11 @@
 	},
 	{
 		"name": "[Cossack] ability",
-		"uniques": ["Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>", "[+1] Movement", "Ignores Zone of Control", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+		"uniques": ["Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>", "[+1] Movement", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
 	{
 		"name": "[Hussar] ability",
-		"uniques": ["[+50]% to Flank Attack bonuses", "Ignores Zone of Control", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+		"uniques": ["[+50]% to Flank Attack bonuses", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
 	{
 		"name": "[Zero] ability",
@@ -887,7 +887,7 @@
     },
 	{
 		"name": "[Privateer] ability",
-		"uniques": ["May capture killed [Water] units <with [70]% chance>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+		"uniques": ["May capture killed [Water] units <with [75]% chance>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
 	{
 		"name": "Epic Quest Unique",
@@ -895,7 +895,7 @@
 	},
 	{
 		"name": "[Heavy Chariot] ability",
-		"uniques": ["[+20]% Strength <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+		"uniques": ["[+25]% Strength <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
 	{
 		"name": "Blessing of the Idols",
@@ -903,7 +903,7 @@
 	},
 	{
 		"name": "Civilized",
-		"uniques": ["[+20]% Strength <vs [Barbarian] units>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"] 
+		"uniques": ["[+25]% Strength <vs [Barbarian] units>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"] 
 	},
 	{
 		"name": "Organized Warfare Unique",
@@ -911,7 +911,7 @@
 	},
 	{
 		"name": "[Carolean] ability",
-		"uniques": ["[+33]% Strength <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"] 
+		"uniques": ["[+25]% Strength <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"] 
 	},
 	{
 		"name": "To the World's End",

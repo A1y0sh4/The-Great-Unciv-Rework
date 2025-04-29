@@ -684,17 +684,17 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"uniques": ["Must have an owned [Desert] within [1] tiles", "[+1 Production, +1 Gold] from [Desert] tiles without [Flood plains] [in this city]", "[+6 Culture] [in this city] <after discovering [Archaeology]>"],
-		"requiredTech": "Mathematics",
+		"requiredTech": "Horseback Riding",
 		"quote": "'...who drinks the water I shall give him, says the Lord, will have a spring inside him welling up for eternal life. Let them bring me to your holy mountain in the place where you dwell. Across the desert and through the mountain to the Canyon of the Crescent Moon...' - Indiana Jones"
 	},
-{
+        {
 		"name": "Mausoleum of Halicarnassus",
 		"culture": 2,
 		"greatPersonPoints": {"Great Merchant": 2},
 		"isWonder": true,
 		"uniques": ["Gain [100] [Gold] <(modified by game speed)>", "Gain [100] [Gold] <upon expending a [Great Person] unit> <(modified by game speed)>", "Must be next to [Water]",
 			"Gain a free [Market] [in this city]"],
-		"requiredTech": "Currency",
+		"requiredTech": "Mathematics",
 		"quote": "'The whole earth is the tomb of heroic men and their story is not given only on stone over their clay but abides everywhere without visible symbol woven into the stuff of other men's lives.' - Pericles"
 	},
 	{

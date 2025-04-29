@@ -587,8 +587,8 @@
 		"innerColor": [97, 191, 34],
 		
 		"uniqueName": "Nîhithaw",
-		"uniqueText": "Upon building Camps and Pastures, gain control of their surrounding tiles\nGain 50% more yield from Golden Age bonuses",
-		"uniques": ["[+10]% [Production] [in all cities] <during a Golden Age>", "[+10]% [Culture] [in all cities] <during a Golden Age>", "[+10]% [Science] [in all cities] <during a Golden Age> <after adopting [Scientific Revolution]>", "[-5]% Unhappiness from [Population] [in all cities] <during a Golden Age> <after discovering [Imperial Games]>"],
+		"uniqueText": "Upon building Camps and Pastures, gain control of their surrounding tiles\nGain 20% more yield from Golden Age bonuses",
+		"uniques": ["[+5]% [Production] [in all cities] <during a Golden Age>", "[+5]% [Culture] [in all cities] <during a Golden Age>", "[+5]% [Science] [in all cities] <during a Golden Age> <after adopting [Scientific Revolution]>", "[-2]% Unhappiness from [Population] [in all cities] <during a Golden Age>"],
 		"cities": ["Mikisiw-Wacîhk","Pihtokahanapiwiyin","Mistahi-Sipihk","Paskwaw-Askhik","Piyesiw-Awasis","Mistawasis","Makwa-Sakahikan","Ka-Peyakwaskonam","Ahtahkakoop","Wihkasko-Kiseyin",
 			"Chemawawin","Ka-kiwistahaw","Ka-ohpawakastahk","Kawacatoose","Kawawachikamach","Kinosew-Sakahikan","Maskotew","Missanabie","Moosomin","Natashquan","Nekaneet",
 			"Ochapowace","Okanese","Papewe","Peepeekisis","Posakanacihk","Tataskweyak","Wapi-maskwa","Waskahikanihk",
@@ -1253,8 +1253,8 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Renaissance Flower",
-		"uniqueText": "Empire enters a Golden Age upon constructing a World Wonder\n-33% [Production] when building World Wonders during a Golden Age",
-		"uniques": ["Empire enters golden age <upon constructing [World Wonder]>", "[-33]% Production when constructing [World Wonder] wonders [in all cities] <during a Golden Age>"],
+		"uniqueText": "Empire enters a Golden Age upon constructing a World Wonder\n-25% [Production] when building World Wonders during a Golden Age",
+		"uniques": ["Empire enters golden age <upon constructing [World Wonder]>", "[-25]% Production when constructing [World Wonder] wonders [in all cities] <during a Golden Age>"],
 		"cities": ["Rome", "Naples", "Milan", "Turin", "Florence", "Venice", "Genoa", "Bologna", "Palermo", "Modena", "Verona", "Brescia", "Vicenza", "Prato", "Bari", "Catania", "Parma", "Livorno", "Cagliari", "Foggia",
 			"Salerno", "Forlì", "Pisa", "Asti", "Messina", "Trieste", "Padua", "Siracusa", "Ferrara", "Novara",
 			"Rimini", "Taranto", "Perugia", "Latina", "Bergamo", "Pescara", "Monza", "Sassari", "Terni", "Vittoria"],

@@ -2060,8 +2060,8 @@
 		"innerColor": [77,2,4],
 		
 		"uniqueName": "Scourge of God",
-		"uniqueText": "Receive triple [Gold] from Barbarian encampments and pillaging cities\nMay recruit a military land unit upon killing a Barbarian (with 33% chance)",
-		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "When defeating a [{Barbarian} {Land}] unit, earn [0] Gold and recruit it <with [33]% chance>"],
+		"uniqueText": "Receive triple [Gold] from Barbarian encampments and pillaging cities\nMay recruit a military land unit upon killing a Barbarian (with 25% chance)",
+		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "When defeating a [{Barbarian} {Land}] unit, earn [5] Gold and recruit it <with [25]% chance>"],
 		"cities": ["Etzelburg", "Szeged", "Esztergom", "Buda", "Pécs", "Eger", "Székesfehérvár", "Győr", "Kőszeg", "Diósgyőr", "Mohács", "Tata", "Kecskemét", "Szombathely", "Sárvár", "Sopron", "Hódmezővásárhely", "Sümeg"],
 		"spyNames": ["Balamber", "Uldin", "Donatus", "Charato", "Octar", "Bleda", "Ellac", "Dengizik", "Hildico", "Gudrun"]
 	},

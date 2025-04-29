@@ -3,8 +3,8 @@
 		"columnNumber": 0,
 		"era": "Prehistoric era",
 		"techCost": 12,
-		"buildingCost": 18,
-		"wonderCost": 41,
+		"buildingCost": 14,
+		"wonderCost": 31,
 		"techs": [
 			{
 				"name": "Foraging",
@@ -17,8 +17,8 @@
 		"columnNumber": 1,
 		"era": "Prehistoric era",
 		"techCost": 20,
-		"buildingCost": 24,
-		"wonderCost": 54,
+		"buildingCost": 18,
+		"wonderCost": 41,
 		"techs": [
 			{
 				"name": "Agriculture",
@@ -40,8 +40,8 @@
 		"columnNumber": 2,
 		"era": "Ancient era",
 		"techCost": 32,
-		"buildingCost": 32,
-		"wonderCost": 72,
+		"buildingCost": 24,
+		"wonderCost": 55,
 		"techs": [
 			{
 				"name": "Sailing",
@@ -82,8 +82,8 @@
 		"columnNumber": 3,
 		"era": "Ancient era",
 		"techCost": 52,
-		"buildingCost": 43,
-		"wonderCost": 96,
+		"buildingCost": 32,
+		"wonderCost": 72,
 		"techs": [
 			{
 				"name": "Optics",
@@ -136,8 +136,8 @@
 		"columnNumber": 4,
 		"era": "Classical era",
 		"techCost": 85,
-		"buildingCost": 57,
-		"wonderCost": 127,
+		"buildingCost": 43,
+		"wonderCost": 96,
 		"techs": [
 			{
 				"name": "Fermentation",
@@ -176,8 +176,8 @@
 		"columnNumber": 5,
 		"era": "Classical era",
 		"techCost": 137,
-		"buildingCost": 75,
-		"wonderCost": 168,
+		"buildingCost": 57,
+		"wonderCost": 127,
 		"techs": [
 			{
 				"name": "Shipbuilding",
@@ -228,8 +228,8 @@
 		"columnNumber": 6,
 		"era": "Medieval era",
 		"techCost": 222,
-		"buildingCost": 100,
-		"wonderCost": 223,
+		"buildingCost": 75,
+		"wonderCost": 168,
 		"techs": [
 			{
 				"name": "Compass",
@@ -270,8 +270,8 @@
 		"columnNumber": 7,
 		"era": "Medieval era",
 		"techCost": 359,
-		"buildingCost": 132,
-		"wonderCost": 295,
+		"buildingCost": 100,
+		"wonderCost": 223,
 		"techs": [
 			{
 				"name": "Education",
@@ -317,8 +317,8 @@
 		"columnNumber": 8,
 		"era": "Renaissance era",
 		"techCost": 581,
-		"buildingCost": 175,
-		"wonderCost": 391,
+		"buildingCost": 132,
+		"wonderCost": 295,
 		"techs": [
 			{
 				"name": "Astronomy",
@@ -359,8 +359,8 @@
 		"columnNumber": 9,
 		"era": "Renaissance era",
 		"techCost": 940,
-		"buildingCost": 232,
-		"wonderCost": 518,
+		"buildingCost": 175,
+		"wonderCost": 391,
 		"techs": [
 			{
 				"name": "Navigation",
@@ -399,8 +399,8 @@
 		"columnNumber": 10,
 		"era": "Industrial era",
 		"techCost": 1520,
-		"buildingCost": 307,
-		"wonderCost": 686,
+		"buildingCost": 232,
+		"wonderCost": 518,
 		"techs": [
 			{
 				"name": "Archaeology",
@@ -444,8 +444,8 @@
 		"columnNumber": 11,
 		"era": "Industrial era",
 		"techCost": 2460,
-		"buildingCost": 407,
-		"wonderCost": 909,
+		"buildingCost": 307,
+		"wonderCost": 686,
 		"techs": [
 			{
 				"name": "Biology",
@@ -479,8 +479,8 @@
 		"columnNumber": 12,
 		"era": "Modern era",
 		"techCost": 3980,
-		"buildingCost": 539,
-		"wonderCost": 1204,
+		"buildingCost": 407,
+		"wonderCost": 909,
 		"techs": [
 			{
 				"name": "Refrigeration",
@@ -521,8 +521,8 @@
 		"columnNumber": 13,
 		"era": "Modern era",
 		"techCost": 6440,
-		"buildingCost": 713,
-		"wonderCost": 1595,
+		"buildingCost": 539,
+		"wonderCost": 1204,
 		"techs": [
 			{
 				"name": "Plastics",
@@ -556,8 +556,8 @@
 		"columnNumber": 14,
 		"era": "Atomic era",
 		"techCost": 10420,
-		"buildingCost": 945,
-		"wonderCost": 2113,
+		"buildingCost": 713,
+		"wonderCost": 1595,
 		"techs": [
 			{
 				"name": "Pharmaceuticals",
@@ -593,8 +593,8 @@
 		"columnNumber": 15,
 		"era": "Atomic era",
 		"techCost": 16860,
-		"buildingCost": 1252,
-		"wonderCost": 2800,
+		"buildingCost": 945,
+		"wonderCost": 2113,
 		"techs": [
 			{
 				"name": "Ecology",
@@ -627,8 +627,8 @@
 		"columnNumber": 16,
 		"era": "Information era",
 		"techCost": 27280,
-		"buildingCost": 1659,
-		"wonderCost": 3709,
+		"buildingCost": 1252,
+		"wonderCost": 2800,
 		"techs": [
 			{
 				"name": "Telecommunications",
@@ -673,8 +673,8 @@
 		"columnNumber": 17,
 		"era": "Information era",
 		"techCost": 44140,
-		"buildingCost": 2197,
-		"wonderCost": 4913,
+		"buildingCost": 1659,
+		"wonderCost": 3709,
 		"techs": [
 			{
 				"name": "Particle Physics",
@@ -700,8 +700,8 @@
 		"columnNumber": 18,
 		"era": "Future era",
 		"techCost": 71420,
-		"buildingCost": 2911,
-		"wonderCost": 6508,
+		"buildingCost": 2197,
+		"wonderCost": 4913,
 		"techs": [
 			{
 				"name": "Nuclear Fusion",
@@ -721,8 +721,8 @@
 		"columnNumber": 19,
 		"era": "Future era",
 		"techCost": 115560,
-		"buildingCost": 3856,
-		"wonderCost": 8622,
+		"buildingCost": 2911,
+		"wonderCost": 6508,
 		"techs": [
 			{
 				"name": "Future Tech",

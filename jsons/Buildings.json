@@ -616,11 +616,11 @@
 		"uniqueTo": "Greece",
 		"culture": 2,
 		"specialistSlots": {"Artist": 1},
-		"greatPersonPoints": {"Great Scientist": 2},
+		"greatPersonPoints": {"Great Scientist": 1},
 		"requiredBuilding": "Monument",
 		"maintenance": 1,
 		"hurryCostModifier": 25,
-		"uniques": ["Resting point for Influence with City-States is increased by [5] <when not at war>", "[+1 Culture] <in [Hill] tiles>", "Destroyed when the city is captured"],
+		"uniques": ["Resting point for Influence with City-States is increased by [5] <when not at war>", "[+1 Culture, +1 Science] <in [Hill] tiles>", "Destroyed when the city is captured"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{
@@ -662,7 +662,6 @@
 		"name": "Satrap's Court",
 		"replaces": "Market",
 		"uniqueTo": "Persia",
-		"cost": 46,
 		"specialistSlots": {"Merchant": 1},
 		"happiness": 2,
 		"uniques": ["[+1 Gold] from [Resource] tiles [in this city]", "[+2 Culture] <during a Golden Age>"],

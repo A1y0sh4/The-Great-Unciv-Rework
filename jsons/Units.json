@@ -2049,7 +2049,7 @@
 	{
 		"name": "Great Artist",
 		"unitType": "Civilian",
-		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>", "Can instantly construct a [Landmark] improvement <by consuming this unit>", "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
+		"uniques": ["Can generate a large amount of culture <by consuming this unit>", "Can instantly construct a [Landmark] improvement <by consuming this unit>", "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
 	{
@@ -2100,7 +2100,7 @@
 	{
 		"name": "Great General",
 		"unitType": "Civilian",
-		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>", "[+15]% Strength bonus for [Military] units within [2] tiles", "Can instantly construct a [Citadel] improvement <by consuming this unit>", "Comment [Gets transfered Movement from escorting unit]",
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles", "Can instantly construct a [Citadel] improvement <by consuming this unit>", "Comment [Gets transfered Movement from escorting unit]",
 			"Great Person - [War]", "Unbuildable", "Uncapturable", "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence <for [Kievan Rus'] Civilizations> <hidden from users>", "Founds a new puppet city <once> <for [1] movement> <for [Macedonia] Civilizations> <hidden from users>"],
 		"movement": 2
 	},
@@ -2109,7 +2109,7 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Mongolia",
 		"replaces": "Great General",
-		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>", "[+15]% Strength bonus for [Military] units within [2] tiles", "[+33]% Strength bonus for [Mounted] units within [2] tiles", "[+5] HP when healing", "All adjacent units heal [+5] HP when healing", "Comment [Gets transfered Movement from escorting unit]",
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles", "[+33]% Strength bonus for [Mounted] units within [2] tiles", "[+5] HP when healing", "All adjacent units heal [+5] HP when healing", "Comment [Gets transfered Movement from escorting unit]",
 			"Can instantly construct a [Citadel] improvement <by consuming this unit>", "Great Person - [War]", "Unbuildable", "Uncapturable", "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence <for [Kievan Rus'] Civilizations> <hidden from users>", "Founds a new city <once> <for [1] movement> <for [Macedonia] Civilizations> <hidden from users>"],
 		"movement": 5
 	},

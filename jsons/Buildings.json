@@ -247,7 +247,7 @@
 		"happiness": 2,
 		"culture": 1,
 		"maintenance": 1,
-		"uniques": ["[+100]% Great Person generation [in this city] <during a Golden Age>"],
+		"uniques": ["[+50]% Great Person generation [in this city] <during a Golden Age>"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Trapping"
 	},
@@ -256,7 +256,7 @@
 		"replaces": "Circus",
 		"uniqueTo": "Canada",
 		"happiness": 2,
-	        "maintenance": 1,
+	        "maintenance": 0,
 		"hurryCostModifier": 25,
 		"uniques": ["Must have an owned [Forest] within [2] tiles", "[+1 Food, +1 Gold] from [Forest] tiles [in this city]"],
 		"requiredTech": "Trapping"

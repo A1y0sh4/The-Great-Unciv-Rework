@@ -16,7 +16,7 @@
     "maxXPfromBarbarians": 45,
     "naturalWonderCountAddedConstant": 3,
     "riverCountMultiplier": 0.04142,
-    "cityStrengthBase": 6,
+    "cityStrengthBase": 4,
     "cityStrengthFromGarrison": 0.5,
     "maxSpyRank": 6,
     "spyRankSkillPercentBonus": 25,

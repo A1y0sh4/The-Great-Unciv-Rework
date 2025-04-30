@@ -660,7 +660,7 @@
 	// Mixed
 	{
 		"name": "Cover I",
-		"uniques": ["[+25]% Strength <vs [Ranged] units> <when defending>", "[+25]% Strength <vs [Ranged Water] units> <when defending> <hidden from users>", "[+25]% Strength <vs cities> <when defending> <hidden from users>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["[+25]% Strength <vs [Ranged] units> <when defending>", "[+25]% Strength <vs [Ranged Water] units> <when defending>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Scout","Melee Water","Ranged Water"],
         "column": 24,
         "row": 1
@@ -668,7 +668,7 @@
 	{
 		"name": "Cover II",
 		"prerequisites": ["Cover I"],
-		"uniques": ["[+25]% Strength <vs [Ranged] units> <when defending>", "[+25]% Strength <vs [Ranged Water] units> <when defending> <hidden from users>", "[+25]% Strength <vs cities> <when defending> <hidden from users>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["[+25]% Strength <vs [Ranged] units> <when defending>", "[+25]% Strength <vs [Ranged Water] units> <when defending>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Scout","Melee Water","Ranged Water"],
         "column": 24,
         "row": 2

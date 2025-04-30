@@ -34,6 +34,7 @@
     "cityStateElectionTurns": 16,
     "unitSupplyPerPopulation": 0.1,
     "cityStrengthPerPop": 0.5,
+    "baseCityBombardRange": 1,
     "cityStrengthFromTechsMultiplier": 5.828,
     "cityStrengthFromTechsExponent": 2.414,
     "unitUpgradeCost":{"base":20,"perProduction":0.5,"eraMultiplier":0.334,"exponent":1,"roundTo":5}

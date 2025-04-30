@@ -255,7 +255,6 @@
 				"name": "Guilds",
 				"row": 6,
 				"prerequisites": ["Currency","Engineering","Imperial Games"],
-				"uniques": ["Enables conversion of city production to [Gold]"],
 				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
 			},
 			{
@@ -284,7 +283,7 @@
 				"name": "Education",
 				"row": 2,
 				"prerequisites": ["Compass","Theology","Civil Service"],
-				"uniques": ["Enables conversion of city production to [Science]","Enables Research agreements"],
+				"uniques": ["Enables Research agreements"],
 				"quote": "'Education is the best provision for old age.' - Aristotle"
 			},
 			{
@@ -385,6 +384,7 @@
 				"name": "Economics",
 				"row": 6,
 				"prerequisites": ["Banking","Printing Press"],
+				"uniques": ["Enables conversion of city production to [Gold]"],
 				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
 			},
 			{
@@ -397,7 +397,7 @@
 				"name": "Chemistry",
 				"row": 10,
 				"prerequisites": ["Gunpowder"], 
-				"uniques": ["[+1 Science] from every [Strategic resource]", "[+1 Science] from every [Coral Reef]", "[+1 Science] from every [Kelp Forest]"],
+				"uniques": ["[+1 Science] from every [Strategic resource]", "[+1 Science] from every [Coral Reef]", "[+1 Science] from every [Kelp Forest]", "Enables conversion of city production to [Science]"],
 				"quote": "'Wherever we look, the work of the chemist has raised the level of our civilization and has increased the productive capacity of the nation.' - Calvin Coolidge"
 			}
 		]

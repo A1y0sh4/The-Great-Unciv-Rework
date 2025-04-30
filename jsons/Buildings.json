@@ -995,7 +995,7 @@
 		"greatPersonPoints": {"Great Engineer": 2},
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Workshop] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [25] per owned city"],
-		"requiredTech": "Mechanical Engineering"
+		"requiredTech": "Mechanics"
 	},
 	{
 		"name": "Notre Dame",
@@ -1111,7 +1111,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 2,
 		"uniques": ["Must not be on [Hill]"],
-		"requiredTech": "Mechanical Engineering"
+		"requiredTech": "Mechanics"
 	},
 	{
 		"name": "Plantation Estate",
@@ -1125,7 +1125,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 0,
 		"uniques": ["Must not be on [Hill]", "[+1 Gold] from [Plantation] tiles [in this city]"],
-		"requiredTech": "Mechanical Engineering"
+		"requiredTech": "Mechanics"
 	},
 	{
 		"name": "Bank",

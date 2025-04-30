@@ -405,7 +405,7 @@
 				"name": "Siege Tactics",
 				"row": 9,
 				"prerequisites": ["Printing Press","Gunpowder"],
-				"uniques": ["Enables conversion of city production to [Gold]"],
+				"uniques": ["[+15]% Strength <for [Gunpowder] units> <vs cities> <when attacking>", "Comment [+50% to Forts and Citadels defensive bonus]", "[+25]% Strength <for [Military] units> <when defending> <in [Fort] tiles> <hidden from users>", "[+50]% Strength <for [Military] units> <when defending> <in [Citadel] tiles> <hidden from users>"],
 				"quote": "'The lowest is to attack a city. Siege of a city is only done as a last resort.' - Sun Tzu"
 			},
 			{

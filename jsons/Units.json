@@ -26,7 +26,7 @@
 		"cost": 20,
 		"obsoleteTech": "Military Tactics",
 		"upgradesTo": "Skirmisher",
-		"uniques": ["May upgrade to [Warrior] through ruins-like effects", "Can transform to [Settler] <for [0] movement> <before discovering [Foraging]> <hidden from users>"],
+		"uniques": ["May upgrade to [Warrior] through ruins-like effects"],
 		"attackSound": "nonmetalhit"
 	},
 	{

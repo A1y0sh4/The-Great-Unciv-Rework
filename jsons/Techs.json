@@ -270,6 +270,7 @@
 				"name": "Metal Casting",
 				"row": 9,
 				"prerequisites": ["Engineering","Iron Working"],
+				"uniques": ["Improves movement speed on roads"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			}
 		]
@@ -304,7 +305,6 @@
 				"name": "Machinery",
 				"row": 8,
 				"prerequisites": ["Guilds","Metal Casting","Military Tactics"],
-				"uniques": ["Improves movement speed on roads"],
 				"quote": "'The press is the best instrument for enlightening the mind of man, and improving him as a rational, moral and social being.' - Thomas Jefferson"
 			},
 			{

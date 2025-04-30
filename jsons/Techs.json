@@ -9,7 +9,8 @@
 			{
 				"name": "Foraging",
 				"row": 5,
-				"quote": "'A foraging wild creature, intent above all upon survival, is as strong as the grass.' - Richard Adams"
+				"quote": "'A foraging wild creature, intent above all upon survival, is as strong as the grass.' - Richard Adams",
+				"uniques": ["Starting tech"]
 			}
 		]
 	},

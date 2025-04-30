@@ -42,13 +42,13 @@
 	{
         "name": "discover a lost technology",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["[1] free random researchable Tech(s) from the [Prehistoric era]"],
+        "uniques": ["[1] free random researchable Tech(s) from the [Prehistoric era]", "Only available <during the [Prehistoric era]>"],
 		"color": "#7f7fff"
     },
     {
         "name": "discover a lost technology",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["[1] free random researchable Tech(s) from the [Ancient era]"],
+        "uniques": ["[1] free random researchable Tech(s) from the [Ancient era]", "Only available <during the [Ancient era]>"],
 		"color": "#7f7fff"
     },
     {

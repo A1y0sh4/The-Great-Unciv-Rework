@@ -1103,6 +1103,31 @@
 		"quote": "'I live and love in God's peculiar light.' - Michelangelo Buonarroti"
 	},
 	{
+		"name": "Windmill",
+		"production": 2,
+		"food": 2,
+		"specialistSlots": {"Engineer": 1},
+		"requiredBuilding": "Workshop",
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"uniques": ["Must not be on [Hill]"],
+		"requiredTech": "Mechanical Engineering"
+	},
+	{
+		"name": "Plantation Estate",
+		"replaces": "Windmill",
+		"uniqueTo": "The Confederate States",
+		"requiredBuilding": "Workshop",
+		"production": 2,
+		"food": 3,
+		"requiredNearbyImprovedResources": ["Bananas", "Citrus", "Cocoa", "Coffee", "Cotton", "Grape", "Incense", "Silk", "Sugar", "Tobacco", "Olive", "Poppy", "Tea", "Maize"],
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"maintenance": 0,
+		"uniques": ["Must not be on [Hill]", "[+1 Gold] from [Plantation] tiles [in this city]"],
+		"requiredTech": "Mechanical Engineering"
+	},
+	{
 		"name": "Bank",
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 15,
@@ -1211,30 +1236,6 @@
 		"uniques": ["Gain a free [Opera House] [in this city]", "Provides the cheapest [Culture] building in your first [50] cities for free <hidden from users>", "Comment [Provides the cheapest available [Culture] building in all cities for free]"],
 		"requiredTech": "Architecture",
 		"quote": "'Bolshoi Ballet is a universe of the imagination, a place of magic and enchantment, beauty and romance. Its many worlds vibrate with graceful dancers, glorious music, and sumptuous costumes.' - Trudy Garfunkel"
-	},
-	{
-		"name": "Windmill",
-		"production": 2,
-		"specialistSlots": {"Engineer": 1},
-		"requiredBuilding": "Workshop",
-		"hurryCostModifier": 25,
-		"maintenance": 2,
-		"uniques": ["Must not be on [Hill]", "[+10]% Production when constructing [All] buildings [in this city]"],
-		"requiredTech": "Economics"
-	},
-	{
-		"name": "Plantation Estate",
-		"replaces": "Windmill",
-		"uniqueTo": "The Confederate States",
-		"requiredBuilding": "Workshop",
-		"production": 2,
-		"gold": 2,
-		"requiredNearbyImprovedResources": ["Bananas", "Citrus", "Cocoa", "Coffee", "Cotton", "Grape", "Incense", "Silk", "Sugar", "Tobacco", "Olive", "Poppy", "Tea", "Maize"],
-		"specialistSlots": {"Engineer": 1},
-		"hurryCostModifier": 25,
-		"maintenance": 0,
-		"uniques": ["Must not be on [Hill]", "[+1 Gold] from [Plantation] tiles [in this city]"],
-		"requiredTech": "Economics"
 	},
 	{
 		"name": "Arsenal",

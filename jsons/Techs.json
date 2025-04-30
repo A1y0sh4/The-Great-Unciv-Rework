@@ -398,8 +398,15 @@
 			{
 				"name": "Metallurgy",
 				"row": 8,
-				"prerequisites": ["Printing Press","Gunpowder"],
+				"prerequisites": ["Printing Press","Gunpowder","Banking"],
 				"quote": "'There never was a good knife made of bad steel.' - Benjamin Franklin"
+			},
+			{
+				"name": "Siege Tactics",
+				"row": 9,
+				"prerequisites": ["Printing Press","Gunpowder"],
+				"uniques": ["Enables conversion of city production to [Gold]"],
+				"quote": "'The lowest is to attack a city. Siege of a city is only done as a last resort.' - Sun Tzu"
 			},
 			{
 				"name": "Chemistry",

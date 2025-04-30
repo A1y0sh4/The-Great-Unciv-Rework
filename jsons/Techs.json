@@ -342,6 +342,12 @@
 				"quote": "'Their rising all at once was as the sound of thunder heard remote' - Milton"
 			},
 			{
+				"name": "Mechanical Engineering",
+				"row": 5,
+				"prerequisites": ["Education","Distillation","Chivalry","Machinery"],
+				"quote": "'Their rising all at once was as the sound of thunder heard remote' - Milton"
+			},
+			{
 				"name": "Banking", 
 				"row": 6,
 				"prerequisites": ["Chivalry", "Machinery","Distillation"],

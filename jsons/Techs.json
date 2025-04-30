@@ -256,6 +256,7 @@
 				"name": "Guilds",
 				"row": 6,
 				"prerequisites": ["Currency","Engineering","Imperial Games"],
+				"uniques": ["[+1 Culture] from every [Artist]", "[+1 Gold] from every [Merchant]", "[+1 Science] from every [Scientist]", "[+1 Production] from every [Engineer]"],
 				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
 			},
 			{

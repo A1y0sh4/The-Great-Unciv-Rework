@@ -390,20 +390,20 @@
 			},
 			{
 				"name": "Economics",
-				"row": 6,
+				"row": 5,
 				"prerequisites": ["Banking","Printing Press","Mechanical Engineering"],
 				"uniques": ["Enables conversion of city production to [Gold]"],
 				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
 			},
 			{
 				"name": "Metallurgy",
-				"row": 8,
+				"row": 7,
 				"prerequisites": ["Printing Press","Gunpowder","Banking"],
 				"quote": "'There never was a good knife made of bad steel.' - Benjamin Franklin"
 			},
 			{
 				"name": "Siege Tactics",
-				"row": 9,
+				"row": 8,
 				"prerequisites": ["Printing Press","Gunpowder"],
 				"uniques": ["[+15]% Strength <for [Gunpowder] units> <vs cities> <when attacking>", "Comment [+50% to Forts and Citadels defensive bonus]", "[+25]% Strength <for [Military] units> <when defending> <in [Fort] tiles> <hidden from users>", "[+50]% Strength <for [Military] units> <when defending> <in [Citadel] tiles> <hidden from users>"],
 				"quote": "'The lowest is to attack a city. Siege of a city is only done as a last resort.' - Sun Tzu"
@@ -445,13 +445,13 @@
 			{
 				"name": "Rifling",
 				"row": 7,
-				"prerequisites": ["Economics","Metallurgy","Chemistry"],
+				"prerequisites": ["Economics","Metallurgy","Siege Tactics"],
 				"quote": "'It is well that war is so terrible, or we should grow too fond of it.' - Robert E. Lee"
 			},
 			{
 				"name": "Military Science",
 				"row": 9,
-				"prerequisites": ["Metallurgy","Chemistry"],
+				"prerequisites": ["Metallurgy","Chemistry","Siege Tactics"],
 				"quote": "'Wars may be fought with weapons, but they are won by men. It is the spirit of the men who follow and of the man who leads that gains the victory.' - George S. Patton"
 			},
 			{

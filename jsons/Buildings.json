@@ -995,7 +995,7 @@
 		"greatPersonPoints": {"Great Engineer": 2},
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Workshop] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [25] per owned city"],
-		"requiredTech": "Steel"
+		"requiredTech": "Mechanical Engineering"
 	},
 	{
 		"name": "Notre Dame",
@@ -1022,7 +1022,7 @@
 		"maintenance": 1,
 		"requiredBuilding": "Barracks",
 		"uniques": ["New [{Land} {Military}] units start with [15] XP [in this city]", "[+1] Unit Supply", "Destroyed when the city is captured"],
-		"requiredTech": "Metal Casting"
+		"requiredTech": "Steel"
 	},
         {
 		"name": "Barbican",
@@ -1033,7 +1033,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Barracks",
 		"uniques": ["New [{Land} {Military}] units start with [15] XP [in this city]", "[+1 Gold] per [3] social policies adopted", "[+1] Unit Supply", "Destroyed when the city is captured"],
-		"requiredTech": "Metal Casting"
+		"requiredTech": "Steel"
 	},
 	{
 		"name": "Ikanda", 
@@ -1044,7 +1044,7 @@
                 "requiredBuilding": "Barracks",
 		"maintenance": 1,
 		"uniques": ["New [{Land} {Military}] units start with [15] XP [in this city]", "All newly-trained [Sword] units [in this city] receive the [Buffalo Horns I] promotion", "[+1] Unit Supply", "Destroyed when the city is captured"],
-		"requiredTech": "Metal Casting"
+		"requiredTech": "Steel"
 	},
 
 	// Renaissance Era

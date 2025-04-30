@@ -342,7 +342,7 @@
 				"quote": "'Their rising all at once was as the sound of thunder heard remote' - Milton"
 			},
 			{
-				"name": "Mechanical Engineering",
+				"name": "Mechanics",
 				"row": 5,
 				"prerequisites": ["Education","Distillation","Chivalry","Machinery"],
 				"quote": "'When you want to know how things really work, study them when they're coming apart.' - William Gibson"
@@ -351,7 +351,6 @@
 				"name": "Banking", 
 				"row": 6,
 				"prerequisites": ["Chivalry", "Machinery","Distillation"],
-				"uniques": [],
 				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
 			},
 			{
@@ -385,13 +384,13 @@
 			{
 				"name": "Architecture",
 				"row": 4,
-				"prerequisites": ["Acoustics","Banking","Mechanical Engineering"],
+				"prerequisites": ["Acoustics","Banking","Mechanics"],
 				"quote": "'Architecture begins where engineering ends.' - Walter Gropius"
 			},
 			{
 				"name": "Economics",
 				"row": 5,
-				"prerequisites": ["Banking","Printing Press","Mechanical Engineering"],
+				"prerequisites": ["Banking","Printing Press","Mechanics"],
 				"uniques": ["Enables conversion of city production to [Gold]"],
 				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
 			},

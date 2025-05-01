@@ -437,7 +437,7 @@
 			"[+1 Production] for each adjacent [Plantation] <after discovering [Steam Power]>",
 			"[+1 Food, +1 Gold] <after discovering [Replaceable Parts]>",
 			"Pillaging this improvement yields approximately [+13 Gold]"],
-		"techRequired": "Economics",
+		"techRequired": "Mechanics",
 		"shortcutKey": "H"
 	},
 	{

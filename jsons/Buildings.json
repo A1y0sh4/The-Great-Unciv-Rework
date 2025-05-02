@@ -1379,7 +1379,7 @@
 		"name": "Stock Exchange",
 		"specialistSlots": {"Merchant": 2},
 		"hurryCostModifier": 15,
-		"uniques": ["[+1 Gold] <for every [Remaining [All] Civilizations]>"],
+		"uniques": ["[+2 Gold] <for every [Remaining [Major] Civilizations]>", "[+1 Gold] <for every [Remaining [City-State] Civilizations]>"],
 		"requiredBuilding": "Bank",
 		"requiredTech": "Electricity"
 	},

@@ -1131,7 +1131,7 @@
 		"name": "Bank",
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 15,
-		"uniques": ["[+1 Gold] <for every [4] [Production]>"],
+		"uniques": ["[+1 Gold] <for every [10] [Production]>"],
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
 	},

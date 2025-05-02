@@ -1131,7 +1131,7 @@
 		"name": "Bank",
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 15,
-		"uniques": ["[+1 Gold] <for every [Remaining [All] Civilizations]>"],
+		"uniques": ["[+1 Gold] <for every [Production]>"],
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
 	},
@@ -1379,12 +1379,7 @@
 		"name": "Stock Exchange",
 		"specialistSlots": {"Merchant": 2},
 		"hurryCostModifier": 15,
-		"uniques": ["[+1 Gold] <for every [12] [Horses]>",
-		            "[+1 Gold] <for every [8] [Iron]>",
-		            "[+1 Gold] <for every [4] [Coal]>",
-		            "[+1 Gold] <for every [Oil]>",
-		            "[+2 Gold] <for every [Aluminum]>",
-		            "[+3 Gold] <for every [Uranium]>"],
+		"uniques": ["[+1 Gold] <for every [Remaining [All] Civilizations]>"],
 		"requiredBuilding": "Bank",
 		"requiredTech": "Electricity"
 	},

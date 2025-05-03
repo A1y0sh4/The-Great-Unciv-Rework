@@ -19,7 +19,7 @@
 		"production": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Archery",
-		"uniques": ["Improvement", "Unavailable <in [Jungle] tiles> <before discovering [Machinery]>", "[+1 Production] <after discovering [Scientific Theory]>", "Pillaging this improvement yields approximately [+13 Gold]"],
+		"uniques": ["Improvement", "Unavailable <in [Jungle] tiles> <before discovering [Machinery]>", "[+1 Production] <after discovering [Mechanics]>", "Pillaging this improvement yields approximately [+13 Gold]"],
 		"shortcutKey": "L"
 	},
 	{

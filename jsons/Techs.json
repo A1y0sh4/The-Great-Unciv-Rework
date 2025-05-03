@@ -345,7 +345,6 @@
 				"name": "Mechanics",
 				"row": 5,
 				"prerequisites": ["Education","Distillation","Chivalry","Machinery"],
-				"uniques": ["[+1 Production] [in all cities]"],
 				"quote": "'When you want to know how things really work, study them when they're coming apart.' - William Gibson"
 			},
 			{

@@ -286,7 +286,7 @@
 				"name": "Education",
 				"row": 2,
 				"prerequisites": ["Compass","Theology","Civil Service"],
-				"uniques": ["Enables Research agreements"],
+                                "uniques": ["Enables Research agreements"],
 				"quote": "'Education is the best provision for old age.' - Aristotle"
 			},
 			{

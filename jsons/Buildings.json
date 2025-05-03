@@ -285,7 +285,7 @@
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured", "Obsolete with [Rifling]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>"]
+		"uniques": ["Destroyed when the city is captured", "Unbuildable <after discovering [Rifling]> <hidden from users>", "Cannot be purchased <after discovering [Rifling]> <hidden from users>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>"]
 	},
 	{
 		"name": "Walls of Babylon",
@@ -297,7 +297,7 @@
 		"cityHealth": 50,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured", "Obsolete with [Rifling]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>"]
+		"uniques": ["Destroyed when the city is captured", "Unbuildable <after discovering [Rifling]> <hidden from users>", "Cannot be purchased <after discovering [Rifling]> <hidden from users>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>"]
 	},
 	{
 		"name": "Tsikhe",
@@ -308,7 +308,7 @@
 		"cityHealth": 40,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured", "Obsolete with [Rifling]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>"]
+		"uniques": ["Destroyed when the city is captured", "Unbuildable <after discovering [Rifling]> <hidden from users>", "Cannot be purchased <after discovering [Rifling]> <hidden from users>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>"]
 	},
         {
 		"name": "Great Wall",
@@ -928,7 +928,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
-		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured", "Obsolete with [Rifling]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>"]
+		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured", "Unbuildable <after discovering [Rifling]> <hidden from users>", "Cannot be purchased <after discovering [Rifling]> <hidden from users>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>"]
 	},
 	{
 		"name": "Mughal Fort",
@@ -939,7 +939,7 @@
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured", "Obsolete with [Rifling]", "[+2 Culture] <after discovering [Archaeology]>", "[+2 Culture, +2 Gold] <after discovering [Flight]>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>"],
+		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured", "Unbuildable <after discovering [Rifling]> <hidden from users>", "Cannot be purchased <after discovering [Rifling]> <hidden from users>", "[+2 Culture] <after discovering [Archaeology]>", "[+2 Culture, +2 Gold] <after discovering [Flight]>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>"],
 		"requiredTech": "Chivalry"
 	},
         {
@@ -951,7 +951,7 @@
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "[+1 Food] from [Desert] tiles [in this city]", "Destroyed when the city is captured", "Obsolete with [Rifling]", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>"],
+		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "[+1 Food] from [Desert] tiles [in this city]", "Destroyed when the city is captured", "Unbuildable <after discovering [Rifling]> <hidden from users>", "Cannot be purchased <after discovering [Rifling]> <hidden from users>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>"],
 		"requiredTech": "Chivalry"
 	},
 	{

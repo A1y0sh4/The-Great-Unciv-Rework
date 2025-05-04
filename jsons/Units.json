@@ -889,7 +889,7 @@
 		"rangedStrength": 20,
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
-		"obsoleteTech": "Industrialization",
+		"obsoleteTech": "Military Science",
 		"attackSound": "arrow"
 	},
 	{
@@ -919,7 +919,7 @@
 		"uniqueTo": "England",
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
-		"obsoleteTech": "Industrialization",
+		"obsoleteTech": "Military Science",
 		"uniques": ["Ranged attacks may be performed over obstacles", "[+15]% Strength <when fighting in [Rough terrain] tiles>"],
 		"attackSound": "arrow"
 	},
@@ -935,7 +935,7 @@
 		"cost": 174,
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
-		"obsoleteTech": "Industrialization",
+		"obsoleteTech": "Military Science",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-10]% Strength for enemy [Military] units in adjacent [Land] tiles", "[-25]% Strength <vs cities> <when attacking>"],
 		"attackSound": "elephant"
 	},
@@ -1317,7 +1317,7 @@
 		"strength": 24,
 		"rangedStrength": 32,
 		"cost": 329,
-		"requiredTech": "Industrialization", 
+		"requiredTech": "Military Science", 
 		"uniques": ["Never appears as a Barbarian unit"],
 		"upgradesTo": "Machine Gun",
 		"obsoleteTech": "Ballistics",

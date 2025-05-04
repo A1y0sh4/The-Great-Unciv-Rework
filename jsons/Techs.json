@@ -443,7 +443,7 @@
 				            "[+10]% Production when constructing [Classical era] buildings [in all cities] <hidden from users>",
 				            "[+10]% Production when constructing [Medieval era] buildings [in all cities] <hidden from users>",
 				            "[+10]% Production when constructing [Renaissance era] buildings [in all cities] <hidden from users>"],
-				"quote": "'Every great advance in science has issued from a new audacity of imagination.' - John Dewey"
+				"quote": "'A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.' - Douglas Adams"
 			},
 			{
 				"name": "Industrialization",
@@ -495,7 +495,7 @@
 				"name": "Refining",
 				"row": 5,
 				"prerequisites": ["Industrialization","Urban Planning","Rifling"],
-				"quote": "'The nations of the West hope that by means of steam communication all the world will become as one family.' - Townsend Harris"
+				"quote": "'Engineering is the art of directing the great sources of power in nature for the use and convenience of man.' - Thomas Tredgold"
 			},
 			{
 				"name": "Steam Power",

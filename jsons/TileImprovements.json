@@ -65,7 +65,7 @@
 		"production": 1,
 		"gold": 4,
 		"turnsToBuild": 9,
-		"techRequired": "Biology",
+		"techRequired": "Refining",
 		"uniques": ["Improvement", "Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+21 Gold]",
 		            "Provides [2] [Oil] <in [Oil] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [2] [Oil] <in [Oil] tiles> <in [Snow] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Pollution] <hidden from users>"],
 		"shortcutKey": "W"

@@ -434,9 +434,9 @@
 				"quote": "'Every great advance in science has issued from a new audacity of imagination.' - John Dewey"
 			},
 			{
-				"name": "Civil Engineering",
+				"name": "Urban Planning",
 				"row": 5,
-				"prerequisites": ["Architecture","Economics","Navigation"],
+				"prerequisites": ["Architecture","Economics","Metallurgy"],
 				"quote": "'Every great advance in science has issued from a new audacity of imagination.' - John Dewey"
 			},
 			{
@@ -489,7 +489,7 @@
 				"name": "Steam Power",
 				"row": 6,
 				"uniques": ["[+1] Movement <for [All] units> <in [Water] tiles>"],
-				"prerequisites": ["Industrialization","Scientific Theory","Rifling"],
+				"prerequisites": ["Industrialization","Urban Planning","Rifling"],
 				"quote": "'The nations of the West hope that by means of steam communication all the world will become as one family.' - Townsend Harris"
 			},
 			{

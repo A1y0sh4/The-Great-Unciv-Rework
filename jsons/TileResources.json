@@ -183,7 +183,7 @@
 	{
 		"name": "Oil",
 		"resourceType": "Strategic",
-		"revealedBy": "Biology",
+		"revealedBy": "Refining",
 		"terrainsCanBeFoundOn": ["Desert","Coast","Tundra","Snow","Marsh","Jungle"],
 		"improvedBy": ["Oil well", "Offshore Platform"],
 		"improvementStats": {"production": 1},

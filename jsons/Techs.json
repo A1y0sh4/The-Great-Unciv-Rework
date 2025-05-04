@@ -156,7 +156,6 @@
 				"name": "Horseback Riding",
 				"row": 5,
 				"prerequisites": ["Trapping","The Wheel"],
-				"uniques": [],
 				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
 			},
 			{
@@ -286,7 +285,6 @@
 				"name": "Education",
 				"row": 2,
 				"prerequisites": ["Compass","Theology","Civil Service"],
-                                "uniques": ["Enables Research agreements"],
 				"quote": "'Education is the best provision for old age.' - Aristotle"
 			},
 			{
@@ -357,7 +355,6 @@
 				"name": "Printing Press",
 				"row": 8,
 				"prerequisites": ["Machinery","Physics","Chivalry"],
-				"uniques": ["Enables Defensive Pacts"],
 				"quote": "'It is a newspaper's duty to print the news and raise hell.' - The Chicago Times"
 			},
 			{
@@ -433,6 +430,7 @@
 				"name": "Scientific Theory",
 				"row": 4,
 				"prerequisites": ["Architecture","Economics","Navigation"],
+				"uniques": ["Enables Research agreements"],
 				"quote": "'Every great advance in science has issued from a new audacity of imagination.' - John Dewey"
 			},
 			{
@@ -445,6 +443,7 @@
 				"name": "Rifling",
 				"row": 7,
 				"prerequisites": ["Economics","Metallurgy","Siege Tactics"],
+				"uniques": ["Enables Defensive Pacts"],
 				"quote": "'It is well that war is so terrible, or we should grow too fond of it.' - Robert E. Lee"
 			},
 			{

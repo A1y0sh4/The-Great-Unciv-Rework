@@ -436,7 +436,13 @@
 			{
 				"name": "Urban Planning",
 				"row": 5,
-				"prerequisites": ["Architecture","Economics","Metallurgy"],
+				"prerequisites": ["Architecture","Economics","Metallurgy"], 
+				"uniques": ["Comment [+10% Production when constructing pre-industrial buildings in all cities]",
+					    "[+10]% Production when constructing [Prehistoric era] buildings [in all cities] <hidden from users>",
+				            "[+10]% Production when constructing [Ancient era] buildings [in all cities] <hidden from users>",
+				            "[+10]% Production when constructing [Classical era] buildings [in all cities] <hidden from users>",
+				            "[+10]% Production when constructing [Medieval era] buildings [in all cities] <hidden from users>",
+				            "[+10]% Production when constructing [Renaissance era] buildings [in all cities] <hidden from users>"],
 				"quote": "'Every great advance in science has issued from a new audacity of imagination.' - John Dewey"
 			},
 			{

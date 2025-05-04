@@ -114,7 +114,7 @@
 		"RGB": [255, 220, 115],
 		"uniques": [
 		"[-2] Strength for cities built on this terrain <hidden from users>",
-		"Occurs on latitudes from [0] to [25] percent of distance equator to pole",
+		"Occurs on latitudes from [0] to [20] percent of distance equator to pole",
 		"Occurs at temperature between [-0.1] and [0.9] and humidity between [0] and [0.2]",
             "Occurs at temperature between [0.1] and [0.8] and humidity between [0.2] and [0.3]",
             "Occurs at temperature between [0.2] and [0.7] and humidity between [0.3] and [0.4]",
@@ -392,7 +392,7 @@
 		"occursOn": ["Ocean"],
 		"uniques": ["Point of Interest", "Must be adjacent to [1] to [6] [Coast] tiles",
 			"Must be adjacent to [6] [Water] tiles",
-			"Occurs on latitudes from [10] to [70] percent of distance equator to pole",
+			"Occurs on latitudes from [10] to [67] percent of distance equator to pole",
 			"Occurs in groups of [2] to [2] tiles", "Tile provides yield without assigned population", "Grants [Mobility] ([+1 Movement]) to adjacent [{Military} {Water}] units for the rest of the game"],
 		"turnsInto": "Coast",
 		"unbuildable": true,

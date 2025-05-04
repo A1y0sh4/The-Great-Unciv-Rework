@@ -1338,6 +1338,14 @@
 		"requiredTech": "Industrialization"
 	},
 	{
+		"name": "Stock Exchange",
+		"specialistSlots": {"Merchant": 2},
+		"hurryCostModifier": 15,
+		"uniques": ["[+3 Gold] <for every [Remaining [Major] Civilizations]>", "[+1 Gold] <for every [Remaining [City-State] Civilizations]>"],
+		"requiredBuilding": "Bank",
+		"requiredTech": "Urban Planning"
+	},
+	{
 		"name": "Big Ben",
 		"culture": 3,
 		"gold": 4,
@@ -1345,7 +1353,7 @@
 		"greatPersonPoints": {"Great Merchant": 3},
 		"isWonder": true,
 		"uniques": ["[Gold] cost of purchasing items in cities [-25]%"],
-		"requiredTech": "Industrialization",
+		"requiredTech": "Urban Planning",
 		"quote": "'To achieve great things, two things are needed: a plan, and not quite enough time.' - Leonard Bernstein"
 	},
 	{
@@ -1374,14 +1382,6 @@
 		"happiness": 1,
 		"uniques": ["[50]% Food is carried over after population increases [in this city]", "All newly-trained [relevant] units [in this city] receive the [Medic] promotion"],
 		"requiredTech": "Biology"
-	},
-	{
-		"name": "Stock Exchange",
-		"specialistSlots": {"Merchant": 2},
-		"hurryCostModifier": 15,
-		"uniques": ["[+3 Gold] <for every [Remaining [Major] Civilizations]>", "[+1 Gold] <for every [Remaining [City-State] Civilizations]>"],
-		"requiredBuilding": "Bank",
-		"requiredTech": "Electricity"
 	},
 	{
 		"name": "Hydro Plant",

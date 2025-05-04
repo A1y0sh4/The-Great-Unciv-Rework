@@ -428,9 +428,15 @@
 			},
 			{
 				"name": "Scientific Theory",
-				"row": 4,
+				"row": 3,
 				"prerequisites": ["Architecture","Economics","Navigation"],
 				"uniques": ["Enables Research agreements"],
+				"quote": "'Every great advance in science has issued from a new audacity of imagination.' - John Dewey"
+			},
+			{
+				"name": "Civil Engineering",
+				"row": 5,
+				"prerequisites": ["Architecture","Economics","Navigation"],
 				"quote": "'Every great advance in science has issued from a new audacity of imagination.' - John Dewey"
 			},
 			{

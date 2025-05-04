@@ -489,7 +489,7 @@
 			{
 				"name": "Electricity",
 				"row": 3,
-				"prerequisites": ["Scientific Theory","Industrialization"],
+				"prerequisites": ["Scientific Theory","Industrialization","Urban Planning"],
 				"quote": "'Is it a fact - or have I dreamt it - that, by means of electricity, the world of matter has become a great nerve, vibrating thousands of miles in a breathless point of time?' - Nathaniel Hawthorne"
 			},
 			{

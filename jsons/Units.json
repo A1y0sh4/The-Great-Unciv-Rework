@@ -1698,7 +1698,7 @@
 		"promotions": ["Amphibious"],
 		"upgradesTo": "Spec Ops",
 		"obsoleteTech": "Mobile Tactics",
-		"uniques": ["[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [embarked]>"],
+		"uniques": ["[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>"],
 		"attackSound": "shot"
 	},
 	{
@@ -1961,7 +1961,7 @@
 		"cost": 1342,
 		"requiredTech": "Mobile Tactics",
 		"promotions": ["Survivalism I", "Amphibious"],
-		"uniques": ["May Paradrop up to [8] tiles from inside friendly territory", "[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [embarked]>"],
+		"uniques": ["May Paradrop up to [8] tiles from inside friendly territory", "[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>"],
 		"attackSound": "shot"
 	},
 	{

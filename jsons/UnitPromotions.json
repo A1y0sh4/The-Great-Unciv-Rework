@@ -811,7 +811,7 @@
 	},
 	{
 		"name": "[Conquistador] ability",
-		"uniques": ["[+100]% Strength <when defending> <when [embarked]>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+		"uniques": ["[+100]% Strength <when defending> <when [Embarked]>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
 	{
 		"name": "[Janissary] ability",

@@ -401,7 +401,7 @@
 				"name": "Siege Tactics",
 				"row": 8,
 				"prerequisites": ["Printing Press","Gunpowder"],
-				"uniques": ["[+15]% Strength <for [Gunpowder] units> <vs cities> <when attacking>", "Comment [+50% to Forts and Citadels defensive bonus]", "[+25]% Strength <for [Military] units> <when defending> <in [Fort] tiles> <hidden from users>", "[+50]% Strength <for [Military] units> <when defending> <in [Citadel] tiles> <hidden from users>"],
+				"uniques": ["[+15]% Strength <for [Gunpowder] units> <vs cities> <when attacking>", "[+15]% Strength for cities <when attacking>"],
 				"quote": "'The lowest is to attack a city. Siege of a city is only done as a last resort.' - Sun Tzu"
 			},
 			{

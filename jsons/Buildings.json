@@ -1318,7 +1318,7 @@
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,
 		"requiredResource": "Coal",
-		"uniques": ["[+1 Production] <for every [2] [Coal]>", "[+1]% [Production] [in this city] <for every [Coal]>", "Comment [Generates 1 [Pollution] +1 additional one for every 6 [Coal]]", "Provides [1] [Pollution] <hidden from users>", "Provides [1] [Pollution] <for every [6] [Coal]> <before adopting [Autarky]> <hidden from users>", "Provides [1] [Pollution] <for every [9] [Coal]> <after adopting [Autarky]> <hidden from users>"],
+		"uniques": ["Provides [1] [Pollution]"],
 		"hurryCostModifier": 0,
 		"requiredTech": "Industrialization"
 	},
@@ -1331,10 +1331,20 @@
 		"requiredResource": "Coal",
 		"specialistSlots": {"Engineer": 2},
 		"requiredBuilding": "Workshop",
-		"maintenance": 3,
+		"maintenance": 0,
 		"hurryCostModifier": 0,
-		"uniques": ["[+1 Production] <for every [2] [Coal]>", "[+1 Gold] <for every [4] [Coal]>", "[+1]% [Production] [in this city] <for every [Coal]>", "Comment [Generates 1 [Pollution] +1 additional one for every 6 [Coal]]", "Provides [1] [Pollution] <hidden from users>", "Provides [1] [Pollution] <for every [6] [Coal]> <before adopting [Autarky]> <hidden from users>", "Provides [1] [Pollution] <for every [9] [Coal]> <after adopting [Autarky]> <hidden from users>"],
+		"uniques": ["Provides [1] [Pollution]"],
 		"requiredResource": "Coal",
+		"requiredTech": "Industrialization"
+	},
+	{
+		"name": "Coal Plant",
+		"specialistSlots": {"Engineer": 2},
+		"requiredBuilding": "Factory",
+		"maintenance": 3,
+		"requiredResource": "Coal",
+		"uniques": ["[+1 Production] <for every [2] [Coal]>", "[+1]% [Production] [in this city] <for every [Coal]>", "Comment [Generates 1 [Pollution] +1 additional one for every 6 [Coal]]", "Provides [1] [Pollution] <hidden from users>", "Provides [1] [Pollution] <for every [6] [Coal]> <before adopting [Autarky]> <hidden from users>", "Provides [1] [Pollution] <for every [9] [Coal]> <after adopting [Autarky]> <hidden from users>"],
+		"hurryCostModifier": 0,
 		"requiredTech": "Industrialization"
 	},
 	{

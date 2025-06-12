@@ -12,13 +12,14 @@
 		"cityStrength": 2,
 		"cityHealth": 10,
 		"isNationalWonder": true,
-		"uniques": ["Indicates the capital city", "Comment [+15% [Production] and [Gold] in this city during We Love The King Day]", "Remove [Revolution] [in all cities] <hidden from users>", "Remove [Relocate Capital] [in all cities] <hidden from users>", "[+15]% [Production] [in this city] <during We Love The King Day> <hidden from users>", "[+15]% [Gold] [in this city] <during We Love The King Day> <hidden from users>", "Destroyed when the city is captured", "[Settler] units gain the [Single City] promotion <for [City-States] Civilizations> <hidden from users>"]
+		"uniques": ["Indicates the capital city", "Comment [+15% [Production] and [Gold] in this city during We Love The King Day]", "Remove [Start Revolution] [in all cities] <hidden from users>", "Remove [Relocate Capital] [in all cities] <hidden from users>", "[+15]% [Production] [in this city] <during We Love The King Day> <hidden from users>", "[+15]% [Gold] [in this city] <during We Love The King Day> <hidden from users>", "Destroyed when the city is captured", "[Settler] units gain the [Single City] promotion <for [City-States] Civilizations> <hidden from users>"]
 	},
 	{
-		"name": "Revolution",
-		"cost": 0,
-		"hurryCostModifier": 0,
-		"uniques": ["Empire enters golden age <hidden from users>", "Will not be displayed in Civilopedia <hidden from users>", "Unbuildable <hidden from users>", "Triggers the following global alert: [A civilization has undergone a Revolution and may change its core policies!]", "[-10]% Unhappiness from [Population] [in all cities] <hidden from users>",
+		"name": "Start Revolution",
+		"cost": 100,
+		"hurryCostModifier": 100,
+		"requiredTech": "Sociology",
+		"uniques": ["Comment [Empire enters a golden age, all policies are cancelled and refunded by 75% of their cost]", "Empire enters golden age <hidden from users>", "Will not be displayed in Civilopedia <hidden from users>", "Unbuildable", "Triggers the following global alert: [A civilization has undergone a Revolution and may change its core policies!]", "[-10]% Unhappiness from [Population] [in all cities] <hidden from users>",
 		    "Remove [Tradition] and refund [75]% of its cost <hidden from users>", "Remove [Oligarchy] and refund [75]% of its cost <hidden from users>", "Remove [Monarchy] and refund [75]% of its cost <hidden from users>", "Remove [Monumentalism] and refund [75]% of its cost <hidden from users>", "Remove [Landed Elite] and refund [75]% of its cost <hidden from users>", "Remove [Legalism] and refund [75]% of its cost <hidden from users>", "Remove [Tradition Complete] and refund [75]% of its cost <hidden from users>",
 		    "Remove [Liberty] and refund [75]% of its cost <hidden from users>", "Remove [Collective Rule] and refund [75]% of its cost <hidden from users>", "Remove [Meritocracy] and refund [75]% of its cost <hidden from users>", "Remove [Republic] and refund [75]% of its cost <hidden from users>", "Remove [Citizenship] and refund [75]% of its cost <hidden from users>", "Remove [Representation] and refund [75]% of its cost <hidden from users>", "Remove [Liberty Complete] and refund [75]% of its cost <hidden from users>",
 		    "Remove [Expansion] and refund [75]% of its cost <hidden from users>", "Remove [Warrior Code] and refund [75]% of its cost <hidden from users>", "Remove [City Militia] and refund [75]% of its cost <hidden from users>", "Remove [Military Tradition] and refund [75]% of its cost <hidden from users>", "Remove [Professional Army] and refund [75]% of its cost <hidden from users>", "Remove [State Logistics] and refund [75]% of its cost <hidden from users>", "Remove [Expansion Complete] and refund [75]% of its cost <hidden from users>",

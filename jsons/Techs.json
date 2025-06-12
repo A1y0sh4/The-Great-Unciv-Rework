@@ -572,7 +572,7 @@
 				"name": "Sociology",
 				"row": 3,
 				"prerequisites": ["Radio","Replaceable Parts","Refrigeration"], 
-				"uniques": ["[+25]% Great Person generation [in all cities]"],
+				"uniques": ["[+25]% Great Person generation [in all cities]", "[+8 Culture, +8 Science] <in cities with at least [4] [Specialists]>"],
 				"quote": "'The philosophers have only interpreted the world, in various ways. The point, however, is to change it.' - Karl Marx"
 			},
 			{

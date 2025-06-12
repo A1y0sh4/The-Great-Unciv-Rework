@@ -1397,7 +1397,7 @@
 		"production": 2,
 		"hurryCostModifier": 25,
 		"requiredNearbyImprovedResources": ["Iron"],
-		"requiredTech": "Metal Casting",
+		"requiredTech": "Electricity",
 		"uniques": ["Only available <when above [1] [Iron]>", "Consumes [2] [Iron]", "Provides [2] [Aluminum]", "Provides [1] [Pollution]"]
 		
 	},

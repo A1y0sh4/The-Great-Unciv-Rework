@@ -570,6 +570,12 @@
 				"quote": "'Ben, I want to say one word to you, just one word: plastics.' - Buck Henry and Calder Willingham, The Graduate"
 			},
 			{
+				"name": "Sociology",
+				"row": 3,
+				"prerequisites": ["Radio","Replaceable Parts","Refrigeration"],
+				"quote": "'The philosophers have only interpreted the world, in various ways. The point, however, is to change it.' - Karl Marx"
+			},
+			{
 				"name": "Electronics",
 				"row": 4,
 				"prerequisites": ["Replaceable Parts", "Flight", "Radio"],
@@ -601,7 +607,7 @@
 			{
 				"name": "Pharmaceuticals",
 				"row": 2,
-				"prerequisites": ["Plastics"], 
+				"prerequisites": ["Plastics","Sociology"], 
 				"uniques": ["[+1 Science] per [4] population [in all cities]"],
 				"quote": "'In nothing do men more nearly approach the gods than in giving health to men.' - Cicero"
 			},
@@ -643,6 +649,13 @@
 				"quote": "'Only within the moment of time represented by the present century has one species, man, acquired significant power to alter the nature of his world.' - Rachel Carson"
 			},
 			{
+				"name": "Environmentalism",
+				"row": 3,
+				"prerequisites": ["Atomic Theory","Pharmaceuticals"],
+				"uniques": [],
+				"quote": "'What we are doing to the forests of the world is but a mirror reflection of what we are doing to ourselves.' - Mahatma Gandhi"
+			},
+			{
 				"name": "Nuclear Fission",
 				"row": 4,
 				"prerequisites": ["Atomic Theory","Radar"],
@@ -653,6 +666,12 @@
 				"row": 6,
 				"prerequisites": ["Radar","Advanced Espionage"],
 				"quote": "'A good rule for rocket experimenters to follow is this: always assume that it will explode.' - Astronautics Magazine, 1937"
+			},
+			{
+				"name": "Cybernetics",
+				"row": 7,
+				"prerequisites": ["Radar","Advanced Espionage"],
+				"quote": "'The boundary between man and machine is not a wall, but a membrane.' - Norbert Wiener"
 			},
 			{
 				"name": "Computers",
@@ -690,19 +709,19 @@
 			{
 				"name": "Satellites",
 				"row": 6,
-				"prerequisites": ["Rocketry","Computers"],
+				"prerequisites": ["Rocketry","Computers","Cybernetics"],
 				"quote": "'Now, somehow, in some new way, the sky seemed almost alien.' - Lyndon B. Johnson"
 			},
 			{
 				"name": "Robotics",
 				"row": 7,
-				"prerequisites": ["Rocketry","Computers"],
+				"prerequisites": ["Rocketry","Computers","Cybernetics"],
 				"quote": "'1. A robot may not injure a human being or, through inaction, allow a human being to come to harm. 2. A robot must obey any orders given to it by human beings, except when such orders would conflict with the First Law. 3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.' - Isaac Asimov"
 			},
 			{
 				"name": "Lasers",
 				"row": 8,
-				"prerequisites": ["Computers"],
+				"prerequisites": ["Computers","Cybernetics"],
 				"quote": "'The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armor of light.' - The Holy Bible: Romans, 13:12"
 			}
 		]
@@ -716,20 +735,26 @@
 		"wonderCost": 3709,
 		"techs": [
 			{
+				"name": "Globalization",
+				"row": 2,
+				"prerequisites": ["Telecommunications","Mobile Tactics","Advanced Ballistics"],
+				"quote": "'Globalization is not a monolith; it's a complex of flows—some smooth, some turbulent.' - Arjun Appadurai"
+			},
+			{
 				"name": "Particle Physics",
-				"row": 3,
+				"row": 4,
 				"prerequisites": ["Telecommunications","Mobile Tactics","Advanced Ballistics"],
 				"quote": "'Every particle of matter is attracted by or gravitates to every other particle of matter with a force inversely proportional to the squares of their distances.' - Isaac Newton"
 			},
 			{
 				"name": "Nanotechnology",
-				"row": 7,
+				"row": 8,
 				"prerequisites": ["Robotics", "Satellites", "Lasers"],
 				"quote": "'The impact of nanotechnology is expected to exceed the impact that the electronics revolution has had on our lives.' - Richard Schwartz"
 			},
 			{
 				"name": "Stealth",
-				"row": 5,
+				"row": 6,
 				"prerequisites": ["Robotics", "Lasers", "Advanced Ballistics"],
 				"quote": "'Be extremely subtle, even to the point of formlessness, be extremely mysterious, even to the point of soundlessness. Thereby you can be the director of the opponent's fate.' - Sun Tzu"
 			}
@@ -744,13 +769,13 @@
 		"techs": [
 			{
 				"name": "Nuclear Fusion",
-				"row": 6,
+				"row": 7,
 				"prerequisites": ["Particle Physics","Nanotechnology", "Stealth"],
 				"quote": "'The release of atomic energy has not created a new problem. It has readily made more urgent the necessity of solving an existing one.' - Albert Einstein"
 			},
 			{
 				"name": "Advanced AI",
-				"row": 4,
+				"row": 3,
 				"prerequisites": ["Particle Physics","Nanotechnology", "Stealth"],
 				"quote": "'Will no entreaties cause thee to turn a favourable eye upon thy creature, who implores thy goodness and compassion?' - Mary Shelley"
 			},

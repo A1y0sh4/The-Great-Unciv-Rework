@@ -697,7 +697,7 @@
 			{
 				"name": "Mobile Tactics",
 				"row": 3,
-				"prerequisites": ["Ecology","Nuclear Fission"],
+				"prerequisites": ["Ecology","Nuclear Fission", "Environmentalism"],
 				"quote": "'All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.' - Sun Tzu"
 			},
 			{
@@ -755,7 +755,7 @@
 			{
 				"name": "Stealth",
 				"row": 6,
-				"prerequisites": ["Robotics", "Lasers", "Advanced Ballistics"],
+				"prerequisites": ["Robotics", "Lasers", "Advanced Ballistics", "Satellites"],
 				"quote": "'Be extremely subtle, even to the point of formlessness, be extremely mysterious, even to the point of soundlessness. Thereby you can be the director of the opponent's fate.' - Sun Tzu"
 			}
 		]
@@ -770,13 +770,13 @@
 			{
 				"name": "Nuclear Fusion",
 				"row": 7,
-				"prerequisites": ["Particle Physics","Nanotechnology", "Stealth"],
+				"prerequisites": ["Particle Physics","Nanotechnology", "Stealth", "Globalization"],
 				"quote": "'The release of atomic energy has not created a new problem. It has readily made more urgent the necessity of solving an existing one.' - Albert Einstein"
 			},
 			{
 				"name": "Advanced AI",
 				"row": 3,
-				"prerequisites": ["Particle Physics","Nanotechnology", "Stealth"],
+				"prerequisites": ["Particle Physics","Nanotechnology", "Stealth", "Globalization"],
 				"quote": "'Will no entreaties cause thee to turn a favourable eye upon thy creature, who implores thy goodness and compassion?' - Mary Shelley"
 			},
 		]

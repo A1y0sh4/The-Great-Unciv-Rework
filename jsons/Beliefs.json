@@ -86,7 +86,7 @@
     {
         "name": "Messenger of the Gods",
         "type": "Pantheon",
-        "uniques": ["[+2 Science] [in all cities connected to capital]", "[+2 Science] [in all cities connected to capital] <after discovering [Education]>"]
+        "uniques": ["[+2 Science, +1 Gold] [in all cities connected to capital]"]
     },
     {
         "name": "Monument to the Gods",

@@ -1391,6 +1391,16 @@
 		"uniques": ["Must be on [River]", "[+1 Production] from [River] tiles [in this city]", "Provides [-2] [Pollution] <when above [0] [Pollution]>"],
 		"requiredTech": "Electricity"
 	},
+	{
+		"name": "Aluminum Plant",
+		"maintenance": 3,
+		"production": 2,
+		"hurryCostModifier": 25,
+		"requiredNearbyImprovedResources": ["Iron"],
+		"requiredTech": "Metal Casting",
+		"uniques": ["Only available <when above [1] [Iron]>", "Consumes [2] [Iron]", "Provides [2] [Aluminum]", "Provides [1] [Pollution]"]
+		
+	},
 
 	// Modern Era
 

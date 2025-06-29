@@ -33,7 +33,7 @@
 	"Sell [Oil Plant] buildings [in all cities] <upon turn end> <with [5]% chance> <when above [500] [Pollution]>",
 	"Sell [Factory] buildings [in all cities] <upon turn end> <with [5]% chance> <when above [500] [Pollution]>",
 	"[-1]% Yield from every [Building] <when below [-10] [Happiness]>",
-	"[-1] [Happiness] from each type of luxury resource",
+	"[-1] Happiness from each type of luxury resource",
 	"[+1 Culture] from every [Ancient ruins]",  
 	    "[-5]% [Gold] <when number of [Gold] is between [76] and [150]> <on [Turbo] game speed>",
 	    "[-10]% [Gold] <when number of [Gold] is between [151] and [225]> <on [Turbo] game speed>",

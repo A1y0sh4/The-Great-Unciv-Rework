@@ -561,7 +561,7 @@
             {
                 "name": "Autarky",
                 "uniques": [
-                    "Quantity of strategic resources produced by the empire +[50]%",
+                    "[50]% [Strategic] resource production",
                     "[+2 Food] [in all cities connected to capital]"
                 ],
                 "requires": ["Populism", "Militarism"],

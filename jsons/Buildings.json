@@ -421,7 +421,7 @@
 		"name": "Courthouse",
 		"maintenance": 2,
 		"hurryCostModifier": 50,
-		"uniques": ["Remove extra unhappiness from annexed cities",
+		"uniques": ["Removes extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>", "[+1] population [in this city] <for [The Ottomans] Civilizations> <hidden from users>"],
 		"requiredTech": "Mathematics"
 	},

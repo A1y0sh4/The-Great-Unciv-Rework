@@ -33,7 +33,7 @@
 	"favoredReligion": "Orthodoxy",
 
 	"outerColor": [14, 37, 97],
-	"innerColor": [255, 206, 0],
+	"innerColor": [255, 206, 49],
 
 	"uniqueName": "Pearl of the North",
 	"uniqueText": "Gain +1 [Culture] from every Camp and Pasture adjacent to Tundra\n+1 [Science] from every Mine and Quarry next to Tundra\nThe amounts of bonus [Culture] and [Science] double during a Golden Age",

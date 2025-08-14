@@ -25,8 +25,8 @@
 	  
 	"favoredReligion": "Animism",
 
-	"outerColor": [14, 37, 97],
-	"innerColor": [255, 206, 49],
+	"outerColor": [29, 195, 16],
+	"innerColor": [54, 39, 119],
 
 	"uniqueName": "The Tamoyo Confederation",
 	"uniqueText": "+3% [Production] when constructing Military units per number of owned cities, when at war",

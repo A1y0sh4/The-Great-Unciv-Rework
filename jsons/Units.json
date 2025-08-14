@@ -1705,13 +1705,13 @@
 		"name": "Marine",
 		"unitType": "Scout",
 		"movement": 2,
-		"strength": 45,
+		"strength": 40,
 		"cost": 765,
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Amphibious"],
 		"upgradesTo": "Spec Ops",
 		"obsoleteTech": "Mobile Tactics",
-		"uniques": ["[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>"],
+		"uniques": ["[+1] Sight <when [Embarked]>", "[+150]% Strength <when defending> <when [Embarked]>"],
 		"attackSound": "shot"
 	},
 	{
@@ -1782,13 +1782,13 @@
 		"name": "Paratrooper",
 		"unitType": "Scout",
 		"movement": 2,
-		"strength": 45,
+		"strength": 40,
 		"cost": 765,
 		"requiredTech": "Radar",
 		"upgradesTo": "Spec Ops",
 		"obsoleteTech": "Mobile Tactics",
 		"promotions": ["Survivalism I"],
-		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
+		"uniques": ["May Paradrop to [Land] tiles up to [5] tiles away", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
 	},
 	{
@@ -1974,7 +1974,7 @@
 		"cost": 1342,
 		"requiredTech": "Mobile Tactics",
 		"promotions": ["Survivalism I", "Amphibious"],
-		"uniques": ["May Paradrop up to [8] tiles from inside friendly territory", "[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>"],
+		"uniques": ["May Paradrop to [Land] tiles up to [8] tiles away", "[+1] Sight <when [Embarked]>", "[+150]% Strength <when defending> <when [Embarked]>"],
 		"attackSound": "shot"
 	},
 	{

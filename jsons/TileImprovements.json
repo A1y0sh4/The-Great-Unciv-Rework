@@ -454,7 +454,6 @@
 		"uniqueTo": "Tupi",
 		"terrainsCanBeBuiltOn": ["Jungle"],
 		"turnsToBuild": 5,
-		"techRequired": "Sailing",
 		"uniques": ["Improvement", "[+1 Food] for each adjacent [Jungle]", "[+1 Food, +1 Culture] <during a Golden Age>", "Pillaging this improvement yields approximately [+13 Gold]", "Will not be replaced by automated units <hidden from users>"],
 		"shortcutKey": "R"
 	},
@@ -492,4 +491,5 @@
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
 	}
 ]
+
 

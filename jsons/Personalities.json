@@ -1835,5 +1835,34 @@
       "Nationalism": 5,
       "Internationalism": 3
     }
-  }
+  },
+	{
+    "name": "Quonambec",
+    "production": 5,
+    "food": 7,
+    "gold": 3,
+    "science": 4,
+    "culture": 6,
+    "happiness": 4,
+    "faith": 8,
+    "military": 7,
+    "aggressive": 7,
+    "declareWar": 6,
+    "commerce": 4,
+    "diplomacy": 4,
+    "loyal": 5,
+    "expansion": 6,
+    "priorities": {
+      "Tradition": 2,
+      "Liberty": 7,
+      "Expansion": 8,
+      "Commerce": 2,
+      "Diplomacy": 2,
+      "Piety": 8,
+      "Rationalism": 3,
+      "Individualism": 4,
+      "Nationalism": 10,
+      "Internationalism": 1
+    }
+  }, 
 ]

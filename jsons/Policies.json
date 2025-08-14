@@ -587,7 +587,7 @@
             {
                 "name": "Nationalism Complete",
                 "uniques": [
-                    "Empire enters golden age <upon declaring war with a major Civilization>",
+                    "Empire enters golden age <upon declaring war on [Major] Civilizations>",
                     "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }

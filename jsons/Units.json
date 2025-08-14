@@ -159,6 +159,19 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Uybabaeté",
+		"unitType": "Sword",
+		"replaces": "Warrior",
+		"uniqueTo": "The Tupi",
+		"movement": 2,
+		"strength": 8,
+		"cost": 26,
+		"obsoleteTech": "Iron Working",
+		"upgradesTo": "Swordsman",
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
+		"attackSound": "nonmetalhit"
+	},
+	{
 		"name": "Brute",
 		"unitType": "Sword",
 		"uniqueTo": "Barbarians",

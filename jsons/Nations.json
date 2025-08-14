@@ -5,48 +5,6 @@
 		"innerColor": [0,0,0]
 	},
 	{
-"name": "The Tupi",
-"leaderName": "Quonambec",
-"adjective": ["Tupi"],
-"startBias": ["Jungle"],
-"preferredVictoryType": "Religious",
-"personality": "Quonambec",
-
-	"startIntroPart1": "Oh Great Cunhambebe of the Tupinamba tribe, unifier of the Tupi people, you led your people in the great Tamoyo Confederation against the Portuguese colonists. Your people settled in the Amazon Rainforest, and managed to become one of the main civilizations in the area. Sharing many cultural traditions, the Tupi managed to generate many different tribes: the Tupiniquim, the Tupinamba, the Potiguara, the Tabajara, the Caetes, the Temimino, the Tamoios, and many others, each with their own unique language. Your people unified in the fight against the European colonization. You also managed to sign an alliance with France, making it possible to fight off the enemies of your lands.",
-	"startIntroPart2": "Oh Great Chief of the Tamoyo, your people still wander the Amazon, still remembering your bravery and cunning in diplomacy. Will you once again lead them together? Will you build a Civilization that can stand the test of time?",
-	
-	"declaringWar": "The winds of war fall upon you! The time to look for new fresh sacrifical victims has come.",
-	"attacked": "You, vile creature, will be our new sacrifical victim.",
-	"defeated": "Not even with our confederation, did we manage to defeat you...",
-	"introduction": "Welcome stranger, I'm Quonambec of the Tupinamba. Come and join us at our celebrations in the Maloca.",
-	"neutralHello": "Greetings.",
-	"hateHello": "Are you here to offer yourself as a sacrifice?",
-	"tradeRequest": "Here is a fair offer from the Tupinamba:",
-	  
-	"favoredReligion": "Animism",
-
-	"outerColor": [29, 195, 16],
-	"innerColor": [54, 39, 119],
-
-	"uniqueName": "The Tamoyo Confederation",
-	"uniqueText": "+3% [Production] when constructing Military units per number of owned cities, when at war",
-	"uniques": ["[+3]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [1]> <when at war>",
-		"[+6]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [2]> <when at war>",
-		"[+9]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [3]> <when at war>",
-		"[+12]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [4]> <when at war>",
-		"[+15]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [5]> <when at war>",
-		"[+18]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [6]> <when at war>",
-		"[+21]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [7]> <when at war>",
-		"[+24]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [8]> <when at war>",
-		"[+27]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [9]> <when at war>",
-		"[+30]% Production when constructing [Military] units [in all cities] <when number of [Cities] is more than [9]> <when at war>",
-	],
-	"cities": ["Yperoig","Tupinambá","Caebé","Jericoá","Yanomani","Iguatemi","Kokama","Potiguara","Tamoio","Tembé",
-		"Tupiniquim","Urubu Kaapor","Temimino","Tupina","Tabajara","Karirí","Waitacá","Aymoré","Goytacaz","Tartagal","Aguaray","Pichanal",
-		"Urundel","Caimancito","Chalicán"],
-	"spyNames": ["Angá", "Tupa", "Paraguazú", "Araribóia", "Uaica", "Louis Henry", "Guedes", "Nisio", "Pombero", "Tupiuazú"]
-},
-	{
 "name": "Aleksandria",
 "leaderName": "Alyosha",
 "adjective": ["Aleksandrian"],
@@ -2276,6 +2234,49 @@
 		"cities": ["Manila","Quezon City","Boracay","Cebú","Puerto Princesa","El Nido","Bohol","Davao","Baguio","Siargao","Corón","Tagaytay","Makati","Taguig","Dumaguete","Bacólod","Puerto Galera","Sagada","Laoag","Zamboanga","Caloocan","Cabanatuan","Iloilo","Malolos","Pasay","Mambajao","Nabunturan","Navotas","Cavite El Viejo","Pasig","Las Pinas","Biak-na-Bato","Jaro","Tarlac","Palanan","Bacolor"]
 		"spyNames": ["Jasmine", "Corazon", "Pedro", "Alejandro", "Remedios", "Marilyn", "Makisig", "Bayani", "Benigno", "Hernán"]
 	},
+	{
+"name": "The Tupi",
+"leaderName": "Quonambec",
+"adjective": ["Tupi"],
+"startBias": ["Jungle"],
+"preferredVictoryType": "Religious",
+"personality": "Quonambec",
+
+	"startIntroPart1": "Oh Great Cunhambebe of the Tupinamba tribe, unifier of the Tupi people, you led your people in the great Tamoyo Confederation against the Portuguese colonists. Your people settled in the Amazon Rainforest, and managed to become one of the main civilizations in the area. Sharing many cultural traditions, the Tupi managed to generate many different tribes: the Tupiniquim, the Tupinamba, the Potiguara, the Tabajara, the Caetes, the Temimino, the Tamoios, and many others, each with their own unique language. Your people unified in the fight against the European colonization. You also managed to sign an alliance with France, making it possible to fight off the enemies of your lands.",
+	"startIntroPart2": "Oh Great Chief of the Tamoyo, your people still wander the Amazon, still remembering your bravery and cunning in diplomacy. Will you once again lead them together? Will you build a Civilization that can stand the test of time?",
+	
+	"declaringWar": "The winds of war fall upon you! The time to look for new fresh sacrifical victims has come.",
+	"attacked": "You, vile creature, will be our new sacrifical victim.",
+	"defeated": "Not even with our confederation, did we manage to defeat you...",
+	"introduction": "Welcome stranger, I'm Quonambec of the Tupinamba. Come and join us at our celebrations in the Maloca.",
+	"neutralHello": "Greetings.",
+	"hateHello": "Are you here to offer yourself as a sacrifice?",
+	"tradeRequest": "Here is a fair offer from the Tupinamba:",
+	  
+	"favoredReligion": "Animism",
+
+	"outerColor": [29, 195, 16],
+	"innerColor": [54, 39, 119],
+
+	"uniqueName": "The Tamoyo Confederation",
+	"uniqueText": "+3% [Production] when constructing Military units per number of owned cities, when at war\nMilitary units gain +50% XP when fighting in Friendly Land tiles", 
+	"uniques": ["[+3]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [1]> <when at war>",
+		"[+6]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [2]> <when at war>",
+		"[+9]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [3]> <when at war>",
+		"[+12]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [4]> <when at war>",
+		"[+15]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [5]> <when at war>",
+		"[+18]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [6]> <when at war>",
+		"[+21]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [7]> <when at war>",
+		"[+24]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [8]> <when at war>",
+		"[+27]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [9]> <when at war>",
+		"[+30]% Production when constructing [Military] units [in all cities] <when number of [Cities] is more than [9]> <when at war>",
+		"[Military] units gain the [The Tamoyo Confederation Unique] promotion"
+	],
+	"cities": ["Yperoig","Tupinambá","Caebé","Jericoá","Yanomani","Iguatemi","Kokama","Potiguara","Tamoio","Tembé",
+		"Tupiniquim","Urubu Kaapor","Temimino","Tupina","Tabajara","Karirí","Waitacá","Aymoré","Goytacaz","Tartagal","Aguaray","Pichanal",
+		"Urundel","Caimancito","Chalicán"],
+	"spyNames": ["Angá", "Tupa", "Paraguazú", "Araribóia", "Uaica", "Louis Henry", "Guedes", "Nisio", "Pombero", "Tupiuazú"]
+},
 	{
 		"name": "Vietnam",
 		"leaderName": "Bà Triệu",

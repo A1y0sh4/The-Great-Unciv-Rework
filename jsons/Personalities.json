@@ -1727,7 +1727,6 @@
   },
   {
 		"name": "A1y0sh4",
-		"preferredVictoryType": "Scientific",
 		"culture": 8,
 		"faith": 3,
 		"food": 7,
@@ -1753,7 +1752,6 @@
 	},
 	{
 		"name": "Lenin",
-		"preferredVictoryType": "Scientific",
 		"culture": 8,
 		"faith": 1,
 		"food": 10,

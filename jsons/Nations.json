@@ -21,7 +21,7 @@
 	"introduction": "Welcome stranger, I'm Quonambec of the Tupinamba. Come and join us at our celebrations in the Maloca.",
 	"neutralHello": "Greetings.",
 	"hateHello": "Are you here to offer yourself as a sacrifice?",
-	"tradeRequest": "Here is a fair offer from the Tupinamba",
+	"tradeRequest": "Here is a fair offer from the Tupinamba:",
 	  
 	"favoredReligion": "Animism",
 
@@ -41,10 +41,10 @@
 		"[+27]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [9]> <when at war>",
 		"[+30]% Production when constructing [Military] units [in all cities] <when number of [Cities] is more than [9]> <when at war>",
 	],
-	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Severgrad","Ugolkar","Lyoshasburg","Medvedorod","Ruthenskar","Lyodgorod",
-		"Tovarivsk","Pobedigrad","Zimnygrad","Knyazinsk","Aleksisburg","Velikoye","Novi Aleksandria","kholodnisburg","Lyoshagrad","Svyatograd","Rekasburg","Veliksandria",
-		"Veragrad","Morozburg","Medvedkar"],
-	"spyNames": ["Irina", "Yaroslav", "Vera", "Nikita", "Yelizaveta", "Yevgeny", "Aleksandra", "Vadim", "Adelina", "Maksim"]
+	"cities": ["Yperoig","Tupinambá","Caebé","Jericoá","Yanomani","Iguatemi","Kokama","Potiguara","Tamoio","Tembé",
+		"Tupiniquim","Urubu Kaapor","Temimino","Tupina","Tabajara","Karirí","Waitacá","Aymoré","Goytacaz","Tartagal","Aguaray","Pichanal",
+		"Urundel","Caimancito","Chalicán"],
+	"spyNames": ["Angá", "Tupa", "Paraguazú", "Araribóia", "Uaica", "Louis Henry", "Guedes", "Nisio", "Pombero", "Tupiuazú"]
 },
 	{
 "name": "Aleksandria",

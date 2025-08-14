@@ -14,7 +14,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 35,
-		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction", "All tiles cost 1 movement <if [Palace] is not constructed>",
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction", "All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>",
 			"Requires at least [2] population", "Cost increases by [18] when built"],
 		"hurryCostModifier": 15
 	},
@@ -26,7 +26,7 @@
 		"cost": 20,
 		"obsoleteTech": "Military Tactics",
 		"upgradesTo": "Skirmisher",
-		"uniques": ["May upgrade to [Warrior] through ruins-like effects"],
+		"uniques": ["May upgrade to [Warrior] through ruins-like effects", "All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>"],
 		"attackSound": "nonmetalhit"
 	},
 	{

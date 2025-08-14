@@ -1747,7 +1747,6 @@
 			"Nationalism": 40,
 			"Cosmopolitanism": 40
 		},
-		"warMongering": 7,
 		"uniques": ["Will not build [Shrine]", "Will not build [Temple]", "Will not build [The Pyramids]", "Will not build [Mausoleum of Halicarnassus]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]"]
 	},
 	{
@@ -1772,7 +1771,6 @@
 			"Nationalism": 30,
 			"Cosmopolitanism": 50
 		},
-		"warMongering": 7,
 		"uniques": ["Will not build [Shrine]", "Will not build [Temple]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]"]
 	}, 
 	{

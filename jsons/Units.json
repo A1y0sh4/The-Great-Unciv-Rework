@@ -2152,7 +2152,7 @@
 	{
 		"name": "Diplomat",
 		"unitType": "Civilian",
-		"uniques": ["May enter foreign tiles without open borders", "May Paradrop up to [10] tiles from inside friendly territory", "Can undertake a trade mission with City-State, giving a large sum of gold and [90] Influence", "Unbuildable", "Uncapturable"
+		"uniques": ["May enter foreign tiles without open borders", "May Paradrop to [Land] tiles up to [10] tiles away", "Can undertake a trade mission with City-State, giving a large sum of gold and [90] Influence", "Unbuildable", "Uncapturable"
 		],
 		"movement": 2
 	}

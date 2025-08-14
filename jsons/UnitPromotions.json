@@ -945,4 +945,9 @@
         "name": "Messiah Unique",
         "uniques": ["Can Spread Religion <[1] additional time(s)>", "Ignores Zone of Control", "May travel on Water tiles without embarking"]
     },
+	{
+		"name": "The Tamoyo Confederation Unique",
+		"uniques": ["[+50]% XP gained from combat <when fighting in [Friendly Land] tiles>"]
+	},
 ]
+

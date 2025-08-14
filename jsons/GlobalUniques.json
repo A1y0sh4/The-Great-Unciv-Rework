@@ -313,7 +313,7 @@
         "[+25]% [Production] [in all cities] <for [City-States] Civilizations>",
         "[+25]% [Gold] [in all cities] <for [City-States] Civilizations>",
         "[+1 Faith, +1 Culture, +1 Science] per [4] population [in all cities] <for [City-States] Civilizations>",
-        "Gain [150] [Gold] <upon declaring war with a major Civilization> <for [City-States] Civilizations> <(modified by game speed)>",
+        "Gain [150] [Gold] <upon declaring war on [Major] Civilizations> <for [City-States] Civilizations> <(modified by game speed)>",
 	"May buy [Jaguar] units with [Faith] for [2] times their normal Production cost",
 	"[Gold] cost of purchasing [Pitati] units [-25]%", "[Gold] cost of purchasing [Landsknecht] units [-25]%", "[Gold] cost of purchasing [Conquistador] units [-25]%", "[Gold] cost of purchasing [Cossack] units [-25]%", "[Gold] cost of purchasing [Foreign Legion] units [-25]%",
         "[-1] Sight <for [Embarked] units>", "[-1] Sight <for [All] units>",
@@ -335,4 +335,5 @@
 	"Resting point for Influence with City-States is increased by [9] <when number of [[Thermonuclear Missile] Units] is equal to [1]>", "Resting point for Influence with City-States is increased by [18] <when number of [[Thermonuclear Missile] Units] is equal to [2]>","Resting point for Influence with City-States is increased by [21] <when number of [[Thermonuclear Missile] Units] is equal to [3]>","Resting point for Influence with City-States is increased by [36] <when number of [[Thermonuclear Missile] Units] is equal to [4]>","Resting point for Influence with City-States is increased by [45] <when number of [[Thermonuclear Missile] Units] is equal to [5]>", "Resting point for Influence with City-States is increased by [54] <when number of [[Thermonuclear Missile] Units] is equal to [6]>", "Resting point for Influence with City-States is increased by [63] <when number of [[Thermonuclear Missile] Units] is equal to [7]>", "Resting point for Influence with City-States is increased by [72] <when number of [[Thermonuclear Missile] Units] is equal to [8]>", "Resting point for Influence with City-States is increased by [81] <when number of [[Thermonuclear Missile] Units] is equal to [9]>", "Resting point for Influence with City-States is increased by [90] <when number of [[Thermonuclear Missile] Units] is more than [9]>",
     ]
 }
+
 

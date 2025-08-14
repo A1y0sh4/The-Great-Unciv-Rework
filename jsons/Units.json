@@ -1204,7 +1204,7 @@
 		"uniqueTo": "England",
 		"movement": 6,
 		"strength": 20,
-		"rangedStrength": 28,
+		"rangedStrength": 26,
 		"cost": 200,
 		"uniques": ["[+1] Sight", "Destroys tile improvements when attacking"],
 		"requiredTech": "Navigation",

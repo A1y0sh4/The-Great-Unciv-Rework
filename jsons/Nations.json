@@ -5,6 +5,39 @@
 		"innerColor": [0,0,0]
 	},
 	{
+"name": "The Tupi",
+"leaderName": "Quonambec",
+"adjective": ["Tupi"],
+"startBias": ["Jungle"],
+"preferredVictoryType": "Religious",
+"personality": "Quonambec",
+
+	"startIntroPart1": "Oh Great Cunhambebe of the Tupinamba tribe, unifier of the Tupi people, you led your people in the great Tamoyo Confederation against the Portuguese colonists. Your people settled in the Amazon Rainforest, and managed to become one of the main civilizations in the area. Sharing many cultural traditions, the Tupi managed to generate many different tribes: the Tupiniquim, the Tupinamba, the Potiguara, the Tabajara, the Caetes, the Temimino, the Tamoios, and many others, each with their own unique language. Your people unified in the fight against the European colonization. You also managed to sign an alliance with France, making it possible to fight off the enemies of your lands.",
+	"startIntroPart2": "Oh Great Chief of the Tamoyo, your people still wander the Amazon, still remembering your bravery and cunning in diplomacy. Will you once again lead them together? Will you build a Civilization that can stand the test of time?",
+	
+	"declaringWar": "The winds of war fall upon you! The time to look for new fresh sacrifical victims has come.",
+	"attacked": "You, vile creature, will be our new sacrifical victim.",
+	"defeated": "Not even with our confederation, did we manage to defeat you...",
+	"introduction": "Welcome stranger, I'm Quonambec of the Tupinamba. Come and join us at our celebrations in the Maloca.",
+	"neutralHello": "Greetings.",
+	"hateHello": "Are you here to offer yourself as a sacrifice?",
+	"tradeRequest": "Here is a fair offer from the Tupinamba",
+	  
+	"favoredReligion": "Animism",
+
+	"outerColor": [14, 37, 97],
+	"innerColor": [255, 206, 49],
+
+	"uniqueName": "The Tamoyo Confederation",
+	"uniqueText": "Gain +1 [Culture] from every Camp and Pasture adjacent to Tundra\n+1 [Science] from every Mine and Quarry next to Tundra\nThe amounts of bonus [Culture] and [Science] double during a Golden Age",
+	"uniques": ["[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]>",
+	            "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]> <during a Golden Age>"],
+	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Severgrad","Ugolkar","Lyoshasburg","Medvedorod","Ruthenskar","Lyodgorod",
+		"Tovarivsk","Pobedigrad","Zimnygrad","Knyazinsk","Aleksisburg","Velikoye","Novi Aleksandria","kholodnisburg","Lyoshagrad","Svyatograd","Rekasburg","Veliksandria",
+		"Veragrad","Morozburg","Medvedkar"],
+	"spyNames": ["Irina", "Yaroslav", "Vera", "Nikita", "Yelizaveta", "Yevgeny", "Aleksandra", "Vadim", "Adelina", "Maksim"]
+},
+	{
 "name": "Aleksandria",
 "leaderName": "Alyosha",
 "adjective": ["Aleksandrian"],

@@ -1395,7 +1395,7 @@
 		"requiredResource": "Aluminum",
 		"hurryCostModifier": 0,
 		"maintenance": 3,
-		"uniques": ["Must be on [River]", "[+1 Production] from [River] tiles [in this city]", "Provides [-2] [Pollution]"],
+		"uniques": ["Must be on [River]", "[+1 Production] from [River] tiles [in this city]", "Provides [-3] [Pollution]"],
 		"requiredTech": "Electricity"
 	},
 	{
@@ -1559,7 +1559,7 @@
 		"requiredBuilding": "Factory",
 		"maintenance": 3,
 		"requiredTech": "Environmentalism",
-		"uniques": ["Must be next to [Desert]", "Only available <in cities without a [Wind Plant]>", "Only available <in cities without a [Biomass Plant]>", "Provides [-2] [Pollution]"]
+		"uniques": ["Must be next to [Desert]", "Only available <in cities without a [Wind Plant]>", "Only available <in cities without a [Biomass Plant]>", "Provides [-3] [Pollution]"]
 	},
 	{
 		"name": "Wind Plant",
@@ -1568,7 +1568,7 @@
 		"requiredBuilding": "Factory",
 		"maintenance": 3,
 		"requiredTech": "Environmentalism",
-		"uniques": ["Must be next to [Mountain]", "Only available <in cities without a [Solar Plant]>", "Only available <in cities without a [Biomass Plant]>", "Provides [-2] [Pollution]"]
+		"uniques": ["Must be next to [Mountain]", "Only available <in cities without a [Solar Plant]>", "Only available <in cities without a [Biomass Plant]>", "Provides [-3] [Pollution]"]
 	},
 	{
 		"name": "Biomass Plant",
@@ -1577,7 +1577,7 @@
 		"requiredBuilding": "Factory",
 		"maintenance": 3,
 		"requiredTech": "Environmentalism",
-		"uniques": ["Must be next to [Plantation]", "Only available <in cities without a [Solar Plant]>", "Only available <in cities without a [Wind Plant]>", "Provides [-2] [Pollution]"]
+		"uniques": ["Must be next to [Plantation]", "Only available <in cities without a [Solar Plant]>", "Only available <in cities without a [Wind Plant]>", "Provides [-3] [Pollution]"]
 	},
 	{
 		"name": "Recycling Center",
@@ -1655,10 +1655,11 @@
 		"name": "Hubble Space Telescope",
 		"isWonder": true,
 		"culture": 5,
-		"science": 6,
+		"science": 10,
 		"greatPersonPoints": {"Great Scientist": 5},
 		"uniques": ["[+50]% Production when constructing [Space Mission] wonders [in this city]",
 			    "Gain a free [Spaceship Factory] [in this city]",
+			"Gain a free [Observatory] [in this city]",
 			    "[+6 Science] from every [Observatory]", "Only available <when [Scientific] Victory is enabled>"],
 		"requiredTech": "Satellites",
 		"quote": "'The wonder is, not that the field of stars is so vast, but that man has measured it.' - Anatole France"
@@ -1699,7 +1700,7 @@
         {
 		"name": "Quantum Computer",
 		"requiredTech": "Particle Physics",
-		"science": 5,
+		"science": 10,
 		"maintenance": 5,
 		"requiredResource": "Aluminum",
 		"uniques": ["[+100]% [Science] [in this city]"],
@@ -1716,7 +1717,7 @@
 	},
         {
 		"name": "Cloning Lab",
-		"food": 5,
+		"food": 10,
 		"maintenance": 5,
 		"requiredTech": "Nanotechnology",
 		"requiredResource": "Aluminum",
@@ -1726,7 +1727,7 @@
         {
 		"name": "Fusion Reactor",
 		"requiredTech": "Nuclear Fusion",
-		"production": 5,
+		"production": 10,
 		"maintenance": 5,
 		"uniques": ["[+100]% [Production] [in this city]", "Consumes [1] [Uranium]"],
 	},

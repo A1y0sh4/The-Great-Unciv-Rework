@@ -1756,7 +1756,7 @@ ReligionIcons/Druidism
   index: -1
 NationIcons/The Tupi
   rotate: false
-  xy: 1108, 40
+  xy: 2, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

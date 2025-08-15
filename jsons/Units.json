@@ -164,7 +164,7 @@
 		"replaces": "Warrior",
 		"uniqueTo": "The Tupi",
 		"movement": 2,
-		"strength": 8,
+		"strength": 9,
 		"cost": 26,
 		"obsoleteTech": "Iron Working",
 		"upgradesTo": "Swordsman",

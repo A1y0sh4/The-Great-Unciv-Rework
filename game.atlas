@@ -1769,3 +1769,10 @@ NationIcons/The Tupi
   orig: 100, 100
   offset: 0, 0
   index: -1
+ImprovementIcons/Maloca
+  rotate: false
+  xy: 220, 148
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

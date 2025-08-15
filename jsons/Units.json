@@ -1187,7 +1187,7 @@
 		"unitType": "Ranged Water",
 		"movement": 5,
 		"strength": 20,
-		"rangedStrength": 24,
+		"rangedStrength": 28,
 		"cost": 248,
 		"requiredResource": "Iron",
 		"uniques": ["Destroys tile improvements when attacking", "Never appears as a Barbarian unit"],
@@ -1204,7 +1204,7 @@
 		"uniqueTo": "England",
 		"movement": 6,
 		"strength": 20,
-		"rangedStrength": 26,
+		"rangedStrength": 28,
 		"cost": 200,
 		"uniques": ["[+1] Sight", "Destroys tile improvements when attacking"],
 		"requiredTech": "Navigation",
@@ -2068,7 +2068,7 @@
 	{
 		"name": "Great Scientist",
 		"unitType": "Civilian",
-		"uniques": ["Can hurry technology research", "Can instantly construct a [Academy] improvement <by consuming this unit>", "Great Person - [Science]", "Unbuildable", "Uncapturable", "Can be earned through combat <for [Sweden] Civilizations> <hidden from users>"],
+		"uniques": ["Can hurry technology research", "Can instantly construct a [Academy] improvement <by consuming this unit>", "Great Person - [Science]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
 	{

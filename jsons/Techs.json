@@ -73,7 +73,7 @@
 				"name": "Mining",
 				"row": 9,
 				"prerequisites": ["Stone Tools"],
-				"uniques": ["[+67]% weight to this choice for AI decisions <for [Macedonia] Civilizations> <hidden from users>"],
+				"uniques": ["[+50]% weight to this choice for AI decisions <for [Macedonia] Civilizations> <hidden from users>"],
 				"quote": "'The meek shall inherit the Earth, but not its mineral rights.' - J. Paul Getty"
 			}
 
@@ -103,7 +103,7 @@
 				"name": "Writing",
 				"row": 2,
 				"prerequisites": ["Pottery"], 
-				"uniques": ["[+1 Gold] from every [City center]"],
+				"uniques": ["Enables establishment of embassies"],
 				"quote": "'He who destroys a good book kills reason itself.' - John Milton"
 			},
 			{
@@ -144,6 +144,7 @@
 				"name": "Fermentation",
 				"row": 3
 				"prerequisites": ["Calendar"],
+				"uniques": ["[+1 Gold] from every [City center]"],
 				"quote": "'There in wine is found the great generalization: all life is fermentation.' - Richard Feynman"
 			},
 			{
@@ -799,3 +800,4 @@
 		]
 	}
 ]
+

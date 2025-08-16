@@ -286,6 +286,7 @@
 				"name": "Education",
 				"row": 2,
 				"prerequisites": ["Compass","Theology","Civil Service"],
+				"uniques": ["Allied City-States provide [Science] equal to [50]% of what they produce for themselves"],
 				"quote": "'Education is the best provision for old age.' - Aristotle"
 			},
 			{
@@ -800,4 +801,5 @@
 		]
 	}
 ]
+
 

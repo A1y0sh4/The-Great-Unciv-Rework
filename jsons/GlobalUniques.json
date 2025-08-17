@@ -1,7 +1,7 @@
 {
     "name": "Global uniques", 
     "uniques": [
-		"[+1 Food] from every [All] tiles",
+		"[+1 Food] from every [All]",
 		"Requires establishing embassies to conduct advanced diplomacy",
 	"[+3 Science, +3 Gold, +1 Culture] <if [Palace] is not constructed>",
 	"[+10]% Unhappiness from [Population] [in all cities] <when at war>",
@@ -337,6 +337,7 @@
 	"Resting point for Influence with City-States is increased by [9] <when number of [[Thermonuclear Missile] Units] is equal to [1]>", "Resting point for Influence with City-States is increased by [18] <when number of [[Thermonuclear Missile] Units] is equal to [2]>","Resting point for Influence with City-States is increased by [21] <when number of [[Thermonuclear Missile] Units] is equal to [3]>","Resting point for Influence with City-States is increased by [36] <when number of [[Thermonuclear Missile] Units] is equal to [4]>","Resting point for Influence with City-States is increased by [45] <when number of [[Thermonuclear Missile] Units] is equal to [5]>", "Resting point for Influence with City-States is increased by [54] <when number of [[Thermonuclear Missile] Units] is equal to [6]>", "Resting point for Influence with City-States is increased by [63] <when number of [[Thermonuclear Missile] Units] is equal to [7]>", "Resting point for Influence with City-States is increased by [72] <when number of [[Thermonuclear Missile] Units] is equal to [8]>", "Resting point for Influence with City-States is increased by [81] <when number of [[Thermonuclear Missile] Units] is equal to [9]>", "Resting point for Influence with City-States is increased by [90] <when number of [[Thermonuclear Missile] Units] is more than [9]>",
     ]
 }
+
 
 
 

@@ -1859,13 +1859,13 @@
 		"preferredVictoryType": "Scientific",
 		"personality": "Lenin",
 	
-	        "startIntroPart1": "The proletarist rises in your name, O' Vladimir Lenin, leader of this glorious revolution! Though born into wealth, you chose instead to turn to the cause of the working class, taking your place as leader of the Bolshevik Party in a pledge to forge a nation dictated by men of the soil. A storm war brewing in the heart of mighty Russia, and the days of the Tsars were drawing to a close. With the Russian Revolution in 1918, the last Tzar Nicholas II was overthrown, and the monarchy which had raised Russia for centuries was finally undone. With you at the helm of a new, socialist Republic, Russia would begin its journey into modernity.",
+	        "startIntroPart1": "The proletariat rises in your name, O' Vladimir Lenin, leader of this glorious revolution! Though born into wealth, you chose instead to turn to the cause of the working class, taking your place as leader of the Bolshevik Party in a pledge to forge a nation dictated by men of the soil. A storm war brewing in the heart of mighty Russia, and the days of the Tsars were drawing to a close. With the Russian Revolution in 1918, the last Tzar Nicholas II was overthrown, and the monarchy which had raised Russia for centuries was finally undone. With you at the helm of a new, socialist Republic, Russia would begin its journey into modernity.",
 		"startIntroPart2": "Dauntless revolutionary, once again the fires of change must by ignited by you, the Champion of a New Russia. The will of the proletariat lies broken beneath the crowns of proud and greedy autocrats, and demands your determination to inspire strenght. Can you bring forth the will of your brothers against their slavery? Can you build a civilization that will stand the test of time?",
 		
-		"declaringWar": "The despicable ways you treat the proletarians are repulsive. I declare a revolution against you!",
-		"attacked": "You cannot suffocate this revolution.",
+		"declaringWar": "The despicable ways you treat the working class are repulsive. I declare a revolution against you!",
+		"attacked": "You greedy capitalist cannot suffocate this revolution.",
 		"defeated": "You may have defeated our forces, but you'll never bend our ideals in favour of your exploitation.",
-		"denounced": "You say those words only because you don't understand us. You should not be so ignorant simply because you follow an ideal different than ours.",
+		"denounced": "You vilify us because you know that the liberation of the working class will put an end to your sick relentless pursuit of wealth.",
 		"introduction": "Greetings, I am Lenin, leader of the communist revolution. I hope you will join our cause soon, either in one way or in another.",
 		"neutralHello": "Privet.",
 		"hateHello": "What do you need?!",

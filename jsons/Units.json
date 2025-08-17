@@ -1997,7 +1997,7 @@
 		"name": "Modern Armor",
 		"unitType": "Armored",
 		"movement": 5,
-		"strength": 100,
+		"strength": 80,
 		"cost": 1778,
 		"requiredTech": "Lasers",
 		"requiredResource": "Aluminum",

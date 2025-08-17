@@ -181,7 +181,7 @@
 	{
 		"name": "Hill",
 		"type": "TerrainFeature",
-		"production": 0,
+		"food": 1,
 		"overrideStats": true,
 		"movementCost": 2,
 		"defenceBonus": 0.3,
@@ -203,7 +203,6 @@
 	{
 		"name": "Forest",
 		"type": "TerrainFeature",
-		"production": 0,
 		"movementCost": 2,
 		"unbuildable": true,
 		"defenceBonus": 0.3,
@@ -929,5 +928,6 @@
 		"weight": 10
 	},
 ]
+
 
 

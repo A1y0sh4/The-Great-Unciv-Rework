@@ -3,6 +3,7 @@
 	{
 		"name": "Ocean",
 		"type": "Water",
+		"food": 1,
 		"movementCost": 1,
 		"RGB": [0,160,190],
 		 "uniques": ["Becomes [Coast] when adjacent to [Desert]"]
@@ -10,6 +11,7 @@
 	{
 		"name": "Coast",
 		"type": "Water",
+		"food": 1,
 		"movementCost": 1,
 		"RGB": [100,230,245],
 		"uniques": ["[+2] to Fertility for Map Generation",
@@ -24,11 +26,11 @@
 	{
 		"name": "Grassland",
 		"type": "Land",
-		"food": 0,
+		"food": 1,
 		"movementCost": 1,
         "RGB": [128,200,42],
-        "uniques": ["[+1 Food]",
-		"Occurs at temperature between [-0.4] and [0.1] and humidity between [0.2] and [0.4]",
+        "uniques": [
+			"Occurs at temperature between [-0.4] and [0.1] and humidity between [0.2] and [0.4]",
             "Occurs at temperature between [0.1] and [0.2] and humidity between [0.3] and [0.4]",
             "Occurs at temperature between [-0.5] and [0.5] and humidity between [0.6] and [0.8]",
             "Occurs at temperature between [-0.5] and [1] and humidity between [0.9] and [1]",
@@ -54,7 +56,7 @@
 	{
 		"name": "Plains",
 		"type": "Land",
-		"food": 0,
+		"food": 1,
 		"movementCost": 1,
 		"RGB": [202,198,25],
 		"uniques": [
@@ -86,6 +88,7 @@
 	{
 		"name": "Tundra",
 		"type": "Land",
+		"food": 1,
 		"movementCost": 1,
 		"RGB": [227,155,90],
 		"uniques": [
@@ -110,6 +113,7 @@
 	{
 		"name": "Desert",
 		"type": "Land",
+		"food": 1,
 		"movementCost": 1,
 		"RGB": [255, 220, 115],
 		"uniques": [
@@ -132,6 +136,7 @@
 	{
 		"name": "Mountain",
 		"type": "Land",
+		"food": 1,
 		"impassable": true,
 		"overrideStats": true,
 		"defenceBonus": 0.5,
@@ -154,6 +159,7 @@
 	{
 		"name": "Snow",
 		"type": "Land",
+		"food": 1,
 		"movementCost": 1,
 		"RGB": [250, 255, 255],
 		"uniques": [
@@ -923,4 +929,5 @@
 		"weight": 10
 	},
 ]
+
 

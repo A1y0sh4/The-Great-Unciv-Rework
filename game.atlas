@@ -1775,3 +1775,17 @@ UnitIcons/Uybabaeté
   orig: 100, 100
   offset: 0, 0
   index: -1
+ReligionIcons/Wicca
+  rotate: false
+  xy: 1220, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Internationalism
+  rotate: false
+  xy: 1340, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

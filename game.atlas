@@ -1880,14 +1880,14 @@ BuildingIcons/Aluminum Plant
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Quantum Computer
+BuildingIcons/Wind Plant
   rotate: false
   xy: 1108, 280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-PolicyBranchIcons/Individualism
+BuildingIcons/Biomass Plant
   rotate: false
   xy: 1108, 400
   size: 100, 100

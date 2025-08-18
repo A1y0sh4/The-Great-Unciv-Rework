@@ -741,7 +741,7 @@
 				"name": "Globalization",
 				"row": 2,
 				"prerequisites": ["Telecommunications","Mobile Tactics","Advanced Ballistics"],
-				"uniques": ["Gifts of Gold to City-States generate [50]% more Influence"],
+				"uniques": ["Gifts of Gold to City-States generate [25]% more Influence", "[+5]% [Gold] [in all cities] <for every [Remaining [Major] Civilizations]>"],
 				"quote": "'Globalization is not a monolith; it's a complex of flows—some smooth, some turbulent.' - Arjun Appadurai"
 			},
 			{
@@ -803,6 +803,7 @@
 		]
 	}
 ]
+
 
 
 

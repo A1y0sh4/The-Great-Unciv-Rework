@@ -1340,7 +1340,7 @@
 		"name": "Coal Plant",
 		"requiredBuilding": "Factory",
 		"maintenance": 3,
-		"uniques": ["Remove [Oil Plant] [in this city]", "Remove [Nuclear Plant] [in this city]", "Only available <when above [0] [Coal]>", "[+1 Production] <for every [2] [Coal]>", "[+1]% [Production] [in this city] <for every [Coal]>", "Provides [1] [Pollution] <for every [4] [Coal]>", "Unbuildable <if [Oil Plant] is constructed> <in this city> <hidden from users>", "Unbuildable <if [Nuclear Plant] is constructed> <in this city> <hidden from users>", "Shown while unbuilable"],
+		"uniques": ["Remove [Oil Plant] [in this city]", "Remove [Nuclear Plant] [in this city]", "Only available <when above [0] [Coal]>", "[+1 Production] <for every [2] [Coal]>", "[+1]% [Production] [in this city] <for every [Coal]>", "Provides [1] [Pollution] <for every [4] [Coal]>", "Unbuildable <if [Oil Plant] is constructed> <in this city> <hidden from users>", "Unbuildable <if [Nuclear Plant] is constructed> <in this city> <hidden from users>", "Shown while unbuilable", "Can be purchased with [Gold] [in this city] <if [Oil Plant] is constructed> <in this city>", "Can be purchased with [Gold] [in this city] <if [Nuclear Plant] is constructed> <in this city>"],
 		"hurryCostModifier": 0,
 		"requiredTech": "Industrialization"
 	},

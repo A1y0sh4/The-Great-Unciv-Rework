@@ -1824,7 +1824,7 @@ TechIcons/Refining
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Street Carnival
+TechIcons/Sociology
   rotate: false
   xy: 328, 40
   size: 100, 100

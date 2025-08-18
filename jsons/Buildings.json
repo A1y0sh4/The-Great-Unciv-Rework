@@ -679,7 +679,7 @@
 		"requiredTech": "Currency"
 	},
 	{ 
-		"name": "Great Zimbabwe",
+		"name": "Great Enclosure",
 		"culture": 2,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Merchant": 2},

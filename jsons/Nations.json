@@ -36,7 +36,7 @@
 	"innerColor": [255, 206, 49],
 
 	"uniqueName": "Pearl of the North",
-	"uniqueText": "Gain +1 [Culture] from every Camp and Pasture adjacent to Tundra\n+1 [Science] from every Mine and Quarry next to Tundra\nThe amounts of bonus [Culture] and [Science] double during a Golden Age",
+	"uniqueText": "Gain +1 [Culture] from every [Camp] and [Pasture] adjacent to [Tundra]\n+1 [Science] from every [Mine] and [Quarry] next to [Tundra]\nThe amounts of bonus [Culture] and [Science] double during a Golden Age",
 	"uniques": ["[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]>",
 	            "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]> <during a Golden Age>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Severgrad","Ugolkar","Lyoshasburg","Medvedorod","Ruthenskar","Lyodgorod",
@@ -178,7 +178,7 @@
 		"innerColor": [230, 40, 50],
 		
 		"uniqueName": "Golden Stool",
-		"uniqueText": "Palace yields +1 value of its stat with an additional +1 for every two passed eras",
+		"uniqueText": "[Palace] yields +1 value of its stat with an additional +1 for every two passed eras",
 		"uniques": ["[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Classical era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Renaissance era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Modern era]>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] from every [Palace] <starting from the [Information era]>"],
 		"cities": ["Kumasi","Bantama","Mampong","Edweso","Bekwai","Kumawu","Obuasi","Adanse","Asante-Akim Agogo","Juaben",
 			"Ejisu","Fomena","Agona-Ashanti","Dunkwa-on-Offin","Techiman","Afram Plains","Konongo","Akwatia","Obogu","Nkawie","Asokore Mampong",
@@ -242,7 +242,7 @@
 		
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Terra Australis",
-		"uniqueText": "Cities in costal tiles gain an additional +2 [Food] while inland cities gain -1 [Food]\nNatural Wonders give +1 [Happiness] and +1 [Culture] to all cities within 6 tiles of them",
+		"uniqueText": "Cities in coastal tiles gain an additional +2 [Food] while inland cities gain -1 [Food]\nNatural Wonders give +1 [Happiness] and +1 [Culture] to all cities within 6 tiles of them",
 		"uniques": ["[+3 Food] [in all coastal cities]", "[-1 Food] [in all cities]", "[+1 Happiness, +1 Culture] [in all cities] <within [6] tiles of a [Natural Wonder]>"],
 		"cities": ["Canberra", "Sydney", "Perth", "Melbourne", "Brisbane", "Adelaide", "Darwin", "Hobart", "Wollongong", "Mackay", "Townsville", "Cairns", "Dampier", "Alice Springs", "Bathurst", "Queanbeyan", "Bundaberg", "Coffs Harbor", "Fremantle", "Gladstone", "Goulburn", "Hervey Bay", "Kalgoorlie"],
 		"spyNames": ["Nicole", "James", "Olivia", "Luke", "Zoe", "Jackson", "Holly", "Cody", "Paige", "Mitch"]
@@ -394,7 +394,7 @@
 		"innerColor": [63,106,64],
 		
 		"uniqueName": "Amazon",
-		"uniqueText": "Improved Jungles yield an additional +1 [Culture] and +1 [Gold]\nGreat Improvements adjacent to Jungle yield 50% more of their stats",
+		"uniqueText": "Improved [Jungles] yield an additional +1 [Culture] and +1 [Gold]\nGreat Improvements adjacent to [Jungle] yield 50% more of their stats",
 		"uniques": ["[+1 Culture, +1 Gold] from every [Lumber mill] <in [Jungle] tiles>", "[+1 Culture, +1 Gold] from every [Fort] <in [Jungle] tiles>", "[+1 Culture, +1 Gold] from every [Trading post] <in [Jungle] tiles>", "[+1 Culture, +1 Gold] from every [Camp] <in [Jungle] tiles>", "[+50]% Yield from every [Great Improvement] <within [1] tiles of a [Jungle]>"],
 		"cities": ["Rio de Janeiro", "Sao Paulo", "Salvador", "Brasilia", "Fortaleza", "Belo Horizonte", "Manaus", "Curitiba", "Recife", "Porto Alegre",
 			"Belém", "Goiânia", "Guarulhos", "Campinas", "São Luis", "Maceió", "Duque de Caxias", "Natal", "Campo Grande", "Teresina",
@@ -406,7 +406,7 @@
 		"name": "Byzantium",
 		"leaderName": "Theodora",
 		"adjective": ["Byzantine"],
-                "startBias": ["Coast"],
+        "startBias": ["Coast"],
 		"preferredVictoryType": "Religious",
 		"personality": "Theodora",
 
@@ -425,7 +425,7 @@
 		"innerColor": [255, 191, 0],
 		
 		"uniqueName": "Patriarchate of Constantinople",
-		"uniqueText": "When founding a religion you can adopt 2 Founder beliefs at the same time\nFarms next to a city center yield an additional +1 [Faith]\nGain +2 [Culture] for each global city following your religion",
+		"uniqueText": "When founding a religion you can adopt 2 Founder beliefs at the same time\n[Farms] next to a city center yield an additional +1 [Faith]\nGain +2 [Culture] for each global city following your religion",
 		"uniques": ["Gain a free [Founder] belief <upon founding a Religion>", "[+1 Faith] from every [Farm] <within [1] tiles of a [City center]>"],
 		"cities": ["Constantinople","Adrianople","Nicaea","Antioch","Varna","Ohrid","Nicomedia","Trebizond","Cherson","Sardica",
 			"Ani","Dyrrachium","Edessa","Chalcedon","Naissus","Bari","Iconium","Prilep","Samosata","Kars",
@@ -441,7 +441,7 @@
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Wilfrid Laurier",
 		
-                "startIntroPart1": "Welcome, Sir Wilfrid Laurier, Prime Minister of Canada. Your is a free country and freedom is its nationality, and it is your task to ensure that said liberty is preserved. Born from French stock, your tenure as Prime Minister would cement the foundations of Canada as a bastion of freedom in the new world. Under your leadership, your country would expand to the green plains if the West, and the wounds dealt by the rivalries and alliances of the Old World would begin to heal. An intelligent and eloquent politician, your words and deeds would keep Canada hale and whole through the First World War and beyond.",
+        "startIntroPart1": "Welcome, Sir Wilfrid Laurier, Prime Minister of Canada. Your is a free country and freedom is its nationality, and it is your task to ensure that said liberty is preserved. Born from French stock, your tenure as Prime Minister would cement the foundations of Canada as a bastion of freedom in the new world. Under your leadership, your country would expand to the green plains if the West, and the wounds dealt by the rivalries and alliances of the Old World would begin to heal. An intelligent and eloquent politician, your words and deeds would keep Canada hale and whole through the First World War and beyond.",
 		"startIntroPart2": "The world is once again plunged into darkness, and Canada herself struggles in the shadows. O' steadfast Prime Minister, will you be for Canada a pillar of fire, guiding the free world with your sunny ways? Will you build a civilization to stand the test of time?",
 		
 		"declaringWar": "In responding to the unstinting malignancy that has heretofore defined your relationship with Canada, we can have no recourse but war!",
@@ -530,7 +530,7 @@
 		"innerColor": [148, 170, 255],
 		
 		"uniqueName": "Druidic Lore",
-		"uniqueText": "City centers adjacent to forests yield an additional +1 [Faith] before founding a Pantheon\nUnimproved forests yield an additional +1 [Faith], bonus which turns into +1 [Gold] for Improved forests\n+50% construction time for all improvements in Vegetation tiles",
+		"uniqueText": "[City center]s adjacent to [Forest]s yield an additional +1 [Faith] before founding a Pantheon\nUnimproved [Forest]s yield an additional +1 [Faith], bonus which turns into +1 [Gold] for Improved [Forest]s\n+50% construction time for all improvements in Vegetation tiles",
 		"uniques": ["[+1 Faith] from [Forest] tiles [in all cities]", "[-1 Faith, +1 Gold] from every [Improvement] <in [Forest] tiles>", "[+1 Faith] from every [City center] <within [1] tiles of a [Forest]> <before founding a Pantheon>"],
 		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth","Penzance",
 			"Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen","Belfast",
@@ -563,7 +563,7 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Art of War",
-		"uniqueText": "Great General's Strength bonus is doubled\nSpies operate if they were one level more experienced (when espionage is enabled)\n+10% to Flank Attack bonuses for Military units (when espionage is disabled)",
+		"uniqueText": "[Great General]'s Strength bonus is doubled\nSpies operate if they were one level more experienced (when espionage is enabled)\n+10% to Flank Attack bonuses for Military units (when espionage is disabled)",
 		"uniques": ["Great General provides double combat bonus", "[+25]% spy effectiveness [in all cities]", "[+10]% to Flank Attack bonuses <for [Military] units> <when espionage is disabled>"],
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
@@ -596,7 +596,7 @@
 		"innerColor": [97, 191, 34],
 		
 		"uniqueName": "Nîhithaw",
-		"uniqueText": "Upon building Camps and Pastures, gain control of their surrounding tiles\nGain 20% more yield from Golden Age bonuses",
+		"uniqueText": "Upon building [Camps] and [Pastures], gain control of their surrounding tiles\nGain 20% more yield from Golden Age bonuses",
 		"uniques": ["[+5]% [Production] [in all cities] <during a Golden Age>", "[+5]% [Culture] [in all cities] <during a Golden Age>", "[+5]% [Science] [in all cities] <during a Golden Age> <after adopting [Scientific Revolution]>", "[-2]% Unhappiness from [Population] [in all cities] <during a Golden Age>"],
 		"cities": ["Mikisiw-Wacîhk","Pihtokahanapiwiyin","Mistahi-Sipihk","Paskwaw-Askhik","Piyesiw-Awasis","Mistawasis","Makwa-Sakahikan","Ka-Peyakwaskonam","Ahtahkakoop","Wihkasko-Kiseyin",
 			"Chemawawin","Ka-kiwistahaw","Ka-ohpawakastahk","Kawacatoose","Kawawachikamach","Kinosew-Sakahikan","Maskotew","Missanabie","Moosomin","Natashquan","Nekaneet",
@@ -628,7 +628,7 @@
 		"innerColor": [255,255,102],
 		
 		"uniqueName": "Viking Fury",
-		"uniqueText": "All units embark and disembark using only 1 movement point\nMilitary units don't use movement points to pillage and don't suffer from water attack maluses\nAll units can enter Ocean tiles upon entering the Medieval era",
+		"uniqueText": "All units embark and disembark using only 1 movement point\nMilitary units don't use movement points to pillage and don't suffer from water attack maluses\nAll units can enter [Ocean] tiles upon entering the Medieval era",
 		"uniques": ["No movement cost to pillage <for [Military] units>", "[{Military} {Land}] units gain the [Amphibious] promotion", "[1] Movement point cost to embark <for [All] units>", "[1] Movement point cost to disembark <for [All] units>", "Enables [All] units to enter ocean tiles <starting from the [Medieval era]>",
 		], 
 		"cities": ["Copenhagen","Aarhus","Kaupang","Ribe","Viborg","Tunsbers","Roskilde","Hedeby","Jelling","Truso",
@@ -665,7 +665,7 @@
 		"innerColor": [98,10,210],
 		
 		"uniqueName": "Monument Builders",
-		"uniqueText": "Gain 33% of the cost of a World Wonder as [Culture] and [Science] (modified by game speed)\n+1 [Production] in cities on River tiles",
+		"uniqueText": "Gain 33% of the cost of a World Wonder as [Culture] and [Science] (modified by game speed)\n+1 [Production] in cities on [River] tiles",
 		"uniques": ["Gain [9] [Culture] <upon constructing [World Wonder] [in all cities]> <during the [Ancient era]> <on [Turbo] game speed>",
 		            "Gain [15] [Culture] <upon constructing [World Wonder] [in all cities]> <during the [Classical era]> <on [Turbo] game speed>",
 		            "Gain [22] [Culture] <upon constructing [World Wonder] [in all cities]> <during the [Medieval era]> <on [Turbo] game speed>",
@@ -976,7 +976,7 @@
 		"innerColor": [204,122,40],
 		
 		"uniqueName": "Strength in Unity",
-		"uniqueText": "Suffer double Unhappiness from the number of cities\nGain +1 [Happiness] in capital every 150 [Faith] available in your reserves when not in a Golden Age which turns into [Culture] during a Golden Age (modified by game speed)\nGain +1 [Faith] from every mountain",
+		"uniqueText": "Suffer double Unhappiness from the number of cities\nGain +1 [Happiness] in capital every 150 [Faith] available in your reserves when not in a Golden Age which turns into [Culture] during a Golden Age (modified by game speed)\nGain +1 [Faith] from every [Mountain]",
 		"uniques": ["[+100]% unhappiness from the number of cities",
 			    "[+1 Happiness] [in capital] <for every [38] [Faith]> <on [Turbo] game speed> <when not in a Golden Age>", "[+1 Culture] [in capital] <for every [38] [Faith]> <on [Turbo] game speed> <during a Golden Age>",
 			    "[+1 Happiness] [in capital] <for every [75] [Faith]> <on [Online] game speed> <when not in a Golden Age>", "[+1 Culture] [in capital] <for every [75] [Faith]> <on [Online] game speed> <during a Golden Age>",
@@ -1014,7 +1014,7 @@
 		"outerColor": [150,150,150],
 		"innerColor": [60,60,60],
 		"uniqueName": "Iron and Blood",
-		"uniqueText": "+10% [Production] when constructing Military buildings and units (double bonus when at war)\nMilitary buildings yield an additional +1 [Science]\nMilitary units gain the Formation I promotion",
+		"uniqueText": "+10% [Production] when constructing Military buildings and units (double bonus when at war)\nMilitary buildings yield an additional +1 [Science]\nMilitary units gain the [Formation I] promotion",
 		"uniques": ["[Military] units gain the [Formation I] promotion", "[+10]% Production when constructing [Military] units [in all cities]", "[+10]% Production when constructing [Barracks] buildings [in all cities]", "[+10]% Production when constructing [Armory] buildings [in all cities]", "[+10]% Production when constructing [Military Academy] buildings [in all cities]", "[+10]% Production when constructing [Military] units [in all cities] <when at war>", "[+10]% Production when constructing [Barracks] buildings [in all cities] <when at war>", "[+10]% Production when constructing [Armory] buildings [in all cities] <when at war>", "[+10]% Production when constructing [Military Academy] buildings [in all cities] <when at war>", "[+1 Science] from every [Barracks]", "[+1 Science] from every [Armory]", "[+1 Science] from every [Military Academy]"],
 		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Dusseldorf","Bremen",
 			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
@@ -1117,7 +1117,7 @@
 		"innerColor": [45,45,45],
 		
 		"uniqueName": "Free Imperial Cities",
-		"uniqueText": "Can spend Gold to annex or puppet a City-State that has been your Ally for 5 turns\nMay not annex cities, but may buy items in puppet cities\nPuppeted cities do not suffer from [Gold] and [Science] maluses",
+		"uniqueText": "Can spend [Gold] to annex or puppet a City-State that has been your Ally for 5 turns\nMay not annex cities, but may buy items in puppet cities\nPuppeted cities do not suffer from [Gold] and [Science] maluses",
 		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns", "May not annex cities", "May buy items in puppet cities", "[+25]% [Gold] [in puppeted cities]", "[+25]% [Science] [in puppeted cities]"],
 		"cities": ["Aachen","Frankfurt","Magdeburg","Regensburg","Strasbourg","Lübeck","Augsburg","Nuremberg","Munich","Worms","Ulm","Dortmund","Mainz","Leipzig","Hannover","Cologne","Stuttgart","Dusseldorf","Bremen",
 			"Duisburg","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
@@ -1161,7 +1161,7 @@
 		"outerColor": [255,184,33],
 		"innerColor": [3,115,86],
 		"uniqueName": "Great Andean Road",
-		"uniqueText": "Light units can move through Mountains and Hills without Movement point penalties\nGain +2 [Gold] from every mountain",
+		"uniqueText": "Light units can move through [Mountain]s and [Hill]s without Movement point penalties\nGain +2 [Gold] from every [Mountain]",
 		"uniques": ["[Sword] units gain the [Climber] promotion", "[Archer] units gain the [Climber] promotion", "[Scout] units gain the [Climber] promotion", "[Worker] units gain the [Climber] promotion", "[Settler] units gain the [Climber] promotion",
 			    "[+2 Gold] from every [Mountain]"],
 		"cities": ["Cuzco","Tiwanaku","Machu","Ollantaytambo","Corihuayrachina","Huamanga","Rumicucho","Vilcabamba","Vitcos",
@@ -1237,7 +1237,7 @@
 		"innerColor": [246,205,137],
 		
 		"uniqueName": "The Great Warpath",
-		"uniqueText": "All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.\nCity centers adjacent to Forests or Jungles yield an additional +1 [Culture]",
+		"uniqueText": "All units move through [Forest] and [Jungle] Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.\nCity centers adjacent to [Forest]s or [Jungle]s yield an additional +1 [Culture]",
 		"uniques": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.", "[+1 Culture] from every [City center] <within [1] tiles of a [Forest]>", "[+1 Culture] from every [City center] <within [1] tiles of a [Jungle]>"],
 		"cities": ["Onoondaga","Osininka","Grand River","Akwesasme","Buffalo Creek","Brantford","Montreal","Genesse River",
 			"Canandaigua Lake","Lake Simcoe","Salamanca","Gowanda","Cuba","Akron","Kanesatake","Ganienkeh","Cayuga Castle",
@@ -1301,7 +1301,7 @@
 		"innerColor": [188,0,45],
 		
 		"uniqueName": "Bushido",
-		"uniqueText": "Gain +5% Strength for Military units for every 25 HP lost\nEarn 50% of killed Military unit's Strength as [Culture]\n+1 [Culture] from Fishing Boats and from Water Features",
+		"uniqueText": "Gain +5% Strength for Military units for every 25 HP lost\nEarn 50% of killed Military unit's Strength as [Culture]\n+1 [Culture] from [Fishing Boats] and from Water Features",
 		"uniques": ["[+5]% Strength <for [Military] units> <when below [100] HP> <when above [75] HP>", "[+10]% Strength <for [Military] units> <when below [76] HP> <when above [50] HP>", "[+15]% Strength <for [Military] units> <when below [51] HP> <when above [25] HP>", "[+20]% Strength <for [Military] units> <when below [26] HP>", "[+1 Culture] from every [Fishing Boats]", "[+1 Culture] from every [Atoll]", "[+1 Culture] from every [Kelp Forest]", "[+1 Culture] from every [Coral Reef]", "Earn [50]% of killed [Military] unit's [Strength] as [Culture]"],
 		"cities": ["Kyoto","Tokyo","Osaka","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
 			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
@@ -1333,7 +1333,7 @@
 		"innerColor": [255,233,142],
 		
 		"uniqueName": "Greco-Varangian Way",
-		"uniqueText": "Units move through Rivers without any penalty and River tiles yield an additional +1 [Gold] when improved\nGreat Generals may undertake trade missions with City-States",
+		"uniqueText": "Units move through [River]s without any penalty and [River] tiles yield an additional +1 [Gold] when improved\n[Great General]s may undertake trade missions with City-States",
 		"uniques": ["[All] units gain the [River Mobility] promotion", "[+1 Gold] from [River] tiles [in all cities] <in [Improvement] tiles>"],
 		"cities": ["Kiev","Polotsk","Novgorod","Pskov","Ryazan","Tver","Vladimir","Smolensk","Chernigov","Pereyaslavl","Kaniv","Horchevsk",
 			"Hubyn","Iskorosten","Volodymyr","Dorogochyn","Lublin","Halych","Rodka","Kiliya","Bilyar"],
@@ -1398,7 +1398,7 @@
 		"innerColor": [254, 218, 54],
 		
 		"uniqueName": "Hellenistic Fusion",
-		"uniqueText": "Upon capturing a city, receive immediately 5 times its respective [Science] and [Culture] production and all non-air military units heal 25 HP and gain 3 XP\nUnhappiness in puppeted cities is halved when at war\nGreat Generals may found new puppet cities",
+		"uniqueText": "Upon capturing a city, receive immediately 5 times its respective [Science] and [Culture] production and all non-air military units heal 25 HP and gain 3 XP\nUnhappiness in puppeted cities is halved when at war\n[Great General]s may found new puppet cities",
 		"uniques": ["Upon capturing a city, receive [5] times its [Science] production as [Science] immediately", "Upon capturing a city, receive [5] times its [Culture] production as [Culture] immediately", "[{Military} {non-air}] units gain the [To the World's End] promotion <upon conquering a city>", "[-50]% Unhappiness from [Population] [in puppeted cities] <when at war>", "[+1 Happiness] [in puppeted cities] <when at war>"],
 		"cities": ["Pella","Aigai","Amphipolis","Alexandropouli","Alexandria Troas","Alexandria","Alexandria Ariana",
 			"Alexandria Arachosia","Alexandria Eschate","Alexandria in Parapamisdai","Alexandria in Margiana","Alexandria Bucephala","Alexandria Rhambakia","Alexandria in Susiana","Stagira","Thessaloniki","Dion","Pydna","Apollonia","Philippolis",
@@ -1431,7 +1431,7 @@
 		"innerColor": [167,52,31],
 		
 		"uniqueName": "Great Nusantara",
-		"uniqueText": "Earn 50% of killed Military unit's Strength as [Faith] in Water tiles\nEnables to buy Water units with [Faith] before the Industrial era\nGain an additional +1 [Faith] from every Fishing Boats",
+		"uniqueText": "Earn 50% of killed Military unit's Strength as [Faith] in Water tiles\nEnables to buy Water units with [Faith] before the Industrial era\nGain an additional +1 [Faith] from every [Fishing Boats]",
 		"uniques": ["Earn [50]% of killed [{Military} {Water}] unit's [Strength] as [Faith] <in [Water] tiles>", "May buy [Water] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>", "[+1 Faith] from every [Fishing Boats]"],
 		"cities": ["Trowulan","Daha","Kahuripan","Lumajang","Lasem","Pajang","Tuban","Madura","Tumasik","Palembang",
 			"Jambi","Lwa Gajah","Lombok Mirah","Gurun","Saksak","Tanjung Kute","Banjar","Katingan","Sampit","Darmmacraya",
@@ -1465,7 +1465,7 @@
 		"innerColor": [125, 236, 227],
 		
 		"uniqueName": "Toqui",
-		"uniqueText": "+1% Strength for Military units for every Happiness (up to +15%)\nPopulation doesn't generate additional unhappiness when at war",
+		"uniqueText": "+1% Strength for Military units for every [Happiness] (up to +15%)\nPopulation doesn't generate additional unhappiness when at war",
 		"uniques": ["[+1]% Strength <when between [1] and [1] [Happiness]>","[+2]% Strength <when between [2] and [2] [Happiness]>","[+3]% Strength <when between [3] and [3] [Happiness]>","[+4]% Strength <when between [4] and [4] [Happiness]>","[+5]% Strength <when between [5] and [5] [Happiness]>",
 			    "[+6]% Strength <when between [6] and [6] [Happiness]>","[+7]% Strength <when between [7] and [7] [Happiness]>","[+8]% Strength <when between [8] and [8] [Happiness]>","[+9]% Strength <when between [9] and [9] [Happiness]>","[+10]% Strength <when between [10] and [10] [Happiness]>",
 			    "[+11]% Strength <when between [11] and [11] [Happiness]>","[+12]% Strength <when between [12] and [12] [Happiness]>","[+13]% Strength <when between [13] and [13] [Happiness]>","[+14]% Strength <when between [14] and [14] [Happiness]>","[+15]% Strength <when above [15] [Happiness]>", "[-10]% Unhappiness from [Population] [in all cities] <when at war>"],
@@ -1564,7 +1564,7 @@
 		"innerColor": [105,73,45],
 		
 		"uniqueName": "Ta-Seti",
-		"uniqueText": "Archery units are 33% faster to build and they gain +50% XP and the Accuracy I promotion",
+		"uniqueText": "Archery units are 33% faster to build and they gain +50% XP and the [Accuracy I] promotion",
 		"uniques": ["[+33]% Production when constructing [Archery] units [in all cities]", "[+50]% XP gained from combat <for [Archery] units>", "[Archery] units gain the [Accuracy I] promotion"],
 		"cities": ["Meroë","Napata","Kerma","Miam","El-Kurru","Abu Simbel","Pachoras","Buhen","Nuri","Kawa","Soleb","Wad ban Naqa","Debba","Sadeinga","Iken","Buhen","Faras","Pademe","Shaat","Heh","Dengeil","Bugdumbush","Amara","Pedeme"],
 		"spyNames": ["Alara", "Amanirenas", "Apedemak", "Amenirdis", "Arqamani", "Kadimalo", "Mandulis", "Nasala", "Piye", "Tabiry"]
@@ -1660,7 +1660,7 @@
 		"innerColor": [255,255,78],
 		
 		"uniqueName": "Wayfinding",
-		"uniqueText": "All units can embark and enter Ocean tiles without the technological requirements\nEmbraked units gain +1 additional Movement and Sight",
+		"uniqueText": "All units can embark and enter [Ocean] tiles without the technological requirements\nEmbraked units gain +1 additional Movement and Sight",
 		"uniques": ["Enables embarkation for land units", "Enables [All] units to enter ocean tiles", "[+1] Sight <for [Embarked] units>", "[+1] Movement <for [Embarked] units>"],
 		"cities": ["Honolulu","Samoa","Tonga","Nuku Hiva","Raiatea","Aotearoa","Tahiti","Hilo","Te Wai Pounamu","Rapa Nui",
 			"Tuamotu","Rarotonga","Tuvalu","Tubuai","Mangareva","Oahu","Kiritimati","Ontong Java","Niue","Rekohu",
@@ -1692,7 +1692,7 @@
 		"innerColor": [8,25,115],
 		
 		"uniqueName": "Discovery Age",
-		"uniqueText": "The empire enters a Golden Age upon discovering a Natural Wonder\nGain a free Great Navigator upon entering the Renaissance era",
+		"uniqueText": "The empire enters a Golden Age upon discovering a Natural Wonder\nGain a free [Great Navigator] upon entering the Renaissance era",
 		"uniques": ["Empire enters golden age <upon discovering a Natural Wonder>", "Free [Great Navigator] appears <upon entering the [Renaissance era]>"],
 		"cities": ["Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Luanda",
 			"Evora","Faro","Castelo Branco","Bissau","Guarda","Viseu","Praia","Braganza","Beja","Tomar",
@@ -1756,7 +1756,7 @@
 		"innerColor": [0,0,0],
 		
 		"uniqueName": "Siberian Riches",
-		"uniqueText": "Gain in your capital +1 [Production] for every 3 amounts of Strategic resources you own and +1 [Gold] for every amount of Luxury resources you own\nStrategic resources in Tundra or Snow tiles provide 2 additional amounts of their resource\nLuxury resources in Tundra or Snow tiles provide 1 additional amount of their resource",
+		"uniqueText": "Gain in your capital +1 [Production] for every 3 amounts of Strategic resources you own and +1 [Gold] for every amount of Luxury resources you own\nStrategic resources in [Tundra] or [Snow] tiles provide 2 additional amounts of their resource\nLuxury resources in [Tundra] or [Snow] tiles provide 1 additional amount of their resource",
 		"uniques": ["[+1 Production] [in capital] <for every [3] [Horses]>", "[+1 Production] [in capital] <for every [3] [Iron]>", "[+1 Production] [in capital] <for every [3] [Coal]>", "[+1 Production] [in capital] <for every [3] [Oil]>", "[+1 Production] [in capital] <for every [3] [Aluminum]>", "[+1 Production] [in capital] <for every [3] [Uranium]>",
 		"[+1 Gold] [in capital] <for every [Amber]>", "[+1 Gold] [in capital] <for every [Beer]>", "[+1 Gold] [in capital] <for every [Citrus]>", "[+1 Gold] [in capital] <for every [Cocoa]>", "[+1 Gold] [in capital] <for every [Coffee]>", "[+1 Gold] [in capital] <for every [Cognac]>", "[+1 Gold] [in capital] <for every [Copper]>",
                 "[+1 Gold] [in capital] <for every [Cotton]>", "[+1 Gold] [in capital] <for every [Crab]>", "[+1 Gold] [in capital] <for every [Dyes]>", "[+1 Gold] [in capital] <for every [Furs]>", "[+1 Gold] [in capital] <for every [Gems]>", "[+1 Gold] [in capital] <for every [Gold Ore]>", "[+1 Gold] [in capital] <for every [Incense]>",
@@ -1876,7 +1876,7 @@
 		"innerColor": [248,215,12],
 		
 		"uniqueName": "Workers Revolution",
-		"uniqueText": "Farms, Plantation, Mines and Quarries yield an additional +1 of their respective stat during a Golden Age\nEmpire enters a Golden age upon completing a policy tree\nGain a free worker upon entering a Golden age",
+		"uniqueText": "[Farms], [Plantation], [Mines] and Quarries yield an additional +1 of their respective stat during a Golden Age\nEmpire enters a Golden age upon completing a policy tree\nGain a free [Worker] upon entering a Golden age",
 		"uniques": ["[+1 Food] from every [Farm] <during a Golden Age>", "[+1 Food] from every [Plantation] <during a Golden Age>", "[+1 Production] from every [Mine] <during a Golden Age>", "[+1 Production] from every [Quarry] <during a Golden Age>",
 		            "Empire enters golden age <upon adopting [Tradition Complete]>", "Empire enters golden age <upon adopting [Liberty Complete]>", "Empire enters golden age <upon adopting [Expansion Complete]>", "Empire enters golden age <upon adopting [Piety Complete]>", "Empire enters golden age <upon adopting [Relations Complete]>",
 		            "Empire enters golden age <upon adopting [Commerce Complete]>", "Empire enters golden age <upon adopting [Rationalism Complete]>", "Empire enters golden age <upon adopting [Individualism Complete]>", "Empire enters golden age <upon adopting [Nationalism Complete]>", "Empire enters golden age <upon adopting [Internationalism Complete]>",
@@ -2024,7 +2024,7 @@
         "innerColor": [246, 68, 65],
 
 		"uniqueName": "Slave States",
-		"uniqueText": "Plantations yield +50% more of their respective stats\nWorkers cost 25% less [Gold] to be purchased\nCities within 3 tiles of a plantation suffer from 10% more unhappiness from population",
+		"uniqueText": "[Plantation]s yield +50% more of their respective stats\n[Worker]s cost 25% less [Gold] to be purchased\nCities within 3 tiles of a plantation suffer from 10% more unhappiness from population",
 		"uniques": ["[+50]% Yield from every [Plantation]", "[+10]% Unhappiness from [Population] [in all cities] <within [3] tiles of a [Plantation]>", "[Gold] cost of purchasing [Worker] units [-25]%"], 
 		"cities": ["Richmond","Atlanta","New Orleans","Charleston","Austin","Nashville","Mobile","Memphis","Savannah","Montgomery",
 			"Vicksburg","Chattanooga","Wilmington","Columbus","Jackson","Tallahassee","Petersburg","Galveston","Knoxville",
@@ -2085,7 +2085,7 @@
 		"innerColor": [77,2,4],
 		
 		"uniqueName": "Scourge of God",
-		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "[+50]% Yield from pillaging tiles <for [Military] units>", "[+50]% Health from pillaging tiles <for [Military] units>"],
+		"uniques": ["Receive triple [Gold] from Barbarian encampments and pillaging Cities", "[+50]% Yield from pillaging tiles <for [Military] units>", "[+50]% Health from pillaging tiles <for [Military] units>"],
 		"cities": ["Etzelburg", "Szeged", "Esztergom", "Buda", "Pécs", "Eger", "Székesfehérvár", "Győr", "Kőszeg", "Diósgyőr", "Mohács", "Tata", "Kecskemét", "Szombathely", "Sárvár", "Sopron", "Hódmezővásárhely", "Sümeg"],
 		"spyNames": ["Balamber", "Uldin", "Donatus", "Charato", "Octar", "Bleda", "Ellac", "Dengizik", "Hildico", "Gudrun"]
 	},
@@ -2157,7 +2157,7 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Dutch East India Company",
-		"uniqueText": "Gain +1 [Happiness] from every Lighthouse, Harbor and Seaport\nGain 50% of your [Happiness] value as [Gold]",
+		"uniqueText": "Gain +1 [Happiness] from every [Lighthouse], [Harbor] and [Seaport]\nGain 50% of your [Happiness] value as [Gold]",
 		"uniques": ["[50]% of excess happiness converted to [Gold]", "[+1 Happiness] from every [Lighthouse]", "[+1 Happiness] from every [Harbor]", "[+1 Happiness] from every [Seaport]"],
 		"cities": ["Amsterdam","Rotterdam","Utrecht","Groningen","Breda","Nijimegen","Den Haag","Haarlem","Arnhem","Zutphen",
 			"Maastricht","Tilburg","Eindhoven","Dordrecht","Leiden","Hertogenbosch","Almere","Alkmaar","Brielle","Vlissingen",
@@ -2190,7 +2190,7 @@
 		"innerColor": [18,84,30],
 		
 		"uniqueName": "The Great Turkish Bombard",
-		"uniqueText": "Siege units are built 50% faster, they are 50% stronger against Cities and they gain XP 50% faster\nAnnexed cities build Courthouse in half the usual time and receive +1 additional population when completed\nGain +2 [Culture] from every [Courthouse]",
+		"uniqueText": "Siege units are built 50% faster, they are 50% stronger against Cities and they gain XP 50% faster\nAnnexed cities build a [Courthouse] in half the usual time and receive +1 additional population when completed\nGain +2 [Culture] from every [Courthouse]",
 		"uniques": ["[+50]% Production when constructing [Siege] units [in all cities]", "[+50]% Strength <for [Siege] units> <vs cities>", "[+50]% XP gained from combat <for [Siege] units>", "[+100]% Production when constructing [Courthouse] buildings [in annexed cities]", "[+2 Culture] from every [Courthouse]"],
 		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyabakir","Izmir","Kayseri","Malatya",
 			"Marsin","Antalya","Zonguldak","Denizli","Ordu","Mugia","Eskishehir","Inebolu","Sinop","Adana","Artuin",
@@ -2225,7 +2225,7 @@
 		"innerColor": [219, 82, 21],
 		
 		"uniqueName": "Pearl of the Oriental Seas",
-		"uniqueText": "+1 [Culture] in all cities per every 2 Coast tiles they have adjacent\nCoast tiles adjacent to City centers yield an additional +1 [Food] and +1 [Production] during a Golden age",
+		"uniqueText": "+1 [Culture] in all cities per every 2 [Coast] tiles they have adjacent\nCoast tiles adjacent to [City center]s yield an additional +1 [Food] and +1 [Production] during a Golden age",
 		"uniques": ["[+1 Culture] [in all cities] <with [2] to [3] neighboring [Coast] tiles>",
 		            "[+2 Culture] [in all cities] <with [4] to [5] neighboring [Coast] tiles>",
 		            "[+3 Culture] [in all cities] <with [6] to [6] neighboring [Coast] tiles>",

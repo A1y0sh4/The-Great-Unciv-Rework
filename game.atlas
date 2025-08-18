@@ -1803,7 +1803,7 @@ TechIcons/Military Tactics
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Parthenon
+TechIcons/Siege Tactics
   rotate: false
   xy: 652, 580
   size: 100, 100

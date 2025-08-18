@@ -458,8 +458,8 @@
 		
                 "favoredReligion": "Catholicism",
 		"uniqueName": "Canadian Expeditionary Force",
-		"uniqueText": "Gain triple the Influence of Military unit gifts to City-States (double bonus when gifting a [Peacekeeper])\n-33% Strength for Military units when attacking cities",
-		"uniques": ["Gain [15] Influence with a [Military] gift to a City-State", "Gain [30] Influence with a [Peacekeeper] gift to a City-State", "[-33]% Strength <for [Military] units> <vs cities> <when attacking>"],
+		"uniqueText": "Gain triple the Influence of Military unit gifts to City-States (double bonus when gifting a Peacekeeper)\n-25% Strength for Military units when attacking cities",
+		"uniques": ["Gain [15] Influence with a [Military] gift to a City-State", "Gain [30] Influence with a [Peacekeeper] gift to a City-State", "[-25]% Strength <for [Military] units> <vs cities> <when attacking>"],
 		"cities": ["Ottawa", "Toronto", "Montreal", "Vancouver", "Winnipeg", "Quebec City", "Hamilton", "Halifax", "Victoria", "Windsor", "Kingston", "Brantford", "Regina", "St. John's", "Calgary", "Saskatoon", "Sault Sainte Marie", "Saint-Lin", "Whitehorse", "Thunder Bay"],
 		"spyNames": ["Aurelie", "Adam", "Ariana", "Adrian", "Beatrice", "Antoine", "Chloe", "Benoit", "Charlotte", "Cedric"]
 	},
@@ -866,7 +866,7 @@
                 "innerColor": [255, 56, 56],
 		
 		"uniqueName": "Spirit of Adwa",
-		"uniqueText": "+1 [Science] in all cities within 3 tiles of a [Holy site] (+1 additional [Science] per passed era)\n+20% Strength for Military units within 3 tiles of a [Holy site] in Friendly Land tiles\nUpon constructing a [Holy site], gain control of its surrounding tiles",
+		"uniqueText": "+1 [Science] in all cities within 3 tiles of a Holy site (+1 additional [Science] per passed era)\n+20% Strength for Military units within 3 tiles of a Holy site in Friendly Land tiles\nUpon constructing a Holy site, gain control of its surrounding tiles",
 		"uniques": ["[+1 Science] [in all cities] <within [3] tiles of a [Holy site]> <during the [Ancient era]>", 
 			    "[+2 Science] [in all cities] <within [3] tiles of a [Holy site]> <during the [Classical era]>", 
 		            "[+3 Science] [in all cities] <within [3] tiles of a [Holy site]> <during the [Medieval era]>", 
@@ -1050,7 +1050,7 @@
 		"innerColor": [255,221,0],
 		
 		"uniqueName": "Ejército Patriota",
-		"uniqueText": "Military units heal 33 HP upon being promoted\nMilitary units gain +10% XP from combat for every promotion they have",
+		"uniqueText": "Military units heal 25 HP upon being promoted\nMilitary units gain +10% XP from combat for every promotion they have",
 		"uniques": ["[Military] units gain the [Pride] promotion"],
 		"cities": ["Bogotá","Caracas","Quito","Valencia De Carabobo","Cali","Medellín","Maracaibo","Cumaná","Guayaquil","Panamá",
 			"Cartagena de Indias","Popayán","Cuenca","Barinas","Santa Marta","Loja","Angostura","Pasto","Nueva Barcelona","Neiva",
@@ -1117,7 +1117,7 @@
 		"innerColor": [45,45,45],
 		
 		"uniqueName": "Free Imperial Cities",
-		"uniqueText": "Can spend Gold to annex or puppet a City-State that has been your Ally for 5 turns\nMay not annex cities, but may buy items in puppet cities\nPuppeted cities do not suffer from [Gold] and [Science] maluses",
+		"uniqueText": "Can spend [Gold] to annex or puppet a City-State that has been your Ally for 5 turns\nMay not annex cities, but may buy items in puppet cities\nPuppeted cities do not suffer from [Gold] and [Science] maluses",
 		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns", "May not annex cities", "May buy items in puppet cities", "[+25]% [Gold] [in puppeted cities]", "[+25]% [Science] [in puppeted cities]"],
 		"cities": ["Aachen","Frankfurt","Magdeburg","Regensburg","Strasbourg","Lübeck","Augsburg","Nuremberg","Munich","Worms","Ulm","Dortmund","Mainz","Leipzig","Hannover","Cologne","Stuttgart","Dusseldorf","Bremen",
 			"Duisburg","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",

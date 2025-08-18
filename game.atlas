@@ -1873,7 +1873,7 @@ BuildingIcons/Oil Plant
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Red Fort
+BuildingIcons/Aluminum Plant
   rotate: false
   xy: 1108, 160
   size: 100, 100

@@ -485,7 +485,7 @@
 				"name": "Biology",
 				"row": 2,
 				"prerequisites": ["Archaeology","Scientific Theory"],
-				"uniques": ["Comment [Military units heal +5 HP when healing with an additional +5 HP when adjacent to another Military unit]", "[{non-air} {Military}] units gain the [Medic] promotion <hidden from users>"],
+				"uniques": ["Comment [Military units heal +5 HP when healing with an additional +5 HP when adjacent to another Military unit]", "[{non-air} {Military}] units gain the [Medic] promotion <hidden from users>", "[+1 Food, +1 Gold] from every [City center]"],
 				"quote": "'If the brain were so simple we could understand it, we would be so simple we couldn't.' - Lyall Watson"
 			},
 			{
@@ -803,6 +803,7 @@
 		]
 	}
 ]
+
 
 
 

@@ -673,7 +673,7 @@
 				"name": "Cybernetics",
 				"row": 7,
 				"prerequisites": ["Radar","Advanced Espionage"],
-				"uniques": ["[+1 Science] from every specialist [in all cities]"],
+				"uniques": ["[+1 Science] from every specialist [in all cities]", "[+25]% Yield from every [Great Improvement]"],
 				"quote": "'The boundary between man and machine is not a wall, but a membrane.' - Norbert Wiener"
 			},
 			{
@@ -802,6 +802,7 @@
 		]
 	}
 ]
+
 
 
 

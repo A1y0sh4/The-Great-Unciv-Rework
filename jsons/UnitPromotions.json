@@ -811,7 +811,7 @@
 	},
 	{
 		"name": "[Conquistador] ability",
-		"uniques": ["[+100]% Strength <when defending> <when [Embarked]>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+		"uniques": ["[+150]% Strength <when defending> <when [Embarked]>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
 	{
 		"name": "[Janissary] ability",
@@ -950,6 +950,7 @@
 		"uniques": ["[+100]% XP gained from combat <when fighting in [Friendly Land] tiles>"]
 	},
 ]
+
 
 
 

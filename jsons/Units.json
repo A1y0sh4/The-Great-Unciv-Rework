@@ -1963,6 +1963,7 @@
 		"cost": 1778,
 		"requiredResource": "Oil",
 		"requiredTech": "Mobile Tactics",
+		"upgradesTo": "Giant Death Robot",
 		"uniques": ["Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},

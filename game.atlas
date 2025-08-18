@@ -1817,7 +1817,7 @@ TechIcons/Urban Planning
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Rum Distillery
+TechIcons/Refining
   rotate: false
   xy: 760, 580
   size: 100, 100

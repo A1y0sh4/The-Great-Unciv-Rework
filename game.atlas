@@ -1789,3 +1789,52 @@ ReligionIcons/Baháʼí Faith
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Nautical School
+  rotate: false
+  xy: 760, 796
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Nobel Foundation
+  rotate: false
+  xy: 868, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Parthenon
+  rotate: false
+  xy: 652, 580
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Royal Palace
+  rotate: false
+  xy: 544, 364
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Rum Distillery
+  rotate: false
+  xy: 760, 580
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Street Carnival
+  rotate: false
+  xy: 328, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sugar Shack
+  rotate: false
+  xy: 436, 148
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

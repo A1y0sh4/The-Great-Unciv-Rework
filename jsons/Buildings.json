@@ -1340,7 +1340,7 @@
 		"name": "Coal Plant",
 		"requiredBuilding": "Factory",
 		"maintenance": 3,
-		"uniques": ["Remove [Oil Plant] [in this city]", "Remove [Nuclear Plant] [in this city]", "Only available <when above [0] [Coal]>", "[+1 Production] <for every [2] [Coal]>", "[+1]% [Production] [in this city] <for every [Coal]>", "Provides [1] [Pollution] <for every [4] [Coal]>", "Unbuildable <if [Oil Plant] is constructed> <hidden from users>", "Unbuildable <if [Nuclear Plant] is constructed> <hidden from users>"],
+		"uniques": ["Remove [Oil Plant] [in this city]", "Remove [Nuclear Plant] [in this city]", "Only available <when above [0] [Coal]>", "[+1 Production] <for every [2] [Coal]>", "[+1]% [Production] [in this city] <for every [Coal]>", "Provides [1] [Pollution] <for every [4] [Coal]>", "Unbuildable <if [Oil Plant] is constructed> <hidden from users>", "Unbuildable <if [Nuclear Plant] is constructed> <hidden from users>", "Shown while unbuilable"],
 		"hurryCostModifier": 0,
 		"requiredTech": "Industrialization"
 	},
@@ -1413,7 +1413,7 @@
 		"requiredBuilding": "Factory",
 		"maintenance": 1,
 		"production": 4,
-		"uniques": ["Remove [Coal Plant] [in this city]", "Remove [Nuclear Plant] [in this city]", "Only available <when above [0] [Oil]>", "[+1 Production] <for every [4] [Oil]>", "[+1]% [Production] [in this city] <for every [2] [Oil]>", "Provides [1] [Pollution] <for every [6] [Oil]>", "Unbuildable <if [Coal Plant] is constructed> <hidden from users>", "Unbuildable <if [Nuclear Plant] is constructed> <hidden from users>"],
+		"uniques": ["Remove [Coal Plant] [in this city]", "Remove [Nuclear Plant] [in this city]", "Only available <when above [0] [Oil]>", "[+1 Production] <for every [4] [Oil]>", "[+1]% [Production] [in this city] <for every [2] [Oil]>", "Provides [1] [Pollution] <for every [6] [Oil]>", "Unbuildable <if [Coal Plant] is constructed> <hidden from users>", "Unbuildable <if [Nuclear Plant] is constructed> <hidden from users>", "Shown while unbuilable"],
 		"hurryCostModifier": 0,
 		"requiredTech": "Refining"
 	},
@@ -1602,7 +1602,7 @@
 		"requiredBuilding": "Factory",
 		"maintenance": 3,
 		"requiredTech": "Nuclear Fission",
-		"uniques": ["Remove [Oil Plant] [in this city]", "Remove [Coal Plant] [in this city]", "Only available <when above [0] [Uranium]>", "[+1 Production] <for every [Uranium]>", "[+2]% [Production] [in this city] <for every [Uranium]>", "Unbuildable <if [Oil Plant] is constructed> <hidden from users>", "Unbuildable <if [Coal Plant] is constructed> <hidden from users>"]
+		"uniques": ["Remove [Oil Plant] [in this city]", "Remove [Coal Plant] [in this city]", "Only available <when above [0] [Uranium]>", "[+1 Production] <for every [Uranium]>", "[+2]% [Production] [in this city] <for every [Uranium]>", "Unbuildable <if [Oil Plant] is constructed> <hidden from users>", "Unbuildable <if [Coal Plant] is constructed> <hidden from users>", "Shown while unbuilable"]
 	},
 	{
 		"name": "Apollo Program",

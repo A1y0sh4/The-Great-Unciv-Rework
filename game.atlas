@@ -1859,14 +1859,14 @@ TechIcons/Foraging
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Spec Ops
+BuildingIcons/Coal Plant
   rotate: false
   xy: 1000, 280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-PolicyBranchIcons/Relations
+BuildingIcons/Oil Plant
   rotate: false
   xy: 1000, 400
   size: 100, 100

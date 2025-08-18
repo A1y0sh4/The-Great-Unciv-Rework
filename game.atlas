@@ -1810,7 +1810,7 @@ TechIcons/Siege Tactics
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Royal Palace
+TechIcons/Urban Planning
   rotate: false
   xy: 544, 364
   size: 100, 100

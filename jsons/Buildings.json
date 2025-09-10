@@ -458,6 +458,7 @@
 		"replaces": "Colosseum",
 		"uniqueTo": "Aztecs",
 		"happiness": 2,
+		"culture": 1,
 		"uniques": ["[+1 Happiness, +3 Faith] <when at war> <hidden from users>", "Comment [+3 [Faith], +1 [Happiness] when at war]", "Comment [Can be purchased with [Faith]]"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,

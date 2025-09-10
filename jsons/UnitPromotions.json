@@ -949,7 +949,12 @@
 		"name": "The Tamoyo Confederation Unique",
 		"uniques": ["[+100]% XP gained from combat <when fighting in [Friendly Land] tiles>"]
 	},
+	{
+		"name": "[Abambowa] ability",
+		"uniques": ["Transfer Movement to [Civilian]", "[+50]% XP gained from combat"]
+	},
 ]
+
 
 
 

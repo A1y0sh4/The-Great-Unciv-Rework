@@ -727,7 +727,7 @@
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
-		"uniques": ["Can move after attacking", "[+10]% Strength <when fighting in [tileFilter] tiles>"],
+		"uniques": ["Can move after attacking", "[+10]% Strength <when fighting in [Fresh Water] tiles>"],
 		"promotions": ["[Abambowa] ability"],
 		"attackSound": "metalhit"
 	},

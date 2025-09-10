@@ -423,13 +423,13 @@
 		"attacked": "Fool! You have doomed your people to fire and destruction!",
 		"defeated": "We have been consumed by the fires of hatred and rage. Enjoy your victory in this world - you shall pay a heavy price in the next!",
 		"denounced": "This insult shall cost you thousandfold.",
-		"introduction": "I am Askia of the Songhai. We are a fair people - but those who cross us will find only destruction. You would do well to avoid repeating the mistakes others have made in the past.",
+		"introduction": "I am Suna of the Buganda. We are a fair people - but those who cross us will find only destruction. You would do well to avoid repeating the mistakes others have made in the past.",
 		"neutralHello": "Greetings.",
 		"hateHello": "Oh, it's you.",
 		"tradeRequest": "Can I interest you in this deal?",
 		
-		"outerColor": [214, 145, 19],
-		"innerColor": [90, 0, 10],
+		"outerColor": [0, 128, 128],
+		"innerColor": [255, 69, 0],
 		
 		"favoredReligion": "Islam",
 		
@@ -438,7 +438,7 @@
 		"cities": ["Kampala","Kasangati","Mukono","Ssentema","Butoolo","Mitiyana","Buzinde","Nakasongola","Kaabasanda","Masaka","Sembalue",
 			"Lakaayi","Kabula","Mwera","Ntenjeru","Mpenja","Kanoni","Kaweeri","Kalangala","Maggyo","Kibbale","Kakumiro","Jinja",
 			"Entebbe","Wakiso","Njeru","Mpigi","Kayunga","Luweero","Kiboga"],
-        "spyNames": ["Ahmadou", "Ayub", "Badru", "Bokhari", "Guedado", "Adhiambo", "Chinaka", "Laila", "Mariama", "Oni"]
+        "spyNames": ["Kato", "Chwa", "Kimera", "Ttembo", "Kiggala", "Kiyimba", "Kayima", "Nakibinge", "Mulondo", "Jemba"]
     },
 	{
 		"name": "Byzantium",

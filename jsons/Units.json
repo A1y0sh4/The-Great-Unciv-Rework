@@ -725,7 +725,9 @@
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
+		"uniques": ["Can move after attacking"],
 		"promotions": ["[Abambowa] ability"],
 		"attackSound": "metalhit"
 	},

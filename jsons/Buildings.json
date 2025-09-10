@@ -690,6 +690,7 @@
 	{ 
 		"name": "Petra",
 		"culture": 2,
+		"gold": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"uniques": ["Must have an owned [Desert] within [1] tiles", "[+1 Production, +1 Gold] from [Desert] tiles without [Flood plains] [in this city]", "[+6 Culture] [in this city] <after discovering [Archaeology]>"],

@@ -951,9 +951,10 @@
 	},
 	{
 		"name": "[Abambowa] ability",
-		"uniques": ["Transfer Movement to [Civilian]", "[+50]% XP gained from combat"]
+		"uniques": ["[+50]% Yield from pillaging tiles <for [Military] units>", "[+50]% Health from pillaging tiles <for [Military] units>"]
 	},
 ]
+
 
 
 

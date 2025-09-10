@@ -714,6 +714,21 @@
 		"promotions": ["[Asafo] ability"],
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Abambowa",
+		"unitType": "Sword",
+		"uniqueTo": "Buganda",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 14,
+		"cost": 81,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"hurryCostModifier": 20,
+		"promotions": ["[Abambowa] ability"],
+		"attackSound": "metalhit"
+	},
 	// Medieval Era
 	{
 		"name": "Pikeman",

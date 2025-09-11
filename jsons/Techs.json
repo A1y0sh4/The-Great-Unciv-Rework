@@ -539,7 +539,7 @@
 				"name": "Replaceable Parts",
 				"row": 5,
 				"prerequisites": ["Biology", "Steam Power","Dynamite","Electricity","Refining"],
-				"uniques": ["[+3 Production] [in all cities]"],
+				"uniques": ["[+2 Production] [in all cities]"],
 				"quote": "'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford"
 			},
 			{
@@ -588,7 +588,7 @@
 				"name": "Ballistics",
 				"row": 6,
 				"prerequisites": ["Flight"], 
-				"uniques": ["Earn [50]% of killed [Military] unit's [Cost] as [Science]"],
+				"uniques": ["[+1 Science] <for every [Units]>"],
 				"quote": "'Men, like bullets, go farthest when they are smoothest.' - Jean Paul"
 			},
 			{
@@ -803,6 +803,7 @@
 		]
 	}
 ]
+
 
 
 

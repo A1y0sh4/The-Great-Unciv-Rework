@@ -428,8 +428,8 @@
 		"hateHello": "Oh, it's you.",
 		"tradeRequest": "Can I interest you in this deal?",
 		
-		"outerColor": [0, 128, 128],
-		"innerColor": [255, 69, 0],
+		"outerColor": [5, 89, 89],
+		"innerColor": [255, 134, 89],
 		
 		"favoredReligion": "Islam",
 		

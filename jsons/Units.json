@@ -2106,6 +2106,15 @@
 		"movement": 2
 	},
 	{
+		"name": "Great Trader",
+		"unitType": "Civilian",
+		"uniqueTo": "Mutapa",
+		"replaces": "Great Merchant",
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [20] Influence", "May enter foreign tiles without open borders", "Instantly provides [1] [Gold Ore] <upon being defeated> <with [25]% chance>", "Instantly provides [1] [Ivory] <upon being defeated> <with [25]% chance>",
+			"Can instantly construct a [Customs house] improvement <by consuming this unit>", "Great Person - [Gold]", "Unbuildable", "Uncapturable"],
+		"movement": 3
+	},
+	{
 		"name": "Great Engineer",
 		"unitType": "Civilian",
 		"uniques": ["Can speed up construction of a building", "Can instantly construct a [Manufactory] improvement <by consuming this unit>", "Great Person - [Production]", "Unbuildable", "Uncapturable"],

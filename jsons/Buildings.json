@@ -677,7 +677,7 @@
 		"specialistSlots": {"Merchant": 1},
 		"greatPersonPoints": {"Great Merchant": 2},
 		"cityHealth": 25,
-		"uniques": ["[+1 Gold] from [Resource] tiles [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]", "[+2 Gold] <during a Golden Age>"],
+		"uniques": ["[+1 Gold] from [Resource] tiles [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]", "[+1 Culture] <in cities with at least [1] [Merchant]>"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Currency"
 	},

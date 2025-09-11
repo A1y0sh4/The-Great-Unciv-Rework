@@ -1523,6 +1523,40 @@
 		"spyNames": ["Amaru", "Akllaasisa", "Asto", "Huch’uykilla", "Inti", "Izhi", "Manko", "Qhawa", "Sumaq", "Yachay"]
 	},
 	{
+		"name": "Mutapa",
+		"leaderName": "Nyanhewe Matope",
+		"adjective": ["Mutapa"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		//"personality": "Nyanhewe Matope",
+		
+		"startIntroPart1": "May the Gods shower you with every kind of blessing, oh Toqui of Toquis, Lautaro, leader of the Wallmapu, the Mapuche people, by the wise election of the Lonkos. The Mapuche are the union of Picunches, Huilliches, Moluche and Nguluche from Araucanía. Despite their lack of state organization, your people successfully repelled many invasions from the Inca, led by the Sapa Inca Yupac Yupanqui. They won the bloody three-day confrontation known as the Battle of the Maule, stopping them at the Maule River, and behind the Rapel and Cachapoal rivers they established a fortified border. Your people also repelled the Spanish in the late 16th century so effectively that there were areas to which Europeans did not return until late in the 19th century. One of the main geographical boundaries was the  Bío-Bío river, which they used as a natural barrier to Spanish and Chilean incursion.",
+		"startIntroPart2": "Oh great Toqui, you did not just liberate the Mapuche - you inspired them to free themselves. But now your people still fight for their right to their lands. Will you stand with the Mapuche, axe-bearer, and cast a singular shadow against all who would dare to threaten them? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "It comes to war. Mapuche shall use your own weapons against you!",
+		"attacked": "I knew you could not be trusted! We have long prepared for this war. Have you?",
+		"defeated": "We resisted to the last, but it was too late… too late.",
+		"denounced": "Your deeds reflect your true nature. The Mapuche cannot stand you!",
+		"introduction": "I am Lautaro, the Swift Hawk. Mapuche honor me with respect. Will I see the same from you?",
+		"neutralHello": "Good day.",
+		"hateHello": "Well?",
+		"tradeRequest": "Is the following trade of interest to you?",
+		"favoredReligion": "Animism",
+		
+		"outerColor": [ 0, 79, 206],
+		"innerColor": [125, 236, 227],
+		
+		"uniqueName": "Trade Link",
+		"uniqueText": "+1% Strength for Military units for every Happiness (up to +15%)\nPopulation doesn't generate additional unhappiness when at war",
+		"uniques": ["[+1]% Strength <when between [1] and [1] [Happiness]>","[+2]% Strength <when between [2] and [2] [Happiness]>","[+3]% Strength <when between [3] and [3] [Happiness]>","[+4]% Strength <when between [4] and [4] [Happiness]>","[+5]% Strength <when between [5] and [5] [Happiness]>",
+			    "[+6]% Strength <when between [6] and [6] [Happiness]>","[+7]% Strength <when between [7] and [7] [Happiness]>","[+8]% Strength <when between [8] and [8] [Happiness]>","[+9]% Strength <when between [9] and [9] [Happiness]>","[+10]% Strength <when between [10] and [10] [Happiness]>",
+			    "[+11]% Strength <when between [11] and [11] [Happiness]>","[+12]% Strength <when between [12] and [12] [Happiness]>","[+13]% Strength <when between [13] and [13] [Happiness]>","[+14]% Strength <when between [14] and [14] [Happiness]>","[+15]% Strength <when above [15] [Happiness]>", "[-10]% Unhappiness from [Population] [in all cities] <when at war>"],
+		"cities": ["Ngulu Mapu","Puel Mapu","Pikun Mapu","Nag Mapu","Willi Mapu","Pewen Mapu","Wente Mapu","Huilli Mapu","Lafken Mapu","Ina Pire Mapu",
+			"Mamüll Mapu","Rangkül Mapu","Chadi Mapu","Pehuen Mapu","Puel Willi Mapu","Bafkeh Mapu","Peñi Mapu","Boroa Mapu","Lelfün Mapu","Kallfü Mapu","Chol Chol Mapu",
+			"Makewe Mapu","Forowe Mapu","Warria Mapu","Tehuel Mapu","Kunko Mapu","Molu Mapu","Rañi Mapu","Xuf Xuf Mapu","Fudi Mapu"],
+		"spyNames": ["Amaru", "Akllaasisa", "Asto", "Huch’uykilla", "Inti", "Izhi", "Manko", "Qhawa", "Sumaq", "Yachay"]
+	},
+	{
 		"name": "Mongolia",
 		"leaderName": "Genghis Khan",
 		"adjective": ["Mongolian"],

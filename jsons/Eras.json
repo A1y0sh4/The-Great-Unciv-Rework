@@ -81,7 +81,7 @@
         "settlerPopulation": 3,
         "settlerBuildings": ["Monument", "Granary", "Library", "Circus", "Water Mill", "Stone Works", "Walls", "Barracks", "Lighthouse", "Temple", "Brewery", "Wine Cellar", "Stable", "Harbor", "Garden", "Amphitheater", "Colosseum", "Market", "Mint", "Aqueduct", "Workshop", "Forge", "Armory"],
         "startingObsoleteWonders": ["Temple of Artemis", "Stonehenge", "The Great Library", "Mausoleum of Halicarnassus", "The Pyramids", "Statue of Zeus",
-            "The Great Lighthouse", "Hanging Gardens", "Terracotta Army", "The Oracle", "Petra", "Great Wall", "Colossus", "Parthenon", "Great Enclosure", "Chichen Itza", "Machu Picchu", "Teotihuacan Pyramids"],
+            "The Great Lighthouse", "Hanging Gardens", "Terracotta Army", "The Oracle", "Petra", "Great Wall", "Colossus", "Parthenon", "Great Zimbabwe", "Chichen Itza", "Machu Picchu", "Teotihuacan Pyramids"],
         "baseUnitBuyCost": 300,
         "embarkDefense": 8,
         "startPercent": 37,
@@ -102,7 +102,7 @@
         "settlerBuildings": ["Monument", "Granary", "Library", "Circus", "Water Mill", "Stone Works", "Walls", "Barracks", "Lighthouse", "Temple", "Brewery", "Wine Cellar", "Stable", "Harbor", "Garden", "Amphitheater", "Colosseum", "Market", "Mint", "Aqueduct", "Workshop", "Forge", "Armory", "University", "Castle", "Observatory", "Rum Distillery", "Whisky Distillery", "Cognac Distillery", "Opera House", "Bank", "Theatre"],
         "startingObsoleteWonders": ["Temple of Artemis", "Stonehenge", "The Great Library", "Mausoleum of Halicarnassus", "The Pyramids", "Statue of Zeus",
             "The Great Lighthouse", "Hanging Gardens", "Terracotta Army", "The Oracle", "Petra", "Great Wall", "Colossus",
-            "Hagia Sophia", "Chichen Itza", "Machu Picchu", "Angkor Wat", "Alhambra", "Notre Dame", "Parthenon", "Great Enclosure", "Teotihuacan Pyramids", "Red Fort", "The Great Stupa"],
+            "Hagia Sophia", "Chichen Itza", "Machu Picchu", "Angkor Wat", "Alhambra", "Notre Dame", "Parthenon", "Great Zimbabwe", "Teotihuacan Pyramids", "Red Fort", "The Great Stupa"],
         "baseUnitBuyCost": 400,
         "embarkDefense": 12,
         "startPercent": 50,
@@ -128,7 +128,7 @@
         "startingObsoleteWonders": ["Temple of Artemis", "Stonehenge", "The Great Library", "Mausoleum of Halicarnassus", "The Pyramids", "Statue of Zeus",
             "The Great Lighthouse", "Hanging Gardens", "Terracotta Army", "The Oracle", "Petra", "Great Wall", "Colossus",
             "Hagia Sophia", "Chichen Itza", "Machu Picchu", "Angkor Wat", "Alhambra", "Notre Dame",
-            "Sistine Chapel", "Forbidden Palace", "Leaning Tower of Pisa", "Himeji Castle", "Taj Mahal", "Porcelain Tower", "Kremlin", "Parthenon", "Great Enclosure", "Teotihuacan Pyramids", "Red Fort", "Bolshoi Theatre", "Globe Theatre", "Venetian Arsenal", "Oxford University", "The Great Stupa"],
+            "Sistine Chapel", "Forbidden Palace", "Leaning Tower of Pisa", "Himeji Castle", "Taj Mahal", "Porcelain Tower", "Kremlin", "Parthenon", "Great Zimbabwe", "Teotihuacan Pyramids", "Red Fort", "Bolshoi Theatre", "Globe Theatre", "Venetian Arsenal", "Oxford University", "The Great Stupa"],
         "baseUnitBuyCost": 600,
         "embarkDefense": 16,
         "startPercent": 65,
@@ -155,7 +155,7 @@
             "The Great Lighthouse", "Hanging Gardens", "Terracotta Army", "The Oracle", "Petra", "Great Wall", "Colossus",
             "Hagia Sophia", "Chichen Itza", "Machu Picchu", "Angkor Wat", "Alhambra", "Notre Dame",
             "Sistine Chapel", "Forbidden Palace", "Leaning Tower of Pisa", "Himeji Castle", "Taj Mahal", "Porcelain Tower", "Kremlin",
-            "The Louvre", "Big Ben", "Brandenburg Gate", "Parthenon", "Great Enclosure", "Teotihuacan Pyramids", "Red Fort", "Bolshoi Theatre", "Globe Theatre", "Venetian Arsenal", "Nobel Foundation", "Oxford University", "The Great Stupa"],
+            "The Louvre", "Big Ben", "Brandenburg Gate", "Parthenon", "Great Zimbabwe", "Teotihuacan Pyramids", "Red Fort", "Bolshoi Theatre", "Globe Theatre", "Venetian Arsenal", "Nobel Foundation", "Oxford University", "The Great Stupa"],
         "baseUnitBuyCost": 800,
         "embarkDefense": 20,
         "startPercent": 65,
@@ -183,7 +183,7 @@
             "Hagia Sophia", "Chichen Itza", "Machu Picchu", "Angkor Wat", "Alhambra", "Notre Dame",
             "Sistine Chapel", "Forbidden Palace", "Leaning Tower of Pisa", "Himeji Castle", "Taj Mahal", "Porcelain Tower", "Kremlin",
             "The Louvre", "Big Ben", "Brandenburg Gate",
-            "Eiffel Tower", "Statue of Liberty", "Neuschwanstein", "Cristo Redentor", "Parthenon", "Great Enclosure", "Teotihuacan Pyramids", "Red Fort", "Bolshoi Theatre", "Globe Theatre", "Venetian Arsenal", "Nobel Foundation", "Maracana Stadium", "Oxford University", "The Great Stupa"],
+            "Eiffel Tower", "Statue of Liberty", "Neuschwanstein", "Cristo Redentor", "Parthenon", "Great Zimbabwe", "Teotihuacan Pyramids", "Red Fort", "Bolshoi Theatre", "Globe Theatre", "Venetian Arsenal", "Nobel Foundation", "Maracana Stadium", "Oxford University", "The Great Stupa"],
         "baseUnitBuyCost": 1000,
         "embarkDefense": 25,
         "startPercent": 80,
@@ -214,7 +214,7 @@
             "Hagia Sophia", "Chichen Itza", "Machu Picchu", "Angkor Wat", "Alhambra", "Notre Dame",
             "Sistine Chapel", "Forbidden Palace", "Leaning Tower of Pisa", "Himeji Castle", "Taj Mahal", "Porcelain Tower", "Kremlin",
             "The Louvre", "Big Ben", "Brandenburg Gate",
-            "Eiffel Tower", "Statue of Liberty", "Neuschwanstein", "Cristo Redentor", "Parthenon", "Great Enclosure", "Teotihuacan Pyramids", "Red Fort", "Bolshoi Theatre", "Globe Theatre", "Venetian Arsenal", "Nobel Foundation", "Maracana Stadium", "Oxford University", "The Great Stupa"],
+            "Eiffel Tower", "Statue of Liberty", "Neuschwanstein", "Cristo Redentor", "Parthenon", "Great Zimbabwe", "Teotihuacan Pyramids", "Red Fort", "Bolshoi Theatre", "Globe Theatre", "Venetian Arsenal", "Nobel Foundation", "Maracana Stadium", "Oxford University", "The Great Stupa"],
         "baseUnitBuyCost": 1000,
         "embarkDefense": 30,
         "startPercent": 80,
@@ -227,4 +227,5 @@
         ]
     }
 ]
+
 

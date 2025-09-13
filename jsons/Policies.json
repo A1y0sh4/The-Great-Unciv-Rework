@@ -277,7 +277,7 @@
 	    "Religious": 0
         },
         "uniques": [,
-                    "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory", "Only available <when number of [Gold] is more than [300 * [Speed modifier for [Gold]]]>"],
+                    "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory", "Only available <when number of [Gold] is more than [3 * [Speed modifier for [Gold]]]>"],
         "policies": [
             {
                 "name": "Mercenary Opportunism",

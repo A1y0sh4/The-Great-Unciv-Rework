@@ -726,7 +726,7 @@
 	{
 		"name": "Pride",
 		"prerequisites": ["Accuracy II","Barrage II","Shock III","Drill III","Scouting III","Survivalism III"],
-		"uniques": ["[This Unit] heals [33] HP <hidden from users>", "[This Unit] heals [33] HP <upon being promoted>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["[This Unit] heals [25] HP <hidden from users>", "[This Unit] heals [25] HP <upon being promoted>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Sword", "Gunpowder","Archery", "Ranged Gunpowder", "Mounted", "Scout"],
         "column": 9,
         "row": 4
@@ -954,6 +954,7 @@
 		"uniques": ["[+50]% Yield from pillaging tiles <for [Military] units>", "[+50]% Health from pillaging tiles <for [Military] units>"]
 	},
 ]
+
 
 
 

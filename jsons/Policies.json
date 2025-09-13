@@ -141,7 +141,7 @@
         "uniques": [
                 "Notified of new Barbarian encampments", "Comment [+25% Strength vs Barbarians and City-States units]",
 			"[+25]% Strength <vs [Barbarian] units> <hidden from users>", "[+25]% Strength <vs [City-States]> <hidden from users>", "Reveal up to [All] [Barbarian encampment] within a [8] tile radius <hidden from users>",
-			"Only available <when number of [[Military] Units] is more than [2]>"
+			"Only available <when number of [Units] is more than [3]>"
         ],
         "policies": [
             {

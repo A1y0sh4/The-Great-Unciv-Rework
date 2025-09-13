@@ -277,7 +277,7 @@
 	    "Religious": 0
         },
         "uniques": [,
-                    "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory", "Only available <when number of [[Culture] Per Turn] is more than [25]>"],
+                    "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory", "Only available <when number of [Gold] is more than [300 * [Speed modifier for [Gold]]]>"],
         "policies": [
             {
                 "name": "Mercenary Opportunism",
@@ -480,7 +480,7 @@
             "[-15]% Culture cost of adopting new Policies",
             "Only available <before adopting [Nationalism]>",
             "Only available <before adopting [Internationalism]>",
-			"Only available <if [Stock Exchenge] is constructed in at least [2] of [All] cities>"
+			"Only available <if [Stock Exchange] is constructed in at least [2] of [All] cities>"
         ],
         "policies": [
             {

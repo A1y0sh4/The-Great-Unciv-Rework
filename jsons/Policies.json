@@ -128,7 +128,7 @@
     },
     {
         "name": "Expansion",
-        "era": "Classical era",
+      //"era": "Classical era",
         "priorities": {
             "Neutral": 0,
             "Cultural": 0,
@@ -138,7 +138,9 @@
 	    "Religious": 0
         },
         "uniques": [
-                "Notified of new Barbarian encampments", "Comment [+25% Strength vs Barbarians and City-States units]", "[+25]% Strength <vs [Barbarian] units> <hidden from users>", "[+25]% Strength <vs [City-States]> <hidden from users>", "Reveal up to [All] [Barbarian encampment] within a [8] tile radius <hidden from users>"
+                "Notified of new Barbarian encampments", "Comment [+25% Strength vs Barbarians and City-States units]",
+			"[+25]% Strength <vs [Barbarian] units> <hidden from users>", "[+25]% Strength <vs [City-States]> <hidden from users>", "Reveal up to [All] [Barbarian encampment] within a [8] tile radius <hidden from users>",
+			"Only available <upon defeating a [Barbarian] unit>"
         ],
         "policies": [
             {

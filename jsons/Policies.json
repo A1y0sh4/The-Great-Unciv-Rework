@@ -544,7 +544,7 @@
             "[+15]% Strength <for [{Wounded} {Military}] units>",
             "Only available <before adopting [Internationalism]>",
             "Only available <before adopting [Individualism]>",
-			"Only available <when number of [[Rifleman] Units] is more than [2]>"
+			"Only available <when number of [[Gunpowder] Units] is more than [4]>"
         ],
         "policies": [
             {

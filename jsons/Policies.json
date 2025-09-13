@@ -11,7 +11,8 @@
 	    "Religious": 20
         },
         "uniques": [
-            "Comment [+1 [Production], +1 [Science], +1 [Gold] in capital]", "[+1 Production, +1 Science, +1 Gold] from every [Palace] <hidden from users>"
+            "Comment [+1 [Production], +1 [Science], +1 [Gold] in capital]", "[+1 Production, +1 Science, +1 Gold] from every [Palace] <hidden from users>",
+			"Only available <if [Monument] is constructed in at least [1] of [All] cities>"
         ],
         "policies": [
             {

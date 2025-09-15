@@ -10,7 +10,7 @@
     {
         "name": "Cult of Mithras",
         "type": "Pantheon",
-        "uniques": ["[+2 Gold, +1 Faith] from every [Cattle]"]
+        "uniques": ["[+2 Gold, +1 Culture] from every [Cattle]"]
     },
     {
         "name": "Dance of the Aurora",
@@ -25,7 +25,7 @@
     {
         "name": "Eleusinian Mysteries",
         "type": "Pantheon",
-        "uniques": ["Comment [+1 [Food] from every [Wheat], [Grape], [Poppy]]", "[+1 Food] from every [Wheat] <hidden from users>", "[+1 Food] from every [Grape] <hidden from users>", "[+1 Food] from every [Poppy] <hidden from users>"]
+        "uniques": ["Comment [+1 [Culture] from every [Wheat], [Grape], [Poppy]]", "[+1 Culture] from every [Wheat] <hidden from users>", "[+1 Culture] from every [Grape] <hidden from users>", "[+1 Culture] from every [Poppy] <hidden from users>"]
     },
     {
         "name": "Faith Healers",
@@ -71,7 +71,7 @@
     {
         "name": "God of the Open Sky",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Pasture]"]
+        "uniques": ["[+1 Faith] from every [Pasture]"]
     },
     {
         "name": "God of the Sea",
@@ -116,7 +116,7 @@
     {
         "name": "Oral Tradition",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Plantation]"]
+        "uniques": ["[+1 Faith] from every [Plantation]"]
     },
     {
         "name": "Promised Frontiers",
@@ -421,4 +421,5 @@
         "uniques": ["[+1 Faith] from every [Land] <within [1] tiles of a [Great Improvement]>", "[-1 Faith] from every [Great Improvement] <hidden from users>"]
     },
 ]
+
 

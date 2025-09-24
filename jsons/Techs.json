@@ -610,7 +610,7 @@
 				"name": "Pharmaceuticals",
 				"row": 2,
 				"prerequisites": ["Plastics","Sociology"], 
-				"uniques": ["[+1 Science] per [4] population [in all cities]"],
+				"uniques": ["[+2 Science, +1 Happiness] from every [Hospital]"],
 				"quote": "'In nothing do men more nearly approach the gods than in giving health to men.' - Cicero"
 			},
 			{
@@ -803,6 +803,7 @@
 		]
 	}
 ]
+
 
 
 

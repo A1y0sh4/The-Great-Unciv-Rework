@@ -951,9 +951,10 @@
 	},
 	{
 		"name": "[Abambowa] ability",
-		"uniques": ["[+50]% Yield from pillaging tiles <for [Military] units>", "[+50]% Health from pillaging tiles <for [Military] units>"]
+		"uniques": ["[+50]% Yield from pillaging tiles", "[+50]% Health from pillaging tiles"]
 	},
 ]
+
 
 
 

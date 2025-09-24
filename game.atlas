@@ -1894,3 +1894,10 @@ BuildingIcons/Biomass Plant
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Buganda
+  rotate: false
+  xy: 664, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

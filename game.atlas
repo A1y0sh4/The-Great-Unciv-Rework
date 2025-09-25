@@ -1915,3 +1915,24 @@ UnitIcons/Abambowa
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Mutapa
+  rotate: false
+  xy: 436, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ziggurat
+  rotate: false
+  xy: 1300, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Winged Hussar
+  rotate: false
+  xy: 1192, 796
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

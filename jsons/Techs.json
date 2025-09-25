@@ -610,7 +610,7 @@
 				"name": "Ballistics",
 				"row": 8,
 				"prerequisites": ["Flight", "Replaceable Parts"], 
-				"uniques": ["[+2 Science] <for every [[Military] Units]>"],
+				"uniques": ["[+3 Science] <for every [[Military] Units]>"],
 				"quote": "'Men, like bullets, go farthest when they are smoothest.' - Jean Paul"
 			},
 			{
@@ -683,7 +683,7 @@
 				"name": "Advanced Urbanism",
 				"row": 2,
 				"prerequisites": ["Pharmaceuticals","Ecology"],
-				"uniques": ["[+2 Science, +2 Gold, +1 Culture] from every [Wonder]"],
+				"uniques": ["[+3 Science, +3 Gold, +1 Culture] from every [Wonder]"],
 				"quote": "'A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.' - Douglas Adams"
 			},
 			{
@@ -709,7 +709,7 @@
 				"name": "Cybernetics",
 				"row": 8,
 				"prerequisites": ["Radar","Advanced Espionage","Information Theory"],
-				"uniques": ["[+1 Science] from every specialist [in all cities]", "[+25]% Yield from every [Great Improvement]"],
+				"uniques": ["[+2 Science] from every specialist [in all cities]", "[+25]% Yield from every [Great Improvement]"],
 				"quote": "'The boundary between man and machine is not a wall, but a membrane.' - Norbert Wiener"
 			},
 			{
@@ -839,6 +839,7 @@
 		]
 	}
 ]
+
 
 
 

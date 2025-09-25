@@ -1589,7 +1589,7 @@
 		"specialistSlots": {"Artist": 1, "Merchant": 1, "Scientist": 1, "Engineer": 1},
 		"maintenance": 3,
 		"hurryCostModifier": 25,
-		"uniques": ["Destroyed when the city is captured"],
+		"uniques": ["[-25]% Food consumption by specialists [in this city]", "[+25]% Great Person generation [in this city]"],
 		"requiredTech": "Advanced Urbanism"
 	},
 	{

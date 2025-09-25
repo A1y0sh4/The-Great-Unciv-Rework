@@ -603,7 +603,7 @@
 				"name": "Cultural Hegemony",
 				"row": 6,
 				"prerequisites": ["Radio", "Financial Capital", "Flight", "Replaceable Parts"], 
-				"uniques": ["[+1 Science] <for every [[Military] Units]>"],
+				"uniques": ["Resting point for Influence with City-States is increased by [30]"],
 				"quote": "'Ideas and opinions are not spontaneously born in each individual brain: they have had a centre of formation, or irradiation, of dissemination, of persuasion-a group of men, or a single individual even, which has developed them and presented them in the political form of current reality.' - Antonio Gramsci"
 			},
 			{
@@ -825,6 +825,7 @@
 		]
 	}
 ]
+
 
 
 

@@ -638,7 +638,7 @@
 			{
 				"name": "Ecology",
 				"row": 3,
-				"prerequisites": ["Atomic Theory","Pharmaceuticals"],
+				"prerequisites": ["Plastics","Sociology","Electronics"],
 				"uniques": ["[+3 Culture] from every [Natural Wonder]", "[+100]% weight to this choice for AI decisions <hidden from users>"],
 				"quote": "'Only within the moment of time represented by the present century has one species, man, acquired significant power to alter the nature of his world.' - Rachel Carson"
 			},
@@ -832,6 +832,7 @@
 		]
 	}
 ]
+
 
 
 

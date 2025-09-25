@@ -1729,9 +1729,9 @@
 	},
         {
 		"name": "CERN",
-		"isWonder": true,
 		"culture": 5,
 	        "science": 50,
+			"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 5},
 		"uniques": ["[1] free [Great Scientist] units appear", "Gain a free [Quantum Computer] [in this city]"],
 		"requiredTech": "Particle Physics",

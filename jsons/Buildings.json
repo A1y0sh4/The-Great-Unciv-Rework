@@ -1710,7 +1710,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 5},
 		"uniques": ["Must be next to [Water]", "Gain a free [Observatory] [in this city]", "[+12 Science] from every [Observatory]", "Science gained from research agreements [+50]%"],
-		"requiredTech": "Information theory",
+		"requiredTech": "Information Theory",
 		"quote": "'Equipped with his five senses, man explores the universe around him and calls the adventure Science.' - Edwin Hubble"
 	},
         {

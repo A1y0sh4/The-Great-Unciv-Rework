@@ -684,7 +684,7 @@
 				"row": 2,
 				"prerequisites": ["Pharmaceuticals","Ecology"],
 				"uniques": [],
-				"quote": "'What we are doing to the forests of the world is but a mirror reflection of what we are doing to ourselves.' - Mahatma Gandhi"
+				"quote": "'A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.' - Douglas Adams"
 			},
 			{
 				"name": "Environmentalism",
@@ -730,13 +730,13 @@
 			{
 				"name": "Telecommunications",
 				"row": 2,
-				"prerequisites": ["Computers"],
+				"prerequisites": ["Computers", "Advanced Urbanism"],
 				"quote": "'The more we elaborate our means of communication, the less we communicate.' - J.B. Priestly"
 			},
 			{
 				"name": "Mobile Tactics",
 				"row": 3,
-				"prerequisites": ["Nuclear Fission", "Environmentalism"],
+				"prerequisites": ["Nuclear Fission", "Environmentalism", "Advanced Urbanism"],
 				"quote": "'All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.' - Sun Tzu"
 			},
 			{
@@ -839,6 +839,7 @@
 		]
 	}
 ]
+
 
 
 

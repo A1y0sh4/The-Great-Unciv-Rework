@@ -1491,6 +1491,16 @@
 		"quote": "'We live only to discover beauty, all else is a form of waiting' - Kahlil Gibran"
 	},
 	{
+		"name": "Empire State Building",
+		"greatPersonPoints": {"Great Merchant": 4},
+		"culture": 4,
+		"gold": 4,
+		"isWonder": true,
+		"uniques": ["Gain a free [Stock Exchange] [in this city]", "[+4 Gold, +1 Happiness] from every [Stock Exchange]", "[+25]% [Gold] from Trade Routes"],
+		"requiredTech": "Financial Capital",
+		"quote": "'A man always has two reasons for what he does - a good one, and the real one.' - J.P. Morgan"
+	},
+	{
 		"name": "Military Base",
 		"cityStrength": 21,
 		"cityHealth": 25,

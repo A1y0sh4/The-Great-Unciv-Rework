@@ -646,12 +646,13 @@
 				"name": "Radar",
 				"row": 6,
 				"prerequisites": ["Ballistics","Electronics","Cultural Hegemony"],
-				"quote": "'Vision is the art of seeing things invisible.' - Jonathan Swift"
+				"quote": "'Vision is the art of seeing things invisible.' - Jonathan Swift" 
 			},
 			{
 				"name": "Information Theory",
 				"row": 7,
 				"prerequisites": ["Ballistics","Electronics","Cultural Hegemony","Combined Arms"],
+				"uniques": ["Production to [Gold] conversion in cities changed by [+50]%", "Production to [Science] conversion in cities changed by [+50]%"],
 				"quote": "'An individual tends to absorb the surrounding spirit and to radiate the acquired lifestyle and worldview to anyone around, not just to a select friend.' - Andrej Kolmogorov"
 			},
 			{
@@ -831,6 +832,7 @@
 		]
 	}
 ]
+
 
 
 

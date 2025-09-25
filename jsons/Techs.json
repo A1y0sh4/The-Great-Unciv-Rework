@@ -610,7 +610,7 @@
 				"name": "Ballistics",
 				"row": 8,
 				"prerequisites": ["Flight", "Replaceable Parts"], 
-				"uniques": ["[+2 Science] <for every [[Military] Units]>"],
+				"uniques": ["[+3 Science] <for every [[Military] Units]>"],
 				"quote": "'Men, like bullets, go farthest when they are smoothest.' - Jean Paul"
 			},
 			{
@@ -825,6 +825,7 @@
 		]
 	}
 ]
+
 
 
 

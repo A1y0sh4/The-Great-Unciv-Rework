@@ -694,20 +694,20 @@
 			{
 				"name": "Rocketry",
 				"row": 6,
-				"prerequisites": ["Radar","Advanced Espionage"],
+				"prerequisites": ["Radar","Advanced Espionage","Information Theory"],
 				"quote": "'A good rule for rocket experimenters to follow is this: always assume that it will explode.' - Astronautics Magazine, 1937"
 			},
 			{
 				"name": "Cybernetics",
 				"row": 7,
-				"prerequisites": ["Radar","Advanced Espionage"],
+				"prerequisites": ["Radar","Advanced Espionage","Information Theory"],
 				"uniques": ["[+1 Science] from every specialist [in all cities]", "[+25]% Yield from every [Great Improvement]"],
 				"quote": "'The boundary between man and machine is not a wall, but a membrane.' - Norbert Wiener"
 			},
 			{
 				"name": "Computers",
 				"row": 8,
-				"prerequisites": ["Advanced Espionage","Radar"],
+				"prerequisites": ["Advanced Espionage","Radar","Information Theory"],
 				"quote": "'Computers are like Old Testament gods: lots of rules and no mercy.' - Joseph Campbell"
 			}
 		]
@@ -831,6 +831,7 @@
 		]
 	}
 ]
+
 
 
 

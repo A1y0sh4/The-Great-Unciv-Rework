@@ -1908,3 +1908,10 @@ BuildingIcons/Lake Reservoir
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Abambowa
+  rotate: false
+  xy: 1702, 880
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

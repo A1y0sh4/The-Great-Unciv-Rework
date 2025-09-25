@@ -545,7 +545,7 @@
 					"[+2 Gold] <for every [Gold Ore]> <hidden from users>", "[+2 Gold] <for every [Incense]> <hidden from users>", "[+2 Gold] <for every [Ivory]> <hidden from users>", "[+2 Gold] <for every [Jewelry]> <hidden from users>", "[+2 Gold] <for every [Marble]> <hidden from users>", "[+2 Gold] <for every [Obsidian]> <hidden from users>",
 					"[+2 Gold] <for every [Olive]> <hidden from users>", "[+2 Gold] <for every [Pearls]> <hidden from users>", "[+2 Gold] <for every [Poppy]> <hidden from users>", "[+2 Gold] <for every [Porcelain]> <hidden from users>", "[+2 Gold] <for every [Rum]> <hidden from users>", "[+2 Gold] <for every [Salt]> <hidden from users>",
 					"[+2 Gold] <for every [Silk]> <hidden from users>", "[+2 Gold] <for every [Silver]> <hidden from users>", "[+2 Gold] <for every [Spices]> <hidden from users>", "[+2 Gold] <for every [Sugar]> <hidden from users>", "[+2 Gold] <for every [Tea]> <hidden from users>", "[+2 Gold] <for every [Tobacco]> <hidden from users>",
-					"[+2 Gold] <for every [Truffles]> <hidden from users>", "[+2 Gold] <for every [Vodka]> <hidden from users>", "[+2 Gold] <for every [Whales]> <hidden from users>", "[+2 Gold] <for every [Whisky]> <hidden from users>", "[+2 Gold] <for every [Wine]> <hidden from users>"
+					"[+2 Gold] <for every [Truffles]> <hidden from users>", "[+2 Gold] <for every [Vodka]> <hidden from users>", "[+2 Gold] <for every [Whales]> <hidden from users>", "[+2 Gold] <for every [Whisky]> <hidden from users>", "[+2 Gold] <for every [Wine]> <hidden from users>", "Comment [+2 [Gold] for every Luxury resource you own]"
 				],
 				"quote": "'If you’re in the luckiest one per cent of humanity, you owe it to the rest of humanity to think about the other ninetynine per cent.' - Warren Buffett"
 			},
@@ -817,6 +817,7 @@
 		]
 	}
 ]
+
 
 
 

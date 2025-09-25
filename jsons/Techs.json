@@ -539,7 +539,14 @@
 				"name": "Financial Capital",
 				"row": 4,
 				"prerequisites": ["Biology", "Steam Power","Dynamite","Electricity","Refining"],
-				"uniques": ["[+2 Production] [in all cities]"],
+				"uniques": [
+					"[+2 Gold] <for every [Amber]>", "[+2 Gold] <for every [Beer]>", "[+2 Gold] <for every [Citrus]>", "[+2 Gold] <for every [Cocoa]>", "[+2 Gold] <for every [Coffee]>", "[+2 Gold] <for every [Cognac]>",
+					"[+2 Gold] <for every [Copper]>", "[+2 Gold] <for every [Cotton]>", "[+2 Gold] <for every [Crab]>", "[+2 Gold] <for every [Dyes]>", "[+2 Gold] <for every [Furs]>", "[+2 Gold] <for every [Gems]>",
+					"[+2 Gold] <for every [Gold Ore]>", "[+2 Gold] <for every [Incense]>", "[+2 Gold] <for every [Ivory]>", "[+2 Gold] <for every [Jewelry]>", "[+2 Gold] <for every [Marble]>", "[+2 Gold] <for every [Obsidian]>",
+					"[+2 Gold] <for every [Olive]>", "[+2 Gold] <for every [Pearls]>", "[+2 Gold] <for every [Poppy]>", "[+2 Gold] <for every [Porcelain]>", "[+2 Gold] <for every [Rum]>", "[+2 Gold] <for every [Salt]>",
+					"[+2 Gold] <for every [Silk]>", "[+2 Gold] <for every [Silver]>", "[+2 Gold] <for every [Spices]>", "[+2 Gold] <for every [Sugar]>", "[+2 Gold] <for every [Tea]>", "[+2 Gold] <for every [Tobacco]>",
+					"[+2 Gold] <for every [Truffles]>", "[+2 Gold] <for every [Vodka]>", "[+2 Gold] <for every [Whales]>", "[+2 Gold] <for every [Whisky]>", "[+2 Gold] <for every [Wine]>"
+				],
 				"quote": "'If you’re in the luckiest one per cent of humanity, you owe it to the rest of humanity to think about the other ninetynine per cent.' - Warren Buffett"
 			},
 			{
@@ -810,6 +817,7 @@
 		]
 	}
 ]
+
 
 
 

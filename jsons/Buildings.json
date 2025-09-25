@@ -1526,7 +1526,7 @@
 	// Column 12
 	{
 		"name": "Research Lab",
-		"science": 4,
+		"science": 8,
 		"percentStatBonus": {"science": 25},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Public School",
@@ -1551,9 +1551,9 @@
 	{
 		"name": "Medical Lab",
 		"requiredBuilding": "Hospital",
-		"percentStatBonus": {"food": 15, "science": 15},
-		"food": 3,
-		"science": 3,
+		"percentStatBonus": {"food": 20, "science": 20},
+		"food": 4,
+		"science": 4,
 		"maintenance": 3,
 		"requiredTech": "Pharmaceuticals",
 	},

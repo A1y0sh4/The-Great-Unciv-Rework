@@ -644,7 +644,7 @@
 			},
 			{
 				"name": "Atomic Theory",
-				"row": 4,
+				"row": 5,
 				"prerequisites": ["Plastics","Electronics","Sociology","Cultural Hegemony"], 
 				"uniques": ["Comment [Resting points with City-States will raise by triple the Strength level of each of the nuclear devices in your possession]"],
 				"quote": "'The unleashed power of the atom has changed everything save our modes of thinking, and we thus drift toward unparalleled catastrophes.' - Albert Einstein"
@@ -657,14 +657,14 @@
 			},
 			{
 				"name": "Information Theory",
-				"row": 7,
+				"row": 8,
 				"prerequisites": ["Ballistics","Electronics","Cultural Hegemony","Combined Arms"],
 				"uniques": ["Production to [Gold] conversion in cities changed by [+50]%", "Production to [Science] conversion in cities changed by [+50]%"],
 				"quote": "'An individual tends to absorb the surrounding spirit and to radiate the acquired lifestyle and worldview to anyone around, not just to a select friend.' - Andrej Kolmogorov"
 			},
 			{
 				"name": "Advanced Espionage",
-				"row": 8,
+				"row": 9,
 				"prerequisites": ["Combined Arms", "Ballistics", "Electronics","Cultural Hegemony"],
 				"uniques": ["[+25]% spy effectiveness [in all cities]", "[-25]% enemy spy effectiveness [in all cities]"],
 				"quote": "'In art and dream may you proceed with abandon. In life may you proceed with balance and stealth.' - Patti Smith"
@@ -839,6 +839,7 @@
 		]
 	}
 ]
+
 
 
 

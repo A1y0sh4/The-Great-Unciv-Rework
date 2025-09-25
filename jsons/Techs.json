@@ -537,7 +537,7 @@
 			},
 			{
 				"name": "Financial Capital",
-				"row": 4,
+				"row": 5,
 				"prerequisites": ["Biology", "Steam Power","Dynamite","Electricity","Refining"],
 				"uniques": [
 					"[+2 Gold] <for every [Amber]> <hidden from users>", "[+2 Gold] <for every [Beer]> <hidden from users>", "[+2 Gold] <for every [Citrus]> <hidden from users>", "[+2 Gold] <for every [Cocoa]> <hidden from users>", "[+2 Gold] <for every [Coffee]> <hidden from users>", "[+2 Gold] <for every [Cognac]> <hidden from users>",
@@ -559,13 +559,13 @@
 			},
 			{
 				"name": "Flight", 
-				"row": 7,
+				"row": 8,
 				"prerequisites": ["Biology", "Steam Power", "Electricity","Dynamite","Refining"],
 				"quote": "'Aeronautics was neither an industry nor a science. It was a miracle.' - Igor Sikorsky"
 			},
 			{
 				"name": "Combustion",
-				"row": 8,
+				"row": 9,
 				"prerequisites": ["Biology", "Steam Power","Dynamite","Electricity","Refining"],
 				"uniques": ["Religion naturally spreads to cities [+3] tiles away"],
 				"quote": "'Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves.' - Albert Einstein"
@@ -594,7 +594,7 @@
 			},
 			{
 				"name": "Electronics",
-				"row": 4,
+				"row": 5,
 				"prerequisites": ["Replaceable Parts", "Flight", "Radio","Financial Capital"],
 				"uniques": ["[+1 Science, +1 Gold] from every [Strategic resource]"],
 				"quote": "'There's a basic principle about consumer electronics: it gets more powerful all the time and it gets cheaper all the time.' - Trip Hawkins"
@@ -608,14 +608,14 @@
 			},
 			{
 				"name": "Ballistics",
-				"row": 7,
+				"row": 8,
 				"prerequisites": ["Flight", "Replaceable Parts"], 
 				"uniques": ["[+1 Science] <for every [[Military] Units]>"],
 				"quote": "'Men, like bullets, go farthest when they are smoothest.' - Jean Paul"
 			},
 			{
 				"name": "Combined Arms",
-				"row": 8,
+				"row": 9,
 				"prerequisites": ["Combustion","Flight"],
 				"quote": "'The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest.' - Ludwig von Mises"
 			}
@@ -825,6 +825,7 @@
 		]
 	}
 ]
+
 
 
 

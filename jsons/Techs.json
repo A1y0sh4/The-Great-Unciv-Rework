@@ -540,7 +540,7 @@
 				"row": 4,
 				"prerequisites": ["Biology", "Steam Power","Dynamite","Electricity","Refining"],
 				"uniques": ["[+2 Production] [in all cities]"],
-				"quote": "'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford"
+				"quote": "'If you’re in the luckiest one per cent of humanity, you owe it to the rest of humanity to think about the other ninetynine per cent.' - Warren Buffett"
 			},
 			{
 				"name": "Replaceable Parts",
@@ -810,6 +810,7 @@
 		]
 	}
 ]
+
 
 
 

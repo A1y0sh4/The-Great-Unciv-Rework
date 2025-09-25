@@ -1687,12 +1687,10 @@
 		"name": "Hubble Space Telescope",
 		"isWonder": true,
 		"culture": 5,
-		"science": 10,
+		"science": 50,
 		"greatPersonPoints": {"Great Scientist": 5},
 		"uniques": ["[+50]% Production when constructing [Space Mission] wonders [in this city]",
-			    "Gain a free [Spaceship Factory] [in this city]",
-			"Gain a free [Observatory] [in this city]",
-			    "[+6 Science] from every [Observatory]", "Only available <when [Scientific] Victory is enabled>"],
+			    "Gain a free [Spaceship Factory] [in this city]", "Only available <when [Scientific] Victory is enabled>"],
 		"requiredTech": "Satellites",
 		"quote": "'The wonder is, not that the field of stars is so vast, but that man has measured it.' - Anatole France"
 	},
@@ -1704,6 +1702,16 @@
 		"maintenance": 3,
 		"uniques": ["[+50]% Production when constructing [Space Mission] wonders [in this city]", "Only available <when [Scientific] Victory is enabled>", "Provides [1] [Pollution]"],
 		"requiredTech": "Robotics"
+	},
+	{
+		"name": "Mauna Kea Observatory",
+		"culture": 5,
+		"science": 12,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Scientist": 5},
+		"uniques": ["Must be next to [Water]", "Gain a free [Observatory] [in this city]", "[+12 Science] from every [Observatory]", "Science gained from research agreements [+50]%"],
+		"requiredTech": "Information theory",
+		"quote": "'Come to me, all who labor and are heavy burdened, and I will give you rest.' - New Testament, Matthew 11:28"
 	},
         {
         "name": "National Intelligence Agency",

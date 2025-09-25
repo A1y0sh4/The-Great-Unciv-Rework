@@ -1585,6 +1585,14 @@
 	},
 	// Column 14
 	{
+		"name": "Office Complex",
+		"specialistSlots": {"Artist": 1, "Merchant": 1, "Scientist": 1, "Engineer": 1},
+		"maintenance": 3,
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Advanced Urbanism"
+	},
+	{
 		"name": "Solar Plant",
 		"production": 3,
 		"percentStatBonus": {"production": 10},

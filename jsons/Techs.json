@@ -581,20 +581,20 @@
 			{
 				"name": "Plastics",
 				"row": 2,
-				"prerequisites": ["Radio","Replaceable Parts","Refrigeration"],
+				"prerequisites": ["Radio","Replaceable Parts","Refrigeration","Financial Capital"],
 				"quote": "'Ben, I want to say one word to you, just one word: plastics.' - Buck Henry and Calder Willingham, The Graduate"
 			},
 			{
 				"name": "Sociology",
 				"row": 3,
-				"prerequisites": ["Radio","Replaceable Parts","Refrigeration"], 
+				"prerequisites": ["Radio","Replaceable Parts","Refrigeration","Financial Capital"], 
 				"uniques": ["[+50]% Great Person generation [in all cities]", "[+8 Culture, +8 Science] <in cities with at least [4] [Specialists]>", "Comment [May start a revolution]"],
 				"quote": "'The philosophers have only interpreted the world, in various ways. The point, however, is to change it.' - Karl Marx"
 			},
 			{
 				"name": "Electronics",
 				"row": 4,
-				"prerequisites": ["Replaceable Parts", "Flight", "Radio"],
+				"prerequisites": ["Replaceable Parts", "Flight", "Radio","Financial Capital"],
 				"uniques": ["[+1 Science, +1 Gold] from every [Strategic resource]"],
 				"quote": "'There's a basic principle about consumer electronics: it gets more powerful all the time and it gets cheaper all the time.' - Trip Hawkins"
 			},
@@ -608,7 +608,7 @@
 			{
 				"name": "Combined Arms",
 				"row": 8,
-				"prerequisites": ["Combustion"],
+				"prerequisites": ["Combustion","Flight"],
 				"quote": "'The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest.' - Ludwig von Mises"
 			}
 		]
@@ -817,6 +817,7 @@
 		]
 	}
 ]
+
 
 
 

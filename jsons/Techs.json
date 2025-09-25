@@ -540,12 +540,12 @@
 				"row": 4,
 				"prerequisites": ["Biology", "Steam Power","Dynamite","Electricity","Refining"],
 				"uniques": [
-					"[+2 Gold] <for every [Amber]>", "[+2 Gold] <for every [Beer]>", "[+2 Gold] <for every [Citrus]>", "[+2 Gold] <for every [Cocoa]>", "[+2 Gold] <for every [Coffee]>", "[+2 Gold] <for every [Cognac]>",
-					"[+2 Gold] <for every [Copper]>", "[+2 Gold] <for every [Cotton]>", "[+2 Gold] <for every [Crab]>", "[+2 Gold] <for every [Dyes]>", "[+2 Gold] <for every [Furs]>", "[+2 Gold] <for every [Gems]>",
-					"[+2 Gold] <for every [Gold Ore]>", "[+2 Gold] <for every [Incense]>", "[+2 Gold] <for every [Ivory]>", "[+2 Gold] <for every [Jewelry]>", "[+2 Gold] <for every [Marble]>", "[+2 Gold] <for every [Obsidian]>",
-					"[+2 Gold] <for every [Olive]>", "[+2 Gold] <for every [Pearls]>", "[+2 Gold] <for every [Poppy]>", "[+2 Gold] <for every [Porcelain]>", "[+2 Gold] <for every [Rum]>", "[+2 Gold] <for every [Salt]>",
-					"[+2 Gold] <for every [Silk]>", "[+2 Gold] <for every [Silver]>", "[+2 Gold] <for every [Spices]>", "[+2 Gold] <for every [Sugar]>", "[+2 Gold] <for every [Tea]>", "[+2 Gold] <for every [Tobacco]>",
-					"[+2 Gold] <for every [Truffles]>", "[+2 Gold] <for every [Vodka]>", "[+2 Gold] <for every [Whales]>", "[+2 Gold] <for every [Whisky]>", "[+2 Gold] <for every [Wine]>"
+					"[+2 Gold] <for every [Amber]> <hidden from users>", "[+2 Gold] <for every [Beer]> <hidden from users>", "[+2 Gold] <for every [Citrus]> <hidden from users>", "[+2 Gold] <for every [Cocoa]> <hidden from users>", "[+2 Gold] <for every [Coffee]> <hidden from users>", "[+2 Gold] <for every [Cognac]> <hidden from users>",
+					"[+2 Gold] <for every [Copper]> <hidden from users>", "[+2 Gold] <for every [Cotton]> <hidden from users>", "[+2 Gold] <for every [Crab]> <hidden from users>", "[+2 Gold] <for every [Dyes]> <hidden from users>", "[+2 Gold] <for every [Furs]> <hidden from users>", "[+2 Gold] <for every [Gems]> <hidden from users>",
+					"[+2 Gold] <for every [Gold Ore]> <hidden from users>", "[+2 Gold] <for every [Incense]> <hidden from users>", "[+2 Gold] <for every [Ivory]> <hidden from users>", "[+2 Gold] <for every [Jewelry]> <hidden from users>", "[+2 Gold] <for every [Marble]> <hidden from users>", "[+2 Gold] <for every [Obsidian]> <hidden from users>",
+					"[+2 Gold] <for every [Olive]> <hidden from users>", "[+2 Gold] <for every [Pearls]> <hidden from users>", "[+2 Gold] <for every [Poppy]> <hidden from users>", "[+2 Gold] <for every [Porcelain]> <hidden from users>", "[+2 Gold] <for every [Rum]> <hidden from users>", "[+2 Gold] <for every [Salt]> <hidden from users>",
+					"[+2 Gold] <for every [Silk]> <hidden from users>", "[+2 Gold] <for every [Silver]> <hidden from users>", "[+2 Gold] <for every [Spices]> <hidden from users>", "[+2 Gold] <for every [Sugar]> <hidden from users>", "[+2 Gold] <for every [Tea]> <hidden from users>", "[+2 Gold] <for every [Tobacco]> <hidden from users>",
+					"[+2 Gold] <for every [Truffles]> <hidden from users>", "[+2 Gold] <for every [Vodka]> <hidden from users>", "[+2 Gold] <for every [Whales]> <hidden from users>", "[+2 Gold] <for every [Whisky]> <hidden from users>", "[+2 Gold] <for every [Wine]> <hidden from users>"
 				],
 				"quote": "'If you’re in the luckiest one per cent of humanity, you owe it to the rest of humanity to think about the other ninetynine per cent.' - Warren Buffett"
 			},
@@ -817,6 +817,7 @@
 		]
 	}
 ]
+
 
 
 

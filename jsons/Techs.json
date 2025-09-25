@@ -683,7 +683,7 @@
 				"name": "Advanced Urbanism",
 				"row": 2,
 				"prerequisites": ["Pharmaceuticals","Ecology"],
-				"uniques": ["[+3 Science, +3 Gold, +1 Culture] from every [Wonder]"],
+				"uniques": ["[+3 Science, +1 Culture] from every [Wonder]"],
 				"quote": "'A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.' - Douglas Adams"
 			},
 			{
@@ -839,6 +839,7 @@
 		]
 	}
 ]
+
 
 
 

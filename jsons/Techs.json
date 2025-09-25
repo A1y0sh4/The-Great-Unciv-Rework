@@ -600,8 +600,15 @@
 				"quote": "'There's a basic principle about consumer electronics: it gets more powerful all the time and it gets cheaper all the time.' - Trip Hawkins"
 			},
 			{
-				"name": "Ballistics",
+				"name": "Cultural Hegemony",
 				"row": 6,
+				"prerequisites": ["Radio", "Financial Capital", "Flight", "Replaceable Parts"], 
+				"uniques": ["[+1 Science] <for every [[Military] Units]>"],
+				"quote": "'Ideas and opinions are not spontaneously born in each individual brain: they have had a centre of formation, or irradiation, of dissemination, of persuasion-a group of men, or a single individual even, which has developed them and presented them in the political form of current reality.' - Antonio Gramsci"
+			},
+			{
+				"name": "Ballistics",
+				"row": 7,
 				"prerequisites": ["Flight", "Replaceable Parts"], 
 				"uniques": ["[+1 Science] <for every [[Military] Units]>"],
 				"quote": "'Men, like bullets, go farthest when they are smoothest.' - Jean Paul"
@@ -818,6 +825,7 @@
 		]
 	}
 ]
+
 
 
 

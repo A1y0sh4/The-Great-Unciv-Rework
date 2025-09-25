@@ -695,7 +695,7 @@
 			},
 			{
 				"name": "Nuclear Fission",
-				"row": 4,
+				"row": 5,
 				"prerequisites": ["Atomic Theory","Radar"],
 				"quote": "'I am become Death, the destroyer of worlds.' - J. Robert Oppenheimer"
 			},
@@ -707,14 +707,14 @@
 			},
 			{
 				"name": "Cybernetics",
-				"row": 7,
+				"row": 8,
 				"prerequisites": ["Radar","Advanced Espionage","Information Theory"],
 				"uniques": ["[+1 Science] from every specialist [in all cities]", "[+25]% Yield from every [Great Improvement]"],
 				"quote": "'The boundary between man and machine is not a wall, but a membrane.' - Norbert Wiener"
 			},
 			{
 				"name": "Computers",
-				"row": 8,
+				"row": 9,
 				"prerequisites": ["Advanced Espionage","Radar","Information Theory"],
 				"quote": "'Computers are like Old Testament gods: lots of rules and no mercy.' - Joseph Campbell"
 			}
@@ -741,7 +741,7 @@
 			},
 			{
 				"name": "Advanced Ballistics",
-				"row": 4,
+				"row": 5,
 				"prerequisites": ["Nuclear Fission","Rocketry"],
 				"quote": "'Our scientific power has outrun our spiritual power, we have guided missiles and misguided men.' – Martin Luther King Jr."
 			},
@@ -753,13 +753,13 @@
 			},
 			{
 				"name": "Robotics",
-				"row": 7,
+				"row": 8,
 				"prerequisites": ["Rocketry","Computers","Cybernetics"],
 				"quote": "'1. A robot may not injure a human being or, through inaction, allow a human being to come to harm. 2. A robot must obey any orders given to it by human beings, except when such orders would conflict with the First Law. 3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.' - Isaac Asimov"
 			},
 			{
 				"name": "Lasers",
-				"row": 8,
+				"row": 9,
 				"prerequisites": ["Computers","Cybernetics"],
 				"quote": "'The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armor of light.' - The Holy Bible: Romans, 13:12"
 			}
@@ -839,6 +839,7 @@
 		]
 	}
 ]
+
 
 
 

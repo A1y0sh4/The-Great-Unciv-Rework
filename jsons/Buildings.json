@@ -1689,7 +1689,7 @@
 		"culture": 5,
 		"science": 50,
 		"greatPersonPoints": {"Great Scientist": 5},
-		"uniques": ["[+50]% Production when constructing [Space Mission] wonders [in this city]",
+		"uniques": ["[+100]% Production when constructing [Space Mission] wonders [in this city]",
 			    "Gain a free [Spaceship Factory] [in this city]", "Only available <when [Scientific] Victory is enabled>"],
 		"requiredTech": "Satellites",
 		"quote": "'The wonder is, not that the field of stars is so vast, but that man has measured it.' - Anatole France"
@@ -1706,12 +1706,12 @@
 	{
 		"name": "Mauna Kea Observatory",
 		"culture": 5,
-		"science": 12,
+		"science": 24,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 5},
 		"uniques": ["Must be next to [Water]", "Gain a free [Observatory] [in this city]", "[+12 Science] from every [Observatory]", "Science gained from research agreements [+50]%"],
 		"requiredTech": "Information theory",
-		"quote": "'Come to me, all who labor and are heavy burdened, and I will give you rest.' - New Testament, Matthew 11:28"
+		"quote": "'Equipped with his five senses, man explores the universe around him and calls the adventure Science.' - Edwin Hubble"
 	},
         {
         "name": "National Intelligence Agency",

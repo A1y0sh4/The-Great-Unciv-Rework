@@ -680,6 +680,13 @@
 		"wonderCost": 2113,
 		"techs": [
 			{
+				"name": "Advanced Urbanism",
+				"row": 2,
+				"prerequisites": ["Pharmaceuticals","Ecology"],
+				"uniques": [],
+				"quote": "'What we are doing to the forests of the world is but a mirror reflection of what we are doing to ourselves.' - Mahatma Gandhi"
+			},
+			{
 				"name": "Environmentalism",
 				"row": 3,
 				"prerequisites": ["Atomic Theory","Pharmaceuticals","Ecology"],
@@ -832,6 +839,7 @@
 		]
 	}
 ]
+
 
 
 

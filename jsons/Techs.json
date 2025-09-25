@@ -536,7 +536,7 @@
 				"quote": "'The whole country was tied together by radio. We all experienced the same heroes and comedians and singers. They were giants.' - Woody Allen"
 			},
 			{
-				"name": "Financing",
+				"name": "Financial Capital",
 				"row": 4,
 				"prerequisites": ["Biology", "Steam Power","Dynamite","Electricity","Refining"],
 				"uniques": ["[+2 Production] [in all cities]"],
@@ -810,6 +810,7 @@
 		]
 	}
 ]
+
 
 
 

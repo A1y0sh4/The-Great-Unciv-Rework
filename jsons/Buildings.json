@@ -1586,6 +1586,7 @@
 	{
 		"name": "Skyscraper",
 		"specialistSlots": {"Artist": 1, "Merchant": 1, "Scientist": 1, "Engineer": 1},
+		"greatPersonPoints": {"Great Artist": 1, "Great Merchant": 1, "Great Scientist": 1, "Great Engineer": 1},
 		"maintenance": 4,
 		"hurryCostModifier": 25,
 		"uniques": ["[-25]% Food consumption by specialists [in this city]", "[+25]% Great Person generation [in this city]"],

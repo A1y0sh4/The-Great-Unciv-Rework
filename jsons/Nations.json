@@ -1670,8 +1670,8 @@
 		"tradeRequest": "In my endless magnanimity, I am making you this offer. You agree, of course?",
 		"favoredReligion": "Sikhism",
 		
-		"outerColor": [153,5,3],
-		"innerColor": [244,232,54],
+		"outerColor": [72, 12, 96],
+		"innerColor": [250, 250, 210],
 		
 		"uniqueName": "Achaemenid Legacy",
 		"uniqueText": "All units gain +1 Movement point and +10% Strength during a Golden Age\nGolden Ages last 50% longer",

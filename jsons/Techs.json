@@ -603,7 +603,7 @@
 				"name": "Cultural Hegemony",
 				"row": 6,
 				"prerequisites": ["Radio", "Financial Capital", "Flight", "Replaceable Parts"], 
-				"uniques": ["Resting point for Influence with City-States is increased by [30]", "Each city founded increases culture cost of policies [15]% less than normal", "Each city founded increases Science cost of Technologies [15]% less than normal"],
+				"uniques": ["Resting point for Influence with City-States is increased by [30]", "Each city founded increases culture cost of policies [25]% less than normal", "Each city founded increases Science cost of Technologies [25]% less than normal"],
 				"quote": "'Ideas and opinions are not spontaneously born in each individual brain: they have had a centre of formation, or irradiation, of dissemination, of persuasion-a group of men, or a single individual even, which has developed them and presented them in the political form of current reality.' - Antonio Gramsci"
 			},
 			{
@@ -839,6 +839,7 @@
 		]
 	}
 ]
+
 
 
 

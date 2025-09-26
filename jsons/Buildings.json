@@ -1494,7 +1494,6 @@
 		"name": "Empire State Building",
 		"greatPersonPoints": {"Great Merchant": 4},
 		"culture": 4,
-		"gold": 4,
 		"isWonder": true,
 		"uniques": ["Gain a free [Stock Exchange] [in this city]", "[+4 Gold, +1 Happiness] from every [Stock Exchange]", "[+25]% [Gold] from Trade Routes"],
 		"requiredTech": "Financial Capital",

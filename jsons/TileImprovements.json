@@ -409,7 +409,6 @@
 			"[+1 Science] <after discovering [Scientific Theory]>",
 			"[+1 Culture] <after discovering [Archaeology]>",
 			"[+1 Food] <after discovering [Fertilizer]>",
-			"[+1 Food] <after discovering [Pharmaceuticals]>",
 			"Pillaging this improvement yields approximately [+13 Gold]"],
 		"techRequired": "Calendar",
 		"shortcutKey": "Z"
@@ -494,6 +493,7 @@
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
 	}
 ]
+
 
 
 

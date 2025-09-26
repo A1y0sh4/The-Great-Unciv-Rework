@@ -1157,8 +1157,8 @@
 		"hateHello": "So, out with it!",
 		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
 		
-		"outerColor": [255, 105, 180],
-		"innerColor": [0, 0, 139],
+		"outerColor": [47, 79, 79],
+		"innerColor": [255, 228, 196],
 		
 		"uniqueName": "Free Imperial Cities",
 		"uniqueText": "Can spend [Gold] to annex or puppet a City-State that has been your Ally for 5 turns\nMay not annex cities, but may buy items in puppet cities\nPuppeted cities do not suffer from [Gold] and [Science] maluses",

@@ -1122,7 +1122,7 @@
 		"strength": 24,
 		"cost": 151,
 		"requiredTech": "Gunpowder",
-		"uniques": ["[+33]% Strength <vs [Gunpowder] units>", "Heals [20] damage if it kills a unit"],
+		"uniques": ["[+20]% Strength <vs [Gunpowder] units>", "Heals [20] damage if it kills a unit"],
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "metalhit"

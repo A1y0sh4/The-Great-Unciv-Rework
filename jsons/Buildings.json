@@ -1434,7 +1434,7 @@
 		"name": "Oil Plant",
 		"requiredBuilding": "Factory",
 		"maintenance": 3,
-		"production": 4,
+		"production": 2,
 		"uniques": ["Remove [Coal Plant] [in this city]", "Remove [Nuclear Plant] [in this city]", "Only available <when above [0] [Oil]>", "[+1 Production] <for every [4] [Oil]>", "[+1]% [Production] [in this city] <for every [2] [Oil]>", "Provides [1] [Pollution] <for every [6] [Oil]>", "Unbuildable <if [Coal Plant] is constructed> <in this city> <hidden from users>", "Unbuildable <if [Nuclear Plant] is constructed> <in this city> <hidden from users>", "Shown while unbuilable", "Can be purchased with [Gold] [in this city] <if [Coal Plant] is constructed> <in this city> <hidden from users>", "Can be purchased with [Gold] [in this city] <if [Nuclear Plant] is constructed> <in this city> <hidden from users>"],
 		"hurryCostModifier": 0,
 		"requiredTech": "Refining"

@@ -328,7 +328,7 @@
                 "name": "Resource Contracts",
                 "requires": ["Machiavellianism", "Mercenary Opportunism"],
                 "uniques": [
-		    "[+50]% resources gifted by City-States",
+		            "[+100]% resources gifted by City-States",
                     "[+50]% Happiness from luxury resources gifted by City-States"
                 ],
                 "row": 2,
@@ -566,8 +566,8 @@
             {
                 "name": "Autarky",
                 "uniques": [
-                    "[50]% [Strategic] resource production",
-                    "[+2 Food] [in all cities connected to capital]"
+                    "[+100]% [Strategic] resource production",
+                    "[-1] Happiness from each type of luxury resource"
                 ],
                 "requires": ["Populism", "Militarism"],
                 "row": 2,
@@ -576,7 +576,7 @@
             {
                 "name": "Police State",
                 "uniques": [
-		    "Gain a free [Courthouse] [in annexed cities]", "[+2 Happiness] from every [Courthouse]", "[-25]% enemy spy effectiveness [in all cities] <when espionage is enabled> <hidden from users>",
+		    "Gain a free [Courthouse] [in annexed cities]", "[+3 Happiness] from every [Courthouse]", "[-25]% enemy spy effectiveness [in all cities] <when espionage is enabled> <hidden from users>",
                 ],
                 "requires": ["Militarism"],
                 "row": 2,

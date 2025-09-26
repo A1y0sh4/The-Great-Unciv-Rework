@@ -1964,11 +1964,11 @@
 		"innerColor": [248,215,12],
 		
 		"uniqueName": "Workers Revolution",
-		"uniqueText": "Farms, Plantation, Mines and Quarries yield an additional +1 of their respective stat during a Golden Age\nEmpire enters a Golden age upon completing a policy tree\nGain a free worker upon entering a Golden age",
+		"uniqueText": "Farms, Plantation, Mines and Quarries yield an additional +1 of their respective stat during a Golden Age\nEmpire enters a Golden age upon completing a policy tree\n+25% Great Person generation in all cities during a Golden Age",
 		"uniques": ["[+1 Food] from every [Farm] <during a Golden Age>", "[+1 Food] from every [Plantation] <during a Golden Age>", "[+1 Production] from every [Mine] <during a Golden Age>", "[+1 Production] from every [Quarry] <during a Golden Age>",
 		            "Empire enters golden age <upon adopting [Tradition Complete]>", "Empire enters golden age <upon adopting [Liberty Complete]>", "Empire enters golden age <upon adopting [Expansion Complete]>", "Empire enters golden age <upon adopting [Piety Complete]>", "Empire enters golden age <upon adopting [Relations Complete]>",
 		            "Empire enters golden age <upon adopting [Commerce Complete]>", "Empire enters golden age <upon adopting [Rationalism Complete]>", "Empire enters golden age <upon adopting [Individualism Complete]>", "Empire enters golden age <upon adopting [Nationalism Complete]>", "Empire enters golden age <upon adopting [Internationalism Complete]>",
-		            "[1] free [Worker] units appear <upon entering a Golden Age>", "[+1 Food] from every [City center] <during a Golden Age>", "[-1 Food, +1 Production] from every [City center] <in [Hill] tiles> <during a Golden Age>"],
+		            "[+1 Food] from every [City center] <during a Golden Age>", "[-1 Food, +1 Production] from every [City center] <in [Hill] tiles> <during a Golden Age>", "[+25]% Great Person generation [in all cities] <during a Golden Age>"],
 		"cities": ["Moscow","Leningrad","Stalingrad","Kiev","Kharkov","Minsk","Novosibirsk","Sverdlovsk","Nizhny Novgorod","Tbilisi",
 			"Rostov","Odessa","Vladivostok","Sevastopol","Magnitogorsk","Tashkent","Baku","Dnipropetrovsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",

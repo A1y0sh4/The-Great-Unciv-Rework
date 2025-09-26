@@ -813,7 +813,7 @@
 	{
 		"name": "Rum Distillery",
 		"culture": 1,
-		"maintenance": 1,
+		"maintenance": 2,
                 "requiredNearbyImprovedResources": ["Sugar"],
 		 "uniques": ["Comment [Only avaible in cities without another Distillery]", "Only available <in cities without a [Vodka Distillery]> <hidden from users>", "Only available <in cities without a [Whisky Distillery]> <hidden from users>", "Only available <in cities without a [Cognac Distillery]> <hidden from users>", "Provides [1] [Rum]"],
 		"requiredTech": "Distillation"
@@ -821,7 +821,7 @@
 	{
 		"name": "Whisky Distillery",
 		"culture": 1,
-		"maintenance": 1,
+		"maintenance": 2,
                 "requiredNearbyImprovedResources": ["Wheat"],
 		 "uniques": ["Comment [Only avaible in cities without another Distillery]", "Only available <in cities without a [Rum Distillery]> <hidden from users>", "Only available <in cities without a [Vodka Distillery]> <hidden from users>", "Only available <in cities without a [Cognac Distillery]> <hidden from users>", "Provides [1] [Whisky]"],
 		"requiredTech": "Distillation"
@@ -829,7 +829,7 @@
 	{
 		"name": "Vodka Distillery",
 		"culture": 1,
-		"maintenance": 1,
+		"maintenance": 2,
                 "requiredNearbyImprovedResources": ["Wheat"],
 		 "uniques": ["Comment [Only avaible in cities without another Distillery]", "Only available <in cities without a [Rum Distillery]> <hidden from users>", "Only available <in cities without a [Whisky Distillery]> <hidden from users>", "Only available <in cities without a [Cognac Distillery]> <hidden from users>", "Provides [1] [Vodka]"],
 		"requiredTech": "Distillation"
@@ -837,7 +837,7 @@
 	{
 		"name": "Cognac Distillery",
 		"culture": 1,
-		"maintenance": 1,
+		"maintenance": 2,
                 "requiredBuilding": "Wine Cellar",
 		"requiredNearbyImprovedResources": ["Grape"],
 		 "uniques": ["Comment [Only avaible in cities without another Distillery]", "Only available <in cities without a [Rum Distillery]> <hidden from users>", "Only available <in cities without a [Whisky Distillery]> <hidden from users>", "Only available <in cities without a [Vodka Distillery]> <hidden from users>", "Provides [1] [Cognac]"],
@@ -845,7 +845,7 @@
 	},
 	{
 		"name": "Workshop",
-		"maintenance": 1,
+		"maintenance": 2,
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
@@ -857,7 +857,7 @@
 		"replaces": "Workshop",
 		"uniqueTo": "Italy",
 	        "greatPersonPoints": {"Great Artist": 1},
-		"maintenance": 1,
+		"maintenance": 2,
 		"hurryCostModifier": 25,
 	        "specialistSlots": {"Engineer": 1},
 		"production": 2,
@@ -870,7 +870,7 @@
 		"replaces": "Workshop",
 		"uniqueTo": "Iroquois",
 		"cost": 61,
-		"maintenance": 1,
+		"maintenance": 2,
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
@@ -886,14 +886,14 @@
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
-		"maintenance": 1,
+		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Metal Casting",
 		"uniques": ["[-10]% Unhappiness from [Population] [in this city]", "[+2 Food] [in this city] <within [2] tiles of a [Tundra]>"]
 	},
 	{
 		"name": "Forge",
-		"maintenance": 1,
+		"maintenance": 2,
 		"production": 1,
 		"hurryCostModifier": 25,
 		"requiredNearbyImprovedResources": ["Copper", "Iron", "Aluminum"],
@@ -1042,7 +1042,7 @@
 	{
 		"name": "Armory",
 		"hurryCostModifier": 25,
-		"maintenance": 1,
+		"maintenance": 2,
 		"requiredBuilding": "Barracks",
 		"uniques": ["New [{Land} {Military}] units start with [15] XP [in this city]", "[+1] Unit Supply", "Destroyed when the city is captured"],
 		"requiredTech": "Steel"
@@ -1065,7 +1065,7 @@
 		"food": 2,
 		"hurryCostModifier": 25,
                 "requiredBuilding": "Barracks",
-		"maintenance": 1,
+		"maintenance": 2,
 		"uniques": ["New [{Land} {Military}] units start with [15] XP [in this city]", "All newly-trained [Sword] units [in this city] receive the [Buffalo Horns I] promotion", "[+1] Unit Supply", "Destroyed when the city is captured"],
 		"requiredTech": "Steel"
 	},
@@ -1075,7 +1075,7 @@
 	// Column 7
 	{
 		"name": "Observatory",
-		"maintenance": 2,
+		"maintenance": 3,
 		"hurryCostModifier": 15,
 		"greatPersonPoints": {"Great Scientist": 1},
 		"percentStatBonus": {"science": 50},
@@ -1090,7 +1090,7 @@
 		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 10,
 		"requiredBuilding": "Amphitheater",
-		"maintenance": 2,
+		"maintenance": 3,
 		"requiredTech": "Acoustics",
 		"uniques": ["Destroyed when the city is captured"]
 	},
@@ -1103,7 +1103,7 @@
 		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 10,
 		"requiredBuilding": "Amphitheater",
-		"maintenance": 2,
+		"maintenance": 3,
 		"uniques": ["Destroyed when the city is captured", "[+25]% Great Person generation [in this city]", "[-25]% Unhappiness from [Specialists] [in this city]"],
 		"requiredTech": "Acoustics"
 	},
@@ -1132,7 +1132,7 @@
 		"specialistSlots": {"Engineer": 1},
 		"requiredBuilding": "Workshop",
 		"hurryCostModifier": 25,
-		"maintenance": 2,
+		"maintenance": 3,
 		"uniques": ["Must not be on [Hill]"],
 		"requiredTech": "Mechanics"
 	},
@@ -1146,7 +1146,7 @@
 		"requiredNearbyImprovedResources": ["Bananas", "Citrus", "Cocoa", "Coffee", "Cotton", "Grape", "Incense", "Silk", "Sugar", "Tobacco", "Olive", "Poppy", "Tea", "Maize"],
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
-		"maintenance": 0,
+		"maintenance": 1,
 		"uniques": ["Must not be on [Hill]", "[+1 Gold] from [Plantation] tiles [in this city]"],
 		"requiredTech": "Mechanics"
 	},
@@ -1184,7 +1184,7 @@
 		"name": "Theatre",
 		"happiness": 2,
 		"hurryCostModifier": 10,
-		"maintenance": 2,
+		"maintenance": 3,
 		"requiredBuilding": "Colosseum",
 		"requiredTech": "Printing Press"
 	},
@@ -1353,7 +1353,7 @@
 		"requiredResource": "Coal",
 		"specialistSlots": {"Engineer": 2},
 		"requiredBuilding": "Workshop",
-		"maintenance": 0,
+		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"uniques": ["Provides [1] [Pollution]"],
 		"requiredTech": "Industrialization"
@@ -1388,7 +1388,7 @@
 	{
 		"name": "Military Academy",
 		"hurryCostModifier": 0,
-		"maintenance": 1,
+		"maintenance": 3,
 		"requiredBuilding": "Armory",
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "[+1] Unit Supply", "Destroyed when the city is captured"],
 		"requiredTech": "Military Science"
@@ -1406,7 +1406,7 @@
 	{
 		"name": "Hospital",
 		"requiredBuilding": "Aqueduct",
-		"maintenance": 2,
+		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"happiness": 1,
 		"uniques": ["[50]% Food is carried over after population increases [in this city]"],
@@ -1433,7 +1433,7 @@
 	{
 		"name": "Oil Plant",
 		"requiredBuilding": "Factory",
-		"maintenance": 1,
+		"maintenance": 3,
 		"production": 4,
 		"uniques": ["Remove [Coal Plant] [in this city]", "Remove [Nuclear Plant] [in this city]", "Only available <when above [0] [Oil]>", "[+1 Production] <for every [4] [Oil]>", "[+1]% [Production] [in this city] <for every [2] [Oil]>", "Provides [1] [Pollution] <for every [6] [Oil]>", "Unbuildable <if [Coal Plant] is constructed> <in this city> <hidden from users>", "Unbuildable <if [Nuclear Plant] is constructed> <in this city> <hidden from users>", "Shown while unbuilable", "Can be purchased with [Gold] [in this city] <if [Coal Plant] is constructed> <in this city> <hidden from users>", "Can be purchased with [Gold] [in this city] <if [Nuclear Plant] is constructed> <in this city> <hidden from users>"],
 		"hurryCostModifier": 0,
@@ -1447,7 +1447,7 @@
 		"name": "Stadium",
 		"happiness": 2,
 		"requiredBuilding": "Theatre",
-		"maintenance": 2,
+		"maintenance": 4,
 		"requiredTech": "Refrigeration"
 	},
 	{
@@ -1465,7 +1465,7 @@
 		"culture": 3,
 		"percentStatBonus": {"culture": 33},
 		"requiredBuilding": "Museum",
-		"maintenance": 3,
+		"maintenance": 4,
 		"requiredTech": "Radio",
 		"uniques": ["Destroyed when the city is captured"]
 	},
@@ -1476,7 +1476,7 @@
 		"cost": 329,
 		"culture": 3,
 		"percentStatBonus": {"culture": 33},
-		"maintenance": 3,
+		"maintenance": 4,
 		"uniques": ["[+1 Culture, +1 Happiness] per [6] social policies adopted", "Destroyed when the city is captured"],
 		"requiredTech": "Radio"
 	},
@@ -1531,7 +1531,7 @@
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Public School",
 		"uniques": ["[+25]% [Science] <after discovering [Atomic Theory]>"],
-		"maintenance": 3,
+		"maintenance": 4,
 		"requiredTech": "Plastics"
 	},
 	{
@@ -1554,7 +1554,7 @@
 		"percentStatBonus": {"food": 20, "science": 20},
 		"food": 4,
 		"science": 4,
-		"maintenance": 3,
+		"maintenance": 4,
 		"requiredTech": "Pharmaceuticals",
 	},
 	{
@@ -1585,9 +1585,9 @@
 	},
 	// Column 14
 	{
-		"name": "Office Complex",
+		"name": "Skyscraper",
 		"specialistSlots": {"Artist": 1, "Merchant": 1, "Scientist": 1, "Engineer": 1},
-		"maintenance": 3,
+		"maintenance": 4,
 		"hurryCostModifier": 25,
 		"uniques": ["[-25]% Food consumption by specialists [in this city]", "[+25]% Great Person generation [in this city]"],
 		"requiredTech": "Advanced Urbanism"
@@ -1597,7 +1597,7 @@
 		"production": 3,
 		"percentStatBonus": {"production": 10},
 		"requiredBuilding": "Factory",
-		"maintenance": 3,
+		"maintenance": 4,
 		"requiredTech": "Environmentalism",
 		"uniques": ["Must be next to [Desert]", "Only available <in cities without a [Wind Plant]>", "Only available <in cities without a [Biomass Plant]>", "Provides [-3] [Pollution]"]
 	},
@@ -1606,7 +1606,7 @@
 		"production": 3,
 		"percentStatBonus": {"production": 10},
 		"requiredBuilding": "Factory",
-		"maintenance": 3,
+		"maintenance": 4,
 		"requiredTech": "Environmentalism",
 		"uniques": ["Must be next to [Mountain]", "Only available <in cities without a [Solar Plant]>", "Only available <in cities without a [Biomass Plant]>", "Provides [-3] [Pollution]"]
 	},
@@ -1615,16 +1615,18 @@
 		"production": 3,
 		"percentStatBonus": {"production": 10},
 		"requiredBuilding": "Factory",
-		"maintenance": 3,
+		"maintenance": 4,
 		"requiredTech": "Environmentalism",
 		"uniques": ["Must be next to [Plantation]", "Only available <in cities without a [Solar Plant]>", "Only available <in cities without a [Wind Plant]>", "Provides [-3] [Pollution]"]
 	},
 	{
 		"name": "Recycling Center",
+		"production": 1,
+		"happiness": 1,
 		"cost": 297,
-		"maintenance": 1,
+		"maintenance": 4,
 		"requiredTech": "Ecology",
-		"uniques": ["Provides [-6] [Pollution]"]
+		"uniques": ["Provides [-5] [Pollution]"]
 	},
 	{
 		"name": "Sydney Opera House",
@@ -1640,7 +1642,7 @@
 		"name": "Nuclear Plant",
 		"production": 4,
 		"requiredBuilding": "Factory",
-		"maintenance": 3,
+		"maintenance": 4,
 		"requiredTech": "Nuclear Fission",
 		"uniques": ["Remove [Oil Plant] [in this city]", "Remove [Coal Plant] [in this city]", "Only available <when above [0] [Uranium]>", "[+1 Production] <for every [Uranium]>", "[+2]% [Production] [in this city] <for every [Uranium]>", "Unbuildable <if [Oil Plant] is constructed> <in this city> <hidden from users>", "Unbuildable <if [Coal Plant] is constructed> <in this city> <hidden from users>", "Shown while unbuilable", "Can be purchased with [Gold] [in this city] <if [Oil Plant] is constructed> <in this city> <hidden from users>", "Can be purchased with [Gold] [in this city] <if [Coal Plant] is constructed> <in this city> <hidden from users>"]
 	},
@@ -1687,7 +1689,7 @@
 		"name": "Bomb Shelter",
 		"cost": 357,
 		"cityHealth": 25,
-		"maintenance": 1,
+		"maintenance": 3,
 		"requiredTech": "Nuclear Fission",
 		"uniques": ["Population loss from nuclear attacks [-33]% [in this city]"]
 	},
@@ -1707,7 +1709,7 @@
 		"production": 4,
 		"requiredResource": "Aluminum",
 		"requiredBuilding": "Factory",
-		"maintenance": 3,
+		"maintenance": 5,
 		"uniques": ["[+50]% Production when constructing [Space Mission] wonders [in this city]", "Only available <when [Scientific] Victory is enabled>", "Provides [1] [Pollution]"],
 		"requiredTech": "Robotics"
 	},
@@ -1740,7 +1742,7 @@
 		"name": "Air Defense System",
 		"cityHealth": 100,
 		"cityStrength": 26,
-		"maintenance": 5,
+		"maintenance": 6,
 		"requiredResource": "Aluminum",
 		"requiredTech": "Stealth",
 		"uniques": ["Population loss from nuclear attacks [-50]% [in this city]"]
@@ -1749,7 +1751,7 @@
 		"name": "Quantum Computer",
 		"requiredTech": "Particle Physics",
 		"science": 10,
-		"maintenance": 5,
+		"maintenance": 6,
 		"requiredResource": "Aluminum",
 		"uniques": ["[+100]% [Science] [in this city]"],
 	},
@@ -1766,7 +1768,7 @@
         {
 		"name": "Cloning Lab",
 		"food": 10,
-		"maintenance": 5,
+		"maintenance": 6,
 		"requiredTech": "Nanotechnology",
 		"requiredResource": "Aluminum",
 		"uniques": ["[+100]% growth [in this city]"],
@@ -1776,7 +1778,7 @@
 		"name": "Fusion Reactor",
 		"requiredTech": "Nuclear Fusion",
 		"production": 10,
-		"maintenance": 5,
+		"maintenance": 6,
 		"uniques": ["[+100]% [Production] [in this city]", "Consumes [1] [Uranium]"],
 	},
         {

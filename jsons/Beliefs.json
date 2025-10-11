@@ -109,16 +109,6 @@
         "uniques": ["[+1 Faith] from every [Plantation]"]
     },
     {
-        "name": "Religious Idols",
-        "type": "Pantheon",
-        "uniques": ["Comment [+1 [Culture], +1 [Faith] from every [Gold Ore], [Silver] and [Gems]]", "[+1 Culture] from every [Gold Ore] <hidden from users>", "[+1 Culture] from every [Silver] <hidden from users>", "[+1 Culture] from every [Gems] <hidden from users>", "[+1 Faith] from every [Gold Ore] <hidden from users>", "[+1 Faith] from every [Silver] <hidden from users>", "[+1 Faith] from every [Gems] <hidden from users>"]
-    },
-     {
-        "name": "Ritual Drinks",
-        "type": "Pantheon",
-        "uniques": ["Comment [+1 [Culture], +1 [Faith] from every [Tea], [Coffee] and [Cocoa]]", "[+1 Culture] from every [Tea] <hidden from users>", "[+1 Culture] from every [Coffee] <hidden from users>", "[+1 Culture] from every [Cocoa] <hidden from users>", "[+1 Faith] from every [Tea] <hidden from users>", "[+1 Faith] from every [Coffee] <hidden from users>", "[+1 Faith] from every [Cocoa] <hidden from users>"]
-     },
-    {
         "name": "Sacred Path",
         "type": "Pantheon",
         "uniques": ["[+1 Culture] from every [Jungle]"]
@@ -295,6 +285,16 @@
         "uniques": ["[+1]% [Production] from every follower, up to [10]%"]
     },
     {
+        "name": "Ritual Drinks",
+        "type": "Follower",
+        "uniques": ["Comment [+1 [Culture], +1 [Faith] from every [Tea], [Coffee] and [Cocoa]]", "[+1 Culture] from every [Tea] <hidden from users>", "[+1 Culture] from every [Coffee] <hidden from users>", "[+1 Culture] from every [Cocoa] <hidden from users>", "[+1 Faith] from every [Tea] <hidden from users>", "[+1 Faith] from every [Coffee] <hidden from users>", "[+1 Faith] from every [Cocoa] <hidden from users>"]
+     },
+    {
+        "name": "Religious Idols",
+        "type": "Follower",
+        "uniques": ["Comment [+1 [Culture], +1 [Faith] from every [Gold Ore], [Silver] and [Gems]]", "[+1 Culture] from every [Gold Ore] <hidden from users>", "[+1 Culture] from every [Silver] <hidden from users>", "[+1 Culture] from every [Gems] <hidden from users>", "[+1 Faith] from every [Gold Ore] <hidden from users>", "[+1 Faith] from every [Silver] <hidden from users>", "[+1 Faith] from every [Gems] <hidden from users>"]
+    },
+    {
         "name": "Religious Teetotality",
         "type": "Follower",
         "uniques": ["Comment [+5% [Faith] in this city for every Alcohol Luxury type you don't own]",
@@ -416,6 +416,7 @@
         "uniques": ["[+1 Faith] from every [Land] <within [1] tiles of a [Great Improvement]>", "[-1 Faith] from every [Great Improvement] <hidden from users>"]
     },
 ]
+
 
 
 

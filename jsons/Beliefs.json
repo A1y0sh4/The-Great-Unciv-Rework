@@ -209,6 +209,12 @@
                     "[+1 Culture] for each global city following this religion <for [Byzantium] Civilizations> <hidden from users>"]
     },
     {
+        "name": "Sacred Urbanism",
+        "type": "Founder",
+        "uniques": ["[Faith] cost of purchasing [All] buildings [-25]%", 
+                    "[+1 Culture] for each global city following this religion <for [Byzantium] Civilizations> <hidden from users>"]
+    },
+    {
         "name": "Tithe",
         "type": "Founder",
         "uniques": ["[+1 Gold] from every [4] global followers [in cities following this religion]", 
@@ -382,7 +388,7 @@
     {
         "name": "Holy Order",
         "type": "Enhancer",
-        "uniques": ["Comment [-33% [Faith] cost of purchasing [Missionary], [Inquisitor]]", "[Faith] cost of purchasing [Missionary] units [-33]% <hidden from users>", "[Faith] cost of purchasing [Inquisitor] units [-33]% <hidden from users>"]
+        "uniques": ["Comment [-25% [Faith] cost of purchasing [Missionary], [Inquisitor]]", "[Faith] cost of purchasing [Missionary] units [-25]% <hidden from users>", "[Faith] cost of purchasing [Inquisitor] units [-25]% <hidden from users>"]
     },
     {
         "name": "Inquisition Tribunals",
@@ -436,6 +442,7 @@
         "uniques": ["[+1 Faith] from every [Land] <within [1] tiles of a [Great Improvement]>", "[-1 Faith] from every [Great Improvement] <hidden from users>"]
     },
 ]
+
 
 
 

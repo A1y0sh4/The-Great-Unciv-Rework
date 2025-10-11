@@ -407,6 +407,11 @@
         // ToDo: Should only be enemy territory of cities that follow this religion
     },
     {
+        "name": "Learning Centres",
+        "type": "Enhancer",
+        "uniques": ["[+3 Science, +1 Faith] <in cities with at least [2] [Specialists]>"]
+    },
+    {
         "name": "Messiah",
         "type": "Enhancer",
         "uniques": ["Comment [Great Prophets can spread religion 1 additional time and with +25% Religious Strength]", "Comment [Great Prophets Ignore Zones of Control, can walk on Water and can move after spreading religion]", "[+25]% Spread Religion Strength <for [Great Prophet] units> <hidden from users>", "[Great Prophet] units gain the [Messiah Unique] promotion <hidden from users>"]
@@ -442,6 +447,7 @@
         "uniques": ["[+1 Faith] from every [Land] <within [1] tiles of a [Great Improvement]>", "[-1 Faith] from every [Great Improvement] <hidden from users>"]
     },
 ]
+
 
 
 

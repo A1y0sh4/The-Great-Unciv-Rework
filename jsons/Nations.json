@@ -1611,8 +1611,8 @@
 		"innerColor": [40, 179, 79],
 		
 		"uniqueName": "Gateway to Africa",
-		"uniqueText": "Gain an additional +1 [Gold] and +1 [Culture] in all cities connected to capital\nTrade routes are 33% cheaper to maintain",
-		"uniques": ["[+1 Gold, +1 Culture] [in all cities connected to capital]", "[-33]% maintenance on road & railroads"],
+		"uniqueText": "Gain an additional +1 [Gold] and +1 [Culture] in all cities connected to capital\nTrade routes are 25% cheaper to maintain\nRoads and Railways are 25% faster to build",
+		"uniques": ["[+1 Gold, +1 Culture] [in all cities connected to capital]", "[-25]% maintenance on road & railroads", "[-25]% construction time for [All Road] improvements"],
 		"cities": ["Marrakech","Rabat","Fes","Casablanca","Tangier","Salé","Ouarzazate","Meknes","Agadir","Oujda",
 			"Kenitra","Tetouan","Essaouira","Safi","Taroudannt","Mohammedia","El Aaiun","Beni Mellal","El Jadida","Ksar el Kebir","Taza",
 			"Fquih ben Salah","Khouribga","Nador","Settat","Berrechid","Larache","Khemisset","Guelmim","Dakhla",
@@ -1809,8 +1809,8 @@
 		"innerColor": [238,201,9],
 		
 		"uniqueName": "The Glory of Rome",
-		"uniqueText": "+15% [Production] when constructing buildings in cities connected to capital\nAll improvements are 25% faster to build",
-		"uniques": ["[+15]% Production when constructing [All] buildings [in all cities connected to capital]", "[-25]% construction time for [All] improvements"],
+		"uniqueText": "+10% [Production] when constructing buildings in cities connected to capital\nAll improvements are 25% faster to build\nGain 50 [Gold] (modified by game speed) upon conquering a city",
+		"uniques": ["[+10]% Production when constructing [All] buildings [in all cities connected to capital]", "[-25]% construction time for [All] improvements", "Gain [50] [Gold] <(modified by game speed)> <upon conquering a city>"],
 		"cities": ["Rome","Neapolis","Brundisium","Arretium","Mediolanum","Ravenna","Aquileia","Antium","Cumae","Arpinum","Circei","Setia",
 			"Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Caesaraugusta","Caesarea","Palmyra",
 			"Signia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",

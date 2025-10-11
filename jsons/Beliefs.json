@@ -23,11 +23,6 @@
         "uniques": ["Comment [+1 [Culture] from every [Wheat], [Grape], [Poppy]]", "[+1 Culture] from every [Wheat] <hidden from users>", "[+1 Culture] from every [Grape] <hidden from users>", "[+1 Culture] from every [Poppy] <hidden from users>"]
     },
     {
-        "name": "Faith Healers",
-        "type": "Pantheon",
-        "uniques": ["[All] Units adjacent to this city heal [+25] HP per turn when healing"]
-    },
-    {
         "name": "Fertility Rites",
         "type": "Pantheon",
         "uniques": ["[+15]% growth [in this city]"]
@@ -250,6 +245,11 @@
         "uniques": ["[+25]% Great Person generation [in this city]"]
     },
     {
+        "name": "Faith Healers",
+        "type": "Follower",
+        "uniques": ["[All] Units adjacent to this city heal [+25] HP per turn when healing"]
+    },
+    {
         "name": "Feed the World",
         "type": "Follower",
         "uniques": ["[+1 Food] from all [Faith] buildings"]
@@ -416,6 +416,7 @@
         "uniques": ["[+1 Faith] from every [Land] <within [1] tiles of a [Great Improvement]>", "[-1 Faith] from every [Great Improvement] <hidden from users>"]
     },
 ]
+
 
 
 

@@ -136,6 +136,12 @@
                     "[+1 Culture] for each global city following this religion <for [Byzantium] Civilizations> <hidden from users>"]
     },
     {
+        "name": "In Hoc Signo Vinces",
+        "type": "Founder",
+        "uniques": ["Comment [Military Land units gain 15 XP upon gaining a Great Prophet]", "[{Military} {Land}] units gain the [Terracotta Army Unique] promotion <upon gaining a [Great Prophet] unit> <hidden from users>",
+                    "[+1 Culture] for each global city following this religion <for [Byzantium] Civilizations> <hidden from users>"]
+    },
+    {
         "name": "Initiation Rites",
         "type": "Founder",
         "uniques": ["[+100 Faith] when a city adopts this religion for the first time <(modified by game speed)>", 
@@ -418,6 +424,7 @@
         "uniques": ["[+1 Faith] from every [Land] <within [1] tiles of a [Great Improvement]>", "[-1 Faith] from every [Great Improvement] <hidden from users>"]
     },
 ]
+
 
 
 

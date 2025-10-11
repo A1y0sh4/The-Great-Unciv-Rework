@@ -8,11 +8,6 @@
         "uniques": ["[+1 Faith] from every [Monument]"]
     },
     {
-        "name": "Cult of Mithras",
-        "type": "Pantheon",
-        "uniques": ["[+2 Gold, +1 Culture] from every [Cattle]"]
-    },
-    {
         "name": "Dance of the Aurora",
         "type": "Pantheon",
         "uniques": ["Comment [+2 [Faith], +1 [Culture] in all cities adjacent to [Tundra]]", "[+1 Culture, +2 Faith] [in all cities] <within [1] tiles of a [Tundra]> <hidden from users>"]
@@ -119,11 +114,6 @@
         "uniques": ["[+1 Faith] from every [Plantation]"]
     },
     {
-        "name": "Promised Frontiers",
-        "type": "Pantheon",
-        "uniques": ["[-25]% Culture cost of natural border growth [in this city]"]
-    },
-    {
         "name": "Religious Idols",
         "type": "Pantheon",
         "uniques": ["Comment [+1 [Culture], +1 [Faith] from every [Gold Ore], [Silver] and [Gems]]", "[+1 Culture] from every [Gold Ore] <hidden from users>", "[+1 Culture] from every [Silver] <hidden from users>", "[+1 Culture] from every [Gems] <hidden from users>", "[+1 Faith] from every [Gold Ore] <hidden from users>", "[+1 Faith] from every [Silver] <hidden from users>", "[+1 Faith] from every [Gems] <hidden from users>"]
@@ -216,6 +206,11 @@
         "type": "Founder",
         "uniques": ["[+2 Faith] for each global city following this religion", 
                     "[+1 Culture] for each global city following this religion <for [Byzantium] Civilizations> <hidden from users>"]
+    },
+    {
+        "name": "Promised Frontiers",
+        "type": "Founder",
+        "uniques": ["[-15]% Culture cost of natural border growth [in all cities]", "[-15]% Gold cost of acquiring tiles [in all cities]"]
     },
     {
         "name": "Religious Expeditions",
@@ -421,5 +416,6 @@
         "uniques": ["[+1 Faith] from every [Land] <within [1] tiles of a [Great Improvement]>", "[-1 Faith] from every [Great Improvement] <hidden from users>"]
     },
 ]
+
 
 

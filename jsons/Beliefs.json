@@ -33,11 +33,6 @@
         "uniques": ["[-10]% Unhappiness from [Population] [in this city]"]
     },
     {
-        "name": "Goddess of Protection",
-        "type": "Pantheon",
-        "uniques": ["[+25]% Strength for cities <when attacking>"]
-    },
-    {
         "name": "Goddess of the Hunt",
         "type": "Pantheon",
         "uniques": ["[+1 Food] from every [Camp]"]
@@ -185,6 +180,11 @@
         "name": "Promised Frontiers",
         "type": "Founder",
         "uniques": ["[-15]% Culture cost of natural border growth [in all cities]", "[-15]% Gold cost of acquiring tiles [in all cities]"]
+    },
+    {
+        "name": "Protective Deity",
+        "type": "Pantheon",
+        "uniques": ["[+25]% Strength for cities <when attacking>"]
     },
     {
         "name": "Religious Expeditions",
@@ -416,6 +416,7 @@
         "uniques": ["[+1 Faith] from every [Land] <within [1] tiles of a [Great Improvement]>", "[-1 Faith] from every [Great Improvement] <hidden from users>"]
     },
 ]
+
 
 
 

@@ -28,17 +28,6 @@
         "uniques": ["[+15]% growth [in this city]"]
     },
     {
-        "name": "Goddess of Festivals",
-        "type": "Pantheon",
-        "uniques": ["Comment [+5% [Culture] in this city for every Alcohol Luxury type you own]",
-                    "[+5]% [Culture] [in this city] <with [Beer]> <hidden from users>",
-                    "[+5]% [Culture] [in this city] <with [Wine]> <hidden from users>",
-                    "[+5]% [Culture] [in this city] <with [Rum]> <hidden from users>",
-                    "[+5]% [Culture] [in this city] <with [Whisky]> <hidden from users>",
-                    "[+5]% [Culture] [in this city] <with [Vodka]> <hidden from users>",
-                    "[+5]% [Culture] [in this city] <with [Cognac]> <hidden from users>"]
-    },
-    {
         "name": "Goddess of Love",
         "type": "Pantheon",
         "uniques": ["[-10]% Unhappiness from [Population] [in this city]"]
@@ -245,6 +234,17 @@
         "uniques": ["[+1 Food] from all [Faith] buildings"]
     },
     {
+        "name": "Goddess of Festivals",
+        "type": "Follower",
+        "uniques": ["Comment [+4% [Culture] in this city for every Alcohol Luxury type you own]",
+                    "[+4]% [Culture] [in this city] <with [Beer]> <hidden from users>",
+                    "[+4]% [Culture] [in this city] <with [Wine]> <hidden from users>",
+                    "[+4]% [Culture] [in this city] <with [Rum]> <hidden from users>",
+                    "[+4]% [Culture] [in this city] <with [Whisky]> <hidden from users>",
+                    "[+4]% [Culture] [in this city] <with [Vodka]> <hidden from users>",
+                    "[+4]% [Culture] [in this city] <with [Cognac]> <hidden from users>"]
+    },
+    {
         "name": "Guruship",
         "type": "Follower",
         "uniques": ["[+2 Culture, +1 Happiness] [in cities following this religion] <in cities with at least [1] [Specialists]>"]
@@ -297,13 +297,13 @@
     {
         "name": "Religious Teetotality",
         "type": "Follower",
-        "uniques": ["Comment [+5% [Faith] in this city for every Alcohol Luxury type you don't own]",
-                    "[+5]% [Faith] [in this city] <without [Beer]> <hidden from users>",
-                    "[+5]% [Faith] [in this city] <without [Wine]> <hidden from users>",
-                    "[+5]% [Faith] [in this city] <without [Rum]> <hidden from users>",
-                    "[+5]% [Faith] [in this city] <without [Whisky]> <hidden from users>",
-                    "[+5]% [Faith] [in this city] <without [Vodka]> <hidden from users>",
-                    "[+5]% [Faith] [in this city] <without [Cognac]> <hidden from users>"]
+        "uniques": ["Comment [+4% [Faith] in this city for every Alcohol Luxury type you don't own]",
+                    "[+4]% [Faith] [in this city] <without [Beer]> <hidden from users>",
+                    "[+4]% [Faith] [in this city] <without [Wine]> <hidden from users>",
+                    "[+4]% [Faith] [in this city] <without [Rum]> <hidden from users>",
+                    "[+4]% [Faith] [in this city] <without [Whisky]> <hidden from users>",
+                    "[+4]% [Faith] [in this city] <without [Vodka]> <hidden from users>",
+                    "[+4]% [Faith] [in this city] <without [Cognac]> <hidden from users>"]
     },
     {
         "name": "Swords into Ploughshares",
@@ -416,6 +416,7 @@
         "uniques": ["[+1 Faith] from every [Land] <within [1] tiles of a [Great Improvement]>", "[-1 Faith] from every [Great Improvement] <hidden from users>"]
     },
 ]
+
 
 
 

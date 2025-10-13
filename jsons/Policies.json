@@ -491,7 +491,7 @@
             },
             {
                 "name": "Universal Suffrage",
-                "uniques": ["[-25]% Food consumption by specialists [in all cities]"],
+                "uniques": ["[-25]% Food consumption by specialists [in all cities]", "[+25]% Great Person generation [in all cities]"],
 		"requires": ["Constitution", "Civil Society"],
                 "row": 2,
                 "column": 4
@@ -499,7 +499,7 @@
             {
                 "name": "Civil Society",
                 "uniques": [
-                    "[+1 Happiness] per [1] social policies adopted"
+                    "[+1 Happiness, +1 Science] per [1] social policies adopted"
                 ],
                 "row": 1,
                 "column": 4

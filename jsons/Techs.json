@@ -2,7 +2,7 @@
 	{
 		"columnNumber": 0,
 		"era": "Prehistoric era",
-		"techCost": 12,
+		"techCost": 13,
 		"buildingCost": 14,
 		"wonderCost": 31,
 		"techs": [
@@ -17,7 +17,7 @@
 	{
 		"columnNumber": 1,
 		"era": "Prehistoric era",
-		"techCost": 20,
+		"techCost": 21,
 		"buildingCost": 18,
 		"wonderCost": 41,
 		"techs": [
@@ -40,7 +40,7 @@
 	{
 		"columnNumber": 2,
 		"era": "Ancient era",
-		"techCost": 32,
+		"techCost": 34,
 		"buildingCost": 24,
 		"wonderCost": 55,
 		"techs": [
@@ -82,7 +82,7 @@
 	{
 		"columnNumber": 3,
 		"era": "Ancient era",
-		"techCost": 52,
+		"techCost": 55,
 		"buildingCost": 32,
 		"wonderCost": 72,
 		"techs": [
@@ -136,7 +136,7 @@
 	{
 		"columnNumber": 4,
 		"era": "Classical era",
-		"techCost": 85,
+		"techCost": 89,
 		"buildingCost": 43,
 		"wonderCost": 96,
 		"techs": [
@@ -176,7 +176,7 @@
 	{
 		"columnNumber": 5,
 		"era": "Classical era",
-		"techCost": 137,
+		"techCost": 144,
 		"buildingCost": 57,
 		"wonderCost": 127,
 		"techs": [
@@ -229,7 +229,7 @@
 	{
 		"columnNumber": 6,
 		"era": "Medieval era",
-		"techCost": 222,
+		"techCost": 233,
 		"buildingCost": 75,
 		"wonderCost": 168,
 		"techs": [
@@ -278,7 +278,7 @@
 	{
 		"columnNumber": 7,
 		"era": "Medieval era",
-		"techCost": 359,
+		"techCost": 377,
 		"buildingCost": 100,
 		"wonderCost": 223,
 		"techs": [
@@ -324,7 +324,7 @@
 	{
 		"columnNumber": 8,
 		"era": "Renaissance era",
-		"techCost": 581,
+		"techCost": 611,
 		"buildingCost": 132,
 		"wonderCost": 295,
 		"techs": [
@@ -370,7 +370,7 @@
 	{
 		"columnNumber": 9,
 		"era": "Renaissance era",
-		"techCost": 940,
+		"techCost": 988,
 		"buildingCost": 175,
 		"wonderCost": 391,
 		"techs": [
@@ -418,7 +418,7 @@
 	{
 		"columnNumber": 10,
 		"era": "Industrial era",
-		"techCost": 1520,
+		"techCost": 1599,
 		"buildingCost": 232,
 		"wonderCost": 518,
 		"techs": [
@@ -477,7 +477,7 @@
 	{
 		"columnNumber": 11,
 		"era": "Industrial era",
-		"techCost": 2460,
+		"techCost": 2587,
 		"buildingCost": 307,
 		"wonderCost": 686,
 		"techs": [
@@ -518,7 +518,7 @@
 	{
 		"columnNumber": 12,
 		"era": "Modern era",
-		"techCost": 3980,
+		"techCost": 4186,
 		"buildingCost": 407,
 		"wonderCost": 909,
 		"techs": [
@@ -575,7 +575,7 @@
 	{
 		"columnNumber": 13,
 		"era": "Modern era",
-		"techCost": 6440,
+		"techCost": 6773,
 		"buildingCost": 539,
 		"wonderCost": 1204,
 		"techs": [
@@ -610,7 +610,7 @@
 				"name": "Ballistics",
 				"row": 8,
 				"prerequisites": ["Flight", "Replaceable Parts"], 
-				"uniques": ["[+2 Science] <for every [[Military] Units]>"],
+				"uniques": ["[+4 Science] <for every [[Military] Units]>"],
 				"quote": "'Men, like bullets, go farthest when they are smoothest.' - Jean Paul"
 			},
 			{
@@ -624,7 +624,7 @@
 	{
 		"columnNumber": 14,
 		"era": "Atomic era",
-		"techCost": 10420,
+		"techCost": 10959,
 		"buildingCost": 713,
 		"wonderCost": 1595,
 		"techs": [
@@ -675,7 +675,7 @@
 	{
 		"columnNumber": 15,
 		"era": "Atomic era",
-		"techCost": 16860,
+		"techCost": 17732,
 		"buildingCost": 945,
 		"wonderCost": 2113,
 		"techs": [
@@ -722,7 +722,7 @@
 	{
 		"columnNumber": 16,
 		"era": "Information era",
-		"techCost": 27280,
+		"techCost": 28691,
 		"buildingCost": 1252,
 		"wonderCost": 2800,
 		"techs": [
@@ -768,7 +768,7 @@
 	{
 		"columnNumber": 17,
 		"era": "Information era",
-		"techCost": 44140,
+		"techCost": 46423,
 		"buildingCost": 1659,
 		"wonderCost": 3709,
 		"techs": [
@@ -802,7 +802,7 @@
 	{
 		"columnNumber": 18,
 		"era": "Future era",
-		"techCost": 71420,
+		"techCost": 75114,
 		"buildingCost": 2197,
 		"wonderCost": 4913,
 		"techs": [
@@ -823,7 +823,7 @@
 	{
 		"columnNumber": 19,
 		"era": "Future era",
-		"techCost": 115560,
+		"techCost": 121537,
 		"buildingCost": 2911,
 		"wonderCost": 6508,
 		"techs": [
@@ -838,6 +838,7 @@
 		]
 	}
 ]
+
 
 
 

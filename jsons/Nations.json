@@ -1547,7 +1547,7 @@
 		"innerColor": [240, 255, 240],
 		
 		"uniqueName": "Trade Link",
-		"uniques": ["[+50]% resources gifted by City-States", "[+50]% Happiness from luxury resources gifted by City-States", "[+5 Gold] <for every [Gold Ore]>", "[+5 Gold] <for every [Ivory]>"],
+		"uniques": ["[+100]% Happiness from luxury resources gifted by City-States", "[+6 Gold] <for every [Gold Ore]>", "[+6 Gold] <for every [Ivory]>"],
 		"cities": ["Zvongombe","Mount Fura","Chitakochangonya","Barwe","Chidima","Nyatsimba","Massapa","Tete","Sena","Dambarare",
 			"Ongua","Chikova","Manica","Sofala","Quelimane","Guruuswa","Mazoe","Mutoko","Mazowe","Manyika","Barwe",
 			"Madanda","Makonde","Zambezi","Kafungabusi","Shangwe","Mazangwe","Tiriri","Nyatsimba","Changamire"],

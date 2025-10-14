@@ -689,7 +689,8 @@
 			{
 				"name": "Environmentalism",
 				"row": 3,
-				"prerequisites": ["Atomic Theory","Pharmaceuticals","Ecology"],
+				"prerequisites": ["Atomic Theory","Pharmaceuticals","Ecology"], 
+				"uniques": ["[+100]% weight to this choice for AI decisions <hidden from users>"],
 				"quote": "'What we are doing to the forests of the world is but a mirror reflection of what we are doing to ourselves.' - Mahatma Gandhi"
 			},
 			{
@@ -838,6 +839,7 @@
 		]
 	}
 ]
+
 
 
 

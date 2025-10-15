@@ -462,6 +462,11 @@
         "uniques": ["[+1 Faith] from every [Land] <within [1] tiles of a [Great Improvement]>", "[-1 Faith] from every [Great Improvement] <hidden from users>"]
     },
     {
+        "name": "Stupor Mundi",
+        "type": "Enhancer",
+        "uniques": ["Instantly gain [100] [Golden Age points] <upon discovering a Natural Wonder>", "[+4 Faith] for every known Natural Wonder"]
+    },
+    {
         "name": "Underground Action",
         "type": "Enhancer",
         "uniques": ["[+15]% spy effectiveness [in all cities]", "Influence of all other civilizations with all city-states degrades [15]% faster"]
@@ -472,4 +477,5 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 

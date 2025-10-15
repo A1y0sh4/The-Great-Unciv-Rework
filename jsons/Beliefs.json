@@ -357,6 +357,11 @@
         "uniques": ["[+1 Faith, +1 Science] from [Trading post] tiles [in this city]"]
     },
     {
+        "name": "Welcome the Needy",
+        "type": "Follower",
+        "uniques": ["[+1] population [in this city] <upon entering a Golden Age>", "[-10]% Unhappiness from [Population] [in this city] <during a Golden Age>"]
+    },
+    {
         "name": "Cathedrals",
         "type": "Follower",
         "uniques": ["May buy [Cathedral] buildings with [Faith] [in cities following this religion]"]
@@ -487,6 +492,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

@@ -358,7 +358,8 @@
 		
 		"uniqueName": "Ingenuity",
 		"uniqueText": "Gain 1 free random Technology upon entering a new era\nGain for free in Capital the cheapest available building for every Stat\nGain -10% [Science] per turn",
-		"uniques": ["[1] free random researchable Tech(s) from the [Ancient era] <upon entering the [Ancient era]>",
+		"uniques": ["[1] free random researchable Tech(s) from the [Prehistoric era] <upon entering the [Prehistoric era]>",
+			        "[1] free random researchable Tech(s) from the [Ancient era] <upon entering the [Ancient era]>",
 		            "[1] free random researchable Tech(s) from the [Classical era] <upon entering the [Classical era]>",
 		            "[1] free random researchable Tech(s) from the [Medieval era] <upon entering the [Medieval era]>",
 		            "[1] free random researchable Tech(s) from the [Renaissance era] <upon entering the [Renaissance era]>",

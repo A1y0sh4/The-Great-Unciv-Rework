@@ -1649,27 +1649,30 @@
 	{
 		"name": "Apollo Program",
 		"culture": 1,
+		"science": 177,
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 3},
-		"uniques": ["Space Mission", "Only available <with [Aluminum]>", "Triggers a global alert upon completion", "[+287 Science] [in capital] <for [All] Civilizations>", 
+		"uniques": ["Space Mission", "Only available <with [Aluminum]>", "Triggers a global alert upon completion", "[+68 Science] [in foreign cities]", 
 			"Only available <when [Scientific] Victory is enabled>", "Cannot be hurried", "Only available <if [Sputnik Program] is constructed>", "Provides [5] [Pollution]"],
 		"requiredTech": "Satellites"
 	},
         {
 		"name": "Mars Colonization Program",
 		"culture": 1,
+		"science": 287,
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 3},
-		"uniques": ["Space Mission", "Only available <with [Aluminum]>", "Triggers a global alert upon build start", "[+465 Science] [in capital] <for [All] Civilizations>", 
+		"uniques": ["Space Mission", "Only available <with [Aluminum]>", "Triggers a global alert upon build start", "[+110 Science] [in foreign cities]", 
 			"Only available <when [Scientific] Victory is enabled>", "Cannot be hurried", "Only available <if [Apollo Program] is constructed>", "Provides [8] [Pollution]"],
 		"requiredTech": "Nanotechnology"
 	},
 	{
 		"name": "Sputnik Program",
 		"culture": 1,
+		"science": 110,
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 3},
-		"uniques": ["Space Mission", "Only available <with [Aluminum]>", "Reveals the entire map", "[+177 Science] [in capital] <for [All] Civilizations>", "Triggers a global alert upon completion", "Cannot be hurried", "Provides [3] [Pollution]"],
+		"uniques": ["Space Mission", "Only available <with [Aluminum]>", "Reveals the entire map", "[+42 Science] [in foreign cities]", "Triggers a global alert upon completion", "Cannot be hurried", "Provides [3] [Pollution]"],
 		"requiredTech": "Rocketry"
 	},
 

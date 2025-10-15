@@ -347,6 +347,11 @@
         "uniques": ["[+1 Faith] from all [Science] buildings <in cities with at least [6] [Followers of this Religion]>"]
     },
     {
+        "name": "Trade Osmosis",
+        "type": "Follower",
+        "uniques": ["[+1 Faith, +1 Science] from [Trading post] tiles [in this city]"]
+    },
+    {
         "name": "Cathedrals",
         "type": "Follower",
         "uniques": ["May buy [Cathedral] buildings with [Faith] [in cities following this religion]"]
@@ -477,6 +482,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

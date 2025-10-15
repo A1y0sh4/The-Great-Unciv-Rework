@@ -215,24 +215,20 @@
 	    "[-40]% [Faith] <when number of [Faith] is between [6001] and [6750]> <on [Endless] game speed>",
 	    "[-45]% [Faith] <when number of [Faith] is between [6751] and [7500]> <on [Endless] game speed>",
 	    "[-50]% [Faith] <when number of [Faith] is more than [7501]> <on [Endless] game speed>",
-	/*
-        "[+20]% maintenance on road & railroads",
-        "[+5]% maintenance on road & railroads <starting from the [Classical era]>",
-        "[+5]% maintenance on road & railroads <starting from the [Medieval era]>",
-        "[+5]% maintenance on road & railroads <starting from the [Renaissance era]>",
-        "[+5]% maintenance on road & railroads <starting from the [Modern era]>",
-        "[+5]% maintenance on road & railroads <starting from the [Atomic era]>",
-        "[+5]% maintenance on road & railroads <starting from the [Information era]>",
-	"[+5]% maintenance on road & railroads <starting from the [Future era]>",
-        "[-50]% maintenance cost for buildings [in all cities]",
-        "[+5]% maintenance cost for buildings [in all cities] <starting from the [Classical era]>",
-        "[+5]% maintenance cost for buildings [in all cities] <starting from the [Medieval era]>",
-        "[+5]% maintenance cost for buildings [in all cities] <starting from the [Renaissance era]>",
-        "[+5]% maintenance cost for buildings [in all cities] <starting from the [Modern era]>",
-        "[+5]% maintenance cost for buildings [in all cities] <starting from the [Atomic era]>",
-        "[+5]% maintenance cost for buildings [in all cities] <starting from the [Information era]>",
-	"[+5]% maintenance cost for buildings [in all cities] <starting from the [Future era]>",
-	*/
+        "[+3]% maintenance on road & railroads <starting from the [Classical era]>",
+        "[+3]% maintenance on road & railroads <starting from the [Medieval era]>",
+        "[+3]% maintenance on road & railroads <starting from the [Renaissance era]>",
+        "[+3]% maintenance on road & railroads <starting from the [Modern era]>",
+        "[+3]% maintenance on road & railroads <starting from the [Atomic era]>",
+        "[+3]% maintenance on road & railroads <starting from the [Information era]>",
+	    "[+3]% maintenance on road & railroads <starting from the [Future era]>",
+        "[+3]% maintenance cost for buildings [in all cities] <starting from the [Classical era]>",
+        "[+3]% maintenance cost for buildings [in all cities] <starting from the [Medieval era]>",
+        "[+3]% maintenance cost for buildings [in all cities] <starting from the [Renaissance era]>",
+        "[+3]% maintenance cost for buildings [in all cities] <starting from the [Modern era]>",
+        "[+3]% maintenance cost for buildings [in all cities] <starting from the [Atomic era]>",
+        "[+3]% maintenance cost for buildings [in all cities] <starting from the [Information era]>",
+	    "[+3]% maintenance cost for buildings [in all cities] <starting from the [Future era]>",
         "[+25]% maintenance costs <for [Military] units>",
         "[+5]% maintenance costs <for [Military] units> <starting from the [Classical era]>",
         "[+5]% maintenance costs <for [Military] units> <starting from the [Medieval era]>",
@@ -345,6 +341,7 @@
 	"Resting point for Influence with City-States is increased by [9] <when number of [[Thermonuclear Missile] Units] is equal to [1]>", "Resting point for Influence with City-States is increased by [18] <when number of [[Thermonuclear Missile] Units] is equal to [2]>","Resting point for Influence with City-States is increased by [21] <when number of [[Thermonuclear Missile] Units] is equal to [3]>","Resting point for Influence with City-States is increased by [36] <when number of [[Thermonuclear Missile] Units] is equal to [4]>","Resting point for Influence with City-States is increased by [45] <when number of [[Thermonuclear Missile] Units] is equal to [5]>", "Resting point for Influence with City-States is increased by [54] <when number of [[Thermonuclear Missile] Units] is equal to [6]>", "Resting point for Influence with City-States is increased by [63] <when number of [[Thermonuclear Missile] Units] is equal to [7]>", "Resting point for Influence with City-States is increased by [72] <when number of [[Thermonuclear Missile] Units] is equal to [8]>", "Resting point for Influence with City-States is increased by [81] <when number of [[Thermonuclear Missile] Units] is equal to [9]>", "Resting point for Influence with City-States is increased by [90] <when number of [[Thermonuclear Missile] Units] is more than [9]>",
     ]
 }
+
 
 
 

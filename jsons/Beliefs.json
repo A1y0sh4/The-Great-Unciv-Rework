@@ -70,7 +70,7 @@
     {
         "name": "Nature Shamans",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from every [Rare feature]"]
+        "uniques": ["[+1 Faith, +1 Culture] from every [Rare feature]"]
     },
     {
         "name": "One with Nature",
@@ -477,5 +477,6 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 

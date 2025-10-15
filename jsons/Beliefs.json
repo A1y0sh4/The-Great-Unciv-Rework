@@ -232,7 +232,7 @@
      {
         "name": "Choral Music",
         "type": "Follower",
-        "uniques": ["[+1 Culture] from all [Faith] buildings"]
+        "uniques": ["[+1 Culture] from all [Faith] buildings"] 
     },
     {
         "name": "Divine inspiration",
@@ -269,6 +269,11 @@
         "name": "Guruship",
         "type": "Follower",
         "uniques": ["[+2 Culture, +1 Happiness] [in cities following this religion] <in cities with at least [1] [Specialists]>"]
+    },
+    {
+        "name": "Holy Expansion",
+        "type": "Follower",
+        "uniques": ["Gain control over [1] tiles [in this city] <upon expending a [Missionary] unit>"]
     },
     {
         "name": "Holy Warriors",
@@ -467,3 +472,4 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+

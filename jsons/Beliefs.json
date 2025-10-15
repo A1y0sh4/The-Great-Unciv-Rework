@@ -266,6 +266,11 @@
                     "[+4]% [Culture] [in this city] <with [Cognac]> <hidden from users>"]
     },
     {
+        "name": "Grace for Labour",
+        "type": "Pantheon",
+        "uniques": ["[+1 Production] from every [Mine] <in [Strategic resource] tiles>", "[+1 Gold] from every [Mine] <in [Luxury resource] tiles>"]
+    },
+    {
         "name": "Guruship",
         "type": "Follower",
         "uniques": ["[+2 Culture, +1 Happiness] [in cities following this religion] <in cities with at least [1] [Specialists]>"]
@@ -482,6 +487,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

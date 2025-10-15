@@ -381,6 +381,11 @@
         "uniques": ["[-25]% enemy spy effectiveness [in this city]", "[+1 Faith, +2 Science] [in this city]"]
     },
     {
+        "name": "Hermeticism",
+        "type": "Enhancer",
+        "uniques": ["Gain [+50] [Science] <upon expending a [Religious Unit] unit> <(modified by game speed)>"] 
+    },
+    {
         "name": "Holy Alliance",
         "type": "Enhancer",
         "uniques": ["Comment [Gain 150 [Gold] and [Faith] upon declaring friendship or upon declaring a defensive pact (modified by game speed)]", "Gain [150] [Gold] <upon declaring friendship> <(modified by game speed)> <hidden from users>", "Gain [150] [Gold] <upon declaring a defensive pact> <(modified by game speed)> <hidden from users>", "Gain [150] [Faith] <upon declaring friendship> <(modified by game speed)> <hidden from users>", "Gain [150] [Faith] <upon declaring a defensive pact> <(modified by game speed)> <hidden from users>"]
@@ -410,6 +415,11 @@
         "name": "Learning Centres",
         "type": "Enhancer",
         "uniques": ["[+3 Science, +1 Faith] <in cities with at least [2] [Specialists]>"]
+    },
+    {
+        "name": "Martial Orthodoxy",
+        "type": "Enhancer",
+        "uniques": ["[-15]% Gold cost of upgrading <for [Military] units>", "[+15]% XP gained from combat <for [Military] units>"]
     },
     {
         "name": "Messiah",
@@ -446,7 +456,13 @@
         "type": "Enhancer",
         "uniques": ["[+1 Faith] from every [Land] <within [1] tiles of a [Great Improvement]>", "[-1 Faith] from every [Great Improvement] <hidden from users>"]
     },
+    {
+        "name": "Wandering Missionaries",
+        "type": "Enhancer",
+        "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
+    },
 ]
+
 
 
 

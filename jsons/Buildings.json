@@ -1506,7 +1506,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Arsenal",
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "[-25]% enemy spy effectiveness [in this city]", "Destroyed when the city is captured"]
+		"uniques": ["[+2 Production] from [Citadel] tiles [in this city]", "[-25]% enemy spy effectiveness [in this city]", "Destroyed when the city is captured"]
 	},
         {
 		"name": "Airport",

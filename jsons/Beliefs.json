@@ -272,7 +272,7 @@
     },
     {
         "name": "Grace for Labour",
-        "type": "Pantheon",
+        "type": "Follower",
         "uniques": ["[+1 Production] from every [Mine] <in [Strategic resource] tiles>", "[+1 Gold] from every [Mine] <in [Luxury resource] tiles>"]
     },
     {
@@ -497,6 +497,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

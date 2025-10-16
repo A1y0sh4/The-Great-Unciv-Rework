@@ -1271,6 +1271,16 @@
 		"quote": "'Pale Death beats equally at the poor man's gate and at the palaces of kings.' - Horace"
 	},
 	{
+		"name": "Palace of Versailles",
+		"culture": 3,
+		"greatPersonPoints": {"Great Artist": 3},
+		"requiredBuilding": "Palace",
+		"isWonder": true,
+		"uniques": ["[+50]% Great Person generation [in this city]", "[-15]% City-State Influence degradation", "Influence of all other civilizations with all city-states degrades [15]% faster", "Gifts of Gold to City-States generate [15]% more Influence"],
+		"requiredTech": "Architecture",
+		"quote": "'The state, is me.' - Louis XIV"
+	},
+	{
 		"name": "Arsenal",
 		"cityStrength": 16,
 		"cityHealth": 25,

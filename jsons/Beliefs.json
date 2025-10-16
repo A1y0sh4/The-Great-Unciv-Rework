@@ -252,7 +252,7 @@
     {
         "name": "Faith Healers",
         "type": "Follower",
-        "uniques": ["[All] Units adjacent to this city heal [+25] HP per turn when healing"]
+        "uniques": ["[All] Units adjacent to this city heal [+20] HP per turn when healing"]
     },
     {
         "name": "Feed the World",
@@ -497,6 +497,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

@@ -541,7 +541,7 @@
 	    "Religious": 20
         },
         "uniques": [
-            "[+15]% Strength <for [{Wounded} {Military}] units>", "Comment [Unlocks [Prora]]",
+            "[+15]% Strength <for [{Wounded} {Military}] units>", "Comment [Unlocks [People's Hall]]",
             "Only available <before adopting [Internationalism]>",
             "Only available <before adopting [Individualism]>",
 			"Only available <when number of [[Gunpowder] Units] is more than [4]>"

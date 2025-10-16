@@ -1824,8 +1824,12 @@
 	    "cost": 1204,
 		"culture": 4,
 		"isWonder": true,
-		"greatPersonPoints": {"Great Artist": 4},
-		"uniques": ["Must be on [Hill]", "[-10]% Culture cost of adopting new Policies", "[Faith] cost of purchasing items in cities [-10]%"],
+		"greatPersonPoints": {"Great Merchant": 4},
+		"uniques": ["[+2 Gold] from every specialist [in this city]", "[+5]% [Gold] [in this city] <for every [Remaining [All] Civilizations]>",
+			"May buy [Great Artist] units for [1000] [Gold] [in all cities] at an increasing price ([500]) <after adopting [Individualism Complete]>",
+		    "May buy [Great Merchant] units for [1000] [Gold] [in all cities] at an increasing price ([500]) <after adopting [Commerce Complete]>",
+			"May buy [Great Prophet] units for [1000] [Gold] [in all cities] at an increasing price ([500]) <after adopting [Piety Complete]>",
+			"May buy [Great Scientist] units for [1000] [Gold] [in all cities] at an increasing price ([500]) <after adopting [Rationalism Complete]>"],
 		"quote": "'Come to me, all who labor and are heavy burdened, and I will give you rest.' - New Testament, Matthew 11:28"
 	},
 	{
@@ -1842,8 +1846,8 @@
 	    "cost": 1204,
 		"culture": 4,
 		"isWonder": true,
-		"greatPersonPoints": {"Great Artist": 4},
-		"uniques": ["Must be on [Hill]", "[-10]% Culture cost of adopting new Policies", "[Faith] cost of purchasing items in cities [-10]%"],
+		"greatPersonPoints": {"Great Engineer": 4},
+		"uniques": ["[+3 Food, +3 Production, +3 Gold, +3 Culture, +3 Science] [in all cities]"],
 		"quote": "'Come to me, all who labor and are heavy burdened, and I will give you rest.' - New Testament, Matthew 11:28"
 	},
 	{

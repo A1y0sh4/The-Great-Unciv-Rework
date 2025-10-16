@@ -1359,11 +1359,10 @@
 		"replaces": "Factory",
 		"uniqueTo": "Germany",
 		"cost": 187,
-		"production": 6,
-		"requiredResource": "Coal",
+		"production": 5,
 		"specialistSlots": {"Engineer": 2},
 		"requiredBuilding": "Workshop",
-		"maintenance": 1,
+		"maintenance": 0,
 		"hurryCostModifier": 0,
 		"uniques": ["Provides [1] [Pollution]"],
 		"requiredTech": "Industrialization"
@@ -1375,6 +1374,17 @@
 		"uniques": ["Remove [Oil Plant] [in this city]", "Remove [Nuclear Plant] [in this city]", "Only available <when above [0] [Coal]>", "[+1 Production] <for every [2] [Coal]>", "[+1]% [Production] [in this city] <for every [Coal]>", "Provides [1] [Pollution] <for every [4] [Coal]>", "Unbuildable <if [Oil Plant] is constructed> <in this city> <hidden from users>", "Unbuildable <if [Nuclear Plant] is constructed> <in this city> <hidden from users>", "Shown while unbuilable", "Can be purchased with [Gold] [in this city] <if [Oil Plant] is constructed> <in this city> <hidden from users>", "Can be purchased with [Gold] [in this city] <if [Nuclear Plant] is constructed> <in this city> <hidden from users>"],
 		"hurryCostModifier": 0,
 		"requiredTech": "Industrialization"
+	},
+	{
+		"name": "Ruhr Industrial Complex",
+		"culture": 3,
+		"percentStatBonus": {"production": 10},
+		"greatPersonPoints": {"Great Engineer": 3},
+		"isWonder": true,
+		"uniques": ["Gain a free [Factory] [in this city]", "Gain a free [Coal Plant] [in this city]", "[+1 Production] from [Mine] tiles [in this city]"],
+		"requiredNearbyImprovedResources": ["Coal"],
+		"requiredTech": "Industrialization",
+		"quote": "'The soul of man under socialism will work no more for wages, but for the joy of creation.' - Oscar Wilde"
 	},
 	{
 		"name": "Stock Exchange",

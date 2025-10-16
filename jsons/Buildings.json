@@ -1826,10 +1826,10 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Merchant": 4},
 		"uniques": ["Only available <after adopting [Individualism]>", "[+2 Gold] from every specialist [in this city]", "[+5]% [Gold] [in this city] <for every [Remaining [All] Civilizations]>",
-			"May buy [Great Artist] units for [1000] [Gold] [in all cities] at an increasing price ([500]) <after adopting [Individualism Complete]>",
-		    "May buy [Great Merchant] units for [1000] [Gold] [in all cities] at an increasing price ([500]) <after adopting [Commerce Complete]>",
-			"May buy [Great Prophet] units for [1000] [Gold] [in all cities] at an increasing price ([500]) <after adopting [Piety Complete]>",
-			"May buy [Great Scientist] units for [1000] [Gold] [in all cities] at an increasing price ([500]) <after adopting [Rationalism Complete]>"],
+			"May buy [Great Artist] units for [1000] [Gold] [in this city] at an increasing price ([500]) <after adopting [Individualism Complete]>",
+		    "May buy [Great Merchant] units for [1000] [Gold] [in this city] at an increasing price ([500]) <after adopting [Commerce Complete]>",
+			"May buy [Great Prophet] units for [1000] [Gold] [in this city] at an increasing price ([500]) <after adopting [Piety Complete]>",
+			"May buy [Great Scientist] units for [1000] [Gold] [in this city] at an increasing price ([500]) <after adopting [Rationalism Complete]>"],
 		"quote": "'If history shows anything, it is that there's no better way to justify relations founded on violence, to make such relations seem moral, than by reframing them in the language of debt — above all, because it immediately makes it seem that it's the victim who's doing something wrong.' - David Graeber"
 	},
 	{

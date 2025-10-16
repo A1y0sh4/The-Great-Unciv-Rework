@@ -499,7 +499,7 @@
             {
                 "name": "Civil Society",
                 "uniques": [
-                    "[+1 Happiness, +1 Science] per [1] social policies adopted"
+                    "[+1 Happiness, +1 Gold] per [1] social policies adopted"
                 ],
                 "row": 1,
                 "column": 4

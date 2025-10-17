@@ -947,13 +947,18 @@
     },
 	{
 		"name": "The Tamoyo Confederation Unique",
-		"uniques": ["[+100]% XP gained from combat <when fighting in [Friendly Land] tiles>"]
+		"uniques": ["[+100]% XP gained from combat <when fighting in [Friendly Land] tiles>"] 
 	},
 	{
 		"name": "[Abambowa] ability",
 		"uniques": ["[+50]% Yield from pillaging tiles", "[+50]% Health from pillaging tiles"]
 	},
+	{
+		"name": "Trade Seals Unique",
+		"uniques": ["Reveal up to [All] [City center] within a [5] tile radius <upon discovering a [City center] tile>"]
+	},
 ]
+
 
 
 

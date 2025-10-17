@@ -281,6 +281,18 @@
 		"requiredTech": "The Wheel"
 	},
 	{
+		"name": "Sewer",
+		"replaces": "Water Mill",
+		"uniqueTo": "The Harappans",
+		"maintenance": 0,
+		"cost": 27,
+		"food": 1,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] <in [Fresh Water] tiles>"],
+		"requiredTech": "The Wheel"
+	},
+	{
 		"name": "Walls",
 		"cityStrength": 6,
 		"cityHealth": 25,

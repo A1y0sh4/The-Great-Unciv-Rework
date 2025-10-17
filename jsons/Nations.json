@@ -2142,7 +2142,7 @@
 		"tradeRequest": "I hope you will welcome this generous offer.",
 		"favoredReligion": "Hinduism",
 
-		"outerColor": [244, 164, 96],
+		"outerColor": [255, 164, 96],
 		"innerColor": [0, 51, 102],
 		
 		"uniqueName": "Trade Seals",

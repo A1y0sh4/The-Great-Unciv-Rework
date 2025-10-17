@@ -960,7 +960,12 @@
 		            "Reveal up to [All] [City center] within a [5] tile radius <upon discovering a [City center] tile>",
 		            "Reveal up to [All] [City ruins] within a [5] tile radius <upon discovering a [City ruins] tile>"]
 	},
+	{
+		"name": "[Runner] ability",
+		"uniques": ["May enter foreign tiles without open borders"]
+	},
 ]
+
 
 
 

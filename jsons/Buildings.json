@@ -544,9 +544,9 @@
 		"replaces": "Temple",
 		"uniqueTo": "Songhai",
 		"greatPersonPoints": {"Great Merchant": 1},
-		"maintenance": 1,
+		"maintenance": 0,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Faith] from every specialist [in this city]", "Destroyed when the city is captured"]
+		"uniques": ["Only available <when religion is enabled>", "[+1 Faith] from every specialist [in this city]", "Destroyed when the city is captured"]
 		"faith": 2,
 		"requiredTech": "Spirituality"
 	},

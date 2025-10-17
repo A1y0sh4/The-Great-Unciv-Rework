@@ -2142,8 +2142,8 @@
 		"tradeRequest": "I hope you will welcome this generous offer.",
 		"favoredReligion": "Hinduism",
 
-		"outerColor": [85, 107, 47],
-		"innerColor": [173, 216, 230],
+		"outerColor": [244, 164, 96],
+		"innerColor": [0, 51, 102],
 		
 		"uniqueName": "Trade Seals",
 		"uniques": ["Reveal up to [All] [City center] within a [8] tile radius <upon discovering a [City center] tile>", "Gain [50] [Gold] <upon discovering a [City center] tile> <(modified by game speed)>"],

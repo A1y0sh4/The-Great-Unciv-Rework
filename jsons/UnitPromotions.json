@@ -955,9 +955,13 @@
 	},
 	{
 		"name": "Trade Seals Unique",
-		"uniques": ["Reveal up to [All] [City center] within a [5] tile radius <upon discovering a [City center] tile>"]
+		"uniques": ["Reveal up to [All] [Ancient ruins] within a [5] tile radius <upon discovering a [Ancient ruins] tile>",
+		            "Reveal up to [All] [Barbarian encampment] within a [5] tile radius <upon discovering a [Barbarian encampment] tile>",
+		            "Reveal up to [All] [City center] within a [5] tile radius <upon discovering a [City center] tile>",
+		            "Reveal up to [All] [City ruins] within a [5] tile radius <upon discovering a [City ruins] tile>"]
 	},
 ]
+
 
 
 

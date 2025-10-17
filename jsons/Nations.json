@@ -2146,9 +2146,7 @@
 		"innerColor": [173, 216, 230],
 		
 		"uniqueName": "Trade Seals",
-		"uniqueText": "Gain 3 amounts of the Strategic resources you have revealed\nGain +1 [Gold] for every Strategic resource you own\nGain +25% yield from every strategic resource",
-		"uniques": ["Provides [3] [Horses] <after discovering [Animal Husbandry]>", "Provides [3] [Iron] <after discovering [Iron Working]>", "Provides [3] [Coal] <after discovering [Industrialization]>", "Provides [3] [Oil] <after discovering [Biology]>", "Provides [3] [Aluminum] <after discovering [Electricity]>", "Provides [3] [Uranium] <after discovering [Atomic Theory]>",
-			    "[+1 Gold] <for every [Horses]>", "[+1 Gold] <for every [Iron]>", "[+1 Gold] <for every [Coal]>", "[+1 Gold] <for every [Oil]>", "[+1 Gold] <for every [Aluminum]>", "[+1 Gold] <for every [Uranium]>", "[+25]% Yield from every [Strategic resource]"],
+		"uniques": ["Reveal up to [All] [City center] within a [8] tile radius <after discovering [The Wheel]>", "Reveal up to [All] [City center] within a [13] tile radius <after discovering [Engineering]>", "Reveal up to [All] [City center] within a [21] tile radius <after discovering [Metal Casting]>", "Gain [50] [Gold] <upon discovering a [City center] tile> <(modified by game speed)>"],
 		"cities": ["Harappa","Mohenjo-daro","Lothal","Ganeriwala","Dholavira","Sutkagan-dor","Mehrgarh","Kalibangan","Rakhigarhi","Banwali",
 			"Surkotda","Rupar","Amri","Chanhu-daro","Shortugai","Rangpur","Bhagwanpura","Jalilpur","Tarkhanawala Dera","Kot Diki",
 			"Balakot","Allahdino","Dasalpur","Nausharo","Sarai Khola","Rahman Dheri","Rana Ghundai","Miri Kalat","Nindowari"],

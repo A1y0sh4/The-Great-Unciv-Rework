@@ -1973,7 +1973,7 @@
 		"cities": ["Moscow","Leningrad","Stalingrad","Kiev","Kharkov","Minsk","Novosibirsk","Sverdlovsk","Nizhny Novgorod","Tbilisi",
 			"Rostov","Odessa","Vladivostok","Sevastopol","Magnitogorsk","Tashkent","Baku","Dnipropetrovsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
-			"Voronezh","Pskov","Starayarussa","Kostoma","Suzdal","Magnitogorsk"],
+			"Voronezh","Pskov","Starayarussa","Kostoma","Suzdal","Magnitogorsk","Karaganda","Igarka","Vorkuta","Magadan"],
 		"spyNames": ["Nadezhda", "Lev", "Anna", "Ilya", "Lyubov", "Ivan", "Sofia", "Artyom", "Ksenia", "Dmitry"],
 	},
 	{
@@ -2142,8 +2142,8 @@
 		"tradeRequest": "I hope you will welcome this generous offer.",
 		"favoredReligion": "Hinduism",
 
-		"outerColor": [	172, 142, 97],
-		"innerColor": [	71, 6, 23],
+		"outerColor": [85, 107, 47],
+		"innerColor": [173, 216, 230],
 		
 		"uniqueName": "Trade Seals",
 		"uniqueText": "Gain 3 amounts of the Strategic resources you have revealed\nGain +1 [Gold] for every Strategic resource you own\nGain +25% yield from every strategic resource",
@@ -2174,8 +2174,8 @@
 		"tradeRequest": "What about this?",
 		"favoredReligion": "Islam",
 
-		"outerColor": [	172, 142, 97],
-		"innerColor": [	71, 6, 23],
+		"outerColor": [172, 142, 97],
+		"innerColor": [71, 6, 23],
 		
 		"uniqueName": "Gifts From the Storm Gods",
 		"uniqueText": "Gain 3 amounts of the Strategic resources you have revealed\nGain +1 [Gold] for every Strategic resource you own\nGain +25% yield from every strategic resource",

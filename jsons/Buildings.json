@@ -284,7 +284,7 @@
 		"name": "Sewer",
 		"replaces": "Water Mill",
 		"uniqueTo": "The Harappans",
-		"maintenance": 0,
+		"maintenance": 1,
 		"cost": 27,
 		"food": 1,
 		"production": 1,

@@ -38,7 +38,22 @@
 		"movement": 2,
 		"strength": 7,
 		"obsoleteTech": "Military Tactics",
+		"uniques": ["All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>"],
 		"promotions": ["Quick Study"], 
+		"upgradesTo": "Skirmisher",
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Runner",
+		"unitType": "Scout",
+		"uniqueTo": "The Harappans",
+		"replaces": "Scout",
+		"cost": 25,
+		"movement": 2,
+		"strength": 5,
+		"obsoleteTech": "Military Tactics",
+		"uniques": ["All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>"],
+		"promotions": ["Scouting I", "[Runner] ability"], 
 		"upgradesTo": "Skirmisher",
 		"attackSound": "nonmetalhit"
 	},

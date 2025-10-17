@@ -2146,7 +2146,7 @@
 		"innerColor": [173, 216, 230],
 		
 		"uniqueName": "Trade Seals",
-		"uniques": ["Reveal up to [All] [City center] within a [8] tile radius <after discovering [The Wheel]>", "Reveal up to [All] [City center] within a [13] tile radius <after discovering [Engineering]>", "Reveal up to [All] [City center] within a [21] tile radius <after discovering [Metal Casting]>", "Gain [50] [Gold] <upon discovering a [City center] tile> <(modified by game speed)>"],
+		"uniques": ["Reveal up to [All] [City center] within a [8] tile radius <upon discovering a [City center] tile>", "Gain [50] [Gold] <upon discovering a [City center] tile> <(modified by game speed)>"],
 		"cities": ["Harappa","Mohenjo-daro","Lothal","Ganeriwala","Dholavira","Sutkagan-dor","Mehrgarh","Kalibangan","Rakhigarhi","Banwali",
 			"Surkotda","Rupar","Amri","Chanhu-daro","Shortugai","Rangpur","Bhagwanpura","Jalilpur","Tarkhanawala Dera","Kot Diki",
 			"Balakot","Allahdino","Dasalpur","Nausharo","Sarai Khola","Rahman Dheri","Rana Ghundai","Miri Kalat","Nindowari"],

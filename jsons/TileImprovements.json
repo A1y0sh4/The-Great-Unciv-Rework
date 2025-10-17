@@ -390,9 +390,9 @@
 		"uniqueTo": "The Netherlands",
 		"food": 1,
 		"production": 1,
-		"terrainsCanBeBuiltOn": ["Grassland", "Plains", "Marsh"],
+		"terrainsCanBeBuiltOn": ["Grassland", "Plains", "Marsh", "Flood plains"],
 		"turnsToBuild": 7,
-		"uniques": ["Improvement", "Cannot be built on [Resource] tiles", "Can only be built on [Coastal] tiles", "[+2 Food] <in [Marsh] tiles>", "[+1 Production, +1 Gold] <after discovering [Mechanics]>", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+16 Gold]"],
+		"uniques": ["Improvement", "Cannot be built on [Resource] tiles", "Can only be built on [Coastal] tiles", "[+2 Food] <in [Marsh] tiles>", "[+1 Production, +1 Gold] <after discovering [Mechanics]>", "[+1 Food] <after discovering [Fertilizer]>", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+16 Gold]"],
 		"techRequired": "Guilds",
 		"shortcutKey": "P"
 	},
@@ -493,6 +493,7 @@
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
 	}
 ]
+
 
 
 

@@ -1966,7 +1966,7 @@ BuildingIcons/People's Hall
   index: -1
 BuildingIcons/Mauna Kea Observatory
   rotate: false
-  xy: 335, 587
+  xy: 335, 585
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

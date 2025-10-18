@@ -1950,3 +1950,10 @@ BuildingIcons/Sewer
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Runner
+  rotate: false
+  xy: 1828, 884
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

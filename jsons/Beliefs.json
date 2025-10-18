@@ -408,7 +408,7 @@
     {
         "name": "Hermeticism",
         "type": "Enhancer",
-        "uniques": ["Gain [+50] [Science] <upon expending a [Religious Unit] unit> <(modified by game speed)>", "Gain [+50] [Science] <upon expending a [Religious Unit] unit> <(modified by game speed)> <after discovering [Education]>"] 
+        "uniques": ["Gain [+50] [Science] <upon expending a [Religious Unit] unit> <(modified by game speed)>", "Gain [+50] [Science] <upon expending a [Religious Unit] unit> <(modified by game speed)> <after discovering [Chemistry]>"] 
     },
     {
         "name": "Holy Alliance",
@@ -497,6 +497,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

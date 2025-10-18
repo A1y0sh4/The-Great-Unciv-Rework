@@ -1938,7 +1938,7 @@ UnitIcons/Great Trader
   index: -1
 NationIcons/The Harappans
   rotate: false
-  xy: 650, 450
+  xy: 650, 470
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

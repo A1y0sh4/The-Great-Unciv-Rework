@@ -435,7 +435,7 @@
 		"favoredReligion": "Catholicism",
 		
 		"uniqueName": "River Raids",
-		"uniques": ["[{Military} {Land}] units gain the [Amphibious] promotion", "[+100]% Strength <when defending> <for [Embarked] units>", "Earn [100]% of killed [Military] unit's [Strength] as [Culture] <upon defeating a [Military] unit> <in [Fresh Water] tiles>"],
+		"uniques": ["[{Military} {Land}] units gain the [Amphibious] promotion", "[+100]% Strength <when defending> <for [Embarked] units>", "Earn [100]% of killed [Military] unit's [Strength] as [Culture] <in [Fresh Water] tiles>"],
 		"cities": ["Kampala","Kasangati","Mukono","Ssentema","Butoolo","Mitiyana","Buzinde","Nakasongola","Kaabasanda","Masaka","Sembalue",
 			"Lakaayi","Kabula","Mwera","Ntenjeru","Mpenja","Kanoni","Kaweeri","Kalangala","Maggyo","Kibbale","Kakumiro","Jinja",
 			"Entebbe","Wakiso","Njeru","Mpigi","Kayunga","Luweero","Kiboga"],

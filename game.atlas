@@ -1959,7 +1959,7 @@ UnitIcons/Runner
   index: -1
 BuildingIcons/People's Hall
   rotate: false
-  xy: 650, 360
+  xy: 654, 360
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1973,7 +1973,7 @@ BuildingIcons/Mauna Kea Observatory
   index: -1
 BuildingIcons/Worker and Kolkhoz Woman
   rotate: false
-  xy: 543, 470
+  xy: 541, 470
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1987,7 +1987,7 @@ BuildingIcons/Palace
   index: -1
 BuildingIcons/World Trade Center
   rotate: false
-  xy: 230, 690
+  xy: 210, 690
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

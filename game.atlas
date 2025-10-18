@@ -1980,7 +1980,7 @@ BuildingIcons/Worker and Kolkhoz Woman
   index: -1
 BuildingIcons/Palace
   rotate: false
-  xy: 650, 695
+  xy: 647, 695
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

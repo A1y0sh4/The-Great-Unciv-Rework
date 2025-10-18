@@ -2001,7 +2001,7 @@ BuildingIcons/Ruhr Industrial Complex
   index: -1
 BuildingIcons/Empire State Building
   rotate: false
-  xy: 1340, 754
+  xy: 1340, 752
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

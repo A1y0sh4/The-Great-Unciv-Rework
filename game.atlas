@@ -1584,6 +1584,13 @@ TileSets/HexaRealm/Tiles/Coffee+Plantation
   orig: 64, 56
   offset: 0, 0
   index: -1
+TechIcons/Advanced Urbanism
+  rotate: false
+  xy: 4, 364
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
    
 game8.png
 size: 2048, 1024

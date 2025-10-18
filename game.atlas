@@ -1584,7 +1584,7 @@ TileSets/HexaRealm/Tiles/Coffee+Plantation
   orig: 64, 56
   offset: 0, 0
   index: -1
-TechIcons/Advanced Urbanism
+TechIcons/Urban Planning
   rotate: false
   xy: 4, 364
   size: 100, 100
@@ -1817,7 +1817,7 @@ TechIcons/Siege Tactics
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Urban Planning
+TechIcons/Advanced Urbanism
   rotate: false
   xy: 544, 364
   size: 100, 100

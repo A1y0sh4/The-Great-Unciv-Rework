@@ -955,16 +955,21 @@
 	},
 	{
 		"name": "Trade Seals Unique",
-		"uniques": ["Reveal up to [All] [Ancient ruins] within a [5] tile radius <upon discovering a [Ancient ruins] tile>",
-		            "Reveal up to [All] [Barbarian encampment] within a [5] tile radius <upon discovering a [Barbarian encampment] tile>",
-		            "Reveal up to [All] [City center] within a [5] tile radius <upon discovering a [City center] tile>",
-		            "Reveal up to [All] [City ruins] within a [5] tile radius <upon discovering a [City ruins] tile>"]
+		"uniques": ["Reveal up to [All] [Ancient ruins] within a [5] tile radius <upon discovering a [Ancient ruins] tile> <hidden from users>",
+		            "Reveal up to [All] [Barbarian encampment] within a [5] tile radius <upon discovering a [Barbarian encampment] tile> <hidden from users>",
+		            "Reveal up to [All] [City center] within a [5] tile radius <upon discovering a [City center] tile> <hidden from users>",
+		            "Reveal up to [All] [City ruins] within a [5] tile radius <upon discovering a [City ruins] tile> <hidden from users>",
+		"Gain [50] [Gold] <upon discovering a [Ancient ruins] tile> <(modified by game speed)> <hidden from users>",
+		    "Gain [50] [Gold] <upon discovering a [Barbarian encampment] tile> <(modified by game speed)> <hidden from users>",
+		    "Gain [50] [Gold] <upon discovering a [City center] tile> <(modified by game speed)> <hidden from users>",
+		    "Gain [50] [Gold] <upon discovering a [City ruins] tile> <(modified by game speed)> <hidden from users>", "Comment [Upon discovering a Point of Interest you reveal those of the same type within a 5 tile radius and gain 50 [Gold] (modified by game speed)]"]
 	},
 	{
 		"name": "[Runner] ability",
 		"uniques": ["May enter foreign tiles without open borders"]
 	},
 ]
+
 
 
 

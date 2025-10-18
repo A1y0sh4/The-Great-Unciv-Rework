@@ -2013,3 +2013,10 @@ BuildingIcons/Palace of Versailles
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Skyscraper
+  rotate: false
+  xy: 4, 364
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

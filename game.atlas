@@ -1936,3 +1936,10 @@ UnitIcons/Great Trader
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/The Harappans
+  rotate: false
+  xy: 650, 450
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

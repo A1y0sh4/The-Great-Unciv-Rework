@@ -1966,7 +1966,7 @@ BuildingIcons/People's Hall
   index: -1
 BuildingIcons/Mauna Kea Observatory
   rotate: false
-  xy: 335, 585
+  xy: 333, 585
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1980,14 +1980,14 @@ BuildingIcons/Worker and Kolkhoz Woman
   index: -1
 BuildingIcons/Palace
   rotate: false
-  xy: 647, 695
+  xy: 646, 695
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/World Trade Center
   rotate: false
-  xy: 218, 690
+  xy: 219, 690
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -2001,14 +2001,14 @@ BuildingIcons/Ruhr Industrial Complex
   index: -1
 BuildingIcons/Empire State Building
   rotate: false
-  xy: 1338, 754
+  xy: 1340, 754
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Palace of Versailles
   rotate: false
-  xy: 1938, 863
+  xy: 1939, 863
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

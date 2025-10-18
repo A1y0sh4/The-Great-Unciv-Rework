@@ -2001,14 +2001,14 @@ BuildingIcons/Ruhr Industrial Complex
   index: -1
 BuildingIcons/Empire State Building
   rotate: false
-  xy: 1342, 754
+  xy: 1338, 754
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Palace of Versailles
   rotate: false
-  xy: 1936, 863
+  xy: 1938, 863
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

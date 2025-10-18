@@ -1987,7 +1987,7 @@ BuildingIcons/Palace
   index: -1
 BuildingIcons/World Trade Center
   rotate: false
-  xy: 210, 690
+  xy: 218, 690
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

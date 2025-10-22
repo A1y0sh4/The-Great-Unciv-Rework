@@ -1317,8 +1317,8 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Renaissance Flower",
-		"uniqueText": "Empire enters a Golden Age upon constructing a World Wonder\n-25% [Production] when building World Wonders during a Golden Age",
-		"uniques": ["Empire enters golden age <upon constructing [World Wonder]>", "[-25]% Production when constructing [World Wonder] wonders [in all cities] <during a Golden Age>"],
+		"uniqueText": "Instantly gain 50 Golden Age points upon constructing a Wonder\n-25% [Production] when constructing Wonders during a Golden Age",
+		"uniques": ["Instantly gain [50] [Golden Age points] <upon constructing [Wonder]>", "[-25]% Production when constructing [Wonder] wonders [in all cities] <during a Golden Age>"],
 		"cities": ["Rome", "Naples", "Milan", "Turin", "Florence", "Venice", "Genoa", "Bologna", "Palermo", "Modena", "Verona", "Brescia", "Vicenza", "Prato", "Bari", "Catania", "Parma", "Livorno", "Cagliari", "Foggia",
 			"Salerno", "Forlì", "Pisa", "Asti", "Messina", "Trieste", "Padua", "Siracusa", "Ferrara", "Novara",
 			"Rimini", "Taranto", "Perugia", "Latina", "Bergamo", "Pescara", "Monza", "Sassari", "Terni", "Vittoria"],
@@ -2461,7 +2461,8 @@
 		
 		"uniqueName": "Prosperous Yangtze Delta",
 		"uniqueText": "Gain +10 Golden Age points upon constructing maritime or fluvial buildings",
-		"uniques": ["Great General provides double combat bonus", "[+25]% spy effectiveness [in all cities]", "[+10]% to Flank Attack bonuses <for [Military] units> <when espionage is disabled>"],
+		"uniques": ["Instantly gain [10] [Golden Age points] <upon constructing [Water Mill]>", "Instantly gain [10] [Golden Age points] <upon constructing [Lighthouse]>", "Instantly gain [10] [Golden Age points] <upon constructing [Garden]>", "Instantly gain [10] [Golden Age points] <upon constructing [Harbor]>", "Instantly gain [10] [Golden Age points] <upon constructing [Seaport]>", "Instantly gain [10] [Golden Age points] <upon constructing [The Great Lighthouse]>", "Instantly gain [10] [Golden Age points] <upon constructing [The Great Library]>", "Instantly gain [10] [Golden Age points] <upon constructing [Mausoleum of Halicarnassus]>", "Instantly gain [10] [Golden Age points] <upon constructing [Colossus]>",
+		"Instantly gain [10] [Golden Age points] <upon constructing [Taj Mahal]>", "Instantly gain [10] [Golden Age points] <upon constructing [Venetian Arsenal]>", "Instantly gain [10] [Golden Age points] <upon constructing [Statue of Liberty]>", "Instantly gain [10] [Golden Age points] <upon constructing [Hydro Plant]>", "Instantly gain [10] [Golden Age points] <upon constructing [Sydney Opera House]>", "Instantly gain [10] [Golden Age points] <upon constructing [Mauna Kea Observatory]>"],
 		"cities": ["Jianye","Wuchang","Guangling","Kuaiji","Chaisang","Poyang","Ruxu","Lujiang","Yiling","Yuzhang",
 			"Danyang","Jiangling","Hefei","Minyue","Donghai","Guangzhou","Jiaozhi","Haimen","Suzhou","Wenzhou",
 			"Chengdu","Ningbo","Hangzhou","Xunyang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",

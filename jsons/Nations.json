@@ -2235,8 +2235,8 @@
 		"tradeRequest": "I believe I have something that may be of some importance to you.",
 		"favoredReligion": "Animism",
 		
-		"outerColor": [244, 164, 96],
-		"innerColor": [0, 51, 102],
+		"outerColor": [60, 179, 113],
+		"innerColor": [72, 61, 139],
 		
 		"uniqueName": "Dutch East India Company",
 		"uniqueText": "Gain +1 [Happiness] from every Lighthouse, Harbor and Seaport\nGain 50% of your [Happiness] value as [Gold]",

@@ -365,13 +365,24 @@
 
 	// Classical Era
 
-	// Column 3
+	// Column 3,
 	{
 		"name": "Lighthouse",
 		"hurryCostModifier": 25,
 		"food": 1,
 		"uniques": ["Must be next to [Water]", "[+1 Food] from [Water] tiles [in this city]"],
 		"requiredTech": "Optics"
+	},
+	{
+		"name": "Beacon",
+		"replaces": "Lighthouse",
+		"uniqueTo": "Wu",
+		"hurryCostModifier": 25,
+		"cost": 28,
+		"maintenance": 1,
+		"food": 1,
+		"uniques": ["Must be next to [Water]", "[+1 Gold] [in all cities] <in [River] tiles>", "[+1 Gold] [in all cities] <in [Coastal] tiles>"],
+		"requiredTech": "Writing"
 	},
 	{
 		"name": "The Great Lighthouse",

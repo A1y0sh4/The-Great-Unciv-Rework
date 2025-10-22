@@ -308,6 +308,20 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
+		"name": "Mengchong",
+		"unitType": "Sword",
+		"uniqueTo": "Wu",
+		"replaces": "Trireme",
+		"cost": 81,
+		"movement": 3,
+		"strength": 15,
+		"requiredTech": "Shipbuilding",
+		"uniques": ["Cannot move <in tiles without [River]> <in [Land] tiles>", "May travel on Water tiles without embarking", "Ignores terrain cost <in [River] tiles>"],
+		"promotions": ["Amphibious"],
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+	},
+	{
 		"name": "Dromon",
 		"unitType": "Ranged Water",
 		"uniqueTo": "Byzantium",

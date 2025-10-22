@@ -778,7 +778,7 @@
 				"row": 2,
 				"prerequisites": ["Telecommunications","Mobile Tactics","Advanced Ballistics"],
 				"uniques": ["Gifts of Gold to City-States generate [25]% more Influence", "[+5]% [Gold] [in all cities] <for every [Remaining [Major] Civilizations]>"],
-				"quote": "'Globalization is not a monolith; it's a complex of flows—some smooth, some turbulent.' - Arjun Appadurai"
+				"quote": "'Designed to leave the world's economic destiny at the mercy of bankers and multinational corporations, Globalization is a logical extension of imperialism, a victory of empire over republic, international finance capital over democracy.' - Michael Parenti"
 			},
 			{
 				"name": "Particle Physics",
@@ -839,3 +839,4 @@
 		]
 	}
 ]
+

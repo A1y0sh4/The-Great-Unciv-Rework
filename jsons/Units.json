@@ -314,10 +314,11 @@
 		"replaces": "Trireme",
 		"cost": 81,
 		"movement": 3,
-		"strength": 15,
+		"strength": 14,
 		"requiredTech": "Shipbuilding",
 		"uniques": ["Unbuildable <in tiles without [River]>", "Cannot move <in tiles without [River]> <in [Land] tiles>", "May travel on Water tiles without embarking", "Ignores terrain cost <in [River] tiles>", "Cannot enter ocean tiles"],
 		"promotions": ["Amphibious"],
+		"upgradesTo": "Pikeman",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
 	},

@@ -2215,6 +2215,39 @@
 		"spyNames": ["Balamber", "Uldin", "Donatus", "Charato", "Octar", "Bleda", "Ellac", "Dengizik", "Hildico", "Gudrun"]
 	},
 	{
+		"name": "The Lokono",
+		"leaderName": "Hiaro", //'Hiaro' just means 'Woman' in the Arawak language
+		"adjective": ["Arawak"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Cultural",
+		//"personality": "Hiaro",
+		
+		"startIntroPart1": "Hail stalwart Prince William of Orange, liberator of the Netherlands and hero to the Dutch people. It was your courageous effort in the 1568 rebellion against Spanish dominion that led the Dutch to freedom, and ultimately resulted in the Eighty Years' War. Your undertaking allowed for the creation of one of Europe's first modern republics, the Seven United Provinces. You gave your life to the rebellion, falling at the hands of an assassin in 1584, but your death would only serve to embolden the people's charge, and your legacy as \"Father of the Fatherland\" will stand as a symbol of Dutch independence for all time.",
+		"startIntroPart2": "Brave prince, the people again yearn for the wise stewardship your wisdom afforded them. Can you once again secure the sovereignty of your kingdom and lead your people to greatness? Can you build a civilization that stands the test of time?",
+		
+		"declaringWar": "As much as I despise war, I consider it a, hahaha, contribution to the common cause to erase your existence.",
+		"attacked": "You call yourself an exalted ruler, but I see nothing more than a smartly dressed barbarian!",
+		"defeated": "My God, be merciful to my soul. My God, feel pity for this... my poor people!",
+		"denounced": "Let me give you the benefit of our frank opinion - you are unfit to rule, and a threat to the Netherlands.",
+		"introduction": "I am William of Orange, stadtholder of The Netherlands. Did you need anything? I still have a lot to do.",
+		"neutralHello": "Once again, greetings.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "I believe I have something that may be of some importance to you.",
+		"favoredReligion": "Animism",
+		
+		"outerColor": [199, 21, 133],
+		"innerColor": [240, 255, 240],
+		
+		"uniqueName": "Dutch East India Company",
+		"uniqueText": "Gain +1 [Happiness] from every Lighthouse, Harbor and Seaport\nGain 50% of your [Happiness] value as [Gold]",
+		"uniques": ["[50]% of excess happiness converted to [Gold]", "[+1 Happiness] from every [Lighthouse]", "[+1 Happiness] from every [Harbor]", "[+1 Happiness] from every [Seaport]"],
+		"cities": ["Pakuri","Mabaruma","Moruca","Waramuri","Morawhanna","Kabakaburi","Aishalton","Moraikobai","Santa Rosa","Tamaliki",
+			"Yarakabo","Marawina","Akarani","Tibiri","Patauri","Makuru","Baramanni","Arawuni","Hibaru","Eyaru",
+			"Anaru","Kairona","Lokorí","Manaribo","Oyana","Sabalima","Yamuri","Kawihana","Tapanaru","Paramaribo",
+			"Georgetown","Cayenne","Kamarang"],
+		"spyNames": ["Arawi", "Tamaneku", "Yaruma", "Bamari", "Hibaru", "Makuri", "Amani", "Oyana", "Tibiri", "Kawina"]
+	},
+	{
 		"name": "The Maya",
 		"leaderName": "Pacal",
 		"adjective": ["mayan"],
@@ -2258,39 +2291,6 @@
 			"Q'umarkaj","Nakbe","Cerros","Xunantunich","Takalik Abaj","Cival","San Bartolo","Altar de Sacrificios","Seibal",
 			"Caracol","Naranjo","Dos Pilas","Mayapan","Ixinche","Zaculeu","Kabah"],
 		"spyNames": ["Camazotz", "Coyopa", "Gukumatz", "Hunahpu", "Huracan", "Ixchel", "Ixtab", "Kukulkán", "Xbalanque", "Zipacna"]
-	},
-	{
-		"name": "The Lokono",
-		"leaderName": "Hiaro", //'Hiaro' just means 'Woman' in the Arawak language
-		"adjective": ["Arawak"],
-		"startBias": ["Jungle"],
-		"preferredVictoryType": "Cultural",
-		//"personality": "Hiaro",
-		
-		"startIntroPart1": "Hail stalwart Prince William of Orange, liberator of the Netherlands and hero to the Dutch people. It was your courageous effort in the 1568 rebellion against Spanish dominion that led the Dutch to freedom, and ultimately resulted in the Eighty Years' War. Your undertaking allowed for the creation of one of Europe's first modern republics, the Seven United Provinces. You gave your life to the rebellion, falling at the hands of an assassin in 1584, but your death would only serve to embolden the people's charge, and your legacy as \"Father of the Fatherland\" will stand as a symbol of Dutch independence for all time.",
-		"startIntroPart2": "Brave prince, the people again yearn for the wise stewardship your wisdom afforded them. Can you once again secure the sovereignty of your kingdom and lead your people to greatness? Can you build a civilization that stands the test of time?",
-		
-		"declaringWar": "As much as I despise war, I consider it a, hahaha, contribution to the common cause to erase your existence.",
-		"attacked": "You call yourself an exalted ruler, but I see nothing more than a smartly dressed barbarian!",
-		"defeated": "My God, be merciful to my soul. My God, feel pity for this... my poor people!",
-		"denounced": "Let me give you the benefit of our frank opinion - you are unfit to rule, and a threat to the Netherlands.",
-		"introduction": "I am William of Orange, stadtholder of The Netherlands. Did you need anything? I still have a lot to do.",
-		"neutralHello": "Once again, greetings.",
-		"hateHello": "What do you want?",
-		"tradeRequest": "I believe I have something that may be of some importance to you.",
-		"favoredReligion": "Animism",
-		
-		"outerColor": [229, 118, 0],
-		"innerColor": [255,255,255],
-		
-		"uniqueName": "Dutch East India Company",
-		"uniqueText": "Gain +1 [Happiness] from every Lighthouse, Harbor and Seaport\nGain 50% of your [Happiness] value as [Gold]",
-		"uniques": ["[50]% of excess happiness converted to [Gold]", "[+1 Happiness] from every [Lighthouse]", "[+1 Happiness] from every [Harbor]", "[+1 Happiness] from every [Seaport]"],
-		"cities": ["Pakuri","Mabaruma","Moruca","Waramuri","Morawhanna","Kabakaburi","Aishalton","Moraikobai","Santa Rosa","Tamaliki",
-			"Yarakabo","Marawina","Akarani","Tibiri","Patauri","Makuru","Baramanni","Arawuni","Hibaru","Eyaru",
-			"Anaru","Kairona","Lokorí","Manaribo","Oyana","Sabalima","Yamuri","Kawihana","Tapanaru","Paramaribo",
-			"Georgetown","Cayenne","Kamarang"],
-		"spyNames": ["Arawi", "Tamaneku", "Yaruma", "Bamari", "Hibaru", "Makuri", "Amani", "Oyana", "Tibiri", "Kawina"]
 	},
 	{
 		"name": "The Netherlands",

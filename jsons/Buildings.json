@@ -656,7 +656,7 @@
 		"culture": 2,
 		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 25,
-		"uniques": ["Gain control over [Jungle] tiles in a [3]-tile radius", "[+1 Culture] from [Jungle] tiles [in this city]"],
+		"uniques": ["Gain control over [Jungle] tiles in a [3]-tile radius", "[+1 Culture] from [Jungle] tiles [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{

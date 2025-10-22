@@ -2286,11 +2286,11 @@
 		"uniqueName": "Dutch East India Company",
 		"uniqueText": "Gain +1 [Happiness] from every Lighthouse, Harbor and Seaport\nGain 50% of your [Happiness] value as [Gold]",
 		"uniques": ["[50]% of excess happiness converted to [Gold]", "[+1 Happiness] from every [Lighthouse]", "[+1 Happiness] from every [Harbor]", "[+1 Happiness] from every [Seaport]"],
-		"cities": ["Amsterdam","Rotterdam","Utrecht","Groningen","Breda","Nijimegen","Den Haag","Haarlem","Arnhem","Zutphen",
-			"Maastricht","Tilburg","Eindhoven","Dordrecht","Leiden","Hertogenbosch","Almere","Alkmaar","Brielle","Vlissingen",
-			"Apeldoorn","Nova Enschede","Sao Bernardo do Amersfoort","Zwolle","Venlo","Uden","Grave","Delft","Gouda","Nieuwstadt",
-			"Weesp","Coevorden","Kerkrade"],
-		"spyNames": ["Joost", "Hendrika", "Marten", "Anke", "Guus", "Mr. X", "Dr Grijs", "Willem", "Thijs", "Neef"]
+		"cities": ["Pakuri","Mabaruma","Moruca","Waramuri","Morawhanna","Kabakaburi","Aishalton","Moraikobai","Santa Rosa","Tamaliki",
+			"Yarakabo","Marawina","Akarani","Tibiri","Patauri","Makuru","Baramanni","Arawuni","Hibaru","Eyaru",
+			"Anaru","Kairona","Lokorí","Manaribo","Oyana","Sabalima","Yamuri","Kawihana","Tapanaru","Paramaribo",
+			"Georgetown","Cayenne","Kamarang"],
+		"spyNames": ["Arawi", "Tamaneku", "Yaruma", "Bamari", "Hibaru", "Makuri", "Amani", "Oyana", "Tibiri", "Kawina"]
 	},
 	{
 		"name": "The Netherlands",

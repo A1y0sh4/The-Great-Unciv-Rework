@@ -648,6 +648,18 @@
 		"requiredTech": "Drama and Poetry"
 	},
 	{
+		"name": "Clan House",
+		"replaces": "Workshop",
+		"uniqueTo": "The Lokono",
+		"cost": 50,
+		"maintenance": 0,
+		"culture": 2,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 25,
+		"uniques": ["Gain control over [Jungle] tiles in a [3]-tile radius", "[+1 Culture] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Drama and Poetry"
+	},
+	{
 		"name": "National Epic",
 		"cost": 25,
 		"culture": 4,

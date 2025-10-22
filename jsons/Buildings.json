@@ -649,7 +649,7 @@
 	},
 	{
 		"name": "Clan House",
-		"replaces": "Workshop",
+		"replaces": "Amphitheater",
 		"uniqueTo": "The Lokono",
 		"cost": 50,
 		"maintenance": 0,

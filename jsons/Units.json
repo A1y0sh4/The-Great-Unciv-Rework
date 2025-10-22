@@ -211,6 +211,22 @@
 		"attackSound": "arrow"
 	},
 	{
+		"name": "Canoe Archer",
+		"unitType": "Archery",
+		"uniqueTo": "The Lokono",
+		"replaces": "Archer",
+		"cost": 35,
+		"movement": 3,
+		"strength": 5,
+		"rangedStrength": 8,
+		"requiredTech": "Archery",
+		"uniques": ["Ignores terrain cost <in [River] tiles>", "Can move after attacking"],
+		"promotions": ["Barrage I"],
+		"upgradesTo": "Composite Bowman",
+		"obsoleteTech": "Construction",
+		"attackSound": "arrow"
+	},
+	{
 		"name": "Slinger",
 		"unitType": "Scout",
 		"uniqueTo": "Inca",

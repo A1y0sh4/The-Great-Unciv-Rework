@@ -2459,8 +2459,8 @@
 		"outerColor": [85, 107, 47],
 		"innerColor": [173, 216, 230],
 		
-		"uniqueName": "Art of War",
-		"uniqueText": "Great General's Strength bonus is doubled\nSpies operate if they were one level more experienced (when espionage is enabled)\n+10% to Flank Attack bonuses for Military units (when espionage is disabled)",
+		"uniqueName": "Prosperous Yangtze Delta",
+		"uniqueText": "Gain +10 Golden Age points upon constructing maritime or fluvial buildings",
 		"uniques": ["Great General provides double combat bonus", "[+25]% spy effectiveness [in all cities]", "[+10]% to Flank Attack bonuses <for [Military] units> <when espionage is disabled>"],
 		"cities": ["Jianye","Wuchang","Guangling","Kuaiji","Chaisang","Poyang","Ruxu","Lujiang","Yiling","Yuzhang",
 			"Danyang","Jiangling","Hefei","Minyue","Donghai","Guangzhou","Jiaozhi","Haimen","Suzhou","Wenzhou",

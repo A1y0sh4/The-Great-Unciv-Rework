@@ -2462,9 +2462,9 @@
 		"uniqueName": "Art of War",
 		"uniqueText": "Great General's Strength bonus is doubled\nSpies operate if they were one level more experienced (when espionage is enabled)\n+10% to Flank Attack bonuses for Military units (when espionage is disabled)",
 		"uniques": ["Great General provides double combat bonus", "[+25]% spy effectiveness [in all cities]", "[+10]% to Flank Attack bonuses <for [Military] units> <when espionage is disabled>"],
-		"cities": ["Jianye","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
-			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
-			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
+		"cities": ["Jianye","Wuchang","Guangling","Kuaiji","Chaisang","Poyang","Ruxu","Lujiang","Yiling","Yuzhang",
+			"Danyang","Jiangling","Hefei","Minyue","Donghai","Guangzhou","Jiaozhi","Haimen","Suzhou","Wenzhou",
+			"Chengdu","Ningbo","Hangzhou","Xunyang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
 			"Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"],
 		"spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
 	},

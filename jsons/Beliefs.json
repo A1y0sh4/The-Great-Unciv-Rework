@@ -484,7 +484,7 @@
     {
         "name": "Stupor Mundi",
         "type": "Enhancer",
-        "uniques": ["Instantly gain [100] [Golden Age points] <upon discovering a Natural Wonder>", "[+4 Faith] for every known Natural Wonder"]
+        "uniques": ["Instantly gain [200] [Golden Age points] <(modified by game speed)> <upon discovering a Natural Wonder>", "[+4 Faith] for every known Natural Wonder"]
     },
     {
         "name": "Underground Action",
@@ -497,6 +497,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

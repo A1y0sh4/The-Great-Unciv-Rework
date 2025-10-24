@@ -252,7 +252,7 @@
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
 		"replaces": "Composite Bowman",
-		"uniqueTo": "Nubia",
+		"uniqueTo": "Kush",
 		"upgradesTo": "Crossbowman",
 		"promotions":["Mercenary", "Mobility"],
 		"attackSound": "arrow",

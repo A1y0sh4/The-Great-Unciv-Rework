@@ -430,7 +430,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Zhànche",
+		"name": "Zhanche",
 		"unitType": "Mounted",
 		"uniqueTo": "Zhou",
 		"replaces": "War Chariot",

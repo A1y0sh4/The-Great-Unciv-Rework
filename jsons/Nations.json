@@ -2524,8 +2524,8 @@
 		"tradeRequest": "My friend, do you think you can accept this request?",
 		"favoredReligion": "Confucianism",
 		
-		"outerColor": [47, 79, 79],
-		"innerColor": [255, 228, 196],
+		"outerColor": [54, 54, 54],
+		"innerColor": [173, 255, 47],
 		
 		"uniqueName": "Mandate of Heaven",
 		"uniqueText": "Gain 20 Golden Age points upon constructing maritime or fluvial buildings (modified by game speed)\nGain +2 [Food], +2 [Production], +2 [Gold] in fluvial and coastal cities during a Golden Age",

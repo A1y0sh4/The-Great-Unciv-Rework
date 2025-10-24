@@ -1412,10 +1412,11 @@
 	{
 		"name": "Ruhr Industrial Complex",
 		"culture": 3,
+		"production": 3,
 		"percentStatBonus": {"production": 10},
 		"greatPersonPoints": {"Great Engineer": 3},
 		"isWonder": true,
-		"uniques": ["Gain a free [Factory] [in this city]", "Gain a free [Coal Plant] [in this city]", "[+1 Production] from [Mine] tiles [in this city]"],
+		"uniques": ["Gain a free [Factory] [in this city]", "Gain a free [Coal Plant] [in this city]", "[+1 Production] from [Coal] tiles [in this city]", "[+1 Production] from [Aluminum] tiles [in this city]", "[+1 Production] from [Uranium] tiles [in this city]"],
 		"requiredNearbyImprovedResources": ["Coal"],
 		"requiredTech": "Industrialization",
 		"quote": "'The soul of man under socialism will work no more for wages, but for the joy of creation.' - Oscar Wilde"

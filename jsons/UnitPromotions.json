@@ -966,9 +966,14 @@
 	},
 	{
 		"name": "[Runner] ability",
-		"uniques": ["May enter foreign tiles without open borders"]
+		"uniques": ["May enter foreign tiles without open borders"] 
+	},
+	{
+		"name": "[Zhànche] ability",
+		"uniques": ["[+10]% Strength <while the empire is happy>"]
 	},
 ]
+
 
 
 

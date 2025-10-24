@@ -502,6 +502,16 @@
 		"maintenance": 1,
 		"requiredTech": "Philosophy"
 	},
+	{
+		"name": "Confucian School", 
+		"replaces": "Garden",
+		"uniqueTo": "Zhou",
+		"cost": 50,
+		"culture": 1,
+		"maintenance": 1,
+		"uniques": ["[+25]% Great Person generation [in this city]", "[-25]% Food consumption by specialists [in this city]", "Must be next to [Fresh water]", "Gain control over [Mountain] tiles in a [3]-tile radius", "[+1 Science] from [Mountain] tiles [in this city]"],
+		"requiredTech": "Philosophy"
+	},
         {
 		"name": "Royal Palace", 
 		"replaces": "Garden",

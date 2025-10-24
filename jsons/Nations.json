@@ -1422,6 +1422,36 @@
 		"spyNames": ["Kim", "Park", "Han", "Na", "Kong", "Yu", "Ahn", "Seok", "Da", "Eun"]
 	},
 	{
+		"name": "Kush",
+		"leaderName": "Amanitore",
+		"adjective": ["Kushite"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Amanitore",
+
+		"startIntroPart1": "Blessings of Amun be upon thee, o magnificent Amanitore, Kandake Queen of Nubia and Kush! Your ancestors include legendary Piye, he who conquered Egypt after centuries of subjugation, and yours is a land of wealth and plenty, located high up the Nile river, between Egypt and Ethiopia. While ruling alongside your son Natakamani, you were involved in restoring large temples at Meroe and Napata, demolished by the evil Romans, your contemporaries, and the building of over two hundred nubian pyramids, as if your people were the true heirs of the ancient Egyptian empire of about a millennia earlier. Your rule marked the prosperity peak of Nubia and Meroitic history, and your civilization would exist for more than two centuries after your were gone. The kingdom of Kush only ceased to exist when Christianity was changing the world forever.",
+		"startIntroPart2": "Watchful Queen of Nubia, the empire you command deserves to claim the horizon as its border, and your cities to know prosperity and piety, for the Land of the Bow honors its past as surely as it builts its own future. Will you once again replenish this parched land with the blessings of the gods and the wisdom of your divine rule? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "We have arrows, finely honed. We shall deliver them freely to your throat.",
+		"attacked": "As predicted, you know only how to take. Come, then—choose the manner of your defeat.",
+		"defeated": "Though Nubia declines, our pyramids shall remain long after your plans fall to ruin.",
+		"denounced": "I will not ask how you dare say such a vile thing. With you, I always expect the worst.",
+		"introduction": "I am Amanitore of Nubia. All are welcome in our magnificent cities — provided they come as friends.",
+		"neutralHello": "Greetings.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "As a gesture of goodwill and generosity, I have decided to share the riches of Nubia with you. May our swords never cross.",
+		"favoredReligion": "Kemetism",
+		
+		"outerColor": [184,179,112],
+		"innerColor": [105,73,45],
+		
+		"uniqueName": "Ta-Seti",
+		"uniqueText": "Archery units are 50% faster to build when at war and they gain +50% XP and the Accuracy I promotion\nArchery units are 25% cheaper to upgrade",
+		"uniques": ["[+50]% Production when constructing [Archery] units [in all cities] <when at war>", "[+50]% XP gained from combat <for [Archery] units>", "[Archery] units gain the [Accuracy I] promotion", "[-25]% Gold cost of upgrading <for [Archery] units>"],
+		"cities": ["Kerma","Napata","Meroë","Miam","El-Kurru","Abu Simbel","Pachoras","Buhen","Nuri","Kawa","Soleb","Wad ban Naqa","Debba","Sadeinga","Iken","Buhen","Faras","Pademe","Shaat","Heh","Dengeil","Bugdumbush","Amara","Pedeme"],
+		"spyNames": ["Alara", "Amanirenas", "Apedemak", "Amenirdis", "Arqamani", "Kadimalo", "Mandulis", "Nasala", "Piye", "Tabiry"]
+	},
+	{
 		"name": "Macedonia",
 		"leaderName": "Alexander",
 		"adjective": ["Macedonian"],
@@ -1619,36 +1649,6 @@
 			"Fquih ben Salah","Khouribga","Nador","Settat","Berrechid","Larache","Khemisset","Guelmim","Dakhla",
 			"Chefchaouen","Ben Guerir","El Kelaa des Sraghna","Erfoud"],
 		"spyNames": ["el-Krim", "ibn-Battuta", "al-Jazzar", "al-Kahina", "Hayyuj", "Kusayla", "al-Idrisi", "Salih", "Tariq", "Dihya"]
-	},
-	{
-		"name": "Nubia",
-		"leaderName": "Amanitore",
-		"adjective": ["Nubian"],
-		"startBias": ["Desert"],
-		"preferredVictoryType": "Cultural",
-		"personality": "Amanitore",
-
-		"startIntroPart1": "Blessings of Amun be upon thee, o magnificent Amanitore, Kandake Queen of Nubia and Kush! Your ancestors include legendary Piye, he who conquered Egypt after centuries of subjugation, and yours is a land of wealth and plenty, located high up the Nile river, between Egypt and Ethiopia. While ruling alongside your son Natakamani, you were involved in restoring large temples at Meroe and Napata, demolished by the evil Romans, your contemporaries, and the building of over two hundred nubian pyramids, as if your people were the true heirs of the ancient Egyptian empire of about a millennia earlier. Your rule marked the prosperity peak of Nubia and Meroitic history, and your civilization would exist for more than two centuries after your were gone. The kingdom of Kush only ceased to exist when Christianity was changing the world forever.",
-		"startIntroPart2": "Watchful Queen of Nubia, the empire you command deserves to claim the horizon as its border, and your cities to know prosperity and piety, for the Land of the Bow honors its past as surely as it builts its own future. Will you once again replenish this parched land with the blessings of the gods and the wisdom of your divine rule? Can you build a civilization that will stand the test of time?",
-		
-		"declaringWar": "We have arrows, finely honed. We shall deliver them freely to your throat.",
-		"attacked": "As predicted, you know only how to take. Come, then—choose the manner of your defeat.",
-		"defeated": "Though Nubia declines, our pyramids shall remain long after your plans fall to ruin.",
-		"denounced": "I will not ask how you dare say such a vile thing. With you, I always expect the worst.",
-		"introduction": "I am Amanitore of Nubia. All are welcome in our magnificent cities — provided they come as friends.",
-		"neutralHello": "Greetings.",
-		"hateHello": "What do you want?",
-		"tradeRequest": "As a gesture of goodwill and generosity, I have decided to share the riches of Nubia with you. May our swords never cross.",
-		"favoredReligion": "Kemetism",
-		
-		"outerColor": [184,179,112],
-		"innerColor": [105,73,45],
-		
-		"uniqueName": "Ta-Seti",
-		"uniqueText": "Archery units are 50% faster to build when at war and they gain +50% XP and the Accuracy I promotion",
-		"uniques": ["[+50]% Production when constructing [Archery] units [in all cities] <when at war>", "[+50]% XP gained from combat <for [Archery] units>", "[Archery] units gain the [Accuracy I] promotion"],
-		"cities": ["Meroë","Napata","Kerma","Miam","El-Kurru","Abu Simbel","Pachoras","Buhen","Nuri","Kawa","Soleb","Wad ban Naqa","Debba","Sadeinga","Iken","Buhen","Faras","Pademe","Shaat","Heh","Dengeil","Bugdumbush","Amara","Pedeme"],
-		"spyNames": ["Alara", "Amanirenas", "Apedemak", "Amenirdis", "Arqamani", "Kadimalo", "Mandulis", "Nasala", "Piye", "Tabiry"]
 	},
 	{
 		"name": "Persia",

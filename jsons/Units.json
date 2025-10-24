@@ -441,7 +441,7 @@
 		"upgradesTo": "Horseman",
 		"obsoleteTech": "Horseback Riding",
 		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-25]% Strength <vs cities> <when attacking>", "Earn [50]% of killed [Barbarian] unit's [Strength] as [Culture]"],
-		"promotions": ["[Zhànche] ability"],
+		"promotions": ["[Zhanche] ability"],
 		"attackSound": "metalhit"
 	},
 	{

@@ -344,7 +344,7 @@
 	{
 		"name": "Nubian pyramid",
 		"type": "Improvement",
-		"uniqueTo": "Nubia",
+		"uniqueTo": "Kush",
 		"terrainsCanBeBuiltOn": ["Desert", "Flood plains"],
 		"faith": 1,
 		"gold": 1,
@@ -494,6 +494,7 @@
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
 	}
 ]
+
 
 
 

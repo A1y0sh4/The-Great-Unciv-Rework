@@ -380,7 +380,7 @@
 		"hurryCostModifier": 25,
 		"cost": 28,
 		"food": 1,
-		"uniques": ["Must be next to [Water]", "[+1 Food] from [Water] tiles [in this city]", "[+1 Gold] [in all cities] <in [River] tiles>", "[+1 Gold] [in all cities] <in [Coastal] tiles>"],
+		"uniques": ["[+1 Food] from [Water] tiles [in this city]", "[+1 Gold] <in [River] tiles>", "[+1 Gold] <in [Coastal] tiles>"],
 		"requiredTech": "Optics"
 	},
 	{

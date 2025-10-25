@@ -231,7 +231,7 @@
             },
             {
                 "name": "Monasticism",
-                "uniques": ["Gain a free [Garden] [in all cities]", "[+1 Faith] from every [Garden]"],
+                "uniques": ["Provides a [Garden] in your first [4] cities for free", "[+1 Faith] from every [Garden]"],
                 "row": 1,
                 "column": 5
             },

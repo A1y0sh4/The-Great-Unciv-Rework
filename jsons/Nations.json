@@ -2531,7 +2531,7 @@
 		"uniqueText": "Gain 10% of your [Happiness] value as [Science], [Culture] and [Gold] (doubles during a Golden Age)\n[Palace] yields an additional +2 [Happiness], +1 [Culture]",
 		"uniques": ["[10]% of excess happiness converted to [Science]", "[10]% of excess happiness converted to [Culture]", "[10]% of excess happiness converted to [Gold]",
 		"[10]% of excess happiness converted to [Science] <during a Golden Age>", "[10]% of excess happiness converted to [Culture] <during a Golden Age>", "[10]% of excess happiness converted to [Gold] <during a Golden Age>",
-		"[+2 Happiness, +1 Culture] from every [Palace]", "[+2 Happiness, +1 Culture] from every [Palace] <during a Golden Age>"],
+		"[+2 Happiness, +1 Culture] from every [Palace]", "[+2 Production, +2 Science, +2 Gold, +2 Happiness, +2 Culture] from every [Palace] <during a Golden Age>", "[+1 Production, +1 Science, +1 Gold] from every [Palace] <during a Golden Age> <after adopting [Tradition]>"],
 		"cities": ["Haojing","Feng","Chengzhou","Wangcheng","Qufu","Bin","Qi","Jin","Yan","Wei","Song","Cai",
 			"Cao","Zheng","Chen","Chu","Qin","Yue","Ba","Shu","Lu","Han",
 			"Zhao","Wei","Xianyang","Ying","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",

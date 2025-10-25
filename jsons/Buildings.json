@@ -516,11 +516,12 @@
 		"name": "Royal Palace", 
 		"replaces": "Garden",
 		"uniqueTo": "Assyria",
+		"cost": 66,
 		"happiness": 1,
 		"science": 2,
 		"culture": 1,
-		"maintenance": 1,
-		"uniques": ["[+25]% Great Person generation [in this city]", "[-25]% Food consumption by specialists [in this city]", "Must be next to [Fresh water]"],
+		"maintenance": 2,
+		"uniques": ["[+25]% Great Person generation [in this city]", "[-25]% Food consumption by specialists [in this city]"],
 		"requiredTech": "Philosophy"
 	},
 	{

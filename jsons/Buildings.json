@@ -1395,7 +1395,7 @@
 		"specialistSlots": {"Engineer": 2},
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,
-		"uniques": ["Provides [1] [Pollution]"],
+		"uniques": ["Provides [1] [Pollution]", "Only available <when above [0] [Coal]>"],
 		"hurryCostModifier": 0,
 		"requiredTech": "Industrialization"
 	},
@@ -1409,7 +1409,7 @@
 		"requiredBuilding": "Workshop",
 		"maintenance": 0,
 		"hurryCostModifier": 0,
-		"uniques": ["Provides [1] [Pollution]"],
+		"uniques": ["Provides [1] [Pollution]", "Only available <when above [0] [Coal]>"],
 		"requiredTech": "Industrialization"
 	},
 	{

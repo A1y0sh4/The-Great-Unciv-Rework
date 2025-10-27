@@ -5,7 +5,7 @@ on:
   push:
     branches: [ "main" ]
   schedule:
-    - cron: '30 2 * * *'  # Run once per day
+    - cron: '30 2 * * 1'  # Run once per week
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:

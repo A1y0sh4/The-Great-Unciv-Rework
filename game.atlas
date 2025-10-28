@@ -2083,7 +2083,7 @@ NationIcons/Wu
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Canada
+BuildingIcons/Beacon
   rotate: false
   xy: 112, 580
   size: 100, 100

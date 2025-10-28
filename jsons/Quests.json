@@ -5,9 +5,9 @@
     "influence": 50,
     "weightForCityStateType": {
         "Friendly": 2,
-        "Hostile": 0.2,
-        "Maritime": 1.2,
-        "Mercantile": 1.5
+        "Hostile": 0.5,
+        "Maritime": 1.5,
+        "Mercantile": 3
     }
   },
   {
@@ -28,6 +28,8 @@
     "name": "Connect Resource",
     "description": "In order to make our civilizations stronger, connect [tileResource] to your trade network.",
       "weightForCityStateType": {
+        "Friendly": 0.1,
+        "Cultured": 1,
           "Maritime": 2,
           "Mercantile": 3
       }
@@ -36,6 +38,9 @@
     "name": "Construct Wonder",
     "description": "We recommend you to start building [wonder] to show the whole world your civilization strength.",
       "weightForCityStateType": {
+        "Friendly": 0.2,
+        "Maritime": 0.5,
+        "Religious": 1,
           "Cultured": 3
       }
   },
@@ -43,6 +48,8 @@
     "name": "Acquire Great Person",
     "description": "Great People can change the course of a Civilization! You will be rewarded for acquiring a new [greatPerson].",
       "weightForCityStateType": {
+        "Friendly": 0.3,
+        "Mercantile": 1,
           "Cultured": 3
       }
   },
@@ -61,18 +68,21 @@
     "description": "You have yet to discover where [civName] set up their cities. You will be rewarded for finding their territories.",
     "influence": 35,
       "weightForCityStateType": {
+        "Friendly": 0.5,
           "Maritime": 3,
-          "Mercantile": 2
+          "Mercantile": 2,
+        "Cultured": 1
       }
   },
   {
     "name": "Find Natural Wonder",
     "description": "Send your best explorers on a quest to discover Natural Wonders. Nobody knows the location of [naturalWonder] yet.",
       "weightForCityStateType": {
-          "Hostile": 0.3,
+          "Hostile": 0.1,
           "Militaristic": 0.5,
           "Maritime": 0.2,
           "Cultured": 0.2,
+        "Mercantile": 0.2
       }
   },
   /* G&K */
@@ -82,9 +92,10 @@
     "influence": 20,
     "duration": 30,
       "weightForCityStateType": {
+        "Friendly": 4,
           "Cultured": 3,
           "Maritime": 3,
-          "Mercantile": 3.5,
+          "Mercantile": 4,
           "Militaristic": 2,
           "Religious": 3
       }
@@ -95,6 +106,7 @@
     "influence": 20,
     "duration": 30,
       "weightForCityStateType": {
+        "Friendly": 4,
           "Cultured": 3.5,
           "Maritime": 3,
           "Mercantile": 3,
@@ -171,6 +183,7 @@
     "description": "We have been forced to pay tribute to [civName]! We need you to tell the world of their ill deeds.",
     "duration": 30,
       "weightForCityStateType": {
+        "Friendly": 2,
           "Cultured": 1.5,
           "Maritime": 2,
           "Mercantile": 1.5,
@@ -182,7 +195,8 @@
     "name": "Spread Religion",
     "description": "We have heard the tenets of [religionName] and are most curious. Will you send missionaries to teach us about your religion?",
       "weightForCityStateType": {
-          "Religious": 3
+          "Religious": 3,
+        "Friendly": 1,
       }
   }
   /* BNW */
@@ -193,3 +207,4 @@
   }
   */
 ]
+

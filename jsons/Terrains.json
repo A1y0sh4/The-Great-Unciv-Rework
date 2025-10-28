@@ -423,6 +423,7 @@
 		"food": 2,
 		"gold": 1,
 		"faith": 1,
+		"defenceBonus": -0.1,
 		"occursOn": ["Tundra"],
 		"uniques": ["Comment [Point of Interest]", "Fresh water", "Must be adjacent to [2] to [6] [Tundra] tiles",
 			"Must be adjacent to [0] to [2] [Hill] tiles",
@@ -437,6 +438,7 @@
 		"type": "NaturalWonder",
 		"culture": 3,
 		"faith": 2,
+		"defenceBonus": -0.1,
 		"occursOn": ["Desert"],
 		"uniques": ["Comment [Point of Interest]", "Must be adjacent to [2] to [5] [Desert] tiles",
 			    "Must be adjacent to [1] to [3] [Water] tiles",
@@ -733,6 +735,7 @@
 		"type": "NaturalWonder",
 		"production": 3,
 		"science": 2,
+		"defenceBonus": 0.3,
 		"occursOn": ["Desert"],
 		"uniques": ["Comment [Point of Interest]", "Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] [Grassland] tiles",
@@ -858,6 +861,7 @@
 		"food": 2,
 		"science": 1,
 		"culture": 1,
+		"defenceBonus": -0.1,
 		"occursOn": ["Coast"],
 		"turnsInto": "Coast",
 		"impassable": false,
@@ -871,6 +875,7 @@
 		"food": 1,
 		"culture": 3,
 		"faith": 1,
+		"defenceBonus": -0.1,
 		"occursOn": ["Plains"],
 		"turnsInto": "Plains",
 		"unbuildable": true,
@@ -895,6 +900,7 @@
 		"type": "NaturalWonder",
 		"food": 2,
 		"culture": 3,
+		"defenceBonus": -0.1,
 		"occursOn": ["Plains"],
 		"turnsInto": "Plains",
 		"impassable": true,
@@ -908,6 +914,7 @@
 		"food": 1,
 		"gold": 3,
 		"culture": 1,
+		"defenceBonus": -0.1,
 		"occursOn": ["Grassland"],
 		"turnsInto": "Grassland",
 		"impassable": true,
@@ -928,6 +935,7 @@
 		"weight": 10
 	},
 ]
+
 
 
 

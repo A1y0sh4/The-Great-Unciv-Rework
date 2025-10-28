@@ -2076,3 +2076,17 @@ UnitIcons/Mengchong
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Wu
+  rotate: false
+  xy: 4, 472
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Canada
+  rotate: false
+  xy: 112, 580
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

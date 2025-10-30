@@ -2090,3 +2090,24 @@ BuildingIcons/Beacon
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Cognac Distillery
+  rotate: false
+  xy: 4, 364
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Globe Theatre
+  rotate: false
+  xy: 436, 688
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Great Zimbabwe
+  rotate: false
+  xy: 112, 256
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

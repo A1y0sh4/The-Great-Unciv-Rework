@@ -2092,7 +2092,7 @@ BuildingIcons/Beacon
   index: -1
 NationIcons/The Lokono
   rotate: false
-  xy: 4, 364
+  xy: 432, 900
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

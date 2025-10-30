@@ -2104,7 +2104,7 @@ BuildingIcons/Clan House
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Great Zimbabwe
+UnitIcons/Canoe Archer
   rotate: false
   xy: 112, 256
   size: 100, 100

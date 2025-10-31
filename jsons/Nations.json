@@ -1554,37 +1554,6 @@
 		"spyNames": ["Amaru", "Akllaasisa", "Asto", "Huch’uykilla", "Inti", "Izhi", "Manko", "Qhawa", "Sumaq", "Yachay"]
 	},
 	{
-		"name": "Mutapa",
-		"leaderName": "Nyanhewe Matope",
-		"adjective": ["Mutapa"],
-		"startBias": ["Jungle"],
-		"preferredVictoryType": "Domination",
-		//"personality": "Nyanhewe Matope",
-		
-		"startIntroPart1": "Honor and praise to Nyanhewe Matope, Emperor of the Mwene we Mutapa, successor of the Zimbabwe. You are the son and successor of Nyatsimba Mutota, who abandoned the Great Zimbabwe to found the Mwenemutapa, Lord of the Conquered Land. By your hand, the empire encompassed most of the lands between Tavara and the Indian Ocean, uniting a number of different peoples in Southern Africa including Manyika and Tonga as well as the coastal Teve and Madanda. By the time the Portuguese landed on the coasts of Mozambique, the Mutapa empire was the most powerful state in the region, a mere 50 years following its birth.",
-		"startIntroPart2": "Noble Emperor of the Nwene we Mutapa, your kingdom fell to the Portuguese decades after your death, but your people still has hope for they know you will come back and lead your people to victory. Will you turn these hopes to reality? Will you take revenge on those who wronged you, your people and your successors? Can you build a civilization that will stand the test of time?",
-		
-		"declaringWar": "You cannot be trusted, and I find that the best way to solve this situation is through war!",
-		"attacked": "A shame a peaceful way to cohesist together couldn't be found. But fine: I accept your challenge.",
-		"defeated": "Go on. Take my life. But know that you will only have destroyed all that remains of my people. Enjoy this slaughter while you can.",
-		"denounced": "Your words betray your nature. No Mutapa will trust you.",
-		"introduction": "I am honored to meet you, noble king. As the leader of the Mutapa, I can offer you the chance to mark this day with a feast... and perhaps later, a trade route.",
-		"neutralHello": "Good day.",
-		"hateHello": "Well?",
-		"tradeRequest": "As I accepted your traders in my land, I hope you will do the same to mine.",
-		"favoredReligion": "Animism",
-		
-		"outerColor": [199, 21, 133],
-		"innerColor": [240, 255, 240],
-		
-		"uniqueName": "Trade Link",
-		"uniques": ["[+100]% Happiness from luxury resources gifted by City-States", "[+6 Gold] <for every [Gold Ore]>", "[+6 Gold] <for every [Ivory]>"],
-		"cities": ["Zvongombe","Mount Fura","Chitakochangonya","Barwe","Chidima","Nyatsimba","Massapa","Tete","Sena","Dambarare",
-			"Ongua","Chikova","Manica","Sofala","Quelimane","Guruuswa","Mazoe","Mutoko","Mazowe","Manyika","Barwe",
-			"Madanda","Makonde","Zambezi","Kafungabusi","Shangwe","Mazangwe","Tiriri","Nyatsimba","Changamire"],
-		"spyNames": ["Mutota", "Nyahuma", "Chikuyo", "Neshangwe", "Negomo", "Mavura", "Kamharapasu", "Nyamaende", "Cangara", "Dehwe"]
-	},
-	{
 		"name": "Mongolia",
 		"leaderName": "Genghis Khan",
 		"adjective": ["Mongolian"],
@@ -1649,6 +1618,37 @@
 			"Fquih ben Salah","Khouribga","Nador","Settat","Berrechid","Larache","Khemisset","Guelmim","Dakhla",
 			"Chefchaouen","Ben Guerir","El Kelaa des Sraghna","Erfoud"],
 		"spyNames": ["el-Krim", "ibn-Battuta", "al-Jazzar", "al-Kahina", "Hayyuj", "Kusayla", "al-Idrisi", "Salih", "Tariq", "Dihya"]
+	},
+	{
+		"name": "Mutapa",
+		"leaderName": "Nyanhewe Matope",
+		"adjective": ["Mutapa"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		//"personality": "Nyanhewe Matope",
+		
+		"startIntroPart1": "Honor and praise to Nyanhewe Matope, Emperor of the Mwene we Mutapa, successor of the Zimbabwe. You are the son and successor of Nyatsimba Mutota, who abandoned the Great Zimbabwe to found the Mwenemutapa, Lord of the Conquered Land. By your hand, the empire encompassed most of the lands between Tavara and the Indian Ocean, uniting a number of different peoples in Southern Africa including Manyika and Tonga as well as the coastal Teve and Madanda. By the time the Portuguese landed on the coasts of Mozambique, the Mutapa empire was the most powerful state in the region, a mere 50 years following its birth.",
+		"startIntroPart2": "Noble Emperor of the Nwene we Mutapa, your kingdom fell to the Portuguese decades after your death, but your people still has hope for they know you will come back and lead your people to victory. Will you turn these hopes to reality? Will you take revenge on those who wronged you, your people and your successors? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "You cannot be trusted, and I find that the best way to solve this situation is through war!",
+		"attacked": "A shame a peaceful way to cohesist together couldn't be found. But fine: I accept your challenge.",
+		"defeated": "Go on. Take my life. But know that you will only have destroyed all that remains of my people. Enjoy this slaughter while you can.",
+		"denounced": "Your words betray your nature. No Mutapa will trust you.",
+		"introduction": "I am honored to meet you, noble king. As the leader of the Mutapa, I can offer you the chance to mark this day with a feast... and perhaps later, a trade route.",
+		"neutralHello": "Good day.",
+		"hateHello": "Well?",
+		"tradeRequest": "As I accepted your traders in my land, I hope you will do the same to mine.",
+		"favoredReligion": "Animism",
+		
+		"outerColor": [199, 21, 133],
+		"innerColor": [240, 255, 240],
+		
+		"uniqueName": "Trade Link",
+		"uniques": ["[+100]% Happiness from luxury resources gifted by City-States", "[+6 Gold] <for every [Gold Ore]>", "[+6 Gold] <for every [Ivory]>"],
+		"cities": ["Zvongombe","Mount Fura","Chitakochangonya","Barwe","Chidima","Nyatsimba","Massapa","Tete","Sena","Dambarare",
+			"Ongua","Chikova","Manica","Sofala","Quelimane","Guruuswa","Mazoe","Mutoko","Mazowe","Manyika","Barwe",
+			"Madanda","Makonde","Zambezi","Kafungabusi","Shangwe","Mazangwe","Tiriri","Nyatsimba","Changamire"],
+		"spyNames": ["Mutota", "Nyahuma", "Chikuyo", "Neshangwe", "Negomo", "Mavura", "Kamharapasu", "Nyamaende", "Cangara", "Dehwe"]
 	},
 	{
 		"name": "Persia",

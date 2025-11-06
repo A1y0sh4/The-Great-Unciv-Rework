@@ -68,6 +68,10 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
  
  - The Horde is the new Barbarian replacement for the War Chariot
 
+ - Units heal -5 HP less than usual and gain -15% XP while the empire is unhappy
+
+ - Units heal also if they performed an action when in Fort or Citadel tiles
+
 
 # Where can I find you?
 

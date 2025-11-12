@@ -481,7 +481,8 @@
 		            "Provides [1] [Gems] <in [Gems] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Silver] <in [Silver] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Copper] <in [Copper] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Salt] <in [Salt] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>",
 		            "Provides [1] [Amber] <in [Amber] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Gold Ore] <in [Gold Ore] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Furs] <in [Furs] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Truffles] <in [Truffles] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>",
 		            "Provides [1] [Obsidian] <in [Obsidian] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Marble] <in [Marble] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>",
-		"[+1 Happiness] <with [1] to [2] neighboring [Jungle] tiles> <for [The Lokono] Civilizations> <hidden from users>", "[+2 Happiness] <with [3] to [4] neighboring [Jungle] tiles> <for [The Lokono] Civilizations> <hidden from users>", "[+3 Happiness] <with [5] to [6] neighboring [Jungle] tiles> <for [The Lokono] Civilizations> <hidden from users>", "[+1 Happiness] <with [1] to [2] neighboring [Marsh] tiles> <for [The Lokono] Civilizations> <hidden from users>", "[+2 Happiness] <with [3] to [4] neighboring [Marsh] tiles> <for [The Lokono] Civilizations> <hidden from users>", "[+3 Happiness] <with [5] to [6] neighboring [Marsh] tiles> <for [The Lokono] Civilizations> <hidden from users>"],
+		"[+1 Happiness] <with [1] to [2] neighboring [Jungle] tiles> <for [The Lokono] Civilizations> <hidden from users>", "[+2 Happiness] <with [3] to [4] neighboring [Jungle] tiles> <for [The Lokono] Civilizations> <hidden from users>", "[+3 Happiness] <with [5] to [6] neighboring [Jungle] tiles> <for [The Lokono] Civilizations> <hidden from users>", "[+1 Happiness] <with [1] to [2] neighboring [Marsh] tiles> <for [The Lokono] Civilizations> <hidden from users>", "[+2 Happiness] <with [3] to [4] neighboring [Marsh] tiles> <for [The Lokono] Civilizations> <hidden from users>", "[+3 Happiness] <with [5] to [6] neighboring [Marsh] tiles> <for [The Lokono] Civilizations> <hidden from users>",
+		"[+1 Food] <within [3] tiles of a [City center]> <for [The Tupi] Civilizations> <hidden from users>"],
         "civilopediaText": [
 			{"text":"Marks the center of a city"},
 			{"text":"Appearance changes with the technological era of the owning civilization"}
@@ -494,16 +495,3 @@
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
 	}
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-

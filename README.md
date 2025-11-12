@@ -43,6 +43,8 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
    Nuclear Weapons: +300%)
 
  - Enemy spies act with a malus in garrisoned cities (-25%)
+
+ - World Wonders are 4% slower to build for every other World Wonder owned
  
 # Main War-related changes
   

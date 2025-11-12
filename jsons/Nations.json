@@ -2419,7 +2419,7 @@
 	"innerColor": [54, 39, 119],
 
 	"uniqueName": "The Tamoyo Confederation",
-	"uniqueText": "+4% [Production] when constructing Military units per number of owned cities, when at war (double bonus in capital)\nMilitary units gain +100% XP when fighting in Friendly Land tiles", 
+	"uniqueText": "+4% [Production] when constructing Military units per number of owned cities, when at war (double bonus in capital)\nCity centers within 3 tiles of another city center gain +1 additional [Food]\nMilitary units gain +100% XP when fighting in Friendly Land tiles", 
 	"uniques": ["[+4]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [1]> <when at war>",
 		"[+8]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [2]> <when at war>",
 		"[+12]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [3]> <when at war>",

@@ -253,7 +253,7 @@
             },
             {
                 "name": "Inquisition",
-                "uniques": ["May buy [Inquisitor] units with [Faith] [in all cities in which the majority religion is a major religion]", "Free [Inquisitor] appears"],
+                "uniques": ["May buy [Inquisitor] units with [Faith] <in cities with a major religion> <in cities with a [Temple]>", "Free [Inquisitor] appears"],
                 "requires": ["Monasticism", "Religious Orders"],
                 "row": 3,
                 "column": 4
@@ -261,7 +261,7 @@
             {
                 "name": "Piety Complete",
                 "uniques": [
-                    "Gain a free [Follower] belief", "[+3 Gold, +3 Culture] [in all cities] <within [3] tiles of a [Holy site]>"]
+                    "Gain a free [Follower] belief", "[+3 Gold, +3 Culture, +1 Happiness] [in all cities] <within [3] tiles of a [Holy site]>"]
             }
         ]
     },

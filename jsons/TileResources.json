@@ -480,32 +480,32 @@
 	{
 		"name": "Wine",
 		"resourceType": "Luxury",
-		"uniques": ["[-5]% [Production] [in all cities]"]
+		"uniques": ["[-4]% [Production] [in all cities]"]
 	},
 	{
 		"name": "Beer",
 		"resourceType": "Luxury",
-		"uniques": ["[-5]% [Production] [in all cities]"]
+		"uniques": ["[-4]% [Production] [in all cities]"]
 	},
 	{
 		"name": "Rum",
 		"resourceType": "Luxury",
-		"uniques": ["[-5]% [Production] [in all cities]"]
+		"uniques": ["[-4]% [Production] [in all cities]"]
 	},
 	{
 		"name": "Whisky",
 		"resourceType": "Luxury",
-		"uniques": ["[-5]% [Production] [in all cities]"]
+		"uniques": ["[-4]% [Production] [in all cities]"]
 	},
 	{
 		"name": "Vodka",
 		"resourceType": "Luxury",
-		"uniques": ["[-5]% [Production] [in all cities]"]
+		"uniques": ["[-4]% [Production] [in all cities]"]
 	},
 	{
 		"name": "Cognac",
 		"resourceType": "Luxury",
-		"uniques": ["[-5]% [Production] [in all cities]"]
+		"uniques": ["[-4]% [Production] [in all cities]"]
 	},
 	{
 		"name": "Sugar",
@@ -674,7 +674,3 @@
 					"Doesn't generate naturally <in [{Tundra} {Forest}] tiles>"]
 	}
 ]
-
-
-
-

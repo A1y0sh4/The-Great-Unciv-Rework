@@ -281,9 +281,9 @@
         "uniques": ["[+2 Culture, +1 Happiness] [in cities following this religion] <in cities with at least [1] [Specialists]>"]
     },
     {
-        "name": "Holy Expansion",
+        "name": "Holy Encounter",
         "type": "Follower",
-        "uniques": ["Gain control over [1] tiles [in this city] <upon expending a [Missionary] unit>"]
+        "uniques": ["Instantly gain [20] [Golden Age points] <upon expending a [Religious Unit] unit> <(modified by game speed)>"]
     },
     {
         "name": "Holy Warriors",
@@ -484,7 +484,7 @@
     {
         "name": "Stupor Mundi",
         "type": "Enhancer",
-        "uniques": ["Instantly gain [200] [Golden Age points] <upon discovering a Natural Wonder> <(modified by game speed)>", "[+4 Faith, +1 Happiness] for every known Natural Wonder"]
+        "uniques": ["Instantly gain [200] [Golden Age points] <upon discovering a Natural Wonder> <(modified by game speed)>", "[+3 Faith, +2 Happiness] for every known Natural Wonder"]
     },
     {
         "name": "Underground Action",
@@ -497,6 +497,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

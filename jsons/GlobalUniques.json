@@ -2,7 +2,6 @@
     "name": "Global uniques", 
     "uniques": [
 		"[-4]% Production when constructing [World Wonder] wonders [in all cities] <for every [[World Wonder] Buildings]>",
-		"[+4]% Production when constructing [World Wonder] wonders [in all cities]",
 		"[-1 Food] from every [Terrain] <if [Palace] is constructed>",
 		"[-1 Food] from every [Terrain] <for [Spectator] Civilizations>",
 		"Requires establishing embassies to conduct advanced diplomacy",
@@ -626,6 +625,7 @@
 	"Resting point for Influence with City-States is increased by [9] <when number of [[Thermonuclear Missile] Units] is equal to [1]>", "Resting point for Influence with City-States is increased by [18] <when number of [[Thermonuclear Missile] Units] is equal to [2]>","Resting point for Influence with City-States is increased by [21] <when number of [[Thermonuclear Missile] Units] is equal to [3]>","Resting point for Influence with City-States is increased by [36] <when number of [[Thermonuclear Missile] Units] is equal to [4]>","Resting point for Influence with City-States is increased by [45] <when number of [[Thermonuclear Missile] Units] is equal to [5]>", "Resting point for Influence with City-States is increased by [54] <when number of [[Thermonuclear Missile] Units] is equal to [6]>", "Resting point for Influence with City-States is increased by [63] <when number of [[Thermonuclear Missile] Units] is equal to [7]>", "Resting point for Influence with City-States is increased by [72] <when number of [[Thermonuclear Missile] Units] is equal to [8]>", "Resting point for Influence with City-States is increased by [81] <when number of [[Thermonuclear Missile] Units] is equal to [9]>", "Resting point for Influence with City-States is increased by [90] <when number of [[Thermonuclear Missile] Units] is more than [9]>",
     ]
 }
+
 
 
 

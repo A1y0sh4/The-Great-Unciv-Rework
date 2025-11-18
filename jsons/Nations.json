@@ -2318,8 +2318,9 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Dutch East India Company",
-		"uniqueText": "Suffer double Unhappiness from the number of cities\nGain +1 [Happiness], +1 [Gold] from every Lighthouse, Harbor and Seaport\nGain 50% of your [Happiness] value as [Gold] during a Golden Age",
-		"uniques": ["[50]% of excess happiness converted to [Gold] <during a Golden Age>", "[+1 Happiness, +1 Gold] from every [Lighthouse]", "[+1 Happiness, +1 Gold] from every [Harbor]", "[+1 Happiness, +1 Gold] from every [Seaport]", "[+100]% unhappiness from the number of cities"],
+		"uniqueText": "Suffer double Unhappiness from the number of cities\nGain +1 [Happiness], +1 [Gold] from every Lighthouse, Harbor and Seaport (double bonus during a Golden Age)\nGain 50% of your [Happiness] value as [Gold] during a Golden Age",
+		"uniques": ["[50]% of excess happiness converted to [Gold] <during a Golden Age>", "[+1 Happiness, +1 Gold] from every [Lighthouse]", "[+1 Happiness, +1 Gold] from every [Harbor]", "[+1 Happiness, +1 Gold] from every [Seaport]", "[+100]% unhappiness from the number of cities",
+		"[+1 Happiness, +1 Gold] from every [Lighthouse] <during a Golden Age>", "[+1 Happiness, +1 Gold] from every [Harbor] <during a Golden Age>", "[+1 Happiness, +1 Gold] from every [Seaport] <during a Golden Age>"],
 		"cities": ["Amsterdam","Rotterdam","Utrecht","Groningen","Breda","Nijimegen","Den Haag","Haarlem","Arnhem","Zutphen",
 			"Maastricht","Tilburg","Eindhoven","Dordrecht","Leiden","Hertogenbosch","Almere","Alkmaar","Brielle","Vlissingen",
 			"Apeldoorn","Nova Enschede","Sao Bernardo do Amersfoort","Zwolle","Venlo","Uden","Grave","Delft","Gouda","Nieuwstadt",

@@ -2387,10 +2387,13 @@
 		"innerColor": [219, 82, 21],
 		
 		"uniqueName": "Pearl of the Oriental Seas",
-		"uniqueText": "Suffer double Unhappiness from the number of cities\n+1 [Culture] in all cities per every 2 Coast tiles they have adjacent\nCoast tiles adjacent to City centers yield an additional +2 [Food], +2 [Production] during a Golden age",
+		"uniqueText": "Suffer double Unhappiness from the number of cities\n+1 [Culture] in all cities per every 2 Coast tiles they have adjacent (double bonus during a Golden Age)\nCoast tiles adjacent to City centers yield an additional +2 [Food], +2 [Production] during a Golden age",
 		"uniques": ["[+100]% unhappiness from the number of cities", "[+1 Culture] [in all cities] <with [2] to [3] neighboring [Coast] tiles>",
 		            "[+2 Culture] [in all cities] <with [4] to [5] neighboring [Coast] tiles>",
 		            "[+3 Culture] [in all cities] <with [6] to [6] neighboring [Coast] tiles>",
+			"[+1 Culture] [in all cities] <with [2] to [3] neighboring [Coast] tiles> <during a Golden Age>",
+		            "[+2 Culture] [in all cities] <with [4] to [5] neighboring [Coast] tiles> <during a Golden Age>",
+		            "[+3 Culture] [in all cities] <with [6] to [6] neighboring [Coast] tiles> <during a Golden Age>",
 		            "[+2 Food, +2 Production] from every [Coast] <within [1] tiles of a [City center]> <during a Golden Age>"],
 		"cities": ["Manila","Quezon City","Boracay","Cebú","Puerto Princesa","El Nido","Bohol","Davao","Baguio","Siargao","Corón","Tagaytay","Makati","Taguig","Dumaguete","Bacólod","Puerto Galera","Sagada","Laoag","Zamboanga","Caloocan","Cabanatuan","Iloilo","Malolos","Pasay","Mambajao","Nabunturan","Navotas","Cavite El Viejo","Pasig","Las Pinas","Biak-na-Bato","Jaro","Tarlac","Palanan","Bacolor"]
 		"spyNames": ["Jasmine", "Corazon", "Pedro", "Alejandro", "Remedios", "Marilyn", "Makisig", "Bayani", "Benigno", "Hernán"]

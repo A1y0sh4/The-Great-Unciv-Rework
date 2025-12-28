@@ -43,7 +43,7 @@
             {
                 "name": "Landed Elite",
                 "uniques": [
-			"[+2 Gold] [in all cities]"
+			"[+2 Gold] from every [City center]"
                 ],
                 "requires": ["Monarchy"],
                 "row": 2,

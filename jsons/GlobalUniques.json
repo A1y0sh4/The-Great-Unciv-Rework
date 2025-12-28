@@ -671,7 +671,7 @@
 	"[+125]% maintenance costs <for [Thermonuclear Missile] units>",
         "[+200]% maintenance costs <for [Giant Death Robot] units>",
         "Cities are razed [2] times as fast",
-	"Gain [15] Influence with a [Hoplite] gift to a City-State",
+	"Gain [10] Influence with a [Hoplite] gift to a City-State",
 		"[-5] HP when healing <for [Military] units> <when below [0] [Happiness]>", "[-15]% XP gained from combat <for [Military] units> <when below [0] [Happiness]>", "[+15]% maintenance costs <for [Military] units> <when below [0] [Happiness]>",
 	"Earn [5]% of the damage done to [Military] units as [Gold] <for [Scout] units>",
         "Earn [5]% of the damage done to [Military] units as [Gold] <for [Mounted] units>",
@@ -766,21 +766,3 @@
 		*/
     ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1328,7 +1328,7 @@
 		"uniqueTo": "Sweden",
 		"movement": 5,
 		"strength": 25,
-		"cost": 248,
+		"cost": 306,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"],

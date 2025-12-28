@@ -18,7 +18,7 @@
             {
                 "name": "Oligarchy",
                 "uniques": [
-                    "[Gold] cost of purchasing items in cities [-25]%"
+                    "[Gold] cost of purchasing items in cities [-15]%"
                 ],
                 "row": 1,
                 "column": 1

@@ -513,7 +513,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Military Tactics",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+15]% Strength <when adjacent to a [Hoplite] unit>", "Comment [Gain triple the normal amount of Influence when gifted to a City-State]", "No defensive terrain bonus"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+15]% Strength <when adjacent to a [Hoplite] unit>", "Comment [Gain double the normal amount of Influence when gifted to a City-State]", "No defensive terrain bonus"],
 		"attackSound": "metalhit"
 	},
 	{

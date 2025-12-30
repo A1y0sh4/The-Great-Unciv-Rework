@@ -277,8 +277,8 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Cultural Finesse",
-		"uniqueText": "Gain an additional +1 [Gold] and +1 [Science] per enacted policy every two eras you pass\nPolicies are adopted 10% faster\nSpies operate if they were one level more experienced when rigging elections in City-States (when espionage is enabled)\nResting point for Influence with City-States is increased by 10 (when espionage is disabled)",
-		"uniques": ["[-10]% Culture cost of adopting new Policies", "[+25]% spy effectiveness [in City-State cities]",
+		"uniqueText": "Gain an additional +1 [Gold] and +1 [Science] per enacted policy every two eras you pass\nPolicies are adopted 10% faster when above 10 [Happiness]\nSpies operate if they were one level more experienced when rigging elections in City-States (when espionage is enabled)\nResting point for Influence with City-States is increased by 10 (when espionage is disabled)",
+		"uniques": ["[-10]% Culture cost of adopting new Policies <when above [10] [Happiness]>", "[+25]% spy effectiveness [in City-State cities]",
 			"[+1 Science, +1 Gold] per [1] social policies adopted <during the [Classical era]>", 
 			"[+1 Science, +1 Gold] per [1] social policies adopted <during the [Medieval era]>", 
 			"[+2 Science, +2 Gold] per [1] social policies adopted <during the [Renaissance era]>", 

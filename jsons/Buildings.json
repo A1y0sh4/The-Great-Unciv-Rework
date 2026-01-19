@@ -1440,7 +1440,7 @@
 		"name": "Stock Exchange",
 		"specialistSlots": {"Merchant": 2},
 		"hurryCostModifier": 15,
-		"uniques": ["[+3 Gold] <for every [Remaining [Major] Civilizations]>", "[+1 Gold] <for every [Remaining [City-State] Civilizations]>", "Unavailable <for [Soviet Union] Civilizations> <hidden from users>"],
+		"uniques": ["[+2 Gold] <for every [Remaining [Major] Civilizations]>", "[+1 Gold] <for every [Remaining [City-State] Civilizations]>", "Unavailable <for [Soviet Union] Civilizations> <hidden from users>"],
 		"requiredBuilding": "Bank",
 		"requiredTech": "Urban Planning"
 	},
@@ -1581,7 +1581,7 @@
         {
 		"name": "Airport",
 		"requiredTech": "Flight",
-		"uniques": ["[+1]% [Gold] <for every [Remaining [All] Civilizations]>", "[+1]% [Culture] <for every [Remaining [All] Civilizations]>", "New [Air] units start with [15] XP [in this city]", "Provides [1] [Pollution]", "Destroyed when the city is captured"]
+		"uniques": ["[+1]% [Gold] <for every [Remaining [Major] Civilizations]>", "[+1]% [Culture] <for every [Remaining [Major] Civilizations]>", "New [Air] units start with [15] XP [in this city]", "Provides [1] [Pollution]", "Destroyed when the city is captured"]
 	},
 	{
 		"name": "Statue of Liberty",

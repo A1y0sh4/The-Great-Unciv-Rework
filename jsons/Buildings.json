@@ -1581,7 +1581,6 @@
         {
 		"name": "Airport",
 		"requiredTech": "Flight",
-			"maintenance": 4,
 		"uniques": ["[+3]% [Gold] <for every [Remaining [Major] Civilizations]>", "[+2]% [Culture] <for every [Remaining [Major] Civilizations]>", "New [Air] units start with [15] XP [in this city]", "Provides [1] [Pollution]", "Destroyed when the city is captured"]
 	},
 	{

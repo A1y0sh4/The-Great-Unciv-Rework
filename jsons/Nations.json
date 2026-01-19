@@ -246,8 +246,8 @@
 		
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Terra Australis",
-		"uniqueText": "Cities in costal tiles gain an additional +2 [Food] while inland cities gain -1 [Food]\nNatural Wonders give +1 [Happiness] and +1 [Culture] to all cities within 6 tiles of them",
-		"uniques": ["[+3 Food] [in all coastal cities]", "[-1 Food] [in all cities]", "[+1 Happiness, +1 Culture] [in all cities] <within [6] tiles of a [Natural Wonder]>"],
+		"uniqueText": "Cities in costal tiles gain an additional +2 [Food] while inland cities gain -1 [Food]\nNatural Wonders give +1 [Happiness] and +1 [Culture] to all cities within 6 tiles of them (double bonus after discovering [Astronomy])",
+		"uniques": ["[+3 Food] [in all coastal cities]", "[-1 Food] [in all cities]", "[+1 Happiness, +1 Culture] [in all cities] <within [6] tiles of a [Natural Wonder]>", "[+1 Happiness, +1 Culture] [in all cities] <within [6] tiles of a [Natural Wonder]> <after discovering [Astronomy]>"],
 		"cities": ["Canberra", "Sydney", "Perth", "Melbourne", "Brisbane", "Adelaide", "Darwin", "Hobart", "Wollongong", "Mackay", "Townsville", "Cairns", "Dampier", "Alice Springs", "Bathurst", "Queanbeyan", "Bundaberg", "Coffs Harbor", "Fremantle", "Gladstone", "Goulburn", "Hervey Bay", "Kalgoorlie"],
 		"spyNames": ["Nicole", "James", "Olivia", "Luke", "Zoe", "Jackson", "Holly", "Cody", "Paige", "Mitch"]
 	},

@@ -1581,7 +1581,8 @@
         {
 		"name": "Airport",
 		"requiredTech": "Flight",
-		"uniques": ["[+1]% [Gold] <for every [Remaining [Major] Civilizations]>", "[+1]% [Culture] <for every [Remaining [Major] Civilizations]>", "New [Air] units start with [15] XP [in this city]", "Provides [1] [Pollution]", "Destroyed when the city is captured"]
+			"maintenance": 4,
+		"uniques": ["[+3]% [Gold] <for every [Remaining [Major] Civilizations]>", "[+2]% [Culture] <for every [Remaining [Major] Civilizations]>", "New [Air] units start with [15] XP [in this city]", "Provides [1] [Pollution]", "Destroyed when the city is captured"]
 	},
 	{
 		"name": "Statue of Liberty",

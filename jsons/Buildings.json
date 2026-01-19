@@ -1876,8 +1876,7 @@
 		"culture": 4,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Merchant": 4},
-		"uniques": ["Only available <after adopting [Individualism]>", "[+2 Gold] from every specialist [in this city]", "[+5]% [Gold] [in this city] <for every [Remaining [Major] Civilizations]>",
-			"[+25]% Great Person generation [in this city]"],
+		"uniques": ["Only available <after adopting [Individualism]>", "[+2 Gold] from every specialist [in this city]", "[+5]% [Gold] [in this city] <for every [Remaining [Major] Civilizations]>"],
 		"quote": "'If history shows anything, it is that there's no better way to justify relations founded on violence, to make such relations seem moral, than by reframing them in the language of debt — above all, because it immediately makes it seem that it's the victim who's doing something wrong.' - David Graeber"
 	},
 	{

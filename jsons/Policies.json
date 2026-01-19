@@ -644,7 +644,7 @@
                 "name": "United Front",
                 "requires": ["Diplomatic Missions"],
                 "uniques": [
-                    "Resting point for Influence with City-States is increased by [25]", "[+25]% Strength <when fighting units from a Civilization with more Cities than you> <in [Friendly Land] tiles>",
+                    "Resting point for Influence with City-States is increased by [30]", "[+15]% Strength <when fighting units from a Civilization with more Cities than you>",
                 ],
                 "row": 3,
                 "column": 3

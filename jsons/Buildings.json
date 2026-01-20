@@ -1533,7 +1533,7 @@
 	{
 		"name": "Broadcast Tower",
 		"culture": 3,
-		"percentStatBonus": {"culture": 33},
+		"percentStatBonus": {"culture": 15},
 		"requiredBuilding": "Museum",
 		"maintenance": 4,
 		"requiredTech": "Radio",
@@ -1545,7 +1545,7 @@
 		"uniqueTo": "Soviet Union",
 		"cost": 329,
 		"culture": 3,
-		"percentStatBonus": {"culture": 33},
+		"percentStatBonus": {"culture": 15},
 		"maintenance": 4,
 		"uniques": ["[+1 Culture, +1 Happiness] per [6] social policies adopted", "Destroyed when the city is captured"],
 		"requiredTech": "Radio"

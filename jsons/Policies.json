@@ -359,8 +359,7 @@
             {
                 "name": "Mercantilism",
                 "uniques": [
-                    "[+1 Happiness] [in all cities connected to capital]",
-		    "[+1 Science] from all [Gold] buildings"
+                    "[+1 Happiness] [in all cities connected to capital]", "[+1 Science] from all [Gold] buildings", "[+1 Production, +1 Gold] [in all cities] <on foreign continents>"
                 ],
                 "row": 1,
                 "column": 2
@@ -368,7 +367,7 @@
             {
                 "name": "Free Trade",
                 "uniques": [
-                    "Retain [50]% of the happiness from a luxury after the last copy has been traded away", "[+1 Production, +1 Gold] [in all cities] <on foreign continents>"],
+                    "Retain [50]% of the happiness from a luxury after the last copy has been traded away"],
                 "row": 1,
                 "column": 4
             },

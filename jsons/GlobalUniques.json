@@ -3,6 +3,7 @@
     "uniques": [
 		"[-5]% Production when constructing [World Wonder] wonders [in all cities] <for every [[World Wonder] Buildings]>",
 		"[+2]% Production when constructing [Utopia Project] wonders [in all cities] <for every [[World Wonder] Buildings]>",
+		"[-25]% Gold cost of acquiring tiles [in all cities]",
 		"[-1 Food] from every [Terrain] <if [Palace] is constructed>",
 		"[-1 Food] from every [Terrain] <for [Spectator] Civilizations>",
 		"Requires establishing embassies to conduct advanced diplomacy",
@@ -786,6 +787,7 @@
 		*/
     ]
 }
+
 
 
 

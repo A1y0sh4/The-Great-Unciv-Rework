@@ -14,7 +14,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 35,
-		"uniques": ["Founds a new city <by consuming this unit> <within [4] tiles of a [City center]>", "Founds a new city <by consuming this unit> <on foreign continents>", "Excess Food converted to Production when under construction", "All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>",
+		"uniques": ["Founds a new city <by consuming this unit> <within [4] tiles of a [City center]>", "Founds a new puppet city <by consuming this unit> <on foreign continents>", "Excess Food converted to Production when under construction", "All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>",
 			"Requires at least [2] population", "Cost increases by [18] when built"],
 		"hurryCostModifier": 15
 	},
@@ -920,7 +920,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Founds a new city <on foreign continents> <once> <for [1] movement>", "[+1] Sight"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Founds a new puppet city <on foreign continents> <once> <for [1] movement>", "[+1] Sight"],
 		"promotions": ["[Conquistador] ability", "Mercenary"],
 		"attackSound": "horse"
 	},
@@ -1379,7 +1379,7 @@
 		"obsoleteTech": "Military Science",
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>", "Founds a new city <once> <for [1] movement>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>", "Founds a new puppet city <once> <for [1] movement> <within [8] tiles of a [City center]>"],
 		"promotions": ["[Cossack] ability", "Mercenary"],
 		"attackSound": "horse"
 	},
@@ -2202,7 +2202,7 @@
 		"name": "Great General",
 		"unitType": "Civilian",
 		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles", "Can instantly construct a [Citadel] improvement <by consuming this unit>", "Comment [Gets transfered Movement from escorting unit]",
-			"Great Person - [War]", "Unbuildable", "Uncapturable", "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence <for [Kievan Rus'] Civilizations> <hidden from users>", "Founds a new puppet city <once> <for [1] movement> <for [Macedonia] Civilizations> <hidden from users>"],
+			"Great Person - [War]", "Unbuildable", "Uncapturable", "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence <for [Kievan Rus'] Civilizations> <hidden from users>", "Founds a new puppet city <once> <for [1] movement> <within [4] tiles of a [City center]> <for [Macedonia] Civilizations> <hidden from users>"],
 		"movement": 2
 	},
 	{

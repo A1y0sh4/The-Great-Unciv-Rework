@@ -14,7 +14,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 35,
-		"uniques": ["Founds a new city <by consuming this unit> <within [2] tiles of a [your]>", "Founds a new city <by consuming this unit> <on foreign continents>", "Excess Food converted to Production when under construction", "All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>",
+		"uniques": ["Founds a new city <by consuming this unit> <within [3] tiles of a [City center]>", "Founds a new city <by consuming this unit> <on foreign continents>", "Excess Food converted to Production when under construction", "All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>",
 			"Requires at least [2] population", "Cost increases by [18] when built"],
 		"hurryCostModifier": 15
 	},

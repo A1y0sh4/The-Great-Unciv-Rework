@@ -408,6 +408,7 @@
 		"name": "Nautical School",
 		"replaces": "Harbor",
 		"uniqueTo": "Portugal",
+		"cost": 61,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Lighthouse",
 		"production": 1,

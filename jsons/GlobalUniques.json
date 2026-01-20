@@ -377,6 +377,7 @@
 	"Sell [Oil Plant] buildings [in all cities] <upon turn end> <with [5]% chance> <when above [500] [Pollution]>",
 	"Sell [Factory] buildings [in all cities] <upon turn end> <with [5]% chance> <when above [500] [Pollution]>",
 		"Gain a free [Recycling Center] [in all cities] <upon turn end> <with [5]% chance> <when above [1000] [Pollution]> <after discovering [Ecology]>",
+		"Gain a free [Nuclear Plant] [in all cities] <upon turn end> <with [5]% chance> <when above [1000] [Pollution]> <after discovering [Nuclear Fission]>",
 	"[-1]% Yield from every [Building] <when below [-10] [Happiness]>",
 	"[-1] Happiness from each type of luxury resource",
 	"[+1 Culture] from every [Ancient ruins]",
@@ -788,6 +789,7 @@
 		*/
     ]
 }
+
 
 
 

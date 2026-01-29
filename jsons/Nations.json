@@ -3566,8 +3566,8 @@
 		"cities": ["Preslav"]
 	},
 	{
-		"name": "Tlaxcala",
-		"adjective": ["Tlaxcallan"],
+		"name": "Mitla",
+		"adjective": ["Zapotec"],
 		"cityStateType": "Militaristic",
 		"startBias": ["Jungle"],
 
@@ -3576,7 +3576,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [184,12,31],
-		"cities": ["Tlaxcala"]
+		"cities": ["Mitla"]
 	},
 	{
 		"name": "Mwibele",

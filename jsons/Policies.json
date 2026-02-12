@@ -387,7 +387,7 @@
             },
             {
                 "name": "Market Economy",
-                "uniques": ["[-50]% maintenance cost for [all] buildings [in all cities]"],
+                "uniques": ["[50]% of excess happiness converted to [Gold]"],
                 "requires": ["Free Market"],
                 "row": 3,
                 "column": 4

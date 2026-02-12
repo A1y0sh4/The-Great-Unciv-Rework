@@ -206,7 +206,7 @@
 		"name": "Library",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [2] population [in this city] <after discovering [Mathematics]>"],
+		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Mathematics]>"],
 		"requiredTech": "Writing"
 	},
 	{
@@ -216,7 +216,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 0,
 		"culture": 1,
-		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [2] population [in this city] <after discovering [Mathematics]>", "[+1 Production, +1 Gold] <in [River] tiles>"],
+		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Mathematics]>", "[+1 Production, +1 Gold] <in [River] tiles>"],
 		"requiredTech": "Writing"
 	},
 	{
@@ -1391,7 +1391,7 @@
 		"requiredBuilding": "University",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
-		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [2] population [in this city] <after discovering [Biology]>"],
+		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Biology]>"],
 		"requiredTech": "Scientific Theory"
 	},
 	{

@@ -17,7 +17,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
 - Its been added 6 new resources: 3 Bonus (Grapes, Maize, Rice) and 8 Luxuries (Amber, Cocoa, Coffee, Obsidian, Olive, Poppy, Tea, Tobacco) with the addition of 5 Alcohol-related Luxuries (Beer, Vodka, Whisky, Rum, Cognac) 
 
-- Its been added 6 new alcohol buildings that grant alcohol luxuries (France and the Celts also have new Unique Buildings) 
+- Its been added 6 new alcohol buildings that grant alcohol luxuries (France and the Celts also have new Unique Buildings). Also, for every type of Alcohol luxuries you own, you will suffer from a -5% Production malus; Alcohol is intended to be an "emergency" source of happiness, very useful for early game military runs
 
 - It's been added new Natural Wonders (and now all Natural Wonders give their yields without having to be worked)
 
@@ -48,7 +48,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
  
 # Main War-related changes
   
-- Considering the fact that mainteining an army will be a serious investment, the early game will see a decline in snow-balling battles and the late one will witness to a lower number of wars founded merely on the strenght's number. Now the battlefield won't just host bloody conflicts based on the scientifical/industrious levels of the two opponents, but also a major one about their economical situations.
+- Considering the fact that mainteining an army will be a serious investment, the early game will see a decline in snow-balling battles and the late one will witness a lower number of wars founded merely on the strenght's number. Now the battlefield won't just host bloody conflicts based on the scientifical/industrious levels of the two opponents, but also a major one about their economical situations.
 
 - Army Upkeep raises by +5% each time you get into the next era (up to +35%)
 
@@ -62,9 +62,9 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
  
  - Most upgrade-chains have been reworked, mainly in order to avoid to keep passing from a UnitType to Another (ex: Pikemans do not upgrade to Lancer, but to Musketman; Lancer are upgraded from Knights)
  
- - Scouts have been reworked: now they have both a pecultiar XP and upgradable tree
+ - Scouts have been reworked: now they have both a unique XP and upgradable tree
  
- - Most late-game units have received a required resource (especially Siege units in order to avoid making Iron useless in later eras)
+ - Most late-game units require now a resource (especially Siege units, so to avoid making Iron useless in later eras)
  
  - Ranged Mounted units now have 1 Range, higher Strengh, and count as Mounted units (instead of ranged ones, this means that they have a malus against anti-cavalry units)
  

@@ -965,10 +965,10 @@
 		"name": "University",
 		"maintenance": 2,
 		"hurryCostModifier": 15,
-		"percentStatBonus": {"science": 25},
+		"percentStatBonus": {"science": 30},
 		"specialistSlots": {"Scientist": 1},
 		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[+25]% [Science] [in this city] <after discovering [Printing Press]>"],
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[+20]% [Science] [in this city] <after discovering [Printing Press]>"],
 		"requiredTech": "Education"
 	},
 	{
@@ -1597,7 +1597,7 @@
 	{
 		"name": "Research Lab",
 		"science": 8,
-		"percentStatBonus": {"science": 50},
+		"percentStatBonus": {"science": 100},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Public School",
 		"uniques": ["[+50]% [Science] [in this city] <after discovering [Atomic Theory]>"],

@@ -2251,7 +2251,7 @@
 		"innerColor": [77,2,4],
 		
 		"uniqueName": "Scourge of God",
-		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "[+25]% Yield from pillaging tiles", "[+25]% Health from pillaging tiles"],
+		"uniques": ["Receive [+100]% Gold from Barbarian encampments and pillaging Cities", "[+25]% Yield from pillaging tiles", "[+25]% Health from pillaging tiles"],
 		"cities": ["Etzelburg", "Szeged", "Esztergom", "Buda", "Pécs", "Eger", "Székesfehérvár", "Győr", "Kőszeg", "Diósgyőr", "Mohács", "Tata", "Kecskemét", "Szombathely", "Sárvár", "Sopron", "Hódmezővásárhely", "Sümeg"],
 		"spyNames": ["Balamber", "Uldin", "Donatus", "Charato", "Octar", "Bleda", "Ellac", "Dengizik", "Hildico", "Gudrun"]
 	},

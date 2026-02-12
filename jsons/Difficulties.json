@@ -213,7 +213,7 @@
 		"buildingCostModifier": 1,
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
-		"barbarianBonus": 0.0,
+		"barbarianBonus": 0.5,
 		"barbarianSpawnDelay": 0,
 		"playerBonusStartingUnits": [],
 		"aiCityGrowthModifier": 0.75,
@@ -232,3 +232,4 @@
 		"clearBarbarianCampReward": 32
 	}
 ]
+

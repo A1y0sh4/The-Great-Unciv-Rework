@@ -968,7 +968,7 @@
 		"percentStatBonus": {"science": 25},
 		"specialistSlots": {"Scientist": 1},
 		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[+25]% [Science] <after discovering [Printing Press]>"],
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[+25]% [Science] [in this city] <after discovering [Printing Press]>"],
 		"requiredTech": "Education"
 	},
 	{
@@ -1597,10 +1597,10 @@
 	{
 		"name": "Research Lab",
 		"science": 8,
-		"percentStatBonus": {"science": 25},
+		"percentStatBonus": {"science": 50},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Public School",
-		"uniques": ["[+25]% [Science] <after discovering [Atomic Theory]>"],
+		"uniques": ["[+50]% [in this city] [Science] <after discovering [Atomic Theory]>"],
 		"maintenance": 4,
 		"requiredTech": "Plastics"
 	},
@@ -1621,7 +1621,7 @@
 	{
 		"name": "Medical Lab",
 		"requiredBuilding": "Hospital",
-		"percentStatBonus": {"food": 20, "science": 20},
+		"percentStatBonus": {"food": 15, "science": 15},
 		"food": 4,
 		"science": 4,
 		"maintenance": 4,

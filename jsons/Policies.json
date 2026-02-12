@@ -490,7 +490,7 @@
             },
             {
                 "name": "Universal Suffrage",
-                "uniques": ["[-25]% Food consumption by specialists [in all cities]", "[+25]% Great Person generation [in all cities]"],
+                "uniques": ["[-25]% Food consumption by [Specialists] [in all cities]", "[+25]% Great Person generation [in all cities]"],
 		"requires": ["Constitution", "Civil Society"],
                 "row": 2,
                 "column": 4

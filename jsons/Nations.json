@@ -3937,6 +3937,6 @@
 		"outerColor": [0,0,0],
 		"innerColor": [183, 12, 12],
 		"uniqueText": "Military units can only heal by pillaging, but heal 25 HP if they kill a unit and they don't consume any movement to pillage",
-		"uniques": ["[Military] units gain the [Barbarian Unique] promotion", "[+28] Unit Supply"]
+		"uniques": ["[Military] units gain the [Barbarian Unique] promotion", "[Spec Ops] units gain the [Survivalism II] promotion", "[+28] Unit Supply"]
 	}
 	]

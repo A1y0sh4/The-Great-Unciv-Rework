@@ -1600,7 +1600,7 @@
 		"percentStatBonus": {"science": 50},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Public School",
-		"uniques": ["[+50]% [in this city] [Science] <after discovering [Atomic Theory]>"],
+		"uniques": ["[+50]% [Science] [in this city] <after discovering [Atomic Theory]>"],
 		"maintenance": 4,
 		"requiredTech": "Plastics"
 	},

@@ -583,7 +583,7 @@
 				"name": "Plastics",
 				"row": 2,
 				"prerequisites": ["Radio","Replaceable Parts","Refrigeration","Financial Capital"],
-				"uniques": ["[+200]% weight to this choice for AI decisions <hidden from users>"],
+				"uniques": ["[+300]% weight to this choice for AI decisions <hidden from users>"],
 				"quote": "'Ben, I want to say one word to you, just one word: plastics.' - Buck Henry and Calder Willingham, The Graduate"
 			},
 			{
@@ -640,7 +640,7 @@
 				"name": "Ecology",
 				"row": 3,
 				"prerequisites": ["Plastics","Sociology","Electronics"],
-				"uniques": ["[+3 Culture] from every [Natural Wonder]", "[+200]% weight to this choice for AI decisions <hidden from users>"],
+				"uniques": ["[+3 Culture] from every [Natural Wonder]", "[+300]% weight to this choice for AI decisions <hidden from users>"],
 				"quote": "'Only within the moment of time represented by the present century has one species, man, acquired significant power to alter the nature of his world.' - Rachel Carson"
 			},
 			{
@@ -691,7 +691,7 @@
 				"name": "Environmentalism",
 				"row": 3,
 				"prerequisites": ["Atomic Theory","Pharmaceuticals","Ecology"], 
-				"uniques": ["[+200]% weight to this choice for AI decisions <hidden from users>"],
+				"uniques": ["[+300]% weight to this choice for AI decisions <hidden from users>"],
 				"quote": "'What we are doing to the forests of the world is but a mirror reflection of what we are doing to ourselves.' - Mahatma Gandhi"
 			},
 			{
@@ -840,6 +840,7 @@
 		]
 	}
 ]
+
 
 
 

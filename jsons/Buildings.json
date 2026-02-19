@@ -473,7 +473,7 @@
 		"hurryCostModifier": 50,
 		"uniques": ["Removes extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>", "[+1] population [in this city] <for [The Ottomans] Civilizations> <hidden from users>",
-		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [3] [Population]>"],
 		"requiredTech": "Mathematics"
 	},
         {

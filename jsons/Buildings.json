@@ -141,7 +141,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"uniques": ["[+1 Food] from [Camp] tiles [in this city]",
-		"Only available <in cities with at least [2] [Population]>"],
+		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Trapping",
 		"quote": "'It is not so much for its beauty that the forest makes a claim upon men's hearts, as for that subtle something, that quality of air, that emanation from old trees, that so wonderfully changes and renews a weary spirit.' - Robert Louis Stevenson",
 	},
@@ -154,7 +154,7 @@
 		"isWonder": true,
 		"requiredTech": "Calendar",
 		"uniques": ["Must be on [Fresh Water]", "[+1 Food] from [Farm] tiles [in this city] <in [Fresh Water] tiles>", "[+1 Food] from [Plantation] tiles [in this city] <in [Fresh Water] tiles>", "[+15]% growth [in this city]",
-		"Only available <in cities with at least [2] [Population]>"],
+		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
 		"quote": "'I think that if ever a mortal heard the word of God it would be in a garden at the cool of the day.' - F. Frankfort Moore",
 	},
 	// Column 2
@@ -165,7 +165,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"uniques": ["[+1 Production] from [Quarry] tiles [in this city]",
-		"Only available <in cities with at least [2] [Population]>"],
+		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Masonry"
 	},
 	{
@@ -174,7 +174,7 @@
 		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Wheat","Maize","Rice"],
 		 "uniques": ["Provides [1] [Beer]",
-		 "Only available <in cities with at least [3] [Population]>"],
+		 "Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Fermentation"
 	},
 	{
@@ -186,7 +186,7 @@
 		"happiness": 1,
 		"requiredNearbyImprovedResources": ["Wheat","Maize","Rice"],
 		 "uniques": ["Provides [1] [Beer]", "[+1 Culture] <for every [Beer]>",
-		 "Only available <in cities with at least [3] [Population]>"],
+		 "Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Fermentation"
 	},
 	{
@@ -195,7 +195,7 @@
 		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Grape"],
 		 "uniques": ["Provides [1] [Wine]",
-		 "Only available <in cities with at least [3] [Population]>"],
+		 "Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Fermentation"
 	},
 	{
@@ -206,7 +206,7 @@
 		"maintenance": 1,
 		"requiredNearbyImprovedResources": ["Grape"],
 		 "uniques": ["Provides [2] [Wine]", "[+1 Culture, +1 Faith] from [Grape] tiles [in this city]",
-		 "Only available <in cities with at least [3] [Population]>"],
+		 "Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Fermentation"
 	},
 	{
@@ -214,7 +214,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Mathematics]>",
-		"Only available <in cities with at least [2] [Population]>"],
+		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Writing"
 	},
 	{
@@ -225,7 +225,7 @@
 		"maintenance": 0,
 		"culture": 1,
 		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Mathematics]>", "[+1 Production, +1 Gold] <in [River] tiles>",
-		"Only available <in cities with at least [2] [Population]>"],
+		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Writing"
 	},
 	{
@@ -236,7 +236,7 @@
 		"isWonder": true,
 		"requiredTech": "Writing",
 		"uniques": ["Must be next to [Water]", "Free Technology", "Gain a free [Library] [in this city]",
-		"Only available <in cities with at least [2] [Population]>"],
+		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
 		"quote": "'Libraries are as the shrine where all the relics of the ancient saints, full of true virtue, and all that without delusion or imposture are preserved and reposed.' - Sir Francis Bacon"
 	},
 	{
@@ -244,7 +244,7 @@
 		"requiredNearbyImprovedResources": ["Ivory","Horses"],
 		"happiness": 2,
 		"maintenance": 1,
-		"uniques": ["Only available <in cities with at least [2] [Population]>"],
+		"uniques": ["Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Trapping"
 	},
@@ -257,7 +257,7 @@
 		"culture": 1,
 		"maintenance": 1,
 		"uniques": ["[+50]% Great Person generation [in this city] <during a Golden Age>",
-		"Only available <in cities with at least [2] [Population]>"],
+		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Trapping"
 	},
@@ -269,7 +269,7 @@
 	        "maintenance": 0,
 		"hurryCostModifier": 25,
 		"uniques": ["Must have an owned [Forest] within [2] tiles", "[+1 Food, +1 Gold] from [Forest] tiles [in this city]",
-		"Only available <in cities with at least [2] [Population]>"],
+		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Trapping"
 	},
 	{
@@ -279,7 +279,7 @@
 		"production": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["Must be on [River]",
-		"Only available <in cities with at least [2] [Population]>"],
+		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "The Wheel"
 	},
 	{
@@ -289,7 +289,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["Must be on [Fresh Water]", "[+1 Food] from [Fresh Water] tiles [in this city]",
-		"Only available <in cities with at least [2] [Population]>"],
+		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "The Wheel"
 	},
 	{
@@ -302,7 +302,7 @@
 		"production": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Food] <in [Fresh Water] tiles>",
-		"Only available <in cities with at least [2] [Population]>"],
+		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "The Wheel"
 	},
 	{
@@ -312,7 +312,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured", "Unbuildable <after discovering [Rifling]> <hidden from users>", "Cannot be purchased <after discovering [Rifling]> <hidden from users>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>",
-		"Only available <in cities with at least [2] [Population]>"]
+		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"]
 	},
 	{
 		"name": "Walls of Babylon",
@@ -325,7 +325,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured", "Unbuildable <after discovering [Rifling]> <hidden from users>", "Cannot be purchased <after discovering [Rifling]> <hidden from users>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>",
-		"Only available <in cities with at least [2] [Population]>"]
+		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"]
 	},
 	{
 		"name": "Tsikhe",
@@ -337,7 +337,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured", "Unbuildable <after discovering [Rifling]> <hidden from users>", "Cannot be purchased <after discovering [Rifling]> <hidden from users>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>",
-		"Only available <in cities with at least [2] [Population]>"]
+		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"]
 	},
         {
 		"name": "Great Wall",
@@ -346,7 +346,8 @@
 		"cityHealth": 10,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["Enemy [Mounted] units must spend [2] extra movement points when inside your territory", "Provides a [Walls] in your first [4] cities for free", "[+1 Culture] from every [Walls]"],
+		"uniques": ["Enemy [Mounted] units must spend [2] extra movement points when inside your territory", "Provides a [Walls] in your first [4] cities for free", "[+1 Culture] from every [Walls]",
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Construction",
 		"quote": "'The art of war teaches us to rely not on the likelihood of the enemy's not attacking, but rather on the fact that we have made our position unassailable.' - Sun Tzu"
 	},
@@ -354,7 +355,8 @@
 		"name": "Barracks",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["New [{Land} {Military}] units start with [15] XP [in this city]", "[+1] Unit Supply", "Destroyed when the city is captured", "Only available <in cities with at least [2] [Population]>"],
+		"uniques": ["New [{Land} {Military}] units start with [15] XP [in this city]", "[+1] Unit Supply", "Destroyed when the city is captured",
+			"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Bronze Working"
 	},
 	{
@@ -367,7 +369,7 @@
 		"maintenance": 1,
 		"uniques": ["[-25]% Culture cost of natural border growth [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]",
 			"New [{Land} {Military}] units start with [15] XP [in this city]", "[+1] Unit Supply", "Destroyed when the city is captured",
-		"Only available <in cities with at least [2] [Population]>"],
+		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Bronze Working"
 	},
 	{
@@ -376,7 +378,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"uniques": ["[+15]% Strength <for [Military] units> <vs cities>", "Gain a free [Barracks] [in this city]", "[1] free [Spearman] units appear", "[+15]% Production when constructing [Military] units [in this city]",
-		"Only available <in cities with at least [2] [Population]>"],
+		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Bronze Working",
 		"quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad",
 	},
@@ -389,7 +391,7 @@
 		"hurryCostModifier": 25,
 		"food": 1,
 		"uniques": ["Must be next to [Water]", "[+1 Food] from [Water] tiles [in this city]",
-		"Only available <in cities with at least [2] [Population]>"],
+		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Optics"
 	},
 	{
@@ -400,7 +402,7 @@
 		"cost": 28,
 		"food": 1,
 		"uniques": ["[+1 Food] from [Water] tiles [in this city]", "[+1 Gold] <in [River] tiles>", "[+1 Gold] <in [Coastal] tiles>",
-		"Only available <in cities with at least [2] [Population]>"],
+		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Optics"
 	},
 	{
@@ -410,7 +412,7 @@
 		"isWonder": true,
 		"uniques": ["Must be next to [Water]", "[+1] Movement <for [All] units> <in [Water] tiles>",
 			"[+1] Sight <for [All] units> <in [Water] tiles>", "Gain a free [Lighthouse] [in this city]", "[+10]% [Food] [in this city]",
-		"Only available <in cities with at least [2] [Population]>"],
+		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Optics",
 		"quote": "'They that go down to the sea in ships, that do business in great waters; these see the works of the Lord, and his wonders in the deep.' - The Bible, Psalms 107:23-24"
 	},
@@ -422,7 +424,7 @@
 		"greatPersonPoints": {"Great Merchant": 1},
 		"uniques": ["[+1 Production] from [Fishing Boats] tiles [in this city]",
 			"Connects trade routes over water", "Must be next to [Water]", "New [{Water} {Military}] units start with [15] XP [in this city]",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Shipbuilding"
 	},
 	{
@@ -437,7 +439,7 @@
 		"greatPersonPoints": {"Great Merchant": 2},
 		"uniques": ["[+1 Production] from [Fishing Boats] tiles [in this city]", "[+1 Science] from [Coast] tiles [in this city]",
 			"Must be next to [Water]", "Connects trade routes over water", "New [{Water} {Military}] units start with [15] XP [in this city]",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Shipbuilding"
 	},
 	{
@@ -448,7 +450,7 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Production] from [Pasture] tiles [in this city]",
 		        "Unsellable", "Provides [1] [Horses] <for [Mongolia] Civilizations> <hidden from users>",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Horseback Riding"
 	},
 	{
@@ -462,7 +464,7 @@
 		"uniques": ["[+1 Production] from [Pasture] tiles [in this city]",
 			"[+1 Food] from [Pasture] tiles [in this city]",
 		        "Unsellable", "Provides [1] [Horses] <for [Mongolia] Civilizations> <hidden from users>",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Horseback Riding"
 	},
 	{
@@ -471,7 +473,7 @@
 		"hurryCostModifier": 50,
 		"uniques": ["Removes extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>", "[+1] population [in this city] <for [The Ottomans] Civilizations> <hidden from users>",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Mathematics"
 	},
         {
@@ -481,7 +483,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 0,
 		"uniques": ["[+1 Gold] per [4] population [in this city] <during We Love The King Day>", "[-25]% Unhappiness from [Population] [in this city] <during We Love The King Day>", "[+1] population [in this city] <for [The Ottomans] Civilizations> <hidden from users>",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Mathematics"
 	},
 	{
@@ -489,7 +491,7 @@
 		"maintenance": 1,
 		"happiness": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["Only available <in cities with at least [3] [Population]>"],
+		"uniques": ["Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Imperial Games"
 	},
         {
@@ -500,7 +502,7 @@
 		"happiness": 2,
 		"uniqueTo": "Kievan Rus'",
 		"uniques": ["[+15]% [Gold] [in this city] <during We Love The King Day>",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredTech": "Imperial Games"
@@ -512,7 +514,7 @@
 		"happiness": 2,
 		"culture": 1,
 		"uniques": ["[+1 Happiness, +3 Faith] <when at war> <hidden from users>", "Comment [+3 [Faith], +1 [Happiness] when at war]", "Comment [Can be purchased with [Faith]]",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredTech": "Imperial Games"
@@ -524,13 +526,13 @@
 		"happiness": 3,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "[-25]% Unhappiness from [Population] [in this city]", "Cost increases by [25] per owned city",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Imperial Games"
 	},
         {
 		"name": "Garden",
 		"uniques": ["[+25]% Great Person generation [in this city]", "[-25]% Food consumption by [Specialists] [in this city]", "Must be next to [Fresh water]",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredTech": "Philosophy"
@@ -543,7 +545,7 @@
 		"culture": 1,
 		"maintenance": 1,
 		"uniques": ["[+25]% Great Person generation [in this city]", "[-25]% Food consumption by [Specialists] [in this city]", "Must be next to [Fresh water]", "Gain control over [Mountain] tiles in a [3]-tile radius", "[+1 Science] from [Mountain] tiles [in this city]",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Philosophy"
 	},
         {
@@ -556,7 +558,7 @@
 		"culture": 1,
 		"maintenance": 2,
 		"uniques": ["[+25]% Great Person generation [in this city]", "[-25]% Food consumption by [Specialists] [in this city]",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Philosophy"
 	},
 	{
@@ -584,7 +586,7 @@
 			"Gain [2500] [Culture] <during the [Atomic era]> <(modified by game speed)> <hidden from users>",
 			"Gain [5590] [Culture] <during the [Information era]> <(modified by game speed)> <hidden from users>",
 			"Gain [12500] [Culture] <during the [Future era]> <(modified by game speed)> <hidden from users>",
-			"Only available <in cities with at least [3] [Population]>"
+			"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"
 		],
 		"quote": "'Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.' - Sun Tzu",
 	},
@@ -596,7 +598,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Spirituality",
 		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured",
-		"Only available <in cities with at least [3] [Population]>"]
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"]
 	},
 	{
 		"name": "Burial Tomb",
@@ -604,7 +606,7 @@
 		"uniqueTo": "Egypt",
 		"maintenance": 1,
 		"uniques": ["Only available <when religion is enabled>", "[+15]% Production when constructing [All] wonders [in this city]", "Destroyed when the city is captured",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"faith": 2,
 		"culture": 1,
 		"hurryCostModifier": 25,
@@ -618,7 +620,7 @@
 		"maintenance": 0,
 		"hurryCostModifier": 25,
 		"uniques": ["Only available <when religion is enabled>", "[+1 Faith] from every specialist [in this city]", "Destroyed when the city is captured",
-		"Only available <in cities with at least [3] [Population]>"]
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"]
 		"faith": 2,
 		"requiredTech": "Spirituality"
 	},
@@ -637,7 +639,7 @@
 			    "[+1 Culture] <after discovering [Archaeology]>",
 			    "[+1 Culture] <after discovering [Flight]>",
 			    "Only available <when religion is enabled>",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 	},
 {
 		"name": "Chichen Itza",
@@ -646,7 +648,7 @@
 		"greatPersonPoints": {"Great Engineer": 2},
 		"isWonder": true,
 		"uniques": ["Must be next to [Jungle]", "[+50]% Golden Age length", "[+1 Culture] from [Jungle] tiles [in this city]", "Gain a free [Temple] [in this city] <when religion is enabled>",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Spirituality",
 		"quote": "'The katun is established at Chichen Itza. The settlement of the Itza shall take place there. The quetzal shall come, the green bird shall come. Ah Kantenal shall come. It is the word of God. The Itza shall come.' - The Books of Chilam Balam"
 	},
@@ -657,7 +659,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"uniques": ["Must have an owned [Rare feature] within [1] tiles", "[+1 Food] from every [Rare feature]", "Gain a free [Colosseum] [in this city]",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Spirituality",
 		"quote": "'But the wrath of Huitzilopochtli was great, and as the sacrifice passed each of the four rooms dedicated to the sun god, the sun disappeared or reappeared in the sky.' - Fray Diego Durán"
 	},
@@ -670,7 +672,7 @@
 		"isNationalWonder": true,
 		"percentStatBonus": {"science": 25},
 		"uniques": ["Only available <if [Library] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [25] per owned city",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Philosophy"
 	},
 	{
@@ -679,7 +681,7 @@
 		"greatPersonPoints": {"Great Scientist": 2},
 		"isWonder": true,
 		"uniques": ["Free Great Person", "[+25]% Great Person generation [in all cities]", "Must be next to [Mountain]",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Philosophy",
 		"quote": "'The ancient Oracle said that I was the wisest of all the Greeks. It is because I alone, of all the Greeks, know that I know nothing' - Socrates"
 	},
@@ -691,7 +693,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["Destroyed when the city is captured",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Drama and Poetry"
 	},
         {
@@ -705,7 +707,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["Resting point for Influence with City-States is increased by [5] <when not at war>", "[+1 Culture, +2 Science] <in [Hill] tiles>", "Destroyed when the city is captured",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{
@@ -718,7 +720,7 @@
 		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 25,
 		"uniques": ["Gain control over [Jungle] tiles in a [3]-tile radius", "[+1 Culture] from [Jungle] tiles [in this city]", "Gain control over [Marsh] tiles in a [3]-tile radius", "[+1 Culture] from [Marsh] tiles [in this city]", "Destroyed when the city is captured",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{
@@ -728,7 +730,7 @@
 		"greatPersonPoints": {"Great Artist": 2},
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Cost increases by [25] per owned city",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{
@@ -737,7 +739,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["Must be on [Hill]", "Empire enters golden age", "Resting point for Influence with City-States is increased by [10]", "Gain a free [Amphitheater] [in this city]",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Drama and Poetry",
 		"quote": "'Earth proudly wears the Parthenon as the best gem upon her zone.' - Ralph Waldo Emerson"
 	},
@@ -746,7 +748,7 @@
 		"specialistSlots": {"Merchant": 1}, 
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Gold] from [Resource] tiles [in this city]",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Currency"
 	},
 	{
@@ -757,7 +759,7 @@
 		"hurryCostModifier": 25,
 		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
 			"[+1 Gold] from [Resource] tiles [in this city]", "[+25]% [Science] from Trade Routes", "[+25]% [Faith] from Trade Routes",
-		"Only available <in cities with at least [3] [Population]>"], 
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"], 
 		"requiredTech": "Currency"
 	},
 	{
@@ -767,7 +769,7 @@
 		"specialistSlots": {"Merchant": 1},
 		"happiness": 2,
 		"uniques": ["[+1 Gold] from [Resource] tiles [in this city]", "[+2 Culture] <during a Golden Age>",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Currency"
 	},
@@ -779,7 +781,7 @@
 		"greatPersonPoints": {"Great Merchant": 2},
 		"cityHealth": 25,
 		"uniques": ["[+1 Gold] from [Resource] tiles [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]", "[+1 Culture] <in cities with at least [1] [Merchant]>",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Currency"
 	},
@@ -790,7 +792,7 @@
 		"greatPersonPoints": {"Great Merchant": 1},
 		"percentStatBonus": {"gold": 10},
 		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Currency"
 	},
 	{ 
@@ -799,7 +801,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Merchant": 2},
 		"uniques": ["Must be on [Hill]", "Gain a free [Market] [in this city]", "Gain a free [Walls] [in this city]", "Provides 1 extra copy of each improved luxury resource near this City",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Currency",
 		"quote": "'Among the gold mines of the inland plains between the Limpopo and Zambezi rivers there is a fortress built of stones of marvelous size, and there appears to be no mortar joining them ... This edifice is almost surrounded by hills, upon which are others resembling it in the fashioning of stone and the absence of mortar, and one of them is a tower more than 12 fathoms high.\nThe natives of the country call these edifices Symbaoe, which according to their language signifies court.' - Vicente Pegado"
 	},
@@ -810,7 +812,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"uniques": ["Must have an owned [Desert] within [1] tiles", "[+1 Production, +1 Gold] from [Desert] tiles without [Flood plains] [in this city]", "[+6 Culture] [in this city] <after discovering [Archaeology]>",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Horseback Riding",
 		"quote": "'...who drinks the water I shall give him, says the Lord, will have a spring inside him welling up for eternal life. Let them bring me to your holy mountain in the place where you dwell. Across the desert and through the mountain to the Canyon of the Crescent Moon...' - Indiana Jones"
 	},
@@ -821,7 +823,7 @@
 		"greatPersonPoints": {"Great Merchant": 2},
 		"isWonder": true,
 		"uniques": ["Gain [100] [Gold] <(modified by game speed)>", "Gain [100] [Gold] <upon expending a [Great Person] unit> <(modified by game speed)>", "Must be next to [Water]",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Mathematics",
 		"quote": "'The whole earth is the tomb of heroic men and their story is not given only on stone over their clay but abides everywhere without visible symbol woven into the stuff of other men's lives.' - Pericles"
 	},
@@ -832,7 +834,7 @@
 		"hurryCostModifier": 0,
 		"requiredBuilding": "Granary",
 		"uniques": ["[+1 Food] from [Lake] tiles [in this city]", "[+1 Food] from [Oasis] tiles [in this city]", "[+1 Food] from [Mountain] tiles [in this city]", "[+1 Food, +1 Production] <in tiles without [River]> <hidden from users>", "Comment [Provides an additional +1 [Food] and +1 [Production] to cities without Rivers]",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Engineering",
 	},
 	{
@@ -841,7 +843,7 @@
 		"uniqueTo": "Buganda",
 		"food": 2,
 		"uniques": ["[+1 Food, +1 Culture] from [Lake] tiles [in this city]", "[+1 Food, +1 Culture] from [Oasis] tiles [in this city]", "[+1 Food] from [Mountain] tiles [in this city]", "[+1 Food, +1 Production] <in tiles without [River]> <hidden from users>", "Comment [Provides an additional +1 [Food] and +1 [Production] to cities without Rivers]",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Engineering"
 	},
@@ -852,7 +854,7 @@
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
 		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "[{non-air} {Military}] units gain the [Morale] promotion", "New [Military] units start with [15] XP [in this city]",
-			"Cost increases by [25] per owned city", "Only available <in cities with at least [3] [Population]>"],
+			"Cost increases by [25] per owned city", "Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Iron Working"
 	},
 	{
@@ -863,7 +865,7 @@
 		"percentStatBonus": {"gold": 10},
 		"isWonder": true,
 		"uniques": ["Must be next to [Water]", "[+1 Gold] from [Water] tiles [in this city]", "Gain a free [Harbor] [in this city]",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Shipbuilding",
 		"quote": "'Why man, he doth bestride the narrow world like a colossus, and we petty men walk under his huge legs, and peep about to find ourselves dishonorable graves.' - William Shakespeare, Julius Caesar",
 	},
@@ -878,7 +880,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
 		"uniques": ["Free [Great Prophet] appears", "When spreading religion to a city, gain [5] times the amount of followers of other religions as [Culture]", "Gain a free [Temple] [in this city]", "Only available <when religion is enabled>",
-		"Only available <in cities with at least [4] [Population]>"],
+		"Only available <in cities with at least [4] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Theology",
 		"quote": "'For it soars to a height to match the sky, and as if surging up from among the other buildings it stands on high and looks down upon the remainder of the city, adorning it, because it is a part of it, but glorying in its own beauty' - Procopius, De Aedificis",
 	},
@@ -896,7 +898,7 @@
 			    "[+1 Science] <for every [150] [Faith]> <on [Epic] game speed> <hidden from users>", 
 			    "[+1 Science] <for every [200] [Faith]> <on [Marathon] game speed> <hidden from users>", 
 			    "[+1 Science] <for every [250] [Faith]> <on [Endless] game speed> <hidden from users>", 
-			    "Only available <when religion is enabled>", "Only available <in cities with at least [4] [Population]>"],
+			    "Only available <when religion is enabled>", "Only available <in cities with at least [4] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Theology",
 		"quote": "'With the magnificence of eternity before us, let time, with all its fluctuations, dwindle into its own littleness.' - Thomas Chalmers"
 	},
@@ -908,7 +910,7 @@
 		"greatPersonPoints": {"Great Artist": 2},
 		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [25] per owned city",
 			"[+25]% Natural religion spread [in this city]", "All newly-trained [Missionary] units [in this city] receive the [Devout] promotion", "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>",
-		"Only available <in cities with at least [4] [Population]>"],
+		"Only available <in cities with at least [4] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	},
@@ -918,7 +920,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["[+3 Food] <when not at war>", "[+3 Production] <when at war>", "Gain a free [Stupa] [in this city]", "Only available <when religion is enabled>",
-		"Only available <in cities with at least [4] [Population]>"],
+		"Only available <in cities with at least [4] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Theology",
 		"quote": "'All religions should reside everywhere, for all of them desire self-control and purity of heart.' - Ashoka",
 	},
@@ -928,7 +930,7 @@
 		"maintenance": 2,
                 "requiredNearbyImprovedResources": ["Sugar"],
 		 "uniques": ["Comment [Only avaible in cities without another Distillery]", "Only available <in cities without a [Vodka Distillery]> <hidden from users>", "Only available <in cities without a [Whisky Distillery]> <hidden from users>", "Only available <in cities without a [Cognac Distillery]> <hidden from users>", "Provides [1] [Rum]",
-		 "Only available <in cities with at least [5] [Population]>"],
+		 "Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Distillation"
 	},
 	{
@@ -937,7 +939,7 @@
 		"maintenance": 2,
                 "requiredNearbyImprovedResources": ["Wheat"],
 		 "uniques": ["Comment [Only avaible in cities without another Distillery]", "Only available <in cities without a [Rum Distillery]> <hidden from users>", "Only available <in cities without a [Vodka Distillery]> <hidden from users>", "Only available <in cities without a [Cognac Distillery]> <hidden from users>", "Provides [1] [Whisky]",
-		 "Only available <in cities with at least [5] [Population]>"],
+		 "Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Distillation"
 	},
 	{
@@ -946,7 +948,7 @@
 		"maintenance": 2,
                 "requiredNearbyImprovedResources": ["Wheat"],
 		 "uniques": ["Comment [Only avaible in cities without another Distillery]", "Only available <in cities without a [Rum Distillery]> <hidden from users>", "Only available <in cities without a [Whisky Distillery]> <hidden from users>", "Only available <in cities without a [Cognac Distillery]> <hidden from users>", "Provides [1] [Vodka]",
-		 "Only available <in cities with at least [5] [Population]>"],
+		 "Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Distillation"
 	},
 	{
@@ -956,7 +958,7 @@
                 "requiredBuilding": "Wine Cellar",
 		"requiredNearbyImprovedResources": ["Grape"],
 		 "uniques": ["Comment [Only avaible in cities without another Distillery]", "Only available <in cities without a [Rum Distillery]> <hidden from users>", "Only available <in cities without a [Whisky Distillery]> <hidden from users>", "Only available <in cities without a [Vodka Distillery]> <hidden from users>", "Provides [1] [Cognac]",
-		 "Only available <in cities with at least [5] [Population]>"],
+		 "Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Distillation"
 	},
 	{
@@ -965,7 +967,7 @@
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
-		"uniques": ["Only available <in cities with at least [4] [Population]>"],
+		"uniques": ["Only available <in cities with at least [4] [Population]>", "Shown while unbuilable"],
 		"percentStatBonus": {"production": 10},
 		"requiredTech": "Metal Casting"
 	},
@@ -980,7 +982,7 @@
 		"production": 2,
 	        "percentStatBonus": {"production": 10},
 		"uniques": ["[+1 Culture] from every specialist [in this city] <during a Golden Age>", "[+1 Culture] from every [World Wonder] <during a Golden Age>",
-		"Only available <in cities with at least [4] [Population]>"]
+		"Only available <in cities with at least [4] [Population]>", "Shown while unbuilable"]
 		"requiredTech": "Metal Casting"
 	},
 	{
@@ -994,7 +996,7 @@
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
 		"uniques": ["Gain control over [Forest] tiles in a [3]-tile radius", "[+1 Culture] from [Forest] tiles [in this city]",
-		"Only available <in cities with at least [4] [Population]>"],
+		"Only available <in cities with at least [4] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Metal Casting"
 	},
 	{
@@ -1009,7 +1011,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Metal Casting",
 		"uniques": ["[-10]% Unhappiness from [Population] [in this city]", "[+2 Food] [in this city] <within [2] tiles of a [Tundra]>",
-		"Only available <in cities with at least [4] [Population]>"]
+		"Only available <in cities with at least [4] [Population]>", "Shown while unbuilable"]
 	},
 	{
 		"name": "Forge",
@@ -1019,7 +1021,7 @@
 		"requiredNearbyImprovedResources": ["Copper", "Iron", "Aluminum"],
 		"requiredTech": "Metal Casting",
 		"uniques": ["[+1 Production] from [Mine] tiles [in this city]",
-		"Only available <in cities with at least [4] [Population]>"]
+		"Only available <in cities with at least [4] [Population]>", "Shown while unbuilable"]
 		
 	},
         {
@@ -1032,7 +1034,7 @@
 		"requiredNearbyImprovedResources": ["Copper", "Gold Ore", "Silver", "Gems", "Iron", "Aluminum"],
 		"requiredTech": "Iron Working",
 		"uniques": ["[+1 Production] from [Mine] tiles [in this city]",
-		"Only available <in cities with at least [3] [Population]>"],
+		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
 		
 	},
 	// Column 6
@@ -1044,7 +1046,7 @@
 		"specialistSlots": {"Scientist": 1},
 		"requiredBuilding": "Library",
 		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[+20]% [Science] [in this city] <after discovering [Printing Press]>",
-		"Only available <in cities with at least [5] [Population]>"],
+		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Education"
 	},
 	{
@@ -1054,7 +1056,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["Gain a free [University] [in this city]", "Free Technology",
-		"Only available <in cities with at least [5] [Population]>"],
+		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
 		"quote": "'The clever men at Oxford... Know all that there is to be knowed. But they none of them know one half as much... As intelligent Mr. Toad!' - Kenneth Grahame"
 		"requiredTech": "Education"
 	},
@@ -1065,7 +1067,7 @@
 		"greatPersonPoints": {"Great Scientist": 2},
 		"isWonder": true,
 		"uniques": ["Must be next to [Jungle]", "[+1] population [in all cities]", "[+1 Faith, +2 Science] [in all cities]", "Gain a free [Wat] [in this city]",
-		"Only available <in cities with at least [5] [Population]>"],
+		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Machinery",
 		"quote": "'The temple is like no other building in the world. It has towers and decoration and all the refinements which the human genius can conceive of.' - Antonio da Magdalena"
 	},
@@ -1077,7 +1079,7 @@
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
 		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured", "Unbuildable <after discovering [Rifling]> <hidden from users>", "Cannot be purchased <after discovering [Rifling]> <hidden from users>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>",
-		"Only available <in cities with at least [5] [Population]>"]
+		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"]
 	},
 	{
 		"name": "Mughal Fort",
@@ -1089,7 +1091,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured", "Unbuildable <after discovering [Rifling]> <hidden from users>", "Cannot be purchased <after discovering [Rifling]> <hidden from users>", "[+2 Culture] <after discovering [Archaeology]>", "[+2 Culture, +2 Gold] <after discovering [Flight]>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>",
-		"Only available <in cities with at least [5] [Population]>"],
+		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Chivalry"
 	},
         {
@@ -1102,7 +1104,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "[+1 Food] from [Desert] tiles [in this city]", "Destroyed when the city is captured", "Unbuildable <after discovering [Rifling]> <hidden from users>", "Cannot be purchased <after discovering [Rifling]> <hidden from users>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>",
-		"Only available <in cities with at least [5] [Population]>"],
+		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Chivalry"
 	},
 	{
@@ -1116,7 +1118,7 @@
 		"percentStatBonus": {"culture": 15},
 		"uniques": ["Must be on [Hill]", "All newly-trained [relevant] units [in this city] receive the [Drill I] promotion",
 			"Gain a free [Castle] [in this city]",
-		"Only available <in cities with at least [5] [Population]>"],
+		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Chivalry",
 		"quote": "'Justice is an unassailable fortress, built on the brow of a mountain which cannot be overthrown by the violence of torrents, nor demolished by the force of armies.' - Joseph Addison"
 	},
@@ -1126,7 +1128,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"uniques": ["Gain a free [Castle] [in this city]", "Gain [100] [Gold] <upon constructing [Wonders] [in all cities]> <(modified by game speed)>", "Gain [100] [Culture] <upon gaining a [Great Person] unit> <(modified by game speed)>",
-		"Only available <in cities with at least [5] [Population]>"],
+		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
 		"requiredBuilding": "Palace",
 		"requiredTech": "Chivalry",
 		"quote": "'If heaven can be on the face of the earth,\nIt is this, it is this, it is this.' - Amir Khusrow"
@@ -1138,7 +1140,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
 		"uniques": ["[-10]% Unhappiness from [Population] [in all cities]",
-		"Only available <in cities with at least [5] [Population]>"],
+		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
 		"requiredBuilding": "Palace",
 		"requiredTech": "Steel",
 		"quote": "'Most of us can, as we choose, make of this world either a palace or a prison' - John Lubbock"
@@ -1152,7 +1154,7 @@
 		"greatPersonPoints": {"Great Engineer": 2},
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Workshop] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [25] per owned city",
-		"Only available <in cities with at least [7] [Population]>"],
+		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Mechanics"
 	},
 	{
@@ -1162,7 +1164,7 @@
 		"greatPersonPoints": {"Great Engineer": 2},
 		"isWonder": true,
 		"uniques": ["[+15]% Production when constructing [All] wonders [in all cities]", "Gain a free [Cathedral] [in this city]",
-		"Only available <in cities with at least [5] [Population]>"],
+		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Physics",
 		"quote": "'Architecture has recorded the great ideas of the human race. Not only every religious symbol, but every human thought has its page in that vast book.' - Victor Hugo"
 	},
@@ -1172,7 +1174,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
 		"uniques": ["[+25]% Great Person generation [in all cities]", "Free Great Person",
-		"Only available <in cities with at least [5] [Population]>"],
+		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Physics",
 		"quote": "'Don't clap too hard - it's a very old building.' - John Osbourne"
 	},
@@ -1182,7 +1184,7 @@
 		"maintenance": 2,
 		"requiredBuilding": "Barracks",
 		"uniques": ["New [{Land} {Military}] units start with [15] XP [in this city]", "[+1] Unit Supply", "Destroyed when the city is captured",
-		"Only available <in cities with at least [5] [Population]>"],
+		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Steel"
 	},
         {
@@ -1194,7 +1196,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Barracks",
 		"uniques": ["New [{Land} {Military}] units start with [15] XP [in this city]", "[+1 Gold] per [3] social policies adopted", "[+1] Unit Supply", "Destroyed when the city is captured",
-		"Only available <in cities with at least [5] [Population]>"],
+		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Steel"
 	},
 	{
@@ -1206,7 +1208,7 @@
                 "requiredBuilding": "Barracks",
 		"maintenance": 2,
 		"uniques": ["New [{Land} {Military}] units start with [15] XP [in this city]", "All newly-trained [Sword] units [in this city] receive the [Buffalo Horns I] promotion", "[+1] Unit Supply", "Destroyed when the city is captured",
-		"Only available <in cities with at least [5] [Population]>"],
+		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Steel"
 	},
 
@@ -1222,7 +1224,7 @@
 		"science": 4,
 		"requiredBuilding": "University",
 		"uniques": ["Must be next to [Mountain]", "[+25]% [Science] [in this city] <after discovering [Scientific Theory]>",
-		"Only available <in cities with at least [7] [Population]>"],
+		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Astronomy"
 	},
 	{
@@ -1234,7 +1236,7 @@
 		"maintenance": 3,
 		"requiredTech": "Acoustics",
 		"uniques": ["Destroyed when the city is captured",
-		"Only available <in cities with at least [7] [Population]>"]
+		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"]
 	},
 	{
 		"name": "Coffee House",
@@ -1247,7 +1249,7 @@
 		"requiredBuilding": "Amphitheater",
 		"maintenance": 3,
 		"uniques": ["Destroyed when the city is captured", "[+25]% Great Person generation [in this city]", "[-25]% Unhappiness from [Specialists] [in this city]",
-		"Only available <in cities with at least [7] [Population]>"],
+		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Acoustics"
 	},
 	{
@@ -1256,7 +1258,7 @@
 		"greatPersonPoints": {"Great Scientist": 3},
 		"isWonder": true,
 		"uniques": ["Free [Great Scientist] appears", "Science gained from research agreements [+50]%", "Gain a free [Pagoda] [in this city]",
-		"Only available <in cities with at least [7] [Population]>"],
+		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Acoustics",
 		"quote": "'Things always seem fairer when we look back at them, and it is out of that inaccessible tower of the past that Longing leans and beckons.' - James Russell Lowell"
 	},
@@ -1266,7 +1268,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 3},
 		"uniques": ["[+1 Faith] per [1] social policies adopted", "Can only be built <in [Holy] cities>",
-		"Only available <in cities with at least [7] [Population]>"],
+		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Acoustics",
 		"quote": "'I live and love in God's peculiar light.' - Michelangelo Buonarroti"
 	},
@@ -1279,7 +1281,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 3,
 		"uniques": ["Must not be on [Hill]",
-		"Only available <in cities with at least [7] [Population]>"],
+		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Mechanics"
 	},
 	{
@@ -1294,7 +1296,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["Must not be on [Hill]", "[+1 Gold] from [Plantation] tiles [in this city]",
-		"Only available <in cities with at least [7] [Population]>"],
+		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Mechanics"
 	},
 	{
@@ -1302,7 +1304,7 @@
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 15,
 		"uniques": ["[+1 Gold] <for every [10] [Production]>",
-		"Only available <in cities with at least [7] [Population]>"],
+		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
 	},
@@ -1315,7 +1317,7 @@
 		"greatPersonPoints": {"Great Merchant": 2},
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Market] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [25] per owned city",
-		"Only available <in cities with at least [7] [Population]>"],
+		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Banking"
 	},
 	{
@@ -1326,7 +1328,7 @@
 		"cityStrength": 6,
 		"cityHealth": 25,
 		"uniques": ["[+25]% [Gold] from Trade Routes", "[+15]% Strength <for [Military] units> <when fighting in [Hill] tiles>", "Must be next to [Mountain]",
-		"Only available <in cities with at least [7] [Population]>"],
+		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Banking",
 		"quote": "'Few romances can ever surpass that of the granite citadel on top of the beetling precipices of Machu Picchu, the crown of Inca Land.' - Hiram Bingham"
 	},
@@ -1336,7 +1338,7 @@
 		"hurryCostModifier": 10,
 		"maintenance": 3,
 		"requiredBuilding": "Colosseum",
-		"uniques": ["Only available <in cities with at least [7] [Population]>"],
+		"uniques": ["Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Printing Press"
 	},
 	{
@@ -1345,7 +1347,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 3},
 		"uniques": ["Must be next to [Fresh water]", "Gain a free [Theatre] [in this city]", "[+2 Gold] from every [Theatre]",
-		"Only available <in cities with at least [7] [Population]>"],
+		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Printing Press",
 		"quote": "'Totus mundus agit histrionem.' - Inscription above main entrance to the Globe Theatre"
 	},
@@ -1357,7 +1359,7 @@
 		"greatPersonPoints": {"Great Artist": 3},
 		"isWonder": true,
 		"uniques": ["Must be next to [Fresh water]", "Empire enters golden age",
-		"Only available <in cities with at least [7] [Population]>"],
+		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Printing Press",
 		"quote": "'The Taj Mahal rises above the banks of the river like a solitary tear suspended on the cheek of time.' - Rabindranath Tagore"
 	},
@@ -1367,7 +1369,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 3},
 		"uniques": ["Must be on [Hill]", "May buy [Military] units with [Faith] [in this city]", "[+25]% Strength <for [Military] units> <vs [City-States]>",
-		"Only available <in cities with at least [7] [Population]>"],
+		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Gunpowder",
 		"quote": "'Bushido is realized in the presence of death. This means choosing death whenever there is a choice between life and death. There is no other reasoning.' - Yamamoto Tsunetomo"
 	},
@@ -1380,7 +1382,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 3},
 		"uniques": ["[+25]% City Strength from defensive buildings",
-		"Only available <in cities with at least [7] [Population]>"],
+		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
 		"requiredBuilding": "Palace",
 		"requiredTech": "Gunpowder",
 		"quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed",
@@ -1395,7 +1397,7 @@
 		"gold": 1,
 		"uniques": ["[+1 Production, +1 Gold] from [Fishing Boats] tiles [in this city]",
 			"Must be next to [Water]", "[+15]% Production when constructing [Water] units [in this city]", "New [{Water} {Military}] units start with [15] XP [in this city]",
-"Only available <in cities with at least [8] [Population]>"],
+"Only available <in cities with at least [8] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Navigation"
 	},
 	{
@@ -1406,7 +1408,7 @@
 		"greatPersonPoints": {"Great Artist": 2},
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Opera House] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [25] per owned city",
-		"Only available <in cities with at least [8] [Population]>"],
+		"Only available <in cities with at least [8] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Architecture"
 	},
 	{
@@ -1415,7 +1417,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 3},
 		"uniques": ["Gain a free [Opera House] [in this city]", "Provides the cheapest [Culture] building in your first [50] cities for free <hidden from users>", "Comment [Provides the cheapest available [Culture] building in all cities for free]",
-		"Only available <in cities with at least [8] [Population]>"],
+		"Only available <in cities with at least [8] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Architecture",
 		"quote": "'Bolshoi Ballet is a universe of the imagination, a place of magic and enchantment, beauty and romance. Its many worlds vibrate with graceful dancers, glorious music, and sumptuous costumes.' - Trudy Garfunkel"
 	},
@@ -1425,7 +1427,7 @@
 		"greatPersonPoints": {"Great Engineer": 3},
 		"isWonder": true,
 		"uniques": ["Free [Great General] appears", "New [Military] units start with [15] XP [in this city]", "[+2 Production, +1 Happiness] [in all cities] <when at war>",
-		"Only available <in cities with at least [8] [Population]>"],
+		"Only available <in cities with at least [8] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Architecture",
 		"quote": "'Pale Death beats equally at the poor man's gate and at the palaces of kings.' - Horace"
 	},
@@ -1436,7 +1438,7 @@
 		"requiredBuilding": "Palace",
 		"isWonder": true,
 		"uniques": ["[+50]% Great Person generation [in this city]", "[-15]% City-State Influence degradation", "Influence of all other civilizations with all city-states degrades [15]% faster", "Gifts of Gold to City-States generate [15]% more Influence",
-		"Only available <in cities with at least [8] [Population]>"],
+		"Only available <in cities with at least [8] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Architecture",
 		"quote": "'The state, is me.' - Louis XIV"
 	},
@@ -1447,7 +1449,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Metallurgy",
 		"uniques": ["[+1 Production] from [Fort] tiles [in this city]", "[+1 Production] from [Citadel] tiles [in this city]", "[-25]% enemy spy effectiveness [in this city]", "Destroyed when the city is captured",
-		"Only available <in cities with at least [8] [Population]>"]
+		"Only available <in cities with at least [8] [Population]>", "Shown while unbuilable"]
 	},
 	{
 		"name": "Venetian Arsenal",
@@ -1456,7 +1458,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 3},
 		"uniques": ["Gain a free [Arsenal] [in this city]", "[+25]% Production when constructing [Water] units [in this city]", "[-25]% maintenance costs <for [Water] units>", "New [{Water} {Military}] units start with [15] XP [in this city]",
-		"Only available <in cities with at least [8] [Population]>"],
+		"Only available <in cities with at least [8] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Metallurgy",
 		"quote": "'Happy is that city which in time of peace thinks of war' - Inscription on the venetian armory",
 	},
@@ -1473,7 +1475,7 @@
 		"hurryCostModifier": 0,
 		"requiredTech": "Archaeology",
 		"uniques": ["[+4 Culture] from [City ruins] tiles [in this city]", "Destroyed when the city is captured",
-		"Only available <in cities with at least [10] [Population]>"]
+		"Only available <in cities with at least [10] [Population]>", "Shown while unbuilable"]
 	},
 	{
 		"name": "The Louvre",
@@ -1482,7 +1484,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 3},
 		"uniques": ["[1] free [Great Artist] units appear", "Gain a free [Museum] [in this city]",
-		"Only available <in cities with at least [10] [Population]>"],
+		"Only available <in cities with at least [10] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Archaeology",
 		"quote": "'Every genuine work of art has as much reason for being as the earth and the sun' - Ralph Waldo Emerson"
 	},
@@ -1495,7 +1497,7 @@
 		"isWonder": true,
 		"uniques": ["[+1 Culture, +1 Happiness, +2 Gold] from every [Castle]",
 			"Must be next to [Mountain]",
-		"Only available <in cities with at least [10] [Population]>"],
+		"Only available <in cities with at least [10] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Archaeology",
 		"quote": "'...the location is one of the most beautiful to be found, holy and unapproachable, a worthy temple for the divine friend who has brought salvation and true blessing to the world.' - King Ludwig II of Bavaria"
 	},
@@ -1507,7 +1509,7 @@
 		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Biology]>",
-		"Only available <in cities with at least [10] [Population]>"],
+		"Only available <in cities with at least [10] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Scientific Theory"
 	},
 	{
@@ -1517,7 +1519,7 @@
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,
 		"uniques": ["Provides [1] [Pollution]", "Only available <when above [0] [Coal]>",
-		"Only available <in cities with at least [10] [Population]>"],
+		"Only available <in cities with at least [10] [Population]>", "Shown while unbuilable"],
 		"hurryCostModifier": 0,
 		"requiredTech": "Industrialization"
 	},
@@ -1532,7 +1534,7 @@
 		"maintenance": 0,
 		"hurryCostModifier": 0,
 		"uniques": ["Provides [1] [Pollution]", "Only available <when above [0] [Coal]>",
-		"Only available <in cities with at least [10] [Population]>"],
+		"Only available <in cities with at least [10] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Industrialization"
 	},
 	{
@@ -1540,7 +1542,7 @@
 		"requiredBuilding": "Factory",
 		"maintenance": 3,
 		"uniques": ["Remove [Oil Plant] [in this city]", "Remove [Nuclear Plant] [in this city]", "Only available <when above [0] [Coal]>", "[+1 Production] <for every [2] [Coal]>", "[+1]% [Production] [in this city] <for every [Coal]>", "Provides [1] [Pollution] <for every [4] [Coal]>", "Unbuildable <in cities with a [Oil Plant]> <hidden from users>", "Unbuildable <in cities with a [Nuclear Plant]> <hidden from users>", "Shown while unbuilable", "Can be purchased with [Gold] [in this city] <if [Oil Plant] is constructed> <in this city> <hidden from users>", "Can be purchased with [Gold] [in this city] <if [Nuclear Plant] is constructed> <in this city> <hidden from users>",
-		"Only available <in cities with at least [10] [Population]>"],
+		"Only available <in cities with at least [10] [Population]>", "Shown while unbuilable"],
 		"hurryCostModifier": 0,
 		"requiredTech": "Industrialization"
 	},
@@ -1552,7 +1554,7 @@
 		"greatPersonPoints": {"Great Engineer": 3},
 		"isWonder": true,
 		"uniques": ["Gain a free [Factory] [in this city]", "Gain a free [Coal Plant] [in this city]", "[+1 Production] from [Coal] tiles [in this city]", "[+1 Production] from [Aluminum] tiles [in this city]", "[+1 Production] from [Uranium] tiles [in this city]",
-		"Only available <in cities with at least [10] [Population]>"],
+		"Only available <in cities with at least [10] [Population]>", "Shown while unbuilable"],
 		"requiredNearbyImprovedResources": ["Coal"],
 		"requiredTech": "Industrialization",
 		"quote": "'The soul of man under socialism will work no more for wages, but for the joy of creation.' - Oscar Wilde"
@@ -1562,7 +1564,7 @@
 		"specialistSlots": {"Merchant": 2},
 		"hurryCostModifier": 15,
 		"uniques": ["[+3 Gold] <for every [Remaining [Major] Civilizations]>", "[+1 Gold] <for every [Remaining [City-State] Civilizations]>", "Unavailable <for [Soviet Union] Civilizations> <hidden from users>",
-		"Only available <in cities with at least [10] [Population]>"],
+		"Only available <in cities with at least [10] [Population]>", "Shown while unbuilable"],
 		"requiredBuilding": "Bank",
 		"requiredTech": "Urban Planning"
 	},
@@ -1574,7 +1576,7 @@
 		"greatPersonPoints": {"Great Merchant": 3},
 		"isWonder": true,
 		"uniques": ["[Gold] cost of purchasing items in cities [-25]%",
-		"Only available <in cities with at least [10] [Population]>"],
+		"Only available <in cities with at least [10] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Urban Planning",
 		"quote": "'To achieve great things, two things are needed: a plan, and not quite enough time.' - Leonard Bernstein"
 	},
@@ -1584,7 +1586,7 @@
 		"maintenance": 3,
 		"requiredBuilding": "Armory",
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "[+1] Unit Supply", "Destroyed when the city is captured",
-		"Only available <in cities with at least [10] [Population]>"],
+		"Only available <in cities with at least [10] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Military Science"
 	},
 	{
@@ -1593,7 +1595,7 @@
 		"greatPersonPoints": {"Great Scientist": 3},
 		"isWonder": true,
 		"uniques": ["Free Great Person <upon declaring friendship> <with [25]% chance>", "[+25]% Great Person generation [in all cities] <for [All] Civilizations>", "Gain [60] Influence with a [Great Person] gift to a City-State",
-		"Only available <in cities with at least [11] [Population]>"],
+		"Only available <in cities with at least [11] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Dynamite",
 		"quote": "'One can state, without exaggeration, that the observation of and the search for similarities and differences are the basis of all human knowledge.' - Alfred Nobel",
 	},
@@ -1605,7 +1607,7 @@
 		"hurryCostModifier": 0,
 		"happiness": 1,
 		"uniques": ["[50]% Food is carried over after population increases [in this city]",
-		"Only available <in cities with at least [11] [Population]>"],
+		"Only available <in cities with at least [11] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Biology"
 	},
 	{
@@ -1614,7 +1616,7 @@
 		"hurryCostModifier": 0,
 		"maintenance": 3,
 		"uniques": ["Must be on [River]", "[+1 Production] from [River] tiles [in this city]", "Provides [-3] [Pollution]",
-		"Only available <in cities with at least [8] [Population]>"],
+		"Only available <in cities with at least [8] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Electricity"
 	},
 	{
@@ -1625,7 +1627,7 @@
 		"requiredNearbyImprovedResources": ["Iron"],
 		"requiredTech": "Electricity",
 		"uniques": ["Only available <when above [1] [Iron]>", "Consumes [2] [Iron]", "Provides [2] [Aluminum]", "Provides [1] [Pollution]",
-		"Only available <in cities with at least [11] [Population]>"]
+		"Only available <in cities with at least [11] [Population]>", "Shown while unbuilable"]
 		
 	},
 	{
@@ -1634,7 +1636,7 @@
 		"maintenance": 3,
 		"production": 2,
 		"uniques": ["Remove [Coal Plant] [in this city]", "Remove [Nuclear Plant] [in this city]", "Only available <when above [0] [Oil]>", "[+1 Production] <for every [4] [Oil]>", "[+1]% [Production] [in this city] <for every [2] [Oil]>", "Provides [1] [Pollution] <for every [6] [Oil]>", "Unbuildable <in cities with a [Coal Plant]> <hidden from users>", "Unbuildable <in cities with a [Nuclear Plant]> <hidden from users>", "Shown while unbuilable", "Can be purchased with [Gold] [in this city] <if [Coal Plant] is constructed> <in this city> <hidden from users>", "Can be purchased with [Gold] [in this city] <if [Nuclear Plant] is constructed> <in this city> <hidden from users>",
-		"Only available <in cities with at least [11] [Population]>"],
+		"Only available <in cities with at least [11] [Population]>", "Shown while unbuilable"],
 		"hurryCostModifier": 0,
 		"requiredTech": "Refining"
 	},
@@ -1647,7 +1649,7 @@
 		"happiness": 2,
 		"requiredBuilding": "Theatre",
 		"maintenance": 4,
-		"uniques": ["Only available <in cities with at least [13] [Population]>"],
+		"uniques": ["Only available <in cities with at least [13] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Refrigeration"
 	},
 	{
@@ -1657,7 +1659,7 @@
 		"happiness": 4,
 		"greatPersonPoints": {"Great Engineer": 4},
 		"uniques": ["Gain a free [Stadium] [in this city]", "[+2 Culture] from every [Stadium]",
-		"Only available <in cities with at least [13] [Population]>"],
+		"Only available <in cities with at least [13] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Refrigeration",
 		"quote": "'Down through its history, only three people have managed to silence the Maracana: the Pope, Frank Sinatra, and me.' - Alcides Ghiggia"
 	},
@@ -1669,7 +1671,7 @@
 		"maintenance": 4,
 		"requiredTech": "Radio",
 		"uniques": ["Destroyed when the city is captured",
-		"Only available <in cities with at least [13] [Population]>"]
+		"Only available <in cities with at least [13] [Population]>", "Shown while unbuilable"]
 	},
 	{
 		"name": "Soviet",
@@ -1680,7 +1682,7 @@
 		"percentStatBonus": {"culture": 15},
 		"maintenance": 4,
 		"uniques": ["[+1 Culture, +1 Happiness] per [6] social policies adopted", "Destroyed when the city is captured",
-		"Only available <in cities with at least [13] [Population]>"],
+		"Only available <in cities with at least [13] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Radio"
 	},
 	{
@@ -1690,7 +1692,7 @@
 		"greatPersonPoints": {"Great Scientist": 4},
 		"isWonder": true,
 		"uniques": ["[+1 Science] from all [Production] buildings",
-		"Only available <in cities with at least [13] [Population]>"],
+		"Only available <in cities with at least [13] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Radio",
 		"quote": "'We live only to discover beauty, all else is a form of waiting' - Kahlil Gibran"
 	},
@@ -1700,7 +1702,7 @@
 		"culture": 4,
 		"isWonder": true,
 		"uniques": ["Gain a free [Stock Exchange] [in this city]", "[+4 Gold, +1 Happiness] from every [Stock Exchange]", "[+25]% [Gold] from Trade Routes",
-		"Only available <in cities with at least [13] [Population]>"],
+		"Only available <in cities with at least [13] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Financial Capital",
 		"quote": "'A man always has two reasons for what he does - a good one, and the real one.' - J.P. Morgan"
 	},
@@ -1712,13 +1714,13 @@
 		"requiredBuilding": "Arsenal",
 		"requiredTech": "Replaceable Parts",
 		"uniques": ["[+2 Production] from [Citadel] tiles [in this city]", "[-25]% enemy spy effectiveness [in this city]", "Destroyed when the city is captured",
-		"Only available <in cities with at least [13] [Population]>"]
+		"Only available <in cities with at least [13] [Population]>", "Shown while unbuilable"]
 	},
         {
 		"name": "Airport",
 		"requiredTech": "Flight",
 		"uniques": ["[+5]% [Gold] [in this city] <for every [Remaining [Major] Civilizations]>", "[+3]% [Culture] [in this city] <for every [Remaining [Major] Civilizations]>", "New [Air] units start with [15] XP [in this city]", "Provides [1] [Pollution]", "Destroyed when the city is captured",
-		"Only available <in cities with at least [13] [Population]>"]
+		"Only available <in cities with at least [13] [Population]>", "Shown while unbuilable"]
 	},
 	{
 		"name": "Statue of Liberty",
@@ -1726,7 +1728,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 4},
 		"uniques": ["Must be next to [Water]", "[+1 Production] from every specialist [in all cities]",
-		"Only available <in cities with at least [10] [Population]>"],
+		"Only available <in cities with at least [10] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Scientific Theory",
 		"quote": "'Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore. Send these, the homeless, tempest-tossed to me, I lift my lamp beside the golden door!' - Emma Lazarus",
 	},
@@ -1738,7 +1740,7 @@
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Public School",
 		"uniques": ["[+50]% [Science] [in this city] <after discovering [Atomic Theory]>",
-		"Only available <in cities with at least [15] [Population]>"],
+		"Only available <in cities with at least [15] [Population]>", "Shown while unbuilable"],
 		"maintenance": 4,
 		"requiredTech": "Plastics"
 	},
@@ -1749,7 +1751,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 4},
 		"uniques": ["Must be on [Hill]", "[-10]% Culture cost of adopting new Policies", "[Faith] cost of purchasing items in cities [-10]%",
-		"Only available <in cities with at least [15] [Population]>"],
+		"Only available <in cities with at least [15] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Plastics",
 		"quote": "'Come to me, all who labor and are heavy burdened, and I will give you rest.' - New Testament, Matthew 11:28"
 	},
@@ -1761,7 +1763,7 @@
 		"name": "Medical Lab",
 		"requiredBuilding": "Hospital",
 		"percentStatBonus": {"food": 15, "science": 15},
-		"uniques": ["Only available <in cities with at least [17] [Population]>"],
+		"uniques": ["Only available <in cities with at least [17] [Population]>", "Shown while unbuilable"],
 		"food": 4,
 		"science": 4,
 		"maintenance": 4,
@@ -1772,7 +1774,7 @@
 		"isNationalWonder": true,
 		"culture": 1,
 		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Only available <with [Uranium]>", "Provides [3] [Pollution]",
-		"Only available <in cities with at least [17] [Population]>"],
+		"Only available <in cities with at least [17] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Atomic Theory"
 	},
 	{
@@ -1781,7 +1783,7 @@
 		"culture": 4,
 		"greatPersonPoints": {"Great Scientist": 4},
 		"uniques": ["[-25]% Gold cost of upgrading <for [Military] units>", "[+2 Production, +3 Science] from every [Military Base]", "Gain a free [Military Base] [in all cities]",
-		"Only available <in cities with at least [15] [Population]>"],
+		"Only available <in cities with at least [15] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Combined Arms",
 		"quote": "'In preparing for battle I have always found that plans are useless, but planning is indispensable.' - Dwight D. Eisenhower"
 	},
@@ -1792,7 +1794,7 @@
 		"greatPersonPoints": {"Great Scientist": 4},
 		"percentStatBonus": {"science": 50},
 		"uniques": ["Free Technology",
-		"Only available <in cities with at least [19] [Population]>"],
+		"Only available <in cities with at least [19] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Computers",
 		"quote": "'The good thing about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.' – Ted Nelson",
 	},
@@ -1804,7 +1806,7 @@
 		"maintenance": 4,
 		"hurryCostModifier": 25,
 		"uniques": ["[-25]% Food consumption by [Specialists] [in this city]", "[+25]% Great Person generation [in this city]",
-"Only available <in cities with at least [19] [Population]>"],
+"Only available <in cities with at least [19] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Advanced Urbanism"
 	},
 	{
@@ -1815,7 +1817,7 @@
 		"maintenance": 4,
 		"requiredTech": "Environmentalism",
 		"uniques": ["Must be next to [Desert]", "Only available <in cities without a [Wind Plant]>", "Only available <in cities without a [Biomass Plant]>", "Provides [-3] [Pollution]",
-		"Only available <in cities with at least [15] [Population]>"]
+		"Only available <in cities with at least [15] [Population]>", "Shown while unbuilable"]
 	},
 	{
 		"name": "Wind Plant",
@@ -1825,7 +1827,7 @@
 		"maintenance": 4,
 		"requiredTech": "Environmentalism",
 		"uniques": ["Must be next to [Mountain]", "Only available <in cities without a [Solar Plant]>", "Only available <in cities without a [Biomass Plant]>", "Provides [-3] [Pollution]",
-		"Only available <in cities with at least [15] [Population]>"]
+		"Only available <in cities with at least [15] [Population]>", "Shown while unbuilable"]
 	},
 	{
 		"name": "Biomass Plant",
@@ -1835,7 +1837,7 @@
 		"maintenance": 4,
 		"requiredTech": "Environmentalism",
 		"uniques": ["Must be next to [Plantation]", "Only available <in cities without a [Solar Plant]>", "Only available <in cities without a [Wind Plant]>", "Provides [-3] [Pollution]",
-		"Only available <in cities with at least [15] [Population]>"]
+		"Only available <in cities with at least [15] [Population]>", "Shown while unbuilable"]
 	},
 	{
 		"name": "Recycling Center",
@@ -1845,7 +1847,7 @@
 		"maintenance": 4,
 		"requiredTech": "Ecology",
 		"uniques": ["Provides [-5] [Pollution]",
-		"Only available <in cities with at least [13] [Population]>"]
+		"Only available <in cities with at least [13] [Population]>", "Shown while unbuilable"]
 	},
 	{
 		"name": "Sydney Opera House",
@@ -1854,7 +1856,7 @@
 		"greatPersonPoints": {"Great Artist": 4},
 		"percentStatBonus": {"culture": 50},
 		"uniques": ["Free Social Policy", "Must be next to [Water]",
-		"Only available <in cities with at least [17] [Population]>"],
+		"Only available <in cities with at least [17] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Ecology",
 		"quote": "'Those who lose dreaming are lost.' - Australian Aboriginal saying"
 	},
@@ -1865,7 +1867,7 @@
 		"maintenance": 4,
 		"requiredTech": "Nuclear Fission",
 		"uniques": ["Remove [Oil Plant] [in this city]", "Remove [Coal Plant] [in this city]", "Only available <when above [0] [Uranium]>", "[+1 Production] <for every [Uranium]>", "[+2]% [Production] [in this city] <for every [Uranium]>", "Unbuildable <in cities with a [Oil Plant]> <hidden from users>", "Unbuildable <in cities with a [Coal Plant]> <hidden from users>", "Shown while unbuilable", "Can be purchased with [Gold] [in this city] <if [Oil Plant] is constructed> <in this city> <hidden from users>", "Can be purchased with [Gold] [in this city] <if [Coal Plant] is constructed> <in this city> <hidden from users>",
-		"Only available <in cities with at least [19] [Population]>"]
+		"Only available <in cities with at least [19] [Population]>", "Shown while unbuilable"]
 	},
 	{
 		"name": "Apollo Program",
@@ -1875,7 +1877,7 @@
 		"greatPersonPoints": {"Great Scientist": 3},
 		"uniques": ["Space Mission", "Only available <with [Aluminum]>", "Triggers a global alert upon completion", "[+68 Science] [in foreign cities]", 
 			"Only available <when [Scientific] Victory is enabled>", "Cannot be hurried", "Only available <if [Sputnik Program] is constructed>", "Provides [5] [Pollution]",
-		"Only available <in cities with at least [21] [Population]>"],
+		"Only available <in cities with at least [21] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Satellites"
 	},
         {
@@ -1886,7 +1888,7 @@
 		"greatPersonPoints": {"Great Scientist": 3},
 		"uniques": ["Space Mission", "Only available <with [Aluminum]>", "Triggers a global alert upon build start", "[+110 Science] [in foreign cities]", 
 			"Only available <when [Scientific] Victory is enabled>", "Cannot be hurried", "Only available <if [Apollo Program] is constructed>", "Provides [8] [Pollution]",
-		"Only available <in cities with at least [23] [Population]>"],
+		"Only available <in cities with at least [23] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Nanotechnology"
 	},
 	{
@@ -1896,7 +1898,7 @@
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Scientist": 3},
 		"uniques": ["Space Mission", "Only available <with [Aluminum]>", "Reveals the entire map", "[+42 Science] [in foreign cities]", "Triggers a global alert upon completion", "Cannot be hurried", "Provides [3] [Pollution]",
-		"Only available <in cities with at least [19] [Population]>"],
+		"Only available <in cities with at least [19] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Rocketry"
 	},
 
@@ -1909,7 +1911,7 @@
 		"culture": 5,
 		"greatPersonPoints": {"Great Merchant": 5},
 		"uniques": ["[+2 Happiness, +2 Culture] from every [Broadcast Tower]", "Gain a free [Broadcast Tower] [in all cities]",
-		"Only available <in cities with at least [21] [Population]>"],
+		"Only available <in cities with at least [21] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Telecommunications",
 		"quote": "'Nothing travels faster than light with the possible exception of bad news, which obeys its own special rules.' - Douglas Adams"
 	},
@@ -1920,7 +1922,7 @@
 		"maintenance": 3,
 		"requiredTech": "Nuclear Fission",
 		"uniques": ["Population loss from nuclear attacks [-33]% [in this city]",
-		"Only available <in cities with at least [15] [Population]>"]
+		"Only available <in cities with at least [15] [Population]>", "Shown while unbuilable"]
 	},
 	{
 		"name": "Hubble Space Telescope",
@@ -1930,7 +1932,7 @@
 		"greatPersonPoints": {"Great Scientist": 5},
 		"uniques": ["[+100]% Production when constructing [Space Mission] wonders [in this city]",
 			    "Gain a free [Spaceship Factory] [in this city]", "Only available <when [Scientific] Victory is enabled>",
-		"Only available <in cities with at least [21] [Population]>"],
+		"Only available <in cities with at least [21] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Satellites",
 		"quote": "'The wonder is, not that the field of stars is so vast, but that man has measured it.' - Anatole France"
 	},
@@ -1941,7 +1943,7 @@
 		"requiredBuilding": "Factory",
 		"maintenance": 5,
 		"uniques": ["[+50]% Production when constructing [Space Mission] wonders [in this city]", "Only available <when [Scientific] Victory is enabled>", "Provides [1] [Pollution]",
-		"Only available <in cities with at least [21] [Population]>"],
+		"Only available <in cities with at least [21] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Robotics"
 	},
 	{
@@ -1951,7 +1953,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 5},
 		"uniques": ["Must be next to [Water]", "Gain a free [Observatory] [in this city]", "[+12 Science] from every [Observatory]", "Science gained from research agreements [+50]%",
-		"Only available <in cities with at least [17] [Population]>"],
+		"Only available <in cities with at least [17] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Information Theory",
 		"quote": "'Equipped with his five senses, man explores the universe around him and calls the adventure Science.' - Edwin Hubble"
 	},
@@ -1967,7 +1969,7 @@
             "Gain an extra spy",
 			"Only available <if [Military Base] is constructed in all [non-[Puppeted]] cities>",
 			"Cost increases by [25] per owned city", "Only available <when espionage is enabled>",
-		"Only available <in cities with at least [17] [Population]>"],
+		"Only available <in cities with at least [17] [Population]>", "Shown while unbuilable"],
         "requiredTech": "Advanced Espionage",
     },
 	// Column 16
@@ -1979,7 +1981,7 @@
 		"requiredResource": "Aluminum",
 		"requiredTech": "Stealth",
 		"uniques": ["Population loss from nuclear attacks [-50]% [in this city]",
-		"Only available <in cities with at least [23] [Population]>"]
+		"Only available <in cities with at least [23] [Population]>", "Shown while unbuilable"]
 	},
         {
 		"name": "Quantum Computer",
@@ -1988,7 +1990,7 @@
 		"maintenance": 6,
 		"requiredResource": "Aluminum",
 		"uniques": ["[+100]% [Science] [in this city]",
-		"Only available <in cities with at least [23] [Population]>"],
+		"Only available <in cities with at least [23] [Population]>", "Shown while unbuilable"],
 	},
         {
 		"name": "CERN",
@@ -1997,7 +1999,7 @@
 			"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 5},
 		"uniques": ["[1] free [Great Scientist] units appear", "Gain a free [Quantum Computer] [in this city]",
-		"Only available <in cities with at least [23] [Population]>"],
+		"Only available <in cities with at least [23] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Particle Physics",
 		"quote": "'Most likely anything that you think of that is possible isn’t true. In fact that’s a general principle in physics theories: no matter what a guy thinks of, it’s almost always false.' – Richard Feynman"
 	},
@@ -2008,7 +2010,7 @@
 		"requiredTech": "Nanotechnology",
 		"requiredResource": "Aluminum",
 		"uniques": ["[+100]% growth [in this city]",
-		"Only available <in cities with at least [23] [Population]>"],
+		"Only available <in cities with at least [23] [Population]>", "Shown while unbuilable"],
 	},
         // Column 17
         {
@@ -2017,7 +2019,7 @@
 		"production": 10,
 		"maintenance": 6,
 		"uniques": ["[+100]% [Production] [in this city]", "Consumes [1] [Uranium]",
-		"Only available <in cities with at least [26] [Population]>"],
+		"Only available <in cities with at least [26] [Population]>", "Shown while unbuilable"],
 	},
         {
 		"name": "AI Singularity",
@@ -2031,7 +2033,7 @@
 			    "[+50]% [Science] [in all cities]",
 			    "[+50]% [Culture] [in all cities]",
 			    "[+50]% [Faith] [in all cities]",
-		"Only available <in cities with at least [26] [Population]>"],
+		"Only available <in cities with at least [26] [Population]>", "Shown while unbuilable"],
 		"quote": "'It ascends from the earth to the heaven, and it again descends to the earth and receives the force of things superior and inferior.' - Hermes Trismegistus"
 	},
 	// All Eras
@@ -2043,7 +2045,7 @@
 	"requiredTech": "Financial Capital",
 		"greatPersonPoints": {"Great Merchant": 4},
 		"uniques": ["Only available <after adopting [Individualism]>", "[+2 Gold] from every specialist [in this city]", "[+5]% [Gold] [in this city] <for every [Remaining [Major] Civilizations]>",
-		"Only available <in cities with at least [13] [Population]>"],
+		"Only available <in cities with at least [13] [Population]>", "Shown while unbuilable"],
 		"quote": "'If history shows anything, it is that there's no better way to justify relations founded on violence, to make such relations seem moral, than by reframing them in the language of debt — above all, because it immediately makes it seem that it's the victim who's doing something wrong.' - David Graeber"
 	},
 	{
@@ -2054,7 +2056,7 @@
 		"requiredTech": "Replaceable Parts",
 		"greatPersonPoints": {"Great Artist": 4},
 		"uniques": ["Only available <after adopting [Nationalism]>", "[+50]% XP gained from combat <for [Military] units>", "[+1] Movement <for [Armored] units>", "[+1 Production, +1 Happiness] from every [Arsenal]", "[+2 Production, +2 Happiness] from every [Military Base]",
-		"Only available <in cities with at least [13] [Population]>"],
+		"Only available <in cities with at least [13] [Population]>", "Shown while unbuilable"],
 		"quote": "'A reliable way to make people believe in falsehoods is frequent repetition, because familiarity is not easily distinguished from truth. Authoritarian institutions and marketers have always known this fact.' - Daniel Kahneman"
 	},
 	{
@@ -2065,7 +2067,7 @@
 		"requiredTech": "Sociology",
 		"greatPersonPoints": {"Great Engineer": 4},
 		"uniques": ["Only available <after adopting [Internationalism]>", "[+50]% Great Person generation [in this city]", "[+3 Food, +3 Production, +3 Gold, +3 Culture, +3 Science] [in all cities]",
-		"Only available <in cities with at least [13] [Population]>"],
+		"Only available <in cities with at least [13] [Population]>", "Shown while unbuilable"],
 		"quote": "'The Communists disdain to conceal their views and aims. They openly declare that their ends can be attained only by the forcible overthrow of all existing social conditions. Let the ruling classes tremble at a Communistic revolution. The proletarians have nothing to lose but their chains. They have a world to win. Working Men of All Countries, Unite!' - Karl Marx"
 	},
 	{
@@ -2087,7 +2089,7 @@
 			"Unbuildable <if [Grand Temple] is not constructed> <when religion is enabled> <hidden from users>",
 			"Unbuildable <if [National Intelligence Agency] is not constructed> <when espionage is enabled> <hidden from users>",
 			"Cost increases by [927] per owned city", "Cannot be hurried",
-		"Only available <in cities with at least [17] [Population]>"],
+		"Only available <in cities with at least [17] [Population]>", "Shown while unbuilable"],
 		"quote": "'There is nothing like a dream to create the future.' - Victor Hugo"
 	},
         {
@@ -2098,7 +2100,7 @@
 			"requiredTech": "Cultural Hegemony",
 		"greatPersonPoints": {"Great Merchant": 5},
 		"uniques": ["Triggers voting for the Diplomatic Victory", "Only available <when [Diplomatic] Victory is enabled>", "Triggers a global alert upon build start", "Triggers a global alert upon completion", "Comment [Only avaible after finishing the Internationalism tree]", "Only available <after adopting [Internationalism Complete]> <hidden from users>", "Cannot be hurried",
-		"Only available <in cities with at least [15] [Population]>"],
+		"Only available <in cities with at least [15] [Population]>", "Shown while unbuilable"],
 		"quote": "'More than ever before in human history, we share a common destiny. We can master it only if we face it together. And that is why we have the United Nations.' - Kofi Annan"
 	},
 	

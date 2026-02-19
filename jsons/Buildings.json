@@ -279,7 +279,7 @@
 		"production": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["Must be on [River]",
-		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [2] [Population]>"],
 		"requiredTech": "The Wheel"
 	},
 	{
@@ -289,7 +289,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["Must be on [Fresh Water]", "[+1 Food] from [Fresh Water] tiles [in this city]",
-		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [2] [Population]>"],
 		"requiredTech": "The Wheel"
 	},
 	{
@@ -1224,7 +1224,7 @@
 		"science": 4,
 		"requiredBuilding": "University",
 		"uniques": ["Must be next to [Mountain]", "[+25]% [Science] [in this city] <after discovering [Scientific Theory]>",
-		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [7] [Population]>"],
 		"requiredTech": "Astronomy"
 	},
 	{
@@ -1281,7 +1281,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 3,
 		"uniques": ["Must not be on [Hill]",
-		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [7] [Population]>"],
 		"requiredTech": "Mechanics"
 	},
 	{
@@ -1296,7 +1296,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["Must not be on [Hill]", "[+1 Gold] from [Plantation] tiles [in this city]",
-		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [7] [Population]>"],
 		"requiredTech": "Mechanics"
 	},
 	{
@@ -1616,7 +1616,7 @@
 		"hurryCostModifier": 0,
 		"maintenance": 3,
 		"uniques": ["Must be on [River]", "[+1 Production] from [River] tiles [in this city]", "Provides [-3] [Pollution]",
-		"Only available <in cities with at least [8] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [8] [Population]>"],
 		"requiredTech": "Electricity"
 	},
 	{
@@ -1817,7 +1817,7 @@
 		"maintenance": 4,
 		"requiredTech": "Environmentalism",
 		"uniques": ["Must be next to [Desert]", "Only available <in cities without a [Wind Plant]>", "Only available <in cities without a [Biomass Plant]>", "Provides [-3] [Pollution]",
-		"Only available <in cities with at least [15] [Population]>", "Shown while unbuilable"]
+		"Only available <in cities with at least [15] [Population]>"]
 	},
 	{
 		"name": "Wind Plant",
@@ -1827,7 +1827,7 @@
 		"maintenance": 4,
 		"requiredTech": "Environmentalism",
 		"uniques": ["Must be next to [Mountain]", "Only available <in cities without a [Solar Plant]>", "Only available <in cities without a [Biomass Plant]>", "Provides [-3] [Pollution]",
-		"Only available <in cities with at least [15] [Population]>", "Shown while unbuilable"]
+		"Only available <in cities with at least [15] [Population]>"]
 	},
 	{
 		"name": "Biomass Plant",
@@ -1837,7 +1837,7 @@
 		"maintenance": 4,
 		"requiredTech": "Environmentalism",
 		"uniques": ["Must be next to [Plantation]", "Only available <in cities without a [Solar Plant]>", "Only available <in cities without a [Wind Plant]>", "Provides [-3] [Pollution]",
-		"Only available <in cities with at least [15] [Population]>", "Shown while unbuilable"]
+		"Only available <in cities with at least [15] [Population]>"]
 	},
 	{
 		"name": "Recycling Center",

@@ -583,6 +583,7 @@
 				"name": "Plastics",
 				"row": 2,
 				"prerequisites": ["Radio","Replaceable Parts","Refrigeration","Financial Capital"],
+				"uniques": ["[+200]% weight to this choice for AI decisions <hidden from users>"],
 				"quote": "'Ben, I want to say one word to you, just one word: plastics.' - Buck Henry and Calder Willingham, The Graduate"
 			},
 			{
@@ -839,6 +840,7 @@
 		]
 	}
 ]
+
 
 
 

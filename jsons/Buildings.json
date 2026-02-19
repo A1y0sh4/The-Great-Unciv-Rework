@@ -1131,7 +1131,7 @@
 		"percentStatBonus": {"science": 50},
 		"science": 4,
 		"requiredBuilding": "University",
-		"uniques": ["Must be next to [Mountain]"],
+		"uniques": ["Must be next to [Mountain]", "[+25]% [Science] [in this city] <after discovering [Scientific Theory]>"],
 		"requiredTech": "Astronomy"
 	},
 	{

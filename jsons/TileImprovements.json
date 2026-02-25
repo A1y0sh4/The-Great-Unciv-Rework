@@ -464,7 +464,7 @@
 	{
 		"name": "City ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Comment [Point of Interest]", "[-2 Food] <in [Grassland] tiles> <in tiles without [Hill]> <hidden from users>", "[-1 Food, -1 Production] <in [Plains] tiles> <in tiles without [Hill]> <hidden from users>", "[-2 Production] <in [Hill] tiles> <hidden from users>", "Gives a defensive bonus of [15]%", "Unpillagable", "Unbuildable", "Tile provides yield without assigned population"],
+		"uniques": ["Comment [Point of Interest]", "[-2 Food] <in [Grassland] tiles> <in tiles without [Hill]> <hidden from users>", "[-1 Food, -1 Production] <in [Plains] tiles> <in tiles without [Hill]> <hidden from users>", "[-2 Production] <in [Hill] tiles> <hidden from users>", "Gives a defensive bonus of [20]%", "Unpillagable", "Unbuildable", "Tile provides yield without assigned population"],
         "civilopediaText": [{"text":"A bleak reminder of the destruction wreaked by War"}]
 	},
 	{
@@ -495,4 +495,5 @@
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
 	}
 ]
+
 

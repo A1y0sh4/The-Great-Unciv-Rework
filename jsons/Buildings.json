@@ -1743,7 +1743,7 @@
 	// Column 12
 	{
 		"name": "Research Lab",
-		"science": 12,
+		"science": 16,
 		"percentStatBonus": {"science": 100},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Public School",

@@ -1805,7 +1805,7 @@
 		"greatPersonPoints": {"Great Artist": 2, "Great Merchant": 2, "Great Scientist": 2, "Great Engineer": 2},
 		"maintenance": 4,
 		"hurryCostModifier": 25,
-		"uniques": ["[-25]% Food consumption by [Specialists] [in this city]", "[+25]% Great Person generation [in this city]",
+		"uniques": ["[-25]% Food consumption by [Specialists] [in this city]", "[+25]% Great Person generation [in this city]", "Provides [1] [Pollution]",
 "Only available <in cities with at least [19] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Advanced Urbanism"
 	},
@@ -1980,7 +1980,7 @@
 		"maintenance": 6,
 		"requiredResource": "Aluminum",
 		"requiredTech": "Stealth",
-		"uniques": ["Population loss from nuclear attacks [-50]% [in this city]",
+		"uniques": ["Population loss from nuclear attacks [-50]% [in this city]", "Provides [1] [Pollution]",
 		"Only available <in cities with at least [23] [Population]>", "Shown while unbuilable"]
 	},
         {
@@ -1989,7 +1989,7 @@
 		"science": 10,
 		"maintenance": 6,
 		"requiredResource": "Aluminum",
-		"uniques": ["[+100]% [Science] [in this city]",
+		"uniques": ["[+100]% [Science] [in this city]", "Provides [1] [Pollution]",
 		"Only available <in cities with at least [23] [Population]>", "Shown while unbuilable"],
 	},
         {
@@ -2009,7 +2009,7 @@
 		"maintenance": 6,
 		"requiredTech": "Nanotechnology",
 		"requiredResource": "Aluminum",
-		"uniques": ["[+100]% growth [in this city]",
+		"uniques": ["[+100]% growth [in this city]", "Provides [1] [Pollution]",
 		"Only available <in cities with at least [23] [Population]>", "Shown while unbuilable"],
 	},
         // Column 17

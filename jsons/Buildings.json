@@ -244,7 +244,7 @@
 		"requiredNearbyImprovedResources": ["Ivory","Horses"],
 		"happiness": 2,
 		"maintenance": 1,
-		"uniques": ["Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
+		"uniques": ["Only available <in cities with at least [2] [Population]>"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Trapping"
 	},
@@ -257,7 +257,7 @@
 		"culture": 1,
 		"maintenance": 1,
 		"uniques": ["[+50]% Great Person generation [in this city] <during a Golden Age>",
-		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [2] [Population]>"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Trapping"
 	},
@@ -269,7 +269,7 @@
 	        "maintenance": 0,
 		"hurryCostModifier": 25,
 		"uniques": ["Must have an owned [Forest] within [2] tiles", "[+1 Food, +1 Gold] from [Forest] tiles [in this city]",
-		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [2] [Population]>"],
 		"requiredTech": "Trapping"
 	},
 	{
@@ -792,7 +792,7 @@
 		"greatPersonPoints": {"Great Merchant": 1},
 		"percentStatBonus": {"gold": 10},
 		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]",
-		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [3] [Population]>"],
 		"requiredTech": "Currency"
 	},
 	{ 
@@ -1497,7 +1497,7 @@
 		"isWonder": true,
 		"uniques": ["[+1 Culture, +1 Happiness, +2 Gold] from every [Castle]",
 			"Must be next to [Mountain]",
-		"Only available <in cities with at least [10] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [10] [Population]>"],
 		"requiredTech": "Archaeology",
 		"quote": "'...the location is one of the most beautiful to be found, holy and unapproachable, a worthy temple for the divine friend who has brought salvation and true blessing to the world.' - King Ludwig II of Bavaria"
 	},

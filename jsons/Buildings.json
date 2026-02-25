@@ -1969,7 +1969,7 @@
 	{
 		"name": "Mauna Kea Observatory",
 		"culture": 5,
-		"science": 24,
+		"science": 32,
 		"isWonder": true,
 		"requiredBuilding": "Factory",
 		"greatPersonPoints": {"Great Scientist": 5},

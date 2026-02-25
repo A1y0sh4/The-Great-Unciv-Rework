@@ -312,7 +312,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured", "Unbuildable <after discovering [Rifling]> <hidden from users>", "Cannot be purchased <after discovering [Rifling]> <hidden from users>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>",
-		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"]
+		"Only available <in cities with at least [2] [Population]>"]
 	},
 	{
 		"name": "Walls of Babylon",
@@ -325,7 +325,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured", "Unbuildable <after discovering [Rifling]> <hidden from users>", "Cannot be purchased <after discovering [Rifling]> <hidden from users>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>",
-		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"]
+		"Only available <in cities with at least [2] [Population]>"]
 	},
 	{
 		"name": "Tsikhe",
@@ -337,7 +337,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured", "Unbuildable <after discovering [Rifling]> <hidden from users>", "Cannot be purchased <after discovering [Rifling]> <hidden from users>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>",
-		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"]
+		"Only available <in cities with at least [2] [Population]>"]
 	},
         {
 		"name": "Great Wall",
@@ -1079,7 +1079,7 @@
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
 		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured", "Unbuildable <after discovering [Rifling]> <hidden from users>", "Cannot be purchased <after discovering [Rifling]> <hidden from users>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>",
-		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"]
+		"Only available <in cities with at least [5] [Population]>"]
 	},
 	{
 		"name": "Mughal Fort",
@@ -1091,7 +1091,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "Destroyed when the city is captured", "Unbuildable <after discovering [Rifling]> <hidden from users>", "Cannot be purchased <after discovering [Rifling]> <hidden from users>", "[+2 Culture] <after discovering [Archaeology]>", "[+2 Culture, +2 Gold] <after discovering [Flight]>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>",
-		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [5] [Population]>"],
 		"requiredTech": "Chivalry"
 	},
         {
@@ -1104,7 +1104,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"uniques": ["[+1 Production] from [Citadel] tiles [in this city]", "[+1 Food] from [Desert] tiles [in this city]", "Destroyed when the city is captured", "Unbuildable <after discovering [Rifling]> <hidden from users>", "Cannot be purchased <after discovering [Rifling]> <hidden from users>", "[+1 Culture] <after discovering [Archaeology]>", "[+1 Culture] <after discovering [Flight]>",
-		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [5] [Population]>"],
 		"requiredTech": "Chivalry"
 	},
 	{

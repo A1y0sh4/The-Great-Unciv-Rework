@@ -887,7 +887,7 @@
     },
 	{
 		"name": "[Privateer] ability",
-		"uniques": ["May capture killed [Water] units <with [75]% chance>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+		"uniques": ["May capture killed [Water] units <with [50]% chance>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
 	{
 		"name": "Epic Quest Unique",
@@ -973,5 +973,6 @@
 		"uniques": ["[+10]% Strength <while the empire is happy>"]
 	},
 ]
+
 
 

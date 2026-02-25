@@ -450,7 +450,7 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Production] from [Pasture] tiles [in this city]",
 		        "Unsellable", "Provides [1] [Horses] <for [Mongolia] Civilizations> <hidden from users>",
-		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [3] [Population]>"],
 		"requiredTech": "Horseback Riding"
 	},
 	{
@@ -464,7 +464,7 @@
 		"uniques": ["[+1 Production] from [Pasture] tiles [in this city]",
 			"[+1 Food] from [Pasture] tiles [in this city]",
 		        "Unsellable", "Provides [1] [Horses] <for [Mongolia] Civilizations> <hidden from users>",
-		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [3] [Population]>"],
 		"requiredTech": "Horseback Riding"
 	},
 	{

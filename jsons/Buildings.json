@@ -1627,7 +1627,7 @@
 		"requiredNearbyImprovedResources": ["Iron"],
 		"requiredTech": "Electricity",
 		"uniques": ["Only available <when above [1] [Iron]>", "Consumes [2] [Iron]", "Provides [2] [Aluminum]", "Provides [1] [Pollution]",
-		"Only available <in cities with at least [11] [Population]>", "Shown while unbuilable"]
+		"Only available <in cities with at least [11] [Population]>"]
 		
 	},
 	{

@@ -1973,12 +1973,12 @@
 		"name": "Guided Missile",
 		"unitType": "Missile",
 		"movement": 1,
-		"strength": 60,
-		"rangedStrength": 60,
+		"strength": 55,
+		"rangedStrength": 55,
 		"range": 8,
 		"cost": 765,
 		"requiredTech": "Advanced Ballistics",
-		"uniques": ["Destroys tile improvements when attacking", "[-100]% maintenance costs"],
+		"uniques": ["Destroys tile improvements when attacking", "[-100]% maintenance costs", "Can move immediately once bought"],
 		"attackSound": "missile"
 	},
 	{

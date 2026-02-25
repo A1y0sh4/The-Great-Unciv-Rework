@@ -1484,7 +1484,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 3},
 		"uniques": ["[1] free [Great Artist] units appear", "Gain a free [Museum] [in this city]",
-		"Only available <in cities with at least [10] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [10] [Population]>"],
 		"requiredTech": "Archaeology",
 		"quote": "'Every genuine work of art has as much reason for being as the earth and the sun' - Ralph Waldo Emerson"
 	},
@@ -1554,7 +1554,7 @@
 		"greatPersonPoints": {"Great Engineer": 3},
 		"isWonder": true,
 		"uniques": ["Gain a free [Factory] [in this city]", "Gain a free [Coal Plant] [in this city]", "[+1 Production] from [Coal] tiles [in this city]", "[+1 Production] from [Aluminum] tiles [in this city]", "[+1 Production] from [Uranium] tiles [in this city]",
-		"Only available <in cities with at least [10] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [10] [Population]>"],
 		"requiredNearbyImprovedResources": ["Coal"],
 		"requiredTech": "Industrialization",
 		"quote": "'The soul of man under socialism will work no more for wages, but for the joy of creation.' - Oscar Wilde"
@@ -1576,7 +1576,7 @@
 		"greatPersonPoints": {"Great Merchant": 3},
 		"isWonder": true,
 		"uniques": ["[Gold] cost of purchasing items in cities [-25]%",
-		"Only available <in cities with at least [10] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [10] [Population]>"],
 		"requiredTech": "Urban Planning",
 		"quote": "'To achieve great things, two things are needed: a plan, and not quite enough time.' - Leonard Bernstein"
 	},
@@ -1595,7 +1595,7 @@
 		"greatPersonPoints": {"Great Scientist": 3},
 		"isWonder": true,
 		"uniques": ["Free Great Person <upon declaring friendship> <with [25]% chance>", "[+25]% Great Person generation [in all cities] <for [All] Civilizations>", "Gain [60] Influence with a [Great Person] gift to a City-State",
-		"Only available <in cities with at least [11] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [11] [Population]>"],
 		"requiredTech": "Dynamite",
 		"quote": "'One can state, without exaggeration, that the observation of and the search for similarities and differences are the basis of all human knowledge.' - Alfred Nobel",
 	},
@@ -1662,7 +1662,7 @@
 		"greatPersonPoints": {"Great Engineer": 4},
 		"requiredBuilding": "Factory",
 		"uniques": ["Gain a free [Stadium] [in this city]", "[+2 Culture] from every [Stadium]",
-		"Only available <in cities with at least [13] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [13] [Population]>"],
 		"requiredTech": "Refrigeration",
 		"quote": "'Down through its history, only three people have managed to silence the Maracana: the Pope, Frank Sinatra, and me.' - Alcides Ghiggia"
 	},
@@ -1697,7 +1697,7 @@
 		"isWonder": true,
 		"requiredBuilding": "Factory",
 		"uniques": ["[+1 Science] from all [Production] buildings",
-		"Only available <in cities with at least [13] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [13] [Population]>"],
 		"requiredTech": "Radio",
 		"quote": "'We live only to discover beauty, all else is a form of waiting' - Kahlil Gibran"
 	},
@@ -1708,7 +1708,7 @@
 		"isWonder": true,
 		"requiredBuilding": "Factory",
 		"uniques": ["Gain a free [Stock Exchange] [in this city]", "[+4 Gold, +1 Happiness] from every [Stock Exchange]", "[+25]% [Gold] from Trade Routes",
-		"Only available <in cities with at least [13] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [13] [Population]>"],
 		"requiredTech": "Financial Capital",
 		"quote": "'A man always has two reasons for what he does - a good one, and the real one.' - J.P. Morgan"
 	},
@@ -1761,7 +1761,7 @@
 		"greatPersonPoints": {"Great Artist": 4},
 		"requiredBuilding": "Factory",
 		"uniques": ["Must be on [Hill]", "[-10]% Culture cost of adopting new Policies", "[Faith] cost of purchasing items in cities [-10]%",
-		"Only available <in cities with at least [15] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [15] [Population]>"],
 		"requiredTech": "Plastics",
 		"quote": "'Come to me, all who labor and are heavy burdened, and I will give you rest.' - New Testament, Matthew 11:28"
 	},
@@ -1796,7 +1796,7 @@
 		"requiredBuilding": "Factory",
 		"greatPersonPoints": {"Great Scientist": 4},
 		"uniques": ["[-25]% Gold cost of upgrading <for [Military] units>", "[+2 Production, +3 Science] from every [Military Base]", "Gain a free [Military Base] [in all cities]",
-		"Only available <in cities with at least [15] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [15] [Population]>"],
 		"requiredTech": "Combined Arms",
 		"quote": "'In preparing for battle I have always found that plans are useless, but planning is indispensable.' - Dwight D. Eisenhower"
 	},

@@ -174,7 +174,7 @@
 		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Wheat","Maize","Rice"],
 		 "uniques": ["Provides [1] [Beer]",
-		 "Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
+		 "Only available <in cities with at least [3] [Population]>"],
 		"requiredTech": "Fermentation"
 	},
 	{
@@ -186,7 +186,7 @@
 		"happiness": 1,
 		"requiredNearbyImprovedResources": ["Wheat","Maize","Rice"],
 		 "uniques": ["Provides [1] [Beer]", "[+1 Culture] <for every [Beer]>",
-		 "Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
+		 "Only available <in cities with at least [3] [Population]>"],
 		"requiredTech": "Fermentation"
 	},
 	{
@@ -195,7 +195,7 @@
 		"maintenance": 1,
                 "requiredNearbyImprovedResources": ["Grape"],
 		 "uniques": ["Provides [1] [Wine]",
-		 "Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
+		 "Only available <in cities with at least [3] [Population]>"],
 		"requiredTech": "Fermentation"
 	},
 	{
@@ -206,7 +206,7 @@
 		"maintenance": 1,
 		"requiredNearbyImprovedResources": ["Grape"],
 		 "uniques": ["Provides [2] [Wine]", "[+1 Culture, +1 Faith] from [Grape] tiles [in this city]",
-		 "Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
+		 "Only available <in cities with at least [3] [Population]>"],
 		"requiredTech": "Fermentation"
 	},
 	{
@@ -930,7 +930,7 @@
 		"maintenance": 2,
                 "requiredNearbyImprovedResources": ["Sugar"],
 		 "uniques": ["Comment [Only avaible in cities without another Distillery]", "Only available <in cities without a [Vodka Distillery]> <hidden from users>", "Only available <in cities without a [Whisky Distillery]> <hidden from users>", "Only available <in cities without a [Cognac Distillery]> <hidden from users>", "Provides [1] [Rum]",
-		 "Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
+		 "Only available <in cities with at least [5] [Population]>"],
 		"requiredTech": "Distillation"
 	},
 	{
@@ -939,7 +939,7 @@
 		"maintenance": 2,
                 "requiredNearbyImprovedResources": ["Wheat"],
 		 "uniques": ["Comment [Only avaible in cities without another Distillery]", "Only available <in cities without a [Rum Distillery]> <hidden from users>", "Only available <in cities without a [Vodka Distillery]> <hidden from users>", "Only available <in cities without a [Cognac Distillery]> <hidden from users>", "Provides [1] [Whisky]",
-		 "Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
+		 "Only available <in cities with at least [5] [Population]>"],
 		"requiredTech": "Distillation"
 	},
 	{
@@ -948,7 +948,7 @@
 		"maintenance": 2,
                 "requiredNearbyImprovedResources": ["Wheat"],
 		 "uniques": ["Comment [Only avaible in cities without another Distillery]", "Only available <in cities without a [Rum Distillery]> <hidden from users>", "Only available <in cities without a [Whisky Distillery]> <hidden from users>", "Only available <in cities without a [Cognac Distillery]> <hidden from users>", "Provides [1] [Vodka]",
-		 "Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
+		 "Only available <in cities with at least [5] [Population]>"],
 		"requiredTech": "Distillation"
 	},
 	{
@@ -958,7 +958,7 @@
                 "requiredBuilding": "Wine Cellar",
 		"requiredNearbyImprovedResources": ["Grape"],
 		 "uniques": ["Comment [Only avaible in cities without another Distillery]", "Only available <in cities without a [Rum Distillery]> <hidden from users>", "Only available <in cities without a [Whisky Distillery]> <hidden from users>", "Only available <in cities without a [Vodka Distillery]> <hidden from users>", "Provides [1] [Cognac]",
-		 "Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
+		 "Only available <in cities with at least [5] [Population]>"],
 		"requiredTech": "Distillation"
 	},
 	{

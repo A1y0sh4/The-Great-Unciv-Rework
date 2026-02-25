@@ -141,7 +141,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"uniques": ["[+1 Food] from [Camp] tiles [in this city]",
-		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [2] [Population]>"],
 		"requiredTech": "Trapping",
 		"quote": "'It is not so much for its beauty that the forest makes a claim upon men's hearts, as for that subtle something, that quality of air, that emanation from old trees, that so wonderfully changes and renews a weary spirit.' - Robert Louis Stevenson",
 	},
@@ -154,7 +154,7 @@
 		"isWonder": true,
 		"requiredTech": "Calendar",
 		"uniques": ["Must be on [Fresh Water]", "[+1 Food] from [Farm] tiles [in this city] <in [Fresh Water] tiles>", "[+1 Food] from [Plantation] tiles [in this city] <in [Fresh Water] tiles>", "[+15]% growth [in this city]",
-		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [2] [Population]>"],
 		"quote": "'I think that if ever a mortal heard the word of God it would be in a garden at the cool of the day.' - F. Frankfort Moore",
 	},
 	// Column 2
@@ -302,7 +302,7 @@
 		"production": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Food] <in [Fresh Water] tiles>",
-		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [2] [Population]>"],
 		"requiredTech": "The Wheel"
 	},
 	{
@@ -347,7 +347,7 @@
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
 		"uniques": ["Enemy [Mounted] units must spend [2] extra movement points when inside your territory", "Provides a [Walls] in your first [4] cities for free", "[+1 Culture] from every [Walls]",
-		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [3] [Population]>"],
 		"requiredTech": "Construction",
 		"quote": "'The art of war teaches us to rely not on the likelihood of the enemy's not attacking, but rather on the fact that we have made our position unassailable.' - Sun Tzu"
 	},
@@ -378,7 +378,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"uniques": ["[+15]% Strength <for [Military] units> <vs cities>", "Gain a free [Barracks] [in this city]", "[1] free [Spearman] units appear", "[+15]% Production when constructing [Military] units [in this city]",
-		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [2] [Population]>"],
 		"requiredTech": "Bronze Working",
 		"quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad",
 	},
@@ -586,7 +586,7 @@
 			"Gain [2500] [Culture] <during the [Atomic era]> <(modified by game speed)> <hidden from users>",
 			"Gain [5590] [Culture] <during the [Information era]> <(modified by game speed)> <hidden from users>",
 			"Gain [12500] [Culture] <during the [Future era]> <(modified by game speed)> <hidden from users>",
-			"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"
+			"Only available <in cities with at least [3] [Population]>"
 		],
 		"quote": "'Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.' - Sun Tzu",
 	},
@@ -648,7 +648,7 @@
 		"greatPersonPoints": {"Great Engineer": 2},
 		"isWonder": true,
 		"uniques": ["Must be next to [Jungle]", "[+50]% Golden Age length", "[+1 Culture] from [Jungle] tiles [in this city]", "Gain a free [Temple] [in this city] <when religion is enabled>",
-		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [3] [Population]>"],
 		"requiredTech": "Spirituality",
 		"quote": "'The katun is established at Chichen Itza. The settlement of the Itza shall take place there. The quetzal shall come, the green bird shall come. Ah Kantenal shall come. It is the word of God. The Itza shall come.' - The Books of Chilam Balam"
 	},
@@ -659,7 +659,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"uniques": ["Must have an owned [Rare feature] within [1] tiles", "[+1 Food] from every [Rare feature]", "Gain a free [Colosseum] [in this city]",
-		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [3] [Population]>"],
 		"requiredTech": "Spirituality",
 		"quote": "'But the wrath of Huitzilopochtli was great, and as the sacrifice passed each of the four rooms dedicated to the sun god, the sun disappeared or reappeared in the sky.' - Fray Diego Durán"
 	},
@@ -681,7 +681,7 @@
 		"greatPersonPoints": {"Great Scientist": 2},
 		"isWonder": true,
 		"uniques": ["Free Great Person", "[+25]% Great Person generation [in all cities]", "Must be next to [Mountain]",
-		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [3] [Population]>"],
 		"requiredTech": "Philosophy",
 		"quote": "'The ancient Oracle said that I was the wisest of all the Greeks. It is because I alone, of all the Greeks, know that I know nothing' - Socrates"
 	},
@@ -739,7 +739,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["Must be on [Hill]", "Empire enters golden age", "Resting point for Influence with City-States is increased by [10]", "Gain a free [Amphitheater] [in this city]",
-		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [3] [Population]>"],
 		"requiredTech": "Drama and Poetry",
 		"quote": "'Earth proudly wears the Parthenon as the best gem upon her zone.' - Ralph Waldo Emerson"
 	},
@@ -801,7 +801,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Merchant": 2},
 		"uniques": ["Must be on [Hill]", "Gain a free [Market] [in this city]", "Gain a free [Walls] [in this city]", "Provides 1 extra copy of each improved luxury resource near this City",
-		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [3] [Population]>"],
 		"requiredTech": "Currency",
 		"quote": "'Among the gold mines of the inland plains between the Limpopo and Zambezi rivers there is a fortress built of stones of marvelous size, and there appears to be no mortar joining them ... This edifice is almost surrounded by hills, upon which are others resembling it in the fashioning of stone and the absence of mortar, and one of them is a tower more than 12 fathoms high.\nThe natives of the country call these edifices Symbaoe, which according to their language signifies court.' - Vicente Pegado"
 	},
@@ -812,7 +812,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"uniques": ["Must have an owned [Desert] within [1] tiles", "[+1 Production, +1 Gold] from [Desert] tiles without [Flood plains] [in this city]", "[+6 Culture] [in this city] <after discovering [Archaeology]>",
-		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [3] [Population]>"],
 		"requiredTech": "Horseback Riding",
 		"quote": "'...who drinks the water I shall give him, says the Lord, will have a spring inside him welling up for eternal life. Let them bring me to your holy mountain in the place where you dwell. Across the desert and through the mountain to the Canyon of the Crescent Moon...' - Indiana Jones"
 	},
@@ -865,7 +865,7 @@
 		"percentStatBonus": {"gold": 10},
 		"isWonder": true,
 		"uniques": ["Must be next to [Water]", "[+1 Gold] from [Water] tiles [in this city]", "Gain a free [Harbor] [in this city]",
-		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [3] [Population]>"],
 		"requiredTech": "Shipbuilding",
 		"quote": "'Why man, he doth bestride the narrow world like a colossus, and we petty men walk under his huge legs, and peep about to find ourselves dishonorable graves.' - William Shakespeare, Julius Caesar",
 	},
@@ -880,7 +880,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
 		"uniques": ["Free [Great Prophet] appears", "When spreading religion to a city, gain [5] times the amount of followers of other religions as [Culture]", "Gain a free [Temple] [in this city]", "Only available <when religion is enabled>",
-		"Only available <in cities with at least [4] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [4] [Population]>"],
 		"requiredTech": "Theology",
 		"quote": "'For it soars to a height to match the sky, and as if surging up from among the other buildings it stands on high and looks down upon the remainder of the city, adorning it, because it is a part of it, but glorying in its own beauty' - Procopius, De Aedificis",
 	},
@@ -898,7 +898,7 @@
 			    "[+1 Science] <for every [150] [Faith]> <on [Epic] game speed> <hidden from users>", 
 			    "[+1 Science] <for every [200] [Faith]> <on [Marathon] game speed> <hidden from users>", 
 			    "[+1 Science] <for every [250] [Faith]> <on [Endless] game speed> <hidden from users>", 
-			    "Only available <when religion is enabled>", "Only available <in cities with at least [4] [Population]>", "Shown while unbuilable"],
+			    "Only available <when religion is enabled>", "Only available <in cities with at least [4] [Population]>"],
 		"requiredTech": "Theology",
 		"quote": "'With the magnificence of eternity before us, let time, with all its fluctuations, dwindle into its own littleness.' - Thomas Chalmers"
 	},
@@ -920,7 +920,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["[+3 Food] <when not at war>", "[+3 Production] <when at war>", "Gain a free [Stupa] [in this city]", "Only available <when religion is enabled>",
-		"Only available <in cities with at least [4] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [4] [Population]>"],
 		"requiredTech": "Theology",
 		"quote": "'All religions should reside everywhere, for all of them desire self-control and purity of heart.' - Ashoka",
 	},
@@ -1056,7 +1056,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["Gain a free [University] [in this city]", "Free Technology",
-		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [5] [Population]>"],
 		"quote": "'The clever men at Oxford... Know all that there is to be knowed. But they none of them know one half as much... As intelligent Mr. Toad!' - Kenneth Grahame"
 		"requiredTech": "Education"
 	},
@@ -1067,7 +1067,7 @@
 		"greatPersonPoints": {"Great Scientist": 2},
 		"isWonder": true,
 		"uniques": ["Must be next to [Jungle]", "[+1] population [in all cities]", "[+1 Faith, +2 Science] [in all cities]", "Gain a free [Wat] [in this city]",
-		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [5] [Population]>"],
 		"requiredTech": "Machinery",
 		"quote": "'The temple is like no other building in the world. It has towers and decoration and all the refinements which the human genius can conceive of.' - Antonio da Magdalena"
 	},
@@ -1118,7 +1118,7 @@
 		"percentStatBonus": {"culture": 15},
 		"uniques": ["Must be on [Hill]", "All newly-trained [relevant] units [in this city] receive the [Drill I] promotion",
 			"Gain a free [Castle] [in this city]",
-		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [5] [Population]>"],
 		"requiredTech": "Chivalry",
 		"quote": "'Justice is an unassailable fortress, built on the brow of a mountain which cannot be overthrown by the violence of torrents, nor demolished by the force of armies.' - Joseph Addison"
 	},
@@ -1128,7 +1128,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"uniques": ["Gain a free [Castle] [in this city]", "Gain [100] [Gold] <upon constructing [Wonders] [in all cities]> <(modified by game speed)>", "Gain [100] [Culture] <upon gaining a [Great Person] unit> <(modified by game speed)>",
-		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [5] [Population]>"],
 		"requiredBuilding": "Palace",
 		"requiredTech": "Chivalry",
 		"quote": "'If heaven can be on the face of the earth,\nIt is this, it is this, it is this.' - Amir Khusrow"
@@ -1140,7 +1140,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
 		"uniques": ["[-10]% Unhappiness from [Population] [in all cities]",
-		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [5] [Population]>"],
 		"requiredBuilding": "Palace",
 		"requiredTech": "Steel",
 		"quote": "'Most of us can, as we choose, make of this world either a palace or a prison' - John Lubbock"
@@ -1164,7 +1164,7 @@
 		"greatPersonPoints": {"Great Engineer": 2},
 		"isWonder": true,
 		"uniques": ["[+15]% Production when constructing [All] wonders [in all cities]", "Gain a free [Cathedral] [in this city]",
-		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [5] [Population]>"],
 		"requiredTech": "Physics",
 		"quote": "'Architecture has recorded the great ideas of the human race. Not only every religious symbol, but every human thought has its page in that vast book.' - Victor Hugo"
 	},
@@ -1174,7 +1174,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
 		"uniques": ["[+25]% Great Person generation [in all cities]", "Free Great Person",
-		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [5] [Population]>"],
 		"requiredTech": "Physics",
 		"quote": "'Don't clap too hard - it's a very old building.' - John Osbourne"
 	},
@@ -1258,7 +1258,7 @@
 		"greatPersonPoints": {"Great Scientist": 3},
 		"isWonder": true,
 		"uniques": ["Free [Great Scientist] appears", "Science gained from research agreements [+50]%", "Gain a free [Pagoda] [in this city]",
-		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [7] [Population]>"],
 		"requiredTech": "Acoustics",
 		"quote": "'Things always seem fairer when we look back at them, and it is out of that inaccessible tower of the past that Longing leans and beckons.' - James Russell Lowell"
 	},
@@ -1268,7 +1268,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 3},
 		"uniques": ["[+1 Faith] per [1] social policies adopted", "Can only be built <in [Holy] cities>",
-		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [7] [Population]>"],
 		"requiredTech": "Acoustics",
 		"quote": "'I live and love in God's peculiar light.' - Michelangelo Buonarroti"
 	},
@@ -1328,7 +1328,7 @@
 		"cityStrength": 6,
 		"cityHealth": 25,
 		"uniques": ["[+25]% [Gold] from Trade Routes", "[+15]% Strength <for [Military] units> <when fighting in [Hill] tiles>", "Must be next to [Mountain]",
-		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [7] [Population]>"],
 		"requiredTech": "Banking",
 		"quote": "'Few romances can ever surpass that of the granite citadel on top of the beetling precipices of Machu Picchu, the crown of Inca Land.' - Hiram Bingham"
 	},
@@ -1347,7 +1347,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 3},
 		"uniques": ["Must be next to [Fresh water]", "Gain a free [Theatre] [in this city]", "[+2 Gold] from every [Theatre]",
-		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [7] [Population]>"],
 		"requiredTech": "Printing Press",
 		"quote": "'Totus mundus agit histrionem.' - Inscription above main entrance to the Globe Theatre"
 	},
@@ -1359,7 +1359,7 @@
 		"greatPersonPoints": {"Great Artist": 3},
 		"isWonder": true,
 		"uniques": ["Must be next to [Fresh water]", "Empire enters golden age",
-		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [7] [Population]>"],
 		"requiredTech": "Printing Press",
 		"quote": "'The Taj Mahal rises above the banks of the river like a solitary tear suspended on the cheek of time.' - Rabindranath Tagore"
 	},
@@ -1369,7 +1369,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 3},
 		"uniques": ["Must be on [Hill]", "May buy [Military] units with [Faith] [in this city]", "[+25]% Strength <for [Military] units> <vs [City-States]>",
-		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [7] [Population]>"],
 		"requiredTech": "Gunpowder",
 		"quote": "'Bushido is realized in the presence of death. This means choosing death whenever there is a choice between life and death. There is no other reasoning.' - Yamamoto Tsunetomo"
 	},
@@ -1382,7 +1382,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 3},
 		"uniques": ["[+25]% City Strength from defensive buildings",
-		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [7] [Population]>"],
 		"requiredBuilding": "Palace",
 		"requiredTech": "Gunpowder",
 		"quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed",
@@ -1417,7 +1417,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 3},
 		"uniques": ["Gain a free [Opera House] [in this city]", "Provides the cheapest [Culture] building in your first [50] cities for free <hidden from users>", "Comment [Provides the cheapest available [Culture] building in all cities for free]",
-		"Only available <in cities with at least [8] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [8] [Population]>"],
 		"requiredTech": "Architecture",
 		"quote": "'Bolshoi Ballet is a universe of the imagination, a place of magic and enchantment, beauty and romance. Its many worlds vibrate with graceful dancers, glorious music, and sumptuous costumes.' - Trudy Garfunkel"
 	},
@@ -1427,7 +1427,7 @@
 		"greatPersonPoints": {"Great Engineer": 3},
 		"isWonder": true,
 		"uniques": ["Free [Great General] appears", "New [Military] units start with [15] XP [in this city]", "[+2 Production, +1 Happiness] [in all cities] <when at war>",
-		"Only available <in cities with at least [8] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [8] [Population]>"],
 		"requiredTech": "Architecture",
 		"quote": "'Pale Death beats equally at the poor man's gate and at the palaces of kings.' - Horace"
 	},
@@ -1438,7 +1438,7 @@
 		"requiredBuilding": "Palace",
 		"isWonder": true,
 		"uniques": ["[+50]% Great Person generation [in this city]", "[-15]% City-State Influence degradation", "Influence of all other civilizations with all city-states degrades [15]% faster", "Gifts of Gold to City-States generate [15]% more Influence",
-		"Only available <in cities with at least [8] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [8] [Population]>"],
 		"requiredTech": "Architecture",
 		"quote": "'The state, is me.' - Louis XIV"
 	},

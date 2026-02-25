@@ -157,7 +157,7 @@
 		"Only available <in cities with at least [2] [Population]>"],
 		"quote": "'I think that if ever a mortal heard the word of God it would be in a garden at the cool of the day.' - F. Frankfort Moore",
 	},
-	// Column 2
+	// Column 2,
 	{
 		"name": "Stone Works",
 		"requiredNearbyImprovedResources": ["Obsidian", "Marble", "Stone"],
@@ -165,7 +165,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"uniques": ["[+1 Production] from [Quarry] tiles [in this city]",
-		"Only available <in cities with at least [2] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [2] [Population]>"],
 		"requiredTech": "Masonry"
 	},
 	{

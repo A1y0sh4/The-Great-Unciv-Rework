@@ -583,7 +583,7 @@
             },
             {
                 "name": "Total War",
-                "uniques": ["[+25]% Strength <for [Military] units> <vs cities>", "[+25]% Production when constructing [Military] units [in all cities]"],
+                "uniques": ["[+25]% Strength <for [Military] units> <vs cities>", "[+15]% Production when constructing [Military] units [in all cities]"],
                 "requires": ["Autarky", "Police State"],
                 "row": 3,
                 "column": 3
@@ -643,7 +643,7 @@
                 "name": "United Front",
                 "requires": ["Diplomatic Missions"],
                 "uniques": [
-                    "Resting point for Influence with City-States is increased by [10]", "[+25]% Strength <when fighting units from a Civilization with more Cities than you>",
+                    "Resting point for Influence with City-States is increased by [15]", "[+25]% Strength <when fighting units from a Civilization with more Cities than you>",
                 ],
                 "row": 3,
                 "column": 3

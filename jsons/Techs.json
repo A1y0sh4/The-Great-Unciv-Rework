@@ -493,6 +493,7 @@
 				"name": "Electricity",
 				"row": 3,
 				"prerequisites": ["Scientific Theory","Industrialization","Urban Planning"],
+				"uniques": ["[+300]% weight to this choice for AI decisions <hidden from users>"],
 				"quote": "'Is it a fact - or have I dreamt it - that, by means of electricity, the world of matter has become a great nerve, vibrating thousands of miles in a breathless point of time?' - Nathaniel Hawthorne"
 			},
 			{
@@ -841,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

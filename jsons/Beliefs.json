@@ -346,7 +346,7 @@
     {
         "name": "Monumental Pride",
         "type": "Follower",
-        "uniques": ["[+2]% Production when constructing [All] wonders [in this city]", "[+2]% Production when constructing [All] wonders [in this city] <for every [Cities]>"]
+        "uniques": ["Comment [+2% [Production] when constructing wonders (+2% for every number of Cities owned)]", "[+2]% Production when constructing [All] wonders [in this city] <hidden from users>", "[+2]% Production when constructing [All] wonders [in this city] <for every [Cities]> <hidden from users>"]
     },
     {
         "name": "Peace Gardens",
@@ -548,6 +548,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

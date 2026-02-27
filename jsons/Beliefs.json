@@ -264,6 +264,11 @@
         "uniques": ["[All] Units adjacent to this city heal [+20] HP per turn when healing"]
     },
     {
+        "name": "Fasting",
+        "type": "Follower",
+        "uniques": ["[-10]% Food consumption by [Followers of this Religion] [in this city]"]
+    },
+    {
         "name": "Feed the World",
         "type": "Follower",
         "uniques": ["[+1 Food] from all [Faith] buildings"]
@@ -531,6 +536,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

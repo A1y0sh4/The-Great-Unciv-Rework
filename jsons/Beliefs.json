@@ -233,13 +233,18 @@
         "type": "Follower",
         "uniques": ["[+10]% [Production] [in this city] <when at war>"]
     },
+    {
+        "name": "Civic Culture",
+        "type": "Follower",
+        "uniques": ["[+3 Culture, +1 Happiness] from every [National Wonder]"]
+    },
      {
         "name": "Choral Music",
         "type": "Follower",
         "uniques": ["[+1 Culture] from all [Faith] buildings"] 
     },
     {
-        "name": "Divine inspiration",
+        "name": "Divine Inspiration",
         "type": "Follower",
         "uniques": ["[+2 Science] from every [Wonder]"]
     },
@@ -504,6 +509,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

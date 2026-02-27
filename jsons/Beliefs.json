@@ -325,7 +325,7 @@
     {
         "name": "Less is More",
         "type": "Follower",
-        "uniques": ["Comment [The less cities does a Civilization have, the faster buildings are constructed]", "Comment [(30% faster with 1 city, 15% with 2, 8% with 3, 4% with 4, 2% with 5, etc...)]",
+        "uniques": ["Comment [The less cities does a Civilization have, the faster buildings are constructed]", "Comment [(30% faster with 1 city, 15% with 2, 8% with 3, 4% with 4, etc...)]",
         "[+30]% Production when constructing [All] buildings [in this city] <when number of [Cities] is equal to [1]> <hidden from users>",
         "[+15]% Production when constructing [All] buildings [in this city] <when number of [Cities] is equal to [2]> <hidden from users>",
         "[+8]% Production when constructing [All] buildings [in this city] <when number of [Cities] is equal to [3]> <hidden from users>",
@@ -346,7 +346,7 @@
     {
         "name": "Monumental Pride",
         "type": "Follower",
-        "uniques": ["Comment [+2% [Production] when constructing wonders (+2% for every number of Cities owned)]", "[+2]% Production when constructing [All] wonders [in this city] <hidden from users>", "[+2]% Production when constructing [All] wonders [in this city] <for every [Cities]> <hidden from users>"]
+        "uniques": ["Comment [+2% [Production] when constructing wonders (with an additional +2% for every number of Cities owned)]", "[+2]% Production when constructing [All] wonders [in this city] <hidden from users>", "[+2]% Production when constructing [All] wonders [in this city] <for every [Cities]> <hidden from users>"]
     },
     {
         "name": "Peace Gardens",

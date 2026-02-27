@@ -662,7 +662,7 @@
 				"name": "Information Theory",
 				"row": 8,
 				"prerequisites": ["Ballistics","Electronics","Cultural Hegemony","Combined Arms"],
-				"uniques": ["Production to [Gold] conversion in cities changed by [+50]%", "Production to [Science] conversion in cities changed by [+50]%"],
+				"uniques": ["Production to [Gold] conversion in cities changed by [+100]%", "Production to [Science] conversion in cities changed by [+100]%"],
 				"quote": "'An individual tends to absorb the surrounding spirit and to radiate the acquired lifestyle and worldview to anyone around, not just to a select friend.' - Andrej Kolmogorov"
 			},
 			{

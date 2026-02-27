@@ -236,7 +236,7 @@
     {
         "name": "Civic Culture",
         "type": "Follower",
-        "uniques": ["[+3 Culture, +1 Happiness] from every [National Wonder]"]
+        "uniques": ["[+3 Culture, +1 Happiness] from every [National Wonder]"] 
     },
      {
         "name": "Choral Music",
@@ -371,6 +371,11 @@
                     "[+5]% [Faith] [in this city] <without [Whisky]> <hidden from users>",
                     "[+5]% [Faith] [in this city] <without [Vodka]> <hidden from users>",
                     "[+5]% [Faith] [in this city] <without [Cognac]> <hidden from users>"]
+    },
+    {
+        "name": "Sacred Wonders",
+        "type": "Follower",
+        "uniques": ["[+50]% Yield from every [Natural Wonder]"]
     },
     {
         "name": "Swords into Ploughshares",
@@ -526,6 +531,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

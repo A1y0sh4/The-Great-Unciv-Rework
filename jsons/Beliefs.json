@@ -398,7 +398,6 @@
         "name": "Defender of the Faith",
         "type": "Enhancer",
         "uniques": ["[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"]
-        // ToDo: Should only be friendly territory of cities that follow this religion
     },
     {
         "name": "Doctrinal Esoterism",
@@ -423,7 +422,7 @@
     {
         "name": "Inquisition Tribunals",
         "type": "Enhancer",
-        "uniques": ["Free [Inquisitor] appears <upon constructing [Courthouse]>", "[+2 Faith] from every [Courthouse]"]
+        "uniques": ["Free [Inquisitor] appears <upon constructing [Courthouse]>", "[+2 Faith, +1 Happiness] from every [Courthouse]"]
     },
     {
         "name": "Itinerant Preachers",
@@ -434,7 +433,6 @@
         "name": "Just War",
         "type": "Enhancer",
         "uniques": ["[+15]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
-        // ToDo: Should only be enemy territory of cities that follow this religion
     },
     {
         "name": "Learning Centres",
@@ -497,6 +495,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

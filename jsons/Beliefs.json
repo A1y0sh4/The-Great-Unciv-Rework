@@ -234,15 +234,6 @@
         "uniques": ["[+10]% [Production] [in this city] <when at war>"]
     },
     {
-        "name": "Minimal Government",
-        "type": "Follower",
-        "uniques": [
-        "[+25]% Production when constructing [All] buildings [in this city] <when number of [Cities] is equal to [1]>",
-        "[+15]% Production when constructing [All] buildings [in this city] <when number of [Cities] is equal to [2]>",
-        "[+5]% Production when constructing [All] buildings [in this city] <when number of [Cities] is equal to [3]>"
-        ]
-    },
-    {
         "name": "Civic Culture",
         "type": "Follower",
         "uniques": ["[+3 Culture, +1 Happiness] from every [National Wonder]"]
@@ -312,6 +303,17 @@
         "name": "Jesuit Education",
         "type": "Follower",
         "uniques": ["Comment [May buy [Library], [University], [Public School] with [Faith] in cities following this religion]", "May buy [Library] buildings with [Faith] for [2] times their normal Production cost <hidden from users>", "May buy [University] buildings with [Faith] for [2] times their normal Production cost <hidden from users>", "May buy [Public School] buildings with [Faith] for [2] times their normal Production cost <hidden from users>"]
+    },
+    {
+        "name": "Less is More",
+        "type": "Follower",
+        "uniques": ["Comment [The less cities does a Civilization have, the faster buildings are constructed]", "Comment [(30% faster with 1 city, 15% with 2, 8% with 3, 4% with 4, etc...)]",
+        "[+30]% Production when constructing [All] buildings [in this city] <when number of [Cities] is equal to [1]> <hidden from users>",
+        "[+15]% Production when constructing [All] buildings [in this city] <when number of [Cities] is equal to [2]> <hidden from users>",
+        "[+8]% Production when constructing [All] buildings [in this city] <when number of [Cities] is equal to [3]> <hidden from users>",
+        "[+4]% Production when constructing [All] buildings [in this city] <when number of [Cities] is equal to [4]> <hidden from users>",
+        "[+2]% Production when constructing [All] buildings [in this city] <when number of [Cities] is equal to [5]> <hidden from users>",
+        "[+1]% Production when constructing [All] buildings [in this city] <when number of [Cities] is more than [5]> <hidden from users>"]
     },
     {
         "name": "Liturgical Drama",
@@ -518,6 +520,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

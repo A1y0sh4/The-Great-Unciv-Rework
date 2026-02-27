@@ -290,6 +290,12 @@
         "uniques": ["[+2 Culture, +1 Happiness] [in cities following this religion] <in cities with at least [1] [Specialists]>"]
     },
     {
+        "name": "Heights and Depths",
+        "type": "Follower",
+        "uniques": ["[+2 Culture] from every [Mountain] <within [1] tiles of a [City center]>",
+        "[+1 Science] from every [Coast] <within [1] tiles of a [City center]>"]
+    },
+    {
         "name": "Holy Encounter",
         "type": "Follower",
         "uniques": ["Instantly gain [20] [Golden Age points] <upon expending a [Religious Unit] unit> <(modified by game speed)>"]
@@ -520,6 +526,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

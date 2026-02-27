@@ -346,7 +346,7 @@
     {
         "name": "Monumental Pride",
         "type": "Follower",
-        "uniques": ["Comment [+2% [Production] when constructing wonders (with an additional +2% for every number of Cities owned)]", "[+2]% Production when constructing [All] wonders [in this city] <hidden from users>", "[+2]% Production when constructing [All] wonders [in this city] <for every [Cities]> <hidden from users>"]
+        "uniques": ["Comment [+2% [Production] when constructing wonders for every number of Cities owned]", "[+2]% Production when constructing [All] wonders [in this city] <for every [Cities]> <hidden from users>"]
     },
     {
         "name": "Peace Gardens",

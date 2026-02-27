@@ -234,6 +234,13 @@
         "uniques": ["[+10]% [Production] [in this city] <when at war>"]
     },
     {
+        "name": "Bucolic Atmosphere",
+        "type": "Follower",
+        "uniques": ["[+1 Culture, +1 Faith] from every [Pasture] <within [1] tiles of a [Pasture]>",
+        "[+1 Culture, +1 Faith] from every [Plantation] <within [1] tiles of a [Plantation]>",
+        "[+1 Culture, +1 Faith] from every [Camp] <within [1] tiles of a [Camp]>"]
+    },
+    {
         "name": "Civic Culture",
         "type": "Follower",
         "uniques": ["[+3 Culture, +1 Happiness] from every [National Wonder]"] 
@@ -536,6 +543,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

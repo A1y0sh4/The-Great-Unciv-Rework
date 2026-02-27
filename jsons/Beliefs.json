@@ -228,7 +228,11 @@
     },
     
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
-
+    {
+        "name": "Bellic Ethics",
+        "type": "Follower",
+        "uniques": ["[+10]% [Production] [in this city] <when at war>"]
+    },
      {
         "name": "Choral Music",
         "type": "Follower",
@@ -262,13 +266,13 @@
     {
         "name": "Goddess of Festivals",
         "type": "Follower",
-        "uniques": ["Comment [+4% [Culture] in this city for every Alcohol Luxury type you own]",
-                    "[+4]% [Culture] [in this city] <with [Beer]> <hidden from users>",
-                    "[+4]% [Culture] [in this city] <with [Wine]> <hidden from users>",
-                    "[+4]% [Culture] [in this city] <with [Rum]> <hidden from users>",
-                    "[+4]% [Culture] [in this city] <with [Whisky]> <hidden from users>",
-                    "[+4]% [Culture] [in this city] <with [Vodka]> <hidden from users>",
-                    "[+4]% [Culture] [in this city] <with [Cognac]> <hidden from users>"]
+        "uniques": ["Comment [+5% [Culture] in this city for every Alcohol Luxury type you own]",
+                    "[+5]% [Culture] [in this city] <with [Beer]> <hidden from users>",
+                    "[+5]% [Culture] [in this city] <with [Wine]> <hidden from users>",
+                    "[+5]% [Culture] [in this city] <with [Rum]> <hidden from users>",
+                    "[+5]% [Culture] [in this city] <with [Whisky]> <hidden from users>",
+                    "[+5]% [Culture] [in this city] <with [Vodka]> <hidden from users>",
+                    "[+5]% [Culture] [in this city] <with [Cognac]> <hidden from users>"]
     },
     {
         "name": "Grace for Labour",
@@ -323,7 +327,7 @@
     {
         "name": "Religious Community",
         "type": "Follower",
-        "uniques": ["[+1]% [Production] from every follower, up to [10]%"]
+        "uniques": ["[+1]% [Faith] from every follower, up to [15]%"]
     },
     {
         "name": "Ritual Drinks",
@@ -338,13 +342,13 @@
     {
         "name": "Religious Teetotality",
         "type": "Follower",
-        "uniques": ["Comment [+4% [Faith] in this city for every Alcohol Luxury type you don't own]",
-                    "[+4]% [Faith] [in this city] <without [Beer]> <hidden from users>",
-                    "[+4]% [Faith] [in this city] <without [Wine]> <hidden from users>",
-                    "[+4]% [Faith] [in this city] <without [Rum]> <hidden from users>",
-                    "[+4]% [Faith] [in this city] <without [Whisky]> <hidden from users>",
-                    "[+4]% [Faith] [in this city] <without [Vodka]> <hidden from users>",
-                    "[+4]% [Faith] [in this city] <without [Cognac]> <hidden from users>"]
+        "uniques": ["Comment [+5% [Faith] in this city for every Alcohol Luxury type you don't own]",
+                    "[+5]% [Faith] [in this city] <without [Beer]> <hidden from users>",
+                    "[+5]% [Faith] [in this city] <without [Wine]> <hidden from users>",
+                    "[+5]% [Faith] [in this city] <without [Rum]> <hidden from users>",
+                    "[+5]% [Faith] [in this city] <without [Whisky]> <hidden from users>",
+                    "[+5]% [Faith] [in this city] <without [Vodka]> <hidden from users>",
+                    "[+5]% [Faith] [in this city] <without [Cognac]> <hidden from users>"]
     },
     {
         "name": "Swords into Ploughshares",
@@ -362,9 +366,14 @@
         "uniques": ["[+1 Faith, +1 Science] from [Trading post] tiles [in this city]"]
     },
     {
+        "name": "Trading Community",
+        "type": "Follower",
+        "uniques": ["[+1]% [Gold] from every follower, up to [15]%"]
+    },
+    {
         "name": "Welcome the Needy",
         "type": "Follower",
-        "uniques": ["[+15]% [Food] [in this city] <during a Golden Age>", "[-15]% Unhappiness from [Population] [in this city] <during a Golden Age>"]
+        "uniques": ["[+20]% [Food] [in this city] <during a Golden Age>", "[-20]% Unhappiness from [Population] [in this city] <during a Golden Age>"]
     },
     {
         "name": "Cathedrals",
@@ -495,6 +504,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

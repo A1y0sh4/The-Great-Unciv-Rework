@@ -27,7 +27,7 @@
     "religionLimitMultiplier": 0.75,
     "pantheonBase": 21,
     "pantheonGrowth": -1,
-    "ancientRuinCountMultiplier": 0.04142,
+    "ancientRuinCountMultiplier": 0.05,
     "minRiverLength": 3,
     "maxRiverLength": 24,
     "baseTurnsUntilRevolt": 1,

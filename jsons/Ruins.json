@@ -8,19 +8,40 @@
 	{
         "name": "discover cultural artifacts", //TBD
         "notification": "We have found previously unknown cultural artifacts in the ruins! (+[cultureAmount] Culture)",
-        "uniques": ["[This Unit] gains the [Injured] status for [4] turn(s)"],
+        "uniques": ["[This Unit] takes [25] damage",
+			"[This Unit] gains the [Injured] status for [1] turn(s) <on [Turbo] game speed>",
+		"[This Unit] gains the [Injured] status for [2] turn(s) <on [Online] game speed>",
+		"[This Unit] gains the [Injured] status for [3] turn(s) <on [Quick] game speed>",
+		"[This Unit] gains the [Injured] status for [4] turn(s) <on [Standard] game speed>",
+		"[This Unit] gains the [Injured] status for [6] turn(s) <on [Epic] game speed>",
+		"[This Unit] gains the [Injured] status for [8] turn(s) <on [Marathon] game speed>",
+		"[This Unit] gains the [Injured] status for [10] turn(s) <on [Endless] game speed>"],
         "color": "#cf8ff7"
     },
 	{
         "name": "discover cultural artifacts", //TBD
         "notification": "We have found previously unknown cultural artifacts in the ruins! (+[cultureAmount] Culture)",
-        "uniques": ["[This Unit] gains the [Blinded] status for [4] turn(s)"],
+        "uniques": ["[This Unit] takes [25] damage",
+			"[This Unit] gains the [Blinded] status for [1] turn(s) <on [Turbo] game speed>",
+		"[This Unit] gains the [Blinded] status for [2] turn(s) <on [Online] game speed>",
+		"[This Unit] gains the [Blinded] status for [3] turn(s) <on [Quick] game speed>",
+		"[This Unit] gains the [Blinded] status for [4] turn(s) <on [Standard] game speed>",
+		"[This Unit] gains the [Blinded] status for [6] turn(s) <on [Epic] game speed>",
+		"[This Unit] gains the [Blinded] status for [8] turn(s) <on [Marathon] game speed>",
+		"[This Unit] gains the [Blinded] status for [10] turn(s) <on [Endless] game speed>"],
         "color": "#cf8ff7"
     },
 	{
         "name": "discover cultural artifacts", //TBD
         "notification": "We have found previously unknown cultural artifacts in the ruins! (+[cultureAmount] Culture)",
-        "uniques": ["[This Unit] gains the [Poisoned] status for [4] turn(s)"],
+        "uniques": ["[This Unit] takes [25] damage",
+			"[This Unit] gains the [Poisoned] status for [1] turn(s) <on [Turbo] game speed>",
+		"[This Unit] gains the [Poisoned] status for [2] turn(s) <on [Online] game speed>",
+		"[This Unit] gains the [Poisoned] status for [3] turn(s) <on [Quick] game speed>",
+		"[This Unit] gains the [Poisoned] status for [4] turn(s) <on [Standard] game speed>",
+		"[This Unit] gains the [Poisoned] status for [6] turn(s) <on [Epic] game speed>",
+		"[This Unit] gains the [Poisoned] status for [8] turn(s) <on [Marathon] game speed>",
+		"[This Unit] gains the [Poisoned] status for [10] turn(s) <on [Endless] game speed>"],
         "color": "#cf8ff7"
     },
     {
@@ -102,5 +123,6 @@
 		"color": "#CDDDF4"
     }
 ]
+
 
 

@@ -986,14 +986,10 @@
 	},
 	{
 		"name": "Inspiration",
-		"uniques": ["[Great General] is earned [50]% faster", "[+50]% XP gained from combat"]
+		"uniques": ["[Great General] is earned [+100]% faster", "[+100]% XP gained from combat", "[+5] HP when healing"]
 	},
 	{
 		"name": "Shame",
-		"uniques": ["[-50]% XP gained from combat", "[+50]% maintenance costs"]
+		"uniques": ["[Great General] is earned [-100]% faster", "[-100]% XP gained from combat", "[-5] HP when healing"]
 	},
 ]
-
-
-
-

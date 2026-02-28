@@ -114,7 +114,7 @@
         "uniques": ["[This Unit] upgrades for free including special upgrades"]
     },
 
-	// Guerriglia
+	// Ambush
 	{
         "name": "discover cultural artifacts", //TBD
         "notification": "We have found previously unknown cultural artifacts in the ruins! (+[cultureAmount] Culture)",
@@ -155,6 +155,7 @@
         "color": "#ff7f7f"
     },
 ]
+
 
 
 

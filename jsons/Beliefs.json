@@ -234,6 +234,11 @@
         "uniques": ["[+10]% [Production] [in this city] <when at war>"]
     },
     {
+        "name": "Evangelization",
+        "type": "Follower",
+        "uniques": ["Gain a free [Temple] [in this city]"]
+    },
+    {
         "name": "Bucolic Atmosphere",
         "type": "Follower",
         "uniques": ["[+1 Culture, +1 Faith] from every [Pasture] <within [1] tiles of a [Pasture]>",
@@ -548,6 +553,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

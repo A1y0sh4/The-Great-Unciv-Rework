@@ -16,7 +16,7 @@
 		"[This Unit] gains the [Injured] status for [6] turn(s) <on [Epic] game speed>",
 		"[This Unit] gains the [Injured] status for [8] turn(s) <on [Marathon] game speed>",
 		"[This Unit] gains the [Injured] status for [10] turn(s) <on [Endless] game speed>"],
-        "color": "#cf8ff7"
+        "color": "#ff7f7f"
     },
 	{
         "name": "discover cultural artifacts", //TBD
@@ -29,7 +29,7 @@
 		"[This Unit] gains the [Blinded] status for [6] turn(s) <on [Epic] game speed>",
 		"[This Unit] gains the [Blinded] status for [8] turn(s) <on [Marathon] game speed>",
 		"[This Unit] gains the [Blinded] status for [10] turn(s) <on [Endless] game speed>"],
-        "color": "#cf8ff7"
+        "color": "#ff7f7f"
     },
 	{
         "name": "discover cultural artifacts", //TBD
@@ -42,7 +42,7 @@
 		"[This Unit] gains the [Poisoned] status for [6] turn(s) <on [Epic] game speed>",
 		"[This Unit] gains the [Poisoned] status for [8] turn(s) <on [Marathon] game speed>",
 		"[This Unit] gains the [Poisoned] status for [10] turn(s) <on [Endless] game speed>"],
-        "color": "#cf8ff7"
+        "color": "#ff7f7f"
     },
     {
         "name": "squatters willing to explore for you",
@@ -123,6 +123,7 @@
 		"color": "#CDDDF4"
     }
 ]
+
 
 
 

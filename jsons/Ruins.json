@@ -2,7 +2,7 @@
     {
         "name": "discover cultural artifacts",
         "notification": "We have found previously unknown cultural artifacts in the ruins! (+[cultureAmount] Culture)",
-        "uniques": ["Gain [10]-[30] [Culture]"],
+        "uniques": ["Gain [10]-[30] [Culture] <(modified by game speed)>"],
         "color": "#cf8ff7"
     },
 	{
@@ -75,7 +75,7 @@
     {
         "name": "a stash of gold",
         "notification": "We have found a hidden treasure in the ruins! (+[goldAmount] Gold)",
-        "uniques": ["Gain [50]-[150] [Gold]"],
+        "uniques": ["Gain [50]-[150] [Gold] <(modified by game speed)>"],
         "color": "#ffeb7f"
     },
 	{
@@ -123,6 +123,7 @@
 		"color": "#CDDDF4"
     }
 ]
+
 
 
 

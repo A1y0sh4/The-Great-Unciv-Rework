@@ -67,7 +67,7 @@
         "uniques": ["Reveal up to [All] [Barbarian encampment] within a [8] tile radius"]
     },
      {
-        "name": "reveal nearby City centres",
+        "name": "reveal nearby City centers",
         "notification": "You find evidence of other inhabited communities. Nearby City centers are revealed!",
         "uniques": ["Reveal up to [All] [City center] within a [8] tile radius"]
     },
@@ -91,8 +91,8 @@
 		"color": "#CDDDF4"
     },
 	{
-        "name": "an ancient prophecy", //TBD
-        "notification": "We have found an ancient prophecy in the ruins, greatly increasing our spiritual connection! (+[faithAmount] Faith)",
+        "name": "discover holy architecture",
+        "notification": "We have found holy buildings in the ruins, inspiring us to emulate the same architecture in our capital",
         "uniques": ["Only available <when religion is enabled>", "Provides the cheapest [Faith] building in your first [1] cities for free"],
 		"color": "#CDDDF4"
     },
@@ -100,7 +100,7 @@
 	// Unit upgrades
 	{
         "name": "your exploring unit receives training",
-        "notification": "An ancient tribe trained us in their ways of combat!",
+        "notification": "An ancient tribe hosted and trained us in their ways of combat!",
         "uniques": ["[This Unit] gains [10] XP", "[This Unit] heals [25] HP"]
     },
     {
@@ -116,51 +116,42 @@
 
 	// Ambush
 	{
-        "name": "discover cultural artifacts", //TBD
+        "name": "your exploring unit fell into an ambush",
         "notification": "We have found previously unknown cultural artifacts in the ruins! (+[cultureAmount] Culture)",
         "uniques": ["[This Unit] takes [25] damage",
-			"[This Unit] gains the [Injured] status for [1] turn(s) <on [Turbo] game speed>",
-		"[This Unit] gains the [Injured] status for [2] turn(s) <on [Online] game speed>",
-		"[This Unit] gains the [Injured] status for [3] turn(s) <on [Quick] game speed>",
-		"[This Unit] gains the [Injured] status for [4] turn(s) <on [Standard] game speed>",
-		"[This Unit] gains the [Injured] status for [6] turn(s) <on [Epic] game speed>",
-		"[This Unit] gains the [Injured] status for [8] turn(s) <on [Marathon] game speed>",
-		"[This Unit] gains the [Injured] status for [10] turn(s) <on [Endless] game speed>"],
+			"[This Unit] gains the [Injured] status for [1] turn(s) <on [Turbo] game speed> <hidden from users>",
+		"[This Unit] gains the [Injured] status for [2] turn(s) <on [Online] game speed> <hidden from users>",
+		"[This Unit] gains the [Injured] status for [3] turn(s) <on [Quick] game speed> <hidden from users>",
+		"[This Unit] gains the [Injured] status for [4] turn(s) <on [Standard] game speed> <hidden from users>",
+		"[This Unit] gains the [Injured] status for [6] turn(s) <on [Epic] game speed> <hidden from users>",
+		"[This Unit] gains the [Injured] status for [8] turn(s) <on [Marathon] game speed> <hidden from users>",
+		"[This Unit] gains the [Injured] status for [10] turn(s) <on [Endless] game speed> <hidden from users>"],
         "color": "#ff7f7f"
     },
 	{
-        "name": "discover cultural artifacts", //TBD
+        "name": "your exploring unit fell into an ambush",
         "notification": "We have found previously unknown cultural artifacts in the ruins! (+[cultureAmount] Culture)",
         "uniques": ["[This Unit] takes [25] damage",
-			"[This Unit] gains the [Blinded] status for [1] turn(s) <on [Turbo] game speed>",
-		"[This Unit] gains the [Blinded] status for [2] turn(s) <on [Online] game speed>",
-		"[This Unit] gains the [Blinded] status for [3] turn(s) <on [Quick] game speed>",
-		"[This Unit] gains the [Blinded] status for [4] turn(s) <on [Standard] game speed>",
-		"[This Unit] gains the [Blinded] status for [6] turn(s) <on [Epic] game speed>",
-		"[This Unit] gains the [Blinded] status for [8] turn(s) <on [Marathon] game speed>",
-		"[This Unit] gains the [Blinded] status for [10] turn(s) <on [Endless] game speed>"],
+			"[This Unit] gains the [Blinded] status for [1] turn(s) <on [Turbo] game speed> <hidden from users>",
+		"[This Unit] gains the [Blinded] status for [2] turn(s) <on [Online] game speed> <hidden from users>",
+		"[This Unit] gains the [Blinded] status for [3] turn(s) <on [Quick] game speed> <hidden from users>",
+		"[This Unit] gains the [Blinded] status for [4] turn(s) <on [Standard] game speed> <hidden from users>",
+		"[This Unit] gains the [Blinded] status for [6] turn(s) <on [Epic] game speed> <hidden from users>",
+		"[This Unit] gains the [Blinded] status for [8] turn(s) <on [Marathon] game speed> <hidden from users>",
+		"[This Unit] gains the [Blinded] status for [10] turn(s) <on [Endless] game speed> <hidden from users>"],
         "color": "#ff7f7f"
     },
 	{
-        "name": "discover cultural artifacts", //TBD
+        "name": "your exploring unit fell into an ambush",
         "notification": "We have found previously unknown cultural artifacts in the ruins! (+[cultureAmount] Culture)",
         "uniques": ["[This Unit] takes [25] damage",
-			"[This Unit] gains the [Poisoned] status for [1] turn(s) <on [Turbo] game speed>",
-		"[This Unit] gains the [Poisoned] status for [2] turn(s) <on [Online] game speed>",
-		"[This Unit] gains the [Poisoned] status for [3] turn(s) <on [Quick] game speed>",
-		"[This Unit] gains the [Poisoned] status for [4] turn(s) <on [Standard] game speed>",
-		"[This Unit] gains the [Poisoned] status for [6] turn(s) <on [Epic] game speed>",
-		"[This Unit] gains the [Poisoned] status for [8] turn(s) <on [Marathon] game speed>",
-		"[This Unit] gains the [Poisoned] status for [10] turn(s) <on [Endless] game speed>"],
+			"[This Unit] gains the [Poisoned] status for [1] turn(s) <on [Turbo] game speed> <hidden from users>",
+		"[This Unit] gains the [Poisoned] status for [2] turn(s) <on [Online] game speed> <hidden from users>",
+		"[This Unit] gains the [Poisoned] status for [3] turn(s) <on [Quick] game speed> <hidden from users>",
+		"[This Unit] gains the [Poisoned] status for [4] turn(s) <on [Standard] game speed> <hidden from users>",
+		"[This Unit] gains the [Poisoned] status for [6] turn(s) <on [Epic] game speed> <hidden from users>",
+		"[This Unit] gains the [Poisoned] status for [8] turn(s) <on [Marathon] game speed> <hidden from users>",
+		"[This Unit] gains the [Poisoned] status for [10] turn(s) <on [Endless] game speed> <hidden from users>"],
         "color": "#ff7f7f"
     },
 ]
-
-
-
-
-
-
-
-
-

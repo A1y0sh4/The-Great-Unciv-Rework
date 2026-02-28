@@ -972,4 +972,13 @@
 		"name": "[Zhanche] ability",
 		"uniques": ["[+10]% Strength <while the empire is happy>"]
 	},
+	{
+		"name": "Injured",
+		"uniques": ["[+10]% Strength <while the empire is happy>"]
+	},
+	{
+		"name": "Blinded",
+		"uniques": ["[+10]% Strength <while the empire is happy>"]
+	},
 ]
+

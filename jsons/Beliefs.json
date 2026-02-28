@@ -234,11 +234,6 @@
         "uniques": ["[+10]% [Production] [in this city] <when at war>"]
     },
     {
-        "name": "Evangelization",
-        "type": "Follower",
-        "uniques": ["Gain a free [Temple] [in this city]"]
-    },
-    {
         "name": "Bucolic Atmosphere",
         "type": "Follower",
         "uniques": ["[+1 Culture, +1 Faith] from every [Pasture] <within [1] tiles of a [Pasture]>",
@@ -264,6 +259,11 @@
         "name": "Divine Spark",
         "type": "Follower",
         "uniques": ["[+25]% Great Person generation [in this city]"]
+    },
+    {
+        "name": "Evangelization",
+        "type": "Follower",
+        "uniques": ["Gain a free [Temple] [in this city]", "Comment [Religious units gain +1 Sight and earn a little amount of [Science] when discovering new Land tiles]", "[Religious Unit] units gain the [Scouting II] promotion <hidden from users>"]
     },
     {
         "name": "Exotic Novelties",
@@ -553,6 +553,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

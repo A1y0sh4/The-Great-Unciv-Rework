@@ -8,13 +8,19 @@
 	{
         "name": "discover cultural artifacts", //TBD
         "notification": "We have found previously unknown cultural artifacts in the ruins! (+[cultureAmount] Culture)",
-        "uniques": ["[This Unit] gains the [Injured] status for [5] turn(s)"],
+        "uniques": ["[This Unit] gains the [Injured] status for [4] turn(s)"],
         "color": "#cf8ff7"
     },
 	{
         "name": "discover cultural artifacts", //TBD
         "notification": "We have found previously unknown cultural artifacts in the ruins! (+[cultureAmount] Culture)",
-        "uniques": ["[This Unit] gains the [Blinded] status for [5] turn(s)"],
+        "uniques": ["[This Unit] gains the [Blinded] status for [4] turn(s)"],
+        "color": "#cf8ff7"
+    },
+	{
+        "name": "discover cultural artifacts", //TBD
+        "notification": "We have found previously unknown cultural artifacts in the ruins! (+[cultureAmount] Culture)",
+        "uniques": ["[This Unit] gains the [Poisoned] status for [4] turn(s)"],
         "color": "#cf8ff7"
     },
     {
@@ -96,4 +102,5 @@
 		"color": "#CDDDF4"
     }
 ]
+
 

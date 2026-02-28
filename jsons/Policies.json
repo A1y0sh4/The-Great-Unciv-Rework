@@ -61,7 +61,7 @@
                 "name": "Tradition Complete",
                 "uniques": [
                     "[+15]% Production when constructing [All] wonders [in all cities]",
-					"Get the leader title of [Lord [leaderName]]"
+					"Get the leader title of [Sovereign [leaderName]]"
                 ]
             }
         ]

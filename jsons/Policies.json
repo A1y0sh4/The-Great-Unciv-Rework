@@ -344,7 +344,7 @@
                     "Comment [Promotes all spies 1 time(s)] <when espionage is enabled>", "Comment [New spies start with 1 level(s)] <when espionage is enabled>", "Promotes all spies [1] time(s) <when espionage is enabled> <hidden from users>", "New spies start with [1] level(s) <when espionage is enabled> <hidden from users>",
 			"Comment [Resting point for Influence with City-States is increased by 15] <when espionage is disabled>", "Comment [Reveal the locations of all nearby cities] <when espionage is disabled>", "Resting point for Influence with City-States is increased by [15] <when espionage is disabled> <hidden from users>",
 					"Reveal up to [All] [City center] within a [50] tile radius <when espionage is disabled> <hidden from users>",
-					"Get the leader title of [[leaderName] the Diplomatic]"
+					"Get the leader title of [[leaderName] the Cunning]"
                 ]
             }
         ]
@@ -403,7 +403,7 @@
                 "uniques": [
                     "[+100]% Gold from Great Merchant trade missions",
                     "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
-					"Get the leader title of [Doge [leaderName]]"
+					"Get the leader title of [Tycoon [leaderName]]"
                 ]
             }
         ]

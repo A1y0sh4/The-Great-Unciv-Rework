@@ -60,7 +60,8 @@
             {
                 "name": "Tradition Complete",
                 "uniques": [
-                    "[+15]% Production when constructing [All] wonders [in all cities]", "Get the leader title of [Lord [leaderName]]"
+                    "[+15]% Production when constructing [All] wonders [in all cities]",
+					"Get the leader title of [Lord [leaderName]]"
                 ]
             }
         ]
@@ -123,7 +124,8 @@
             },
             {
                 "name": "Liberty Complete",
-                "uniques": ["Free Great Person", "Get the leader title of [Consul [leaderName]]"]
+                "uniques": ["Free Great Person",
+					"Get the leader title of [Consul [leaderName]]"]
             }
         ]
     },
@@ -342,7 +344,7 @@
                     "Comment [Promotes all spies 1 time(s)] <when espionage is enabled>", "Comment [New spies start with 1 level(s)] <when espionage is enabled>", "Promotes all spies [1] time(s) <when espionage is enabled> <hidden from users>", "New spies start with [1] level(s) <when espionage is enabled> <hidden from users>",
 			"Comment [Resting point for Influence with City-States is increased by 15] <when espionage is disabled>", "Comment [Reveal the locations of all nearby cities] <when espionage is disabled>", "Resting point for Influence with City-States is increased by [15] <when espionage is disabled> <hidden from users>",
 					"Reveal up to [All] [City center] within a [50] tile radius <when espionage is disabled> <hidden from users>",
-					"Get the leader title of [[leaderName] the Enlightened]"
+					"Get the leader title of [[leaderName] the Diplomatic]"
                 ]
             }
         ]
@@ -400,7 +402,8 @@
                 "name": "Commerce Complete",
                 "uniques": [
                     "[+100]% Gold from Great Merchant trade missions",
-                    "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
+					"Get the leader title of [Doge [leaderName]]"
                 ]
             }
         ]
@@ -463,7 +466,8 @@
                 "name": "Rationalism Complete",
                 "uniques": [
                     "[1] Free Technologies",
-                    "May buy [Great Scientist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "May buy [Great Scientist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
+					"Get the leader title of [[leaderName] the Enlightened]"
                 ]
             }
         ]
@@ -527,7 +531,8 @@
                 "name": "Individualism Complete",
                 "uniques": [
                     "[+100]% Yield from every [Great Improvement] <during a Golden Age>", "Comment [Unlocks [Utopia Project]]",
-                    "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
+					"Get the leader title of [President [leaderName]]"
                 ]
             }
         ]
@@ -596,7 +601,8 @@
                 "name": "Nationalism Complete",
                 "uniques": [
                     "Empire enters golden age <upon declaring war on [Major] Civilizations>",
-                    "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
+					"Get the leader title of [Supreme Commander [leaderName]]"
                 ]
             }
         ]
@@ -665,7 +671,8 @@
                 "name": "Internationalism Complete",
                 "uniques": [
 		     "[+100]% Golden Age length", "Comment [Unlocks [United Nations]]",
-                    "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
+					"Get the leader title of [Chairman [leaderName]]"
                 ]
             }
         ]

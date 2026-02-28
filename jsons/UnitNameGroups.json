@@ -32,8 +32,7 @@
     },
     {
         "name": "Trader",
-        "unitNames": ["Aretas III", "Andrew Carnegie", "Coco Chanel", "Marcus Licinius Crassus", "Enrico Dandolo", "Anthony van Diemen", "Jakob Fugger", "Harkuf", "Edward Harriman", "Milton S. Hershey", "Ibn Battuta", "Steve Jobs", "John Maynard Keynes", "Sir James Lancaster", "Sir Alexander Mackenzie", "Giovanni de Medici",
-            "John Stuart Mill", "Henri Nestlé", "Marco Polo", "John D. Rockefeller", "Sir Thomas Roe", "Shah Jahan", "Adam Smith", "Levi Strauss", "Raja Todar Mal", "Thomas Twining", "Cornelius Vanderbilt", "Richard Whittington", "Wang Anshi", "Zhang Qian"]
+        "unitNames": ["Aizivaishe", "Danai", "Fadziso", "Maita", "Ropafadzo", "Shona", "Tonderayi", "Vimbo", "Zendaya", "Akashinga", "Banga", "Chamai", "Davidzo", "Gamba", "Hondo", "Itai", "Kutenda", "Masimba", "Rudo", "Shohiwa", "Takudzwa", "Wataida"]
     },
     { 
         "name": "Engineer",

@@ -974,17 +974,26 @@
 	},
 	{
 		"name": "Injured",
-		"uniques": ["[-1] Movement", "[-20]% Strength"]
+		"uniques": ["[-1] Movement", "[-30]% Strength"]
 	},
 	{
 		"name": "Blinded",
-		"uniques": ["[-1] Sight", "[-1] Range", "[-20]% Strength"]
+		"uniques": ["[-1] Sight", "[-1] Range", "[-50]% to Flank Attack bonuses", "[-20]% Strength"]
 	},
 	{
 		"name": "Poisoned",
-		"uniques": ["[-10] HP when healing", "All adjacent units heal [-10] HP when healing", "[-20]% Strength"]
+		"uniques": ["[-10] HP when healing", "All adjacent units heal [-10] HP when healing", "[-10]% Strength bonus for [Military] units within [1] tiles", "[-20]% Strength"]
+	},
+	{
+		"name": "Inspiration",
+		"uniques": ["[Great General] is earned [50]% faster", "[+50]% XP gained from combat"]
+	},
+	{
+		"name": "Shame",
+		"uniques": ["[-50]% XP gained from combat", "[+50]% maintenance costs"]
 	},
 ]
+
 
 
 

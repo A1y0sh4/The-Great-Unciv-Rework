@@ -50,5 +50,13 @@
         "name": "Prophet",
         "unitNames": ["Confucius", "John the Baptist", "Laozi", "Siddhartha Gautama", "Simon Peter", "Zoroaster", "Adi Shankara", "Bodhidharma", "Irenaeus", "O no Yasumaro", "Songtsan Gampo", "Haji Huud", "Madhva Acharya", "Martin Luther", "Thomas Aquinas", "Francis of Assisi", "Báb", "Baháʼu'lláh", "ʻAbdu'l-Bahá", "Cathbad",
             "Amergin Glúingel", "Tadg mac Nuadat", "Mug Ruith", "Rishabhanatha", "Mahavira", "Parsvanatha", "Shantinatha", "Cyril"]
-    }
+    },
+    {
+        "name": "Virtue",
+        "unitNames": ["Odysseus", "Aeneas", "Achilles", "Hector", "Orlando", "Beowulf", "Arjuna", "Enkidu", "Sun Wukong", "Sigurd", "Rama", "Hou Yi", "Roland", "Cú Chulainn", "Perseus", "Theseus", "Jason", "Ati", "Saladin", "Rostam", "Sohrab", "Manas", "Sundiata", "Mwindo", "Kalevipoeg", "Digenes Akritas", "Ilmarinen", "Cuauhtémoc"]
+    },
+    {
+        "name": "Vice",
+        "unitNames": ["Ajax", "Icarus", "Pentheus", "Paris", "Mordred", "Grendel", "Ganelon", "Karna", "Lucifer", "Judas", "Duryodhana", "Faust", "Oedipus", "Cain", "Loki", "Phaethon", "Medea", "Macbeth", "Zahhak", "Coyolxauhqui", "Tezcatlipoca", "Zahhak", "Afrasiab", "Kullervo", "Yudhishthira", "Sisyphus", "Susanoo", "Anansi"]
+    },
 ]

@@ -204,5 +204,19 @@
 		"[This Unit] gains the [Swift] status for [40] turn(s) <on [Endless] game speed> <hidden from users>"],
         "color": "#f78fdb"
     },
+	{
+        "name": "your exploring unit became enraged as they failed an epic deed",
+        "notification": "Our unit temporarily gains Rage",
+        "uniques": ["Instantly gain [-20] [Golden Age points] <(modified by game speed)>",
+			"[This Unit] gains the [Rage] status for [4] turn(s) <on [Turbo] game speed> <hidden from users>",
+		"[This Unit] gains the [Rage] status for [8] turn(s) <on [Online] game speed> <hidden from users>",
+		"[This Unit] gains the [Rage] status for [12] turn(s) <on [Quick] game speed> <hidden from users>",
+		"[This Unit] gains the [Rage] status for [16] turn(s) <on [Standard] game speed> <hidden from users>",
+		"[This Unit] gains the [Rage] status for [24] turn(s) <on [Epic] game speed> <hidden from users>",
+		"[This Unit] gains the [Rage] status for [32] turn(s) <on [Marathon] game speed> <hidden from users>",
+		"[This Unit] gains the [Rage] status for [40] turn(s) <on [Endless] game speed> <hidden from users>"],
+        "color": "#f78fdb"
+    },
 ]
+
 

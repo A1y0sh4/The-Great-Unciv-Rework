@@ -992,4 +992,9 @@
 		"name": "Shame",
 		"uniques": ["[Great General] is earned [-100]% faster", "[-100]% XP gained from combat", "[-5] HP when healing"]
 	},
+	{
+		"name": "Swift",
+		"uniques": ["[+1] Movement", "Ignores Zone of Control", "Can move after attacking"]
+	},
 ]
+

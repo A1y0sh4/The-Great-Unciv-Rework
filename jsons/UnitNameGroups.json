@@ -4,7 +4,7 @@
         "unitNames": ["Ahuitzotl", "Akbar", "Albrecht von Wallenstein", "Arminius", "Belisarius", "Bernard Montgomery", "Cao Cao", "Chandragupta Maurya", "Charles Martel", "El Cid", "Epaminondas", "Erwin Rommel", "Eugene of Savoy", "Francisco Pizarro", "Gaius Marius", "George Patton", "Georgy Zhukov", "Geronimo",
             "Hamilcar Barca", "Hannibal Barca", "Heinz Guderian", "Hernan Cortez", "Alexander Suvorov", "Jeanne d'Arc", "Johann Tserclaes", "Khaled ibn al-Walid", "Leonidas", "Lysander", "Maurice of Nassau", "Oliver Cromwell", "Pompey", "Pyrrhus", "Robert E. Lee", "Sargon", "Scipio Africanus", "Sitting Bull",
             "Spartacus", "Subutai", "Sun Tzu", "Timur", "Vercingetorix", "William the Conqueror", "Winfield Scott", "Zhuge Liang", "Trưng Trắc", "Æthelflæd", "Ana Nzinga", "Amina", "Dandara", "José de San Martín", "Rani Lakshmibai", "Tupac Amaru", "John Monash", "Marina Raskova", "Samori Touré", "Douglas MacArthur",
-        "Sudirman", "Mikhail Tukhachevsky", "Julius Caesar", "Hephaestion", "Antonio José de Sucre", "Alcibiades", "Piye", "Idia", "Crazy Horse", "Aleksei Brusilov"]
+        "Sudirman", "Mikhail Tukhachevsky", "Julius Caesar", "Hephaestion", "Antonio José de Sucre", "Alcibiades", "Piye", "Idia", "Crazy Horse", "Aleksei Brusilov", "Ernesto Guevara"]
     },
     {
         "name": "Khan",
@@ -15,7 +15,7 @@
         "unitNames": ["Afonso de Albuquerque", "Alfred von Tirpitz", "Álvaro de Bazán", "Andrea Doria", "Andrew Cunningham", "Calonymus of Alexandria", "Chester W. Nimitz", "Christopher Columbus", "Comte de Grasse", "David Farragut", "Don John of Austria", "Erik the Red", "Ferdinand Magellan", "Fernando Villaamil",
             "Francis Drake", "Fyodor Ushakov", "George Dewey", "Hanno", "Hayreddin Barbarossa", "Henry the Navigator", "Himilco", "Horatio Nelson", "Isoroku Yamamoto", "Jacques Cartier", "James Cook", "John Doukas", "John Hawkins", "John Paul Jones", "Leif Ericson", "Marcus Atilius Regulus", "Marcus Vipsanius Agrippa",
             "Matthew Perry", "Michiel de Ruyter", "Murat Reis", "Peter Wessel Tordenskjold", "Phormio", "Pytheas", "Roger of Lauria", "Shi Lang", "Togo Heihachiro", "Turgut Reis", "Vasco da Gama", "Yi Sun-sin", "Zheng He", "Zinovy Rozhestvensky", "Eudoxus of Cyzicus", "Topa Inca Yuqanqui", "Wilhelm von Tegetthoff",
-        "Sardarilal Mathradas Nanda", "Alene Duerk", "Terence Lewin"]
+        "Sardarilal Mathradas Nanda", "Alene Duerk", "Terence Lewin", "Artemisia", "Gaius Duilius", "Themistocles", "Himerios", "Rajendra Chola", "Santa Cruz", "Ching Shih", "Laskarina Bouboulina", "Franz von Hipper", "Joaquim Marques Lisboa", "Grace Hopper", "Sergei Gorshkov", "Clancy Fernando"]
     },
     {
         "name": "Navigator",

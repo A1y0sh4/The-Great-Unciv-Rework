@@ -73,13 +73,13 @@
 
 	// Population
 	{
-        "name": "find survivors (adds population to a city)",
+        "name": "find survivors",
         "notification": "We have found survivors in the ruins! Population added to [cityName].",
         "uniques": ["[+1] population in a random city", "Play [wagon] sound"],
 		"color": "#81c784"
     },
 	{
-        "name": "survivors (adds population to a city)",
+        "name": "find survivors",
         "notification": "We have found survivors in the ruins! Population added to [cityName].",
         "uniques": ["[+2] population in a random city", "Play [wagon] sound"],
 		"color": "#81c784"
@@ -227,3 +227,4 @@
 		"color": "#c2c781"
     },
 ]
+

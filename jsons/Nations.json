@@ -1818,8 +1818,8 @@
 		"innerColor": [8,25,115],
 		
 		"uniqueName": "Discovery Age",
-		"uniqueText": "Suffer double Unhappiness from the number of cities\nThe empire enters a Golden Age upon discovering a Natural Wonder\nGain a free Great Navigator upon discovering a Natural Wonder",
-		"uniques": ["[+100]% unhappiness from the number of cities", "Empire enters golden age <upon discovering a Natural Wonder>", "Free [Great Navigator] appears <upon discovering a Natural Wonder>"],
+		"uniqueText": "Suffer double Unhappiness from the number of cities\nThe empire enters a Golden Age upon discovering a Natural Wonder\nGain a free Great Navigator after discovering [Astronomy] and [Navigation]",
+		"uniques": ["[+100]% unhappiness from the number of cities", "Empire enters golden age <upon discovering a Natural Wonder>", "Free [Great Navigator] appears <after discovering [Astronomy]>", "Free [Great Navigator] appears <after discovering [Navigation]>"],
 		"cities": ["Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Luanda",
 			"Evora","Faro","Castelo Branco","Bissau","Guarda","Viseu","Praia","Braganza","Beja","Tomar",
 			"Maputo","Tavira","Figueira da Foz","Viana do Castelo","São Tomé and Príncipe","Silves","Sintra","Dili","Lamego",

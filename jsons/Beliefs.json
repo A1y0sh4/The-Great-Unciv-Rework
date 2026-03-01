@@ -263,7 +263,7 @@
     {
         "name": "Evangelization",
         "type": "Follower",
-        "uniques": ["Gain a free [Temple] [in this city]", "Comment [Religious units gain +1 Sight and earn a little amount of [Science] when discovering new Land tiles]", "[Religious Unit] units gain the [Scouting II] promotion <hidden from users>"]
+        "uniques": ["Gain a free [Temple] [in this city]", "Comment [Religious units gain +1 Sight and earn a little amount of [Science] when discovering new Land tiles]", "[Missionary] units gain the [Scouting II] promotion <hidden from users>", "[Great Prophet] units gain the [Scouting II] promotion <hidden from users>", "[Inquisitor] units gain the [Scouting II] promotion <hidden from users>", "[Cataphract] units gain the [Scouting II] promotion <hidden from users>"]
     },
     {
         "name": "Exotic Novelties",
@@ -553,6 +553,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

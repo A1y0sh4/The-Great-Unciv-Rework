@@ -43,20 +43,20 @@
 
 	// Units
 	{
-        "name": "squatters willing to explore for you",
+        "name": "squatters willing to join you",
         "notification": "A [Scout] has joined us!",
         "uniques": ["Free [Scout] found in the ruins", "Play [wagon] sound"],
 		"color": "#c2c781"
     },
     {
-        "name": "squatters willing to work for you",
+        "name": "squatters willing to join you",
         "notification": "A [Worker] has joined us!",
         "uniques": ["Free [Worker] found in the ruins", "Play [wagon] sound"],
         "excludedDifficulties": ["Prince", "King", "Emperor", "Immortal", "Deity"],
 		"color": "#c2c781"
     },
     {
-        "name": "squatters wishing to settle under your rule",
+        "name": "squatters willing to join rule",
         "notification": "A [Settler] has joined us!",
         "uniques": ["Free [Settler] found in the ruins", "Play [wagon] sound"],
         "excludedDifficulties": ["Warlord","Prince","King","Emperor","Immortal","Deity"],
@@ -65,19 +65,19 @@
 
 	// Exploration
 	{
-        "name": "reveal nearby Barbarian camps",
+        "name": "reveal nearby tiles",
         "notification": "You find evidence of Barbarian activity. Nearby Barbarian camps are revealed!",
         "uniques": ["Reveal up to [All] [Barbarian encampment] within a [8] tile radius", "Play [setup] sound"],
 		"color": "#7fffa5"
     },
      {
-        "name": "reveal nearby City centers",
+        "name": "reveal nearby tiles",
         "notification": "You find evidence of other inhabited communities. Nearby City centers are revealed!",
         "uniques": ["Reveal up to [All] [City center] within a [8] tile radius", "Play [setup] sound"],
 		 "color": "#7fffa5"
     },
     {
-        "name": "find a crudely-drawn map",
+        "name": "reveal nearby tiles",
         "notification": "We have found a crudely-drawn map in the ruins!",
         "uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [40]% chance", "Play [setup] sound"],
 		"color": "#7fffa5"
@@ -91,13 +91,13 @@
 		"color": "#CDDDF4"
     },
     {
-        "name": "an ancient prophecy",
+        "name": "discover holy symbols",
         "notification": "We have found an ancient prophecy in the ruins, greatly increasing our spiritual connection! (+[faithAmount] Faith)",
         "uniques": ["Only available <when religion is enabled>", "Gain enough Faith for [25]% of a Great Prophet", "Unavailable <after generating a Great Prophet>", "Play [choir] sound"],
 		"color": "#CDDDF4"
     },
 	{
-        "name": "discover holy architecture",
+        "name": "discover holy symbols",
         "notification": "We have found holy buildings in the ruins, inspiring us to emulate the same architecture in our capital",
         "uniques": ["Only available <when religion is enabled>", "Provides the cheapest [Faith] building in your first [1] cities for free", "Play [choir] sound"],
 		"color": "#CDDDF4"
@@ -105,19 +105,19 @@
 
 	// Unit upgrades
 	{
-        "name": "your exploring unit receives training",
+        "name": "your exploring unit upgraded",
         "notification": "An ancient tribe hosted and trained us in their ways of combat!",
         "uniques": ["[This Unit] gains [10] XP", "[This Unit] heals [50] HP", "Play [promote] sound"],
 		"color": "#ff997f"
     },
     {
-        "name": "your exploring unit receives training",
+        "name": "your exploring unit upgraded",
         "notification": "An ancient tribe trained us in their ways of combat!",
         "uniques": ["[This Unit] gains [15] XP", "Play [promote] sound"],
 		"color": "#ff997f"
     },
     {
-        "name": "advanced weaponry for your explorer",
+        "name": "your exploring unit upgraded",
         "notification": "Our unit finds advanced weaponry hidden in the ruins!",
         "uniques": ["[This Unit] upgrades for free including special upgrades", "Play [promote] sound"],
 		"color": "#ff997f"
@@ -169,7 +169,7 @@
 
 	// Epic deed
 	{
-        "name": "your exploring unit became inspired as they accomplished an epic deed",
+        "name": "your exploring unit tried to accomplish an epic deed",
         "notification": "Our unit temporarily gains Inspiration",
         "uniques": ["Instantly gain [20] [Golden Age points] <(modified by game speed)>", "[This Unit] gets a name from the [Virtue] group",
 			"[This Unit] gains the [Inspiration] status for [5] turn(s) <on [Turbo] game speed> <hidden from users>",
@@ -183,7 +183,7 @@
         "color": "#f78fdb" 
     },
 	{
-        "name": "your exploring unit became ashamed as they failed to accomplish an epic deed",
+        "name": "your exploring unit tried to accomplish an epic deed",
         "notification": "Our unit temporarily gains Shame",
         "uniques": ["Instantly gain [-20] [Golden Age points] <(modified by game speed)>", "[This Unit] gets a name from the [Vice] group",
 			"[This Unit] gains the [Shame] status for [5] turn(s) <on [Turbo] game speed> <hidden from users>",
@@ -197,7 +197,7 @@
         "color": "#f78fdb"
     },
 	{
-        "name": "your exploring unit became swift as they accomplished an epic deed",
+        "name": "your exploring unit tried to accomplish an epic deed",
         "notification": "Our unit temporarily stole some horses",
         "uniques": ["Instantly gain [+20] [Golden Age points] <(modified by game speed)>", "[This Unit] gets a name from the [Virtue] group",
 			"[This Unit] gains the [Swift] status for [5] turn(s) <on [Turbo] game speed> <hidden from users>",
@@ -211,7 +211,7 @@
         "color": "#f78fdb"
     },
 	{
-        "name": "your exploring unit became enraged as they failed to accomplish an epic deed",
+        "name": "your exploring unit tried to accomplish an epic deed",
         "notification": "Our unit temporarily gains Rage",
         "uniques": ["Instantly gain [-20] [Golden Age points] <(modified by game speed)>", "[This Unit] gets a name from the [Vice] group",
 			"[This Unit] gains the [Rage] status for [5] turn(s) <on [Turbo] game speed> <hidden from users>",
@@ -225,5 +225,6 @@
         "color": "#f78fdb"
     },
 ]
+
 
 

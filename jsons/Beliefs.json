@@ -138,7 +138,7 @@
     {
         "name": "In Hoc Signo Vinces",
         "type": "Founder",
-        "uniques": ["Comment [Military Land units gain 15 XP upon gaining a Great Prophet]", "[{Military} {Land}] units gain the [Terracotta Army Unique] promotion <upon gaining a [Great Prophet] unit> <hidden from users>",
+        "uniques": ["Comment [Military units gain 15 XP upon gaining a Great Prophet]", "[Military] units gain the [Terracotta Army Unique] promotion <upon gaining a [Great Prophet] unit> <hidden from users>",
                     "[+1 Culture] for each global city following this religion <for [Byzantium] Civilizations> <hidden from users>"]
     },
     {
@@ -553,6 +553,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

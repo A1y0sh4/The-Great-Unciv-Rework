@@ -426,7 +426,7 @@
             {
                 "name": "Secularism",
                 "uniques": [
-                "[-75]% Natural religion spread [in all cities]", "[{non-air} {Military}] units gain the [Secularism] promotion"
+                "[-100]% Natural religion spread [in all cities]", "[{non-air} {Military}] units gain the [Secularism] promotion"
                 ],
                 "row": 1,
                 "column": 2

@@ -87,23 +87,23 @@
     {
         "name": "Melee Water",
         "movementType": "Water",
-        "uniques": ["Transfer Movement to [Great General]", "Transfer Movement to [Great Admiral]",]
+        "uniques": ["Transfer Movement to [Great General]", "Transfer Movement to [Great Admiral]", "[This Unit] heals [25] HP <upon expending a [Great Admiral] unit>", "[This Unit] gains [15] XP <upon expending a [Great Admiral] unit>"]
     },
     {
         "name": "Ranged Water",
         "movementType": "Water",
-        "uniques": ["Transfer Movement to [Great General]", "Transfer Movement to [Great Admiral]",
+        "uniques": ["Transfer Movement to [Great General]", "Transfer Movement to [Great Admiral]", "[This Unit] heals [25] HP <upon expending a [Great Admiral] unit>", "[This Unit] gains [15] XP <upon expending a [Great Admiral] unit>",
 	"[-20]% Strength <vs [Melee Water] units> <when defending>"]
     },
     {
         "name": "Submarine",
         "movementType": "Water",
-        "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units", "Transfer Movement to [Great General]", "Transfer Movement to [Great Admiral]",]
+        "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units", "Transfer Movement to [Great General]", "Transfer Movement to [Great Admiral]", "[This Unit] heals [25] HP <upon expending a [Great Admiral] unit>", "[This Unit] gains [15] XP <upon expending a [Great Admiral] unit>",]
     },
     {
         "name": "Aircraft Carrier",
         "movementType": "Water",
-        "uniques": ["Transfer Movement to [Great General]", "Transfer Movement to [Great Admiral]",
+        "uniques": ["Transfer Movement to [Great General]", "Transfer Movement to [Great Admiral]", "[This Unit] heals [25] HP <upon expending a [Great Admiral] unit>", "[This Unit] gains [15] XP <upon expending a [Great Admiral] unit>",
 	"[-20]% Strength <vs [Melee Water] units> <when defending>"]
     },
     {
@@ -185,5 +185,6 @@
         "movementType": "Air"
     }
 ]
+
 
 

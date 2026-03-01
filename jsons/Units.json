@@ -2186,9 +2186,9 @@
 		"unitType": "Civilian",
 		"uniques": [
             "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
-			"Comment [Can Spread Religion for 2 movement 4 times after which this unit is consumed]",
-            "Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed> <before adopting [Messiah]> <hidden from users>",
-	    "Can Spread Religion <for [0] movement> <[4] times> <after which this unit is consumed> <after adopting [Messiah]> <hidden from users>",
+			"Comment [Can Spread Religion for 2 movement 3 times after which this unit is consumed]",
+            "Can Spread Religion <for [2] movement> <[3] times> <after which this unit is consumed> <before adopting [Messiah]> <hidden from users>",
+	    "Can Spread Religion <for [0] movement> <[3] times> <after which this unit is consumed> <after adopting [Messiah]> <hidden from users>",
 			"Removes other religions when spreading religion",
             "May found a religion <by consuming this unit> <if it hasn't used other actions yet>",
             "May enhance a religion <by consuming this unit> <if it hasn't used other actions yet>",
@@ -2196,7 +2196,7 @@
 			"Unbuildable", "Religious Unit", "Only available <when religion is enabled>",
 			"Takes your religion over the one in their birth city", "[This Unit] gets a name from the [Prophet] group"],
 		"movement": 2,
-		"religiousStrength": 1000
+		"religiousStrength": 300
 	},
 	{
 		"name": "Great General",
@@ -2222,11 +2222,11 @@
 		"unitType": "Civilian",
 		"uniques": [
             "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>",
-            "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
+            "May enter foreign tiles without open borders, but loses [25] religious strength each turn it ends there",
 			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion] <in cities with a [Temple]>",
 			"[-1] Sight", "Unbuildable", "Religious Unit", "Only available <when religion is enabled>", "Takes your religion over the one in their birth city <after adopting [Religious Expeditions]> <hidden from users>"],
-		"movement": 4,
-		"religiousStrength": 1000
+		"movement": 2,
+		"religiousStrength": 200
 	},
 	{
 		"name": "Inquisitor",
@@ -2235,7 +2235,7 @@
 			"Can remove other religions from cities <in [Friendly] tiles> <[2] times> <after which this unit is consumed>",
 			"[+1] Sight", "Only available <when religion is enabled>", "Unbuildable", "Religious Unit", "Takes your religion over the one in their birth city"
 		],
-		"movement": 3
+		"movement": 2
 	},
 	{
 		"name": "Diplomat",

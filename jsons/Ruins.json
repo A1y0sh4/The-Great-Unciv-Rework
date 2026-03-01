@@ -171,7 +171,7 @@
 	{
         "name": "your exploring unit became inspired as they accomplished an epic deed",
         "notification": "Our unit temporarily gains Inspiration",
-        "uniques": ["Instantly gain [20] [Golden Age points] <(modified by game speed)>",
+        "uniques": ["Instantly gain [20] [Golden Age points] <(modified by game speed)>", "[This Unit] gets a name from the [Virtue] group",
 			"[This Unit] gains the [Inspiration] status for [5] turn(s) <on [Turbo] game speed> <hidden from users>",
 		"[This Unit] gains the [Inspiration] status for [9] turn(s) <on [Online] game speed> <hidden from users>",
 		"[This Unit] gains the [Inspiration] status for [13] turn(s) <on [Quick] game speed> <hidden from users>",
@@ -185,7 +185,7 @@
 	{
         "name": "your exploring unit became ashamed as they failed an epic deed",
         "notification": "Our unit temporarily gains Shame",
-        "uniques": ["Instantly gain [-20] [Golden Age points] <(modified by game speed)>",
+        "uniques": ["Instantly gain [-20] [Golden Age points] <(modified by game speed)>", "[This Unit] gets a name from the [Vice] group",
 			"[This Unit] gains the [Shame] status for [5] turn(s) <on [Turbo] game speed> <hidden from users>",
 		"[This Unit] gains the [Shame] status for [4] turn(s) <on [Online] game speed> <hidden from users>",
 		"[This Unit] gains the [Shame] status for [13] turn(s) <on [Quick] game speed> <hidden from users>",
@@ -199,7 +199,7 @@
 	{
         "name": "your exploring unit became swift as they achieved an epic deed",
         "notification": "Our unit temporarily stole some horses",
-        "uniques": ["Instantly gain [+20] [Golden Age points] <(modified by game speed)>",
+        "uniques": ["Instantly gain [+20] [Golden Age points] <(modified by game speed)>", "[This Unit] gets a name from the [Virtue] group",
 			"[This Unit] gains the [Swift] status for [5] turn(s) <on [Turbo] game speed> <hidden from users>",
 		"[This Unit] gains the [Swift] status for [9] turn(s) <on [Online] game speed> <hidden from users>",
 		"[This Unit] gains the [Swift] status for [13] turn(s) <on [Quick] game speed> <hidden from users>",
@@ -213,7 +213,7 @@
 	{
         "name": "your exploring unit became enraged as they failed an epic deed",
         "notification": "Our unit temporarily gains Rage",
-        "uniques": ["Instantly gain [-20] [Golden Age points] <(modified by game speed)>",
+        "uniques": ["Instantly gain [-20] [Golden Age points] <(modified by game speed)>", "[This Unit] gets a name from the [Vice] group",
 			"[This Unit] gains the [Rage] status for [5] turn(s) <on [Turbo] game speed> <hidden from users>",
 		"[This Unit] gains the [Rage] status for [9] turn(s) <on [Online] game speed> <hidden from users>",
 		"[This Unit] gains the [Rage] status for [13] turn(s) <on [Quick] game speed> <hidden from users>",
@@ -225,3 +225,4 @@
         "color": "#f78fdb"
     },
 ]
+

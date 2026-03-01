@@ -416,7 +416,7 @@
 		"adjective": ["Bugandan"],
 		"startBias": ["Lake"],
 		"preferredVictoryType": "Domination",
-		//"personality": "Suna II",
+		"personality": "Suna II",
 
         "startIntroPart1": "Hail to you, Ssekabaka Ssuuna II, Kabaka king of the Buganda people. You ascended the throne at the age of twelve, and your rule is said to be ruthless, as shown by the execution of almost all of your brothers by your order. You also enforced laws for your people, including the following for sanitary standards within the capital, and included foreign trade from Zanzibaris and Arabs, enriching your kingdom. You were also a stead fast man, both in body and spirit: you survived a lightning strike, and the continued campaigns in your name, thanks to your expanded fleed, led to bigger domains around Lake Nnalubaale, or as we call it today Lake Victoria.",
         "startIntroPart2": "O brave and ruthless Kabaka, today the kingdom is absorbed in a nation called Uganda, but the ancient capital of Kampala, around which Buganda was built, is still the center of your people. Will you lead your kingdom to further greatness? Will you take the mantle and answer your people's call? Can you build a civilization that will stand the test of time?",

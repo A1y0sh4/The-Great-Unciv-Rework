@@ -1,6 +1,5 @@
 [
   /*
-
       Here is a template to show what values should be filled in. 
       Use the description at http://civdata.com/, and adjust the numbers accordingly.
       Even then, its up to personal interpretation.
@@ -40,7 +39,8 @@
       "civilopediaText": [
           {"text": "Alexander the Great, born in Macedon, was one of the most skilled generals, even more by his young age, and in only 17 years he conquered all the Greek known world."}
       ]
-  },*/
+  },
+	*/
   {
     "name": "Ahmad al-Mansur",
     "production": 6,

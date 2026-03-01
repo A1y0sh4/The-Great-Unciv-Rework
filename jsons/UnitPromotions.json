@@ -987,18 +987,19 @@
 	},
 	{
 		"name": "Inspiration",
-		"uniques": ["[Great General] is earned [+100]% faster", "[+100]% XP gained from combat", "[+5] HP when healing", "[This Unit] gets a name from the [Virtue] group"]
+		"uniques": ["[Great General] is earned [+100]% faster", "[+100]% XP gained from combat", "[+5] HP when healing"]
 	},
 	{
 		"name": "Shame",
-		"uniques": ["[Great General] is earned [-100]% faster", "[-100]% XP gained from combat", "[-5] HP when healing", "[This Unit] gets a name from the [Vice] group"]
+		"uniques": ["[Great General] is earned [-100]% faster", "[-100]% XP gained from combat", "[-5] HP when healing"]
 	},
 	{
 		"name": "Swift",
-		"uniques": ["[+1] Movement", "Ignores Zone of Control", "Can move after attacking", "[This Unit] gets a name from the [Virtue] group"]
+		"uniques": ["[+1] Movement", "Ignores Zone of Control", "Can move after attacking"]
 	},
 	{
 		"name": "Rage",
-		"uniques": ["[+25]% Strength <when attacking>", "[-15]% Strength <when defending>", "Unit will heal every turn, even if it performs an action", "[-5] HP when healing", "[This Unit] gets a name from the [Vice] group"]
+		"uniques": ["[+25]% Strength <when attacking>", "[-15]% Strength <when defending>", "Unit will heal every turn, even if it performs an action", "[-5] HP when healing"]
 	},
 ]
+

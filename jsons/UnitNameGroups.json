@@ -72,10 +72,12 @@
     },
     {
         "name": "Virtue",
-        "unitNames": ["Odysseus", "Aeneas", "Achilles", "Hector", "Orlando", "Beowulf", "Arjuna", "Enkidu", "Sun Wukong", "Sigurd", "Rama", "Hou Yi", "Roland", "Cú Chulainn", "Perseus", "Theseus", "Jason", "Ati", "Saladin", "Rostam", "Sohrab", "Manas", "Sundiata", "Mwindo", "Kalevipoeg", "Digenes Akritas", "Ilmarinen", "Cuauhtémoc"]
+        "unitNames": ["Odysseus", "Aeneas", "Achilles", "Hector", "Orlando", "Beowulf", "Arjuna", "Enkidu", "Sun Wukong", "Sigurd", "Rama", "Hou Yi", "Roland", "Cú Chulainn", "Perseus", "Theseus", "Jason", "Ati", "Saladin", "Rostam", "Sohrab", "Manas", "Sundiata", "Mwindo", "Kalevipoeg", "Digenes Akritas", "Ilmarinen", "Cuauhtémoc",
+        "Hercules"]
     },
     {
         "name": "Vice",
-        "unitNames": ["Ajax", "Icarus", "Pentheus", "Paris", "Mordred", "Grendel", "Ganelon", "Karna", "Lucifer", "Judas", "Duryodhana", "Faust", "Oedipus", "Cain", "Loki", "Phaethon", "Medea", "Macbeth", "Zahhak", "Coyolxauhqui", "Tezcatlipoca", "Zahhak", "Afrasiab", "Kullervo", "Yudhishthira", "Sisyphus", "Susanoo", "Anansi"]
+        "unitNames": ["Ajax", "Icarus", "Pentheus", "Paris", "Mordred", "Grendel", "Ganelon", "Karna", "Lucifer", "Judas", "Duryodhana", "Faust", "Oedipus", "Cain", "Loki", "Phaethon", "Medea", "Macbeth", "Zahhak", "Coyolxauhqui", "Tezcatlipoca", "Zahhak", "Afrasiab", "Kullervo", "Yudhishthira", "Sisyphus", "Susanoo", "Anansi",
+        "Tiamat"]
     },
 ]

@@ -12,7 +12,10 @@
     },
     {
         "name": "Admiral",
-        "unitNames": ["Afonso de Albuquerque", "Alfred von Tirpitz", "Álvaro de Bazán", "Andrea Doria", "Andrew Cunningham", "Calonymus of Alexandria", "Chester W. Nimitz", "Christopher Columbus", "Comte de Grasse", "David Farragut", "Don John of Austria", "Erik the Red", "Ferdinand Magellan", "Fernando Villaamil", "Francis Drake", "Fyodor Ushakov", "George Dewey", "Hanno", "Hayreddin Barbarossa", "Henry the Navigator", "Himilco", "Horatio Nelson", "Isoroku Yamamoto", "Jacques Cartier", "James Cook", "John Doukas", "John Hawkins", "John Paul Jones", "Leif Ericson", "Marcus Atilius Regulus", "Marcus Vipsanius Agrippa", "Matthew Perry", "Michiel de Ruyter", "Murat Reis", "Peter Wessel Tordenskjold", "Phormio", "Pytheas", "Roger of Lauria", "Shi Lang", "Togo Heihachiro", "Turgut Reis", "Vasco da Gama", "Yi Sun-sin", "Zheng He", "Zinovy Rozhestvensky"]
+        "unitNames": ["Afonso de Albuquerque", "Alfred von Tirpitz", "Álvaro de Bazán", "Andrea Doria", "Andrew Cunningham", "Calonymus of Alexandria", "Chester W. Nimitz", "Christopher Columbus", "Comte de Grasse", "David Farragut", "Don John of Austria", "Erik the Red", "Ferdinand Magellan", "Fernando Villaamil",
+            "Francis Drake", "Fyodor Ushakov", "George Dewey", "Hanno", "Hayreddin Barbarossa", "Henry the Navigator", "Himilco", "Horatio Nelson", "Isoroku Yamamoto", "Jacques Cartier", "James Cook", "John Doukas", "John Hawkins", "John Paul Jones", "Leif Ericson", "Marcus Atilius Regulus", "Marcus Vipsanius Agrippa",
+            "Matthew Perry", "Michiel de Ruyter", "Murat Reis", "Peter Wessel Tordenskjold", "Phormio", "Pytheas", "Roger of Lauria", "Shi Lang", "Togo Heihachiro", "Turgut Reis", "Vasco da Gama", "Yi Sun-sin", "Zheng He", "Zinovy Rozhestvensky", "Eudoxus of Cyzicus", "Topa Inca Yuqanqui", "Wilhelm von Tegetthoff",
+        "Sardarilal Mathradas Nanda", "Alene Duerk", "Terence Lewin"]
     },
     {
         "name": "Navigator",

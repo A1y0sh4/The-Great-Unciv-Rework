@@ -2141,20 +2141,20 @@
 	{
 		"name": "Great Artist",
 		"unitType": "Civilian",
-		"uniques": ["Can generate a large amount of culture", "Can instantly construct a [Landmark] improvement <by consuming this unit>", "Great Person - [Culture]", "Unbuildable", "Uncapturable", "[This Unit] gets a name from the [Artist] group"],
+		"uniques": ["Can generate a large amount of culture", "Can instantly construct a [Landmark] improvement <by consuming this unit>", "Great Person - [Culture]", "Unbuildable", "Uncapturable", "[This Unit] gets a name from the [Artist] group", "Is part of Great Person group [Artist]"],
 		"movement": 2
 	},
 	{
 		"name": "Great Scientist",
 		"unitType": "Civilian",
-		"uniques": ["Can hurry technology research", "Can instantly construct a [Academy] improvement <by consuming this unit>", "Great Person - [Science]", "Unbuildable", "Uncapturable", "[This Unit] gets a name from the [Scientist] group"],
+		"uniques": ["Can hurry technology research", "Can instantly construct a [Academy] improvement <by consuming this unit>", "Great Person - [Science]", "Unbuildable", "Uncapturable", "[This Unit] gets a name from the [Scientist] group", "Is part of Great Person group [Scientist]"],
 		"movement": 2
 	},
 	{
 		"name": "Great Merchant",
 		"unitType": "Civilian",
 		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
-			"Can instantly construct a [Customs house] improvement <by consuming this unit>", "Great Person - [Gold]", "Unbuildable", "Uncapturable", "[This Unit] gets a name from the [Merchant] group"],
+			"Can instantly construct a [Customs house] improvement <by consuming this unit>", "Great Person - [Gold]", "Unbuildable", "Uncapturable", "[This Unit] gets a name from the [Merchant] group", "Is part of Great Person group [Merchant]"],
 		"movement": 2
 	},
 	{
@@ -2163,7 +2163,7 @@
 		"uniqueTo": "Portugal",
 		"replaces": "Great Merchant",
 		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [40] Influence",
-			"Can instantly construct a [Customs house] improvement <by consuming this unit>", "[+2] Movement <when [Embarked]>", "[+2] Sight <when [Embarked]>", "Great Person - [Gold]", "Unbuildable", "Uncapturable", "[This Unit] gets a name from the [Navigator] group"],
+			"Can instantly construct a [Customs house] improvement <by consuming this unit>", "[+2] Movement <when [Embarked]>", "[+2] Sight <when [Embarked]>", "Great Person - [Gold]", "Unbuildable", "Uncapturable", "[This Unit] gets a name from the [Navigator] group", "Is part of Great Person group [Merchant]"],
 		"movement": 2
 	},
 	{
@@ -2172,13 +2172,13 @@
 		"uniqueTo": "Mutapa",
 		"replaces": "Great Merchant",
 		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence", "May enter foreign tiles without open borders", "Instantly gain [30] [Golden Age points] <once>",
-			"Can instantly construct a [Customs house] improvement <by consuming this unit>", "Great Person - [Gold]", "Unbuildable", "Uncapturable", "[This Unit] gets a name from the [Trader] group"],
+			"Can instantly construct a [Customs house] improvement <by consuming this unit>", "Great Person - [Gold]", "Unbuildable", "Uncapturable", "[This Unit] gets a name from the [Trader] group", "Is part of Great Person group [Merchant]"],
 		"movement": 3
 	},
 	{
 		"name": "Great Engineer",
 		"unitType": "Civilian",
-		"uniques": ["Can speed up construction of a building", "Can instantly construct a [Manufactory] improvement <by consuming this unit>", "Great Person - [Production]", "Unbuildable", "Uncapturable", "[This Unit] gets a name from the [Engineer] group"],
+		"uniques": ["Can speed up construction of a building", "Can instantly construct a [Manufactory] improvement <by consuming this unit>", "Great Person - [Production]", "Unbuildable", "Uncapturable", "[This Unit] gets a name from the [Engineer] group", "Is part of Great Person group [Engineer]"],
 		"movement": 2
 	},
 	{
@@ -2194,15 +2194,15 @@
             "May enhance a religion <by consuming this unit> <if it hasn't used other actions yet>",
 			"May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
 			"Unbuildable", "Religious Unit", "Only available <when religion is enabled>",
-			"Takes your religion over the one in their birth city", "[This Unit] gets a name from the [Prophet] group"],
+			"Takes your religion over the one in their birth city", "[This Unit] gets a name from the [Prophet] group", "Is part of Great Person group [Prophet]"],
 		"movement": 2,
 		"religiousStrength": 300
 	},
 	{
 		"name": "Great General",
 		"unitType": "Civilian",
-		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles", "Can instantly construct a [Citadel] improvement <by consuming this unit>", "Comment [Gets transfered Movement from escorting unit]",
-			"Great Person - [War]", "Unbuildable", "Uncapturable", "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence <for [Kievan Rus'] Civilizations> <hidden from users>", "Founds a new puppet city <once> <for [1] movement> <within [4] tiles of a [City center]> <for [Macedonia] Civilizations> <hidden from users>", "[This Unit] gets a name from the [General] group"],
+		"uniques": ["[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles", "Can instantly construct a [Citadel] improvement <by consuming this unit>", "Comment [Gets transfered Movement from escorting unit]", "Can be earned through combat <for [Land] units>",
+			"Great Person - [War]", "Unbuildable", "Uncapturable", "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence <for [Kievan Rus'] Civilizations> <hidden from users>", "Founds a new puppet city <once> <for [1] movement> <within [4] tiles of a [City center]> <for [Macedonia] Civilizations> <hidden from users>", "[This Unit] gets a name from the [General] group", "Is part of Great Person group [General]"],
 		"movement": 2
 	},
 	{
@@ -2210,9 +2210,22 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Mongolia",
 		"replaces": "Great General",
-		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles", "[+33]% Strength bonus for [Mounted] units within [2] tiles", "[+5] HP when healing", "All adjacent units heal [+5] HP when healing", "Comment [Gets transfered Movement from escorting unit]",
-			"Can instantly construct a [Citadel] improvement <by consuming this unit>", "Great Person - [War]", "Unbuildable", "Uncapturable", "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence <for [Kievan Rus'] Civilizations> <hidden from users>", "Founds a new city <once> <for [1] movement> <for [Macedonia] Civilizations> <hidden from users>", "[This Unit] gets a name from the [Khan] group"],
+		"uniques": ["[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles", "[+33]% Strength bonus for [Mounted] units within [2] tiles", "[+5] HP when healing", "All adjacent units heal [+5] HP when healing", "Comment [Gets transfered Movement from escorting unit]", "Can be earned through combat <for [Land] units>",
+			"Can instantly construct a [Citadel] improvement <by consuming this unit>", "Great Person - [War]", "Unbuildable", "Uncapturable", "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence <for [Kievan Rus'] Civilizations> <hidden from users>", "Founds a new city <once> <for [1] movement> <for [Macedonia] Civilizations> <hidden from users>", "[This Unit] gets a name from the [Khan] group", "Is part of Great Person group [General]"],
 		"movement": 5
+	},
+	{
+		"name": "Great Admiral",
+		"unitType": "Civilian Water",
+		"uniques": [
+            // TODO: "[Every adjacent [{Friendly} {Water}] unit] heals [100] HP <by consuming this unit>",
+            "May Paradrop to [{your} {Coastal} {City center}] tiles up to [25] tiles away <in [City center] tiles>", // Change Port
+            "[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
+			"Can be earned through combat <for [Water] units>",
+            "Is part of Great Person group [Admiral]",
+            "[This Unit] gets a name from the [Admiral] group",
+            "Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 4
 	},
 
 	/* Religious units */

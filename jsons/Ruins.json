@@ -117,7 +117,7 @@
 	// Ambush
 	{
         "name": "your exploring unit fell into an ambush",
-        "notification": "We have found previously unknown cultural artifacts in the ruins! (+[cultureAmount] Culture)",
+        "notification": "Our unit is temporarily injured",
         "uniques": ["[This Unit] takes [25] damage",
 			"[This Unit] gains the [Injured] status for [1] turn(s) <on [Turbo] game speed> <hidden from users>",
 		"[This Unit] gains the [Injured] status for [2] turn(s) <on [Online] game speed> <hidden from users>",
@@ -130,7 +130,7 @@
     },
 	{
         "name": "your exploring unit fell into an ambush",
-        "notification": "We have found previously unknown cultural artifacts in the ruins! (+[cultureAmount] Culture)",
+        "notification": "Our unit is temporarily blinded",
         "uniques": ["[This Unit] takes [25] damage",
 			"[This Unit] gains the [Blinded] status for [1] turn(s) <on [Turbo] game speed> <hidden from users>",
 		"[This Unit] gains the [Blinded] status for [2] turn(s) <on [Online] game speed> <hidden from users>",
@@ -143,7 +143,7 @@
     },
 	{
         "name": "your exploring unit fell into an ambush",
-        "notification": "We have found previously unknown cultural artifacts in the ruins! (+[cultureAmount] Culture)",
+        "notification": "Our unit is temporarily poisoned",
         "uniques": ["[This Unit] takes [25] damage",
 			"[This Unit] gains the [Poisoned] status for [1] turn(s) <on [Turbo] game speed> <hidden from users>",
 		"[This Unit] gains the [Poisoned] status for [2] turn(s) <on [Online] game speed> <hidden from users>",
@@ -154,4 +154,33 @@
 		"[This Unit] gains the [Poisoned] status for [10] turn(s) <on [Endless] game speed> <hidden from users>"],
         "color": "#ff7f7f"
     },
+
+	// Epic deed
+	{
+        "name": "your exploring unit became inspired as they accomplished an epic deed",
+        "notification": "Our unit temporarily gains Inspiration",
+        "uniques": ["Instantly gain [40] [Golden Age points] <(modified by game speed)>",
+			"[This Unit] gains the [Inspiration] status for [4] turn(s) <on [Turbo] game speed> <hidden from users>",
+		"[This Unit] gains the [Inspiration] status for [8] turn(s) <on [Online] game speed> <hidden from users>",
+		"[This Unit] gains the [Inspiration] status for [12] turn(s) <on [Quick] game speed> <hidden from users>",
+		"[This Unit] gains the [Inspiration] status for [16] turn(s) <on [Standard] game speed> <hidden from users>",
+		"[This Unit] gains the [Inspiration] status for [24] turn(s) <on [Epic] game speed> <hidden from users>",
+		"[This Unit] gains the [Inspiration] status for [32] turn(s) <on [Marathon] game speed> <hidden from users>",
+		"[This Unit] gains the [Inspiration] status for [40] turn(s) <on [Endless] game speed> <hidden from users>"],
+        "color": "#f78fdb"
+    },
+	{
+        "name": "your exploring unit became ashamed as they failed an epic deed",
+        "notification": "Our unit temporarily gains Shame",
+        "uniques": ["Instantly gain [-40] [Golden Age points] <(modified by game speed)>",
+			"[This Unit] gains the [Shame] status for [4] turn(s) <on [Turbo] game speed> <hidden from users>",
+		"[This Unit] gains the [Shame] status for [8] turn(s) <on [Online] game speed> <hidden from users>",
+		"[This Unit] gains the [Shame] status for [12] turn(s) <on [Quick] game speed> <hidden from users>",
+		"[This Unit] gains the [Shame] status for [16] turn(s) <on [Standard] game speed> <hidden from users>",
+		"[This Unit] gains the [Shame] status for [24] turn(s) <on [Epic] game speed> <hidden from users>",
+		"[This Unit] gains the [Shame] status for [32] turn(s) <on [Marathon] game speed> <hidden from users>",
+		"[This Unit] gains the [Shame] status for [40] turn(s) <on [Endless] game speed> <hidden from users>"],
+        "color": "#f78fdb"
+    },
 ]
+

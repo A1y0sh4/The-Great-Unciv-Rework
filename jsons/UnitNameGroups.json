@@ -26,14 +26,14 @@
             "Thomas Gainsborough", "Tintoretto", "Titian", "Torajiro Kasai", "Toyokuni Utagawa", "Utagawa Hiroshige", "Utagawa Kuniyoshi", "Valmiki", "Victor Hugo", "Viktor M. Vasnetsov", "Vincent van Gogh", "Virgil", "Wang Ximeng", "Wang Xizhi", "Willem van de Velde the Younger", "William Butler Yeats", "William Bouguereau",
             "William Shakespeare", "William Simpson", "Winslow Homer", "Wolfgang Amadeus Mozart", "Yan Liben", "Yanagawa Shigenobu", "Yunus Emre", "Zhang Zeduan", "Anatoly Lunacharsky", "Nikolay Chernyshevsky", "Andrei Zhdanov", "Evald Ilyenkov", "William Morris", "Georgi Plekhanov", "Bertolt Brecht", "Antonio Gramsci",
         "Isaak Brodsky", "Diego Rivera", "Frida Kahlo", "Kazimir Malevich", "Vladimir Majakovsky", "Lyubov Popova", "Oscar Wilde", "Dziga Vertov", "Sergei Eisenstein", "Yevgeny Vuchetich", "Friedrich Nietzsche", "Hegel", "Jean-Jacques Rousseau", "Immanuel Kant", "Jean-Paul Sartre", "Simone de Beauvoir", "Albert Camus",
-        "Niccolò Machiavelli", "John Locke", "David Hume", "Baruch Spinoza", "Michel Foucault", "Hannah Arendt"]
+        "Niccolò Machiavelli", "John Locke", "David Hume", "Baruch Spinoza", "Michel Foucault", "Hannah Arendt", "Martha Nussbaum"]
     },
     {
         "name": "Merchant",
         "unitNames": ["Aretas III", "Andrew Carnegie", "Coco Chanel", "Marcus Licinius Crassus", "Enrico Dandolo", "Anthony van Diemen", "Jakob Fugger", "Harkuf", "Edward Harriman", "Milton S. Hershey", "Ibn Battuta", "Steve Jobs", "John Maynard Keynes", "Sir James Lancaster", "Sir Alexander Mackenzie", "Giovanni de Medici",
             "John Stuart Mill", "Henri Nestlé", "Marco Polo", "John D. Rockefeller", "Sir Thomas Roe", "Shah Jahan", "Adam Smith", "Levi Strauss", "Raja Todar Mal", "Thomas Twining", "Cornelius Vanderbilt", "Richard Whittington", "Wang Anshi", "Zhang Qian", "Colaeus", "Ibn Fadlan", "Irene of Athens", "Piero de' Bardi",
         "Zhou Daguan", "Karl Marx", "Michał Kalecki", "Nikolai Bukharin", "Leonid Kantorovich", "Rosa Luxemburg", "Konstantin Ostrovityanov", "Stanislav Strumilin", "John Jacob Astor", "John Spilsbury", "Stamford Raffles", "Sarah Breedlove", "Mary Katherine Goddard", "Helena Rubinstein", "Melitta Bentz", "Estée Lauder",
-        "Jamsetji Tata", "Masaru Ibuka", "Piero Sraffa", "Joan Robinson", "Nicholas Kaldor", "Sidney Weintraub", "Paul Davidson", "Jan Kregel", "Basil J Moore", "Marc Lavoie", "Friedrich Engels"]
+        "Jamsetji Tata", "Masaru Ibuka", "Piero Sraffa", "Joan Robinson", "Nicholas Kaldor", "Sidney Weintraub", "Paul Davidson", "Jan Kregel", "Basil J Moore", "Marc Lavoie", "Friedrich Engels", "Amartya Sen", "Kenneth Arrow"]
     },
     {
         "name": "Trader",

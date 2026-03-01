@@ -4,7 +4,7 @@
         "unitNames": ["Ahuitzotl", "Akbar", "Albrecht von Wallenstein", "Arminius", "Belisarius", "Bernard Montgomery", "Cao Cao", "Chandragupta Maurya", "Charles Martel", "El Cid", "Epaminondas", "Erwin Rommel", "Eugene of Savoy", "Francisco Pizarro", "Gaius Marius", "George Patton", "Georgy Zhukov", "Geronimo",
             "Hamilcar Barca", "Hannibal Barca", "Heinz Guderian", "Hernan Cortez", "Alexander Suvorov", "Jeanne d'Arc", "Johann Tserclaes", "Khaled ibn al-Walid", "Leonidas", "Lysander", "Maurice of Nassau", "Oliver Cromwell", "Pompey", "Pyrrhus", "Robert E. Lee", "Sargon", "Scipio Africanus", "Sitting Bull",
             "Spartacus", "Subutai", "Sun Tzu", "Timur", "Vercingetorix", "William the Conqueror", "Winfield Scott", "Zhuge Liang", "Trưng Trắc", "Æthelflæd", "Ana Nzinga", "Amina", "Dandara", "José de San Martín", "Rani Lakshmibai", "Tupac Amaru", "John Monash", "Marina Raskova", "Samori Touré", "Douglas MacArthur",
-        "Sudirman", "Mikhail Tukhachevsky", "Julius Caesar", "Hephaestion", "Antonio José de Sucre", "Alcibiades"]
+        "Sudirman", "Mikhail Tukhachevsky", "Julius Caesar", "Hephaestion", "Antonio José de Sucre", "Alcibiades", "Piye", "Idia", "Crazy Horse", "Aleksei Brusilov"]
     },
     {
         "name": "Khan",
@@ -26,14 +26,15 @@
             "Thomas Gainsborough", "Tintoretto", "Titian", "Torajiro Kasai", "Toyokuni Utagawa", "Utagawa Hiroshige", "Utagawa Kuniyoshi", "Valmiki", "Victor Hugo", "Viktor M. Vasnetsov", "Vincent van Gogh", "Virgil", "Wang Ximeng", "Wang Xizhi", "Willem van de Velde the Younger", "William Butler Yeats", "William Bouguereau",
             "William Shakespeare", "William Simpson", "Winslow Homer", "Wolfgang Amadeus Mozart", "Yan Liben", "Yanagawa Shigenobu", "Yunus Emre", "Zhang Zeduan", "Anatoly Lunacharsky", "Nikolay Chernyshevsky", "Andrei Zhdanov", "Evald Ilyenkov", "William Morris", "Georgi Plekhanov", "Bertolt Brecht", "Antonio Gramsci",
         "Isaak Brodsky", "Diego Rivera", "Frida Kahlo", "Kazimir Malevich", "Vladimir Majakovsky", "Lyubov Popova", "Oscar Wilde", "Dziga Vertov", "Sergei Eisenstein", "Yevgeny Vuchetich", "Friedrich Nietzsche", "Hegel", "Jean-Jacques Rousseau", "Immanuel Kant", "Jean-Paul Sartre", "Simone de Beauvoir", "Albert Camus",
-        "Niccolò Machiavelli", "John Locke", "David Hume", "Baruch Spinoza", "Michel Foucault", "Hannah Arendt", "Martha Nussbaum", "Fyodor Dostoevsky", "Søren Kierkegaard"]
+        "Niccolò Machiavelli", "John Locke", "David Hume", "Baruch Spinoza", "Michel Foucault", "Hannah Arendt", "Martha Nussbaum", "Fyodor Dostoevsky", "Søren Kierkegaard", "Avvaiyar I", "Rudaki"]
     },
     {
         "name": "Merchant",
         "unitNames": ["Aretas III", "Andrew Carnegie", "Coco Chanel", "Marcus Licinius Crassus", "Enrico Dandolo", "Anthony van Diemen", "Jakob Fugger", "Harkuf", "Edward Harriman", "Milton S. Hershey", "Ibn Battuta", "Steve Jobs", "John Maynard Keynes", "Sir James Lancaster", "Sir Alexander Mackenzie", "Giovanni de Medici",
             "John Stuart Mill", "Henri Nestlé", "Marco Polo", "John D. Rockefeller", "Sir Thomas Roe", "Shah Jahan", "Adam Smith", "Levi Strauss", "Raja Todar Mal", "Thomas Twining", "Cornelius Vanderbilt", "Richard Whittington", "Wang Anshi", "Zhang Qian", "Colaeus", "Ibn Fadlan", "Irene of Athens", "Piero de' Bardi",
         "Zhou Daguan", "Karl Marx", "Michał Kalecki", "Nikolai Bukharin", "Leonid Kantorovich", "Rosa Luxemburg", "Konstantin Ostrovityanov", "Stanislav Strumilin", "John Jacob Astor", "John Spilsbury", "Stamford Raffles", "Sarah Breedlove", "Mary Katherine Goddard", "Helena Rubinstein", "Melitta Bentz", "Estée Lauder",
-        "Jamsetji Tata", "Masaru Ibuka", "Piero Sraffa", "Joan Robinson", "Nicholas Kaldor", "Sidney Weintraub", "Paul Davidson", "Jan Kregel", "Basil J Moore", "Marc Lavoie", "Friedrich Engels", "Amartya Sen", "Kenneth Arrow", "Ea-nāṣir"]
+        "Jamsetji Tata", "Masaru Ibuka", "Piero Sraffa", "Joan Robinson", "Nicholas Kaldor", "Sidney Weintraub", "Paul Davidson", "Jan Kregel", "Basil J Moore", "Marc Lavoie", "Friedrich Engels", "Amartya Sen", "Kenneth Arrow", "Ea-nāṣir", "Croesus", "Jan van Riebeeck", "Elizabeth Macarthur", "Walt Disney", "Warren Buffett",
+        "Elon Musk", "John Law"]
     },
     {
         "name": "Trader",
@@ -43,14 +44,15 @@
         "name": "Engineer",
         "unitNames": ["Archimedes", "Alexander Graham Bell", "Isambard Kingdom Brunel", "Karl Benz", "Henry Bessemer", "Bi Sheng", "Cai Lun", "Charles Augustin de Coulomb", "Louis Daguerre", "Gottlieb Daimler", "Charles Stark Draper", "George Eastman", "Thomas Edison", "Alexandre Gustave Eiffel", "Henry Ford", "Benjamin Franklin",
             "Robert Goddard", "George Washington Goethals", "Heron", "Imhotep", "Joseph Marie Jacquard", "Ferdinand de Lesseps", "Guglielmo Marconi", "William Morton", "Nikolaus August Otto", "Blaise Pascal", "Norbert Rillieux", "John Roebling", "Wilhelm Schickard", "Mimar Sinan", "Nain Singh", "Nikola Tesla", "James Watt",
-            "Frank Lloyd Wright", "Orville Wright", "Wilbur Wright", "Zhang Heng", "Isidore of Miletus", "James of St. George", "Filippo Brunelleschi", "Ada Lovelace", "Shah Jahān", "Alvar Aalto", "Jane Drew", "Sergei Korolev", "Joseph Paxton", "Charles Correa", "Wernher von Braun", "Kenzo Tange"]
+            "Frank Lloyd Wright", "Orville Wright", "Wilbur Wright", "Zhang Heng", "Isidore of Miletus", "James of St. George", "Filippo Brunelleschi", "Ada Lovelace", "Shah Jahān", "Alvar Aalto", "Jane Drew", "Sergei Korolev", "Joseph Paxton", "Charles Correa", "Wernher von Braun", "Kenzo Tange", "Ismail al-Jazari", "Shivaji",
+        "John Loudon McAdam", "Antoni Gaudi", "Jorn Utzon"]
     },
     {
         "name": "Scientist",
         "unitNames": ["Al-Khwarizmi", "Al-Razi", "Abu al-Qasim al-Zahrawi", "Alhazen", "Aristotle", "Aryabhata", "Francis Bacon", "Tycho Brahe", "Niels Bohr", "Nicolaus Copernicus", "Marie Curie", "John Dalton", "Charles Darwin", "René Descartes", "Albert Einstein", "Euclid", "Leonard Euler", "Michael Faraday", "Enrico Fermi",
             "Richard Feynman", "Rosalind Franklin", "Galileo Galilei", "Carl Friedrich Gauss", "Werner Heisenberg", "Alexander von Humboldt", "Hypatia", "Johannes Kepler", "Andrey Kolmogorov", "Antoine Laurent Lavoisier", "Mary Leakey", "Antony van Leeuwenhoek", "Gottfried Leibniz", "Carl Linnaeus", "Mikhail Lomonosov",
             "James Clerk Maxwell", "Gregor Mendel", "Dmitri Mendeleev", "Merit-Ptah", "Nasir al-Din al-Tusi", "Nabu-rimanni", "John von Neumann", "Isaac Newton", "Louis Pasteur", "Plato", "Ptolemy", "Ernest Rutherford", "Andrey Sakharov", "Claude Shannon", "Shen Kuo", "Socrates", "Alan Turing", "Xi Ling Shi", "Zu Chongzhi",
-        "Zhang Heng", "Hildegard of Bingen", "Omar Khayyam", "Ibn Khaldun", "Emilie du Chatelet", "James Young", "Alfred Nobel", "Erwin Schrödinger", "Janaki Ammal", "Margaret Mead", "Carl Sagan", "Stephanie Kwolek", "Abdus Salam"]
+        "Zhang Heng", "Hildegard of Bingen", "Omar Khayyam", "Ibn Khaldun", "Emilie du Chatelet", "James Young", "Alfred Nobel", "Erwin Schrödinger", "Janaki Ammal", "Margaret Mead", "Carl Sagan", "Stephanie Kwolek", "Abdus Salam", "Ulugh Beg", "Benjamin Franklin", "Douglas Mawson", "Stephen Hawking"]
     },
     {
         "name": "Prophet",

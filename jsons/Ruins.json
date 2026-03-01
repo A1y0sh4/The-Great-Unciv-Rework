@@ -45,36 +45,42 @@
 	{
         "name": "squatters willing to explore for you",
         "notification": "A [Scout] has joined us!",
-        "uniques": ["Free [Scout] found in the ruins"]
+        "uniques": ["Free [Scout] found in the ruins"],
+		"color": "#c2c781"
     },
     {
         "name": "squatters willing to work for you",
         "notification": "A [Worker] has joined us!",
         "uniques": ["Free [Worker] found in the ruins"],
-        "excludedDifficulties": ["Prince", "King", "Emperor", "Immortal", "Deity"]
+        "excludedDifficulties": ["Prince", "King", "Emperor", "Immortal", "Deity"],
+		"color": "#c2c781"
     },
     {
         "name": "squatters wishing to settle under your rule",
         "notification": "A [Settler] has joined us!",
         "uniques": ["Free [Settler] found in the ruins"],
-        "excludedDifficulties": ["Warlord","Prince","King","Emperor","Immortal","Deity"]
+        "excludedDifficulties": ["Warlord","Prince","King","Emperor","Immortal","Deity"],
+		"color": "#c2c781"
     },
 
 	// Exploration
 	{
         "name": "reveal nearby Barbarian camps",
         "notification": "You find evidence of Barbarian activity. Nearby Barbarian camps are revealed!",
-        "uniques": ["Reveal up to [All] [Barbarian encampment] within a [8] tile radius"]
+        "uniques": ["Reveal up to [All] [Barbarian encampment] within a [8] tile radius"],
+		"color": "#7fffa5"
     },
      {
         "name": "reveal nearby City centers",
         "notification": "You find evidence of other inhabited communities. Nearby City centers are revealed!",
-        "uniques": ["Reveal up to [All] [City center] within a [8] tile radius"]
+        "uniques": ["Reveal up to [All] [City center] within a [8] tile radius"],
+		 "color": "#7fffa5"
     },
     {
         "name": "find a crudely-drawn map",
         "notification": "We have found a crudely-drawn map in the ruins!",
-        "uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [40]% chance"]
+        "uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [40]% chance"],
+		"color": "#7fffa5"
     },
 
 	// Religion
@@ -101,17 +107,20 @@
 	{
         "name": "your exploring unit receives training",
         "notification": "An ancient tribe hosted and trained us in their ways of combat!",
-        "uniques": ["[This Unit] gains [10] XP", "[This Unit] heals [25] HP"]
+        "uniques": ["[This Unit] gains [10] XP", "[This Unit] heals [25] HP"],
+		"color": "#ff997f"
     },
     {
         "name": "your exploring unit receives training",
         "notification": "An ancient tribe trained us in their ways of combat!",
-        "uniques": ["[This Unit] gains [15] XP"]
+        "uniques": ["[This Unit] gains [15] XP"],
+		"color": "#ff997f"
     },
     {
         "name": "advanced weaponry for your explorer",
         "notification": "Our unit finds advanced weaponry hidden in the ruins!",
-        "uniques": ["[This Unit] upgrades for free including special upgrades"]
+        "uniques": ["[This Unit] upgrades for free including special upgrades"],
+		"color": "#ff997f"
     },
 
 	// Ambush
@@ -183,4 +192,3 @@
         "color": "#f78fdb"
     },
 ]
-

@@ -412,7 +412,7 @@
     {
         "name": "Trade Osmosis",
         "type": "Follower",
-        "uniques": ["[+1 Faith, +1 Science] from [Trading post] tiles [in this city]"]
+        "uniques": ["[+1 Faith, +1 Science] from [Trading post] tiles [in this city]", "[+1 Faith, +1 Science] from [Trading post] tiles [in this city] <during We Love The King Day>"]
     },
     {
         "name": "Trading Community",
@@ -553,6 +553,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

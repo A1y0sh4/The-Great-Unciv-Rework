@@ -996,5 +996,10 @@
 		"name": "Swift",
 		"uniques": ["[+1] Movement", "Ignores Zone of Control", "Can move after attacking"]
 	},
+	{
+		"name": "Rage",
+		"uniques": ["[+25]% Strength <when attacking>", "[-15]% Strength <when defending>", "Unit will heal every turn, even if it performs an action", "[-5] HP when healing"]
+	},
 ]
+
 

@@ -2111,3 +2111,10 @@ UnitIcons/Canoe Archer
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Clan House
+  rotate: false
+  xy: 1220, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

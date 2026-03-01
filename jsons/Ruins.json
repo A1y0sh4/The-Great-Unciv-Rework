@@ -1,128 +1,4 @@
 [
-	// Una Tantum
-    {
-        "name": "discover cultural artifacts",
-        "notification": "We have found previously unknown cultural artifacts in the ruins! (+[cultureAmount] Culture)",
-        "uniques": ["Gain [15]-[33] [Culture] <(modified by game speed)>", "Play [policy] sound"],
-        "color": "#cf8ff7"
-    },
-	{
-        "name": "a stash of gold",
-        "notification": "We have found a hidden treasure in the ruins! (+[goldAmount] Gold)",
-        "uniques": ["Gain [50]-[200] [Gold] <(modified by game speed)>", "Play [coin] sound"],
-        "color": "#ffeb7f"
-    },
-
-	// Population
-	{
-        "name": "survivors (adds population to a city)",
-        "notification": "We have found survivors in the ruins! Population added to [cityName].",
-        "uniques": ["[+1] population in a random city", "Play [wagon] sound"],
-		"color": "#81c784"
-    },
-	{
-        "name": "survivors (adds population to a city)",
-        "notification": "We have found survivors in the ruins! Population added to [cityName].",
-        "uniques": ["[+2] population in a random city", "Play [wagon] sound"],
-		"color": "#81c784"
-    },
-
-	// Techs
-	{
-        "name": "discover a lost technology",
-        "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["[1] free random researchable Tech(s) from the [Prehistoric era]", "Only available <during the [Prehistoric era]>", "Play [paper] sound"],
-		"color": "#7f7fff"
-    },
-    {
-        "name": "discover a lost technology",
-        "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["[1] free random researchable Tech(s) from the [Ancient era]", "Only available <during the [Ancient era]>", "Play [paper] sound"],
-		"color": "#7f7fff"
-    },
-
-	// Units
-	{
-        "name": "squatters willing to join you",
-        "notification": "A [Scout] has joined us!",
-        "uniques": ["Free [Scout] found in the ruins", "Play [wagon] sound"],
-		"color": "#c2c781"
-    },
-    {
-        "name": "squatters willing to join you",
-        "notification": "A [Worker] has joined us!",
-        "uniques": ["Free [Worker] found in the ruins", "Play [wagon] sound"],
-        "excludedDifficulties": ["Prince", "King", "Emperor", "Immortal", "Deity"],
-		"color": "#c2c781"
-    },
-    {
-        "name": "squatters willing to join rule",
-        "notification": "A [Settler] has joined us!",
-        "uniques": ["Free [Settler] found in the ruins", "Play [wagon] sound"],
-        "excludedDifficulties": ["Warlord","Prince","King","Emperor","Immortal","Deity"],
-		"color": "#c2c781"
-    },
-
-	// Exploration
-	{
-        "name": "reveal nearby tiles",
-        "notification": "You find evidence of Barbarian activity. Nearby Barbarian camps are revealed!",
-        "uniques": ["Reveal up to [All] [Barbarian encampment] within a [8] tile radius", "Play [setup] sound"],
-		"color": "#7fffa5"
-    },
-     {
-        "name": "reveal nearby tiles",
-        "notification": "You find evidence of other inhabited communities. Nearby City centers are revealed!",
-        "uniques": ["Reveal up to [All] [City center] within a [8] tile radius", "Play [setup] sound"],
-		 "color": "#7fffa5"
-    },
-    {
-        "name": "reveal nearby tiles",
-        "notification": "We have found a crudely-drawn map in the ruins!",
-        "uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [40]% chance", "Play [setup] sound"],
-		"color": "#7fffa5"
-    },
-
-	// Religion
-	{
-        "name": "discover holy symbols",
-        "notification": "We have found holy symbols in the ruins, giving us a deeper understanding of religion! (+[faithAmount] Faith)",
-        "uniques": ["Only available <when religion is enabled>", "Gain enough Faith for a Pantheon", "Unavailable <after founding a Pantheon>", "Play [choir] sound"],
-		"color": "#CDDDF4"
-    },
-    {
-        "name": "discover holy symbols",
-        "notification": "We have found an ancient prophecy in the ruins, greatly increasing our spiritual connection! (+[faithAmount] Faith)",
-        "uniques": ["Only available <when religion is enabled>", "Gain enough Faith for [25]% of a Great Prophet", "Unavailable <after generating a Great Prophet>", "Play [choir] sound"],
-		"color": "#CDDDF4"
-    },
-	{
-        "name": "discover holy symbols",
-        "notification": "We have found holy buildings in the ruins, inspiring us to emulate the same architecture in our capital",
-        "uniques": ["Only available <when religion is enabled>", "Provides the cheapest [Faith] building in your first [1] cities for free", "Play [choir] sound"],
-		"color": "#CDDDF4"
-    },
-
-	// Unit upgrades
-	{
-        "name": "your exploring unit upgraded",
-        "notification": "An ancient tribe hosted and trained us in their ways of combat!",
-        "uniques": ["[This Unit] gains [10] XP", "[This Unit] heals [50] HP", "Play [promote] sound"],
-		"color": "#ff997f"
-    },
-    {
-        "name": "your exploring unit upgraded",
-        "notification": "An ancient tribe trained us in their ways of combat!",
-        "uniques": ["[This Unit] gains [15] XP", "Play [promote] sound"],
-		"color": "#ff997f"
-    },
-    {
-        "name": "your exploring unit upgraded",
-        "notification": "Our unit finds advanced weaponry hidden in the ruins!",
-        "uniques": ["[This Unit] upgrades for free including special upgrades", "Play [promote] sound"],
-		"color": "#ff997f"
-    },
-
 	// Ambush
 	{
         "name": "your exploring unit fell into an ambush",
@@ -167,6 +43,110 @@
         "color": "#ff7f7f"
     },
 
+	// Unit upgrades
+	{
+        "name": "your exploring unit upgrades",
+        "notification": "An ancient tribe hosted and trained us in their ways of combat!",
+        "uniques": ["[This Unit] gains [10] XP", "[This Unit] heals [50] HP", "Play [promote] sound"],
+		"color": "#ff997f"
+    },
+    {
+        "name": "your exploring unit upgrades",
+        "notification": "An ancient tribe trained us in their ways of combat!",
+        "uniques": ["[This Unit] gains [15] XP", "Play [promote] sound"],
+		"color": "#ff997f"
+    },
+    {
+        "name": "your exploring unit upgrades",
+        "notification": "Our unit finds advanced weaponry hidden in the ruins!",
+        "uniques": ["[This Unit] upgrades for free including special upgrades", "Play [promote] sound"],
+		"color": "#ff997f"
+    },
+	
+// Una tantum
+	{
+        "name": "gain a stash of gold",
+        "notification": "We have found a hidden treasure in the ruins! (+[goldAmount] Gold)",
+        "uniques": ["Gain [50]-[200] [Gold] <(modified by game speed)>", "Play [coin] sound"],
+        "color": "#ffeb7f"
+    },
+
+	// Population
+	{
+        "name": "find survivors (adds population to a city)",
+        "notification": "We have found survivors in the ruins! Population added to [cityName].",
+        "uniques": ["[+1] population in a random city", "Play [wagon] sound"],
+		"color": "#81c784"
+    },
+	{
+        "name": "survivors (adds population to a city)",
+        "notification": "We have found survivors in the ruins! Population added to [cityName].",
+        "uniques": ["[+2] population in a random city", "Play [wagon] sound"],
+		"color": "#81c784"
+    },
+
+	// Exploration
+	{
+        "name": "reveal nearby tiles",
+        "notification": "You find evidence of Barbarian activity. Nearby Barbarian camps are revealed!",
+        "uniques": ["Reveal up to [All] [Barbarian encampment] within a [8] tile radius", "Play [setup] sound"],
+		"color": "#7fffa5"
+    },
+     {
+        "name": "reveal nearby tiles",
+        "notification": "You find evidence of other inhabited communities. Nearby City centers are revealed!",
+        "uniques": ["Reveal up to [All] [City center] within a [8] tile radius", "Play [setup] sound"],
+		 "color": "#7fffa5"
+    },
+    {
+        "name": "reveal nearby tiles",
+        "notification": "We have found a crudely-drawn map in the ruins!",
+        "uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [40]% chance", "Play [setup] sound"],
+		"color": "#7fffa5"
+    },
+
+	// Religion
+	{
+        "name": "discover holy symbols",
+        "notification": "We have found holy symbols in the ruins, giving us a deeper understanding of religion! (+[faithAmount] Faith)",
+        "uniques": ["Only available <when religion is enabled>", "Gain enough Faith for a Pantheon", "Unavailable <after founding a Pantheon>", "Play [choir] sound"],
+		"color": "#CDDDF4"
+    },
+    {
+        "name": "discover holy symbols",
+        "notification": "We have found an ancient prophecy in the ruins, greatly increasing our spiritual connection! (+[faithAmount] Faith)",
+        "uniques": ["Only available <when religion is enabled>", "Gain enough Faith for [25]% of a Great Prophet", "Unavailable <after generating a Great Prophet>", "Play [choir] sound"],
+		"color": "#CDDDF4"
+    },
+	{
+        "name": "discover holy symbols",
+        "notification": "We have found holy buildings in the ruins, inspiring us to emulate the same architecture in our capital",
+        "uniques": ["Only available <when religion is enabled>", "Provides the cheapest [Faith] building in your first [1] cities for free", "Play [choir] sound"],
+		"color": "#CDDDF4"
+    },
+
+	// Techs
+	{
+        "name": "discover a lost technology",
+        "notification": "We have discovered the lost technology of [techName] in the ruins!",
+        "uniques": ["[1] free random researchable Tech(s) from the [Prehistoric era]", "Only available <during the [Prehistoric era]>", "Play [paper] sound"],
+		"color": "#7f7fff"
+    },
+    {
+        "name": "discover a lost technology",
+        "notification": "We have discovered the lost technology of [techName] in the ruins!",
+        "uniques": ["[1] free random researchable Tech(s) from the [Ancient era]", "Only available <during the [Ancient era]>", "Play [paper] sound"],
+		"color": "#7f7fff"
+    },
+
+	// Una Tantum
+    {
+        "name": "discover cultural artifacts",
+        "notification": "We have found previously unknown cultural artifacts in the ruins! (+[cultureAmount] Culture)",
+        "uniques": ["Gain [15]-[33] [Culture] <(modified by game speed)>", "Play [policy] sound"],
+        "color": "#cf8ff7"
+    },
+	
 	// Epic deed
 	{
         "name": "your exploring unit tried to accomplish an epic deed",
@@ -224,7 +204,26 @@
 		"Play [fortify] sound"],
         "color": "#f78fdb"
     },
+
+	// Units
+	{
+        "name": "squatters willing to join you",
+        "notification": "A [Scout] has joined us!",
+        "uniques": ["Free [Scout] found in the ruins", "Play [wagon] sound"],
+		"color": "#c2c781"
+    },
+    {
+        "name": "squatters willing to join you",
+        "notification": "A [Worker] has joined us!",
+        "uniques": ["Free [Worker] found in the ruins", "Play [wagon] sound"],
+        "excludedDifficulties": ["Prince", "King", "Emperor", "Immortal", "Deity"],
+		"color": "#c2c781"
+    },
+    {
+        "name": "squatters willing to join rule",
+        "notification": "A [Settler] has joined us!",
+        "uniques": ["Free [Settler] found in the ruins", "Play [wagon] sound"],
+        "excludedDifficulties": ["Warlord","Prince","King","Emperor","Immortal","Deity"],
+		"color": "#c2c781"
+    },
 ]
-
-
-

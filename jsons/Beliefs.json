@@ -236,9 +236,9 @@
     {
         "name": "Bucolic Atmosphere",
         "type": "Follower",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Pasture] <within [1] tiles of a [Pasture]>",
-        "[+1 Culture, +1 Faith] from every [Plantation] <within [1] tiles of a [Plantation]>",
-        "[+1 Culture, +1 Faith] from every [Camp] <within [1] tiles of a [Camp]>"]
+        "uniques": ["[+1 Culture] from every [Pasture] <within [1] tiles of a [Pasture]>",
+        "[+1 Culture] from every [Plantation] <within [1] tiles of a [Plantation]>",
+        "[+1 Culture] from every [Camp] <within [1] tiles of a [Camp]>"]
     },
     {
         "name": "Civic Culture",

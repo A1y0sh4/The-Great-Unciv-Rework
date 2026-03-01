@@ -2240,7 +2240,7 @@
 			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion] <in cities with a [Temple]>",
 			"[-1] Sight", "Unbuildable", "Religious Unit", "Only available <when religion is enabled>", "Takes your religion over the one in their birth city <after adopting [Religious Expeditions]> <hidden from users>"],
 		"movement": 2,
-		"religiousStrength": 200
+		"religiousStrength": 300
 	},
 	{
 		"name": "Inquisitor",

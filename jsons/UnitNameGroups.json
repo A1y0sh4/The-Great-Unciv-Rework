@@ -49,7 +49,8 @@
         "name": "Scientist",
         "unitNames": ["Al-Khwarizmi", "Al-Razi", "Abu al-Qasim al-Zahrawi", "Alhazen", "Aristotle", "Aryabhata", "Francis Bacon", "Tycho Brahe", "Niels Bohr", "Nicolaus Copernicus", "Marie Curie", "John Dalton", "Charles Darwin", "René Descartes", "Albert Einstein", "Euclid", "Leonard Euler", "Michael Faraday", "Enrico Fermi",
             "Richard Feynman", "Rosalind Franklin", "Galileo Galilei", "Carl Friedrich Gauss", "Werner Heisenberg", "Alexander von Humboldt", "Hypatia", "Johannes Kepler", "Andrey Kolmogorov", "Antoine Laurent Lavoisier", "Mary Leakey", "Antony van Leeuwenhoek", "Gottfried Leibniz", "Carl Linnaeus", "Mikhail Lomonosov",
-            "James Clerk Maxwell", "Gregor Mendel", "Dmitri Mendeleev", "Merit-Ptah", "Nasir al-Din al-Tusi", "Nabu-rimanni", "John von Neumann", "Isaac Newton", "Louis Pasteur", "Plato", "Ptolemy", "Ernest Rutherford", "Andrey Sakharov", "Claude Shannon", "Shen Kuo", "Socrates", "Alan Turing", "Xi Ling Shi", "Zu Chongzhi"]
+            "James Clerk Maxwell", "Gregor Mendel", "Dmitri Mendeleev", "Merit-Ptah", "Nasir al-Din al-Tusi", "Nabu-rimanni", "John von Neumann", "Isaac Newton", "Louis Pasteur", "Plato", "Ptolemy", "Ernest Rutherford", "Andrey Sakharov", "Claude Shannon", "Shen Kuo", "Socrates", "Alan Turing", "Xi Ling Shi", "Zu Chongzhi",
+        "Zhang Heng", "Hildegard of Bingen", "Omar Khayyam", "Ibn Khaldun", "Emilie du Chatelet", "James Young", "Alfred Nobel", "Erwin Schrödinger", "Janaki Ammal", "Margaret Mead", "Carl Sagan", "Stephanie Kwolek", "Abdus Salam"]
     },
     {
         "name": "Prophet",

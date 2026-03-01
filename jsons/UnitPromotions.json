@@ -835,7 +835,8 @@
 	},
 	{
 		"name": "[Zero] ability",
-		"uniques": ["[+33]% Strength <vs [Fighter] units>", "Comment [The more its wounded, the more it gets stronger]", "[+10]% Strength <when below [100] HP> <when above [75] HP> <hidden from users>", "[+20]% Strength <when below [76] HP> <when above [50] HP> <hidden from users>", "[+30]% Strength <when below [51] HP> <when above [25] HP> <hidden from users>", "[+40]% Strength <when below [26] HP> <hidden from users>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+		"uniques": ["[+33]% Strength <vs [Fighter] units>", "Comment [The more its wounded, the more it gets stronger]", "[+10]% Strength <when below [100] HP> <when above [75] HP> <hidden from users>", "[+20]% Strength <when below [76] HP> <when above [50] HP> <hidden from users>",
+			"[+30]% Strength <when below [51] HP> <when above [25] HP> <hidden from users>", "[+40]% Strength <when below [26] HP> <hidden from users>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
 	{
                 "name": "[Digger] ability",
@@ -986,20 +987,18 @@
 	},
 	{
 		"name": "Inspiration",
-		"uniques": ["[Great General] is earned [+100]% faster", "[+100]% XP gained from combat", "[+5] HP when healing"]
+		"uniques": ["[Great General] is earned [+100]% faster", "[+100]% XP gained from combat", "[+5] HP when healing", "[This Unit] gets a name from the [Virtue] group"]
 	},
 	{
 		"name": "Shame",
-		"uniques": ["[Great General] is earned [-100]% faster", "[-100]% XP gained from combat", "[-5] HP when healing"]
+		"uniques": ["[Great General] is earned [-100]% faster", "[-100]% XP gained from combat", "[-5] HP when healing", "[This Unit] gets a name from the [Vice] group"]
 	},
 	{
 		"name": "Swift",
-		"uniques": ["[+1] Movement", "Ignores Zone of Control", "Can move after attacking"]
+		"uniques": ["[+1] Movement", "Ignores Zone of Control", "Can move after attacking", "[This Unit] gets a name from the [Virtue] group"]
 	},
 	{
 		"name": "Rage",
-		"uniques": ["[+25]% Strength <when attacking>", "[-15]% Strength <when defending>", "Unit will heal every turn, even if it performs an action", "[-5] HP when healing"]
+		"uniques": ["[+25]% Strength <when attacking>", "[-15]% Strength <when defending>", "Unit will heal every turn, even if it performs an action", "[-5] HP when healing", "[This Unit] gets a name from the [Vice] group"]
 	},
 ]
-
-

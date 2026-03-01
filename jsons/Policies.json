@@ -165,7 +165,7 @@
             {
                 "name": "Military Tradition",
                 "uniques": [
-                    "[+50]% XP gained from combat <for [Military] units>", "[Great General] is earned [50]% faster"
+                    "[+50]% XP gained from combat <for [Military] units>", "[Great General] is earned [50]% faster", "[Great Admiral] is earned [50]% faster"
                 ],
                 "row": 1,
                 "column": 4

@@ -87,23 +87,23 @@
     {
         "name": "Melee Water",
         "movementType": "Water",
-        "uniques": ["Transfer Movement to [Great General]"]
+        "uniques": ["Transfer Movement to [Great General]", "Transfer Movement to [Great Admiral]",]
     },
     {
         "name": "Ranged Water",
         "movementType": "Water",
-        "uniques": ["Transfer Movement to [Great General]",
+        "uniques": ["Transfer Movement to [Great General]", "Transfer Movement to [Great Admiral]",
 	"[-20]% Strength <vs [Melee Water] units> <when defending>"]
     },
     {
         "name": "Submarine",
         "movementType": "Water",
-        "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units", "Transfer Movement to [Great General]"]
+        "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units", "Transfer Movement to [Great General]", "Transfer Movement to [Great Admiral]",]
     },
     {
         "name": "Aircraft Carrier",
         "movementType": "Water",
-        "uniques": ["Transfer Movement to [Great General]",
+        "uniques": ["Transfer Movement to [Great General]", "Transfer Movement to [Great Admiral]",
 	"[-20]% Strength <vs [Melee Water] units> <when defending>"]
     },
     {
@@ -124,7 +124,7 @@
     {
         "name": "Missile",
         "movementType": "Air",
-        "uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
+        "uniques": ["Self-destructs when attacking"]
     },
     {
         "name": "Helicopter",
@@ -185,4 +185,5 @@
         "movementType": "Air"
     }
 ]
+
 

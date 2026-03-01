@@ -220,11 +220,12 @@
 		"color": "#c2c781"
     },
     {
-        "name": "squatters willing to join rule",
+        "name": "squatters willing to join you",
         "notification": "A [Settler] has joined us!",
         "uniques": ["Free [Settler] found in the ruins", "Play [wagon] sound"],
         "excludedDifficulties": ["Warlord","Prince","King","Emperor","Immortal","Deity"],
 		"color": "#c2c781"
     },
 ]
+
 

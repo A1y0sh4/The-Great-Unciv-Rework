@@ -2226,7 +2226,7 @@
             "Is part of Great Person group [Admiral]",
             "[This Unit] gets a name from the [Admiral] group",
             "Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 4
+		"movement": 3
 	},
 
 	/* Religious units */

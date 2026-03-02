@@ -358,7 +358,7 @@
 				"name": "Printing Press",
 				"row": 8,
 				"prerequisites": ["Machinery","Physics","Chivalry"],
-				"quote": "'It is a newspaper's duty to print the news and raise hell.' - The Chicago Times"
+				"quote": "'The press does many things and serves many functions but its major role, its irreducible responsibility, is to continually recreate a view of reality supportive of existing social and economic class power.' - Michael Parenti"
 			},
 			{
 				"name": "Gunpowder",

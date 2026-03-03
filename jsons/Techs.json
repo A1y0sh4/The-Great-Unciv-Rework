@@ -251,7 +251,7 @@
 				"name": "Civil Service",
 				"row": 5,
 				"prerequisites": ["Currency","Imperial Games","Drama and Poetry","Philosophy","Engineering"],
-				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
+				"quote": "'The state is nothing but an instrument of oppression of one class by another - no less so in a democratic republic than in a monarchy.' - Friedrich Engels"
 			},
 			{
 				"name": "Guilds",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

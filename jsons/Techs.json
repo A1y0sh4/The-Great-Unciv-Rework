@@ -157,7 +157,7 @@
 				"name": "Horseback Riding",
 				"row": 5,
 				"prerequisites": ["Trapping","The Wheel"],
-				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
+				"quote": "'It is not enough for a man to know how to ride; he must know how to fall.' - Mexican Proverb"
 			},
 			{
 				"name": "Mathematics",

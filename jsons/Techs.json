@@ -54,7 +54,7 @@
 				"name": "Pottery",
 				"row": 3,
 				"prerequisites": ["Agriculture"],
-				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
+				"quote": "'No man ever wetted clay and then left it, as if there would be bricks by chance and fortune.' - Plutarch"
 			},
 			{
 				"name": "Animal Husbandry",

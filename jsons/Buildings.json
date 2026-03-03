@@ -2128,7 +2128,7 @@
 			"requiredBuilding": "Factory",
 			"requiredTech": "Cultural Hegemony",
 		"greatPersonPoints": {"Great Merchant": 1},
-		"uniques": ["Triggers voting for the Diplomatic Victory", "Only available <when [Diplomatic] Victory is enabled>", "Triggers a global alert upon build start", "Triggers a global alert upon completion", "Comment [Only avaible after finishing the Internationalism tree]", "Only available <after adopting [Internationalism Complete]> <hidden from users>", "Cannot be hurried",
+		"uniques": ["Resting point for Influence with City-States is increased by [10]", "Triggers voting for the Diplomatic Victory", "Only available <when [Diplomatic] Victory is enabled>", "Triggers a global alert upon build start", "Triggers a global alert upon completion", "Comment [Only avaible after finishing the Internationalism tree]", "Only available <after adopting [Internationalism Complete]> <hidden from users>", "Cannot be hurried",
 		"Only available <in cities with at least [15] [Population]>", "Shown while unbuilable"],
 		"quote": "'More than ever before in human history, we share a common destiny. We can master it only if we face it together. And that is why we have the United Nations.' - Kofi Annan"
 	},

@@ -379,7 +379,7 @@
 				"name": "Navigation",
 				"row": 2,
 				"prerequisites": ["Astronomy"],
-				"quote": "'The winds and the waves are always on the side of the ablest navigators.' - Edward Gibbon"
+				"quote": "'A nation’s greatness is measured by its navy.' - Alfred Thayer Mahan"
 			},
 			{
 				"name": "Architecture",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

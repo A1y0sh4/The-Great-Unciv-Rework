@@ -245,7 +245,7 @@
 				"name": "Theology",
 				"row": 3,
 				"prerequisites": ["Philosophy", "Drama and Poetry","Imperial Games"],
-				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
+				"quote": "'The foundation of irreligious criticism is: Man makes religion, religion does not make man. Religion is, indeed, the self-consciousness and self-esteem of man who has either not yet won through to himself, or has already lost himself again.' - Karl Marx"
 			},
 			{
 				"name": "Civil Service",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

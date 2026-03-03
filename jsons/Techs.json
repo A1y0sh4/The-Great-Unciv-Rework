@@ -157,7 +157,7 @@
 				"name": "Horseback Riding",
 				"row": 5,
 				"prerequisites": ["Trapping","The Wheel"],
-				"quote": "'It is not enough for a man to know how to ride; he must know how to fall.' - Mexican Proverb"
+				"quote": "'It is easy to conquer the world on horseback. But to dismount and govern? That is the hardest task.' - Genghis Khan"
 			},
 			{
 				"name": "Mathematics",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

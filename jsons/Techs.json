@@ -452,7 +452,7 @@
 				"name": "Industrialization",
 				"row": 6,
 				"prerequisites": ["Economics","Metallurgy","Architecture"],
-				"quote": "'Industrialization based on machinery, already referred to as a characteristic of our age, is but one aspect of the revolution that is being wrought by technology.' - Emily Greene Balch"
+				"quote": "'The essence of capitalism is to turn nature into commodities and commodities into capital. The live green earth is transformed into dead gold bricks, with luxury items for the few and toxic slag heaps for the many.' - Michael Parenti"
 			},
 			{
 				"name": "Rifling",

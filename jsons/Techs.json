@@ -734,7 +734,7 @@
 				"name": "Telecommunications",
 				"row": 2,
 				"prerequisites": ["Computers", "Advanced Urbanism"],
-				"quote": "'The more we elaborate our means of communication, the less we communicate.' - J.B. Priestly"
+				"quote": "'When people speak of the ideas that revolutionise society, they do but express that fact that within the old society the elements of a new one have been created, and that the dissolution of the old ideas keeps even pace with the dissolution of the old conditions of existence.' - Karl Marx & Friedrich Engels"
 			},
 			{
 				"name": "Mobile Tactics",
@@ -752,7 +752,7 @@
 				"name": "Satellites",
 				"row": 6,
 				"prerequisites": ["Rocketry","Computers","Cybernetics"],
-				"quote": "'Now, somehow, in some new way, the sky seemed almost alien.' - Lyndon B. Johnson"
+				"quote": "'Looking at the earth from afar you realize it is too small for conflict and just big enough for co-operation.' - Yuri Gagarin"
 			},
 			{
 				"name": "Robotics",
@@ -764,7 +764,7 @@
 				"name": "Lasers",
 				"row": 9,
 				"prerequisites": ["Computers","Cybernetics"],
-				"quote": "'The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armor of light.' - The Holy Bible: Romans, 13:12"
+				"quote": "'A laser is a weak source of energy... But with a laser, you can drill a hole in a diamond or wipe out cancer.' - Al Ries"
 			}
 		]
 	},
@@ -793,7 +793,7 @@
 				"name": "Nanotechnology",
 				"row": 8,
 				"prerequisites": ["Robotics", "Satellites", "Lasers"],
-				"quote": "'The impact of nanotechnology is expected to exceed the impact that the electronics revolution has had on our lives.' - Richard Schwartz"
+				"quote": "'Nanotechnology is the idea that we can create devices and machines all the way down to the nanometer scale, which is a billionth of a meter, about half the width of a human DNA molecule.' - Paul McEuen"
 			},
 			{
 				"name": "Stealth",
@@ -814,13 +814,13 @@
 				"name": "Nuclear Fusion",
 				"row": 7,
 				"prerequisites": ["Particle Physics","Nanotechnology", "Stealth", "Globalization"],
-				"quote": "'The release of atomic energy has not created a new problem. It has readily made more urgent the necessity of solving an existing one.' - Albert Einstein"
+				"quote": "'I would like nuclear fusion to become a practical power source. It would provide an inexhaustible supply of energy, without pollution or global warming.' - Stephen Hawking"
 			},
 			{
 				"name": "Advanced AI",
 				"row": 3,
 				"prerequisites": ["Particle Physics","Nanotechnology", "Stealth", "Globalization"],
-				"quote": "'Will no entreaties cause thee to turn a favourable eye upon thy creature, who implores thy goodness and compassion?' - Mary Shelley"
+				"quote": "'By far the greatest danger of Artificial Intelligence is that people conclude too early that they understand it.' - Eliezer Yudkowsky"
 			},
 		]
 	},
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

@@ -485,7 +485,7 @@
     {
         "name": "Itinerant Preachers",
         "type": "Enhancer",
-        "uniques": ["Religion naturally spreads to cities [+3] tiles away"]
+        "uniques": ["Religion naturally spreads to cities [+2] tiles away"]
     },
     {
         "name": "Just War",
@@ -553,6 +553,7 @@
         "uniques": ["[+1] Movement <for [Religious Unit] units> <on foreign continents>", "[+25]% Spread Religion Strength <for [Religious Unit] units> <on foreign continents>"]
     },
 ]
+
 
 
 

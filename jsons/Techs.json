@@ -586,7 +586,7 @@
 				"row": 2,
 				"prerequisites": ["Radio","Replaceable Parts","Refrigeration","Financial Capital"],
 				"uniques": ["[+300]% weight to this choice for AI decisions <hidden from users>"],
-				"quote": "'Ben, I want to say one word to you, just one word: plastics.' - Buck Henry and Calder Willingham, The Graduate"
+				"quote": "'Not only are plastics polluting our oceans and waterways and killing marine life – it’s in all of us and we can’t escape consuming plastics.' - Marco Lambertini"
 			},
 			{
 				"name": "Sociology",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

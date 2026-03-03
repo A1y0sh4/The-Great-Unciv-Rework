@@ -620,7 +620,7 @@
 				"name": "Combined Arms",
 				"row": 9,
 				"prerequisites": ["Combustion","Flight"],
-				"quote": "'The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest.' - Ludwig von Mises"
+				"quote": "'War is the continuation of politics by other means.' - Carl von Clausewitz"
 			}
 		]
 	},

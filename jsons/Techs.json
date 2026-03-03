@@ -385,7 +385,7 @@
 				"name": "Architecture",
 				"row": 4,
 				"prerequisites": ["Acoustics","Banking","Mechanics"],
-				"quote": "'Architecture begins where engineering ends.' - Walter Gropius"
+				"quote": "'We shape our buildings; thereafter they shape us.' - Winston Churchill"
 			},
 			{
 				"name": "Economics",
@@ -412,7 +412,7 @@
 				"row": 10,
 				"prerequisites": ["Gunpowder"], 
 				"uniques": ["[+1 Science] from every [Strategic resource]", "[+1 Science] from every [Coral Reef]", "[+1 Science] from every [Kelp Forest]", "Enables conversion of city production to [Science]"],
-				"quote": "'Wherever we look, the work of the chemist has raised the level of our civilization and has increased the productive capacity of the nation.' - Calvin Coolidge"
+				"quote": "'In the natural sciences, and particularly in chemistry, generalities must come after the detailed knowledge of each fact and not before it.' - Gay-Lussac"
 			}
 		]
 	},
@@ -434,7 +434,7 @@
 				"row": 3,
 				"prerequisites": ["Architecture","Economics","Navigation","Chemistry"],
 				"uniques": ["Enables Research agreements"],
-				"quote": "'Every great advance in science has issued from a new audacity of imagination.' - John Dewey"
+				"quote": "'Claims that cannot be tested, assertions immune to disproof are veridically worthless, whatever value they may have in inspiring us or exciting our sense of wonder.' - Carl Sagan"
 			},
 			{
 				"name": "Urban Planning",
@@ -459,13 +459,13 @@
 				"row": 7,
 				"prerequisites": ["Economics","Metallurgy","Siege Tactics"],
 				"uniques": ["Enables Defensive Pacts"],
-				"quote": "'It is well that war is so terrible, or we should grow too fond of it.' - Robert E. Lee"
+				"quote": "'Wars may be fought with weapons, but they are won by men. It is the spirit of the men who follow and of the man who leads that gains the victory.' - George S. Patton"
 			},
 			{
 				"name": "Military Science",
 				"row": 9,
 				"prerequisites": ["Metallurgy","Chemistry","Siege Tactics"],
-				"quote": "'Wars may be fought with weapons, but they are won by men. It is the spirit of the men who follow and of the man who leads that gains the victory.' - George S. Patton"
+				"quote": "'If you know the enemy and know yourself, you need not fear the result of a hundred battles.' - Sun Tzu"
 			},
 			{
 				"name": "Fertilizer",
@@ -494,13 +494,13 @@
 				"row": 3,
 				"prerequisites": ["Scientific Theory","Industrialization","Urban Planning"],
 				"uniques": ["[+300]% weight to this choice for AI decisions <hidden from users>"],
-				"quote": "'Is it a fact - or have I dreamt it - that, by means of electricity, the world of matter has become a great nerve, vibrating thousands of miles in a breathless point of time?' - Nathaniel Hawthorne"
+				"quote": "'Invention is the most important product of man's creative brain. The ultimate purpose is the complete mastery of mind over the material world, the harnessing of human nature to human needs.' - Nikola Tesla"
 			},
 			{
 				"name": "Refining",
 				"row": 5,
 				"prerequisites": ["Industrialization","Urban Planning","Rifling"],
-				"quote": "'Engineering is the art of directing the great sources of power in nature for the use and convenience of man.' - Thomas Tredgold"
+				"quote": "'By the fall of 1918, it was clear that a nation's prosperity, even its very survival, depended on securing a safe, abundant supply of cheap oil.' - Albert Marrin"
 			},
 			{
 				"name": "Steam Power",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

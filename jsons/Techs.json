@@ -91,7 +91,7 @@
 				"row": 1,
 				"prerequisites": ["Sailing", "Pottery"],
 				"uniques": ["Enables embarkation for land units"],
-				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
+				"quote": "'Set your course by the stars, not by the lights of every passing ship.' - Omar Bradley"
 			},
 			{
 				"name": "Calendar",

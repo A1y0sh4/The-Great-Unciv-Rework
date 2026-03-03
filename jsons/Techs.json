@@ -412,7 +412,7 @@
 				"row": 10,
 				"prerequisites": ["Gunpowder"], 
 				"uniques": ["[+1 Science] from every [Strategic resource]", "[+1 Science] from every [Coral Reef]", "[+1 Science] from every [Kelp Forest]", "Enables conversion of city production to [Science]"],
-				"quote": "'In the natural sciences, and particularly in chemistry, generalities must come after the detailed knowledge of each fact and not before it.' - Gay-Lussac"
+				"quote": "'In the natural sciences, and particularly in chemistry, generalities must come after the detailed knowledge of each fact and not before it.' - Joseph Louis Gay-Lussac"
 			}
 		]
 	},
@@ -535,7 +535,7 @@
 				"row": 3,
 				"prerequisites": ["Biology", "Steam Power","Dynamite","Electricity","Refining"],
 				"uniques": ["[+25]% spy effectiveness [in all cities]"],
-				"quote": "'The whole country was tied together by radio. We all experienced the same heroes and comedians and singers. They were giants.' - Woody Allen"
+				"quote": "'The power of radio is not that it speaks to millions, but that it speaks intimately and privately to each one of those millions.' - Hallie Flanagan"
 			},
 			{
 				"name": "Financial Capital",
@@ -550,7 +550,7 @@
 					"[+2 Gold] <for every [Truffles]> <hidden from users>", "[+2 Gold] <for every [Vodka]> <hidden from users>", "[+2 Gold] <for every [Whales]> <hidden from users>", "[+2 Gold] <for every [Whisky]> <hidden from users>", "[+2 Gold] <for every [Wine]> <hidden from users>", "Comment [+2 [Gold] for every Luxury resource you own]",
 					"[Gold] cost of purchasing items in cities [-10]%"
 				],
-				"quote": "'If you’re in the luckiest one per cent of humanity, you owe it to the rest of humanity to think about the other ninetynine per cent.' - Warren Buffett"
+				"quote": "'Imperialism is the export of capital to the sources of raw materials, the frenzied struggle for monopolist possession of these sources, the struggle for a re-division of the already divided world, a struggle waged with particular fury by new financial groups and Powers seeking a 'place in the sun' against the old groups and Powers, which cling tenaciously to what they have seized.' - Joseph Stalin"
 			},
 			{
 				"name": "Replaceable Parts",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

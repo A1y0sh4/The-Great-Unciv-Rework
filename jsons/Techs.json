@@ -471,7 +471,7 @@
 				"name": "Fertilizer",
 				"row": 10,
 				"prerequisites": ["Chemistry"],
-				"quote": "'The nation that destroys its soil destroys itself.' - Franklin Delano Roosevelt"
+				"quote": "'Remember to feed your people. Soldiers' bellies are not satisfied with empty promises and hopes.' - Peter the Great"
 			}
 		]
 	},
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

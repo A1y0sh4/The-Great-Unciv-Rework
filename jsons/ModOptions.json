@@ -33,7 +33,7 @@
     "maxRiverLength": 24,
     "baseTurnsUntilRevolt": 1,
     "cityStateElectionTurns": 16,
-    "unitSupplyPerPopulation": 0.1,
+    "unitSupplyPerPopulation": 0.2,
     "cityStrengthPerPop": 0.5,
     "baseCityBombardRange": 2,
     "cityStrengthFromTechsMultiplier": 5.828,

@@ -184,7 +184,7 @@
 				"name": "Shipbuilding",
 				"row": 1,
 				"prerequisites": ["Optics"],
-				"quote": "'There is nothing but a plank between a sailor and eternity.' - Thomas Gibbons"
+				"quote": "'Joyfully to the breeze royal Odysseus spread his sail, and with his rudder skillfully he steered.' - Homer"
 			},
 			{
 				"name": "Drama and Poetry",

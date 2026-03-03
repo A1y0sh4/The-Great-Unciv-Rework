@@ -258,7 +258,7 @@
 				"row": 6,
 				"prerequisites": ["Currency","Engineering","Imperial Games"],
 				"uniques": ["[+1 Culture] from every [Artist]", "[+1 Gold] from every [Merchant]", "[+1 Science] from every [Scientist]", "[+1 Production] from every [Engineer]"],
-				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
+				"quote": "'The towns banded together for protection of life and industry, and thus developed the guild of the Middle Ages. Relieved from the fear of free-booting barons, no less dangerous than the hordes of organized robbers, these guilds grew populous and powerful.' - Helen Campbell"
 			},
 			{
 				"name": "Military Tactics",
@@ -294,7 +294,7 @@
 				"name": "Distillation",
 				"row": 4,
 				"prerequisites": ["Theology","Guilds","Civil Service"],
-				"quote": "'Whoever drinks beer, he is quick to sleep; whoever sleeps long, does not sin; whoever does not sin, enters Heaven! Thus, let us drink beer!' - Martin Luther"
+				"quote": "'Every culture has its own stories told through drink.' - Samantha Clarke"
 			},
 			{
 				"name": "Chivalry",
@@ -352,7 +352,7 @@
 				"name": "Banking", 
 				"row": 6,
 				"prerequisites": ["Chivalry", "Machinery","Distillation"],
-				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
+				"quote": "'A bank is a place that will lend you money if you can prove you don't need it.' - Bob Hope"
 			},
 			{
 				"name": "Printing Press",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

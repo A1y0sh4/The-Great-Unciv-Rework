@@ -713,7 +713,7 @@
 				"row": 8,
 				"prerequisites": ["Radar","Advanced Espionage","Information Theory"],
 				"uniques": ["[+1 Science] from every specialist [in all cities]", "[+25]% Yield from every [Great Improvement]"],
-				"quote": "'The map is not the territory.' - Alfred Korzybski"
+				"quote": "'We should be on our guard not to overestimate science and scientific methods when it is a question of human problems; and we should not assume that experts are the only ones who have a right to express themselves on questions affecting the organization of society.' - Albert Einstein"
 			},
 			{
 				"name": "Computers",
@@ -836,12 +836,13 @@
 				"row": 5,
 				"prerequisites": ["Nuclear Fusion", "Advanced AI"],
 				"uniques": ["Can be continually researched"],
-				"quote": "'I think we agree, the past is over.' - George W. Bush",
+				"quote": "'And the fight goes on again, / And the heart is anxious in the chest. / And Lenin is so young, / And the young October is ahead!' - Nikolai Dobronravov (And the Battle Is Going Again)",
                 "civilopediaText": [{"text": "Who knows what the future holds?"}]
 			}
 		]
 	}
 ]
+
 
 
 

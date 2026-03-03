@@ -110,7 +110,7 @@
 				"name": "Trapping",
 				"row": 5,
 				"prerequisites": ["Animal Husbandry"],
-				"quote": "'Even brute beasts and wandering birds do not fall into the same traps or nets twice.' - Saint Jerome"
+				"quote": "'The hunter who knows the trail need not run.' - north american indigenous proverb"
 			},
 			{
 				"name": "The Wheel",
@@ -570,7 +570,7 @@
 				"row": 9,
 				"prerequisites": ["Biology", "Steam Power","Dynamite","Electricity","Refining"],
 				"uniques": ["Religion naturally spreads to cities [+3] tiles away"],
-				"quote": "'Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves.' - Albert Einstein"
+				"quote": "'Energy cannot be created or destroyed, it can only be transformed from one form to another.' - first law of thermodynamics"
 			}
 		]
 	},
@@ -787,7 +787,7 @@
 				"name": "Particle Physics",
 				"row": 4,
 				"prerequisites": ["Telecommunications","Mobile Tactics","Advanced Ballistics"],
-				"quote": "'Every particle of matter is attracted by or gravitates to every other particle of matter with a force inversely proportional to the squares of their distances.' - Isaac Newton"
+				"quote": "'If you think you understand quantum mechanics, you don’t understand quantum mechanics.' - Richard Feynman"
 			},
 			{
 				"name": "Nanotechnology",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

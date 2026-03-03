@@ -217,7 +217,7 @@
 				"row": 8,
 				"prerequisites": ["Mathematics","Construction"],
 				"uniques": ["Roads connect tiles across rivers"],
-				"quote": "'Instrumental or mechanical science is the noblest and, above all others, the most useful.' - Leonardo da Vinci"
+				"quote": "'One man's 'magic' is another man's engineering. 'Supernatural' is a null word.' - Robert A. Heinlein"
 			},
 			{
 				"name": "Iron Working",

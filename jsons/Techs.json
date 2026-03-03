@@ -288,7 +288,7 @@
 				"row": 2,
 				"prerequisites": ["Compass","Theology","Civil Service"],
 				"uniques": ["Allied City-States provide [Science] equal to [50]% of what they produce for themselves"],
-				"quote": "'Education is the best provision for old age.' - Aristotle"
+				"quote": "'It is the mark of an educated mind to be able to entertain a thought without accepting it.' - Aristotle"
 			},
 			{
 				"name": "Distillation",
@@ -300,13 +300,13 @@
 				"name": "Chivalry",
 				"row": 6,
 				"prerequisites": ["Civil Service","Guilds","Military Tactics"],
-				"quote": "'Whoso pulleth out this sword of this stone and anvil, is rightwise king born of all England.' - Malory"
+				"quote": "'Of noble knights and ladies, arms, and love, Of chivalry, and noble deeds I sing...' - Ludovico Ariosto (Orlando Furioso)"
 			},
 			{
 				"name": "Machinery",
 				"row": 8,
 				"prerequisites": ["Guilds","Metal Casting","Military Tactics"],
-				"quote": "'The press is the best instrument for enlightening the mind of man, and improving him as a rational, moral and social being.' - Thomas Jefferson"
+				"quote": "'Remember that people break down, too, not just machinery.' - Gregory Benford"
 			},
 			{
 				"name": "Physics",
@@ -318,7 +318,7 @@
 				"name": "Steel",
 				"row": 10,
 				"prerequisites": ["Metal Casting","Military Tactics"], 
-				"quote": "'John Henry said to his Captain, / 'A man ain't nothin' but a man, / And before I'll let your steam drill beat me down, / I'll die with the hammer in my hand.'' - Anonymous: The Ballad of John Henry, the Steel-Drivin' Man"
+				"quote": "'There never was a good knife made of bad steel.' - Benjamin Franklin"
 			}
 		]
 	},
@@ -334,13 +334,13 @@
 				"row": 2,
 				"uniques": ["[+1] Movement <for [All] units> <in [Water] tiles>", "Enables [Embarked] units to enter ocean tiles"],
 				"prerequisites": ["Education"],
-				"quote": "'Joyfully to the breeze royal Odysseus spread his sail, and with his rudder skillfully he steered.' - Homer"
+				"quote": "'Somewhere, something incredible is waiting to be known.' - Carl Sagan"
 			},
 			{
 				"name": "Acoustics",
 				"row": 4,
 				"prerequisites": ["Education","Distillation"],
-				"quote": "'Their rising all at once was as the sound of thunder heard remote' - Milton"
+				"quote": "'Music expresses that which cannot be put into words.' - Victor Hugo"
 			},
 			{
 				"name": "Mechanics",
@@ -392,13 +392,13 @@
 				"row": 5,
 				"prerequisites": ["Banking","Printing Press","Mechanics"],
 				"uniques": ["Enables conversion of city production to [Gold]"],
-				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
+				"quote": "'In studying economic history, we tend to systematically ignore the role of violence as well as the absolutely central role that war and slavery played in creating and shaping the basic institutions of what we now call 'the economy'.' - David Graeber"
 			},
 			{
 				"name": "Metallurgy",
 				"row": 7,
 				"prerequisites": ["Printing Press","Gunpowder","Banking"],
-				"quote": "'There never was a good knife made of bad steel.' - Benjamin Franklin"
+				"quote": "'There are three things extremely hard: steel, a diamond, and to know one's self.' - Benjamin Franklin"
 			},
 			{
 				"name": "Siege Tactics",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

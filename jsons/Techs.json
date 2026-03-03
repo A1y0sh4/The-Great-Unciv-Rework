@@ -122,7 +122,9 @@
 				"name": "Masonry",
 				"row": 9,
 				"prerequisites": ["Mining"],
-				"quote": "'How happy are those whose walls already rise!' - Virgil"
+				"quote": "'Who built Thebes of the seven gates? 
+In the books you will find the names of kings. 
+Did the kings haul up the lumps of rock?' - Bertolt Brecht"
 			},
 			{
 				"name": "Bronze Working",

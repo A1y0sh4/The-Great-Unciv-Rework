@@ -110,7 +110,7 @@
 				"name": "Trapping",
 				"row": 5,
 				"prerequisites": ["Animal Husbandry"],
-				"quote": "'The hunter who knows the trail need not run.' - north american indigenous proverb"
+				"quote": "'Until lions have their own historians, tales of the hunt will always glorify the hunter.' - west african proverb"
 			},
 			{
 				"name": "The Wheel",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

@@ -190,7 +190,7 @@
 				"name": "Drama and Poetry",
 				"row": 3,
 				"prerequisites": ["Fermentation"],
-				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
+				"quote": "'Art is not a mirror held up to reality but a hammer with which to shape it.' - Bertolt Brecht"
 			},
 			{
 				"name": "Philosophy",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

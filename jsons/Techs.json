@@ -506,14 +506,14 @@
 				"name": "Steam Power",
 				"row": 6,
 				"prerequisites": ["Industrialization","Urban Planning","Rifling"],
-				"quote": "'The nations of the West hope that by means of steam communication all the world will become as one family.' - Townsend Harris"
+				"quote": "'In acquiring new productive forces men... change all their social relations. The hand-mill gives you society with the feudal lord; the steam-mill, society with the industrial capitalist.' - Karl Marx"
 			},
 			{
 				"name": "Dynamite",
 				"row": 9,
 				"uniques": ["[+1 Production] from every [Mountain]"],
 				"prerequisites": ["Fertilizer","Military Science"],
-				"quote": "'As soon as men decide that all means are permitted to fight an evil, then their good becomes indistinguishable from the evil that they set out to destroy.' - Christopher Dawson"
+				"quote": "'Increased knowledge clearly implies increased responsibility.' - Nicolaas Bloembergen"
 			}
 		]
 	},
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

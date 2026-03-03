@@ -196,7 +196,7 @@
 				"name": "Philosophy",
 				"row": 2,
 				"prerequisites": ["Spirituality","Fermentation"],
-				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
+				"quote": "'All men are intellectuals, but not all men have in society the function of intellectuals.' - Antonio Gramsci"
 			},
 			{
 				"name": "Imperial Games",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

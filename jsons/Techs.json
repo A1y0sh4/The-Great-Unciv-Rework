@@ -799,7 +799,7 @@
 				"name": "Stealth",
 				"row": 6,
 				"prerequisites": ["Robotics", "Lasers", "Advanced Ballistics", "Satellites"],
-				"quote": "'Be extremely subtle, even to the point of formlessness, be extremely mysterious, even to the point of soundlessness. Thereby you can be the director of the opponent's fate.' - Sun Tzu"
+				"quote": "'Keep the enemy in the dark about where and when our forces will attack.' - Mao Zedong"
 			}
 		]
 	},

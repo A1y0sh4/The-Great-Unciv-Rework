@@ -600,7 +600,7 @@
 				"row": 5,
 				"prerequisites": ["Replaceable Parts", "Flight", "Radio","Financial Capital"],
 				"uniques": ["[+2 Science, +1 Gold] from every [Strategic resource]"],
-				"quote": "'There's a basic principle about consumer electronics: it gets more powerful all the time and it gets cheaper all the time.' - Trip Hawkins"
+				"quote": "'We had better be quite sure that the purpose put into the machine is the purpose which we really desire.' - Norbert Wiener"
 			},
 			{
 				"name": "Cultural Hegemony",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

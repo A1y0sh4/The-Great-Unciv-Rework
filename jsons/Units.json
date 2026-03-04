@@ -1154,7 +1154,7 @@
 		"replaces": "Caravel",
 		"uniqueTo": "Korea",
 		"movement": 3,
-		"strength": 28,
+		"strength": 24,
 		"cost": 187,
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Privateer",

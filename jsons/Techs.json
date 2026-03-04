@@ -67,7 +67,7 @@
 				"row": 7,
 				"prerequisites": ["Stone Tools"],
 				"uniques": ["[+50]% weight to this choice for AI decisions <for [Macedonia] Civilizations> <hidden from users>"],
-				"quote": "'The haft of the arrow has been feathered with one of the eagle's own plumes, we often give our enemies the means of our own destruction' - Aesop"
+				"quote": "'Then Ulysses tore off his rags, and sprang on to the broad pavement with his bow and his quiver full of arrows. He shed the arrows on to the ground at his feet and said, 'The mighty contest is at an end. I will now see whether Apollo will vouchsafe it to me to hit another mark which no man has yet hit'.' - Homer"
 			},
 			{
 				"name": "Mining",
@@ -97,7 +97,7 @@
 				"name": "Calendar",
 				"row": 3,
 				"prerequisites": ["Pottery", "Animal Husbandry"],
-				"quote": "'Life is but a wheel cycling birth and death around like seasons changing' - Eric Overby"
+				"quote": "'When the Pleiades, daughters of Atlas, are rising, begin your harvest, and your ploughing when they are going to set.' - Hesiod"
 			},
 			{
 				"name": "Writing",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

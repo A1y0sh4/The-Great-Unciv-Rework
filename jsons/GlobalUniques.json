@@ -1,6 +1,7 @@
 {
     "name": "Global uniques", 
     "uniques": [
+		"Discover [Foraging]",
 		"[+1] Unit Supply <for every [[Civilian] Units]>",
 		"[-2] Unit Supply <for every [Cities]>",
 		"[-5]% Production when constructing [World Wonder] wonders [in all cities] <for every [[World Wonder] Buildings]>",
@@ -793,6 +794,7 @@
 		*/
     ]
 }
+
 
 
 

@@ -306,7 +306,7 @@
 				"name": "Machinery",
 				"row": 8,
 				"prerequisites": ["Guilds","Metal Casting","Military Tactics"],
-				"quote": "'Remember that people break down, too, not just machinery.' - Gregory Benford"
+				"quote": "'Remember that people break down too, not just machinery.' - Gregory Benford"
 			},
 			{
 				"name": "Physics",

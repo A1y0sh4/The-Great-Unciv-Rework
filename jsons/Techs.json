@@ -506,7 +506,7 @@
 				"name": "Steam Power",
 				"row": 6,
 				"prerequisites": ["Industrialization","Urban Planning","Rifling"],
-				"quote": "'In acquiring new productive forces men... change all their social relations. The hand-mill gives you society with the feudal lord; the steam-mill, society with the industrial capitalist.' - Karl Marx"
+				"quote": "'In acquiring new productive forces men change their mode of production; and in changing their mode of production, in changing the way of earning their living, they change all their social relations. The hand-mill gives you society with the feudal lord; the steam-mill, society with the industrial capitalist.' - Karl Marx"
 			},
 			{
 				"name": "Dynamite",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

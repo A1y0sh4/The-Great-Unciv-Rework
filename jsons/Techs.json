@@ -300,7 +300,7 @@
 				"name": "Chivalry",
 				"row": 6,
 				"prerequisites": ["Civil Service","Guilds","Military Tactics"],
-				"quote": "'Of noble knights and ladies, arms, and love, Of chivalry, and noble deeds I sing...' - Ludovico Ariosto (Orlando Furioso)"
+				"quote": "'Of noble knights and ladies, arms, and love, / Of chivalry, and noble deeds I sing...' - Ludovico Ariosto"
 			},
 			{
 				"name": "Machinery",

@@ -145,7 +145,7 @@
 				"row": 3
 				"prerequisites": ["Calendar"],
 				"uniques": ["[+1 Gold] from every [City center]"],
-				"quote": "'For art to exist, for any sort of aesthetic activity or perception to exist,a certain physiological precondition is indispensable: intoxication'- Friedrich Nietzsche"
+				"quote": "'A bottle of wine contains more philosophy than all the books in the world.'- Louis Pasteur"
 			},
 			{
 				"name": "Spirituality",
@@ -294,7 +294,7 @@
 				"name": "Distillation",
 				"row": 4,
 				"prerequisites": ["Theology","Guilds","Civil Service"],
-				"quote": "'Every culture has its own stories told through drink.' - Samantha Clarke"
+				"quote": "'For art to exist, for any sort of aesthetic activity or perception to exist,a certain physiological precondition is indispensable: intoxication'- Friedrich Nietzsche"
 			},
 			{
 				"name": "Chivalry",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

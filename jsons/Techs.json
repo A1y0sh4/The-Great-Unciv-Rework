@@ -67,7 +67,7 @@
 				"row": 7,
 				"prerequisites": ["Stone Tools"],
 				"uniques": ["[+50]% weight to this choice for AI decisions <for [Macedonia] Civilizations> <hidden from users>"],
-				"quote": "'Then Ulysses tore off his rags, and sprang on to the broad pavement with his bow and his quiver full of arrows. He shed the arrows on to the ground at his feet and said, 'The mighty contest is at an end. I will now see whether Apollo will vouchsafe it to me to hit another mark which no man has yet hit'.' - Homer"
+				"quote": "'Listen to me you suitors... I will bring out the mighty bow of Ulysses, and whomsoever of you shall string it most easily and send his arrow through each one of twelve axes, him will I follow and quit this house of my lawful husband, so goodly, and so abounding in wealth.' - Penelope (Odyssey)"
 			},
 			{
 				"name": "Mining",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

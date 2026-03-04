@@ -116,7 +116,7 @@
 				"name": "The Wheel",
 				"row": 7,
 				"prerequisites": ["Animal Husbandry", "Archery"],
-				"quote": "'Negative and pessimistic views of technology have always existed. I can just imagine some pessimistic Sumerian in 3500 B.C. screaming about the evils of the wheel.' - Gray Scott"
+				"quote": "'His majesty went forth in a chariot of electrum, arrayed in his weapons of war, like Horus, the Smiter, lord of power...' - Tjaneni"
 			},
 			{
 				"name": "Masonry",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

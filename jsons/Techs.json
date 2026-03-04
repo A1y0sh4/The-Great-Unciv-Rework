@@ -145,7 +145,7 @@
 				"row": 3,
 				"prerequisites": ["Calendar"],
 				"uniques": ["[+1 Gold] from every [City center]"],
-				"quote": "'A bottle of wine contains more philosophy than all the books in the world.' - Louis Pasteur"
+				"quote": "'Enkidu ate the food until he was sated, he drank the beer - seven jugs! - and became expansive and sang with joy!' - Epic of Gilgamesh"
 			},
 			{
 				"name": "Spirituality",
@@ -842,5 +842,6 @@
 		]
 	}
 ]
+
 
 

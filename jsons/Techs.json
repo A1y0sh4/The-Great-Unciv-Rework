@@ -145,7 +145,7 @@
 				"row": 3,
 				"prerequisites": ["Calendar"],
 				"uniques": ["[+1 Gold] from every [City center]"],
-				"quote": "'A bottle of wine contains more philosophy than all the books in the world.'- Louis Pasteur"
+				"quote": "'A bottle of wine contains more philosophy than all the books in the world.' - Louis Pasteur"
 			},
 			{
 				"name": "Spirituality",

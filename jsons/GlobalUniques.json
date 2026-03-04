@@ -1,6 +1,7 @@
 {
     "name": "Global uniques", 
     "uniques": [
+		"[2] Movement point cost to embark <for [All] units>", "[2] Movement point cost to disembark <for [All] units>",
 		"[+1] Unit Supply <for every [[Civilian] Units]>",
 		"[-2] Unit Supply <for every [Cities]>",
 		"[-5]% Production when constructing [World Wonder] wonders [in all cities] <for every [[World Wonder] Buildings]>",
@@ -793,6 +794,7 @@
 		*/
     ]
 }
+
 
 
 

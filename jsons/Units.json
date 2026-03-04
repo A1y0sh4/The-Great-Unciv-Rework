@@ -1130,7 +1130,7 @@
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Privateer",
 		"obsoleteTech": "Navigation",
-		"uniques": ["Withdraws before melee combat <with [80]% chance>", "Never appears as a Barbarian unit"],
+		"uniques": ["Withdraws before melee combat <with [50]% chance>", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
 	},

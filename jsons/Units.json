@@ -26,7 +26,7 @@
 		"cost": 20,
 		"obsoleteTech": "Military Tactics",
 		"upgradesTo": "Skirmisher",
-		"uniques": ["May upgrade to [Warrior] through ruins-like effects", "All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>"],
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects", "All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -38,7 +38,7 @@
 		"movement": 2,
 		"strength": 7,
 		"obsoleteTech": "Military Tactics",
-		"uniques": ["All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>"],
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects", "All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>"],
 		"promotions": ["Quick Study"], 
 		"upgradesTo": "Skirmisher",
 		"attackSound": "nonmetalhit"
@@ -52,7 +52,7 @@
 		"movement": 2,
 		"strength": 5,
 		"obsoleteTech": "Military Tactics",
-		"uniques": ["All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>"],
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects", "All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>"],
 		"promotions": ["Scouting I", "[Runner] ability"], 
 		"upgradesTo": "Skirmisher",
 		"attackSound": "nonmetalhit"

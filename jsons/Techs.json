@@ -163,13 +163,13 @@
 				"name": "Mathematics",
 				"row": 7,
 				"prerequisites": ["The Wheel"],
-				"quote": "'I'm sorry to say that the subject I most disliked was mathematics. I have thought about it. I think the reason was that mathematics leaves no room for argument. If you made a mistake, that was all there was to it.' - Malcolm X"
+				"quote": "'Mathematics reveals its secrets only to those who approach it with pure love, for its own beauty.' - Archimedes"
 			},
 			{
 				"name": "Construction",
 				"row": 9,
 				"prerequisites": ["Masonry","The Wheel","Bronze Working"],
-				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
+				"quote": "'If our designs for private houses are to be correct, we must at the outset take note of the countries and climates in which they are built.' - Marcus Vitruvius Pollio"
 			}
 		]
 	},
@@ -217,7 +217,7 @@
 				"row": 8,
 				"prerequisites": ["Mathematics","Construction"],
 				"uniques": ["Roads connect tiles across rivers"],
-				"quote": "'One man's 'magic' is another man's engineering. 'Supernatural' is a null word.' - Robert A. Heinlein"
+				"quote": "'Give me a place to stand and with a lever I will move the whole world.' - Archimedes"
 			},
 			{
 				"name": "Iron Working",
@@ -563,7 +563,7 @@
 				"name": "Flight", 
 				"row": 8,
 				"prerequisites": ["Biology", "Steam Power", "Electricity","Dynamite","Refining"],
-				"quote": "'Aeronautics was neither an industry nor a science. It was a miracle.' - Igor Sikorsky"
+				"quote": "'Our own growing belief that man might nevertheless learn to fly was based on the idea that while thousands of the most dissimilar body structures, such as insects, fish, reptiles, birds and mammals, were flying every day at pleasure, it was reasonable to suppose that man might also fly.' - Wright Brothers"
 			},
 			{
 				"name": "Combustion",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

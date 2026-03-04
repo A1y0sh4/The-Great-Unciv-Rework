@@ -385,7 +385,7 @@
 				"name": "Architecture",
 				"row": 4,
 				"prerequisites": ["Acoustics","Banking","Mechanics"],
-				"quote": "'We shape our buildings; thereafter they shape us.' - Winston Churchill"
+				"quote": "'Architecture is the will of an epoch translated into space.' - Ludwig Mies Van Der Rohe"
 			},
 			{
 				"name": "Economics",
@@ -842,4 +842,5 @@
 		]
 	}
 ]
+
 

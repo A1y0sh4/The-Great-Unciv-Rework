@@ -446,7 +446,7 @@
 				            "[+10]% Production when constructing [Classical era] buildings [in all cities] <hidden from users>",
 				            "[+10]% Production when constructing [Medieval era] buildings [in all cities] <hidden from users>",
 				            "[+10]% Production when constructing [Renaissance era] buildings [in all cities] <hidden from users>"],
-				"quote": "'A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.' - Douglas Adams"
+				"quote": "'Any city, however small, is in fact divided into two. One the city of the poor, the other of the rich. These are at war with one another.' - Plato"
 			},
 			{
 				"name": "Industrialization",
@@ -687,7 +687,7 @@
 				"row": 2,
 				"prerequisites": ["Pharmaceuticals","Ecology"],
 				"uniques": ["[+3 Science, +1 Culture] from every [Wonder]", "[Gold] cost of purchasing [All] buildings [-15]%"],
-				"quote": "'But when the social entity grows large, becomes a megalopolis, a state, a federation, then the governing machine grows remote, impersonal, even inhuman. It takes money from us for purposes we do not seem to sanction; it treats us as abstract statistics; it controls an army; it supports a police force whose function does not always appear to be protective.' - Anthony Burgess"
+				"quote": "'The mark of a great city isn’t how it treats its special places – everybody does that right – but how it treats its ordinary ones.' - Aaron M. Renn"
 			},
 			{
 				"name": "Environmentalism",
@@ -842,3 +842,4 @@
 		]
 	}
 ]
+

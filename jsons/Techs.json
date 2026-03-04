@@ -60,7 +60,7 @@
 				"name": "Animal Husbandry",
 				"row": 5,
 				"prerequisites": ["Agriculture", "Stone Tools"],
-				"quote": "'You can judge a man's true character by the way he treats his fellow animals.' - Paul McCartney"
+				"quote": "'We can judge the heart of a man by his treatment of animals.' - Immanuel Kant"
 			},
 			{
 				"name": "Archery", 
@@ -104,7 +104,7 @@
 				"row": 2,
 				"prerequisites": ["Pottery"], 
 				"uniques": ["Enables establishment of embassies"],
-				"quote": "'The tradition of all dead generations weighs like a nightmare on the brains of the living.' - Karl Marx"
+				"quote": "'Spoken words are the symbols of mental experience and written words are the symbols of spoken words.' - Aristotle"
 			},
 			{
 				"name": "Trapping",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

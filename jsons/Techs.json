@@ -334,7 +334,7 @@
 				"row": 2,
 				"uniques": ["[+1] Movement <for [All] units> <in [Water] tiles>", "Enables [Embarked] units to enter ocean tiles"],
 				"prerequisites": ["Education"],
-				"quote": "'Somewhere, something incredible is waiting to be known.' - Carl Sagan"
+				"quote": "'When the land is not enough, set sail. The ocean shall reveal more land.' - Dyah Gitarja"
 			},
 			{
 				"name": "Acoustics",

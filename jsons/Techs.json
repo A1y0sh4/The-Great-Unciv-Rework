@@ -570,7 +570,7 @@
 				"row": 9,
 				"prerequisites": ["Biology", "Steam Power","Dynamite","Electricity","Refining"],
 				"uniques": ["Religion naturally spreads to cities [+3] tiles away"],
-				"quote": "'Energy cannot be created or destroyed, it can only be transformed from one form to another.' - first law of thermodynamics"
+				"quote": "'In nature nothing is created, nothing is lost, everything is transformed.' - Antoine Lavoisier"
 			}
 		]
 	},
@@ -836,12 +836,13 @@
 				"row": 5,
 				"prerequisites": ["Nuclear Fusion", "Advanced AI"],
 				"uniques": ["Can be continually researched"],
-				"quote": "'And the fight goes on again, / And the heart is anxious in the chest. / And Lenin is so young, / And the young October is ahead!' - Nikolai Dobronravov (And the Battle Is Going Again)",
+				"quote": "'Any sufficiently advanced technology is indistinguishable from magic.' - Arthur C. Clarke",
                 "civilopediaText": [{"text": "Who knows what the future holds?"}]
 			}
 		]
 	}
 ]
+
 
 
 

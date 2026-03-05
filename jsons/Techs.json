@@ -294,7 +294,7 @@
 				"name": "Distillation",
 				"row": 4,
 				"prerequisites": ["Theology","Guilds","Civil Service"],
-				"quote": "'For art to exist, for any sort of aesthetic activity or perception to exist,a certain physiological precondition is indispensable: intoxication'- Friedrich Nietzsche"
+				"quote": "'For art to exist, for any sort of aesthetic activity or perception to exist, a certain physiological precondition is indispensable: intoxication'- Friedrich Nietzsche"
 			},
 			{
 				"name": "Chivalry",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

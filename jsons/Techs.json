@@ -734,7 +734,7 @@
 				"name": "Telecommunications",
 				"row": 2,
 				"prerequisites": ["Computers", "Advanced Urbanism"],
-				"quote": "'When people speak of the ideas that revolutionise society, they do but express that fact that within the old society the elements of a new one have been created, and that the dissolution of the old ideas keeps even pace with the dissolution of the old conditions of existence.' - Karl Marx & Friedrich Engels"
+				"quote": "'The ruling ideas of each age have ever been the ideas of its ruling class. When people speak of the ideas that revolutionise society, they do but express that fact that within the old society the elements of a new one have been created, and that the dissolution of the old ideas keeps even pace with the dissolution of the old conditions of existence.' - Karl Marx & Friedrich Engels"
 			},
 			{
 				"name": "Mobile Tactics",
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

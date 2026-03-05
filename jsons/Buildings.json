@@ -1736,7 +1736,7 @@
 		"uniques": ["Must be next to [Water]", "[+1 Production] from every specialist [in all cities]",
 		"Only available <in cities with at least [10] [Population]>"],
 		"requiredTech": "Scientific Theory",
-		"quote": "'Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore. Send these, the homeless, tempest-tossed to me, I lift my lamp beside the golden door!' - Emma Lazarus",
+		"quote": "'The freedom of the free was the cause of the great oppression of the slaves…' - Domenico Losurdo",
 	},
 	// Column 12
 	{

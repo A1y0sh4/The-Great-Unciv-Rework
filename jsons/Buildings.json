@@ -87,7 +87,7 @@
 		"isWonder": true,
 		"uniques": ["Must have an owned [Desert] within [1] tiles", "Must not be on [Hill]", "[-25]% construction time for [All] improvements", "[1] free [Worker] units appear"],
 		"requiredTech": "Agriculture",
-		"quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge",
+		"quote": "'From the heights of these pyramids, forty centuries look down on us.' - Napoleon Bonaparte",
 	},
 	// Column 1
 	{
@@ -155,7 +155,7 @@
 		"requiredTech": "Calendar",
 		"uniques": ["Must be on [Fresh Water]", "[+1 Food] from [Farm] tiles [in this city] <in [Fresh Water] tiles>", "[+1 Food] from [Plantation] tiles [in this city] <in [Fresh Water] tiles>", "[+15]% growth [in this city]",
 		"Only available <in cities with at least [2] [Population]>"],
-		"quote": "'I think that if ever a mortal heard the word of God it would be in a garden at the cool of the day.' - F. Frankfort Moore",
+		"quote": "'The canal-water gushes from above into the gardens; fragrance pervades the walkways, streams of water as numerous as the stars of heaven flow in the pleasure garden.' - Ashurbanipal",
 	},
 	// Column 2,
 	{
@@ -237,7 +237,7 @@
 		"requiredTech": "Writing",
 		"uniques": ["Must be next to [Water]", "Free Technology", "Gain a free [Library] [in this city]",
 		"Only available <in cities with at least [2] [Population]>"],
-		"quote": "'Libraries are as the shrine where all the relics of the ancient saints, full of true virtue, and all that without delusion or imposture are preserved and reposed.' - Sir Francis Bacon"
+		"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
 	},
 	{
 		"name": "Circus",
@@ -414,7 +414,7 @@
 			"[+1] Sight <for [All] units> <in [Water] tiles>", "Gain a free [Lighthouse] [in this city]", "[+10]% [Food] [in this city]",
 		"Only available <in cities with at least [2] [Population]>"],
 		"requiredTech": "Optics",
-		"quote": "'They that go down to the sea in ships, that do business in great waters; these see the works of the Lord, and his wonders in the deep.' - The Bible, Psalms 107:23-24"
+		"quote": "'On the island of Pharos there is a tower of great height, built with marvelous workmanship; it takes its name from the island. This island, lying opposite Alexandria, forms the harbor.' - Julius Caesar"
 	},
 	{
 		"name": "Harbor",
@@ -741,7 +741,7 @@
 		"uniques": ["Must be on [Hill]", "Empire enters golden age", "Resting point for Influence with City-States is increased by [10]", "Gain a free [Amphitheater] [in this city]",
 		"Only available <in cities with at least [3] [Population]>"],
 		"requiredTech": "Drama and Poetry",
-		"quote": "'Earth proudly wears the Parthenon as the best gem upon her zone.' - Ralph Waldo Emerson"
+		"quote": "'The worst forms of tyranny, or certainly the most successful ones, are not those we rail against but those that so insinuate themselves into the imagery of our consciousness, and the fabric of our lives, as not to be perceived as tyranny.' - Michael Parenti"
 	},
 	{
 		"name": "Market",
@@ -814,7 +814,7 @@
 		"uniques": ["Must have an owned [Desert] within [1] tiles", "[+1 Production, +1 Gold] from [Desert] tiles without [Flood plains] [in this city]", "[+6 Culture] [in this city] <after discovering [Archaeology]>",
 		"Only available <in cities with at least [3] [Population]>"],
 		"requiredTech": "Horseback Riding",
-		"quote": "'...who drinks the water I shall give him, says the Lord, will have a spring inside him welling up for eternal life. Let them bring me to your holy mountain in the place where you dwell. Across the desert and through the mountain to the Canyon of the Crescent Moon...' - Indiana Jones"
+		"quote": "'Petra is a brilliant display of man's artistry in turning barren rock into majestic wonder.' - Edward Dawson"
 	},
         {
 		"name": "Mausoleum of Halicarnassus",
@@ -867,7 +867,7 @@
 		"uniques": ["Must be next to [Water]", "[+1 Gold] from [Water] tiles [in this city]", "Gain a free [Harbor] [in this city]",
 		"Only available <in cities with at least [3] [Population]>"],
 		"requiredTech": "Shipbuilding",
-		"quote": "'Why man, he doth bestride the narrow world like a colossus, and we petty men walk under his huge legs, and peep about to find ourselves dishonorable graves.' - William Shakespeare, Julius Caesar",
+		"quote": "'At Rhodes was set up a Colossus of seventy cubits high, representing the Sun… the artist expended as much bronze on it as seemed likely to create a dearth in the mines.' - Philo of Byzantium",
 	},
 
 	// Medieval Era,
@@ -900,7 +900,7 @@
 			    "[+1 Science] <for every [250] [Faith]> <on [Endless] game speed> <hidden from users>", 
 			    "Only available <when religion is enabled>", "Only available <in cities with at least [4] [Population]>"],
 		"requiredTech": "Theology",
-		"quote": "'With the magnificence of eternity before us, let time, with all its fluctuations, dwindle into its own littleness.' - Thomas Chalmers"
+		"quote": "'Scholars are the heirs of the prophets, for the prophets did not leave behind a legacy of wealth but that of knowledge.' - Musnad al-Bazzar 10/68"
 	},
 	{
 		"name": "Grand Temple",
@@ -1056,7 +1056,7 @@
 		"greatPersonPoints": {"Great Scientist": 1},
 		"uniques": ["Gain a free [University] [in this city]", "Free Technology",
 		"Only available <in cities with at least [5] [Population]>"],
-		"quote": "'The clever men at Oxford... Know all that there is to be knowed. But they none of them know one half as much... As intelligent Mr. Toad!' - Kenneth Grahame"
+		"quote": "'But a slave who has become conscious of his slavery and has risen to struggle for his emancipation has already half ceased to be a slave.’ - Vladimir Lenin"
 		"requiredTech": "Education"
 	},
 	{
@@ -1068,7 +1068,7 @@
 		"uniques": ["Must be next to [Jungle]", "[+1] population [in all cities]", "[+1 Faith, +2 Science] [in all cities]", "Gain a free [Wat] [in this city]",
 		"Only available <in cities with at least [5] [Population]>"],
 		"requiredTech": "Machinery",
-		"quote": "'The temple is like no other building in the world. It has towers and decoration and all the refinements which the human genius can conceive of.' - Antonio da Magdalena"
+		"quote": "'Provide for your people. To do less is to be less.' - Jayavarman VII"
 	},
 	{
 		"name": "Castle",
@@ -1142,7 +1142,7 @@
 		"Only available <in cities with at least [5] [Population]>"],
 		"requiredBuilding": "Palace",
 		"requiredTech": "Steel",
-		"quote": "'Most of us can, as we choose, make of this world either a palace or a prison' - John Lubbock"
+		"quote": "'...princes should delegate to others the enactment of unpopular measures and keep in their own hands the means of winning favours.' - Niccolò Machiavelli"
 	},
 	{
 		"name": "Ironworks",
@@ -1175,7 +1175,7 @@
 		"uniques": ["[+25]% Great Person generation [in all cities]", "Free Great Person",
 		"Only available <in cities with at least [5] [Population]>"],
 		"requiredTech": "Physics",
-		"quote": "'Don't clap too hard - it's a very old building.' - John Osbourne"
+		"quote": "'The aim of science is not to open the door to infinite wisdom, but to set a limit to infinite error.' - Bertolt Brecht"
 	},
 	{
 		"name": "Armory",
@@ -1259,7 +1259,7 @@
 		"uniques": ["Free [Great Scientist] appears", "Science gained from research agreements [+50]%", "Gain a free [Pagoda] [in this city]",
 		"Only available <in cities with at least [7] [Population]>"],
 		"requiredTech": "Acoustics",
-		"quote": "'Things always seem fairer when we look back at them, and it is out of that inaccessible tower of the past that Longing leans and beckons.' - James Russell Lowell"
+		"quote": "'Many a state has fallen because a ruler does not know the affairs of his people.' - Yongle"
 	},
 	{
 		"name": "Sistine Chapel",
@@ -1269,7 +1269,7 @@
 		"uniques": ["[+1 Faith] per [1] social policies adopted", "Can only be built <in [Holy] cities>",
 		"Only available <in cities with at least [7] [Population]>"],
 		"requiredTech": "Acoustics",
-		"quote": "'I live and love in God's peculiar light.' - Michelangelo Buonarroti"
+		"quote": "'If you knew how much work went into it, you wouldn't call it genius.' - Michelangelo Buonarroti"
 	},
 	{
 		"name": "Windmill",
@@ -1348,7 +1348,7 @@
 		"uniques": ["Must be next to [Fresh water]", "Gain a free [Theatre] [in this city]", "[+2 Gold] from every [Theatre]",
 		"Only available <in cities with at least [7] [Population]>"],
 		"requiredTech": "Printing Press",
-		"quote": "'Totus mundus agit histrionem.' - Inscription above main entrance to the Globe Theatre"
+		"quote": "'All the world's a stage...' - William Shakespeare"
 	},
 	{
 		"name": "Taj Mahal",
@@ -1384,7 +1384,7 @@
 		"Only available <in cities with at least [7] [Population]>"],
 		"requiredBuilding": "Palace",
 		"requiredTech": "Gunpowder",
-		"quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed",
+		"quote": "'Russia has only two allies: the Army and the Navy.' - Alexander III of Russia",
 	},
 	// Column 8
 	{
@@ -1417,7 +1417,7 @@
 		"uniques": ["Gain a free [Opera House] [in this city]", "Provides the cheapest [Culture] building in your first [50] cities for free <hidden from users>", "Comment [Provides the cheapest available [Culture] building in all cities for free]",
 		"Only available <in cities with at least [8] [Population]>"],
 		"requiredTech": "Architecture",
-		"quote": "'Bolshoi Ballet is a universe of the imagination, a place of magic and enchantment, beauty and romance. Its many worlds vibrate with graceful dancers, glorious music, and sumptuous costumes.' - Trudy Garfunkel"
+		"quote": "'Don't expect the theatre to satisfy the habits of its audience, but to change them.' - Bertolt Brecht"
 	},
 	{
 		"name": "Brandenburg Gate",
@@ -1427,7 +1427,7 @@
 		"uniques": ["Free [Great General] appears", "New [Military] units start with [15] XP [in this city]", "[+2 Production, +1 Happiness] [in all cities] <when at war>",
 		"Only available <in cities with at least [8] [Population]>"],
 		"requiredTech": "Architecture",
-		"quote": "'Pale Death beats equally at the poor man's gate and at the palaces of kings.' - Horace"
+		"quote": "'The secret of politics? Make a good treaty with Russia.' - Otto von Bismarck"
 	},
 	{
 		"name": "Palace of Versailles",
@@ -1484,7 +1484,7 @@
 		"uniques": ["[1] free [Great Artist] units appear", "Gain a free [Museum] [in this city]",
 		"Only available <in cities with at least [10] [Population]>"],
 		"requiredTech": "Archaeology",
-		"quote": "'Every genuine work of art has as much reason for being as the earth and the sun' - Ralph Waldo Emerson"
+		"quote": "'For art to be 'unpolitical' means only to ally itself with the 'ruling' group.' - Bertolt Brecht"
 	},
 {
 		"name": "Neuschwanstein",
@@ -1576,7 +1576,7 @@
 		"uniques": ["[Gold] cost of purchasing items in cities [-25]%",
 		"Only available <in cities with at least [10] [Population]>"],
 		"requiredTech": "Urban Planning",
-		"quote": "'To achieve great things, two things are needed: a plan, and not quite enough time.' - Leonard Bernstein"
+		"quote": "'The dirty truth is that the rich are the great cause of poverty.' - Michael Parenti"
 	},
 	{
 		"name": "Military Academy",
@@ -1595,7 +1595,7 @@
 		"uniques": ["Free Great Person <upon declaring friendship> <with [25]% chance>", "[+25]% Great Person generation [in all cities] <for [All] Civilizations>", "Gain [60] Influence with a [Great Person] gift to a City-State",
 		"Only available <in cities with at least [11] [Population]>"],
 		"requiredTech": "Dynamite",
-		"quote": "'One can state, without exaggeration, that the observation of and the search for similarities and differences are the basis of all human knowledge.' - Alfred Nobel",
+		"quote": "'For my part, I wish all guns with their belongings and everything could be sent to hell, which is the proper place for their exhibition and use.' - Alfred Nobel",
 	},
 	// Column 10
 	{
@@ -1662,7 +1662,7 @@
 		"uniques": ["Gain a free [Stadium] [in this city]", "[+2 Culture] from every [Stadium]",
 		"Only available <in cities with at least [13] [Population]>"],
 		"requiredTech": "Refrigeration",
-		"quote": "'Down through its history, only three people have managed to silence the Maracana: the Pope, Frank Sinatra, and me.' - Alcides Ghiggia"
+		"quote": "'Those who do not move, do not notice their chains.' - Rosa Luxemburg"
 	},
 	{
 		"name": "Broadcast Tower",
@@ -1697,7 +1697,7 @@
 		"uniques": ["[+1 Science] from all [Production] buildings",
 		"Only available <in cities with at least [13] [Population]>"],
 		"requiredTech": "Radio",
-		"quote": "'We live only to discover beauty, all else is a form of waiting' - Kahlil Gibran"
+		"quote": "'Just as, to the bourgeois, the disappearance of class property is the disappearance of production itself, so the disappearance of class culture is to him identical with the disappearance of all culture. That culture, the loss of which he laments, is, for the enormous majority, a mere training to act as a machine.' - Karl Marx & Friedrich Engels"
 	},
 	{
 		"name": "Empire State Building",
@@ -1708,7 +1708,7 @@
 		"uniques": ["Gain a free [Stock Exchange] [in this city]", "[+4 Gold, +1 Happiness] from every [Stock Exchange]", "[+25]% [Gold] from Trade Routes",
 		"Only available <in cities with at least [13] [Population]>"],
 		"requiredTech": "Financial Capital",
-		"quote": "'A man always has two reasons for what he does - a good one, and the real one.' - J.P. Morgan"
+		"quote": "'The people come to understand that wealth is not the fruit of labour but the result of organised, protected robbery. Rich people... are nothing more than flesh eating animals, jackals and vultures which wallow in the people's blood.' - Frantz Fanon"
 	},
 	{
 		"name": "Military Base",
@@ -1761,7 +1761,7 @@
 		"uniques": ["Must be on [Hill]", "[-10]% Culture cost of adopting new Policies", "[Faith] cost of purchasing items in cities [-10]%",
 		"Only available <in cities with at least [15] [Population]>"],
 		"requiredTech": "Plastics",
-		"quote": "'Come to me, all who labor and are heavy burdened, and I will give you rest.' - New Testament, Matthew 11:28"
+		"quote": "'Religious suffering is, at one and the same time, the expression of real suffering and a protest against real suffering. Religion is the sigh of the oppressed creature, the heart of a heartless world, and the soul of soulless conditions. It is the opium of the people.' - Karl Marx"
 	},
 
 	// Atomic Era
@@ -1796,7 +1796,7 @@
 		"uniques": ["[-25]% Gold cost of upgrading <for [Military] units>", "[+2 Production, +3 Science] from every [Military Base]", "Gain a free [Military Base] [in all cities]",
 		"Only available <in cities with at least [15] [Population]>"],
 		"requiredTech": "Combined Arms",
-		"quote": "'In preparing for battle I have always found that plans are useless, but planning is indispensable.' - Dwight D. Eisenhower"
+		"quote": "'To ravage, to slaughter, to usurp under false titles, they call empire, and where they make a desert, they call it peace.' - Publius Cornelius Tacitus"
 	},
 	{
 		"name": "Oak Ridge Leadership Computing Facility",
@@ -1808,7 +1808,7 @@
 		"uniques": ["Free Technology",
 		"Only available <in cities with at least [19] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Computers",
-		"quote": "'The good thing about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.' – Ted Nelson",
+		"quote": "'If a machine is expected to be infallible, it cannot also be intelligent.' - Alan Turing",
 	},
 	// Column 14
 	{
@@ -1929,7 +1929,7 @@
 		"uniques": ["[+2 Happiness, +2 Culture] from every [Broadcast Tower]", "Gain a free [Broadcast Tower] [in all cities]",
 		"Only available <in cities with at least [21] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Telecommunications",
-		"quote": "'Nothing travels faster than light with the possible exception of bad news, which obeys its own special rules.' - Douglas Adams"
+		"quote": "'A skyscraper is a boast in glass and steel.' - Mason Cooley"
 	},
 	{
 		"name": "Bomb Shelter",
@@ -1951,7 +1951,7 @@
 			    "Gain a free [Spaceship Factory] [in this city]", "Only available <when [Scientific] Victory is enabled>",
 		"Only available <in cities with at least [21] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Satellites",
-		"quote": "'The wonder is, not that the field of stars is so vast, but that man has measured it.' - Anatole France"
+		"quote": "'Equipped with his five senses, man explores the universe around him and calls the adventure Science.' - Edwin Hubble"
 	},
 	{
 		"name": "Spaceship Factory",
@@ -1973,7 +1973,7 @@
 		"uniques": ["Must be next to [Water]", "Gain a free [Observatory] [in this city]", "[+12 Science] from every [Observatory]", "Science gained from research agreements [+50]%",
 		"Only available <in cities with at least [17] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Information Theory",
-		"quote": "'Equipped with his five senses, man explores the universe around him and calls the adventure Science.' - Edwin Hubble"
+		"quote": "'The wonder is, not that the field of stars is so vast, but that man has measured it.' - Anatole France"
 	},
         {
         "name": "National Intelligence Agency",
@@ -2058,7 +2058,7 @@
 			    "[+50]% [Culture] [in all cities]",
 			    "[+50]% [Faith] [in all cities]",
 		"Only available <in cities with at least [26] [Population]>", "Shown while unbuilable"],
-		"quote": "'It ascends from the earth to the heaven, and it again descends to the earth and receives the force of things superior and inferior.' - Hermes Trismegistus"
+		"quote": "'The development of full artificial intelligence could spell the end of the human race.' - Stephen Hawking"
 	},
 	// All Eras
 {
@@ -2118,7 +2118,7 @@
 			"Unbuildable <if [National Intelligence Agency] is not constructed> <when espionage is enabled> <hidden from users>",
 			"Cost increases by [927] per owned city", "Cannot be hurried",
 		"Only available <in cities with at least [17] [Population]>", "Shown while unbuilable"],
-		"quote": "'There is nothing like a dream to create the future.' - Victor Hugo"
+		"quote": "'The modern class-conscious worker, reared by large-scale factory industry and enlightened by urban life, contemptuously casts aside religious prejudices, leaves heaven to the priests and bourgeois bigots, and tries to win a better life for himself here on earth.' - Vladimir Lenin"
 	},
         {
 		"name": "United Nations",

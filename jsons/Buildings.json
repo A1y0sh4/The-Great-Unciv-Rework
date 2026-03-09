@@ -1999,7 +1999,7 @@
 		"requiredBuilding": "Factory",
 		"requiredResource": "Aluminum",
 		"requiredTech": "Stealth",
-		"uniques": ["Population loss from nuclear attacks [-50]% [in this city]", "Provides [1] [Pollution]",
+		"uniques": ["Population loss from nuclear attacks [-50]% [in this city]",
 		"Only available <in cities with at least [23] [Population]>", "Shown while unbuilable"]
 	},
         {
@@ -2009,7 +2009,7 @@
 		"maintenance": 6,
 			"requiredBuilding": "Factory",
 		"requiredResource": "Aluminum",
-		"uniques": ["[+100]% [Science] [in this city]", "Provides [1] [Pollution]",
+		"uniques": ["[+100]% [Science] [in this city]",
 		"Only available <in cities with at least [23] [Population]>", "Shown while unbuilable"],
 	},
         {
@@ -2031,7 +2031,7 @@
 			"requiredBuilding": "Factory",
 		"requiredTech": "Nanotechnology",
 		"requiredResource": "Aluminum",
-		"uniques": ["[+100]% growth [in this city]", "Provides [1] [Pollution]",
+		"uniques": ["[+100]% growth [in this city]",
 		"Only available <in cities with at least [23] [Population]>", "Shown while unbuilable"],
 	},
         // Column 17

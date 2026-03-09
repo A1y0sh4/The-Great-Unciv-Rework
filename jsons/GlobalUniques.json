@@ -377,6 +377,7 @@
 		"[-25]% Strength <for [All] units> <when below [-300] [Happiness]>",
         "Cannot build [Settler] units <when below [-10] [Happiness]>",
         "Rebel units may spawn <when below [-10] [Happiness]>",
+		"Rebel units may spawn <when above [1000] [Pollution]>",
 	"Sell [Coal Plant] buildings [in all cities] <upon turn end> <with [5]% chance> <when above [500] [Pollution]>",
 	"Sell [Oil Plant] buildings [in all cities] <upon turn end> <with [5]% chance> <when above [500] [Pollution]>",
 		"[-100]% Production when constructing [Coal Plant] buildings [in all cities] <when above [500] [Pollution]>",
@@ -795,6 +796,7 @@
 		*/
     ]
 }
+
 
 
 

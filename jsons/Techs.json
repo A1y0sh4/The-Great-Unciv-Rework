@@ -619,7 +619,7 @@
 			{
 				"name": "Combined Arms",
 				"row": 9,
-				"prerequisites": ["Combustion","Flight"],
+				"prerequisites": ["Combustion","Flight","Replaceable Parts"],
 				"quote": "'War is the continuation of politics by other means.' - Carl von Clausewitz"
 			}
 		]
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

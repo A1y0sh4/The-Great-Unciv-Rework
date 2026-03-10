@@ -493,7 +493,7 @@
 				"name": "Electricity",
 				"row": 3,
 				"prerequisites": ["Scientific Theory","Industrialization","Urban Planning"],
-				"uniques": ["[+300]% weight to this choice for AI decisions <hidden from users>"],
+				"uniques": ["[+400]% weight to this choice for AI decisions <hidden from users>"],
 				"quote": "'Invention is the most important product of man's creative brain. The ultimate purpose is the complete mastery of mind over the material world, the harnessing of human nature to human needs.' - Nikola Tesla"
 			},
 			{
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

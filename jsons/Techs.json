@@ -585,7 +585,7 @@
 				"name": "Plastics",
 				"row": 2,
 				"prerequisites": ["Radio","Replaceable Parts","Refrigeration","Financial Capital"],
-				"uniques": ["[+400]% weight to this choice for AI decisions <hidden from users>"],
+				"uniques": ["[+800]% weight to this choice for AI decisions <hidden from users>"],
 				"quote": "'Not only are plastics polluting our oceans and waterways and killing marine life – it’s in all of us and we can’t escape consuming plastics.' - Marco Lambertini"
 			},
 			{
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

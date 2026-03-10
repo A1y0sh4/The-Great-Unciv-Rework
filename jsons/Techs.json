@@ -585,21 +585,21 @@
 				"name": "Plastics",
 				"row": 2,
 				"prerequisites": ["Radio","Replaceable Parts","Refrigeration","Financial Capital"],
-				"uniques": ["[+300]% weight to this choice for AI decisions <hidden from users>"],
+				"uniques": ["[+400]% weight to this choice for AI decisions <hidden from users>"],
 				"quote": "'Not only are plastics polluting our oceans and waterways and killing marine life – it’s in all of us and we can’t escape consuming plastics.' - Marco Lambertini"
 			},
 			{
 				"name": "Social Science",
 				"row": 3,
 				"prerequisites": ["Radio","Replaceable Parts","Refrigeration","Financial Capital"], 
-				"uniques": ["[+25]% Great Person generation [in all cities]", "[+10 Culture, +10 Science] <in cities with at least [4] [Specialists]>", "Comment [May start a Revolution when below -10 [Happiness]]"],
+				"uniques": ["[+25]% Great Person generation [in all cities]", "[+10 Culture, +10 Science] <in cities with at least [4] [Specialists]>", "Comment [May start a Revolution when below -10 [Happiness]]", "[+400]% weight to this choice for AI decisions <hidden from users>"],
 				"quote": "'The philosophers have only interpreted the world, in various ways. The point, however, is to change it.' - Karl Marx"
 			},
 			{
 				"name": "Electronics",
 				"row": 5,
 				"prerequisites": ["Replaceable Parts", "Flight", "Radio","Financial Capital"],
-				"uniques": ["[+2 Science, +1 Gold] from every [Strategic resource]"],
+				"uniques": ["[+2 Science, +1 Gold] from every [Strategic resource]", "[+400]% weight to this choice for AI decisions <hidden from users>"],
 				"quote": "'We had better be quite sure that the purpose put into the machine is the purpose which we really desire.' - Norbert Wiener"
 			},
 			{
@@ -642,7 +642,7 @@
 				"name": "Ecology",
 				"row": 3,
 				"prerequisites": ["Plastics","Social Science","Electronics"],
-				"uniques": ["[+3 Culture] from every [Natural Wonder]", "[+300]% weight to this choice for AI decisions <hidden from users>"],
+				"uniques": ["[+3 Culture] from every [Natural Wonder]", "[+400]% weight to this choice for AI decisions <hidden from users>"],
 				"quote": "'The essence of capitalism is to turn nature into commodities and commodities into capital. The live green earth is transformed into dead gold bricks, with luxury items for the few and toxic slag heaps for the many. The glittering mansion overlooks a vast sprawl of shanty towns, wherein a desperate, demoralized humanity is kept in line with drugs, television, and armed force.' - Michael Parenti"
 			},
 			{
@@ -693,7 +693,7 @@
 				"name": "Environmentalism",
 				"row": 3,
 				"prerequisites": ["Atomic Theory","Pharmaceuticals","Ecology"], 
-				"uniques": ["[+300]% weight to this choice for AI decisions <hidden from users>"],
+				"uniques": ["[+400]% weight to this choice for AI decisions <hidden from users>"],
 				"quote": "'It is important to leave a better land for our descendants.' - Theodore Roosevelt"
 			},
 			{
@@ -842,6 +842,7 @@
 		]
 	}
 ]
+
 
 
 

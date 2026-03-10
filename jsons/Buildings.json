@@ -1501,7 +1501,7 @@
 	},
 	{
 		"name": "Public School",
-		"science": 4,
+		"science": 8,
 		"specialistSlots": {"Scientist": 1},
 		"requiredBuilding": "University",
 		"maintenance": 3,

@@ -452,7 +452,7 @@
 				"name": "Industrialization",
 				"row": 6,
 				"prerequisites": ["Economics","Metallurgy","Architecture"],
-				"quote": "'The more the division of labour and the application of machinery extend, the more does competition extend among the workers, the more do their wages shrink together.' - Karl Marx"
+				"quote": "'...the more productive capital grows, the more it extends the division of labour and the application of machinery; the more the division of labour and the application of machinery extend, the more does competition extend among the workers, the more do their wages shrink together.' - Karl Marx"
 			},
 			{
 				"name": "Rifling",

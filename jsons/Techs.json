@@ -748,6 +748,7 @@
 				"name": "Advanced Ballistics",
 				"row": 5,
 				"prerequisites": ["Nuclear Fission","Rocketry"],
+				"uniques": ["[+25]% spy effectiveness [in all cities]"],
 				"quote": "'The nuclear arms race is like two sworn enemies standing waist deep in gasoline, one with three matches, the other with five.' – Carl Sagan"
 			},
 			{

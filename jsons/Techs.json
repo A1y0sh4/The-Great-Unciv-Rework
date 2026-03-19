@@ -740,6 +740,7 @@
 				"name": "Mobile Tactics",
 				"row": 3,
 				"prerequisites": ["Nuclear Fission", "Environmentalism", "Advanced Urbanism"],
+				"uniques": ["[+20]% to Flank Attack bonuses <for [Military] units>"],
 				"quote": "'We must come to the inevitable conclusion that the guerrilla fighter is a social reformer, that he takes up arms responding to the angry protest of the people against their oppressors, and that he fights in order to change the social system that keeps all his unarmed brothers in ignominy and misery.' - Ernesto Guevara"
 			},
 			{

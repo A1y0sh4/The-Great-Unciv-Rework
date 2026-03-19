@@ -781,25 +781,28 @@
 				"name": "Globalization",
 				"row": 2,
 				"prerequisites": ["Telecommunications","Mobile Tactics","Advanced Ballistics"],
-				"uniques": ["Gifts of Gold to City-States generate [25]% more Influence", "[+5]% [Gold] [in all cities] <for every [Remaining [Major] Civilizations]>"],
+				"uniques": ["Gifts of Gold to City-States generate [25]% more Influence", "[+5]% [Gold] [in all cities] <for every [Remaining [Major] Civilizations]>", "[+2 Gold] from every [Merchant]"],
 				"quote": "'Designed to leave the world's economic destiny at the mercy of bankers and multinational corporations, Globalization is a logical extension of imperialism, a victory of empire over republic, international finance capital over democracy.' - Michael Parenti"
 			},
 			{
 				"name": "Particle Physics",
 				"row": 4,
 				"prerequisites": ["Telecommunications","Mobile Tactics","Advanced Ballistics"],
+				"uniques": ["[+2 Science] from every [Scientist]"],
 				"quote": "'If you think you understand quantum mechanics, you don’t understand quantum mechanics.' - Richard Feynman"
 			},
 			{
 				"name": "Nanotechnology",
 				"row": 8,
 				"prerequisites": ["Robotics", "Satellites", "Lasers"],
+				"uniques": ["[+2 Production] from every [Engineer]"],
 				"quote": "'Nanotechnology is the idea that we can create devices and machines all the way down to the nanometer scale, which is a billionth of a meter, about half the width of a human DNA molecule.' - Paul McEuen"
 			},
 			{
 				"name": "Stealth",
 				"row": 6,
 				"prerequisites": ["Robotics", "Lasers", "Advanced Ballistics", "Satellites"],
+				"uniques": ["[+2 Culture] from every [Artist]"],
 				"quote": "'Keep the enemy in the dark about where and when our forces will attack.' - Mao Zedong"
 			}
 		]

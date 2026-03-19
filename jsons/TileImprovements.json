@@ -104,7 +104,7 @@
 		"turnsToBuild": 8,
 		"production": 1,
 		"techRequired": "Masonry",
-		"uniques": ["Improvement", "[+1 Production] <after discovering [Steam Power]>", "[+1 Production] <after discovering [Laser]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+13 Gold]",
+		"uniques": ["Improvement", "[+1 Production] <after discovering [Steam Power]>", "[+1 Production] <after discovering [Lasers]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+13 Gold]",
 		            "Provides [1] [Obsidian] <in [Obsidian] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>", "Provides [1] [Marble] <in [Marble] tiles> <in [Tundra] tiles> <for [Russia] Civilizations> <hidden from users>"],
 		"shortcutKey": "Q"
 	},

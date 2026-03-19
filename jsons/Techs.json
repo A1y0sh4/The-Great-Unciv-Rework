@@ -755,7 +755,7 @@
 				"name": "Satellites",
 				"row": 6,
 				"prerequisites": ["Rocketry","Computers","Cybernetics"],
-				"uniques": ["[+50 Science] <for every [Researched [Information era] Technologies]>"],
+				"uniques": ["[+30 Science] <for every [Researched [Information era] Technologies]>"],
 				"quote": "'Looking at the earth from afar you realize it is too small for conflict and just big enough for co-operation.' - Yuri Gagarin"
 			},
 			{

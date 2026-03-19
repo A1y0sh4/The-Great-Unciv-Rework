@@ -1256,7 +1256,7 @@
 		"culture": 3,
 		"greatPersonPoints": {"Great Scientist": 1},
 		"isWonder": true,
-		"uniques": ["Free [Great Scientist] appears", "Science gained from research agreements [+50]%", "Gain a free [Pagoda] [in this city]",
+		"uniques": ["Free [Great Scientist] appears", "Science gained from research agreements [+50]%", "Gain a free [Pagoda] [in this city]", "Enables Research agreements <before discovering [Scientific Theory]>",
 		"Only available <in cities with at least [7] [Population]>"],
 		"requiredTech": "Acoustics",
 		"quote": "'Many a state has fallen because a ruler does not know the affairs of his people.' - Yongle"

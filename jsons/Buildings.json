@@ -1857,7 +1857,7 @@
 		"cost": 297,
 		"maintenance": 4,
 		"requiredTech": "Ecology",
-		"uniques": ["Provides [-5] [Pollution]",
+		"uniques": ["Provides [-3] [Pollution]", "Provides [-2] [Pollution] <when above [500] [Pollution]>",
 		"Only available <in cities with at least [13] [Population]>", "Shown while unbuilable"]
 	},
 	{

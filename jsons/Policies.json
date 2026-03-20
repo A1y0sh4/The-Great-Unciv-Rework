@@ -618,7 +618,7 @@
 	    "Religious": 20
         },
         "uniques": [
-            "When declaring friendship, both parties gain a [15]% boost to great person generation", "Comment [Unlocks [Worker and Kolkhoz Woman]]",
+            "[+15]% Production when constructing [All] buildings [in all cities]", "Comment [Unlocks [Worker and Kolkhoz Woman]]",
             "Only available <before adopting [Nationalism]>",
             "Only available <before adopting [Individualism]>",
 			"Only available <if [Factory] is constructed in at least [2] of [All] cities>"
@@ -652,7 +652,7 @@
                 "name": "United Front",
                 "requires": ["Diplomatic Missions"],
                 "uniques": [
-                    "Resting point for Influence with City-States is increased by [15]", "[+25]% Strength <when fighting units from a Civilization with more Cities than you>",
+                    "When declaring friendship, both parties gain a [15]% boost to great person generation", "[+25]% Strength <when fighting units from a Civilization with more Cities than you>",
                 ],
                 "row": 3,
                 "column": 3

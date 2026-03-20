@@ -528,7 +528,7 @@
 				"name": "Refrigeration",
 				"row": 2,
 				"prerequisites": ["Biology", "Steam Power","Dynamite","Electricity","Refining"],
-				"quote": "'Why do some people have to be miserably poor in order that others can be extravagantly rich? I speak for all the children in the world who don't even have a piece of bread.' - Fidel Castro"
+				"quote": "'...Why do some people have to be miserably poor in order that others can be extravagantly rich? I speak for all the children in the world who don't even have a piece of bread...' - Fidel Castro"
 			},
 			{
 				"name": "Radio",

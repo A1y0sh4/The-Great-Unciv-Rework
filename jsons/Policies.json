@@ -61,7 +61,7 @@
                 "name": "Tradition Complete",
                 "uniques": [
                     "[+15]% Production when constructing [All] wonders [in all cities]",
-					"Get the leader title of [Sovereign [leaderName]] <before adopting [Relations Complete]> <before adopting [Commerce Complete]> <before adopting [Rationalism Complete]> <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"]
+					"Get the leader title of [Sovereign [leaderName]] <before adopting [Expansion Complete]> <before adopting [Piety Complete]> <before adopting [Relations Complete]> <before adopting [Commerce Complete]> <before adopting [Rationalism Complete]> <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"]
             }
         ]
     },
@@ -124,7 +124,7 @@
             {
                 "name": "Liberty Complete",
                 "uniques": ["Free Great Person",
-					"Get the leader title of [Consul [leaderName]] <before adopting [Relations Complete]> <before adopting [Commerce Complete]> <before adopting [Rationalism Complete]> <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"]
+					"Get the leader title of [Consul [leaderName]] <before adopting [Expansion Complete]> <before adopting [Piety Complete]> <before adopting [Relations Complete]> <before adopting [Commerce Complete]> <before adopting [Rationalism Complete]> <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"]
             }
         ]
     },

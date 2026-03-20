@@ -1744,7 +1744,6 @@
 		"science": 16,
 		"percentStatBonus": {"science": 100},
 		"specialistSlots": {"Scientist": 2},
-		"requiredBuilding": "Public School",
 		"requiredBuilding": "Factory",
 		"uniques": ["[+50]% [Science] [in this city] <after discovering [Atomic Theory]>",
 		"Only available <in cities with at least [15] [Population]>", "Shown while unbuilable"],

@@ -1,6 +1,7 @@
 {
     "name": "Global uniques", 
     "uniques": [
+		// idea: Gold when finishing improvements
 		"Science gained from research agreements [+50]%",
 		"[+1 Food, +1 Gold] [in capital] <for every [2] [[in all cities connected to capital] Cities]>",
 		"[-25]% maintenance on road & railroads",

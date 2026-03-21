@@ -981,7 +981,7 @@
 	},
 	{
 		"name": "[Uybabaeté] ability",
-		"uniques": ["[+10]% Strength <while the empire is happy>", "[+5]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>", "[+1] HP when healing <for [Gran Colombia] Civilizations> <hidden from users>"]
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Golden Age points]", "[+5]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>", "[+1] HP when healing <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
 	{
 		"name": "Injured",

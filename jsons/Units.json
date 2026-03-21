@@ -1257,7 +1257,7 @@
 		"obsoleteTech": "Steam Power",
 		"upgradesTo": "Ironclad",
 		"promotions": ["[Privateer] ability"],
-		"uniques": ["Can move after attacking", "Gain [100]-[400] [Gold] <by consuming this unit> <in [Major] tiles> <in tiles without [The Netherlands]> <(modified by game speed)>", "Cost increases by [10] when built"],
+		"uniques": ["Can move after attacking", "Instantly gain [60] [Golden Age points] <by consuming this unit> <in [Major] tiles> <in tiles without [The Netherlands]> <(modified by game speed)>", "Cost increases by [10] when built"],
 		"attackSound": "cannon"
 	},
 	{
@@ -2171,7 +2171,7 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Mutapa",
 		"replaces": "Great Merchant",
-		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence", "May enter foreign tiles without open borders", "Instantly gain [32] [Golden Age points] <once> <(modified by game speed)>",
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence", "May enter foreign tiles without open borders", "Instantly gain [30] [Golden Age points] <once> <(modified by game speed)>",
 			"Can instantly construct a [Customs house] improvement <by consuming this unit>", "Great Person - [Gold]", "Unbuildable", "Uncapturable", "[This Unit] gets a name from the [Trader] group", "Is part of Great Person group [Merchant]"],
 		"movement": 3
 	},

@@ -1742,16 +1742,16 @@
     "loyal": 8,
     "expansion": 6,
 		"priorities": {
-			"Tradition": 30,
-			"Liberty": 10,
-			"Expansion": 40,
-			"Commerce": 20,
-			"Diplomacy": 10,
-			"Piety": 10,
-			"Rationalism": 80,
-			"Individualism": 25,
-			"Nationalism": 40,
-			"Cosmopolitanism": 40
+			"Tradition": 3,
+			"Liberty": 3,
+			"Expansion": 4,
+			"Commerce": 2,
+			"Diplomacy": 1,
+			"Piety": 1,
+			"Rationalism": 10,
+			"Individualism": 5,
+			"Nationalism": 7,
+			"Cosmopolitanism": 10
 		},
 		"uniques": ["Will not build [Shrine]", "Will not build [Temple]", "Will not build [The Pyramids]", "Will not build [Mausoleum of Halicarnassus]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]"]
 	},
@@ -1772,16 +1772,16 @@
     "loyal": 7,
     "expansion": 7,
 		"priorities": {
-			"Tradition": 0,
-			"Liberty": 30,
-			"Expansion": 40,
-			"Commerce": 10,
-			"Diplomacy": 30,
-			"Piety": 0,
-			"Rationalism": 40,
-			"Individualism": 10,
-			"Nationalism": 30,
-			"Cosmopolitanism": 50
+			"Tradition": 1,
+			"Liberty": 6,
+			"Expansion": 3,
+			"Commerce": 1,
+			"Diplomacy": 6,
+			"Piety": 1,
+			"Rationalism": 10,
+			"Individualism": 1,
+			"Nationalism": 1,
+			"Cosmopolitanism": 10
 		},
 		"uniques": ["Will not build [Shrine]", "Will not build [Temple]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]"]
 	}, 

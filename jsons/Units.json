@@ -169,7 +169,7 @@
 		"cost": 26,
 		"obsoleteTech": "Iron Working",
 		"upgradesTo": "Swordsman",
-		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "Gain [4] [Faith] <upon being defeated> <(modified by game speed)>"],
 		"promotions": ["Pictish Courage"],
 		"attackSound": "metalhit"
 	},
@@ -184,6 +184,7 @@
 		"obsoleteTech": "Iron Working",
 		"upgradesTo": "Swordsman",
 		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "Earn [50]% of killed [Military] unit's [Strength] as [Golden Age points]", "Gain [4] [Faith] <upon being defeated> <(modified by game speed)>"],
+		"promotions": ["[Uybabaeté] ability"],
 		"attackSound": "nonmetalhit"
 	},
 	{

@@ -1098,7 +1098,7 @@
 		"innerColor": [255,221,0],
 		
 		"uniqueName": "Ejército Patriota",
-		"uniqueText": "Military units heal 25 HP upon being promoted\nMilitary units gain +5% XP from combat and +1 HP upon turn end for every promotion they have\nGreat Generals and Great Admirals may start a Golden Age",
+		"uniqueText": "Military units heal 25 HP upon being promoted\nMilitary units gain +5% XP from combat and +1 HP upon turn end for every promotion they have\nGreat Generals and Great Admirals may start a Golden Age\nMilitary units heal 15 HP upon gaining a Great General or a Great Admiral",
 		"uniques": ["[Military] units gain the [Pride] promotion"],
 		"cities": ["Bogotá","Caracas","Quito","Valencia De Carabobo","Cali","Medellín","Maracaibo","Cumaná","Guayaquil","Panamá",
 			"Cartagena de Indias","Popayán","Cuenca","Barinas","Santa Marta","Loja","Angostura","Pasto","Nueva Barcelona","Neiva",

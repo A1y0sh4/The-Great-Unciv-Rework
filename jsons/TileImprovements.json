@@ -135,7 +135,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 4,
 		"techRequired": "The Wheel",
-		"uniques": ["Can be built outside your borders", "Costs [1] [Gold] per turn"],
+		"uniques": ["Can be built outside your borders", "Costs [1] [Gold] per turn when in your territory"],
 		"shortcutKey": "R",
         "civilopediaText": [
             {"text":"Reduces movement cost to ½ if the other tile also has a Road or Railroad"},
@@ -148,7 +148,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 6,
 		"techRequired": "Steam Power",
-		"uniques": ["Can be built outside your borders", "Costs [2] [Gold] per turn"],
+		"uniques": ["Can be built outside your borders", "Costs [3] [Gold] per turn when in your territory"],
 		"shortcutKey": "R",
         "civilopediaText": [{"text":"Reduces movement cost to ⅒ if the other tile also has a Railroad"}]
 	},

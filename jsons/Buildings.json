@@ -95,6 +95,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 	        "percentStatBonus": {"food": 10},
+		"uniques": ["[+5]% [Food] [in this city] <in [Hill] tiles>"],
 	        "cost": 24,
 		"requiredTech": "Pottery",
 	},
@@ -104,6 +105,7 @@
 		"uniqueTo": "Cree",
 		"requiredTech": "Pottery",
 		"cost": 20,
+		"uniques": ["[+5]% [Food] [in this city] <in [Hill] tiles>"],
 		"production": 1,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
@@ -116,6 +118,7 @@
 		"cost": 24,
 		"food": 1,
 		"faith": 1,
+		"uniques": ["[+5]% [Food] [in this city] <in [Hill] tiles>"],
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 	        "percentStatBonus": {"food": 10},
@@ -130,7 +133,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 	        "percentStatBonus": {"food": 10},
-		"uniques": ["[+1 Food] <within [1] tiles of a [Coast]>"]
+		"uniques": ["[+5]% [Food] [in this city] <in [Hill] tiles>", "[+1 Food] <within [1] tiles of a [Coast]>"]
 		
 	},
 	{

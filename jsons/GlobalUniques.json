@@ -2,6 +2,7 @@
     "name": "Global uniques", 
     "uniques": [
 		"Science gained from research agreements [+50]%",
+		"[+1 Food, +1 Gold] [in capital] <for every [2] [[in all cities connected to capital] Cities]>",
 		"[-25]% maintenance on road & railroads",
 		"[-50]% maintenance costs <for [Scout] units>",
 		"[2] Movement point cost to embark <for [All] units>", "[2] Movement point cost to disembark <for [All] units>",

@@ -6,7 +6,7 @@
 		"name": "Palace",
 		"production": 2,
 		"science": 2,
-		"gold": 2,
+		"gold": 4,
 		"culture": 1,
 		"cost": 0,
 		"cityStrength": 2,

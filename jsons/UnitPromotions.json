@@ -727,7 +727,7 @@
 	{
 		"name": "Pride",
 		"prerequisites": ["Accuracy II","Barrage II","Shock III","Drill III","Scouting III","Survivalism III"],
-		"uniques": ["[This Unit] heals [25] HP <hidden from users>", "[This Unit] heals [25] HP <upon being promoted>", "[+5]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>", "[This Unit] heals [1] HP <upon turn end> <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["[This Unit] heals [25] HP <hidden from users>", "[This Unit] heals [25] HP <upon being promoted>", "[This Unit] heals [15] HP <upon gaining a [Great General] unit> <for [Gran Colombia] Civilizations> <hidden from users>", "[This Unit] heals [15] HP <upon gaining a [Great Admiral] unit> <for [Gran Colombia] Civilizations> <hidden from users>", "[+5]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>", "[This Unit] heals [1] HP <upon turn end> <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Sword", "Gunpowder","Archery", "Ranged Gunpowder", "Mounted", "Scout"],
         "column": 9,
         "row": 4

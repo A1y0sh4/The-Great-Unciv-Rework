@@ -398,7 +398,7 @@
 		"[-100]% Production when constructing [Oil Plant] buildings [in all cities] <when above [500] [Pollution]>",
 		"Gain a free [Recycling Center] [in all cities] <upon turn end> <with [10]% chance> <when above [1500] [Pollution]> <for [AI player] Civilizations>",
 		"Gain a free [Recycling Center] [in all cities] <upon turn end> <with [5]% chance> <when above [500] [Pollution]> <after discovering [Ecology]> <for [AI player] Civilizations>",
-		"Gain a free [Nuclear Plant] [in all cities] <upon turn end> <with [5]% chance> <when above [500] [Pollution]> <after discovering [Nuclear Fission]> <for [AI player] Civilizations>",
+		"Gain a free [Nuclear Plant] [in all cities] <upon turn end> <with [5]% chance> <when above [1000] [Pollution]> <after discovering [Nuclear Fission]> <for [AI player] Civilizations>",
 		"Gain a free [Oil Plant] [in all cities] <upon turn end> <with [5]% chance> <when above [300] [Pollution]> <after discovering [Refining]> <for [AI player] Civilizations>",
 	"[-1]% Yield from every [Building] <when below [-10] [Happiness]>",
 	"[-1] Happiness from each type of luxury resource",

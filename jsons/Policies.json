@@ -200,7 +200,7 @@
                 "name": "Expansion Complete",
                 "uniques": [
                  "[-25]% Culture cost of natural border growth [in all cities connected to capital]", "[-25]% Gold cost of acquiring tiles [in all cities connected to capital]",
-					"Get the leader title of [[leaderName] the Great] <before adopting [Relations Complete]> <before adopting [Commerce Complete]> <before adopting [Rationalism Complete]> <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"
+					"Get the leader title of [Commander [leaderName]] <before adopting [Relations Complete]> <before adopting [Commerce Complete]> <before adopting [Rationalism Complete]> <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"
                 ]
             }
         ]
@@ -466,7 +466,7 @@
                 "uniques": [
                     "[1] Free Technologies",
                     "May buy [Great Scientist] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <starting from the [Industrial era]>",
-					"Get the leader title of [[leaderName] the Enlightened] <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"
+					"Get the leader title of [Enlightened Ruler [leaderName]] <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"
                 ]
             }
         ]

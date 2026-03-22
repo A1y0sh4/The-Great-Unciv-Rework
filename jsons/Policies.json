@@ -264,7 +264,7 @@
                 "name": "Piety Complete",
                 "uniques": [
                     "Gain a free [Follower] belief", "[+3 Gold, +3 Culture, +1 Happiness] [in all cities] <within [3] tiles of a [Holy site]>",
-				"Get the leader title of [High Priest [leaderName]] <before adopting [Relations Complete]> <before adopting [Commerce Complete]> <before adopting [Rationalism Complete]> <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"]
+				"Get the leader title of [High priest [leaderName]] <before adopting [Relations Complete]> <before adopting [Commerce Complete]> <before adopting [Rationalism Complete]> <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"]
             }
         ]
     },
@@ -466,7 +466,7 @@
                 "uniques": [
                     "[1] Free Technologies",
                     "May buy [Great Scientist] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <starting from the [Industrial era]>",
-					"Get the leader title of [Enlightened Ruler [leaderName]] <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"
+					"Get the leader title of [Enlightened ruler [leaderName]] <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"
                 ]
             }
         ]
@@ -601,7 +601,7 @@
                 "uniques": [
                     "Empire enters golden age <upon declaring war on [Major] Civilizations>",
                     "May buy [Great General] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <starting from the [Industrial era]>",
-					"Get the leader title of [Supreme Leader [leaderName]]"
+					"Get the leader title of [Supreme leader [leaderName]]"
                 ]
             }
         ]
@@ -671,7 +671,7 @@
                 "uniques": [
 		     "[+100]% Golden Age length", "Comment [Unlocks [United Nations]]",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <starting from the [Industrial era]>",
-					"Get the leader title of [General Secretary [leaderName]]"
+					"Get the leader title of [General secretary [leaderName]]"
                 ]
             }
         ]

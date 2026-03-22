@@ -1851,8 +1851,8 @@
 		"innerColor": [238,201,9],
 		
 		"uniqueName": "The Glory of Rome",
-		"uniqueText": "+10% [Production] when constructing buildings in cities connected to capital\nAll improvements are 15% faster to build\nGain +50% [Gold] when pillaging Barbarian encampments and Cities",
-		"uniques": ["[+10]% Production when constructing [All] buildings [in all cities connected to capital]", "[-15]% construction time for [All] improvements", "Receive [+50]% Gold from Barbarian encampments and pillaging Cities"],
+		"uniqueText": "+10% [Production] when constructing buildings in cities connected to capital\nAll improvements are 15% faster to build\nGain +25% [Gold] when pillaging Barbarian encampments and Cities",
+		"uniques": ["[+10]% Production when constructing [All] buildings [in all cities connected to capital]", "[-15]% construction time for [All] improvements", "Receive [+25]% Gold from Barbarian encampments and pillaging Cities"],
 		"cities": ["Rome","Neapolis","Brundisium","Arretium","Mediolanum","Ravenna","Aquileia","Antium","Cumae","Arpinum","Circei","Setia",
 			"Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Caesaraugusta","Caesarea","Palmyra",
 			"Signia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",

@@ -1436,8 +1436,8 @@
 		"greatPersonPoints": {"Great Artist": 1},
 		"requiredBuilding": "Palace",
 		"isWonder": true,
-		"uniques": ["[+50]% Great Person generation [in this city]", "[-15]% City-State Influence degradation", "Influence of all other civilizations with all city-states degrades [15]% faster", "Gifts of Gold to City-States generate [15]% more Influence",
-		"Only available <in cities with at least [8] [Population]>"],
+		"uniques": ["[-15]% City-State Influence degradation", "Influence of all other civilizations with all city-states degrades [15]% faster", "Gifts of Gold to City-States generate [15]% more Influence",
+		"Resting point for Influence with City-States is increased by [10]", "Only available <in cities with at least [8] [Population]>"],
 		"requiredTech": "Architecture",
 		"quote": "'The state, is me.' - Louis XIV"
 	},

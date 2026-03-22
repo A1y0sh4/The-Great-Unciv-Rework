@@ -105,7 +105,7 @@
 		"uniqueTo": "Cree",
 		"requiredTech": "Pottery",
 		"cost": 20,
-		"uniques": ["[+5]% [Food] [in this city] <in [Hill] tiles>", "[+50]% Production when constructing [Prehistoric era] buildings [in this city]", "[+50]% Production when constructing [Ancient era] buildings [in this city]"],
+		"uniques": ["[+5]% [Food] [in this city] <in [Hill] tiles>", "[+25]% Production when constructing [Prehistoric era] buildings [in this city]", "[+25]% Production when constructing [Ancient era] buildings [in this city]"],
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 	        "percentStatBonus": {"food": 10}

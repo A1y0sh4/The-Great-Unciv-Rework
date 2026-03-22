@@ -1857,7 +1857,14 @@
 		"cost": 297,
 		"maintenance": 4,
 		"requiredTech": "Ecology",
-		"uniques": ["Provides [-3] [Pollution]", "Provides [-2] [Pollution] <when above [500] [Pollution]>",
+		"uniques": ["Provides [-3] [Pollution]", "Comment [Provides -2 additional [Pollution] when above 500 [Pollution] (modified by game speed)]",
+			"Provides [-2] [Pollution] <when above [125] [Pollution]> <on [Turbo] game speed> <hidden from users>",
+			"Provides [-2] [Pollution] <when above [250] [Pollution]> <on [Online] game speed> <hidden from users>",
+			"Provides [-2] [Pollution] <when above [325] [Pollution]> <on [Quick] game speed> <hidden from users>",
+			"Provides [-2] [Pollution] <when above [500] [Pollution]> <on [Standard] game speed> <hidden from users>",
+			"Provides [-2] [Pollution] <when above [750] [Pollution]> <on [Epic] game speed> <hidden from users>",
+			"Provides [-2] [Pollution] <when above [1000] [Pollution]> <on [Marathon] game speed> <hidden from users>",
+			"Provides [-2] [Pollution] <when above [1250] [Pollution]> <on [Endless] game speed> <hidden from users>",
 		"Only available <in cities with at least [13] [Population]>", "Shown while unbuilable"]
 	},
 	{

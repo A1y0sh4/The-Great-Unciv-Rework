@@ -264,7 +264,7 @@
                 "name": "Piety Complete",
                 "uniques": [
                     "Gain a free [Follower] belief", "[+3 Gold, +3 Culture, +1 Happiness] [in all cities] <within [3] tiles of a [Holy site]>",
-				"Get the leader title of [[leaderName] the Pious] <before adopting [Relations Complete]> <before adopting [Commerce Complete]> <before adopting [Rationalism Complete]> <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"]
+				"Get the leader title of [High Priest [leaderName]] <before adopting [Relations Complete]> <before adopting [Commerce Complete]> <before adopting [Rationalism Complete]> <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"]
             }
         ]
     },

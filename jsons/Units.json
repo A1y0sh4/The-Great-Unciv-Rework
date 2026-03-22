@@ -1258,7 +1258,7 @@
 		"obsoleteTech": "Steam Power",
 		"upgradesTo": "Ironclad",
 		"promotions": ["[Privateer] ability"],
-		"uniques": ["Can move after attacking", "Instantly gain [60] [Golden Age points] <by consuming this unit> <in [Major] tiles> <in tiles without [The Netherlands]> <(modified by game speed)>", "Cost increases by [10] when built"],
+		"uniques": ["Can move after attacking", "Instantly gain [80] [Golden Age points] <by consuming this unit> <in [Major] tiles> <in tiles without [The Netherlands]> <(modified by game speed)>", "Cost increases by [10] when built"],
 		"attackSound": "cannon"
 	},
 	{

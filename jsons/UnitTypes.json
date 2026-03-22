@@ -143,7 +143,7 @@
 			"Unit will heal every turn, even if it performs an action <in [Fort] tiles> <hidden from users>", "Unit will heal every turn, even if it performs an action <in [Citadel] tiles> <hidden from users>",
         "[-10]% Strength <when fighting in [Desert] tiles>",
 	"[-10]% Strength <when fighting in [Tundra] tiles>",
-	"[-10]% Strength <when fighting in [Snow] tiles>"]
+	"[-10]% Strength <when fighting in [Snow] tiles>", "[-3] Movement <in [Water] tiles>"]
     },
 
     // Deprecated unit types required for mods without a UnitTypes.json file to work

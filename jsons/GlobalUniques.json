@@ -789,7 +789,7 @@
 	"[Faith] cost of purchasing [Worker] units [-25]%",
         "[+25]% [Production] [in all cities] <for [City-States] Civilizations>",
         "[+25]% [Gold] [in all cities] <for [City-States] Civilizations>",
-        "[+1 Faith, +1 Culture, +1 Science] per [5] population [in all cities] <for [City-States] Civilizations>",
+        "[+1 Faith, +1 Culture, +1 Science] per [4] population [in all cities] <for [City-States] Civilizations>",
         "Gain [150] [Gold] <upon declaring war on [Major] Civilizations> <for [City-States] Civilizations> <(modified by game speed)>",
 	"May buy [Jaguar] units with [Faith] for [2] times their normal Production cost",
 	"[Gold] cost of purchasing [Pitati] units [-25]%", "[Gold] cost of purchasing [Landsknecht] units [-25]%", "[Gold] cost of purchasing [Conquistador] units [-25]%", "[Gold] cost of purchasing [Cossack] units [-25]%", "[Gold] cost of purchasing [Foreign Legion] units [-25]%",
@@ -814,27 +814,3 @@
 		*/
     ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

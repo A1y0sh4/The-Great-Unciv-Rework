@@ -1851,8 +1851,8 @@
 		"innerColor": [238,201,9],
 		
 		"uniqueName": "The Glory of Rome",
-		"uniqueText": "+10% [Production] when constructing buildings in cities connected to capital\nAll improvements are 25% faster to build\nGain 50 [Gold] (modified by game speed) upon conquering a city",
-		"uniques": ["[+10]% Production when constructing [All] buildings [in all cities connected to capital]", "[-25]% construction time for [All] improvements", "Gain [50] [Gold] <(modified by game speed)> <upon conquering a city>"],
+		"uniqueText": "+10% [Production] when constructing buildings in cities connected to capital\nAll improvements are 25% faster to build\nGain +50% [Gold] when pillaging Barbarian encampments and Cities",
+		"uniques": ["[+10]% Production when constructing [All] buildings [in all cities connected to capital]", "[-25]% construction time for [All] improvements", "Receive [+50]% Gold from Barbarian encampments and pillaging Cities"],
 		"cities": ["Rome","Neapolis","Brundisium","Arretium","Mediolanum","Ravenna","Aquileia","Antium","Cumae","Arpinum","Circei","Setia",
 			"Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Caesaraugusta","Caesarea","Palmyra",
 			"Signia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",
@@ -2253,7 +2253,7 @@
 		"innerColor": [77,2,4],
 		
 		"uniqueName": "Scourge of God",
-		"uniques": ["Receive [+50]% Gold from Barbarian encampments and pillaging Cities", "[+25]% Yield from pillaging tiles", "[+25]% Health from pillaging tiles"],
+		"uniques": ["[+50]% Yield from pillaging tiles", "[+50]% Health from pillaging tiles"],
 		"cities": ["Etzelburg", "Szeged", "Esztergom", "Buda", "Pécs", "Eger", "Székesfehérvár", "Győr", "Kőszeg", "Diósgyőr", "Mohács", "Tata", "Kecskemét", "Szombathely", "Sárvár", "Sopron", "Hódmezővásárhely", "Sümeg"],
 		"spyNames": ["Balamber", "Uldin", "Donatus", "Charato", "Octar", "Bleda", "Ellac", "Dengizik", "Hildico", "Gudrun"]
 	},

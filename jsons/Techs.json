@@ -649,7 +649,7 @@
 				"name": "Atomic Theory",
 				"row": 5,
 				"prerequisites": ["Plastics","Electronics","Social Science","Cultural Hegemony"], 
-				"uniques": ["Comment [Resting points with City-States will raise by triple the Strength level of each of the nuclear devices in your possession]"],
+				"uniques": ["Comment [Resting points with City-States will raise by 5 times the Strength level of each of the nuclear devices in your possession]"],
 				"quote": "'I am become Death, the destroyer of worlds.' - J. Robert Oppenheimer"
 			},
 			{

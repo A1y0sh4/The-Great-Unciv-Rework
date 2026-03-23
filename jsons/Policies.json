@@ -61,6 +61,7 @@
                 "name": "Tradition Complete",
                 "uniques": [
                     "[+15]% Production when constructing [All] wonders [in all cities]",
+					"Comment [Grants the Sovereign title]",
 					"Get the leader title of [Sovereign [leaderName]] <before adopting [Expansion Complete]> <before adopting [Piety Complete]> <before adopting [Relations Complete]> <before adopting [Commerce Complete]> <before adopting [Rationalism Complete]> <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"]
             }
         ]
@@ -124,6 +125,7 @@
             {
                 "name": "Liberty Complete",
                 "uniques": ["Free Great Person",
+					"Comment [Grants the Consul title]",
 					"Get the leader title of [Consul [leaderName]] <before adopting [Expansion Complete]> <before adopting [Piety Complete]> <before adopting [Relations Complete]> <before adopting [Commerce Complete]> <before adopting [Rationalism Complete]> <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"]
             }
         ]
@@ -200,6 +202,7 @@
                 "name": "Expansion Complete",
                 "uniques": [
                  "[-25]% Culture cost of natural border growth [in all cities connected to capital]", "[-25]% Gold cost of acquiring tiles [in all cities connected to capital]",
+					"Comment [Grants the Commander title]",
 					"Get the leader title of [Commander [leaderName]] <before adopting [Relations Complete]> <before adopting [Commerce Complete]> <before adopting [Rationalism Complete]> <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"
                 ]
             }
@@ -264,6 +267,7 @@
                 "name": "Piety Complete",
                 "uniques": [
                     "Gain a free [Follower] belief", "[+3 Gold, +3 Culture, +1 Happiness] [in all cities] <within [3] tiles of a [Holy site]>",
+					"Comment [Grants the High priest title]",
 				"Get the leader title of [High priest [leaderName]] <before adopting [Relations Complete]> <before adopting [Commerce Complete]> <before adopting [Rationalism Complete]> <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"]
             }
         ]
@@ -343,6 +347,7 @@
                     "Comment [Promotes all spies 1 time(s)] <when espionage is enabled>", "Comment [New spies start with 1 level(s)] <when espionage is enabled>", "Promotes all spies [1] time(s) <when espionage is enabled> <hidden from users>", "New spies start with [1] level(s) <when espionage is enabled> <hidden from users>",
 			"Comment [Resting point for Influence with City-States is increased by 15] <when espionage is disabled>", "Comment [Reveal the locations of all nearby cities] <when espionage is disabled>", "Resting point for Influence with City-States is increased by [15] <when espionage is disabled> <hidden from users>",
 					"Reveal up to [All] [City center] within a [50] tile radius <when espionage is disabled> <hidden from users>", "Resting point for Influence with City-States is increased by [10] <when espionage is disabled> <hidden from users>",
+					"Comment [Grants the Chancellor title]",
 					"Get the leader title of [Chancellor [leaderName]] <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"
                 ]
             }
@@ -402,6 +407,7 @@
                 "uniques": [
                     "[+100]% Gold from Great Merchant trade missions",
                     "May buy [Great Merchant] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <starting from the [Industrial era]>",
+					"Comment [Grants the Tycoon title]",
 					"Get the leader title of [Tycoon [leaderName]] <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"
                 ]
             }
@@ -466,6 +472,7 @@
                 "uniques": [
                     "[1] Free Technologies",
                     "May buy [Great Scientist] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <starting from the [Industrial era]>",
+					"Comment [Grants the Enlightened ruler title]",
 					"Get the leader title of [Enlightened ruler [leaderName]] <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"
                 ]
             }
@@ -531,6 +538,7 @@
                 "uniques": [
                     "[+100]% Yield from every [Great Improvement] <during a Golden Age>", "Comment [Unlocks [Utopia Project]]",
                     "May buy [Great Artist] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <starting from the [Industrial era]>",
+					"Comment [Grants the President title]",
 					"Get the leader title of [President [leaderName]]"
                 ]
             }
@@ -601,6 +609,7 @@
                 "uniques": [
                     "Empire enters golden age <upon declaring war on [Major] Civilizations>",
                     "May buy [Great General] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <starting from the [Industrial era]>",
+					"Comment [Grants the Supreme leader title]",
 					"Get the leader title of [Supreme leader [leaderName]]"
                 ]
             }
@@ -671,6 +680,7 @@
                 "uniques": [
 		     "[+100]% Golden Age length", "Comment [Unlocks [United Nations]]",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <starting from the [Industrial era]>",
+					"Comment [Grants the General secretary title]",
 					"Get the leader title of [General secretary [leaderName]]"
                 ]
             }

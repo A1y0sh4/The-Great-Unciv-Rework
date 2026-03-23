@@ -1577,7 +1577,7 @@
 		"uniques": ["[Gold] cost of purchasing items in cities [-25]%",
 		"Only available <in cities with at least [10] [Population]>"],
 		"requiredTech": "Urban Planning",
-		"quote": "'The dirty truth is that the rich are the great cause of poverty.' - Michael Parenti"
+		"quote": "'The dirty truth is that the rich are the great cause of poverty. When large surpluses are accumulated by the few, then want and deprivation will be endured by the many who have created the surplus.' - Michael Parenti"
 	},
 	{
 		"name": "Military Academy",

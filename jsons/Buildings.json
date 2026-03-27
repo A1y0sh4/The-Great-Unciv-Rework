@@ -1683,7 +1683,7 @@
 		"culture": 3,
 		"requiredBuilding": "Factory",
 		"percentStatBonus": {"culture": 15},
-		"maintenance": 4,
+		"maintenance": 2,
 		"uniques": ["[+1 Culture, +1 Happiness] per [6] social policies adopted", "Destroyed when the city is captured",
 		"Only available <in cities with at least [13] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Radio"

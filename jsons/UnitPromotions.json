@@ -1009,7 +1009,7 @@
 	},
 	{
 		"name": "Rage",
-		"uniques": ["[+25]% Strength <when attacking>", "[-15]% Strength <when defending>", "Unit will heal every turn, even if it performs an action", "[-5] HP when healing", "[+5]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>", "[This Unit] heals [1] HP <upon turn end> <for [Gran Colombia] Civilizations> <hidden from users>"]
+		"uniques": ["[+25]% Strength <when attacking>", "[-15]% Strength <when defending>", "Unit will heal every turn, even if it performs an action", "[+5]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>", "[This Unit] heals [1] HP <upon turn end> <for [Gran Colombia] Civilizations> <hidden from users>"]
 	},
 ]
 

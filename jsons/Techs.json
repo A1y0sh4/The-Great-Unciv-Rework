@@ -217,7 +217,7 @@
 				"row": 8,
 				"prerequisites": ["Mathematics","Construction"],
 				"uniques": ["Roads connect tiles across rivers"],
-				"quote": "'Give me a place to stand and with a lever I will move the whole world.' - Archimedes"
+				"quote": "'One man's 'magic' is another man's engineering. 'Supernatural' is a null word.' - Robert Heinlein"
 			},
 			{
 				"name": "Iron Working",

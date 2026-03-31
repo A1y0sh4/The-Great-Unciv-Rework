@@ -1932,6 +1932,7 @@
 		"name": "CN Tower",
 		"isWonder": true,
 		"culture": 5,
+"gold": 5,
 		"requiredBuilding": "Factory",
 		"greatPersonPoints": {"Great Merchant": 1},
 		"uniques": ["[+2 Happiness, +2 Culture] from every [Broadcast Tower]", "Gain a free [Broadcast Tower] [in all cities]",
@@ -1963,7 +1964,7 @@
 	},
 	{
 		"name": "Spaceship Factory",
-		"production": 4,
+		"production": 2,
 		"requiredResource": "Aluminum",
 		"requiredBuilding": "Factory",
 		"maintenance": 5,

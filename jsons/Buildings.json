@@ -1736,7 +1736,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"uniques": ["Must be next to [Water]",
-			"Comment [+1 [Prodution] in all cities if they have at least one type of specialist, for all specialists]",
+			"Comment [+1 [Prodution] in all cities if they have at least one type of Specialist, for all types of Specialists]",
 			"Comment [-2% Food consumption by Specialists and +2% Great Person generation in all cities per number of active Specialists in that city",
 			"[+1 Production] <in cities with at least [1] [Scientist]> <hidden from users>", "[+1 Production] <in cities with at least [1] [Artist]> <hidden from users>", "[+1 Production] <in cities with at least [1] [Merchant]> <hidden from users>", "[+1 Production] <in cities with at least [1] [Engineer]> <hidden from users>",
 			"[-2]% Food consumption by [Specialists] <in cities with at least [1] [Scientist]> <hidden from users>", "[+2]% Great Person generation <in cities with at least [1] [Scientist]> <hidden from users>",

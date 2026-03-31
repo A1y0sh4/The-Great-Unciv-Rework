@@ -1481,6 +1481,7 @@
 		"culture": 3,
 		"happiness": 4,
 		"isWonder": true,
+"percentStatBonus": {"culture": 15},
 		"greatPersonPoints": {"Great Artist": 1},
 		"uniques": ["[1] free [Great Artist] units appear", "Gain a free [Museum] [in this city]",
 		"Only available <in cities with at least [10] [Population]>"],

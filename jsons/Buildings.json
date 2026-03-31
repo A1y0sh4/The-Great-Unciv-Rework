@@ -1736,6 +1736,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"uniques": ["Must be next to [Water]", "[+1 Production] from every specialist [in all cities]",
+			"[+10 Culture, +10 Science] <in cities with at least [4] [Specialists]>",
 		"Only available <in cities with at least [10] [Population]>"],
 		"requiredTech": "Scientific Theory",
 		"quote": "'The freedom of the free was the cause of the great oppression of the slaves…' - Domenico Losurdo",

@@ -1343,9 +1343,10 @@
 	{
 		"name": "Globe Theatre",
 		"culture": 3,
+"gold": 6,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
-		"uniques": ["Must be next to [Fresh water]", "Gain a free [Theatre] [in this city]", "[+2 Gold] from every [Theatre]",
+		"uniques": ["Must be next to [Fresh water]", "Gain a free [Theatre] [in this city]", "[+1 Culture] from every [Theatre]",
 		"Only available <in cities with at least [7] [Population]>"],
 		"requiredTech": "Printing Press",
 		"quote": "'All the world's a stage...' - William Shakespeare"
@@ -1573,7 +1574,7 @@
 		"percentStatBonus": {"gold": 10},
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
-		"uniques": ["[Gold] cost of purchasing items in cities [-25]%",
+		"uniques": ["[Gold] cost of purchasing items in cities [-25]%", "Must be next to [Fresh water]",
 		"Only available <in cities with at least [10] [Population]>"],
 		"requiredTech": "Urban Planning",
 		"quote": "'The dirty truth is that the rich are the great cause of poverty. When large surpluses are accumulated by the few, then want and deprivation will be endured by the many who have created the surplus.' - Michael Parenti"

@@ -1753,7 +1753,7 @@
 			"Nationalism": 7,
 			"Cosmopolitanism": 10
 		},
-		"uniques": ["Will not build [Shrine]", "Will not build [Temple]", "Will not build [The Pyramids]", "Will not build [Mausoleum of Halicarnassus]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]"]
+		"uniques": ["Will not build [Temple]", "Will not build [The Pyramids]", "Will not build [Mausoleum of Halicarnassus]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]", "Will not build [Empire State Building]", "Will not build [Stonehenge]"]
 	},
 	{
 		"name": "Lenin",
@@ -1783,7 +1783,7 @@
 			"Nationalism": 1,
 			"Cosmopolitanism": 10
 		},
-		"uniques": ["Will not build [Shrine]", "Will not build [Temple]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]"]
+		"uniques": ["Will not build [Temple]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]", "Will not build [Empire State Building]", "Will not build [Stonehenge]"]
 	}, 
 	{
     "name": "Jefferson Davis",

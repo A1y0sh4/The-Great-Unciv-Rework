@@ -245,7 +245,7 @@
 				"name": "Theology",
 				"row": 3,
 				"prerequisites": ["Philosophy", "Drama and Poetry","Imperial Games"],
-				"quote": "'The foundation of irreligious criticism is: Man makes religion, religion does not make man. Religion is, indeed, the self-consciousness and self-esteem of man who has either not yet won through to himself, or has already lost himself again.' - Karl Marx"
+				"quote": "'Religion is regarded by the common people as true, by the wise as false, and by rulers as useful.' - Seneca"
 			},
 			{
 				"name": "Civil Service",

@@ -1123,6 +1123,7 @@
 	{
 		"name": "Red Fort",
 		"culture": 2,
+"gold": 4,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"uniques": ["Gain a free [Castle] [in this city]", "Gain [100] [Gold] <upon constructing [Wonders] [in all cities]> <(modified by game speed)>", "Gain [100] [Culture] <upon gaining a [Great Person] unit> <(modified by game speed)>",

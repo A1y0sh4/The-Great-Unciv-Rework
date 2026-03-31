@@ -860,7 +860,6 @@
 	{
 		"name": "Colossus",
 		"culture": 2,
-		"gold": 3,
 		"greatPersonPoints": {"Great Merchant": 1},
 		"percentStatBonus": {"gold": 10},
 		"isWonder": true,

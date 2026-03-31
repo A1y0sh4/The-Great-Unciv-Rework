@@ -599,7 +599,7 @@
 				"name": "Electronics",
 				"row": 5,
 				"prerequisites": ["Replaceable Parts", "Flight", "Radio","Financial Capital"],
-				"uniques": ["[+2 Science, +1 Gold] from every [Strategic resource]", "[+400]% weight to this choice for AI decisions <hidden from users>"],
+				"uniques": ["[+2 Science, +1 Gold] from every [Strategic resource]"],
 				"quote": "'We had better be quite sure that the purpose put into the machine is the purpose which we really desire.' - Norbert Wiener"
 			},
 			{

@@ -152,7 +152,6 @@
 		"greatPersonPoints": {"Great Artist": 1},
 		"requiredNearbyImprovedResources": ["Bananas", "Citrus", "Cocoa", "Coffee", "Cotton", "Grape", "Incense", "Maize", "Olive", "Poppy", "Rice", "Silk", "Sugar", "Tea", "Tobacco", "Wheat"],
 		"culture": 1,
-		"food": 1,
 		"isWonder": true,
 		"requiredTech": "Calendar",
 		"uniques": ["Must be on [Fresh Water]", "[+1 Food] from [Farm] tiles [in this city] <in [Fresh Water] tiles>", "[+1 Food] from [Plantation] tiles [in this city] <in [Fresh Water] tiles>", "[+15]% growth [in this city]",

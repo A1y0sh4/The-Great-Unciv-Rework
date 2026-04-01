@@ -352,7 +352,7 @@
 				"name": "Banking", 
 				"row": 6,
 				"prerequisites": ["Chivalry", "Machinery","Distillation"],
-				"quote": "'A bank is a place that will lend you money if you can prove you don't need it.' - Bob Hope"
+				"quote": "'It is well enough that people of the nation do not understand our banking and monetary system, for if they did, I believe there would be a revolution before tomorrow morning.' - Henry Ford"
 			},
 			{
 				"name": "Printing Press",

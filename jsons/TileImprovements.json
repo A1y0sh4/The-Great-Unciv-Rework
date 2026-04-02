@@ -1,12 +1,13 @@
 [
 	{
 		"name": "Canal",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra", "Snow"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra", "Snow", "Forest", "Rainforest"],
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
 			//"Cannot be built on [Hill] tiles", "Cannot be built on [Resource] tiles",
 			"Can only be built on [Coastal] tiles",
-			"Cannot be built on [Land] tiles <with [2] to [6] neighboring [Canal] tiles>"]
+			"Cannot be built on [Land] tiles <with [2] to [6] neighboring [Canal] tiles>"
+		]
 	},
 	{
 		"name": "Farm",

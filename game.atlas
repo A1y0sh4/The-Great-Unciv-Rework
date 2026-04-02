@@ -255,6 +255,13 @@ PolicyBranchIcons/Nationalism
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Start Revolution
+  rotate: false
+  xy: 1220, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 PolicyIcons/Machiavellianism
   rotate: false
   xy: 1220, 520
@@ -2107,13 +2114,6 @@ BuildingIcons/Clan House
 UnitIcons/Canoe Archer
   rotate: false
   xy: 112, 256
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Start Revolution
-  rotate: false
-  xy: 1220, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

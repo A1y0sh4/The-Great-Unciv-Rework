@@ -15,7 +15,7 @@
     {
         "name": "Gunpowder",
         "movementType": "Land",
-        "uniques": ["Transfer Movement to [Great General]",
+        "uniques": ["Transfer Movement to [Great General]", "May travel on Water tiles without embarking <in [Coast] tiles>",
 			"Unit will heal every turn, even if it performs an action <in [Fort] tiles> <hidden from users>", "Unit will heal every turn, even if it performs an action <in [Citadel] tiles> <hidden from users>",
         "[-10]% Strength <when fighting in [Desert] tiles>",
 	"[-10]% Strength <when fighting in [Tundra] tiles>",

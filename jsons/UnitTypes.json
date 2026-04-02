@@ -87,7 +87,7 @@
     {
         "name": "Melee Water",
         "movementType": "Water",
-        "uniques": ["Can pass through impassable tiles <in [Canal] tiles>", "Transfer Movement to [Great General]", "Transfer Movement to [Great Admiral]", "[This Unit] gains [15] XP <upon expending a [Great Admiral] unit>"]
+        "uniques": ["Can pass through impassable tiles", "Transfer Movement to [Great General]", "Transfer Movement to [Great Admiral]", "[This Unit] gains [15] XP <upon expending a [Great Admiral] unit>"]
     },
     {
         "name": "Ranged Water",

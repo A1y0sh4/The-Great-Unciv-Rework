@@ -1,4 +1,5 @@
 [
+	/*
 	{
 		"name": "Canal",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra", "Snow", "Forest", "Rainforest"],
@@ -9,6 +10,7 @@
 			"Cannot be built on [Land] tiles <with [2] to [6] neighboring [Canal] tiles>"
 		]
 	},
+	*/
 	{
 		"name": "Farm",
 		"type": "Improvement",

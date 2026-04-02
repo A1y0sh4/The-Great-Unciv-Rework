@@ -15,6 +15,14 @@
 		"uniques": ["Indicates the capital city", "Comment [+15% [Production] and [Gold] in this city during We Love The King Day]", "Remove [Start Revolution] [in all cities] <hidden from users>", "Remove [Relocate Capital] [in all cities] <hidden from users>", "[+15]% [Production] [in this city] <during We Love The King Day> <hidden from users>", "[+15]% [Gold] [in this city] <during We Love The King Day> <hidden from users>", "Destroyed when the city is captured", "[Settler] units gain the [Single City] promotion <for [City-States] Civilizations> <hidden from users>", "Comment [+1 [Food], +1 [Gold] in this city for every two cities connected to Capital]"]
 	},
 	{
+		"name": "Build Canal",
+		"cost": 10,
+		"hurryCostModifier": 50,
+		"uniques": [
+			"Creates a [Canal] improvement on a specific tile", "Unbuildable <hidden from users>"
+		]
+	}
+	{
 		"name": "Start Revolution",
 		"cost": 0,
 		"hurryCostModifier": 15,

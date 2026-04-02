@@ -2464,7 +2464,7 @@
 	"innerColor": [54, 39, 119],
 
 	"uniqueName": "The Tamoyo Confederation",
-	"uniqueText": "+5% [Production] when constructing Military units per number of owned cities, when at war\nMilitary units gain +100% XP when fighting in Friendly Land tiles\nGain +1% [Food] in all cities when not at war for every owned [Maloca]", 
+	"uniqueText": "+5% [Production] when constructing Military units per number of owned cities, when at war\nMilitary units gain +100% XP when fighting in Friendly Land tiles\nGain +1% [Food] in all cities for every owned [Maloca] when not at war", 
 	"uniques": ["[+5]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [1]> <when at war>",
 		"[+1]% [Food] [in all cities] <for every [Owned [Maloca] Tiles]>",
 		"[+10]% Production when constructing [Military] units [in all cities] <when number of [Cities] is equal to [2]> <when at war>",

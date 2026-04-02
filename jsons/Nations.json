@@ -2253,13 +2253,13 @@
 		"innerColor": [77,2,4],
 		
 		"uniqueName": "Scourge of God",
-		"uniques": ["[+50]% Yield from pillaging tiles", "[+50]% Health from pillaging tiles", "[+15]% Strength <vs [Barbarian] units>"],
+		"uniques": ["[+15]% Strength <vs [Barbarian] units>", "When conquering an encampment, earn [10] Gold and recruit a Barbarian unit <with [50]% chance>", "[+50]% Yield from pillaging tiles", "[+50]% Health from pillaging tiles"],
 		"cities": ["Etzelburg", "Szeged", "Esztergom", "Buda", "Pécs", "Eger", "Székesfehérvár", "Győr", "Kőszeg", "Diósgyőr", "Mohács", "Tata", "Kecskemét", "Szombathely", "Sárvár", "Sopron", "Hódmezővásárhely", "Sümeg"],
 		"spyNames": ["Balamber", "Uldin", "Donatus", "Charato", "Octar", "Bleda", "Ellac", "Dengizik", "Hildico", "Gudrun"]
 	},
 	{
 		"name": "The Lokono",
-		"leaderName": "Hiaro", //'Hiaro' just means 'Woman' in the Arawak language
+		"leaderName": "Hiaro", //'Hiaro' just means 'Woman' in the Arawak language (they were a matriarcal society, so their leader is a woman)
 		"adjective": ["Arawak"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Cultural",

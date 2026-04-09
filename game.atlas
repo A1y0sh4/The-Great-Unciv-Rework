@@ -446,7 +446,7 @@ ImprovementIcons/Marae
   index: -1
 TechIcons/Advanced AI
   rotate: false
-  xy: 1702, 283
+  xy: 1702, 285
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

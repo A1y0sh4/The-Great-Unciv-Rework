@@ -827,6 +827,7 @@
 				"name": "Advanced AI",
 				"row": 3,
 				"prerequisites": ["Particle Physics","Nanotechnology", "Stealth", "Globalization"],
+				"uniques": ["[-15]% maintenance cost for [all] buildings [in all cities]"],
 				"quote": "'By far the greatest danger of Artificial Intelligence is that people conclude too early that they understand it.' - Eliezer Yudkowsky"
 			},
 		]

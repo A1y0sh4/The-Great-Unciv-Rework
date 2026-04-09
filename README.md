@@ -44,7 +44,7 @@ This mod counts as a rulesets. This means that It completly replaces the vanilla
 
  - Enemy spies act with a malus in garrisoned cities (-25%)
 
- - World Wonders are 5% slower to build for every other World Wonder owned (lowered to 2% slower per World Wonder for the Utopia Project and the United Nations)
+ - World Wonders are 5% slower to build for every other World Wonder owned (lowered to 2% slower per World Wonder for the Utopia Project and the Comintern)
  
 # Main War-related changes
   

@@ -842,7 +842,8 @@
 				"name": "Future Tech",
 				"row": 5,
 				"prerequisites": ["Nuclear Fusion", "Advanced AI"],
-				"uniques": ["Can be continually researched", "Instantly provides [1] [Future discovery] <hidden from users>", "Comment [Gain a cumulative +3% to all city Stats]", "Instantly provides [10] [Pollution]"],
+				"uniques": ["Can be continually researched", "Instantly provides [1] [Future discovery] <hidden from users>", "Comment [Gain a cumulative +5% to all city Stats]",
+					"Instantly provides [10] [Pollution]"],
 				"quote": "'Any sufficiently advanced technology is indistinguishable from magic.' - Arthur C. Clarke",
                 "civilopediaText": [{"text": "Who knows what the future holds?"}]
 			}

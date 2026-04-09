@@ -8,6 +8,8 @@
 			    "[+5]% [Culture] [in all cities] <for every [Future discovery]>",
 			    "[+5]% [Faith] [in all cities] <for every [Future discovery]>",
 		"[+5]% [Happiness] [in all cities] <for every [Future discovery]>",
+		"[+5] HP when healing <in [Fort] tiles> <for [All] units>",
+		"[+10] HP when healing <in [Citadel] tiles> <for [All] units>",
 		"Science gained from research agreements [+144]% <during the [Renaissance era]>",
 		"Science gained from research agreements [+100]% <during the [Industrial era]>",
 		"Science gained from research agreements [+64]% <during the [Modern era]>",

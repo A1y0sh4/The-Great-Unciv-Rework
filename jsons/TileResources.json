@@ -245,7 +245,9 @@
 	{
         "name": "Future discovery",
         "resourceType": "Strategic",
-        "uniques": ["Cannot be traded", "Not shown on world screen", "Will not be displayed in Civilopedia"]
+        "uniques": ["Cannot be traded",
+			//"Not shown on world screen",
+			"Will not be displayed in Civilopedia"]
         },
 	
 	// Luxury resources

@@ -2,11 +2,16 @@
     {
         "name": "Civilian",
         "movementType": "Land",
+		"uniques": ["All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>",
+			"Unit will heal every turn, even if it performs an action <in [Fort] tiles> <hidden from users>", "Unit will heal every turn, even if it performs an action <in [Citadel] tiles> <hidden from users>",
+            "[-10]% Strength <when fighting in [Desert] tiles>",
+	"[-10]% Strength <when fighting in [Tundra] tiles>",
+	"[-10]% Strength <when fighting in [Snow] tiles>"]
     },
     {
         "name": "Sword",
         "movementType": "Land",
-        "uniques": ["Transfer Movement to [Great General]",
+        "uniques": ["Transfer Movement to [Great General]", "All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>",
 			"Unit will heal every turn, even if it performs an action <in [Fort] tiles> <hidden from users>", "Unit will heal every turn, even if it performs an action <in [Citadel] tiles> <hidden from users>",
             "[-10]% Strength <when fighting in [Desert] tiles>",
 	"[-10]% Strength <when fighting in [Tundra] tiles>",
@@ -15,7 +20,7 @@
     {
         "name": "Gunpowder",
         "movementType": "Land",
-        "uniques": ["Transfer Movement to [Great General]",
+        "uniques": ["Transfer Movement to [Great General]", "All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>",
 			"Unit will heal every turn, even if it performs an action <in [Fort] tiles> <hidden from users>", "Unit will heal every turn, even if it performs an action <in [Citadel] tiles> <hidden from users>",
         "[-10]% Strength <when fighting in [Desert] tiles>",
 	"[-10]% Strength <when fighting in [Tundra] tiles>",
@@ -24,7 +29,7 @@
     {
         "name": "Archery",
         "movementType": "Land",
-        "uniques": ["Transfer Movement to [Great General]",
+        "uniques": ["Transfer Movement to [Great General]", "All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>",
 			"Unit will heal every turn, even if it performs an action <in [Fort] tiles> <hidden from users>", "Unit will heal every turn, even if it performs an action <in [Citadel] tiles> <hidden from users>",
         "[-10]% Strength <when fighting in [Desert] tiles> <when defending>",
 	"[-10]% Strength <when fighting in [Tundra] tiles> <when defending>",
@@ -35,7 +40,7 @@
     {
         "name": "Ranged Gunpowder",
         "movementType": "Land",
-        "uniques": ["Transfer Movement to [Great General]",
+        "uniques": ["Transfer Movement to [Great General]", "All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>",
 			"Unit will heal every turn, even if it performs an action <in [Fort] tiles> <hidden from users>", "Unit will heal every turn, even if it performs an action <in [Citadel] tiles> <hidden from users>",
         "[-10]% Strength <when fighting in [Desert] tiles> <when defending>",
 	"[-10]% Strength <when fighting in [Tundra] tiles> <when defending>",
@@ -46,7 +51,7 @@
     {
         "name": "Scout",
         "movementType": "Land",
-        "uniques": ["Transfer Movement to [Great General]", "Can see invisible [Land] units",
+        "uniques": ["Transfer Movement to [Great General]", "Can see invisible [Land] units", "All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>",
 			"Unit will heal every turn, even if it performs an action <in [Fort] tiles> <hidden from users>", "Unit will heal every turn, even if it performs an action <in [Citadel] tiles> <hidden from users>",
         "[-10]% Strength <when fighting in [Desert] tiles>",
 	"[-10]% Strength <when fighting in [Tundra] tiles>",
@@ -55,7 +60,7 @@
     {
         "name": "Mounted",
         "movementType": "Land",
-        "uniques": ["Transfer Movement to [Great General]", "Ignores Zone of Control",
+        "uniques": ["Transfer Movement to [Great General]", "Ignores Zone of Control", "All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>",
 			"Unit will heal every turn, even if it performs an action <in [Fort] tiles> <hidden from users>", "Unit will heal every turn, even if it performs an action <in [Citadel] tiles> <hidden from users>",
         "[-10]% Strength <when fighting in [Desert] tiles>",
 	"[-10]% Strength <when fighting in [Tundra] tiles>",
@@ -64,7 +69,7 @@
     {
         "name": "Armored",
         "movementType": "Land",
-        "uniques": ["Transfer Movement to [Great General]", "Ignores Zone of Control",
+        "uniques": ["Transfer Movement to [Great General]", "Ignores Zone of Control", "All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>",
 			"Unit will heal every turn, even if it performs an action <in [Fort] tiles> <hidden from users>", "Unit will heal every turn, even if it performs an action <in [Citadel] tiles> <hidden from users>",
         "[-10]% Strength <when fighting in [Desert] tiles>",
 	"[-10]% Strength <when fighting in [Tundra] tiles>",
@@ -73,7 +78,7 @@
     {
         "name": "Siege",
         "movementType": "Land",
-        "uniques": ["Transfer Movement to [Great General]",
+        "uniques": ["Transfer Movement to [Great General]", "All tiles cost 1 movement <if [Palace] is not constructed> <hidden from users>",
 			"Unit will heal every turn, even if it performs an action <in [Fort] tiles> <hidden from users>", "Unit will heal every turn, even if it performs an action <in [Citadel] tiles> <hidden from users>",
         "[-10]% Strength <when fighting in [Desert] tiles> <when defending>",
 	"[-10]% Strength <when fighting in [Tundra] tiles> <when defending>",

@@ -2146,7 +2146,7 @@
 		"culture": 5,
 		"requiredTech": "Atomic Theory",
 		"requiredBuilding": "Factory",
-		"greatPersonPoints": {"Great Artist": 1},
+		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
 		"uniques": ["Triggers a global alert upon build start",
 			"Triggers a Cultural Victory upon completion", "Only available <when [Cultural] Victory is enabled>", "Comment [Construction speed depends on [Happiness] (it's faster the happier the empire is)]", "Comment [Only avaible after finishing the Individualism tree and after building all National Wonders]", "Only available <after adopting [Individualism Complete]> <hidden from users>",
@@ -2164,13 +2164,13 @@
 		"quote": "'The modern class-conscious worker, reared by large-scale factory industry and enlightened by urban life, contemptuously casts aside religious prejudices, leaves heaven to the priests and bourgeois bigots, and tries to win a better life for himself here on earth.' - Vladimir Lenin"
 	},
         {
-		"name": "United Nations",
+		"name": "Comintern",
 		"isWonder": true,
 		"cost": 3709,
 		"culture": 5,
 			"requiredBuilding": "Factory",
 			"requiredTech": "Cultural Hegemony",
-		"greatPersonPoints": {"Great Merchant": 1},
+		"greatPersonPoints": {"Great Engineer": 1},
 		"uniques": ["Resting point for Influence with City-States is increased by [30]", "Triggers voting for the Diplomatic Victory", "Only available <when [Diplomatic] Victory is enabled>", "Triggers a global alert upon build start", "Triggers a global alert upon completion", "Comment [Only avaible after finishing the Internationalism tree]", "Only available <after adopting [Internationalism Complete]> <hidden from users>", "Cannot be hurried",
 		"Only available <in cities with at least [15] [Population]>", "Shown while unbuilable"],
 		"quote": "'We want to achieve a new and better order of society: in this new and better society there must be neither rich nor poor; all will have to work. Not a handful of rich people, but all the working people must enjoy the fruits of their common labour... This new and better society is called socialist society.' - Vladimir Lenin"

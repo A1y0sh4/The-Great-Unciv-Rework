@@ -2100,6 +2100,7 @@
 			    "[+25]% [Science] [in all cities]",
 			    "[+25]% [Culture] [in all cities]",
 			    "[+25]% [Faith] [in all cities]",
+			"[+25]% [Happiness] [in all cities]",
 		"Only available <in cities with at least [26] [Population]>", "Shown while unbuilable"],
 		"quote": "'The development of full artificial intelligence could spell the end of the human race.' - Stephen Hawking"
 	},

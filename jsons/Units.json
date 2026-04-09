@@ -13,9 +13,9 @@
 		"name": "Settler",
 		"unitType": "Civilian",
 		"movement": 2,
-		"cost": 35,
+		"cost": 26,
 		"uniques": ["Founds a new city <by consuming this unit> <if [Palace] is not constructed>", "Founds a new city <by consuming this unit> <within [4] tiles of a [{your} {City center}]> <if [Palace] is constructed>", "Founds a new puppet city <by consuming this unit> <on foreign continents> <if [Palace] is constructed>", "Excess Food converted to Production when under construction",
-			"Requires at least [3] population", "Cost increases by [18] when built"],
+			"Requires at least [3] population", "Cost increases by [26] when built"],
 		"hurryCostModifier": 15
 	},
 	{

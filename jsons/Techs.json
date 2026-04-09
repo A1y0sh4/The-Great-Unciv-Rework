@@ -821,6 +821,7 @@
 				"name": "Nuclear Fusion",
 				"row": 7,
 				"prerequisites": ["Particle Physics","Nanotechnology", "Stealth", "Globalization"],
+				"uniques": ["[+25]% spy effectiveness [in all cities]"],
 				"quote": "'I would like nuclear fusion to become a practical power source. It would provide an inexhaustible supply of energy, without pollution or global warming.' - Stephen Hawking"
 			},
 			{

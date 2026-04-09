@@ -845,7 +845,7 @@
 		"hurryCostModifier": 0,
 		"requiredBuilding": "Granary",
 		"uniques": ["[+1 Food] from [Lake] tiles [in this city]", "[+1 Food] from [Oasis] tiles [in this city]", "[+1 Food] from [Mountain] tiles [in this city]", "[+1 Food, +1 Production] <in tiles without [River]> <hidden from users>", "Comment [Provides an additional +1 [Food] and +1 [Production] to cities without Rivers]",
-		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
+		"Shown while unbuilable"],
 		"requiredTech": "Engineering",
 	},
 	{
@@ -854,7 +854,7 @@
 		"uniqueTo": "Buganda",
 		"food": 2,
 		"uniques": ["[+1 Food, +1 Culture] from [Lake] tiles [in this city]", "[+1 Food, +1 Culture] from [Oasis] tiles [in this city]", "[+1 Food] from [Mountain] tiles [in this city]", "[+1 Food, +1 Production] <in tiles without [River]> <hidden from users>", "Comment [Provides an additional +1 [Food] and +1 [Production] to cities without Rivers]",
-		"Only available <in cities with at least [3] [Population]>", "Shown while unbuilable"],
+		"Shown while unbuilable"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Engineering"
 	},

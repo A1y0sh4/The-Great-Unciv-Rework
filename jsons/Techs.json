@@ -686,7 +686,7 @@
 				"name": "Advanced Urbanism",
 				"row": 2,
 				"prerequisites": ["Pharmaceuticals","Ecology"],
-				"uniques": ["[+3 Science, +1 Culture] from every [Wonder]", "[Gold] cost of purchasing [All] buildings [-15]%"],
+				"uniques": ["[+4 Science, +1 Culture] from every [Wonder]", "[Gold] cost of purchasing [All] buildings [-15]%"],
 				"quote": "'The mark of a great city isn’t how it treats its special places – everybody does that right – but how it treats its ordinary ones.' - Aaron M. Renn"
 			},
 			{

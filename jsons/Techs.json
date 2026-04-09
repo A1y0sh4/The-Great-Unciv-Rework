@@ -842,8 +842,14 @@
 				"name": "Future Tech",
 				"row": 5,
 				"prerequisites": ["Nuclear Fusion", "Advanced AI"],
-				"uniques": ["Can be continually researched", "Instantly provides [1] [Future discovery] <hidden from users>", "Comment [Gain a cumulative +5% to all city Stats]",
-					"Instantly provides [10] [Pollution]"],
+				"uniques": ["Can be continually researched", "Instantly provides [1] [Future discovery] <hidden from users>", "Comment [Gain a cumulative +5% to all city Stats]", "Comment [Gain instantly +20 [Pollution] (modified by game speed)]",
+					"Instantly provides [5] [Pollution] <on [Turbo] game speed> <hidden from users>",
+				"Instantly provides [10] [Pollution] <on [Online] game speed> <hidden from users>",
+				"Instantly provides [15] [Pollution] <on [Quick] game speed> <hidden from users>",
+				"Instantly provides [20] [Pollution] <on [Standard] game speed> <hidden from users>",
+				"Instantly provides [30] [Pollution] <on [Epic] game speed> <hidden from users>",
+				"Instantly provides [40] [Pollution] <on [Marathon] game speed> <hidden from users>",
+				"Instantly provides [50] [Pollution] <on [Endless] game speed> <hidden from users>",],
 				"quote": "'Any sufficiently advanced technology is indistinguishable from magic.' - Arthur C. Clarke",
                 "civilopediaText": [{"text": "Who knows what the future holds?"}]
 			}

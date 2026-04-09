@@ -1858,7 +1858,7 @@
 	},
 	{
 		"name": "Solar Plant",
-		"production": 3,
+		"production": 2,
 		"percentStatBonus": {"production": 10},
 		"requiredBuilding": "Factory",
 		"maintenance": 4,
@@ -1868,7 +1868,7 @@
 	},
 	{
 		"name": "Wind Plant",
-		"production": 3,
+		"production": 2,
 		"percentStatBonus": {"production": 10},
 		"requiredBuilding": "Factory",
 		"maintenance": 4,
@@ -1878,7 +1878,7 @@
 	},
 	{
 		"name": "Biomass Plant",
-		"production": 3,
+		"production": 2,
 		"percentStatBonus": {"production": 10},
 		"requiredBuilding": "Factory",
 		"maintenance": 4,

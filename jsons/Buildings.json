@@ -2014,7 +2014,7 @@
 		"requiredBuilding": "Factory",
 		"greatPersonPoints": {"Great Scientist": 1},
 		"uniques": ["Must be next to [Water]", "Gain a free [Observatory] [in this city]", "[+12 Science] from every [Observatory]", "Science gained from research agreements [+50]%",
-		"Only available <in cities with at least [17] [Population]>", "Shown while unbuilable"],
+		"Only available <in cities with at least [17] [Population]>"],
 		"requiredTech": "Information Theory",
 		"quote": "'The wonder is, not that the field of stars is so vast, but that man has measured it.' - Anatole France"
 	},

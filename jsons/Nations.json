@@ -3233,8 +3233,8 @@
 		"cities": ["Kilwa"]
 	},
 	{
-		"name": "Tyre",
-		"adjective": ["Tyrian"],
+		"name": "Dhaka",
+		"adjective": ["Bengali"],
 		"cityStateType": "Mercantile",
 		"startBias": ["Coast"],
 
@@ -3243,7 +3243,7 @@
 		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,97,255],
-		"cities": ["Tyre"]
+		"cities": ["Dhaka"]
 	},
         {
 		"name": "Sidon",

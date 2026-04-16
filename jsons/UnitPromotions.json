@@ -60,7 +60,7 @@
 	{
 		"name": "Volley",
 		"prerequisites": ["Accuracy I","Barrage I","Targeting I","Bombardment I"],
-		"uniques": ["[+50]% Strength <vs cities>", "[+5]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>", "[This Unit] heals [1] HP <upon turn end> <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["[+50]% Strength <vs cities> <when attacking>", "[+5]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>", "[This Unit] heals [1] HP <upon turn end> <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Archery","Ranged Gunpowder","Siege","Ranged Water"],
         "column": 3,
         "row": 1
@@ -141,7 +141,7 @@
 	{
 		"name": "Besiege",
 		"prerequisites": ["Shock II","Drill II","Boarding Party I","Coastal Raider I"],
-		"uniques": ["[+50]% Strength <vs cities>", "[+5]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>", "[This Unit] heals [1] HP <upon turn end> <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"uniques": ["[+50]% Strength <vs cities> <when attacking>", "[+5]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>", "[This Unit] heals [1] HP <upon turn end> <for [Gran Colombia] Civilizations> <hidden from users>"],
 		"unitTypes": ["Sword","Gunpowder","Melee Water"],
         "column": 6,
         "row": 3

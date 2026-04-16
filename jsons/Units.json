@@ -2234,6 +2234,7 @@
 			"Comment [Military Water units gain 15 XP by consuming this unit]",
             "May Paradrop to [{your} {Coastal} {City center}] tiles up to [16] tiles away <in [City center] tiles>",
             "[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
+			"[+15]% Strength bonus for [{Military} {Water}] units within [3] tiles <for [China] Civilizations> <hidden from users>",
 			"Can be earned through combat <for [Water] units>",
             "Is part of Great Person group [Admiral]",
             "[This Unit] gets a name from the [Admiral] group",

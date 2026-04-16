@@ -7,6 +7,7 @@
 			    "[+5]% [Science] [in all cities] <for every [Future discovery]>",
 			    "[+5]% [Culture] [in all cities] <for every [Future discovery]>",
 			    "[+5]% [Faith] [in all cities] <for every [Future discovery]>",
+		"[-10]% Gold cost of upgrading <for [Military] units>",
 		"[+5]% [Happiness] [in all cities] <for every [Future discovery]>",
 		"[+5] HP when healing <in [Fort] tiles> <for [All] units>",
 		"[+10] HP when healing <in [Citadel] tiles> <for [All] units>",

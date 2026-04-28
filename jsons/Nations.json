@@ -3324,8 +3324,8 @@
 		"cities": ["Hong Kong"]
 	},
 	{
-		"name": "Malacca",
-		"adjective": ["Malacca"],
+		"name": "Paramaribo",
+		"adjective": ["Surinamese"],
 		"cityStateType": "Mercantile",
 		"startBias": ["Coast"],
 
@@ -3334,7 +3334,7 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [81, 140, 3],
-		"cities": ["Malacca"]
+		"cities": ["Paramaribo"]
 	},
 	{
 		"name": "Samarkand",

@@ -15,7 +15,9 @@
 			"Unit will heal every turn, even if it performs an action <in [Fort] tiles> <hidden from users>", "Unit will heal every turn, even if it performs an action <in [Citadel] tiles> <hidden from users>",
             "[-10]% Strength <when fighting in [Desert] tiles>",
 	"[-10]% Strength <when fighting in [Tundra] tiles>",
-	"[-10]% Strength <when fighting in [Snow] tiles>"]
+	"[-10]% Strength <when fighting in [Snow] tiles>",
+		"Instantly provides [1] [Interest] <upon entering a [Ancient ruins] tile>",
+		"Instantly provides [1] [Interest] <upon entering a [Barbarian encampment] tile>",]
     },
     {
         "name": "Gunpowder",
@@ -24,7 +26,9 @@
 			"Unit will heal every turn, even if it performs an action <in [Fort] tiles> <hidden from users>", "Unit will heal every turn, even if it performs an action <in [Citadel] tiles> <hidden from users>",
         "[-10]% Strength <when fighting in [Desert] tiles>",
 	"[-10]% Strength <when fighting in [Tundra] tiles>",
-	"[-10]% Strength <when fighting in [Snow] tiles>"]
+	"[-10]% Strength <when fighting in [Snow] tiles>",
+		"Instantly provides [1] [Interest] <upon entering a [Ancient ruins] tile>",
+		"Instantly provides [1] [Interest] <upon entering a [Barbarian encampment] tile>",]
     },
     {
         "name": "Archery",
@@ -35,7 +39,9 @@
 	"[-10]% Strength <when fighting in [Tundra] tiles> <when defending>",
 	"[-10]% Strength <when fighting in [Snow] tiles> <when defending>",
 	"[-25]% Strength <vs cities> <when attacking>",
-	"[-20]% Strength <vs [Melee] units> <when defending>"]
+	"[-20]% Strength <vs [Melee] units> <when defending>",
+		"Instantly provides [1] [Interest] <upon entering a [Ancient ruins] tile>",
+		"Instantly provides [1] [Interest] <upon entering a [Barbarian encampment] tile>",]
     },
     {
         "name": "Ranged Gunpowder",
@@ -46,7 +52,9 @@
 	"[-10]% Strength <when fighting in [Tundra] tiles> <when defending>",
 	"[-10]% Strength <when fighting in [Snow] tiles> <when defending>",
 	"[-25]% Strength <vs cities> <when attacking>",
-	"[-20]% Strength <vs [Melee] units> <when defending>"]
+	"[-20]% Strength <vs [Melee] units> <when defending>",
+		"Instantly provides [1] [Interest] <upon entering a [Ancient ruins] tile>",
+		"Instantly provides [1] [Interest] <upon entering a [Barbarian encampment] tile>",]
     },
     {
         "name": "Scout",
@@ -55,7 +63,9 @@
 			"Unit will heal every turn, even if it performs an action <in [Fort] tiles> <hidden from users>", "Unit will heal every turn, even if it performs an action <in [Citadel] tiles> <hidden from users>",
         "[-10]% Strength <when fighting in [Desert] tiles>",
 	"[-10]% Strength <when fighting in [Tundra] tiles>",
-	"[-10]% Strength <when fighting in [Snow] tiles>"]
+	"[-10]% Strength <when fighting in [Snow] tiles>",
+		"Instantly provides [1] [Interest] <upon entering a [Ancient ruins] tile>",
+		"Instantly provides [1] [Interest] <upon entering a [Barbarian encampment] tile>",]
     },
     {
         "name": "Mounted",
@@ -64,7 +74,9 @@
 			"Unit will heal every turn, even if it performs an action <in [Fort] tiles> <hidden from users>", "Unit will heal every turn, even if it performs an action <in [Citadel] tiles> <hidden from users>",
         "[-10]% Strength <when fighting in [Desert] tiles>",
 	"[-10]% Strength <when fighting in [Tundra] tiles>",
-	"[-10]% Strength <when fighting in [Snow] tiles>"]
+	"[-10]% Strength <when fighting in [Snow] tiles>",
+		"Instantly provides [1] [Interest] <upon entering a [Ancient ruins] tile>",
+		"Instantly provides [1] [Interest] <upon entering a [Barbarian encampment] tile>",]
     },
     {
         "name": "Armored",
@@ -73,7 +85,9 @@
 			"Unit will heal every turn, even if it performs an action <in [Fort] tiles> <hidden from users>", "Unit will heal every turn, even if it performs an action <in [Citadel] tiles> <hidden from users>",
         "[-10]% Strength <when fighting in [Desert] tiles>",
 	"[-10]% Strength <when fighting in [Tundra] tiles>",
-	"[-10]% Strength <when fighting in [Snow] tiles>",]
+	"[-10]% Strength <when fighting in [Snow] tiles>",
+		"Instantly provides [1] [Interest] <upon entering a [Ancient ruins] tile>",
+		"Instantly provides [1] [Interest] <upon entering a [Barbarian encampment] tile>",]
     },
     {
         "name": "Siege",
@@ -83,7 +97,9 @@
         "[-10]% Strength <when fighting in [Desert] tiles> <when defending>",
 	"[-10]% Strength <when fighting in [Tundra] tiles> <when defending>",
 	"[-10]% Strength <when fighting in [Snow] tiles> <when defending>",
-	"[-20]% Strength <vs [Melee] units> <when defending>"]
+	"[-20]% Strength <vs [Melee] units> <when defending>",
+		"Instantly provides [1] [Interest] <upon entering a [Ancient ruins] tile>",
+		"Instantly provides [1] [Interest] <upon entering a [Barbarian encampment] tile>",]
     },
     {
         "name": "Civilian Water",
@@ -139,7 +155,9 @@
 			"Unit will heal every turn, even if it performs an action <in [Fort] tiles> <hidden from users>", "Unit will heal every turn, even if it performs an action <in [Citadel] tiles> <hidden from users>",
         "[-10]% Strength <when fighting in [Desert] tiles>",
 	"[-10]% Strength <when fighting in [Tundra] tiles>",
-	"[-10]% Strength <when fighting in [Snow] tiles>"]
+	"[-10]% Strength <when fighting in [Snow] tiles>",
+		"Instantly provides [1] [Interest] <upon entering a [Ancient ruins] tile>",
+		"Instantly provides [1] [Interest] <upon entering a [Barbarian encampment] tile>",]
     },
     {
         "name": "Mech",
@@ -148,7 +166,9 @@
 			"Unit will heal every turn, even if it performs an action <in [Fort] tiles> <hidden from users>", "Unit will heal every turn, even if it performs an action <in [Citadel] tiles> <hidden from users>",
         "[-10]% Strength <when fighting in [Desert] tiles>",
 	"[-10]% Strength <when fighting in [Tundra] tiles>",
-	"[-10]% Strength <when fighting in [Snow] tiles>", "[-3] Movement <in [Water] tiles>"]
+	"[-10]% Strength <when fighting in [Snow] tiles>", "[-3] Movement <in [Water] tiles>",
+		"Instantly provides [1] [Interest] <upon entering a [Ancient ruins] tile>",
+		"Instantly provides [1] [Interest] <upon entering a [Barbarian encampment] tile>",]
     },
 
     // Deprecated unit types required for mods without a UnitTypes.json file to work

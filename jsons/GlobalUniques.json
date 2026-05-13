@@ -1,8 +1,6 @@
 {
     "name": "Global uniques", 
     "uniques": [
-		"Instantly provides [1] [Interest] <upon entering a [Ancient ruins] tile>",
-		"Instantly provides [1] [Interest] <upon entering a [Barbarian encampment] tile>",
 		"[+5]% [Food] [in all cities] <for every [Future discovery]>",
 			    "[+5]% [Production] [in all cities] <for every [Future discovery]>",
 			    "[+5]% [Gold] [in all cities] <for every [Future discovery]>",

@@ -178,7 +178,7 @@
 		"tradeRequest": "Here's a fair offer.",
 		"favoredReligion": "Akom",
 		
-		"outerColor": [ 253, 221, 12],
+		"outerColor": [253, 221, 12],
 		"innerColor": [230, 40, 50],
 		
 		"uniqueName": "Golden Stool",
@@ -1397,7 +1397,7 @@
 		"adjective": ["Kongolese"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Religious",
-		"personality": "Osei Tutu",
+		//"personality": "Mvemba a Nzinga",
 		
 		"startIntroPart1": "Mother Earth has many gifts for you, King Mvemba a Nzinga. Your people know the dense woods and rainforests as their homes, and glide through them with ease. Great also are the gifts that come from travelers of distant lands. Keep an open mind, for the inspiration of the open world will let our people create art with power and majesty.",
 		"startIntroPart2": "Can you build a civilization that will stand the test of time?",
@@ -1410,10 +1410,10 @@
 		"neutralHello": "Good day.",
 		"hateHello": "Well?",
 		"tradeRequest": "Here's a fair offer.",
-		"favoredReligion": "Akom",
+		"favoredReligion": "Catholicism",
 		
-		"outerColor": [ 253, 221, 12],
-		"innerColor": [230, 40, 50],
+		"outerColor": [47, 87, 53],
+		"innerColor": [247, 213, 171],
 		
 		"uniqueName": "Nkisi",
 		"uniqueText": "Gain +1 [Gold], [Faith], [Culture], [Science] per turn per every number of Ancient ruins you've visited and Barbarian encampments you've cleared throughout the game.\n-3% [Faith] purchasing costs per every number of Ancient ruins you've visited and Barbarian encampments you've cleared throughout the game.",

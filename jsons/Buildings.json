@@ -1266,7 +1266,7 @@
 		"name": "Mbanza",
 		"replaces": "Hospital",
 		"uniqueTo": "Kongo",
-		"cost": 132,
+		"cost": 154,
 		"happiness": 1,
 		"faith": 1,
 		"hurryCostModifier": 10,

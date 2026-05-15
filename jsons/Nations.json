@@ -1416,8 +1416,8 @@
 		"innerColor": [247, 213, 171],
 		
 		"uniqueName": "Nkisi",
-		"uniqueText": "Gain +1 [Gold], [Faith], [Culture], [Science] per turn per every number of Ancient ruins you've visited and Barbarian encampments you've cleared throughout the game.\n-3% [Faith] purchasing costs per every number of Ancient ruins you've visited and Barbarian encampments you've cleared throughout the game.",
-		"uniques": ["[+1 Faith, +1 Gold, +1 Culture, +1 Science] <for every [Interest]>",
+		"uniqueText": "Gain +1 [Gold], +1 [Faith] and +1 [Culture] per turn per every number of Ancient ruins you've visited and Barbarian encampments you've cleared throughout the game.\n-3% [Faith] purchasing costs per every number of Ancient ruins you've visited and Barbarian encampments you've cleared throughout the game.",
+		"uniques": ["[+1 Faith, +1 Gold, +1 Culture] <for every [Interest]>",
 		"[Faith] cost of purchasing items in cities [-3]% <for every [Interest]>"],
 		"cities": ["M'Banza-Kongo","Mbumbi","Mbamba","Mbanza Nsundi","Mbwila","Mpinda","Kwila","Mbanza Mbata","Kinshasa","Kwango",
 			"Mbuji-Mayi","Mbanza Mpangu","Bakavu","Sanga","Katango","Mbanza Wembo","Mbamba Lovata","Nkunga","Nkondo","Lemba-Bula","Kibangu",

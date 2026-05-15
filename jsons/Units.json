@@ -1104,6 +1104,21 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Ngao Mbeba",
+		"unitType": "Sword",
+		"uniqueTo": "Kongo",
+		"replaces": "Longswordsman",
+		"movement": 2,
+		"strength": 20, 
+		"cost": 141,
+		"requiredTech": "Steel",
+		"obsoleteTech": "Gunpowder",
+		"uniques" : ["Can be purchased with [Faith] [in all cities]"],
+		"promotions": ["Cover I"],
+		"upgradesTo": "Musketman",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Mohawk Warrior",
 		"unitType": "Sword",
 		"uniqueTo": "Iroquois",
@@ -1117,7 +1132,7 @@
 		"hurryCostModifier": 20,
 		"uniques": ["Can move after attacking"],
 		"promotions": ["[Mohawk Warrior] ability", "Ambush I"],
-		"attackSound": "shot"
+		"attackSound": "metalhit"
 	},
 
 	// Rennaisance Era

@@ -1392,6 +1392,39 @@
 		"spyNames": ["Andriy", "Anastasiya", "Bohdan", "Daryna", "Ivan", "Iryna", "Mykhailo", "Kateryna", "Oleksandr", "Maria"]
 	},
 	{
+		"name": "Kongo",
+		"leaderName": "Mvemba a Nzinga",
+		"adjective": ["Kongolese"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Religious",
+		"personality": "Osei Tutu",
+		
+		"startIntroPart1": "Mother Earth has many gifts for you, King Mvemba a Nzinga. Your people know the dense woods and rainforests as their homes, and glide through them with ease. Great also are the gifts that come from travelers of distant lands. Keep an open mind, for the inspiration of the open world will let our people create art with power and majesty.",
+		"startIntroPart2": "Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Your puny existance is a threat to our people's prosperity!",
+		"attacked": "You shall regret committing such a vile action against us!",
+		"defeated": "Many have tried to vanquish us, but only you have succeeded. I will relinquish my seat as the divine will intends it.",
+		"denounced": "My warriors outnumber you, and fight with spirit and heart to avenge this insult. Beware of what you have set in motion.",
+		"introduction": "I am Mvemba a Nzinga and I greet you as a friend. I can see you are blessed by God. Are you here to share your enlightenment?",
+		"neutralHello": "Good day.",
+		"hateHello": "Well?",
+		"tradeRequest": "Here's a fair offer.",
+		"favoredReligion": "Akom",
+		
+		"outerColor": [ 253, 221, 12],
+		"innerColor": [230, 40, 50],
+		
+		"uniqueName": "Nkisi",
+		"uniqueText": "Gain +1 [Gold], [Faith], [Culture], [Science] per turn per every number of Ancient ruins you've visited and Barbarian encampments you've cleared throughout the game.",
+		"uniques": ["[+1 Faith, +1 Gold, +1 Culture, +1 Science] from every [Interest]"],
+		"cities": ["M'Banza-Kongo","Mbumbi","Mbamba","Mbanza Nsundi","Mbwila","Mpinda","Kwila","Mbanza Mbata","Kinshasa","Kwango",
+			"Mbuji-Mayi","Mbanza Mpangu","Bakavu","Sanga","Katango","Mbanza Wembo","Mbamba Lovata","Nkunga","Nkondo","Lemba-Bula","Kibangu",
+			"Manga","Mbanza Mpemba","Mulumbi","Makuta","Zombo","Banza","Umpuka","Matadi","Mbandaka",
+			"Lubumbashi","Mbanza Soyo","Kindu","Kalemie","Kikwit","Popokabaka"],
+		"spyNames": ["Alongi", "Bela", "Din", "Kabanga", "Lumingu", "Makemba", "Ngweji", "Zola", "Yerodin", "Kayipu"]
+	},
+	{
 		"name": "Korea",
 		"leaderName": "Sejong",
 		"adjective": ["Korean"],

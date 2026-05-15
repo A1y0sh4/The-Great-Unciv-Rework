@@ -1264,7 +1264,7 @@
 	},
 	{
 		"name": "Mbanza",
-		"replaces": "Opera House",
+		"replaces": "Hospital",
 		"uniqueTo": "Kongo",
 		"cost": 132,
 		"culture": 3,

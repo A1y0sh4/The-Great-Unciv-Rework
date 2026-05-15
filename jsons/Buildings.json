@@ -1263,6 +1263,21 @@
 		"requiredTech": "Acoustics"
 	},
 	{
+		"name": "Mbanza",
+		"replaces": "Opera House",
+		"uniqueTo": "Kongo",
+		"cost": 132,
+		"culture": 3,
+		"happiness": 1,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 3,
+		"uniques": ["Destroyed when the city is captured", "[50]% Food is carried over after population increases [in this city]",
+		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
+		"requiredTech": "Acoustics"
+	},
+	{
 		"name": "Porcelain Tower",
 		"culture": 3,
 		"greatPersonPoints": {"Great Scientist": 1},

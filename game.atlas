@@ -1633,6 +1633,13 @@ BuildingIcons/Mbanza
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Ngao Mbeba
+  rotate: false
+  xy: 544, 688
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
    
 game8.png
 size: 2048, 1024

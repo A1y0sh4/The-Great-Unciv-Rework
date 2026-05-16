@@ -924,6 +924,10 @@
 		"uniques": ["[This Unit] heals [25] HP", "[This Unit] gains [3] XP", "Doing so will consume this opportunity to choose a Promotion"],
         },
 	{
+		"name": "Cadre",
+		"uniques": ["[This Unit] heals [15] HP", "[This Unit] gains [5] XP", "Doing so will consume this opportunity to choose a Promotion"],
+        },
+	{
 		"name": "[Druzhina] ability",
 		"uniques": ["[+10]% Strength bonus for [Military] units within [1] tiles", "[+10]% Strength <when fighting in [Fresh water] tiles>",
 		"[+5]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>", "[This Unit] heals [1] HP <upon turn end> <for [Gran Colombia] Civilizations> <hidden from users>"] 

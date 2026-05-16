@@ -116,7 +116,7 @@
 		"favoredReligion": "Catholicism",
 		
 		"outerColor": [94, 0, 7],
-		"innerColor": [255, 246, 230],
+		"innerColor": [255, 200, 145],
 		
 		"uniqueName": "People’s War of Liberation",
 		"uniqueText": "Upon being declared war on by a Major Civilization, all Resources gain -1 [Gold] and +1 [Production] for 8 turns (modified by game speed)\nScout units gain the Survivalism I and Mercenary promotions\nMay not build [Stock Exchange] but gain +6 [Gold] from every [Factory]",

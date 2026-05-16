@@ -924,7 +924,7 @@
 		"uniques": ["[This Unit] heals [25] HP", "[This Unit] gains [3] XP", "Doing so will consume this opportunity to choose a Promotion"],
         },
 	{
-		"name": "Cadre",
+		"name": "Cadre Unique",
 		"uniques": ["[This Unit] heals [100] HP", "[This Unit] gains [15] XP", "Doing so will consume this opportunity to choose a Promotion"],
         },
 	{

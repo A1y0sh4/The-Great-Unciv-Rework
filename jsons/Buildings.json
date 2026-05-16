@@ -1270,7 +1270,7 @@
 		"happiness": 1,
 		"faith": 1,
 		"hurryCostModifier": 10,
-		"requiredBuilding": "Amphitheater",
+		"requiredBuilding": "Aqueduct",
 		"maintenance": 3,
 		"uniques": ["Destroyed when the city is captured", "[50]% Food is carried over after population increases [in this city]",
 		"Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],

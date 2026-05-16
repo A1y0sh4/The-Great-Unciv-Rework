@@ -95,6 +95,41 @@
 		"spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 	},
 	{
+		"name": "Angola",
+		"leaderName": "Agostinho Neto",
+		"adjective": ["Angolan"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		//"personality": "Agostinho Neto",
+	
+	        "startIntroPart1": "The people rally to your banner, O’ Agostinho Neto, poet of liberation and father of a free Angola! Though raised beneath the shadow of Portuguese colonial rule, you chose not submission, but struggle, devoting your life to the cause of national independence and the emancipation of the worker and peasant alike. Across the plains, forests, and crowded streets of Luanda, the cry for liberation grew ever louder, and the centuries-long grip of empire began to fracture. Through revolution and sacrifice, the MPLA carried the dream of sovereignty into reality, and under your leadership Angola emerged into history as a socialist republic determined to reclaim its destiny.",
+		"startIntroPart2": "Steadfast revolutionary, the struggle returns once more before you, the Voice of the Angolan People. Foreign powers circle your homeland, while greed and division threaten to consume the hard-won gains of independence. Yet the spirit of liberation still burns within the hearts of workers, soldiers, and farmers who look to you for guidance and resolve. Can you unite the people against exploitation and domination? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Your profits keep raising as does the hunger and misery of your people. We must liberate them from the yoke of your oppression with a revolutionary war.",
+		"attacked": "You cannot suffocate the spark of this revolution.",
+		"defeated": "For now you may have defeated our forces. But remember that, while your form of exploitation creates immense wealth for the few at the expense of living conditions of the many, you are also inevitably producing your own grave-diggers. A future generation of revolutionares will come.",
+		"denounced": "You vilify us because you know that, by smashing class society and the forms of oppression that kept it in place, we are creating the conditions for your downfall.",
+		"introduction": "Greetings, I am Comrade Agostinho Neto. I hope you will soon join our side for the struggle to end all systematic forms of oppression.",
+		"neutralHello": "Greetings.",
+		"hateHello": "What do you need?!",
+		"tradeRequest": "In the name of the revolution, here is a fair offer:",
+		"favoredReligion": "Catholicism",
+		
+		"outerColor": [94, 0, 7],
+		"innerColor": [255, 246, 230],
+		
+		"uniqueName": "People’s War of Liberation",
+		"uniqueText": "Farms, Plantation, Mines and Quarries yield an additional +1 of their respective stat during a Golden Age\nSpecialists yield an additional +1 of their respective stat during a Golden Age\nEmpire enters a Golden age upon completing a policy tree\nMay not build [Stock Exchange] and gain -10% [Gold] during a Golden Age",
+		"uniques": ["[+1 Food] from every [Farm] <during a Golden Age>", "[+1 Food] from every [Plantation] <during a Golden Age>", "[+1 Production] from every [Mine] <during a Golden Age>", "[+1 Production] from every [Quarry] <during a Golden Age>",
+		            "Empire enters golden age <upon adopting [Tradition Complete]>", "Empire enters golden age <upon adopting [Liberty Complete]>", "Empire enters golden age <upon adopting [Expansion Complete]>", "Empire enters golden age <upon adopting [Piety Complete]>", "Empire enters golden age <upon adopting [Relations Complete]>",
+		            "Empire enters golden age <upon adopting [Commerce Complete]>", "Empire enters golden age <upon adopting [Rationalism Complete]>", "Empire enters golden age <upon adopting [Individualism Complete]>", "Empire enters golden age <upon adopting [Nationalism Complete]>", "Empire enters golden age <upon adopting [Internationalism Complete]>",
+		            "[+1 Food] from every [City center] <during a Golden Age>", "[-1 Food, +1 Production] from every [City center] <in [Hill] tiles> <during a Golden Age>", "[+1 Culture] from every [Artist] <during a Golden Age>", "[+1 Gold] from every [Merchant] <during a Golden Age>", "[+1 Science] from every [Scientist] <during a Golden Age>", "[+1 Production] from every [Engineer] <during a Golden Age>", "[-10]% [Gold] [in all cities] <during a Golden Age>"],
+		"cities": ["Luanda","Huambo","Lobito","Benguela","Lubango","Malanje","Kuito","Namibe","Saurimo","Uíge",
+			"Cabinda","Sumbe","Menongue","Dundo","Ondjiva","Ndalatando","M'Banza-Kongo","Lucapa","Caxito","Catumbela",
+			"Porto Amboim","Baía Farta","Cuito Cuanavale","Luena","Longonjo"],
+		"spyNames": ["Maria", "António", "Isabel", "Pedro", "Ana", "Carlos", "Domingas", "Fernando", "Helena", "Alberto"],
+	},
+	{
 		"name": "Arabia",
 		"leaderName": "Harun al-Rashid",
 		"adjective": ["Arabian"],

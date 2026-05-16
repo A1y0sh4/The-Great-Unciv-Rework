@@ -2162,6 +2162,15 @@
 		"movement": 2
 	},
 	{
+		"name": "Great Cadre",
+		"unitType": "Civilian",
+		"uniqueTo": "Angola",
+		"replaces": "Great Artist",
+		"uniques": ["Can generate a large amount of culture", "Can instantly construct a [Landmark] improvement <by consuming this unit>", "Great Person - [Culture]", "Unbuildable", "Uncapturable", "[This Unit] gets a name from the [Cadre] group", "Is part of Great Person group [Artist]",
+		"May Paradrop to [{your} {City center}] tiles up to [6] tiles away <in [City center] tiles>"],
+		"movement": 2
+	},
+	{
 		"name": "Great Scientist",
 		"unitType": "Civilian",
 		"uniques": ["Can hurry technology research", "Can instantly construct a [Academy] improvement <by consuming this unit>", "Great Person - [Science]", "Unbuildable", "Uncapturable", "[This Unit] gets a name from the [Scientist] group", "Is part of Great Person group [Scientist]",

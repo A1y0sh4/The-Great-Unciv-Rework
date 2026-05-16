@@ -1545,6 +1545,7 @@
 		"science": 8,
 		"culture": 1,
 		"specialistSlots": {"Scientist": 1},
+		"requiredBuilding": "University",
 		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Biology]>",
 		"Only available <in cities with at least [10] [Population]>", "Shown while unbuilable"],
 		"maintenance": 0,

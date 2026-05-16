@@ -127,7 +127,7 @@
 			"[-1 Gold] from every [Resource] <for [12] turns> <upon being declared war on by [Major] Civilizations> <on [Epic] game speed>", "[+1 Production] from every [Resource] <for [12] turns> <upon being declared war on by [Major] Civilizations> <on [Epic] game speed>",
 			"[-1 Gold] from every [Resource] <for [16] turns> <upon being declared war on by [Major] Civilizations> <on [Marathon] game speed>", "[+1 Production] from every [Resource] <for [16] turns> <upon being declared war on by [Major] Civilizations> <on [Marathon] game speed>",
 			"[-1 Gold] from every [Resource] <for [20] turns> <upon being declared war on by [Major] Civilizations> <on [Endless] game speed>", "[+1 Production] from every [Resource] <for [20] turns> <upon being declared war on by [Major] Civilizations> <on [Endless] game speed>",
-			"[Scout] units gain the [Survivalism I] promotion", "[Scout] units gain the [Mercenary] promotion", "[+6 Gold] from every [Factory]", "Empire enters golden age <upon expending a [Great Cadre] unit>"
+			"[Scout] units gain the [Survivalism I] promotion", "[Scout] units gain the [Mercenary] promotion", "[+6 Gold] from every [Factory]", "Empire enters golden age <upon expending a [Great Cadre] unit>", "[{Military} {Land}] units gain the [Cadre] promotion <upon expending a [Great Cadre] unit>"
 		],
 		"cities": ["Luanda","Huambo","Lobito","Benguela","Lubango","Malanje","Kuito","Namibe","Saurimo","Uíge",
 			"Cabinda","Sumbe","Menongue","Dundo","Ondjiva","Ndalatando","M'Banza-Kongo","Lucapa","Caxito","Catumbela",

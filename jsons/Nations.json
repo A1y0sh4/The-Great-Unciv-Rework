@@ -119,7 +119,7 @@
 		"innerColor": [255, 246, 230],
 		
 		"uniqueName": "People’s War of Liberation",
-		"uniqueText": "Farms, Plantation, Mines and Quarries yield an additional +1 of their respective stat during a Golden Age\nSpecialists yield an additional +1 of their respective stat during a Golden Age\nEmpire enters a Golden age upon completing a policy tree\nMay not build [Stock Exchange] and gain -10% [Gold] during a Golden Age",
+		"uniqueText": "Upon being declared war on by a Major Civilization, all Resources gain -1 [Gold] and +1 [Production] for 8 turns (modified by game speed)\nScout units gain the Survivalism I and Mercenary promotions\nMay not build [Stock Exchange] but gain +6 [Gold] from every [Factory]",
 		"uniques": ["[-1 Gold] from every [Resource] <for [2] turns> <upon being declared war on by [Major] Civilizations> <on [Turbo] game speed>", "[+1 Production] from every [Resource] <for [2] turns> <upon being declared war on by [Major] Civilizations> <on [Turbo] game speed>",
 			"[-1 Gold] from every [Resource] <for [4] turns> <upon being declared war on by [Major] Civilizations> <on [Online] game speed>", "[+1 Production] from every [Resource] <for [4] turns> <upon being declared war on by [Major] Civilizations> <on [Online] game speed>",
 			"[-1 Gold] from every [Resource] <for [6] turns> <upon being declared war on by [Major] Civilizations> <on [Quick] game speed>", "[+1 Production] from every [Resource] <for [6] turns> <upon being declared war on by [Major] Civilizations> <on [Quick] game speed>",
@@ -127,7 +127,7 @@
 			"[-1 Gold] from every [Resource] <for [12] turns> <upon being declared war on by [Major] Civilizations> <on [Epic] game speed>", "[+1 Production] from every [Resource] <for [12] turns> <upon being declared war on by [Major] Civilizations> <on [Epic] game speed>",
 			"[-1 Gold] from every [Resource] <for [16] turns> <upon being declared war on by [Major] Civilizations> <on [Marathon] game speed>", "[+1 Production] from every [Resource] <for [16] turns> <upon being declared war on by [Major] Civilizations> <on [Marathon] game speed>",
 			"[-1 Gold] from every [Resource] <for [20] turns> <upon being declared war on by [Major] Civilizations> <on [Endless] game speed>", "[+1 Production] from every [Resource] <for [20] turns> <upon being declared war on by [Major] Civilizations> <on [Endless] game speed>",
-			"[Scout] units gain the [Survivalism I] promotion", "[Scout] units gain the [Mercenary] promotion"
+			"[Scout] units gain the [Survivalism I] promotion", "[Scout] units gain the [Mercenary] promotion", "[+6 Gold] from every [Factory]"
 		],
 		"cities": ["Luanda","Huambo","Lobito","Benguela","Lubango","Malanje","Kuito","Namibe","Saurimo","Uíge",
 			"Cabinda","Sumbe","Menongue","Dundo","Ondjiva","Ndalatando","M'Banza-Kongo","Lucapa","Caxito","Catumbela",

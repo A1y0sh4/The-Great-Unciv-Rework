@@ -1647,6 +1647,13 @@ NationIcons/Angola
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Great Cadre
+  rotate: false
+  xy: 112, 148
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
    
 game8.png
 size: 2048, 1024

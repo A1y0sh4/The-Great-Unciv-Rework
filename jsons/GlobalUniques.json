@@ -37,7 +37,7 @@
 		"[-2] Unit Supply <for every [Cities]>",
 		"[-5]% Production when constructing [World Wonder] wonders [in all cities] <for every [[World Wonder] Buildings]>",
 		"[+3]% Production when constructing [Utopia Project] wonders [in all cities] <for every [[World Wonder] Buildings]>",
-		"[+3]% Production when constructing [United Nations] wonders [in all cities] <for every [[World Wonder] Buildings]>",
+		"[+3]% Production when constructing [Comintern] wonders [in all cities] <for every [[World Wonder] Buildings]>",
 		"[-10]% Gold cost of acquiring tiles [in all cities]",
 		"[-2 Food] from every [Terrain] <if [Palace] is constructed>",
 		"[-2 Food] from every [Terrain] <for [Spectator] Civilizations>",

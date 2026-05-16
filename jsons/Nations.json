@@ -3618,17 +3618,17 @@
 		"cities": ["Mwibele"]
 	},
 	{
-		"name": "M'Banza-Kongo",
-		"adjective": ["M'Banza-Kongo"],
+		"name": "Sucre",
+		"adjective": ["Bolivian"],
 		"cityStateType": "Militaristic",
-		"startBias": ["Hill"],
+		"startBias": ["Mountain"],
 
-		"declaringWar": "Do you really think you can walk over us so easily? I will not let it happen. Not to Kongo - not to my people!",
+		"declaringWar": "I have bested many enemies in war before, and finally I shall match my strength against yours!",
 		"attacked": "We are no strangers to war. You have strayed from the right path, and now we will correct it.",
 		"defeated": "You are nothing but a glorified barbarian. Cruel, and ruthless.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,128,0],
-		"cities": ["M'Banza-Kongo"]
+		"cities": ["Sucre"]
 	},
 	{
 		"name": "Bibracte",

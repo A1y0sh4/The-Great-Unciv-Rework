@@ -1543,7 +1543,7 @@
 		"uniqueTo": "Angola",
 		"cost": 204,
 		"science": 8,
-		"culture": 1,
+		"culture": 2,
 		"specialistSlots": {"Scientist": 1},
 		"requiredBuilding": "University",
 		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Science] per [4] population [in this city] <after discovering [Biology]>",

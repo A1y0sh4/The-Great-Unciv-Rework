@@ -130,7 +130,7 @@
 			"[Scout] units gain the [Survivalism I] promotion", "[Scout] units gain the [Mercenary] promotion", "[+6 Gold] from every [Factory]", "Empire enters golden age <upon expending a [Great Cadre] unit>", "[Scout] units gain the [Cadre Unique] promotion <upon expending a [Great Cadre] unit>"
 		],
 		"cities": ["Luanda","Huambo","Lobito","Benguela","Lubango","Malanje","Kuito","Namibe","Saurimo","Uíge",
-			"Cabinda","Sumbe","Menongue","Dundo","Ondjiva","Ndalatando","M'Banza-Kongo","Lucapa","Caxito","Catumbela",
+			"Cabinda","Sumbe","Menongue","Dundo","Ondjiva","Ndalatando","M'banza-Kongo","Lucapa","Caxito","Catumbela",
 			"Porto Amboim","Baía Farta","Cuito Cuanavale","Luena","Longonjo"],
 		"spyNames": ["Maria", "António", "Isabel", "Pedro", "Ana", "Carlos", "Domingas", "Fernando", "Helena", "Alberto"],
 	},

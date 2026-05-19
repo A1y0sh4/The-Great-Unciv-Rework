@@ -1,3 +1,5 @@
+/*
+
 name: CI
 
 on:
@@ -49,3 +51,5 @@ jobs:
         uses: peter-evans/create-pull-request@v6
         with:
           commit-message: Autoupdate
+
+*/

@@ -3793,17 +3793,17 @@
 		"cities": ["Fes"]
 	},
 	{
-		"name": "Cahokia",
-		"adjective": ["Cahokia"],
+		"name": "Kosa'aay",
+		"adjective": ["Kumeyaay"],
 		"cityStateType": "Religious",
-		"startBias": ["Plains"],
+		"startBias": ["Coast"],
 
 		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
 		"attacked": "Very well, we will kick you back to the ancient era!",
 		"defeated": "This isn't how it is supposed to be!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [203, 253, 232],
-		"cities": ["Cahokia"]
+		"cities": ["Kosa'aay"]
 	},
 	{
 		"name": "Kandy",

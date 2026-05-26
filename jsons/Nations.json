@@ -2271,6 +2271,37 @@
 		"spyNames": ["Kat-ac", "Pampu", "Cir", "Katti", "Kur-utu", "Wel", "Ay", "Pan-i", "Yatu", "Pur-utu"]
 	},
 	{
+		"name": "The Mississippians",
+		"leaderName": "Tuskaloosa",
+		"adjective": ["Mississippian"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Diplomatic",
+		// "personality": "Tuskaloosa",
+		
+		"startIntroPart1": "Hensci, Tuskaloosa, Chief of Atahachi and leader of the Mississippian people! Your prowess in battle is matched only by your cunning. The culmination of the mound builder tradition, the Mississippi represent one of the most advanced societies of pre-Columbian North America. A gifted and industrious people, they developed widespread trade networks and utilized impressive agricultural projects to sustain some of the largest cities in the medieval world. Yet, the Little Ice Age would ultimately devastate the great population centers of Cahokia and Moundville; destroying their economy and dispersing their people. By the time Europeans arrived in the Americas, the Mississippi were a mere shadow of their former selves and the legacy of the mound builders would soon fade into legend.",
+		"startIntroPart2": "Feared warrior, the Mississippian culture has all but vanished and even your descendants have forgotten the great earthworks of their ancestors. It is time to return, to reclaim the Big River, and grow the maize that once sustained your mighty cities. Can you restore your lost chiefdom? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "My people has enough of your harassment.",
+		"attacked": "I only whished for a peaceful coexistence and mutually beneficial trade.",
+		"defeated": "Like a coward, you hide behind your men! Cehecvres!",
+		"denounced": "We misinterpreted the nature of your character.",
+		"introduction":  "Hensci! I am Tuskaloosa, Chief of Atahachi and leader of the Mississippian people. You are welcome to trade and make offering in my cities.",
+		"neutralHello": "Hi.",
+		"tradeRequest": "I hope you will welcome this generous offer.",
+		"favoredReligion": "Protestantism",
+
+		"outerColor": [250, 164, 96],
+		"innerColor": [0, 51, 102],
+		
+		"uniqueName": "Trade Seals",
+		"uniqueText": "Upon discovering a [Ancient ruins], [Barbarian encampment], [City center] or [City ruins], you reveal all the Point of Interest of the same type within a 5 tile radius and gain 60 [Gold] (modified by game speed)",
+		"uniques": ["[+1 Food] from every [Maize]"],
+		"cities": ["Cahokia","Moundville","Spiro","Angel Mounds","Atahachi","Emerald Mound","Etowah","Kincaid","Castalian Springs","Cloverdale",
+			"Grand Village","Mabila","Holly Bluff","Jaketown","Bottle Creek","Boyd Mounds","Fox Farm","Long Swamp","Mound Bottom","Ocmulgee",
+			"Nodena","Murphy Mound","Nikwasi","Slack Farm","Tolu","Winterville","Twin Mounds","Talisi","Caxa","Eaker"],
+		"spyNames": ["Kikikwawason", "Tomochichi", "Emistesigo", "Lamochattee", "Osceola", "Eyota", "Onawa", "Halona", "Mausi", "Cocheta"]
+	},
+	{
 		"name": "The Hittites",
 		"leaderName": "Mursilis II",
 		"adjective": ["Hittite"],

@@ -1366,6 +1366,19 @@
 		"requiredTech": "Printing Press"
 	},
 	{
+		"name": "Sacred Mound",
+		"replaces": "Theatre",
+		"uniqueTo": "The Mississippians",
+		"cost": 107,
+		"happiness": 2,
+		"culture": 2,
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Colosseum",
+		"maintenance": 0,
+		"uniques": ["Only available <in cities with at least [7] [Population]>", "Shown while unbuilable"],
+		"requiredTech": "Printing Press"
+	},
+	{
 		"name": "Globe Theatre",
 		"culture": 3,
 "gold": 6,

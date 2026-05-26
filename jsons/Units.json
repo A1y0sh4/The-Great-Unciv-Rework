@@ -853,6 +853,27 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Falcon Raider",
+		"unitType": "Sword",
+		"uniqueTo": "The Mississippians",
+		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 16, 
+		"cost": 107,
+		"requiredTech": "Military Tactics",
+		"obsoleteTech": "Gunpowder",
+		"uniques" : ["[+50]% Yield from pillaging tiles", "Comment [Gain +25% strenght against wounded units for 4 turns upon defeating a Military unit (modified by game speed)]",
+			"[This Unit] gains the [Charge] status for [1] turn(s) <upon defeating a [Military] unit> <on [Turbo] game speed> <hidden from users>",
+		"[This Unit] gains the [Charge] status for [2] turn(s) <upon defeating a [Military] unit> <on [Online] game speed> <hidden from users>",
+		"[This Unit] gains the [Charge] status for [3] turn(s) <upon defeating a [Military] unit> <on [Quick] game speed> <hidden from users>",
+		"[This Unit] gains the [Charge] status for [4] turn(s) <upon defeating a [Military] unit> <on [Standard] game speed> <hidden from users>",
+		"[This Unit] gains the [Charge] status for [6] turn(s) <upon defeating a [Military] unit> <on [Epic] game speed> <hidden from users>",
+		"[This Unit] gains the [Charge] status for [8] turn(s) <upon defeating a [Military] unit> <on [Marathon] game speed> <hidden from users>",
+		"[This Unit] gains the [Charge] status for [10] turn(s) <upon defeating a [Military] unit> <on [Endless] game speed> <hidden from users>"],
+		"upgradesTo": "Musketman",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Galleass",
 		"unitType": "Ranged Water",
 		"movement": 3,

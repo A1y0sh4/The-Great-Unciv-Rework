@@ -2432,7 +2432,7 @@
 		"innerColor": [237, 226, 208],
 		
 		"uniqueName": "Maize Economy",
-		"uniques": ["[+1 Food] from every [Maize]", "[+1 Culture] in cities on [Fresh Water] tiles", "[+1]% [Food] [in capital] <for every [[Owned [Maize] Tiles]]>", "[+1]% [Culture] [in capital] <for every [[Owned [Maize] Tiles]]>"], 
+		"uniques": ["[+1 Food] from every [Maize]", "[+1 Culture] in cities on [Fresh Water] tiles", "[+1]% [Food] [in capital] <for every [[Owned [Maize] Tiles]]>", "[+1]% [Culture] [in capital] <for every [[Owned [Maize] Tiles]]>", "[+1]% [Gold] [in capital] <for every [[Owned [Maize] Tiles]]>"], 
 		"cities": ["Cahokia","Moundville","Spiro","Angel Mounds","Atahachi","Emerald Mound","Etowah","Kincaid","Castalian Springs","Cloverdale",
 			"Grand Village","Mabila","Holly Bluff","Jaketown","Bottle Creek","Boyd Mounds","Fox Farm","Long Swamp","Mound Bottom","Ocmulgee",
 			"Nodena","Murphy Mound","Nikwasi","Slack Farm","Tolu","Winterville","Twin Mounds","Talisi","Caxa","Eaker"],

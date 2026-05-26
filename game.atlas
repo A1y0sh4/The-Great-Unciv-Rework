@@ -1670,7 +1670,7 @@ UnitIcons/Falcon Raider
   index: -1
 NationIcons/The Mississippians
   rotate: false
-  xy: 654, 476
+  xy: 650, 470
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

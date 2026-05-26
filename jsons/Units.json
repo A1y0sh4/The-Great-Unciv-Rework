@@ -862,7 +862,7 @@
 		"cost": 107,
 		"requiredTech": "Military Tactics",
 		"obsoleteTech": "Gunpowder",
-		"uniques" : ["[+50]% Yield from pillaging tiles", "Comment [Gain +25% strenght against wounded units for 4 turns upon defeating a Military unit (modified by game speed)]",
+		"uniques" : ["[+100]% Yield from pillaging tiles", "Comment [Gain +25% strenght against wounded units for 4 turns upon defeating a Military unit (modified by game speed)]",
 			"[This Unit] gains the [Charge] status for [1] turn(s) <upon defeating a [Military] unit> <on [Turbo] game speed> <hidden from users>",
 		"[This Unit] gains the [Charge] status for [2] turn(s) <upon defeating a [Military] unit> <on [Online] game speed> <hidden from users>",
 		"[This Unit] gains the [Charge] status for [3] turn(s) <upon defeating a [Military] unit> <on [Quick] game speed> <hidden from users>",

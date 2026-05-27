@@ -472,8 +472,8 @@
                 "uniques": [
                     "[1] Free Technologies",
                     "May buy [Great Scientist] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <starting from the [Industrial era]>",
-					"Comment [Grants the Enlightened ruler title]",
-					"Get the leader title of [Enlightened ruler [leaderName]] <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"
+					"Comment [Grants the Enlightened Ruler title]",
+					"Get the leader title of [Enlightened Ruler [leaderName]] <before adopting [Individualism Complete]> <before adopting [Nationalism Complete]> <before adopting [Internationalism Complete]>"
                 ]
             }
         ]
@@ -609,8 +609,8 @@
                 "uniques": [
                     "Empire enters golden age <upon declaring war on [Major] Civilizations>",
                     "May buy [Great General] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <starting from the [Industrial era]>",
-					"Comment [Grants the Supreme leader title]",
-					"Get the leader title of [Supreme leader [leaderName]]"
+					"Comment [Grants the Supreme Leader title]",
+					"Get the leader title of [Supreme Leader [leaderName]]"
                 ]
             }
         ]
@@ -680,8 +680,8 @@
                 "uniques": [
 		     "[+100]% Golden Age length", "Comment [Unlocks [Comintern]]",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <starting from the [Industrial era]>",
-					"Comment [Grants the General secretary title]",
-					"Get the leader title of [General secretary [leaderName]]"
+					"Comment [Grants the General Secretary title]",
+					"Get the leader title of [General Secretary [leaderName]]"
                 ]
             }
         ]

@@ -1850,7 +1850,7 @@
 		"replaces": "Fighter",
 		"uniqueTo": "Japan",
 		"movement": 1,
-		"strength": 34,
+		"strength": 36,
 		"rangedStrength": 40,
 		"range": 10,
 		"requiredResource": "Oil",

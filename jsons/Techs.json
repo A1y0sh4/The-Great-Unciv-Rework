@@ -719,7 +719,7 @@
 				"name": "Computers",
 				"row": 9,
 				"prerequisites": ["Advanced Espionage","Radar","Information Theory"],
-				"quote": "'A computer can never be held accountable, therefore a computer must never make a management decision.' - caution from a 1917 IBM presentation"
+				"quote": "'A computer can never be held accountable, therefore a computer must never make a management decision.' - caution from a 1979 IBM presentation"
 			}
 		]
 	},

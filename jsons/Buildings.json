@@ -1395,7 +1395,7 @@
 		"uniques": ["[+25]% [Gold] from Trade Routes", "[+15]% Strength <for [Military] units> <when fighting in [Hill] tiles>", "Must be next to [Mountain]",
 		"Only available <in cities with at least [7] [Population]>"],
 		"requiredTech": "Banking",
-		"quote": "'Few romances can ever surpass that of the granite citadel on top of the beetling precipices of Machu Picchu, the crown of Inca Land.' - Hiram Bingham"
+		"quote": "'The ruins of Machu Picchu are perched on top of a steep ridge in the most inaccessible corner of the most inaccessible section of the central Andes. No part of the highlands of Peru has been better defended by natural bulwarks...' - Hiram Bingham"
 	},
 	{
 		"name": "Theatre",

@@ -2089,7 +2089,7 @@
 			    "Gain a free [Spaceship Factory] [in this city]", "Only available <when [Scientific] Victory is enabled>",
 		"Only available <in cities with at least [21] [Population]>", "Shown while unbuilable"],
 		"requiredTech": "Satellites",
-		"quote": "'Equipped with his five senses, man explores the universe around him and calls the adventure Science.' - Edwin Hubble"
+		"quote": "'This surprising finding may be an important clue to understanding those mysterious parts of the universe that make up 95 percent of everything and don’t emit light, such as dark energy, dark matter and dark radiation' - Adam Riess"
 	},
 	{
 		"name": "Spaceship Factory",

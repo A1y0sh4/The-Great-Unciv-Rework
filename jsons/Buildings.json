@@ -98,7 +98,7 @@
 		"isWonder": true,
 		"uniques": ["Must have an owned [Desert] within [1] tiles", "Must not be on [Hill]", "[-25]% construction time for [All] improvements", "[1] free [Worker] units appear"],
 		"requiredTech": "Agriculture",
-		"quote": "'From the heights of these pyramids, forty centuries look down on us.' - Napoleon Bonaparte",
+		"quote": "'The pyramid itself was twenty years in the making. Its base was square, each side eight hundred feet long, and its height is the same; the whole is of stone polished and most exactly fitted; there is no block of less than thirty feet in length.' - Herodotus",
 	},
 	// Column 1
 	{

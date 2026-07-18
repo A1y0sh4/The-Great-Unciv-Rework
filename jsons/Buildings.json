@@ -1538,7 +1538,7 @@
 		"uniques": ["Gain a free [Arsenal] [in this city]", "[+25]% Production when constructing [Water] units [in this city]", "[-25]% maintenance costs <for [Water] units>", "New [{Water} {Military}] units start with [15] XP [in this city]",
 		"Only available <in cities with at least [8] [Population]>"],
 		"requiredTech": "Metallurgy",
-		"quote": "'Happy is that city which in time of peace thinks of war' - Inscription on the venetian armory",
+		"quote": "'Happy is that city which in time of peace thinks of war' - Inscription on the Venetian armory",
 	},
 
 	// Industrial Era

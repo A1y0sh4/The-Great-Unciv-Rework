@@ -694,7 +694,7 @@
 				"row": 3,
 				"prerequisites": ["Atomic Theory","Pharmaceuticals","Ecology"], 
 				"uniques": ["[+400]% weight to this choice for AI decisions <hidden from users>"],
-				"quote": "'It is important to leave a better land for our descendants.' - Theodore Roosevelt"
+				"quote": "'Environmentalism without class struggle is gardening.' - Chico Mendes"
 			},
 			{
 				"name": "Nuclear Fission",

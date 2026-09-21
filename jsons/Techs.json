@@ -169,7 +169,7 @@
 				"name": "Construction",
 				"row": 9,
 				"prerequisites": ["Masonry","The Wheel","Bronze Working"],
-				"quote": "'If our designs for private houses are to be correct, we must at the outset take note of the countries and climates in which they are built.' - Marcus Vitruvius Pollio"
+				"quote": "'The architect should be equipped with knowledge of many branches of study and varied kinds of learning, for it is by his judgement that all work done by the other arts is put to the test.' - Vitruvius"
 			}
 		]
 	},

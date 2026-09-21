@@ -57,7 +57,7 @@
 		"greatPersonPoints": {"Great Engineer": 1},
 		 "uniques": ["Gain a free [Pantheon] belief", "Gain [12] [Science] <upon founding a Pantheon>", "Gain [20] [Science] <upon founding a Religion>", "Gain [32] [Science] <upon enhancing a Religion>", "Only available <when religion is enabled>", "Must have an owned [Stone] within [2] tiles"],
 		"requiredTech": "Stone Tools",
-		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
+		"quote": "'...the sight of day and night, and the months and the revolutions of the years, have created number, and have given us a conception of time, and the power of enquiring about the nature of the universe...' - Plato"
 	},
 	{
 		"name": "Monument",

@@ -656,7 +656,7 @@
 				"name": "Radar",
 				"row": 6,
 				"prerequisites": ["Ballistics","Electronics","Cultural Hegemony"],
-				"quote": "'Vision is the art of seeing things invisible.' - Jonathan Swift" 
+				"quote": "'To live effectively is to live with adequate information.' - Norbert Wiener" 
 			},
 			{
 				"name": "Information Theory",

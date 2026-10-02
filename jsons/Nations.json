@@ -8,8 +8,8 @@
 "name": "The Comanche",
 "leaderName": "Iron Jacket",
 "adjective": ["Comanche"],
-"startBias": ["Tundra"],
-"preferredVictoryType": "Scientific",
+"startBias": ["Plains"],
+"preferredVictoryType": "Domination",
 //"personality": "Iron Jacket",
 
 	"startIntroPart1": "Let the blood of your enemies flow down upon the dirt, oh dauntless Iron Jacket, medicine man and chief of the Comanche. Born Puhihwitsikwasu, your bravery on the battlefield and Spanish mail armour led to whispers of legends of your ability to blow bullets aside with your breath as easily as the wind. You terrorised the colonial invaders of both Mexico and the United States, leading many raids and defences of your territory. But your fortune could not last, and in response to your raid, colonial authorities organised the Antelope Hills Expedition, culminating in the called Battle of Little Robe Creek, where your armour could no longer protect you. You were succeeded by your son, Peta Nocona, who continued the fight you had given your life for.",
@@ -40,8 +40,8 @@
 "name": "The Shawnee",
 "leaderName": "Tecumseh",
 "adjective": ["Shawnee"],
-"startBias": ["Tundra"],
-"preferredVictoryType": "Scientific",
+"startBias": ["Mountain"],
+"preferredVictoryType": "Diplomatic",
 //"personality": "Tecumseh",
 
 	"startIntroPart1": "The comet has arrived, oh chief Tecumseh of the Shawnee. Mentored by your brother Cheeseekau, and adopting philosophies of chiefs Blue Jacket and Joseph Brant, you sought to free your tribe from the external influence of the United States. With your brother, who preached to reject European influences, you established towns for Native people to live and began recruiting others to join your cause of independence. After the Treaty of Fort Wayne, you became more confrontational, building a large, intertribal confederacy, in which you travelled from tribe to tribe, looking for recruits. But while you were away from your capital, your people were defeated in the Battle of Tippecanoe. While you tried resurrecting your confederacy, seeking British help in the War of 1812, this devastating defeat was one from which you never recovered, and you died in battle two years later.",
@@ -70,8 +70,8 @@
 "name": "The Modoc",
 "leaderName": "Kintpuash",
 "adjective": ["Modoc"],
-"startBias": ["Tundra"],
-"preferredVictoryType": "Scientific",
+"startBias": ["Mountain"],
+"preferredVictoryType": "Domination",
 //"personality": "Kintpuash",
 
 	"startIntroPart1": "Let the strength of your ancestors’ flow through you, oh Kintpuash, Chief of the Modoc people, famously known as Captain Jack. As a young man, the American colonizers forced you into a reservation with your tribal enemies, the Klamath, who treated you poorly. After only a year, you decisively lead a band of your people from the reservation back to your homeland. This was not easy, as you were forced back onto the reservation by the United States Army. But your tenacious nature did not allow you to take such a loss standing, and you left again. This time, you led your people to war, using the lava beds and trenches of your new hideout for defensive warfare. You hoped for a peaceful solution that would allow your people to stay in your territory, but it was not to be. You were shamed for entering into negotiations, and instead planned an ambush. Killing a U.S. General, you were forced back to fighting, but, after your surrender, you were tried and convicted to hang.",
@@ -101,8 +101,8 @@
 "name": "The Muskogee",
 "leaderName": "Estajoca",
 "adjective": ["Muskogean"],
-"startBias": ["Tundra"],
-"preferredVictoryType": "Scientific",
+"startBias": ["Marsh"],
+"preferredVictoryType": "Diplomatic",
 //"personality": "Estajoca",
 
 	"startIntroPart1": "Peace and unity to you and your people, Estajoca, Director General of the State of Muskogee! Your small but ambitious nation formed in the aftermath of the American War of Independence, in which you briefly served as part of a Loyalist battalion. After losing your commission for insubordination, you had fled to live among the Muscogee and Creek peoples in western Florida. Seeing the ever growing encroachment by the empires of Britain, Spain, and America, you envisioned an independent native state to protect the sovereignty of the indigenous tribes.",

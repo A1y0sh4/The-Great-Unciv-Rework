@@ -24,8 +24,8 @@
 	  
 	"favoredReligion": "Animism",
 
-	"outerColor": [14, 37, 97],
-	"innerColor": [255, 206, 49],
+	"outerColor": [94, 0, 7],
+	"innerColor": [255, 246, 230],
 
 	"uniqueName": "Comanchería",
 	"uniqueText": "Gain +1 [Culture] from every Camp and Pasture adjacent to Tundra\n+1 [Science] from every Mine and Quarry next to Tundra\nThe amounts of bonus [Culture] and [Science] double during a Golden Age",
@@ -55,8 +55,8 @@
 	  
 	"favoredReligion": "Animism",
 
-	"outerColor": [14, 37, 97],
-	"innerColor": [255, 206, 49],
+	"outerColor": [83, 117, 131],
+	"innerColor": [253, 250, 247],
 
 	"uniqueName": "Sleep No Longer",
 	"uniqueText": "Gain +1 [Culture] from every Camp and Pasture adjacent to Tundra\n+1 [Science] from every Mine and Quarry next to Tundra\nThe amounts of bonus [Culture] and [Science] double during a Golden Age",
@@ -85,8 +85,8 @@
 	  
 	"favoredReligion": "Animism",
 
-	"outerColor": [14, 37, 97],
-	"innerColor": [255, 206, 49],
+	"outerColor": [48, 95, 200],
+	"innerColor": [230, 225, 220],
 
 	"uniqueName": "Hell With The Fire Out",
 	"uniqueText": "Gain +1 [Culture] from every Camp and Pasture adjacent to Tundra\n+1 [Science] from every Mine and Quarry next to Tundra\nThe amounts of bonus [Culture] and [Science] double during a Golden Age",
@@ -116,8 +116,8 @@
 	  
 	"favoredReligion": "Animism",
 
-	"outerColor": [14, 37, 97],
-	"innerColor": [255, 206, 49],
+	"outerColor": [47, 87, 53],
+	"innerColor": [247, 213, 171],
 
 	"uniqueName": "Micos",
 	"uniqueText": "Gain +1 [Culture] from every Camp and Pasture adjacent to Tundra\n+1 [Science] from every Mine and Quarry next to Tundra\nThe amounts of bonus [Culture] and [Science] double during a Golden Age",

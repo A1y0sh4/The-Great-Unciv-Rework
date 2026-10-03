@@ -28,8 +28,7 @@
 	"innerColor": [255, 246, 230],
 
 	"uniqueName": "Comanchería",
-	"uniqueText": "Gain +1 [Culture] from every Camp and Pasture adjacent to Tundra\n+1 [Science] from every Mine and Quarry next to Tundra\nThe amounts of bonus [Culture] and [Science] double during a Golden Age",
-	"uniques": ["[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]>",
+	"uniques": ["[+1 Science] from every [Pasture]", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]>",
 	            "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]> <during a Golden Age>"],
 	"cities": ["Quahadi","Penateka","Yamparika","Jupe","Kotsoteka","Nokoni","Kwahihuu Ki","Pahnaixte","Hupenuu","Tenawa",
 		"Teyuwit","Pikaatamu","Saria Tuhka","Itehtah'o","Ohnonuu","Pahuraix","Pohoi","Tutsanoo Yehku","Wianuu","Tanimuu","Titchahkaynah","Suhmuhtuhka",

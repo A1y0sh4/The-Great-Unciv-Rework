@@ -1421,6 +1421,21 @@
 		"attackSound": "horse"
 	},
 	{
+		"name": "Quickstinger", 
+		"replaces": "Lancer",
+		"uniqueTo": "The Comanche",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 24,
+		"cost": 248,
+		"requiredTech": "Gunpowder",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>", "May enter foreign tiles without open borders"],
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"attackSound": "horse"
+	},
+	{
 		"name": "Cannon",
 		"unitType": "Siege",
 		"movement": 2,

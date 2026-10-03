@@ -92,7 +92,7 @@
 		"unitType": "Scout",
 		"uniqueTo": "The Shawnee",
 		"replaces": "Skirmisher",
-		"cost": 81,
+		"cost": 87,
 		"movement": 2,
 		"strength": 12,
 		"uniques": ["[+25]% Strength <in [Friendly Land] tiles>", "[+25]% Strength <in [Friendly Land] tiles> <during the [Renaissance era]>", "[+25]% Strength <during the [Renaissance era]>"],

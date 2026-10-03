@@ -1490,6 +1490,7 @@
 	{
 		"name": "Kilosh",
 		"unitType": "Ranged Gunpowder",
+		"cost": 329,
 		"range": 1,
 		"movement": 2,
 		"strength": 24,

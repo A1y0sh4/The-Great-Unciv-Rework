@@ -1488,6 +1488,21 @@
 		"attackSound": "machinegun"
 	},
 	{
+		"name": "Kilosh",
+		"unitType": "Ranged Gunpowder",
+		"range": 1,
+		"movement": 2,
+		"strength": 24,
+		"rangedStrength": 32,
+		"uniques": ["[+20]% Strength <when fighting in [Rough terrain] tiles>"],
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Ballistics",
+		"replaces": "Gatling Gun",
+		"uniqueTo": "The Modoc",
+		"upgradesTo": "Machine Gun",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Rifleman",
 		"unitType": "Gunpowder",
 		"movement": 2,

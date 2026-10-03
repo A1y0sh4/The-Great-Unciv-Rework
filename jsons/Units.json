@@ -72,6 +72,36 @@
 		"attackSound": "arrow"
 	},
 	{
+		"name": "Slinger",
+		"unitType": "Scout",
+		"uniqueTo": "Inca",
+		"replaces": "Skirmisher",
+		"cost": 66,
+		"movement": 2,
+		"range": 1,
+		"strength": 8,
+		"rangedStrength": 16,
+		"requiredTech": "Military Tactics",
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Ranger",
+		"promotions": ["Slinger Withdraw", "Scouting I"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Shemagana",
+		"unitType": "Scout",
+		"uniqueTo": "The Shawnee",
+		"replaces": "Skirmisher",
+		"cost": 81,
+		"movement": 2,
+		"strength": 12,
+		"uniques": ["[+25]% Strength <in [Friendly Land] tiles>", "[+25]% Strength <in [Friendly Land] tiles> <during the [Renaissance era]>", "[+25]% Strength <during the [Renaissance era]>"],
+		"requiredTech": "Military Tactics",
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Ranger",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Ranger",
 		"unitType": "Scout",
 		"movement": 2,
@@ -225,22 +255,6 @@
 		"promotions": ["Barrage I"],
 		"upgradesTo": "Composite Bowman",
 		"obsoleteTech": "Construction",
-		"attackSound": "arrow"
-	},
-	{
-		"name": "Slinger",
-		"unitType": "Scout",
-		"uniqueTo": "Inca",
-		"replaces": "Skirmisher",
-		"cost": 66,
-		"movement": 2,
-		"range": 1,
-		"strength": 8,
-		"rangedStrength": 16,
-		"requiredTech": "Military Tactics",
-		"obsoleteTech": "Rifling",
-		"upgradesTo": "Ranger",
-		"promotions": ["Slinger Withdraw", "Scouting I"],
 		"attackSound": "arrow"
 	},
 	{

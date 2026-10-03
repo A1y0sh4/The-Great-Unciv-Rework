@@ -489,6 +489,20 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
+		"name": "Half-Moon Church", 
+		"replaces": "Stable",
+		"uniqueTo": "The Comanche",
+		"maintenance": 1,
+		"production": 1,
+		"faith": 1,
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Pasture] tiles [in this city]", "New [Mounted] units start with [3] XP [in all cities]", "May buy [Mounted] units with [Faith] [in this city]",
+		        "Unsellable", "Provides [1] [Horses] <for [Mongolia] Civilizations> <hidden from users>",
+		"Only available <in cities with at least [3] [Population]>"],
+		"requiredTech": "Horseback Riding"
+	},
+	{
 		"name": "Courthouse",
 		"maintenance": 2,
 		"hurryCostModifier": 50,

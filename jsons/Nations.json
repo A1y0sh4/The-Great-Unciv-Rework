@@ -28,8 +28,7 @@
 	"innerColor": [255, 246, 230],
 
 	"uniqueName": "Comanchería",
-	"uniques": ["[+1 Science] from every [Pasture]", "[+1 Gold] in cities on [Plains] tiles", "[+1 Culture] in cities on [Plains] tiles <after discovering [Military Tactics]>", "[+1 Gold, +1 Culture] in cities on [Plains] tiles <after discovering [Urban Planning]>", "[+1 Gold, +1 Culture] in cities on [Plains] tiles <after discovering [Radio]>",
-	            "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]> <during a Golden Age>"],
+	"uniques": ["[+1 Science] from every [Pasture]", "[+1 Gold] in cities on [Plains] tiles", "[+1 Culture] in cities on [Plains] tiles <after discovering [Military Tactics]>", "[+1 Gold, +1 Culture] in cities on [Plains] tiles <after discovering [Urban Planning]>", "[+1 Gold, +1 Culture] in cities on [Plains] tiles <after discovering [Radio]>"],
 	"cities": ["Quahadi","Penateka","Yamparika","Jupe","Kotsoteka","Nokoni","Kwahihuu Ki","Pahnaixte","Hupenuu","Tenawa",
 		"Teyuwit","Pikaatamu","Saria Tuhka","Itehtah'o","Ohnonuu","Pahuraix","Pohoi","Tutsanoo Yehku","Wianuu","Tanimuu","Titchahkaynah","Suhmuhtuhka",
 		"Pibianigwai","Motso Tu","Wa'wai"],
@@ -127,8 +126,7 @@
 
 	"uniqueName": "Hell With The Fire Out",
 	"uniqueText": "Gain +1 [Culture] from every Camp and Pasture adjacent to Tundra\n+1 [Science] from every Mine and Quarry next to Tundra\nThe amounts of bonus [Culture] and [Science] double during a Golden Age",
-	"uniques": ["[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]>",
-	            "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]> <during a Golden Age>"],
+	"uniques": ["[+10]% Strength <for [Land] units> <when defending> <in [Hill] tiles>", "[+10]% Strength <for [Land] units> <when defending> <in [Hill] tiles> <in [Friendly Land] tiles>"],
 	"cities": ["Lava Beds","Agawesh","Kumbat","Pashha","Wachamshwash","Nushalt-Hagak-ni","Kalelk","Nakoshkeni","Wukakeni","Keuchishkeni",
 		"Kawa","Leush","Waisha","Welwashkeni","Yulalona","Yaneks","Shapashkeni","Keshlakchuis","Sputuishkeni","Stuikishkeni","Yainax","Bloody Point",
 		"Lost River","Tule Lake","Dry Lake", "Shasta", "Land's Ranch", "Dokdokwas", "Hardin Butte", "Sand Butte"],

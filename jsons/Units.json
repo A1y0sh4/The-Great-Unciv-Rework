@@ -1200,6 +1200,22 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Raider",
+		"unitType": "Melee Water",
+		"replaces": "Caravel",
+		"uniqueTo": "The Muskogee",
+		"movement": 5,
+		"cost": 151,
+		"strength": 16,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Privateer",
+		"obsoleteTech": "Navigation",
+		"uniques": ["Can move after attacking", "Cannot enter ocean tiles", "[+50]% Yield from pillaging tiles", "[+50]% Health from pillaging tiles"],
+		"promotions": ["Coastal Raider I"],
+		"hurryCostModifier": 30,
+		"attackSound": "cannon"
+	},
+	{
 		"name": "Turtle Ship",
 		"unitType": "Melee Water",
 		"replaces": "Caravel",

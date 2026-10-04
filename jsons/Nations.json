@@ -24,7 +24,7 @@
 	  
 	"favoredReligion": "Animism",
 
-	"outerColor": [94, 0, 7],
+	"outerColor": [94, 30, 7],
 	"innerColor": [255, 246, 230],
 
 	"uniqueName": "Comanchería",
@@ -121,7 +121,7 @@
 	  
 	"favoredReligion": "Animism",
 
-	"outerColor": [48, 95, 200],
+	"outerColor": [80, 95, 200],
 	"innerColor": [230, 225, 220],
 
 	"uniqueName": "Hell With The Fire Out",
@@ -191,7 +191,7 @@
 	  
 	"favoredReligion": "Animism",
 
-	"outerColor": [47, 87, 53],
+	"outerColor": [47, 40, 53],
 	"innerColor": [247, 213, 171],
 
 	"uniqueName": "Micos",

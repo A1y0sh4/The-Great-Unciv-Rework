@@ -1111,6 +1111,20 @@
 		"requiredTech": "Education"
 	},
 	{
+		"name": "Clan School",
+		"replaces": "University",
+		"uniqueTo": "The Muskogee ",
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 20},
+		"specialistSlots": {"Scientist": 1},
+		"requiredBuilding": "Library",
+		"cost": 81,
+		"maintenance": 0,
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "Gain a free [Workshop] [in this city] <upon signing a peace treaty with [Major] Civilizations>", "[+30]% [Science] [in this city] <after discovering [Printing Press]>",
+		"Only available <in cities with at least [5] [Population]>", "Shown while unbuilable"],
+		"requiredTech": "Writing"
+	},
+	{
 		"name": "Oxford University",
 		"science": 3,
 		"culture": 2,

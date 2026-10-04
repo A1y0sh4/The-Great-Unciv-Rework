@@ -195,9 +195,9 @@
 	"innerColor": [247, 213, 171],
 
 	"uniqueName": "Micos",
-	"uniqueText": "Gain +1 [Culture] from every Camp and Pasture adjacent to Tundra\n+1 [Science] from every Mine and Quarry next to Tundra\nThe amounts of bonus [Culture] and [Science] double during a Golden Age",
-	"uniques": ["[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]>",
-	            "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]> <during a Golden Age>"],
+	"uniqueText": "Military units gain +30% Strength when fighting in Marsh, Lake or Oasis tiles\nMilitary units gain 100 HP and 3 XP upon losing a city",
+	"uniques": ["[+30]% Strength <for [Military] units> <when fighting in [Marsh] tiles>", "[+30]% Strength <for [Military] units> <when fighting in [Lake] tiles>", "[+30]% Strength <for [Military] units> <when fighting in [Oasis] tiles>",
+	            "[Military] units gain the [To the World's End] promotion <upon losing a city>"],
 	"cities": ["Miccosukee","Tallahassee","Fowltown","Tallapoosa","Pensacola","Ochlockonee","Hitichiti","Tuckabatchee","Wakulla","Chattahoochee",
 		"Waukeenah","Coushatta","Apalachicola","Wetumpka","Cusseta","Oconee","Muklassa","Steinhatchee","Chehaw","Eufaula","Ocheesee","Wacissa",
 		"Apalachee","Okchai","Ocmulgee", "Sawokli", "Wewahitchka", "Okfuskee", "Yamasee", "Tamali"],

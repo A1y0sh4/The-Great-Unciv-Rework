@@ -1113,7 +1113,7 @@
 	{
 		"name": "Clan School",
 		"replaces": "University",
-		"uniqueTo": "The Muskogee ",
+		"uniqueTo": "The Muskogee",
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 20},
 		"specialistSlots": {"Scientist": 1},

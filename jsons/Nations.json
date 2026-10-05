@@ -122,7 +122,7 @@
 	"favoredReligion": "Animism",
 
 	"outerColor": [80, 95, 200],
-	"innerColor": [230, 225, 220],
+	"innerColor": [180, 225, 220],
 
 	"uniqueName": "Hell With The Fire Out",
 	"uniqueText": "Land Units gain 10% Strength when defending in Hill tiles (double bonus when defending in Friendly Land tiles)\nGain bonus City Strength from defensive buildings for every Hill and Mountain tiles owned",
